@@ -1,0 +1,105 @@
+# Journal
+# revid 24582  2026-08-28T02:45:52Z  by Darkhooper
+# 备注: 0.19
+# sha256 d45bdb0bd1596ab08c69bf2d8a8e8e5b38cd3169bd04695e3fa288f8da8e89a1  bytes 4935
+# 源: https://phasmophobia.fandom.com/api.php[[File:Journal.png|right|frameless|300x300px]]
+The '''Journal''' is the main piece of equipment in ''[[Phasmophobia]]''. It contains important information relevant to Ghosts, Evidence, Media and mission data. It is divided up into 5 categories with specific focuses, used to aid players on cases. The journal is always accessible to the player any time while in a [[contract]] or in the [[lobby]].
+
+==Usage==
+The Journal can be opened by pressing the {{Control|Journal}} button, or grabbing the book from the belt on VR. Upon opening it for the first time, players will be greeted with a contents page outlining each section of the book. Several bookmarks are also visible at the top of the journal, allowing players to quickly switch between sections.
+
+===Home===
+This section outlines the fundamentals and basic game mechanics in ''Phasmophobia'', including subsections on [[sanity]] and [[equipment|tools]].
+
+===Items===
+This section provides information on payment bonuses, [[cursed possession]]s, and gathering [[evidence]].
+
+===Overview===
+The Overview page is a single page detailing information unique to the specific case a player is on. From here, players can view:
+*''The [[Ghost#Ghost's name|ghost's name]] and its associated gender''
+*''Who it responds to on the [[Spirit Box]]''
+*''Any collected items such as [[key]]s or the [[bone]]''
+*''All optional [[objectives]]''
+
+This allows players to check objectives and case information on-the-go without needing to constantly run back to the [[truck]].
+
+===Media===
+{{See also|Media}}
+This section is a 5-page section containing all of the photos, videos, and sounds that players have collected on a case. Several pieces of media can be deleted per contract, depending on the [[difficulty]]:
+*0x - 1.99x: 5 available deletions
+*2x - 2.99x: 4 available deletions
+*3x or higher: 3 available deletions
+
+===Evidence===
+{{See also|Evidence}}
+The evidence page shows all potential evidence items and the ghosts that correspond to them. When hovering the cursor over a ghost type, its associated evidence will be highlighted. Evidence can be either checked off or crossed out, which in turn causes ghosts on the page to grey out, signifying they are no longer possible suspects. Ghost types can either be selected by circling them, or crossed out to eliminate them as suspects independently from the evidence list. Colored lines will indicate what the other players have selected or crossed out. The [[Spirit]] is selected as the default ghost.
+
+===Ghosts===
+{{See also|Ghost}}
+The Ghosts page contains a list of all 30 available ghosts in ''Phasmophobia''. Clicking onto a specific ghost will cause the rightmost page to display its strengths, weaknesses, and potential evidence items.
+
+===Pause menu===
+Shows the pause menu, also reachable by pressing the {{Control|Pause}} button. The player can also access most in-game [[options]]. This will also show the ''Recent Players'', ''Blocked Players'', and ''Statistics'' bookmarks.
+
+===Recent players===
+This shows a two-page list of all recent players that have joined the same lobby as the user. One can access the Steam profile of a player, add them as a friend, or report them via an in-game system.
+
+===Blocked players===
+This shows a two-page list of all blocked players. One can access the Steam profile of a player, or unblock them.
+
+===Statistics===
+This shows various statistics of all previous games since [[0.7.0]].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+! rowspan="4" |[[0.3.1.0]]
+|Updated the journal for easier use and navigation.
+|-
+|Evidence can now be selected and crossed off individually.
+|-
+|Integrated the pause menu into the journal.
+|-
+|Settings can now be changed through the journal in-game.
+|-
+![[0.6.2.0]]
+|Ghosts can now be crossed off.
+|-
+![[0.7.0]]
+|The journal is now accessible in the lobby.
+|-
+![[0.7.1.4]]
+|The default ghost selection is now circled.
+|-
+![[0.8.0]]
+|Added a Payments section.
+|-
+![[0.9.5.0]]
+|Reduced the brightness of the Journal.
+|-
+![[0.10.1.0]]
+|Two photos can now be removed from the journal.
+|-
+![[0.11.0]]
+|Changed the font of the journal to improve localisation support across all languages.
+|-
+![[0.13.0]]
+|Replaced the Photos section with the Media section.
+|-
+![[0.13.1.0]]
+|The number of available media deletions is now linked to the difficulty type or custom game difficulty multiplier implemented.
+|-
+![[0.17.0]]
+|The Journal will now appear in game when being used, rather than being a separate UI item.
+|-
+! rowspan="3" |[[0.19.0]]
+|The Journal will now display other player selections of Evidence and Ghost Type.
+|-
+|The Keys section in the Journal has been replaced with Items We’ve Found, this new section will show keys, the bone and seasonal event collectables.
+|-
+|The Evidence page will now highlight the required Ghost evidence when the player selects a Ghost type.
+|}
+[[Category:Gameplay]]
+[[fr:Journal]]
+[[ru:Журнал]]

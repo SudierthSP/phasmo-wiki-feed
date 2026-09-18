@@ -1,0 +1,63 @@
+# 0.7.0.2
+# revid 23965  2026-06-28T21:41:45Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 eb33fa2f0b81270dbb99c7097485e40323f06b97761d082d6f72891b6a7d8fd7  bytes 2884
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=30 September 2022
+  | previous_major_version=[[0.7.0]]
+  | previous_minor_version=[[0.7.0.1]]
+  | next_minor_version=[[0.7.0.3]]
+  | next_major_version=[[0.8.0]]
+}}The '''0.7.0.2''' update is a minor update to the game released on 30 September 2022. This update fixes several other bugs related to the [[0.7.0|Apocalypse update]] that were not addressed by the previous patch.<ref>https://store.steampowered.com/news/app/739630/view/3303977270406540575</ref>
+
+==Changes==
+===General===
+*Replaced the “change” button in difficulty selection with arrow buttons to make navigation easier
+*Moved the lamp, glowsticks, clipboards, and boombox in the lobby room so that VR players can reach them easier
+*Moved fuse box icons so they're easier to see on the map
+*Significant performance improvements to weather, especially light rain
+*Lowered the volume for heavy rain and thunder
+*You will now be defaulted to the first loadout
+*Adjusted the lined paper’s brightness
+*Player volumes now start at 50%
+
+==Bug fixes==
+===General===
+*You will no longer get stuck on the main menu if a game starts while you are on the shop or contract vote screen
+*Fixed several bugs with the lobby UI
+*Player bodies will now always disappear when they leave
+*You will no longer be set to unready when there are minor lobby changes
+*The blue ball in the main menu will now be thrown properly
+*The invite code will no longer show for single-player and public games
+*You can now buy equipment if you have the exact amount required
+*The challenge clipboards will now be held in the correct place in VR
+*VR head and controller movement options are no longer inverted
+*You will now be given your equipment back if you crash
+*The voted map will no longer be set to random if the host leaves
+*The voted map will no longer show the wrong map
+*You can now click all main menu UI on 4:3 aspect ratio
+*The Recent Players list will now add players when it fills up
+
+===[[Camp Woodwind]]===
+*You can no longer be killed when outside the gate
+*The ghost can no longer spawn behind the tables in the games tent
+*Fires will now extinguish when walking out of the truck when in heavy rain
+*Leaf piles will no longer disappear when moving away from them
+
+===[[Sunny Meadows Mental Institution]]===
+*Significantly lowered the RAM usage
+*Hallway doors will now have fingerprints in the correct position
+*Removed the black box in the courtyard steps
+*Increased the size of the collider for using the fuse box handle
+*Scratches now reveal behind the wall crucifixes
+*Wall crucifixes are no longer usable by players
+*Removed a wheelchair in the basement storage to stop players getting stuck
+*Renamed nurses room to match the map text (Infirmary)
+*Removed infirmary from Female Wing restricted map
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.7.0.2]]
+[[ru:0.7.0.2]]

@@ -1,0 +1,30 @@
+# 0.10.1.2
+# revid 23879  2026-06-28T21:35:24Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 b8caf23c5d7d418cea3acc8c30062b490e2b07f44e28692b25a960f0df16a2ae  bytes 1017
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=15 August 2024
+ | previous_major_version=[[0.10.0]]
+ | previous_minor_version=[[0.10.1.1]]
+ | next_minor_version=
+ | next_major_version=[[0.11.0]]
+}}'''0.10.1.2''' is a hotfix released on 15 August 2024.<ref>[https://store.steampowered.com/news/app/739630/view/6692998230483065042 ''Photo Deletion and Vivox | Hotfix v0.10.1.2''. 15 August 2024 (On Steam).]</ref> It fixes several important bugs with the new voice system.
+
+==Fixes==
+*The ghost can now hear Steam Deck players
+*Voice chat will now work on Steam Deck
+*The gamepad cursor is no longer offset in the journal
+*If you mute a player, they will now be muted in global chat
+*You can now play if you fail to connect to the voice server
+*The ghost can now hear you if you change your microphone in singleplayer
+*Photos can now be removed if a player leaves
+
+==Known Issues==
+*Vosk voice recognition does not work on Steam Deck
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.10.1.2]]
+[[ru:0.10.1.2]]

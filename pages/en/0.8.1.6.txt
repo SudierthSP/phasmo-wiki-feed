@@ -1,0 +1,20 @@
+# 0.8.1.6
+# revid 23990  2026-06-28T21:43:54Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 6f2ba9f164e322b6c3282145a36a38eeb890d3ef48dc42e8335311e79d14ca38  bytes 425
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=12 April 2023
+  | previous_major_version=[[0.8.0]]
+  | previous_minor_version=[[0.8.1.5]]
+  | next_minor_version=[[0.8.1.7]]
+  | next_major_version=[[0.9.0]]
+}}'''0.8.1.6''' is a minor update released on 12 April 2023. This update removes the Easter event.
+
+== Changes ==
+* Removed Easter 2023 event.
+<br><br><br><br><br>
+
+{{Versions}}
+[[Category:Development]]
+[[fr:0.8.1.6]]
+[[ru:0.8.1.6]]

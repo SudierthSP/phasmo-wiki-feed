@@ -1,0 +1,5 @@
+# Closet
+# revid 20559  2025-04-06T23:57:25Z  by Darkhooper
+# 备注: Changed redirect target from [[Guides/Surviving a hunt#Hiding]] to [[Hiding Spots]]
+# sha256 bc1363a99bd89d9952ef64509b360d09bb9ca553b10849ddca8b0aa1931a1c70  bytes 26
+# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Hiding Spots]]

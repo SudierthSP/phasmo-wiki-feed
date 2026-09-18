@@ -1,0 +1,37 @@
+# 0.6.1.5
+# revid 23955  2026-06-28T21:41:01Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 312ff86cd5b994d86d2169993f51d21c37afe0d5c99ba994eb26e7fc3891259a  bytes 1547
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=21 April 2022
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.1.4]]
+  | next_major_version=[[0.7.0]]
+  | next_minor_version=[[0.6.1.6]]
+}}The '''0.6.1.5''' update is a minor update to the game released on 21 April 2022.<ref>https://store.steampowered.com/news/app/739630/view/3174484195240196297</ref> This update removes the remaining eggs left over from the Easter event, changes some graphical effects, and fixes bugs. Two hotfixes were applied on the same day to fix the version number being wrong, as well as tarot cards always being spawned as a cursed possession.
+
+== Changes ==
+=== Easter egg hunt ===
+*Removed leftover eggs in Bleasdale and Grafton
+
+=== Gameplay ===
+*Further improved water/dirty water effects to increase distinction between the two
+*Greek font readability improved
+**Further updates will fix multiple font issues on most languages
+
+== Bug fixes ==
+*The flame shader will no longer render after some opaque geometry
+*You can no longer pull small tent doors a long way
+*Tent doors now rotate with your hand in VR
+*Improved tarot card and maple basketballs held position in VR
+*Throwing a tarot card no longer floats away when thrown mid animation in VR
+*Opening the Journal whilst sprinting no longer drains stamina
+*The ghost will now open closet doors if you are hiding behind them but not inside the closet
+*The voice recognition test will now work in all languages
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.6.1.5]]
+[[ru:0.6.1.5]]

@@ -1,0 +1,534 @@
+# Ghost
+# revid 24859  2026-09-18T05:11:51Z  by Darkhooper
+# 备注: clarified when the gender is chosen
+# sha256 82212df1819371107b8e2d6c7b2bfe0c72f57888a7c656e62400fb50ebbf6a63  bytes 25386
+# 源: https://phasmophobia.fandom.com/api.php[[File:2.png|alt=|right|310x310px]]
+'''Ghosts''' are the main focus of ''Phasmophobia''. Each ghost has a set of unique characteristics, including personal identifiers, abilities, and [[evidence]]s. Players must investigate some of these aspects to correctly identify the ghost. The ghost can [[Interaction|interact]] with its environment or perform [[ghost event]]s, and even attempt to kill the player by initiating [[hunt]]s.
+
+==Characteristics==
+Each ghost in a contract has a randomly generated unique identity consisting of the type of the ghost, gender, name, age, length of death, shyness (with respect to the [[Spirit Box]]), and a [[Ghost Model|physical model]] that is determined at the start of the contract. Most of its general behaviour (such as movement speed, hunting patterns, [[activity]], etc.) is based on the type of ghost, except for its willingness to respond to the spirit box in the presence of multiple people in the room, which is randomly set.
+
+==Behaviour==
+Each contract, one ghost will spawn within the map in a certain room. This room is very often the favourite room, and the ghost will wander back to it if not the case. Ghosts cannot exit the investigation area; they cannot walk out of the exit doors even if they are wide open.
+
+After an [[exit door]] is opened for the first time, the ghost will be "awoken" and now be able to interact with the environment or the player by choosing actions requiring the ghost to be in a specific state. The ghost's current state can last for a maximum of 30 seconds (except the hunt state which can last longer). The following is a non-exhaustive list of states that the ghost can enter (these terms may not be official):
+*'''Idle:''' The default state where the ghost stays still for 2-6 seconds before choosing one of the following actions
+*'''[[Roaming]]:''' The ghost travels to another spot
+**'''D.O.T.S:''' If the ghost has [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector evidence]], it will occasionally enter this state, and be visible via a [[D.O.T.S. Projector]] if it passes through its light
+*'''[[Ghost Room|Favourite Room]]:''' The ghost travels to a spot within its favourite room
+*'''[[Interaction]]:''' The ghost interacts with an object nearby
+*'''[[Ability]]:''' The ghost chooses one of the following three actions:
+**'''[[Fuse Box]]:''' The ghost turns the fuse box on or off
+**'''[[Ghost Event]]:''' The ghost performs a ghost event
+**'''Ability Proper:''' The ghost uses a specified ability, if any
+*'''[[Hunt]]:''' The ghost initiates a hunt
+
+It is important to note that certain phenomena often are generally not limited to one single type of ghost. For example, all ghosts can throw objects around in a room, manipulate doors, make [[Dirty Water|dirty water]] appear in [[sink]]s, and present itself in any form. However, certain ghosts are more likely to exhibit certain behaviours than others or have unique abilities. For example, a [[Poltergeist]] will be more likely to throw objects and can throw several at once.
+
+===Visibility===
+In normal gameplay, ghosts are usually invisible and will only physically appear during (manifestation) ghost events and hunts. In a hunt, the ghost will flicker, repeatedly appearing and disappearing at a variable rate. For ghost events, the ghost can be fully visible, appear as a shadow, or have a dark translucent-like appearance. While the possible [[Ghost_Model|models]] a ghost can appear as depends on whether it is a female or male ghost, the ghost's specific model does not matter in determining what type of ghost it is, except for the [[Banshee]] and the [[Dayan]], which are only female, and while this can be easily identified through the [[#Ghost's name|ghost's name]] before ever seeing the ghost, seeing its model serves as a good verification check in case of androgynous names.
+
+Ghosts with the [[D.O.T.S Projector (Evidence)|D.O.T.S Projector evidence]] can be visible as a D.O.T.S silhouette through a [[video camera]] or to the naked eye (except for the [[Goryo]]) while passing through a [[D.O.T.S. Projector]]'s light during a D.O.T.S state.
+
+===Interference===
+When a ghost manifests or hunts, all electronic [[equipment]] (brought in from the [[truck]]), such as [[flashlight]]s and [[Voice chat#Global chat|global chat]], will malfunction within a 10-metre radius for most ghosts (15 metres for the [[Raiju]]). Room lights may also flicker at the same distance.
+
+===Sounds===
+When a ghost event or hunt occurs, the ghost will produce a vocalization that may differ between ghost events (but not hunts). If it is walking during such events (or walks after stepping in [[salt]]), it will also produce footstep sounds. For most ghosts, these sounds can be heard from up to 20 meters away by the player.
+
+There are seven male and six female sounds produced by the ghosts during manifestations:
+{| class=article-table
+!Male
+!Female
+|-
+|[[File:Male Ghost Hunting 1.wav]][[File:Male Ghost Hunting 2.wav]][[File:Male Ghost Hunting 3.wav]][[File:Male Ghost Hunting 4.wav]][[File:Male Ghost Hunting 5.wav]][[File:Male Ghost Hunting Grim.wav]][[File:Male Ghost Hunting Whisper.wav]]
+|[[File:Female Ghost Hunting 1.wav]][[File:Female Ghost Hunting 2.wav]][[File:Female Ghost Hunting 3.wav]][[File:Female Ghost Hunting 4.wav]][[File:Female Ghost Hunting 5.wav]][[File:Female Ghost Hunting Screams.wav]]
+|}
+Every contract, the ghost gets a random but specific hunting sound. In every following hunt it will use the very same sound again. Remembering this sound from a former hunt can help the player tell a [[hunt]] apart from a [[ghost event]].
+
+Ghosts will also produce a "[[Paranormal Sound|paranormal sound]]" (groaning/laughing/talking/whisper) every 80 - 127 seconds (every 64 - 127 seconds for the [[Myling]]) that can only be heard through a [[Parabolic Microphone]] or a [[Sound Recorder]]. These paranormal sounds are different from ghost event/hunt vocalizations.
+
+If a player is within 10 metres of the ghost (15 metres for the Raiju) and would be considered "visible" to the ghost when not considering furniture, the player will hear their own heartbeat. Note that this does not necessarily correlate with actual line-of-sight.
+
+==Types of ghosts==
+There are currently 30 types of ghosts in the game, appearing in the [[journal]] in alphabetical order:
+{| class="article-table" style="text-align: center" style="margin: auto;"
+| [[Aswang]] || [[Banshee]] || [[Dayan]]
+|-
+| [[Deildegast]] || [[Demon]] || [[Deogen]]
+|-
+| [[Gallu]] || [[Goryo]] || [[Hantu]]
+|-
+| [[Jinn]] || [[Kormos]] || [[Mare]]
+|-
+| [[Moroi]] || [[Myling]] || [[Obake]]
+|-
+| [[Obambo]] || [[Oni]] || [[Onryo]]
+|-
+| [[Phantom]] || [[Poltergeist]] || [[Raiju]]
+|-
+| [[Revenant]] || [[Shade]] || [[Spirit]]
+|-
+| [[Thaye]] || [[The Mimic]] || [[The Twins]]
+|-
+| [[Wraith]] || [[Yokai]] ||[[Yurei]]
+|}
+<br>All ghosts have an equal chance of being chosen per contract in all difficulties, except the Deogen, that will not be chosen if the host is below Prestige 0, Level 30. Otherwise, it is normal and expected for the number of ghosts encountered by type to vary, the sums of which will roughly be shaped like a [[wikipedia:Normal distribution|bell curve graph]] with an increasing number of rounds played. Historically, newly added ghosts had an increased chance of being chosen during the first few weeks of their introduction.
+
+Depending on its type, the ghost will have unique strengths and weaknesses. The following table summarizes these:
+{| class="fandom-table"
+!Ghost type
+!Strengths
+!Weaknesses
+|-
+![[Aswang]]
+|Will accelerate faster with line-of-sight than any other ghost.<br>Can sometimes hunt with zero grace period.
+|Cannot kill players in official hiding spots.<br>Slower hunt base speed.
+|-
+![[Banshee]]
+|Will target a chosen player, assuming said player is inside.<br>Increased chance of performing a singing ghost event.
+|Has several distinctive wails on the [[Parabolic Microphone]] and the [[Sound Recorder]].
+|-
+![[Dayan]]
+|Moves faster during hunts and hunts sooner when a player moves near the Dayan.
+|Moves slower during hunts and hunts later when a player stands still near the Dayan.
+|-
+![[Deildegast]]
+|Moves significantly faster at the start of the contract. 
+|Becomes slower when on-site props are moved.
+|-
+![[Demon]]
+|[[Incense]] is less effective, preventing a hunt for less time.<br>Can rarely initiate a hunt at '''any''' sanity level.
+|[[Crucifix]] range is 50% larger than placement range indicator.
+|-
+![[Deogen]]
+|Always knows where the player is during a hunt and moves very quickly toward its victim.
+|Moves extremely slowly once near its victim.
+|-
+![[Gallu]]
+|Becomes aggressive when protective equipment is used.
+|Becomes less aggressive after a hunt.
+|-
+![[Goryo]]
+|Can only enter a D.O.T.S. state when no player is in the same room.<br>Its D.O.T.S. silhouette can only be seen through a [[Video Camera]].
+|Cannot wander far from its room, or change favorite rooms.
+|-
+![[Hantu]]
+|Lower temperatures allow the Hantu to move faster during hunts.
+|Warmer areas slow the Hantu's movement while hunting.<br>Will produce freezing breath during a hunt if the fuse box is off.<br>Will never turn the fuse box on.
+|-
+![[Jinn]]
+|Travels at a faster speed if a distant player is in line of sight while the fuse box is on.<br>Can occasionally drain large amounts of sanity from a nearby player.
+|Cannot use its ability if the fuse box is off.<br>Will never turn the fuse box off directly.
+|-
+![[Kormos]]
+|Can detect a player's footsteps from far away during a hunt and hunts earlier if players sprint nearby.
+|Can nearly not detect the player visually.
+|-
+![[Mare]]
+|Can hunt at a higher sanity in the dark.
+|Has a lower hunt sanity threshold in the light.<br>Will occasionally turn lights off immediately after a player has turned them on.<br>Will never turn a light on.
+|-
+![[Moroi]]
+|Moves noticeably faster at low average sanity.<br>Can curse players, making them lose sanity quicker than usual while in the investigation zone.
+|Incense blinds the ghost for 50% longer during hunts.
+|-
+![[Myling]]
+|Only becomes audible during a hunt at a closer range than other ghosts.
+|Produces paranormal sounds more frequently on the Parabolic Microphone.
+|-
+![[Obake]]
+|Has a chance to not leave fingerprints when interacting with things.<br>May cause existing fingerprints to disappear sooner than usual.
+|Has a small chance of leaving special fingerprints.<br>Can briefly shapeshift into another model during a hunt.
+|-
+![[Obambo]]
+|Hunts earlier and moves faster in its "aggressive" state.
+|Hunts later and moves slower in its "calm" state.<br>Hunts initiated in its "aggressive" state have a reduced duration.
+|-
+![[Oni]]
+|Increased activity when players are nearby.
+|More visible during hunts.<br>Cannot perform the "airball" ghost event.
+|-
+![[Onryo]]
+|Will attempt to hunt after it has extinguished three flames regardless of average sanity.
+|A nearby lit flame will prevent the Onryo from hunting, just like a [[crucifix]].
+|-
+![[Phantom]]
+|Looking at a Phantom and hearing heartbeat sounds will drain the player's [[sanity]].<br>Will occasionally walk to a random player.
+|Taking a [[Photo Camera|photo]] of the Phantom will cause it to disappear.<br>Less visible during hunts.
+|-
+![[Poltergeist]]
+|Capable of throwing multiple objects at once, draining [[sanity]].<br>Can throw objects at high velocities.
+|Becomes powerless with no throwables nearby.
+|-
+![[Raiju]]
+|Moves faster near active electronic equipment.
+|Disrupts electronic equipment from further away when it hunts.
+|-
+![[Revenant]]
+|Moves significantly faster when a player is detected during a hunt.
+|Moves very slowly when not detecting a player.
+|-
+![[Shade]]
+|Less likely to perform interactions.
+|Cannot hunt if people are nearby.
+|-
+![[Spirit]]
+|No strength.
+|[[Incense]] is more effective, preventing a hunt for longer.
+|-
+![[Thaye]]
+|Moves faster during a hunt and much more active in general at the beginning of a contract.
+|Becomes slower and less active over time when players are nearby.
+|-
+![[The Mimic]]
+|Can mimic the abilities and traits of other ghosts.
+|Will present fake [[Ghost Orb]]s as secondary evidence.
+|-
+![[The Twins]]
+|Either twin may start a hunt, though not at the same time.<br>One twin is slow, the other is fast.
+|Will often interact with the environment at the same time but usually in different places.
+|-
+![[Wraith]]
+|Cannot be tracked by footsteps.<br>Will occasionally teleport to a random player.
+|Will not step in salt.
+|-
+![[Yokai]]
+|Talking in the same room as a Yokai temporarily allows it to hunt at a much higher sanity threshold than usual.
+|Can only hear players within a short radius during a hunt.
+|-
+![[Yurei]]
+|Can quickly drain sanity from nearby players.
+|Smudging the Yurei will temporarily trap it and reduce how often it wanders.<br>Using its ability causes it to slam doors.
+|}
+
+==Evidence==
+Please see [[Evidence]] or a ghost's page for detailed information about identifying different ghost types.
+
+{| class="sortable wikitable" style="text-align:center"
+!Ghost
+![[File:EMFReader_Render.png|24x24px|link=EMF Level 5]][[EMF Level 5|EMF&nbsp;5]]
+![[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]][[Ghost Orb|Orb]]
+![[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]][[Spirit Box (Evidence)|Spirit&nbsp;Box]]
+![[File:Thermometer_Render.png|24x24px|link=Freezing Temperatures]][[Freezing Temperatures|Freezing]]
+![[File:Fingerprints_3.png|24x24px|link=Ultraviolet]][[Ultraviolet]]
+![[File:ClosedBook_Render.png|24x24px|link=Ghost Writing]][[Ghost Writing|Writing]]
+![[File:DOTS_projector_sprite.png|24x24px|link=D.O.T.S. Projector (Evidence)]][[D.O.T.S. Projector (Evidence)|D.O.T.S]]
+|-
+| style="text-align:left;" |[[Aswang]]|| || || ||[[File:Thermometer_Render.png|24x24px|link=Freezing Temperatures]]|| ||[[File:ClosedBook_Render.png|24x24px|link=Ghost Writing]]||[[File:DOTS_projector_sprite.png|24x24px|link=D.O.T.S. Projector (Evidence)]]
+|-
+| style="text-align:left;" |[[Banshee]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]]|| || ||[[File:Fingerprints_3.png|24x24px|link=Ultraviolet]]|| ||[[File:DOTS_projector_sprite.png|24x24px|link=D.O.T.S. Projector (Evidence)]]
+|-
+| style="text-align:left;" |[[Dayan]]||[[File:EMFReader_Render.png|24x24px|link=EMF Level 5]]||[[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]]||[[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]]|| || || ||
+|-
+| style="text-align:left;" |[[Deildegast]]||[[File:EMFReader_Render.png|24x24px|link=EMF Level 5]]|| || || || ||[[File:ClosedBook_Render.png|24x24px|link=Ghost Writing]]||[[File:DOTS_projector_sprite.png|24x24px|link=D.O.T.S. Projector (Evidence)]]
+|-
+| style="text-align:left;" |[[Demon]]|| || || ||[[File:Thermometer_Render.png|24x24px|link=Freezing Temperatures]]||[[File:Fingerprints_3.png|24x24px|link=Ultraviolet]]||[[File:ClosedBook_Render.png|24x24px|link=Ghost Writing]]||
+|-
+| style="text-align:left;" |[[Deogen]]|| || ||[[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]]|| || ||[[File:ClosedBook_Render.png|24x24px|link=Ghost Writing]]||[[File:DOTS_projector_sprite.png|24x24px|link=D.O.T.S. Projector (Evidence)]]
+|-
+| style="text-align:left;" |[[Gallu]]||[[File:EMFReader_Render.png|24x24px|link=EMF Level 5]]|| ||[[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]]|| ||[[File:Fingerprints_3.png|24x24px|link=Ultraviolet]]|| ||
+|-
+| style="text-align:left;" |[[Goryo]]||[[File:EMFReader_Render.png|24x24px|link=EMF Level 5]]|| || || ||[[File:Fingerprints_3.png|24x24px|link=Ultraviolet]]|| ||[[File:DOTS_projector_sprite.png|24x24px|link=D.O.T.S. Projector (Evidence)]]
+|-
+| style="text-align:left;" |[[Hantu]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]]|| ||[[File:Thermometer_Render.png|24x24px|link=Freezing Temperatures]]||[[File:Fingerprints_3.png|24x24px|link=Ultraviolet]]|| ||
+|-
+| style="text-align:left;" |[[Jinn]]||[[File:EMFReader_Render.png|24x24px|link=EMF Level 5]]|| || ||[[File:Thermometer_Render.png|24x24px|link=Freezing Temperatures]]||[[File:Fingerprints_3.png|24x24px|link=Ultraviolet]]|| ||
+|-
+| style="text-align:left;" |[[Kormos]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]]||[[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]]|| ||[[File:Fingerprints_3.png|24x24px|link=Ultraviolet]]|| ||
+|-
+| style="text-align:left;" |[[Mare]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]]||[[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]]|| || ||[[File:ClosedBook_Render.png|24x24px|link=Ghost Writing]]||
+|-
+| style="text-align:left;" |[[Moroi]]|| || ||[[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]]||[[File:Thermometer_Render.png|24x24px|link=Freezing Temperatures]]|| ||[[File:ClosedBook_Render.png|24x24px|link=Ghost Writing]]||
+|-
+| style="text-align:left;" |[[Myling]]||[[File:EMFReader_Render.png|24x24px|link=EMF Level 5]]|| || || ||[[File:Fingerprints_3.png|24x24px|link=Ultraviolet]]||[[File:ClosedBook_Render.png|24x24px|link=Ghost Writing]]||
+|-
+| style="text-align:left;" |[[Obake]]||[[File:EMFReader_Render.png|24x24px|link=EMF Level 5]]||[[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]]|| || ||[[File:Fingerprints_3.png|24x24px|link=Ultraviolet]]|| ||
+|-
+| style="text-align:left;" |[[Obambo]]|| || || || ||[[File:Fingerprints_3.png|24x24px|link=Ultraviolet]]||[[File:ClosedBook_Render.png|24x24px|link=Ghost Writing]]||[[File:DOTS_projector_sprite.png|24x24px|link=D.O.T.S. Projector (Evidence)]]
+|-
+| style="text-align:left;" |[[Oni]]||[[File:EMFReader_Render.png|24x24px|link=EMF Level 5]]|| || ||[[File:Thermometer_Render.png|24x24px|link=Freezing Temperatures]]|| || ||[[File:DOTS_projector_sprite.png|24x24px|link=D.O.T.S. Projector (Evidence)]]
+|-
+| style="text-align:left;" |[[Onryo]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]]||[[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]]||[[File:Thermometer_Render.png|24x24px|link=Freezing Temperatures]]|| || ||
+|-
+| style="text-align:left;" |[[Phantom]]|| || ||[[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]]|| ||[[File:Fingerprints_3.png|24x24px|link=Ultraviolet]]|| ||[[File:DOTS_projector_sprite.png|24x24px|link=D.O.T.S. Projector (Evidence)]]
+|-
+| style="text-align:left;" |[[Poltergeist]]|| || ||[[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]]|| ||[[File:Fingerprints_3.png|24x24px|link=Ultraviolet]]||[[File:ClosedBook_Render.png|24x24px|link=Ghost Writing]]||
+|-
+| style="text-align:left;" |[[Raiju]]||[[File:EMFReader_Render.png|24x24px|link=EMF Level 5]]||[[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]]|| || || || ||[[File:DOTS_projector_sprite.png|24x24px|link=D.O.T.S. Projector (Evidence)]]
+|-
+| style="text-align:left;" |[[Revenant]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]]||  ||[[File:Thermometer_Render.png|24x24px|link=Freezing Temperatures]]|| ||[[File:ClosedBook_Render.png|24x24px|link=Ghost Writing]]||
+|-
+| style="text-align:left;" |[[Shade]]||[[File:EMFReader_Render.png|24x24px|link=EMF Level 5]]|| ||  ||[[File:Thermometer_Render.png|24x24px|link=Freezing Temperatures]]|| ||[[File:ClosedBook_Render.png|24x24px|link=Ghost Writing]]||
+|-
+| style="text-align:left;" |[[Spirit]]||[[File:EMFReader_Render.png|24x24px|link=EMF Level 5]]||  ||[[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]]|| || ||[[File:ClosedBook_Render.png|24x24px|link=Ghost Writing]]||
+|-
+| style="text-align:left;" |[[Thaye]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]]|| || || ||[[File:ClosedBook_Render.png|24x24px|link=Ghost Writing]]||[[File:DOTS_projector_sprite.png|24x24px|link=D.O.T.S. Projector (Evidence)]]
+|-
+| style="text-align:left;" |[[The Mimic]]|| || ||[[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]]||[[File:Thermometer_Render.png|24x24px|link=Freezing Temperatures]]||[[File:Fingerprints_3.png|24x24px|link=Ultraviolet]]|| ||
+|-
+| style="text-align:left;" |[[The Twins]]||[[File:EMFReader_Render.png|24x24px|link=EMF Level 5]]|| ||[[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]]||[[File:Thermometer_Render.png|24x24px|link=Freezing Temperatures]]|| || ||
+|-
+| style="text-align:left;" |[[Wraith]]||[[File:EMFReader_Render.png|24x24px|link=EMF Level 5]]|| ||[[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]]|| || || ||[[File:DOTS_projector_sprite.png|24x24px|link=D.O.T.S. Projector (Evidence)]]
+|-
+| style="text-align:left;" |[[Yokai]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]]||[[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]]|| || || ||[[File:DOTS_projector_sprite.png|24x24px|link=D.O.T.S. Projector (Evidence)]]
+|-
+| style="text-align:left;" |[[Yurei]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]]|| ||[[File:Thermometer_Render.png|24x24px|link=Freezing Temperatures]]|| || ||[[File:DOTS_projector_sprite.png|24x24px|link=D.O.T.S. Projector (Evidence)]]
+|}
+
+==Random characteristics==
+These characteristics are randomized for every contract and are unrelated to the ghost type. 
+
+===Gender===
+There is a 50/50 chance of the ghost being either male or female, except for the [[Banshee]] and the [[Dayan]] which will always be female. The ghost's gender is always randomly chosen after its type has been chosen.
+
+===Length of death===
+The length of death of a ghost (i.e. the age it would be today if it were still alive) is a randomly generated number between 50 (overlapping with their death age between 50 and 90) and 1000 years.
+
+===Age===
+The age of the ghost (at their time of death) is a randomly generated number between 10 and 90 years.<ref>https://imgur.com/a/Ttn4Ka3</ref> Note that this is not correlated with the ghost model.
+
+===Spirit box responsiveness===
+If the ghost is indicated to respond only to "people who are alone", the ghost will only respond to the [[Spirit Box]] if there is only one player in the room when the question is asked. A ghost which responds to everyone means that the number of people in the room does not affect its ability to respond. This characteristic is not indicated if there is no setup time (e.g. on Professional difficulty). This characteristic is only relevant for ghosts with the [[Spirit Box (Evidence)|Spirit Box evidence]], and is not synonymous with [[Activity|ghost activity]].
+
+===Ghost's name===
+The name of the ghost consists of their first (given) name and a surname. The first name is determined randomly according to their gender, while the surname is randomly chosen and not based on their gender. Saying the ghost's name near it will temporarily increase its [[activity]] level and cause it to interact with its surroundings, but this is currently bugged and doesn't work.
+
+====Possible male names====
+<div style="-moz-column-count:3; -webkit-column-count:3; column-count:3;">
+*Alex
+*Andrew
+*Anthony
+*Benjamin
+*Billy
+*Bradley
+*Brenden
+*Brian
+*Carlos
+*Charles
+*Christopher
+*Corey
+*Daniel
+*Dave
+*David
+*Donald
+*Edward
+*Eric
+*Gary
+*George
+*Grant
+*Gregory
+*Harold
+*Jack
+*James
+*Jan
+*Jason
+*Jay
+*Jerry
+*Jim
+*John
+*Joseph
+*Justin
+*Keith
+*Kenneth
+*Kenny
+*Kevin
+*Kyle
+*Larry
+*Luke
+*Mark
+*Michael
+*Paul
+*Peter
+*Raymond
+*Richard
+*Robert
+*Ronald
+*Russell
+*Steven
+*Thomas
+*Ted
+*Tim
+*Walter
+*William
+</div>
+
+====Possible female names====
+<div style="-moz-column-count:3; -webkit-column-count:3; column-count:3;">
+*Ann
+*April
+*Barbara
+*Becky
+*Betty
+*Carla
+*Carol
+*Catherine
+*Catiana
+*Cora
+*Donna
+*Doris
+*Dorothy
+*Edie
+*Elizabeth
+*Ella
+*Ellen
+*Emily
+*Emma
+*Eva
+*Georgia
+*Gloria
+*Heather
+*Helen
+*Holly
+*Jane
+*Jazz
+*Jennifer
+*Jennise
+*Jessica
+*Jo
+*Josefine
+*Judy
+*Julie
+*Karen
+*Kate
+*Kelly
+*Kim
+*Leslie
+*Linda
+*Lisa
+*Livy
+*Lori
+*Lucy
+*Marcia
+*Margaret
+*Maria
+*Marie
+*Mary
+*Megan
+*Michelle
+*Nancy
+*Nellie
+*Patricia
+*Robin
+*Rose
+*Ruth
+*Sandra
+*Sarah
+*Shannon
+*Sharne
+*Shelly
+*Sophie
+*Stacey
+*Susan
+*Tricia
+</div>
+
+====Possible surnames====
+<div style="-moz-column-count:3; -webkit-column-count:3; column-count:3;">
+*Alexander
+*Anderson
+*Bailey
+*Baker
+*Barber
+*Barton
+*Bellfield
+*Birch
+*Bishop
+*Bowen
+*Brock
+*Brooks
+*Brown
+*Buckley
+*Carey
+*Carter
+*Clarke
+*Cordero
+*Corrigan
+*Dexter
+*Dixon
+*Doe
+*Douglas
+*Dyer
+*Elliott
+*Emmett
+*Everly
+*Gacy
+*Garcia
+*Gayton
+*Hall
+*Halstead
+*Hans
+*Harris
+*Hill
+*Holland
+*Holmes
+*Huntley
+*Jackson
+*Johnson
+*Jones
+*Kemper
+*Knight
+*Kraft
+*Kray
+*Lancaster
+*Lavender
+*Lee
+*Lewis
+*Manson
+*Marsh
+*Martin
+*Martinez
+*Maudsley
+*Miller
+*Mills
+*Moore
+*Myers
+*Nilsen
+*Norris
+*Pettit
+*Phillips
+*Ramirez
+*Rhoades
+*Roberts
+*Robinson
+*Rook
+*Roswell
+*Schelin
+*Shawcross
+*Sherman
+*Shipman
+*Skinner
+*Smith
+*Stevens
+*Straffen
+*Sweeney
+*Taylor
+*Thompson
+*Todd
+*Walker
+*Watts
+*West
+*White
+*Williams
+*Wilson
+*Winter
+*Wright
+*Young
+</div>
+
+==Trivia==
+*The initial list of names in the game were included based on American name popularity in the past 100 years, making the same name frequency more realistic. The list of possible names have since been expanded to include mostly the names of the developers, as well as of various staff and content creators on the official ''Phasmophobia'' Discord server.
+*The surnames "Anderson" and "Wilson" are twice as more likely to be chosen as the ghost's surname.
+*The gurgle sound that ghosts make sounds very similar to Kayako Saeki's death rattle in the ''Ju-On/Grudge'' franchise.
+
+==See also==
+*[[Guides/Identifying ghosts]]
+*[[Guides/Locating the ghost]]
+
+==References==
+{{Reflist}}
+{{GhostNav}}
+[[Category:Ghosts]]
+[[de:Geister]]
+[[fr:Entité]]
+[[ru:Призраки]]

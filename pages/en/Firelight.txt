@@ -1,0 +1,123 @@
+# Firelight
+# revid 24625  2026-09-10T17:47:19Z  by Darkhooper
+# 备注: added another bug with tier 2 firelights
+# sha256 9a17e3d2d2a2629a20825b451c6b309f8472fd6e87d3500cdf883c39da0d4c87  bytes 8999
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=FireLight090_T1.png
+ | tier ii img=FireLight090_T2.png
+ | tier iii img=FireLight090_T3.png
+
+ | price=$15
+ | maxamount=4
+ | uses=
+ | starter=No
+ | tier i level=12
+ | tier ii level=37
+ | tier iii level=75
+
+ | tier i description=An old, rusting candleholder supporting a small candle, hopefully, it will last long enough if there’s no other light. Don’t forget something to light it with!
+ | tier i purpose=This small candle will provide light and some sanity loss prevention, but only for a while, the wax burns down quite fast!
+ | tier i ability=<span style="color: #008000;">Range (m): 2<br>Duration (min): 5<br>Sanity Drain Reduction (%): 33<br>Placeable</span><br><span style="color: #ff0000;">Consumable</span>
+ | tier ii description=A candelabra with three tall candles attached. The ornate metal and higher-quality candle wax make for a much more reliable sanity saver!
+ | tier ii purpose=With three candles instead of one, the light provided is much brighter, longer range and lasts longer.<br>Additionally, this Firelight doesn’t need to be held to gain its effects, so you can place it and stand nearby to still receive the sanity benefits!
+ | tier ii ability=<span style="color: #008000;">Range (m): 2<br>Duration (min): 10<br>Sanity Drain Reduction (%): 50<br>Placeable</span><br><span style="color: #ff0000;">Consumable</span>
+ | tier iii description=It may look old, but this gasoline fuelled lantern is the most reliable firelight we’ve found, it can last for hours on end.
+ | tier iii purpose=This lantern will last for the entirety of a contract, so there's no worry of it going out when you need it most. Just like its predecessor you can stand nearby to gain its effects.<br>Lastly, it’s waterproof so it even works in the rain!
+ | tier iii ability=<span style="color: #008000;">Range (m): 2<br>Sanity Drain Reduction (%): 66<br>Waterproof<br>Placeable</span>
+}}The '''firelight''' is a piece of [[equipment]] in ''Phasmophobia''. It is a deployable light source that can be lit using a source of fire such as an [[igniter]] or another firelight. It can be used to continuously light up a room with a warm, orange glow, and mitigate [[sanity]] drain from darkness, until it eventually burns out.
+
+[[Ghost]]s tend to blow out nearby firelights, making them effective at checking if a ghost is nearby. 
+
+==Usage==
+===Lighting firelights===
+Players can light a firelight held in their hand by pressing {{Control|Primary Use}} if they have an igniter in their inventory. A firelight placed down can be lit while holding an igniter and pressing {{Control|Secondary Use}}.<ref group="note">There is currently a bug where lighting a placed Tier II firelight using a Tier I igniter will make it considered unlit by ghosts despite being visually lit.</ref><ref group="note">There is currently a bug where if a non-host player lights a placed Tier II firelight, it will be considered unlit by ghosts despite being visually lit.</ref> One can also hold a lit firelight, aim at an unlit firelight, and use the Secondary Use key.<ref group="note">There is currently a bug where lighting a Tier I firelight using another firelight will make it visually lit only for the player who lit it.</ref>
+
+An unorthodox way is to have the wick of one lit and one unlit firelight to collide (this may need velocity).
+
+===Placement===
+Firelights can be {{Control|placed}} down on surfaces. Holding the placement key will show a translucent highlight of the firelight. This will place the firelight upright relative to the surface. Firelights can topple/fall over when placed on a slope or vertically.
+
+===Function===
+When a player is within 2 metres of a lit firelight, it will slow passive sanity drain that results from being in the dark, at a rate depending on the firelight's tier level. Lit firelights do not affect sanity drain from other sources such as ghost events or other players dying.
+
+Ghosts can blow out firelights at any time, even during hunts, and this will create an [[EMF]] 2 reading (or [[EMF Level 5]]). When blown out, the firelight will be extinguished with a blowing "sigh" effect. A firelight will also extinguish by itself at the end of its duration which depends on its tier level.<ref group="note">There is currently a bug where lighting a Tier I firelight using another firelight will make it last eternally and stay lit even if the ghost blows it out.</ref> Tier I and Tier II firelights will produce smoke when blown out by the ghost or self-extinguishing. Contrary to [[Fire Source|fire sources]], however, ghosts cannot light firelights up.
+
+Like with fire sources, when a firelight is lit up for the first time, there will be a 30-second cooldown before the ghost can attempt to blow it out. If the ghost did not blow out the firelight at the end of a cooldown, or if the firelight is not lit for the first time, a new cooldown is set with a random duration between 20 and 80 seconds.<ref group="note">There is currently a bug where the Tier II firelight's first cooldown directly has a random duration between 20 and 80 seconds instead of 30 seconds if it has been lit while held in hand.</ref> The [[Onryo]] can bypass these cooldowns due to its hunt prevention mechanics.
+*Note that Tier III firelights will pause the current cooldown if they are turned off by the player or an Onryo's hunt attempt.
+
+Ghosts have a 66.67% (2/3) chance to blow out a lit firelight provided they are within 5 meters<ref>[https://youtu.be/9dKtJk5Wx-I?t=570 A firelight blowing range test (on YouTube). 21 February 2024.]</ref><ref>[https://clips.twitch.tv/HardRamshacklePoxDxCat-VGwF3sTSZ2klCkgZ Another firelight blowing range test (on Twitch). 21 February 2024.]</ref> and the cooldown is over.
+*Tier II firelights are more likely to be blown out due to them having three candles, each rolling the same 66.67% chance and if one of the three chances is successful, all three candles are blown out, roughly making it a 96.30% chance overall. Despite being multiple candles, the tier II firelight still counts as one flame for the Onryo.
+
+{{Control|Throwing}} a lit firelight/one falling with sufficient velocity (Tiers I and II only), placing it in the inventory, leaving it out in [[Weather#Heavy Rain|heavy rain]] (Tiers I and II only), or pressing {{Control|Primary Use}} while held in hand will cause it to extinguish.
+
+==Tips==
+*Placing firelights on the sides of tables, shelves, or other elevated objects may improve their lighting by covering a wider area.
+*In larger maps like [[Brownstone High School]] or [[Sunny Meadows Mental Institution]], firelights may be helpful as navigation markers for important areas such as the [[fuse box]], [[ghost room]], or [[exit door]](s), also providing some helpful sanity drain reduction as a bonus, though they are not as reliable as spare [[UV Light|UV lights]] or [[flashlight]]s, as firelights both burn out after a time (except for tier III) and can be blown out by the ghost.
+*As non-electronics, firelights are less affected by hunts (other than potentially being blown out), neither do they attract the ghost. Players may use firelights as constant light sources to navigate during hunts. A potential but generally trivial downside is that it removes a source of alert as to whether the ghost is hunting (or performing ghost events).
+
+==Objectives==
+{{Main|Objectives}}
+{| class="article-table"
+! Objective
+! Actual requirements
+|-
+| Get the Ghost to blow out a Firelight
+| -
+|}
+
+==Trivia==
+*Showers and [[sink]]s filled with water do not extinguish firelights.
+
+==History ==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!31 January 2020
+|Increased the duration that candles stay lit.
+|-
+!23 March 2020
+|Candles can now be used to light other candles or [[Smudge Sticks]].
+|-
+!7 July 2020
+|Increased the candle lighting range, allowing it to prevent passive sanity drain when held.
+|-
+! colspan="2" |Early Access
+|-
+!23 September 2020
+|Candles can now be lit via the Secondary Use key if a lighter is also in the player's inventory.
+|-
+![[0.3.0]]
+|Updated the candle model.
+|-
+![[0.4.0]]
+|Candles will now extinguish when thrown or left out in the open in heavy rain.
+|-
+![[0.7.0]]
+|Candles now extinguish when swapped into the inventory.
+|-
+! rowspan="4" |[[0.9.0]]
+|Candles were renamed to firelights.
+|-
+|The Firelight now has 3 tiers.
+|-
+|Light from firelights no longer fully block sanity drain, and instead reduce the rate of it depending on equipment tier.
+|-
+|Candles found inside contracts can still be lit, but are no longer grabbable and do not provide any sanity-altering effects.
+|-
+! rowspan="2"|[[0.10.0]]
+|Increased the light intensity and range for tier I and tier II.
+|-
+|Increased the duration for tier I and tier II to 5 minutes and 10 minutes, respectively.
+|}
+
+==See also ==
+*[[Summoning Circle]]
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{Equipment nav}}
+[[Category:Equipment]]
+[[fr:Lumière à feu]]
+[[ru:Светильник]]

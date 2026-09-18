@@ -1,0 +1,42 @@
+# 巫毒娃娃
+# revid 3985  2025-10-17T17:07:00Z  by CangMingSW
+# sha256 c810cd91989322f1e6bc5268ca9ab0c92f08561f0f1728a17f35716fc085b802  bytes 1393
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Item_Template
+|img=Voodoo Doll New.jpg
+|imgcaption=有纽扣眼睛和缝合嘴唇的巫毒娃娃。
+|price=
+|maxamount=
+|uses=10
+|starter=
+|level=
+|description=
+}}'''巫毒娃娃'''是一件强制[[鬼魂]]互动的[[诅咒之物]]。
+
+== 用法 ==
+[[File:Phasmophobia-How-to-Find-Smudge-Sticks-Glowsticks-Voodoo-Doll-2.jpg|thumbnail|0.5.0 更新前的巫毒娃娃]]
+
+作为一件诅咒之物，巫毒娃娃在预设[[难度]]中（疯狂难度以外）有七分之一的几率生成。 
+
+右击巫毒娃娃会随机推入一根针并让鬼魂与环境互动。普通针会降低玩家理智 5% 理智。心脏的针降低 10% 理智且直接触发[[猎杀#诅咒猎杀|诅咒猎杀]]。如果玩家的理智低于扎针需求的理智，将扎入所有针并也触发[[猎杀#诅咒猎杀|诅咒猎杀]]。
+
+=== 拍照奖励 ===
+根据拍摄距离的不同，巫毒娃娃照片可以获得高达 $5 和 5XP 的拍照奖励。巫毒娃娃只能拍一次，无论插了多少针。
+
+==历史==
+{| class="fandom-table"
+! colspan="2" |抢先体验 (Steam)
+|-
+! rowspan="3" | [[0.5.0]]
+| 更新巫毒娃娃模型
+|-
+| 巫毒娃娃现在作为诅咒之物生成，不再生成在特定地图
+|-
+| 巫毒娃娃现在用于强制与鬼魂互动
+|- 
+![[0.5.0.2]]
+| 扎入心脏会立即触发猎杀，而不是在播放动画后。
+|}
+== 参阅 ==
+*[[泰迪熊]]
+{{EquipmentNav}}
+[[Category:装备]]

@@ -1,0 +1,18 @@
+# 0.8.1.7
+# revid 2965  2023-05-19T15:20:42Z  by Qsefthuopq
+# sha256 988376e27f3a170b3a407b93bdb7656120fd05688d86ad4d9d374c21966bf0bd  bytes 535
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | release_date=2023年5月16日
+  | previous_major_version=[[0.8.0]]
+  | previous_minor_version=[[0.8.1.6]]
+  | next_minor_version=
+  | next_major_version=[[0.9.0]]
+}}'''0.8.1.7'''是发布于2023年5月16日的小型热修复更新。<ref>[https://store.steampowered.com/news/app/739630/view/6990193952045597658 ''Tempest | Hotfix v0.8.1.7''. 16 May 2023 (on Steam).]</ref>
+
+== 修复漏洞 ==
+* 徐图缓进每周挑战现在使用正确的猎杀设置
+
+=参考资料=
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

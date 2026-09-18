@@ -1,0 +1,162 @@
+# Banshee
+# revid 24594  2026-09-03T00:30:36Z  by Darkhooper
+# 备注: added blindness bug in Notes
+# sha256 77a8bc765123e66c353cefe3bf83f9b0ffb6a723eac30f3f1f79b076976614e7  bytes 13894
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |title=Banshee
+ |image1=Banshee Discovered.jpg
+ |strength= *Focuses on the same player until that player is killed or has left the game
+ |weakness(es)= *Cannot kill players other than the target if the target is inside
+*Can produce unique screams on the parabolic microphone and the sound recorder
+ |abiliti(es)= *Performs singing ghost events more often than other ghost types
+*Frequently roams to target player outside of hunts
+ |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
+ |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
+ |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]}}
+{{Quote
+ |quote=The singing siren, known for attracting its victims through song. It has been known to single out its prey before making a killing blow.
+ |speaker=The Journal
+}}The '''Banshee''' is a type of [[ghost]] in ''Phasmophobia''. Banshees are noted for their distinctive screams that they produce on the Parabolic Microphone or the Sound Recorder, as well as their targeting of only one specific player during hunts.
+
+==Behaviour==
+===Target selection===
+At the start of the game, a player is randomly selected as the [[hunt]] target. If the hunt target leaves the game or [[Death|dies]], a new hunt target will be selected after a maximum delay of 2 seconds.<ref group="note">This is currently bugged: the Banshee will select a new hunt target as soon as a player dies, regardless of the latter being the hunt target or not.</ref> The new target is not random: the Banshee will select the first alive player in the list (established by the order the players joined the lobby) that is not the previous target, unless there is only one player remaining.<ref group="note">There is a bug where if a target player dies while using the [[Monkey Paw]]'s "I wish for life" wish, they would remain as the target even while dead. The Banshee will still be able to use its roaming ability on said player and be unable to initiate hunts if their sanity is above 50%.</ref>
+
+===Activity===
+The Banshee's [[activity]] is based on the hunt target's [[sanity]].
+
+When performing a [[Ghost Event|ghost event]], the Banshee first has a 1/3 chance of choosing the [[Ghost Event#Singing|singing event]]. If that chance fails, it will choose one of the five types of ghost events (including the singing event), leading to an overall 46.67% chance to perform a singing event instead of 20% for most other ghosts. When drawing ''The Devil'' [[Tarot Cards|tarot card]], the Banshee will have a 20% chance to choose the singing event without the additional 1/3 chance.
+
+If the hunt target is the target of a singing event and causes the Banshee to disappear prematurely (by going near it), then their sanity will decrease by 15%, instead of the usual 10%.
+*Like other ghosts, who the Banshee targets for a ghost event is random and based on distance; being the hunt target by itself does not increase their chance of being the ghost event target.
+
+If the hunt target is inside the investigation area, the Banshee has a 2/3 chance to travel to that player while in [[D.O.T.S. Projector (Evidence)|D.O.T.S. state]].
+
+Contrary to most other ghosts, the Banshee is able to perform long [[Roaming|roam]]s while its current room is not the [[Ghost Room|favourite room]], and has a 50% chance to perform long roams instead of the regular chances.
+
+===Abilities===
+When the Banshee performs a short roam, if the hunt target is inside the investigation area, it has a 2/3 (67%) chance of triggering its ability which makes it place a waypoint at the target's location, and travel to it. Unlike the [[Wraith]]'s and the [[Phantom]]'s abilities, this will not create any EMF reading. The ability fails if the [[roaming#Mechanics|short roam conditions]] are not fulfilled (e.g. player not on same floor, pathing distance greater than 150% direct distance).
+
+When a [[Parabolic Microphone]] or a [[Sound Recorder]] is used, the Banshee has a 33% chance of making 1 of its 20 unique screams instead of a regular [[Paranormal Sound|paranormal sound]].
+
+{| class="fandom-table"
+!Banshee screams
+|-
+|[[File:Banshee Scream 1.ogg]][[File:Banshee Scream 2.ogg]][[File:Banshee Scream 3.ogg]][[File:Banshee Scream 4.ogg]][[File:Banshee Scream 5.ogg]][[File:Banshee Scream 6.ogg]][[File:Banshee Scream 7.ogg]][[File:Banshee Scream 8.ogg]][[File:Banshee Scream 9.ogg]][[File:Banshee Scream 10.ogg]][[File:Banshee Scream 11.ogg]][[File:Banshee Scream 12.ogg]][[File:Banshee Scream 13.ogg]][[File:Banshee Scream 14.ogg]][[File:Banshee Scream 15.ogg]][[File:Banshee Scream 16.ogg]][[File:Banshee Scream 17.ogg]][[File:Banshee Scream 18.ogg]][[File:Banshee Scream 19.ogg]][[File:Banshee Scream 20.ogg]]
+|}
+
+===Hunt===
+The Banshee's hunt threshold is 50%, but it only checks the ''target's'' sanity when trying to hunt, rather than the ''average'' sanity like other ghost types, meaning that only the target needs to be at or below 50% sanity for it to attempt to hunt. As a result, the Banshee can appear to start hunting from as high as 87% average sanity, or as low as 12% average sanity, on the [[Sanity Monitor]], depending on the target's current sanity and number of other players.
+
+When a Banshee hunts, it will mostly follow standard hunt rules, but it will ignore all [[player]]s other than its hunt target.<ref group="note">There is a bug where if the Banshee kills a player, its sight will be completely broken and it will be unable to see players (including the target) until the end of the hunt. Its sight can be recovered if a player manages to attract it through voice or electronics, and can be broken again if it loses line-of-sight of that player.</ref> It will not attempt to chase other players and is unable to kill them, even if it comes into direct contact with a non-target player, instead harmlessly passing through them. The Banshee will react to [[Incense]] lit by other players within range, but this will not allow for completion of the "Repel a ghost while it is chasing someone" [[Objectives|optional objective]] unless the Banshee is also chasing its target when this occurs.
+
+If the hunt target is outside the investigation area, the Banshee will still use its target's sanity to decide whether to hunt. However, if it does hunt, it will hunt like any other ghost, chasing any opportune player.
+
+===Miscellaneous===
+The Banshee can only be a female ghost and will use a female [[Ghost#Possible female names|name]] and [[ghost model]].
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]] [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]] [[Ghost Orb]]
+|[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]] [[Ultraviolet]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: '''Banshees''' will weaken their target before striking.''
+
+''Weakness: '''Banshees''' can sometimes be heard screaming with a parabolic microphone.''
+
+==Strategies==
+The Banshee is a female-only ghost; it can be excluded if the ghost presents a masculine name, or appears as a male ghost model and uses a male vocalization during an event/hunt. For the Banshee, this can also be done (albeit with more difficulty) if it appears on D.O.T.S.
+
+Identifying the target player of a Banshee both conclusively identifies it and can provide players with a significant edge, such as making hunt-related objectives much easier, and enabling the other players to continue investigating during hunts with impunity, though it is important to note that the target player must be inside the investigation area for this to be applicable. Alternatively, the target player can altogether prevent hunts indefinitely by topping up their sanity with [[Sanity Medication]] and staying outside the investigation area to never drop below the hunt threshold, for a completely safe investigation. There are several methods players may use to identify a Banshee's target:
+
+*Banshees will only check for the individual sanity level of the target player when attempting to hunt. If the ghost hunts above the average sanity of 50%, and one or more players are below 50% sanity, then one of them is the target. Likewise, if the ghost refrains from hunting at below 50% average sanity, but one player has high sanity, they can be presumed to be the Banshee's target; be mindful of mistaking it with ghosts that have different hunt sanity thresholds such as [[Demon|Demons]] or [[Shade|Shades]].
+*Having players act as "bait" with Incense and/or escape routes ready can definitively identify the target. Bait players should stand in plain sight and attempt to actively attract the ghost, such as talking into the microphone/holding active electronics or letting the ghost spot them; if the ghost ignores them, have another player repeat the process then proceed by elimination until the target is found. Alternatively, if the ghost is already confirmed to be a Banshee, multiple players can do this at the same time, standing separate from each-other and seeing which of them the Banshee rushes for. This method, though more risky, is useful either when the sanity-based method proves inconclusive, or when playing on Nightmare/Insanity [[difficulty]] where the [[Sanity Monitor]] is not available. Ensure that all players are inside the building when performing this test.
+**Be aware that the Banshee might coincidentally wander towards a player after it has lost sight of its target, especially in hallways or cluttered rooms, giving the impression that it is chasing that player. In that case, observe its line of sight acceleration or attempt to move out of its way to see if the ghost is actively following you.
+*Banshees tend to wander towards their target outside of hunts; a player reporting frequent activity or even hunts starting near them and far away from the ghost room is most likely the target. Using [[Motion Sensor|motion sensors]] and [[salt]] can help to track the ghost's location.
+
+Note that if the target player dies or disconnects, a new target will be selected. This also applies on Nightmare/Insanity difficulty or when the "Kills extend hunts" setting is turned on: if the Banshee manages to kill its target, it will immediately select another player and continue hunting.
+
+On singleplayer, determining the Banshee by its target ability is impossible, making it much more difficult to identify through behavior alone, so one must rely on other potential tells or pieces of evidence. Using a Parabolic Microphone or a Sound Recorder to pick up its unique sounds might come in handy, though note that the Banshee only has a chance of producing its screams instead of a regular paranormal sound, so it mustn't be ruled out if the ghost doesn't produce any screams. Other singleplayer tells include a lot of singing events, and wandering to the player frequently (note that [[Phantom]]s also have this ability; theirs will, however, leave an EMF reading while Banshees will not). If the Sanity Monitor is available, touching the ghost during a singing event and checking for the 15% sanity drop instead of 10% is also a viable method.
+
+==Trivia==
+*The Banshee is a female spirit in Irish folklore who heralds the death of a family member, usually by wailing or shrieking. A Banshee translates to "woman of the fairy mound" or "fairy woman" in its roots from Ireland.
+*The Banshee is one of two ghosts that can be instantly ruled out based on its gender, with the other being the [[Dayan]].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!7 March 2020
+|Banshee footsteps can now be heard by all players instead of just its target.
+|-
+!13 March 2020
+|Banshee now requires Fingerprints as evidence instead of Bug.
+|-
+!25 March 2020
+|Removed some sounds that could only be heard by the Banshee's target.
+|-
+!3 July 2020
+|Banshees now cannot hunt within 5 metres of a crucifix, instead of switching targets when the crucifix is consumed.
+|-
+!15 July 2020
+|Removed the chance of the Banshee's ability not working on players with high sanity.
+|-
+!26 August 2020
+|Banshees will no longer hunt if their target is outside the building.
+|-
+!26 August 2020<br>(Part 2)
+|Increased the crucifix range for the Banshee to 6 metres.
+|-
+!25 September 2020
+|Banshees will now hunt like most other ghosts if its target is outside.
+|-
+!29 September 2020
+|Reverted the crucifix range for the Banshee to 5 metres.
+|-
+! colspan="2" |Early Access
+|-
+![[0.3.0]]
+|Prior to 0.3.0, the evidence was [[EMF Level 5]], [[Fingerprints]], and [[Freezing Temperatures]].
+|-
+! rowspan="3" |[[0.5.0]]
+|The Banshee's rare ability to hunt at any sanity percentage has been moved to the Demon.
+|-
+|The Banshee now create a unique paranormal noise on the [[Parabolic Microphone]].<br>[[File:Old-Banshee-Scream.ogg]]
+|-
+|The Banshee now prefer singing ghost events.
+|-
+! rowspan="5" |[[0.5.2.0]]
+|Crucifixes no longer have an increased effective range against Banshees.
+|-
+|Banshees now occasionally walk towards its target's location when not hunting.
+|-
+|Singing ghost events will now deduct an additional 5% sanity for their target player.
+|-
+|Whether the Banshee can hunt is now based on its target's sanity.
+|-
+|Changed the Banshee's special parabolic microphone scream.<br>[[File:NEW-Banshee-Scream.ogg]]
+|-
+![[0.10.0]]
+|Improved Banshee AI targeting when they stalk a player.
+|-
+! rowspan="2" |[[0.13.0]]
+|The Banshee can now change favorite rooms.
+|-
+|Added 20 unique screams to the Banshee.
+|-
+![[0.15.1.0]]
+|Banshee will now only present as female (names and ghost models).
+|}
+
+==Notes==
+{{Reflist|group="note"}}
+{{Ghost nav}}
+[[ru:Банши]]
+[[fr:Banshee]]
+[[Category:Ghosts]]

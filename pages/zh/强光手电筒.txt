@@ -1,0 +1,23 @@
+# 强光手电筒
+# revid 2983  2023-08-16T06:42:49Z  by Qsefthuopq
+# sha256 36f6908f8c3a7d6d8486cf97ae4987c53f9ed33893f9f87695b58a86311d139b  bytes 508
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Item Template
+|img=StrongFlashlight_Render.png
+|imgcaption=
+|price=$50
+|maxamount=4
+|uses=
+|starter=No
+|level=3
+|description=升级版手电筒，光照范围更广。}}
+
+'''强光手电筒'''是[[手电筒]]的升级版。它能提供更强和更广的光照。
+
+== 用法 ==
+''见[[手电筒]]''
+
+强光手电筒的功能和普通手电筒一样，只是光照范围更广。3级后可在商店花费$50购买。
+
+在[[0.9.0]]版本中已并入普通[[手电筒]]。
+{{Equipment nav}}
+[[Category:装备]]

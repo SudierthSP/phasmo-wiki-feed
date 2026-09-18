@@ -1,0 +1,21 @@
+# 0.13.1.1
+# revid 3796  2025-07-14T11:20:31Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version | release_date=2025.7.12 | previous_major_version=[[0.13.0]] | previous_minor_version=[[0.13.1.0]] | next_minor_version= | next_major_version= }}'''0.13.1.1'''是发表于2025.7.12的小型更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-hotfix-01311 ''Phasmophobia Hotfix v0.13.1.1''. 12 July 2025.]</ref>本次更新主要修复漏洞。  ==修复漏洞== *修复：仓库中高色差效果异常 *修复：多个键位绑定问…”
+# sha256 bb9a5c983fd206110ae34f5b845b37fac7e05020cc6bd489a0601a27ff43a296  bytes 600
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+| release_date=2025.7.12
+| previous_major_version=[[0.13.0]]
+| previous_minor_version=[[0.13.1.0]]
+| next_minor_version=
+| next_major_version=
+}}'''0.13.1.1'''是发表于2025.7.12的小型更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-hotfix-01311 ''Phasmophobia Hotfix v0.13.1.1''. 12 July 2025.]</ref>本次更新主要修复漏洞。
+
+==修复漏洞==
+*修复：仓库中高色差效果异常
+*修复：多个键位绑定问题
+** 为键鼠操作新增了缺失的互动键重新绑定选项
+
+==参考资料==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]

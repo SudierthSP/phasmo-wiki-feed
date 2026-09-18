@@ -1,0 +1,29 @@
+# 0.8.0.4
+# revid 2674  2022-12-25T02:58:03Z  by Qsefthuopq
+# sha256 0967b5055aceaef1203ba472c9cdfe132b8ec9870658bb9129ddd1ac037ed74c  bytes 1330
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+ | release_date=2022年12月22日
+ | previous_major_version=[[0.8.0]]
+ | previous_minor_version=[[0.8.0.3]]
+ | next_minor_version=[[0.8.0.5]]
+}}'''0.8.0.4'''是发布于2022年12月22日的小型热修复更新。<ref>[https://store.steampowered.com/news/app/739630/view/3615859152036088057 ''Tempest | Hotfix v0.8.0.4''. 21 December 2022 (on Steam).]</ref>
+
+== 修复漏洞 ==
+* 修复在获得徽章或节日奖杯时无法备份存档的漏洞。如果之前你使用VPN获得，现在不在需要使用VPN
+* 首次加载游戏直接退出后不会无限黑屏
+* 闹鬼魔镜现在能再次看到天花板
+* 修复[[格拉夫顿农舍]]、[[布莱斯代尔农舍]]和[[阳光牧场精神病院]]的植被光照
+* 一种女性鬼魂模型现在能正常显示点阵鬼影
+* 精神病院：阻塞时调整以下躲藏点：
+** Female Bedroom 4（4号女性卧室），移动床的位置
+** Manager's Office（经理办公室）的衣柜现在靠墙
+** 删除Supply Room（供应室）的纸盒
+** Operating Room（手术室）的隐私屏幕将消失
+** Male Room 1（1号女性房）的床朝向墙壁
+** Female day room（女性休息室）的书架现在有碰撞体积
+** Hospital Room 2（2号病房）的隐私屏幕在未阻塞时会消失
+
+== 参考资料 ==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

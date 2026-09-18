@@ -1,0 +1,30 @@
+# 0.4.1.2
+# revid 23939  2026-06-28T21:39:52Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 04225e121f6e40434e55979a323152c1a745a6c244403ca60707cf34a54b91af  bytes 988
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=12 November 2021
+ | previous_major_version=[[0.4.0]]
+ | previous_minor_version=[[0.4.1.1]]
+ | next_major_version=[[0.5.0]]
+}}'''0.4.1.2''' is a minor update to the game released on 12 November 2021.<ref>https://store.steampowered.com/news/app/739630/view/4554822986416321515</ref> This update removes the Halloween decorations and fixes bugs.
+
+== Changes ==
+=== Gameplay ===
+*New ghost types no longer have an increased chance to be selected
+
+=== General ===
+*Halloween decorations have been removed
+
+== Bug fixes ==
+*Fixed a bug where the escape the ghost during a hunt objective was not completing
+*Fixed a bug where the ghost writing book was not giving evidence photos
+*Fixed a bug where the sound would break inside the top floor of the cabin if you walked near the balcony door
+*Fixed a bug where the ghost orbs would not change room with the ghost
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.4.1.2]]
+[[ru:0.4.1.2]]

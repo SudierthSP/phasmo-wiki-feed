@@ -1,0 +1,29 @@
+# 0.9.0.7
+# revid 3061  2023-08-26T04:35:48Z  by Qsefthuopq
+# sha256 a48ae8072468f367ecae513705b00f6a260c57527f8854afefc092a594c413e6  bytes 990
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | image1=
+  | official_name=
+  | release_date=2023.8.25
+  |planned_release_date=
+  | previous_major_version=
+  | previous_minor_version=
+  | next_minor_version=[[0.9.0.8]]
+  | next_major_version=
+}}
+==改动==
+* 使用手柄的玩家现在可按南边的键位 (Xbox - A) 快捷打开主菜单
+* 现在可以按东边的键位 (Xbox - B) 退出通灵盒文本识别，无需丢弃通灵盒
+==修复漏洞==
+* 在打开手册时按东边的键位 (Xbox - B) 不再会丢弃你手持的物品
+* 使用手柄按住拖动门时不再会卡住
+* 有时放置十字架不再会穿到地板下，但因此拍照难度会暂时增加
+* 在车外旁边将通灵盒卡入车内，不再会将你视作待在车上
+* 3级点火器现在能正确地持续10分钟，而不是5分钟
+* 如果读取存档失败，商店默认显示资金不再是$999,999,999
+* 八音盒现在能正常触发5米内的鬼魂事件
+
+==注释==
+{{Reflist|group="note"}}
+{{Versions}}
+[[Category:开发]]

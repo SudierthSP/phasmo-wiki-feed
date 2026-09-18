@@ -1,0 +1,40 @@
+# 0.9.0.4
+# revid 3054  2023-08-22T15:05:00Z  by Qsefthuopq
+# sha256 7cfd139b467d3dbc04e306fbbd3221c7e550465e18a3aeb305a49b7b1d96d882  bytes 1316
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | image1=
+  | official_name=
+  | release_date=2023.8.22
+  |planned_release_date=
+  | previous_major_version=
+  | previous_minor_version=
+  | next_minor_version=[[0.9.0.5]]
+  | next_major_version=
+}}
+
+==新增内容==
+* 大厅新增显示旧版徽章的纪念牌
+* 为房屋和营地的收音机添加新音效
+==改动==
+
+* 放宽3星级照片判定，现在更容易拍到，而不会变成2星级
+* 增加3星级鬼照片的判定范围
+* 现在1级和2级的[[火光]]装备光源比[[点火器]]装备更亮
+
+== 修复漏洞 ==
+* [[坦格活德街房屋]]的吉他移到移到蓝色房间，这样可以在鬼魂与吉他互动时拍到EMF照片
+* 丢弃1级和3级的紫外线灯光装备时，不再会一直滚动
+* 现在可以在[[柳树街房屋]]的玻璃门上拍指纹照片了
+* 诅咒之物的照片更容易拍摄
+* 诅咒之物的噪音现在会出现在收音器上
+* 掉到盐线里的装备不再会无法拾取
+* 在1级三脚架上切换摄像机时，显示器不再损坏
+* 现在，你可以在拍过照的指纹的相同位置拍摄新指纹的照片
+* 现在应该更容易拍摄尸体照片
+* 降低一些纹理的分辨率，降低内存占用
+* 摄像机现在可以在多人模式下正常运作
+
+==注释==
+{{Reflist|group="note"}}
+{{Versions}}
+[[Category:开发]]

@@ -1,0 +1,5 @@
+# 首页
+# revid 151  2021-10-06T15:37:11Z  by FANDOM
+# 备注: FANDOM移动页面[[首页]]至[[恐鬼症 Wiki]]：SEO
+# sha256 cda2b85cf1539f7fa6cc520ee334ec85e807ca04897dca6222ebc826b0cb7fa6  bytes 29
+# 源: https://phasmophobia.fandom.com/zh/api.php#重定向 [[恐鬼症 Wiki]]

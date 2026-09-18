@@ -1,0 +1,35 @@
+# 0.8.1.2
+# revid 23986  2026-06-28T21:43:32Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 21c7b893f3d7aa1473ff4be8069dc607380f3fbe17f3ff8f39d6d9fe9efc914f  bytes 1485
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=8 March 2023
+ | previous_major_version=[[0.8.0]]
+ | previous_minor_version=[[0.8.1.1]]
+ | next_minor_version=[[0.8.1.3]]
+ | next_major_version=[[0.9.0]]
+}}'''0.8.1.2''' is a minor hotfix released on 8 March 2023.<ref>[https://store.steampowered.com/news/app/739630/view/3666531626460239654 ''Tempest | Hotfix v0.8.1.2''. 8 March 2023 (on Steam).]</ref>
+
+== Changes ==
+* Several doors in all maps are now linked to multiple rooms for ghost events and monkey paw wishes
+* The Sanity Survival weekly difficulty challenge now has the Nightmare hunt duration and no candles
+
+== Bug fixes ==
+* If you didn’t play for a long time your level and progress will no longer be wiped
+* The ghost can no longer walk through the Maple campsite large tents
+* Fixed a bug that was causing players to not be able to select a difficulty
+* Ghosts will now open and close the doors in the correct direction
+* You can now click the left shop buttons on 4:3 aspect resolutions
+* Yurei will no longer lower your sanity if they used their ability without closing a door
+* Yurei will now only count the ability used when it successfully uses its ability
+* Potential fix for hunts starting when all players are outside
+* Lowered the volume of the guitar sound
+* Sunny meadows TV sound can no longer be heard across the map
+* The Sunny Meadows male day room TV will now turn on
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.8.1.2]]
+[[ru:0.8.1.2]]

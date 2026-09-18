@@ -1,0 +1,5 @@
+# Photo
+# revid 4431  2021-01-09T18:44:02Z  by YummyYummyArsenic
+# 备注: Redirected page to [[Photo Camera]]
+# sha256 d761d44fc910abf56d3ae923f328ea0bc9fe2f3c8c01eaef601e71c5325876cc  bytes 26
+# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Photo Camera]]

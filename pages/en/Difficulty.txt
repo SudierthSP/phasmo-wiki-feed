@@ -1,0 +1,644 @@
+# Difficulty
+# revid 24565  2026-08-26T22:57:57Z  by Darkhooper
+# 备注: 0.19
+# sha256 cae8a022de30429215a40c656f061c215706861215229eb4d21778169616c91c  bytes 13669
+# 源: https://phasmophobia.fandom.com/api.php[[File:Difficulty Selection.png|thumb|300x300px|The contract difficulty selection screen]]'''Difficulties''' in ''Phasmophobia'' adjust the player experience according to their skill. There are five main '''difficulties''' in ''Phasmophobia'': Amateur, Intermediate, Professional, Nightmare, and Insanity. Custom difficulties can also be created. Difficulties impact the player, the ghost, and the contract, giving out varying rewards.
+
+==Difficulties==
+{{#tag:tabber|
+Amateur=
+<blockquote>''"Recommended for new Ghost Hunters!"''</blockquote>This is the simplest difficulty aimed at players who are new to the game and are slowly learning the mechanics.
+*Normal rewards
+*5-minute setup time
+*Frequent ghost activity
+*Shortest hunting phase
+*No doors will start open
+*[[Sanity Medication]] restores 40% of [[sanity]]
+*50% [[Death#Equipment & Insurance|value of lost items returned]] to dead players
+
+{{!}}-{{!}}
+Intermediate=
+[[File:Intermediate Difficulty.jpg|thumb|100px]]
+<blockquote>''"The standard Ghost Huntin' experience"''</blockquote>This difficulty is for the average player who has a good knowledge of the game's mechanics.
+*Unlocked at level 10
+*2x rewards
+*2-minute setup time
+*1.5x sanity consumption
+*Common ghost activity
+*Medium hunting phase
+*Sanity Medication restores 35% of sanity
+*Few doors will start open
+*25% value of lost items returned to dead players
+*The [[fuse box]] will be off at the start of the game
+*Some hiding locations will be blocked
+
+{{!}}-{{!}}
+Professional=
+[[File:Professional Difficulty.jpg|thumb|100px]]
+<blockquote>''"For experienced Ghost Hunters"''</blockquote>This difficulty is for experienced players who have a relatively strong foundation in the core mechanics, ghosts, and strategies needed to complete the investigation.
+*Unlocked at level 20
+*3x rewards
+*No setup time
+*2x sanity consumption
+*Uncommon ghost activity
+*Long hunting phase
+*Sanity Medication restores 30% of sanity
+*0% value of lost items returned to dead players
+*The Fuse Box will be off at the start of the game
+*The [[Objective Board|objective board]] will not specify if the ghost responds to everyone or people who are alone
+*The [[ghost room]] will change rarely
+*Some doors will start open
+*Most hiding locations will be blocked
+
+{{!}}-{{!}}
+Nightmare=
+[[File:Nightmare Difficulty.jpg|thumb|100px]]
+<blockquote>''"A challenge for the best of the best"''</blockquote>This difficulty is a challenge aimed solely at players who know the game's mechanics inside-out, have strong practical experience in ghost hunting, and have a solid strategy or action plan, especially in teams.
+*Unlocked at level 30
+*4x rewards
+*No setup time
+*2x sanity consumption
+*Uncommon ghost activity
+*Longest hunting phase
+*Sanity Medication restores 25% of sanity
+*0% value of lost items returned to dead players
+*The fuse box will be off at the start of the game
+*The Objective Board will not specify if the ghost responds to everyone or people who are alone
+*The ghost room will change occasionally
+*The [[Sanity Monitor]] and [[Site Activity Monitor]] will be damaged and display random values
+*Almost all hiding locations will be blocked
+*Many doors will start open
+*The fuse box is not shown on the truck map
+*A successful kill will extend the [[hunt]]ing phase, allowing multiple kills in a single hunt
+*The ghost will only provide 2 pieces of evidence instead of 3
+
+{{!}}-{{!}}
+Insanity=
+[[File:Insanity Difficulty.jpg|thumb|100px]]
+<blockquote>''"Feeling brave? These ghosts don't mess around..."''</blockquote>This difficulty is an extremely hard challenge solely aimed at players that have mastered the mechanics of the game from top to bottom. Players must have knowledge of all ghost strengths, weaknesses, abilities and behaviors and have knowledge on many hunting and escape tactics on the maps.
+*Unlocked at level 40
+*6x rewards
+*No setup time
+*No Cursed Possession
+*Sanity starts at 75%
+*2x sanity consumption
+*Uncommon ghost activity
+*Longest hunting phase
+*Sanity Medication restores 20% of sanity
+*0% value of lost items returned to dead players
+*The fuse box will be off at the start of the game
+*The fuse box is not shown on the truck map
+*The Objective Board will not specify if the ghost responds to everyone or people who are alone
+*The ghost room will change frequently
+*The [[Sanity Monitor]] and [[Site Activity Monitor]] will be damaged and display random values
+*Almost all hiding locations will be blocked
+*Many doors will start open
+*A successful kill will extend the hunting phase
+*The ghost will only provide 1 piece of evidence
+*Fingerprints last for 60 seconds
+
+{{!}}-{{!}}
+Challenge Mode=
+{{Main|Challenge Mode}}
+A unique difficulty with a customised equipment loadout and possibly other difficulty changes is available every week. There are currently 26 possible challenge mode difficulties. Free equipment is provided specifically for Challenge Mode. Completing a Challenge Mode difficulty on a specified map 3 times before the difficulty changes rewards the player with $5000 and 5000 XP.
+
+{{!}}-{{!}}
+Custom=
+[[File:Custom Difficulty.jpg|thumb|100px]]<br>
+Unlocked at level 50, this difficulty lets the player choose the settings for the contract, with up to 3 custom difficulties that can be saved. Options pertaining to the player, ghost, and contract can be changed.
+;Player
+*Starting sanity
+*Sanity Medication restoration amount
+*Sanity drain speed
+*Sprinting use allowance
+*Player speed
+*Flashlights being broken
+*Losing items on death toggle (no rewards)
+
+;Ghosts
+*Ghost type
+*Ghost speed
+*Roaming frequency
+*Chance of changing favourite room
+*Activity level
+*Event frequency
+*Disable hunts (no rewards)
+*Grace period duration
+*Hunt duration
+*Kills extending hunts
+*Number of evidences given
+*Fingerprint chance
+*Fingerprint duration
+
+;Contract
+*Setup time
+*Weather
+*Number of doors starting open
+*Amount of hiding places
+*Sanity monitor state
+*Activity monitor state
+*Fuse box starting state
+*Fuse box map visibility
+*Cursed Possessions quantity
+*Cursed Possession choice(s)
+
+===Presets===
+When editing a custom difficulty, some presets can be chosen, five of which are the default difficulties (Amateur to Insanity), three are the currently saved custom difficulties, and three are for the [[Apocalypse Challenge]], corresponding to the Bronze (6x), Silver (10x) and Gold (15x) trophies.
+
+The Apocalypse presets are only suggestions and do not have to be followed to obtain the trophy as long as the multiplier is equal to or higher than the minimum required.
+
+===Rewards===
+{{Main|Difficulty/Custom}}
+}}
+
+==Summary Table==
+{| class="article-table"
+!Category 
+!Variable
+!Description
+!Amateur
+!Intermediate
+!Professional
+!Nightmare
+!Insanity
+!Custom
+!Apocalypse I
+!Apocalypse II
+!Apocalypse III
+|-
+! rowspan="4" |Payout
+|Level needed
+|The level requirement to unlock this difficulty.
+| -
+|10
+|20
+|30
+|40
+|50
+|50
+|50
+|50
+|-
+|Cash reward
+|The reward multiplier for cash.
+| rowspan="2" |x1
+| rowspan="2" |x2
+| rowspan="2" |x3
+| rowspan="2" |x4
+| rowspan="2" |x6
+| rowspan="2" |x0 - x15
+| rowspan="2" |x6
+| rowspan="2" |x10
+| rowspan="2" |x15
+|-
+|Experience gain
+|The reward multiplier for experience.
+|-
+|Insurance
+|The amount of insurance given back upon death. 
+|50%
+|25%
+|0%
+|0% 
+|0%
+|
+*Difficulty multiplier ≤ x1: 50%
+*Difficulty multiplier ≤ x2: 25%
+*Difficulty multiplier > x2: 0%
+|0%
+|0%
+|0%
+|-
+! rowspan="7" |Player
+|Starting sanity
+|Each member's starting sanity
+|100
+|100 
+|100
+|100
+|75
+|0/25/50/75/100
+|75
+|50
+|0
+|-
+|Sanity Medication restoration (%)
+|The amount of sanity restored per 'Sanity Medication'
+|40
+|35 
+|30
+|25
+|20
+|0/5/10/20/25/30/35/40/45/50/75/100
+|20
+|5
+|0
+|-
+|Sanity drain speed (%)
+|The rate your sanity decreases while stood in the dark
+|100
+|150
+|200
+|200
+|200
+|0/50/100/150/200
+|200
+|200
+|200
+|-
+|Sprinting
+|The ability to sprint
+|On
+|On
+|On
+|On 
+|On
+|Off/On/Infinite
+|Off
+|Off
+|Off
+|-
+|Player speed (%)
+|How quickly players move 
+|100
+|100
+|100 
+|100
+|100
+|50/75/100/125/150
+|100
+|75
+|50
+|-
+|Flashlights 
+|Turning this off will prevent flashlights from functioning
+|On
+|On
+|On
+|On
+|On
+|Off/On
+|On
+|On
+|Off
+|-
+|Lose items and consumables
+|Turning this setting off will result in zero rewards
+|On 
+|On 
+|On
+|On
+|On 
+|Off/On
+|On
+|On
+|On
+|-
+! rowspan="13" |Ghost
+|Ghost
+|Force a specific Ghost Type to spawn
+|Random
+|Random
+|Random
+|Random
+|Random
+|Random/Aswang/Banshee/Dayan/Deildegast/Demon/Deogen/Gallu/Goryo/Hantu/Jinn/Kormos/Mare/The Mimic/Moroi/Myling/Obake/Obambo/Oni/Onryo/Phantom/Poltergeist/Raiju/Revenant/Shade/Spirit/Thaye/The Twins/Wraith/Yokai/Yurei
+|Random
+|Random
+|Random
+|-
+|Ghost speed (%)
+|How quickly the ghost moves
+|100
+|100
+|100
+|100 
+|100
+|50/75/100/125/150
+|150
+|150
+|150
+|-
+|Roaming frequency
+|How often the ghost moves around the environment
+|Medium
+|Medium
+|High
+|High
+|High
+|Low/Medium/High
+|High
+|High
+|High
+|-
+|Changing favourite room
+|The chance of the ghost changing its favourite room
+|None
+|None
+|Low 
+|Medium
+|High 
+|None/Low/Medium/High
+|High
+|High
+|High
+|-
+|Activity level
+|The chance for the ghost to interact with objects
+|High
+|Medium 
+|Low
+|Low
+|Low
+|Low/Medium/High
+|Low
+|Low
+|Low
+|-
+|Event frequency
+|The chance for the ghost to trigger an event
+|Low
+|Medium
+|Medium
+|High 
+|High
+|Low/Medium/High
+|Low
+|Low
+|Low
+|-
+|Friendly ghost
+|The ghost will never hunt. Turning this setting on will result in zero rewards
+|Off 
+|Off
+|Off
+|Off
+|Off
+|Off/On
+|Off
+|Off
+|Off
+|-
+|Grace period (s)
+|The duration before the ghost can kill you at the start of a hunt<br><small>''Only shows when Friendly ghost is off''</small>
+|5
+|4
+|3
+|2
+|2
+|0/1/2/3/4/5
+|2
+|2
+|0
+|-
+|Hunt duration (s)<ref group="note" name=":0">Hunt duration also depends on the map size and whether a player death will extend the hunt. See [[Hunt]] for more details.</ref>
+|The duration the ghost will hunt for<br><small>''Only shows when Friendly ghost is off''</small>
+|Low
+|Medium 
+|High
+|High
+|High
+|Low/Medium/High
+|High
+|High
+|High
+|-
+|Kills extend hunts (s)
+|The time added to the hunt duration when killing a player<br><small>''Only shows when Friendly ghost is off''</small>
+|Off
+|Off
+|Off
+|Low
+|Low
+|Off/Low/Medium/High
+|High
+|High
+|High
+|-
+|Evidence given
+|How many types of evidence you can gather
+|3
+|3
+|3
+|2
+|1
+|0/1/2/3
+|2
+|1
+|0
+|-
+|Fingerprint chance (%)
+|The chance of a ghost leaving fingerprints when interacting<br><small>''Only shows when Evidence given is not 0''</small>
+|100
+|100 
+|100
+|100
+|100
+|25/50/75/100
+|100
+|100
+| -
+|-
+|Fingerprint duration (s)
+|The duration of fingerprints before they disappear<br><small>''Only shows when Evidence given is not 0''</small>
+|120
+|120
+|120
+|120 
+|60 
+|15/30/60/90/120/180/Infinite
+|60 
+|60 
+| - 
+|-
+! rowspan="11" |Contract
+|Setup time (s)
+|How long before the ghost can start a hunt
+|300
+|120
+|0
+|0
+|0
+|0/30/60/120/180/240/300
+|0
+|0
+|0
+|-
+|Weather
+|Set the weather in the location
+|Random 
+|Random
+|Random
+|Random
+|Random
+|Random/Light Rain/Heavy Rain/Snow/Windy/Clear/Fog/Sunrise
+|Random
+|Heavy Rain
+|Heavy Rain
+|-
+|Doors starting open
+|How many doors are randomly moved at the start of the contract
+|None
+|Low
+|Medium
+|High
+|High
+|None/Low/Medium/High
+|High
+|High
+|High
+|-
+|Number of hiding places
+|How many hiding places are available
+|Very High
+|High
+|Medium
+|Low
+|Low
+|None/Low/Medium/High/Very High
+|None
+|None
+|None
+|-
+|Sanity monitor
+|Is the sanity monitor functional
+|On
+|On
+|On
+|Off 
+|Off
+|Off/On
+|On
+|Off
+|Off
+|-
+|Activity monitor
+|Is the activity monitor functional
+|On 
+|On 
+|On
+|Off 
+|Off
+|Off/On
+|On
+|Off
+|Off
+|-
+|Fuse box at start of contract
+|The starting state of the fuse box
+|On
+|Off
+|Off 
+|Off
+|Off
+|Broken/Off/On
+|On
+|Broken
+|Broken
+|-
+|Fuse box visible on map
+|Is the fuse box icon visible on the map<br><small>''Only shows when Fuse box at start of contract is not Broken''</small>
+|On
+|On
+|On
+|Off
+|Off
+|Off/On
+|Off
+|Off
+|Off
+|-
+|Cursed Possessions quantity
+|The number of Cursed Possessions available
+|1
+|1
+|1
+|1
+|0
+|0/1/2/3/4/5/6/7
+|1
+|0
+|0
+|-
+|Cursed Possession #1 - #7
+|<small>''Number of options shown depends on the quantity setting''</small>
+|Random
+|Random
+|Random
+|Random
+| -
+|Random/Tarot Cards/Ouija Board/Haunted Mirror/Music Box/Summoning Circle/Voodoo Doll/Monkey Paw
+|Random
+| -
+| -
+|-
+|Ghost responsiveness
+|Displays whether the ghost responds to people who are alone or everyone 
+|On
+|On
+|Off
+|Off 
+|Off
+| 
+*Setup time = 0s: Off
+*Setup time > 0s: On
+|Off
+|Off
+|Off
+|}
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!30 July 2020<br>(Part 2)
+|Added Intermediate and Professional difficulties.
+|-
+!2 August 2020
+|Reduced the interaction rate on Intermediate and Professional.
+|-
+! colspan="2" |Early Access
+|-
+! rowspan="2" |[[0.4.0]]
+|Added Nightmare difficulty.
+|-
+|The existing difficulties have been reworked.
+|-
+![[0.7.0]]
+|Added Custom difficulty.
+|-
+![[0.8.0]]
+| Reduced the rewards from Custom by 80%.
+|-
+![[0.8.0.2]]
+|Changed the reward reduction for Custom difficulties to 60%.
+|-
+! rowspan="3" |[[0.8.0.3]]
+|Removed reward reductions.
+|-
+|Reward multipliers now have a maximum cap of x15.
+|-
+|Incorrectly identifying the ghost type will round down your multiplier to the next default difficulty; e.g. x7 -> x4; x3.7 -> x3
+|-
+! rowspan="3" |[[0.8.1.0]]
+| Added Insanity difficulty.
+|-
+|Reformulated the custom difficulties.
+|-
+|Added a new Challenge Mode.
+|-
+![[0.10.0]]
+|Renamed "Interaction amount" custom setting to "Activity level".
+|-
+![[0.11.0]]
+|Custom difficulty will now properly unlock at level 50 instead of level 1.
+|-
+![[0.19.0]]
+|Added the ability to select the Ghost Type in a Custom Difficulty which will set the multiplier to 0.
+|}
+
+==Notes==
+{{reflist|group="note"}}
+[[ru:Сложность]]
+[[fr:Difficulté]]
+[[Category:Settings]]

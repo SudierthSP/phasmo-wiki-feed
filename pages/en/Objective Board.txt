@@ -1,0 +1,25 @@
+# Objective Board
+# revid 21239  2025-06-27T18:01:42Z  by Darkhooper
+# 备注: removed Objectives and Photos sections: respective info on Objectives and Media pages / new file
+# sha256 0b481b970ebf943d0d08b8d5abcc85096e06a629b700d130aff4e6521a520ab4  bytes 825
+# 源: https://phasmophobia.fandom.com/api.php[[File:ObjectiveBoard.png|thumb|Example of an objective board]]
+The '''Objective Board''' can be found in the [[truck]], between the [[computer]] and the [[Site Activity Monitor]] and [[Sound Monitor]].
+
+==Usage==
+When in a [[contract]], the objective board will display the following information:
+*The case number
+*The ghost's name
+*Whether the ghost responds to everyone or only people that are alone (this information is not provided on Professional, Nightmare, and Insanity [[difficulty|difficulties]])
+*3 [[objectives]]
+*5 video slots, 5 photo slots, and 3 sound slots that can be filled
+
+==Trivia==
+*Before [[0.174]], completed tasks were crossed out, instead of greyed out.
+
+==See also== 
+*[[Evidence]]
+*[[Media]]
+{{Equipment nav}}
+[[Category:Truck Equipment]]
+[[fr:Tableau d'objectifs]]
+[[ru:Список задач]]

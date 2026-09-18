@@ -1,0 +1,62 @@
+# 0.3.0.1
+# revid 23928  2026-06-28T21:39:04Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 499d1b342f7d1c224e1da4f13f3f37704c39a6052e74076d5cf8ba03fd901d4c  bytes 2092
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=27 August 2021
+  | previous_major_version=[[0.3.0]]
+  | next_major_version=[[0.4.0]]
+  | next_minor_version=[[0.3.0.2]]
+}}'''0.3.0.1''' is a minor update to the game released on 27 August 2021.<ref>https://store.steampowered.com/news/app/739630/view/2939149643326247321</ref> The update balances several gameplay features and fixes bugs.
+
+== Additions ==
+=== General ===
+*Added options to toggle Film Grain and Chromatic Aberration post processing effects
+
+== Changes ==
+
+=== Equipment ===
+;[[D.O.T.S. Projector]]
+*Will now activate much more frequently and will now work in large rooms
+
+;[[Ghost Writing Book]]
+*Legibility of visuals has been improved
+
+;[[Glowstick]]
+*Glow now lasts 1 minute and fades to half intensity over the following 10 seconds
+
+;[[Lighter]]
+*Light range has been significantly lowered
+
+;[[Video Camera]]
+*Removed blur from video cameras
+
+=== Gameplay ===
+*Removed subtle glitch effect from all cameras that was causing motion sickness
+
+=== Hunts ===
+{{Main|Hunt}}
+*Grace period at the start of a hunt has been increased from 3 to 4 seconds
+
+=== General ===
+*Updated hair shaders to stop UI showing through them
+*Updated several lights in the game to improve performance
+
+== Bug Fixes ==
+*Fixed a bug where the parabolic microphone wouldn't allow you to hear paranormal sounds
+*Fixed a bug where the CCTV system would break if a player died with a head mounted camera
+*Fixed several performance issues with the video and cctv cameras
+*LIV VR: Potential fix for the character model showing over yourself in the spectator view
+*Fixed a bug where screen space reflections were not working
+*Fixed VR equipment grab rotations for some equipment
+*Fixed a bug where the Smudge Stick had two right hands for VR
+*Fixed a bug where your FOV would reset on the main menu after sprinting if you changed your FOV
+*Fixed a bug where you could place a Motion Sensors on the floor
+*Fixed a bug where you could place a DOTS Projector on certain objects
+
+== References ==
+{{reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.3.0.1]]
+[[ru:0.3.0.1]]

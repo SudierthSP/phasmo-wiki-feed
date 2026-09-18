@@ -1,0 +1,34 @@
+# 0.6.2.3
+# revid 23961  2026-06-28T21:41:27Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 3c402849df57d4f79c05964a2fc4d3466a1508ecaa74f384e4189105e0a0105e  bytes 1443
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=11 July 2022
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.2.2]]
+  | next_major_version=[[0.7.0]]
+  | next_minor_version=[[0.6.3.0]]
+}}'''0.6.2.3''' is a minor update to the game released on 11 July 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3334369135256365302 Truck Overhaul | Hotfix v0.6.2.3 (on Steam)]</ref> This update changes a mechanic related to smudge sticks and fixes bugs.
+
+== Changes ==
+*Held smudge sticks can no longer be lit by other players
+
+== Bug fixes ==
+* The Phantom will now disappear when a photo is taken of it by non-hosts
+* Ghost footsteps will no longer stop spawning during hunts for fast ghosts
+* VR players can now hear the Truck footstep sounds
+* VR players can now grab objects when not connected to the server
+* Each Spirit Box will now have the same type of sounds
+* Fixed a bug where ghosts wouldn’t play footstep sounds on all surfaces they walked on
+* Fixed several issues related to the ghost not checking for players behind doors
+* Ghosts will no longer wander far away multiple times in a row
+* The Maple Campsite CCTV counter will now show the correct values
+* The campfire will now show the correct temperature on the Thermometer
+* The campfire will now increase the room temperature for everyone when lit by another player
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.6.2.3]]
+[[ru:0.6.2.3]]

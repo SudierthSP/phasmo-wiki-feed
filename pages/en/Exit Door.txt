@@ -1,0 +1,39 @@
+# Exit Door
+# revid 22785  2026-03-03T00:48:17Z  by Darkhooper
+# 备注: correct navbox
+# sha256 c5ceb833558c610f3446d42cfa5803248004617e37194138c4991d4d930edae3  bytes 2903
+# 源: https://phasmophobia.fandom.com/api.php[[File:TanglewoodExitDoor.png|thumb|256x256px|The exit door on [[6 Tanglewood Drive]].]]
+An '''exit door''' is a physical barrier, often in the form of a [[door]], that separates the safe area (usually the "outside") from the investigation area of any given [[map]]. 
+
+== Mechanics ==
+Each map will have at least one exit door, with the [[truck]] located in a way that allows the player to walk directly to it. Some maps contain more than one exit door, which may or may not be directly accessible from the truck. In [[Maple Lodge Campsite]] and [[Camp Woodwind]], the exit door is a set of wooden gates as opposed to a building door. 
+
+The main door [[key]] must first be obtained to unlock the door. When any exit door is opened for the first time, the [[setup phase]] will begin and the ghost will "activate". As soon as a player steps inside the investigation area, their [[sanity]] can become affected. 
+
+When a [[ghost]] begins to [[hunt]], all exit doors will automatically close and become locked, indicated with a distinctive locking sound followed by a door "slam" sound, preventing [[player]]s from leaving the investigation area. On top of the locked door, an invisible barrier will also form at all exit doors. This barrier forms the instant the ghost initiates a hunt, which is sooner than the door's closing animation. They will remain locked until the hunt ends, after which they will automatically become unlockable, but remain closed. Already locked exit doors do not make sound upon the beginning of a hunt. 
+
+The ghost may close (but not lock) exit doors during [[ghost event]]s if the player who "activated" the event is in a room that connects to an exit door. The [[Yurei]] can also close the door without a ghost event or hunt by using its ability. Otherwise, ghosts cannot interact with exit doors normally.
+
+==Trivia==
+[[File:Exit door fingerprint.jpg|thumb|200px|A fingerprint on the exit door.]]
+* Items, as well as [[equipment]], can be thrown through doors at any time, even while closed or locked.
+* If the player glitches into the investigation area without unlocking the exit door for the first time, the ghost will remain inactive, and will not hunt, perform [[ghost event]]s, or provide most evidences (apart from [[Ghost Orb]]s).
+*Exit doors can show a [[ultraviolet|handprint]]. For this to happen, the ghost must be [[The Mimic]], it must be mimicking a [[Yurei]], and it must use the door-closing ability on the exit door. Hence, this occurrence is extremely rare.
+
+== Gallery ==
+<gallery>
+Grafton Exit Door.png|The exit door on Grafton Farmhouse.
+Maple Exit Door.png|The exit door on Maple Lodge Campsite.
+</gallery>
+
+== History ==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!23 March 2020
+|Exit doors will now become locked during hunts.
+|}<br>
+{{MapFeatureNav}}
+[[Category:Map Features]]
+[[fr:Porte de sortie]]
+[[ru:Входная дверь]]

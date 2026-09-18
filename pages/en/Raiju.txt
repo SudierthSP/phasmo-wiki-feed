@@ -1,0 +1,76 @@
+# Raiju
+# revid 24235  2026-07-23T07:29:09Z  by Darkhooper
+# 备注: 0.18 changes heartbeat volume but not distance
+# sha256 a43a71a91c71fbf9c082ecbd5c7f7b71549dce6f2d2b9a267e8d677d16e12e42  bytes 5703
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Raiju Discovered.jpg
+ |strength=*Active electronics boost its speed during hunts
+ |weakness(es)=*Disrupts electronics from further away when manifesting
+ |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
+ |Evidence2=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
+ |Evidence3=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
+}}{{Quote
+ |quote=A Raiju is a demon that thrives on electrical current. While generally calm, they can become agitated when overwhelmed with power.
+ |speaker=The Journal
+}}The '''Raiju''' is a type of [[ghost]] in ''Phasmophobia''. The Raiju siphons the power from electronic [[equipment]] to both increase its aggression and boost its speed during a [[hunt]].
+
+==Behaviour==
+===Activity===
+When a Raiju manifests during a [[ghost event]] or a hunt, it will interfere with electronics that are up to 15 metres away on the same floor, instead of the usual 10 metres. This also applies to global chat.
+
+===Hunt===
+[[File:Jinn raiju hunt ghost speed 0.11.0.3.png|thumb|300px|Example graph of Raiju's ghost speed during a hunt]]
+When the Raiju is within a certain distance of at least one piece of active electronic equipment on the same floor (that can also be located outside the investigation area), its hunt [[sanity]] threshold is increased to 65%, and it will move at a fixed speed of 2.5 m/s during hunts:
+*'''Small map:''' 6m
+*'''Medium map:''' 8m
+*'''Large map:''' 10m
+
+Otherwise, it will have the standard threshold of 50% and will follow [[Hunt#Ghost_speeds|standard ghost speeds]] with one particularity: if the Raiju has line-of-sight with a player while near active electronic equipment, the speed increase from continuous line-of-sight adds in the background, and will only be applied once it is no longer near any electronics.
+
+All effects listed above apply to most electronic equipment, whether they are placed, held in the hand, or dropped on the floor. The following do ''not'' count towards the speed boost or the hunt sanity threshold:
+*[[Voice chat#Global chat|Global chat]]
+*[[Video camera]]s and [[Photo Camera|Photo Cameras]] that are ''thrown'' on the ground
+*[[Motion Sensor|Motion sensors]], [[Sound Sensor|sound sensors]], and [[D.O.T.S. Projector]]s that are ''thrown'' on the ground or held (excluding T1 D.O.T.S., which also needs to be turned ''off'')
+*Objects in the inventory (except flashlights that are turned ''on'')
+*Any other electrical equipment not brought in from the truck (building lights, [[fuse box]], [[Video Feed|CCTV]], fans, etc.)
+
+===Miscellaneous===
+The player's heartbeats can be heard within 15 metres of the Raiju, instead of within 10 metres like with other ghosts.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]] [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] [[EMF Level 5]]
+|[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]] [[Ghost Orb]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: A '''Raiju''' can siphon power from nearby electrical devices, making it move faster.''
+
+''Weakness: '''Raiju''' are constantly disrupting electronic equipment when attacking, making it easier to track.''
+
+==Strategies==
+In order to mitigate the risk of an early hunt, it is best to turn off and/or remove any unneeded electronic equipment from the [[ghost room]]; this also prevents the Raiju from harnessing this equipment to empower itself while hunting. Lazily discarding such equipment is a surefire way to make a Raiju extremely dangerous. Additionally, players often have the reflex of discarding electronic items behind them when a hunt starts to not attract the ghost's attention to them; this should be avoided with Raijus to not leave a trail of electronic equipment to power its speed ability. Instead, players should either switch to a non-electronic item or turn off their electronic item.
+
+The Raiju may be readily-identified by being mindful of its speed during a hunt, particularly on small [[map]]s, so long as there are active electronic items nearby. If the ghost suddenly and significantly speeds up when roaming (and not chasing particular players), then it is most likely a Raiju, though be mindful of mistaking this with a [[Hantu]] speeding up as it moves from a warm room to a cold room; the only evidence they share is Ghost Orbs so getting any other evidence can confirm whether the ghost is a Raiju or Hantu. A safe way to check for this is to turn off all other nearby active electronics, drop an active electronic in the player's hiding spot, and during a hunt, check if the ghost's footsteps suddenly speed up when nearby.
+
+==Trivia==
+*In Japanese mythology, Raijus (雷獣, or "thunder beasts") are divine creatures most commonly depicted as a canine animal surrounded by lightning. Raijus are thought to be living in the sky, descending onto earth during thunderstorms by riding a lightning bolt to cause mayhem and destruction. As such, lightning strikes were often interpreted as the passage of a Raiju or divine punishment in ancient Japan. In-game, Raijus do not actually appear in animal forms, and simply draws from the regular pool of [[Ghost Model|Ghost Models]].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.4.0]]
+|Added Raiju.
+|-
+![[0.12.0.1]]
+|Increased the heartbeat sound range from 10 to 15 metres.
+|}
+{{Ghost nav}}
+[[ru:Райдзю]]
+[[fr:Raiju]]
+[[Category:Ghosts]]

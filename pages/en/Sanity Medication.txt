@@ -1,0 +1,143 @@
+# Sanity Medication
+# revid 21402  2025-07-04T17:39:07Z  by Darkhooper
+# 备注: tier 1 and 3 unlock levels
+# sha256 19b489122c2d705b88ff21024c0ce70eff1a76a4d67eaa92f3dedc6ece9a69f7  bytes 8039
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=Med090_T1.png
+ | tier ii img=Med090_T2.png
+ | tier iii img=Med090_T3.png
+
+ | price=$20
+ | maxamount=4
+ | uses=1
+ | starter=No
+ | tier i level=14
+ | tier ii level=39
+ | tier iii level=75
+
+ | tier i description=We’re not sure how safe this Insane Away formula is, but it seems to help during those panicked ghost hunting sessions.
+ | tier i purpose=Drink this bottle of vintage snake oil to restore a portion of your sanity. It will take a few seconds to complete the restoration, and the amount restored will depend on the difficulty you are playing.
+ | tier i ability=<span style="color: #008000;">Sanity Restoration Speed (s): 20</span><br><span style="color: #ff0000;">Consumable</span>
+ | tier ii description=A much more regulated and mass-produced product. Ghost Huntin’ Distribution must have hired some experts for this one.
+ | tier ii purpose=Taking these pills will restore your Sanity faster. You can take several pots to increase the amount of Sanity restored over its duration.
+ | tier ii ability=<span style="color: #008000;">Sanity Restoration Speed (s): 10</span><br><span style="color: #ff0000;">Consumable</span>
+ | tier iii description=A new formula created by specialists around the world, neatly contained in a small injection.
+ | tier iii purpose=This Adrenaline Shot will restore your sanity much faster than the previous two versions, additionally, you will not lose any sprint stamina for the entire duration of its effects.
+ | tier iii ability=<span style="color: #008000;">Sanity Restoration Speed (s): 10<br>Sprint Boost (s): 10</span><br><span style="color: #ff0000;">Consumable</span>
+}}
+'''Sanity Medication''' is a purchasable item that is used to replenish a player's [[sanity]].
+
+==Mechanics==
+{{Control|Consuming}} sanity medication will replenish a certain amount of the player's sanity up to the maximum of 100%, depending on [[difficulty]]:
+* Amateur: 40%
+* Intermediate: 35%
+* Professional: 30%
+* Nightmare: 25%
+* Insanity: 20%
+* Custom: 0% - 100%
+
+Consuming sanity medication will cause it to drop from the player's hand, and that item will no longer be consumable. Sanity medication cannot be consumed if the player's sanity is above 95%.
+
+Depending on the tier of the medication, the speed of restoration will differ (the tier does not change the amount of sanity restored). It is recommended to stay outside of the house/in the truck until the full sanity amount has been restored in order to accurately track sanity for hunts.
+* Tier I: 20 seconds
+* Tier II: 10 seconds
+* Tier III: 10 seconds
+
+===Tier III sprint boost===
+Once consumed, the Tier III sanity medication grants the player a sprint boost for 10 seconds, which means the player can run without exhaustion during that period. During the boost, the player can hear the heartbeat noise. After the boost, the user will normally consume the sprint stamina until they are exhausted. Consuming a Tier III sanity medication while a sprint boost is active doesn't extend the sprint boost time.
+
+== Tips ==
+Strategically used, sanity medication can help to stave off hunts by bringing the average sanity back above the ghost's hunt sanity threshold. They can also be used to allow for further usage of [[cursed possession]]s such as [[Ouija Board]]s, to avoid breaking the possession. Sanity medication could even be used to identify ghosts based by seeing if they hunt above a certain threshold (e.g. [[Shade]]), or by performing a test for the [[Moroi]].
+
+If one's aim is to delay hunts through sanity medication, specifically on multiplayer, one possible way to do this would be to distribute the sanity medication so that the overall sanity drain is slower on average.
+* For example, if just one player is at 0% sanity and the remaining players have enough sanity to be above the hunt threshold, then these remaining players should take the sanity medication instead of the 0% player. This would make it so that less players are reducing the average sanity of the entire team.
+* Another example is when all players are at varying levels of sanity; the players who tend to manage their sanity better could take the sanity medication, as long as this keeps the average sanity above the hunt threshold.
+Note that results may vary depending on factors such as the hunt sanity threshold, the ghost type, or players dying.
+
+Alternatively, Sanity Medication can be saved as an "emergency ration" for the last player(s) when multiple players have already died; this allows the surviving players to raise the average sanity higher than what would be possible when there are still more players alive, and possibly raise it above the hunt threshold when it wouldn't have been possible with more players.
+
+* For example, if all four players are at 0% sanity, and one player takes multiple Sanity Medication to raise their sanity to 100%, the average sanity would still only be 25%; if only two players are alive, then the average sanity would be 50% instead of 25%.
+
+Though a less common use (as Sanity Medication is often consumed in the truck and rarely brought into the investigation area), Tier III Sanity Medication can prove to be a potent tool in escaping the ghost during a hunt, as the player's sprint speed of 3 m/s is much faster than the speeds of most ghosts (barring ghosts such as [[Revenant|Revenants]] or [[Thaye|Thayes]]), and the player can easily outrun one while the sprint boost is active, allowing them to lose the ghost and get to safety while potentially rising their sanity enough to prevent another hunt from occurring. 
+
+== Related difficulty settings ==
+{{Main|Difficulty}}
+* '''Sanity pill restoration (%):''' The amount of sanity restored per sanity medication item
+
+==Trivia==
+
+*Before [[0.3.0]], the substance labeled on the bottle itself was [https://www.webmd.com/drugs/2/drug-4156/chlorpheniramine-oral/details chlorpheniramine maleate], an antihistamine used to treat hay fever and allergy symptoms.
+
+== Gallery ==
+<gallery>
+File:Sanity Pills.png|The old sanity pills packer bottles
+File:New Sanity Pills.jpg|The sanity pills packer bottlers before the [[0.6.2.0|truck's layout overhaul]]
+File:SanityPotion.png|The tier I sanity medication shown at the Lobby
+File:EctoAdrenaline.png|The tier III sanity medication shown at the Lobby
+</gallery>
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!3 February 2020
+|Painkillers are now consumed instantly.
+|-
+!4 February 2020
+|Renamed Painkillers to Sanity Pills.
+|-
+! rowspan="2" |25 March 2020
+|Sanity pills now have a slight delay before taking effect.
+|-
+|Sanity pills now have sound effects.
+|-
+! rowspan="2" |7 July 2020
+|The sanity restored has been reduced from 50% to 40%.
+|-
+|Sanity pills will now be removed from the hand when consumed.
+|-
+! rowspan="2" |12 August 2020
+|Sanity pills now cost $30 instead of $25.
+|-
+|Only 3 Sanity Pills can now be brought per contract, down from 4.
+|-
+! rowspan="2" |30 August 2020
+|4 Sanity pills can now be brought per contract again, up from 3.
+|-
+|Sanity pills now cost $45 instead of $30.
+|-
+! colspan="2" |Early Access
+|-
+![[0.3.0]]
+|Changed the Sanity pills model.
+|-
+![[0.4.0]]
+|Sanity pills now restore different amounts of sanity depending on difficulty.
+|-
+! rowspan="2" |[[0.6.0]]
+|Sanity pills now need to be re-bought when consumed.
+|-
+|Sanity pills now cost $20 instead of $45.
+|-
+![[0.6.0.1]]
+|Sanity pills no longer need to be re-bought when consumed. 
+|-
+![[0.8.0]]
+|Sanity pills now drop to the ground once consumed.
+|-
+! rowspan="3" |[[0.9.0]]
+|Sanity pills renamed to sanity medication.
+|-
+|Sanity Medication now has 3 tiers.
+|-
+|Sanity medication now needs to be re-bought when consumed.
+|-
+! rowspan="2" |[[0.10.0]]
+|Reduced the sanity restoration time for tier I and tier II to 20 seconds and 10 seconds, respectively.
+|-
+|Tier III will now instantly refill your stamina in addition to keeping it full for 10 seconds.
+|}<br>
+{{Equipment nav}}
+[[Category:Equipment]]
+[[fr:Médicament de Santé mentale]]
+[[ru:Успокоительное]]

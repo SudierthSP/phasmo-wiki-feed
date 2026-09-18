@@ -1,0 +1,136 @@
+# EMF Reader
+# revid 21385  2025-07-04T17:05:05Z  by Darkhooper
+# 备注: tier 2 and 3 unlock levels
+# sha256 27901247bbca6592e2e288dd700841b15f975a027960275fe53f39d99f550b07  bytes 7597
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=EMF090_T1.png
+ | tier ii img=EMF090_T2.png
+ | tier iii img=EMF090_T3.png
+
+ | price=$45
+ | maxamount=2
+ | uses=
+ | starter=Yes
+ | tier i level=
+ | tier ii level=18
+ | tier iii level=46
+
+ | tier i description=An EMF Meter with several modes for checking different interferences in the air. Sadly, it’s old and only one of them works, luckily, it’s the one we need for paranormal readings!
+ | tier i purpose=Switch this EMF meter on and scan anything that moves to see if you get a reading.<br>If the needle starts to move rapidly above a reading of 5, you’ve found some evidence!
+ | tier i ability=<span style="color: #008000;">Accuracy: Low<br>Range (m): 1.7</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier ii description=The trusty K2, it’s been used by paranormal investigators all over the world with consistent results.
+ | tier ii purpose=The K2 meter has a larger range and five LED lights to display EMF readings, as well as an additional speaker module.<br>One light will turn on when you activate the device, two to four lights will emit for general interactions, and all five lights will glow when evidence has been found!
+ | tier ii ability=<span style="color: #008000;">Accuracy: Medium<br>Range (m): 2<br>Audio Indicator</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier iii description=A custom-made device from Ghost Huntin’ Distribution. Capable of much more than just displaying EMF values on its large screen.
+ | tier iii purpose=This EMF Reader can track up to three EMF spots at once. For each of them it will display the range, a directional display and the intensity of the reading.<br>
+Once an EMF spot fades away, the remaining readings will be pushed up in the list on the screen, so that the newest one is always at the bottom.<br>Each EMF reading will also play a beeping sound periodically, a higher pitch note relates to a higher intensity of EMF!
+ | tier iii ability=<span style="color: #008000;">Accuracy: High<br>Range (m): 3.5<br>Audio Indicator<br>Display Screen<br>Distance Indicator<br>Directional Indicator</span><br><span style="color: #ff0000;">Electronic</span>
+}}The '''EMF reader''' is a buyable piece of [[equipment]] used to read the strength of [[EMF|electromagnetic fields]] in the nearby environment.
+
+The EMF reader is used to detect [[evidence]] of [[EMF Level 5]].
+
+==Mechanics==
+The reader can be {{Control|toggled}} on to begin reading any emissions. The device's effective range, as well as how the reading is displayed, is dependent on the tier of the EMF Reader.
+
+Holding an active EMF reader within 7.5 metres of a ghost (or 2.5 metres for a [[Yokai]]) during a [[hunt]] on the same floor will attract the ghost. During [[hunt]]s or when the ghost manifests, EMF readers within 10 metres of the ghost (or higher for a [[Raiju]]) will malfunction and display random values between level 1 and 4.
+
+=== Tier I ===
+The Tier I EMF Reader is an old '''GheistField Meter'''. It is reminiscent of an old Geiger counter, and has a 1.7 metre range at which it can pick up readings. When in range of an EMF reading, it will begin clicking and the dial will move to the rough area corresponding to the value of the EMF source, though the dial will sway up or down a bit due to its age. 
+
+When [[EMF Level 5]] is detected, the dial will quickly shoot all the way to the right, and sway a lot less down, staying at ''and'' far past the level 5 mark (staying at and below does not count).
+
+=== Tier II ===
+The Tier II EMF Reader is the '''K2 Meter.''' The K2 is a small black box adorned with five colored LED lights, each one indicating a different EMF reading. The K2 has an effective range of 2 metres. When detecting an EMF emission, the reader will light up various numbers of its LEDs, accompanied with a pitch associated with the measured reading's level. If multiple EMF emissions are in range, the one with the highest EMF level will be indicated by the reader, though some fine positioning may be able to change which reading its being given out. 
+
+When [[EMF Level 5]] is detected, all five lights will be illuminated, and it will make a very high pitch tone.
+
+=== Tier III ===
+The Tier III EMF Reader is the '''EMF ParaMeter'''. It is similar in design to a PDA, with a blocky black plastic shell and a large center screen. It has a 3.5 meter range. It is able to read and track up to three interactions at once, giving the reading's EMF level by filling in dashes, and additionally reads out how far away that the reading occurred from the device (in meters) as well as the direction at which the interaction happened, allowing for the holder to quickly track down where the EMF emission is sourced from. 
+
+When detecting something that is not [[EMF Level 5]], it will create a beeping sound. When detecting EMF Level 5, all dashes will fill and a unique beeping noise that is higher pitched will play.
+
+=== EMF levels===
+{{main|EMF}}
+{| class="wikitable"
+|+
+!EMF Level !!LED Colour (Tier II Reader) !!Ghost Activity
+|-
+!1
+|
+<center><span class="clr" style="color: #0080ff">Blue</span></center>
+|None, default state
+|-
+!2
+|
+<center><span class="clr" style="color: #199b1e">Green</span></center>
+|[[EMF#Level 2: Interaction|Interacting with an object]]<br>Using an ability
+|-
+!3
+|
+<center><span class="clr" style="color: #e8c252">Yellow</span></center>
+|[[EMF#Level 3: Throwing|Throwing an object]]
+|-
+!4
+|
+<center><span class="clr" style="color: #ff8800">Orange</span></center>
+|[[EMF#Level 4: Manifestation|Manifestation]]
+|-
+!5
+|
+<center><span class="clr" style="color: #ff0000">Red</span></center>
+|Evidence (33% chance)
+|}
+
+== EMF Level 5 == 
+{{main|EMF Level 5}}
+If the ghost has EMF Level 5 as a possible piece of evidence, each EMF occurrence of Levels 2 or 3 has a 33% chance to be a Level 5 emission instead. EMF Level 5 does not necessarily indicate strong activity or immediate danger to the player.
+
+==Tips==
+* If players are looking for evidence of EMF Level 5, players should use the reader every time the ghost touches an object or surface, and within the 20 second period that the EMF will be active for.
+* It may be possible to mishear a pitch for EMF 5, especially with certain speakers. Visually read off the EMF level to be certain.
+* EMF Readers, especially Tier II readers, create a substantial amount of noise when malfunctioning, making discarded ones good beacons of the ghost's general location during a hunt.
+
+==Gallery==
+<gallery>
+File:Emf reader.jpg|thumb|Old EMF reader model
+File:Analog EMF attached to the wall.png|Tier I EMF reader on the wall in the main hall.
+File:EMF 0 - Avatar Frame.png|EMF 0 Avatar Frame for Steam
+File:EMF 5 - Avatar Frame.png|EMF 5 Avatar Frame for Steam
+</gallery>
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+! 29 January 2020
+|Lowered the EMF reader's volume.
+|-
+! 17 February 2020<br>-<br>2 March 2020
+|Turning on or off the EMF reader now emits a sound.
+|-
+! colspan="2" |Early Access
+|-
+! 29 October 2020
+|The EMF reader pitch has been lowered.
+|-
+! rowspan="2" |[[0.3.0]]
+|Changed the EMF reader model.
+|-
+|The EMF reader pitch is now based on the reading.
+|-
+![[0.9.0]]
+|The EMF Reader now has 3 tiers.
+|-
+! rowspan="2" |[[0.10.0]]
+|Tier I's needle will no longer flicker near or past the 5 value during events and hunts.
+|-
+|Tier III's readings now have a new sound.
+|-
+![[0.11.0]]
+|Reverted Tier III's EMF 2 - 4 readings sounds to pre-0.10.
+|}<br>
+{{Equipment nav}}
+[[Category:Equipment]]
+[[Category:Starter Equipment]]
+[[fr:Lecteur EMF]]
+[[ru:Детектор ЭМП]]

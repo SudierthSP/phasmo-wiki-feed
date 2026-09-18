@@ -1,0 +1,5 @@
+# Exposition Update
+# revid 7561  2021-10-28T04:47:43Z  by Skaijie
+# 备注: Redirected page to [[0.3.0]]
+# sha256 91bfe2695115771f0b128d84f99a7316ad66d4ff7fc65c5508c8504589a20608  bytes 19
+# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[0.3.0]]

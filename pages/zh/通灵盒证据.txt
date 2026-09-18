@@ -1,0 +1,198 @@
+# 通灵盒证据
+# revid 3657  2024-12-16T14:54:42Z  by Skaijie
+# sha256 18d8c6c9ad464243b085839d377f704b9571e7f78a731d851549c378b294e916  bytes 3583
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Evidence_Infobox
+ |detected_by=[[File:SpiritBox_Render.png|24x24px|link=通灵盒]] [[通灵盒]]
+ |image1=SpiritBox_Ghost.png
+ |caption1=二级通灵盒鬼魂回应图标
+}}
+
+'''通灵盒证据'''是一件用于决定鬼魂类型的证据。对应的装备为[[通灵盒]]。
+
+==获取证据==
+通灵盒证据需要开启通灵盒向鬼提问获取。若想要得到回应，通灵盒有几种使用条件：
+
+*与鬼魂在同一房间。
+*玩家在鬼魂附近（一级通灵盒需要 3 米内，二级需要 4 米内，三级需要 5 米内）
+*关闭房间光源（除了装备发出的光，比如手电筒、紫外线手电筒、荧光棒、蜡烛、运动传感器和点阵投影仪）。其它房间的光源可以开启，不需要关房门。
+*回应单人的鬼魂（手册和任务版看得到）只在房间里有一个人时才会回应，否则多少人都无所谓。
+
+符合了所有条件，鬼魂会有几率通过通灵盒回答。
+
+===可能的问题===
+参阅''[[通灵盒#问题类型|问题类型]]''
+
+====攻击性问题====
+{| class="mw-collapsible mw-collapsed fandom-table"
+!'''攻击性问题'''
+|-
+|你想要什么
+|-
+|你为什么在这
+|-
+|你想伤害我们吗
+|-
+|你生气吗
+|-
+|你要我们在这里吗
+|-
+|我们要离开吗
+|-
+|我们该离开吗
+|-
+|你想让我们离开吗
+|-
+|我们应该做什么
+|-
+|我们可以帮你吗 
+|-
+|你友善吗
+|}
+;回应
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="3" |'''攻击性回应'''
+|-
+!语言线数
+!例子
+|-
+|6
+|
+*...getting '''attacked''' has left a...
+*...an '''attack''' was...
+|-
+|7
+|
+*...in a tragic '''death'''...
+*...person '''died''', and...
+*...playing with '''death'''...
+|-
+|6
+|
+*...act of '''hate''' reverberated...
+*...possible '''hate''' crime...
+|-
+|6
+|
+*...left '''hurt''' after a distress...
+*...'''injured''' in a...
+|-
+|6
+| 
+*...active '''killing'''...
+*...tragic '''killing''', a...
+|}
+
+
+====位置问题 ====
+{| class="mw-collapsible mw-collapsed fandom-table"
+!'''位置问题'''
+|-
+|你在哪
+|-
+|你离我们很近吗
+|-
+|你能现身吗
+|-
+|给我们个信号
+|-
+|让我们知道你在这里
+|-
+|现身吧
+|-
+|你现在方便说话吗
+|-
+|和我们说话吧
+|-
+|你在这里吗
+|-
+|你在吗
+|-
+|有人吗
+|-
+|这有人吗
+|-
+|有人在房间里吗
+|-
+|有人在吗
+|-
+|有鬼在吗
+|-
+|这里有鬼吗
+|-
+|你在什么位置
+|}
+;回应
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="3" |'''位置回应'''
+|-
+!距离
+!语言线数
+!例子
+|-
+| rowspan="2" |2 米内
+|6
+|
+*...a '''close''' encounter...
+*...were '''close''' to an abandoned...
+*...in a '''close'''-knit community...
+*...'''close''' to a bustling...
+|-
+|6
+|
+*...from '''behind''', unsuspectingly...
+*...from '''behind''', leaving...
+|-
+| rowspan="2" |2 - 5 米内
+|6
+|
+*...I was taken '''away''', then...
+|-
+|7
+|
+*...the '''far'''-reaching...
+*...found '''far''' from their home...
+*...'''far''' and wide...
+|}
+
+
+====年龄问题====
+{| class="mw-collapsible mw-collapsed fandom-table"
+!'''年龄问题'''
+|-
+|你多大了
+|-
+|你有多年轻
+|-
+|贵庚
+|-
+|你是什​​么时候出生的
+|-
+|你是小孩吗
+|-
+|你是老人吗
+|-
+|你是年轻人吗
+|}
+;回应
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="3" |'''年龄回应'''
+|-
+!语言线数
+!例子
+|-
+|6
+|
+*...an '''elderly''' individual...
+*...an '''elderly''' victim...
+*...an '''elderly''' resident...
+|-
+|6
+|
+*...of a '''young''' individual...
+*...when a '''young''' assailant...
+|}
+
+==逸闻轶事==
+*一些通灵盒问题也可用在[[通灵板]]上
+{{EvidenceNav}}
+[[Category:证据]]

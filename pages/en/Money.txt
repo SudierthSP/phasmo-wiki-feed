@@ -1,0 +1,101 @@
+# Money
+# revid 24268  2026-07-24T04:38:36Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 31567bb1915d7a8239952cb66d721335fb96812894983a78b4562ef8abc88e04  bytes 4855
+# 源: https://phasmophobia.fandom.com/api.php'''Money''' in ''Phasmophobia'' is used to purchase [[equipment]] to bring on investigations or [[cosmetics]].
+
+==Mechanics==
+Each [[player]] starts off with $0, and can earn money through finishing [[contract]]s, completing [[Daily and Weekly Tasks|tasks]], and selling off previously bought items. Money is used solely to purchase equipment, and will not interfere with any other gameplay mechanic or grant any other bonus to [[player]]s.
+
+The amount of money the player has is listed in the [[Shop]] in the lobby.
+
+===Earning money===
+[[ru:Деньги]]
+[[File:Postgamescreen contractpayment.png|thumb|227x227px|A contract payment summary on the whiteboard of the server lobby after finishing a custom difficulty game.]]
+Players gain money depending on the [[objectives]] they complete and additional secondary evidence that they find:
+{| class="article-table"
+!Task
+!colspan="2"|Money rewarded
+|-
+|rowspan="3"|Ghost identification
+|Small map
+|$100
+|-
+|Medium map
+|$150
+|-
+|Large map
+|$200
+|-
+|Objectives 1 - 3
+|colspan="2"|$25 - 30 per successful objective
+|-
+|[[Media]]
+|colspan="2"|Up to $231
+|-
+|Investigation Bonus
+|colspan="2"|If the player identifies the correct ghost and escapes alive, $ = ''Ghost identification + Completed objectives''
+|-
+|Perfect Investigation Bonus
+|colspan="2"|$50
+|-
+|rowspan="3"|[[Bone Evidence|Bone evidence]]
+|Small map
+|$25
+|-
+|Medium map
+|$35
+|-
+|Large map
+|$50
+|-
+|Blood Moon [[weather]]
+|colspan="2"|+10%
+|}
+To get the additional Perfect Investigation Bonus of $50, the player must identify the correct ghost, complete all 3 objectives, collect the [[Bone Evidence|bone]], and fill the journal with only unique media.
+
+The amount of money gained from ghost identification, optional objectives, recorded media, and any investigation bonus(es) is then multiplied by the [[difficulty]] multiplier:
+*'''Amateur:''' 1x
+*'''Intermediate:''' 2x
+*'''Professional:''' 3x
+*'''Nightmare:''' 4x
+*'''Insanity:''' 6x
+*'''Custom:''' 0x - 15x depending on settings
+
+If the player does not identify the correct ghost on a custom difficulty, their rewards will be rounded down to the nearest default difficulty (e.g. from 7x to 6x, which is the Insanity multiplier). Difficulty multipliers below 1x are not affected.
+
+If the player is dead when the investigation ends, the difficulty multiplier is not applied if it is higher 1x, and the money earned is halved.
+
+If the resulting money is not an integer value, it is then rounded down to the nearest integer.
+
+A summary of all the money earned in a game will be displayed on the contract payment board after completing a contract.
+
+===Insurance===
+{{See also|Death#Post-game rewards}}
+If a player is dead when the investigation ends, all equipment that they added to the mission is lost, unless the "Lose items upon death" difficulty setting is turned off. Insurance will reimburse dead players with a portion of the money spent on purchasing those items. The percentage of money paid out is dependent on the difficulty of the contract:
+{| class="article-table"
+!Difficulty
+!Money refunded
+|-
+|Amateur<br>Difficulty multiplier ≤ 1x
+|'''50%''' of the value of all the added items
+|-
+|Intermediate<br>Difficulty multiplier ≤ 2x
+|'''25%''' of the value of all the added items
+|-
+|Professional<br>Nightmare<br>Insanity<br>Difficulty multiplier > 2x
+|Nothing
+|}
+Insurance money is not multiplied by the difficulty multiplier.
+
+==Notes==
+*Picking up the bone and taking a picture of the bone are not the same. Each one of these actions rewards the player with money but they are not linked one to another. This means that the player can pick up the bone for the money or take a picture for the money without doing the other action. The picture of the bone will be registered in the Pictures section of the game summary, and picking up the bone will be registered in the Bone evidence category.
+*Insurance payout is not affected by whether a photo of the dead player's [[death|body]] is taken.
+
+==Trivia==
+*Given that the game is set in the United States, it is implied that the currency used is the US Dollar.
+*The limit on the amount of money one can have is $2,147,483,647 (2<sup>31</sup> − 1), the maximum value of a [https://learn.microsoft.com/en-us/dotnet/api/system.int32.maxvalue?view=net-8.0 Int32] variable (that is used to store the player money in the save file).
+*The theoretical maximum amount of money you can earn from a single contract (excluding Daily and Weekly Tasks) is $14,261, by completing a perfect game against an [[Obake]] on the highest difficulty multiplier with Blood Moon weather on [[Map#Large|large maps]]. When additionally completing all the most rewarding daily and weekly tasks during a [[Special events|special event]] (only on the 2nd, 11th, and 25th of the month), the absolute maximum money is $22,861.
+
+[[Category:Gameplay]]
+[[fr:Argent]]

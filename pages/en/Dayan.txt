@@ -1,0 +1,75 @@
+# Dayan
+# revid 24365  2026-07-30T15:44:16Z  by Pyrebow
+# 备注: It also has been seen in others as well
+# sha256 3de989c61d3c5077352f519feaec5924d3cb890a7fcb1c27f1cff8d38317ebcb  bytes 6674
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=
+ |strength=*Moves quicker during hunts and hunts sooner when a player moves near the ghost
+ |weakness(es)=*Moves slower during hunts and hunts later when a player stands still near the ghost
+ |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
+ |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
+ |Evidence3=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
+}}{{Quote
+ |quote=The Dayan is born from the soul of someone who suffered immense cruelty in life. Now, in death, she is hyper-vigilant of anyone who 'dances' too close.
+ |speaker=The Journal
+}}The '''Dayan''' is a type of [[ghost]] in ''Phasmophobia''. Its unique trait allows it to speed up when players move near it but also makes it slow down when players stop moving.
+
+==Behavior==
+===Hunt===
+[[ru:Дайан]]
+[[File:Dayan Speed.png|thumb|300px|Example graph of Dayan's speed during a hunt]]
+When a player is within 10 metres of the Dayan, whether on the same floor or not, the ghost will have a modified [[hunt]] sanity threshold and hunt speed depending on further factors:
+*If the closest player is still, the threshold is decreased to 45% and the ghost will have a fixed speed of 1.2 m/s.
+*If the closest player is walking, the threshold is increased to 65% and the ghost will have a fixed speed of 2.25 m/s.
+
+If there is no player within 10 metres of the Dayan, it will have the standard threshold of 50% and follow [[Hunt#Ghost speeds|standard ghost speeds]] with one particularity: if the Dayan has line-of-sight with a player within 10 metres, the speed increase from continuous line-of-sight adds in the background, and will only be applied once it is no longer near any player.
+
+===Miscellaneous===
+The Dayan can only be a female ghost and will use a female [[Ghost#Possible female names|name]] and [[ghost model]].
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] [[EMF Level 5]]
+|[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]] [[Ghost Orb]]
+|[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: The '''Dayan''' gains strength to protect herself if people 'dance' too close to her.''
+
+''Weakness: The '''Dayan''' loses strength if people close to her stand still.''
+
+==Strategies==
+The Dayan is a female-only ghost; it can be excluded if the ghost presents a masculine name, or appears as a male ghost model and uses a male vocalization during an event/hunt.
+
+The Dayan's ability to speed up when nearby players move arguably makes it one of the most dangerous ghosts in the game. Therefore, identifying the Dayan and completing the investigation without a hunt is preferable.
+
+During normal gameplay, players should assume the Dayan has a 65% hunting threshold, just hunting less often before 50% sanity, as it's impossible to completely avoid walking near the ghost.
+
+During a hunt, [[Incense]] and Tier III [[salt]] will play a highly important role to allow players time to hide or move out of the 10-metre ability range of the ghost. If neither of these options is available, it is worth crouching behind a looping spot out of immediate view of the ghost and remaining still until the hunt is over. If the Dayan spots you, line-of-sight breaks are a last resort for survival, as the ghost can quickly catch up to players.
+
+[[File:Dayan Speed Guide.png|thumb|Graph showing whether the player can outrun the Dayan.<br><span style="color: #FF0000;">Red</span> and <span style="color: #FFA500;">Orange</span>: the player cannot outrun the Dayan<br><span style="color: #008000;">Green</span> and <span style="color: #3A5D9C;">Blue</span>: the player can outrun the Dayan forever<br><span style="color: #FF0000;">Red</span>: stopping is slightly better than walking<br><span style="color: #3A5D9C;">Blue</span>: one can stand instead of walking, but walking gives a higher speed difference]]
+If line-of-sight cannot be broken, one can try to outrun the Dayan, as its maximum speed in range is slightly lower than the player's default maximum speed. The Dayan's ability makes standing still while one's sprint recharges look appealing, however walking should still be preferred. At normal speeds, the Dayan is slightly faster than the player; a Dayan will (under ideal circumstances) catch a player after 80 seconds, ignoring turning around corners. The player can avoid the ghost forever if the [[difficulty]] has lower ghost speeds and/or higher player speeds, but the player will have difficulty breaking out of the 10-metre range due to the line-of-sight increasing the speed outside of the range. Stopping while recharging sprint becomes the theoretical best strategy at higher ghost speeds and lower player speeds, however at these settings there is a high risk of the ghost catching the player before their sprint recharges. As such, the preferred movement should be to keep moving, even while at high difficulties.
+
+In multiplayer, the Dayan's speed changes according to the closest player, even if that player is undetected; having a player stay still in a hiding spot can slow the ghost down when it comes nearby, potentially saving other players running from it.
+
+While normally used for restoring sanity, a Tier III [[Sanity Medication]]'s speed boost can be used to escape the Dayan's ability range faster, assuming that the medication cannot be better used by restoring sanity before a hunt starts.
+
+==Trivia==
+*A Dayan (or Daayan) is a malevolent ghostly presence derived in Indian, Pakistani and broader South Asian folklore. While the term in English typically describes a Dayan as a "Witch", it is more so described as a vengeful ghostly female spirit and not a living human. The folklore encourages the idea that they are a woman who would suffer from abuse and harsh cruelty and would return as a Daayan after her death. A Daayan would go on to haunt their family members and drink their blood, starting from the youngest male, draining his blood until he was an old man and then she would move on to other men of the family. It is also said that the Daayan would target younger families in order to "make the young become older".
+*The Dayan is one of two ghosts that can be instantly ruled out based on its gender, with the other being the [[Banshee]].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.15.1.0]]
+|Added Dayan.
+|}
+
+[[fr:Dayan]]
+[[Category:Ghosts]]
+{{GhostNav}}

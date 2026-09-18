@@ -1,0 +1,159 @@
+# 13 Willow Street
+# revid 24957  2026-09-18T17:39:08Z  by Darkhooper
+# 备注: changed page layout
+# sha256 8e1637c254a9f30c886cd74e9e022234d2c4a0607e1856536bdc85853456de7f  bytes 5173
+# 源: https://phasmophobia.fandom.com/api.php{{Location
+|img=willow new.png
+|imgcaption=View of the front porch of the yellow brick single-story home.
+|mapsize=Small
+|unlocklevel=6
+|floors=2
+|rooms=10 (Total)
+*1F: 7
+*B: 3
+|exits=1
+|faucets=3
+|videofeeds=1
+|keys=Front Door Key
+|img rooms=Rooms Willow.png
+|img sanity=Sanity Willow.png
+|img temperatures=Temperatures Willow.png
+}}
+{{Quote
+|speaker=Loading blurb
+|quote=A newly built home in an established area. Reports say it was built on top of something unearthly.
+}}'''13 Willow Street''' (or simply '''Willow''') is a [[map]] in ''Phasmophobia''. It is a small, single-story modern home with one bedroom and bathroom, as well as a home gym and a fitted out basement. It is one of the smallest maps in the game, being only slightly larger than [[6 Tanglewood Drive]], but feels almost tiny due to its spacious open rooms, a sharp contrast to the generally congested environments of the other suburban homes.
+
+Willow can often make for a swift investigation due to its small size, but the lack of lockers and easily-accessible side rooms to hide in makes it relatively dangerous during a [[hunt]]. As such, players will have to learn the ins and outs of hiding behind furniture in order to survive.
+
+==Structure==
+Willow consists of one bedrooms, one bathroom, a gym room, and a large basement divided into several fitted-out rooms, among other rooms.
+
+===Layout tips===
+The following rooms allow short [[Roaming|roams]] to another floor to be completed:
+*Hallway
+*Basement Utility
+
+Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
+{| class="article-table"
+!Parameter
+!None
+!Low
+!Medium
+!High
+|-
+!Number
+|0
+|8
+|14
+|20
+|}
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 8 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Living Room
+|[[File:Willow Living Room unavailable.png|200px]]
+|[[File:Willow Living Room available.png|200px]]
+|-
+|Kitchen
+|[[File:Willow Kitchen unavailable.png|200px]]
+|[[File:Willow Kitchen available.png|200px]]
+|-
+|Gym
+|[[File:Willow Gym unavailable.png|200px]]
+|[[File:Willow Gym available.png|200px]]
+|-
+|Master Bedroom
+|[[File:Willow Master Bedroom 1 unavailable.png|200px]]
+|[[File:Willow Master Bedroom 1 available.png|200px]]
+|-
+|Master Bedroom
+|[[File:Willow Master Bedroom 2 unavailable.png|200px]]
+|[[File:Willow Master Bedroom 2 available.png|200px]]
+|-
+|Studio
+|[[File:Willow Studio unavailable.png|200px]]
+|[[File:Willow Studio available.png|200px]]
+|-
+|Basement Bar
+|[[File:Willow Basement Bar unavailable.png|200px]]
+|[[File:Willow Basement Bar available.png|200px]]
+|-
+|Basement Utility
+|[[File:Willow Basement Utility unavailable.png|200px]]
+|[[File:Willow Basement Utility available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|8
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|5
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|3
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|1
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+[[Guides/Surviving_a_hunt#Looping_the_ghost|Looping]] the ghost may be performed around the dining table or the living room couch.
+
+==Bone locations==
+Bones spawn randomly, but will only spawn in areas that a ghost can also walk on.
+
+;Examples
+<div class="mw-collapsible-content"><gallery widths="185">
+Bone willow hallway.png|A spine bone in the Bathroom.
+Bone willow basementhallway.png|An ulna bone in the Basement Living Room.
+</gallery></div>
+
+==Cursed possession locations==
+<gallery>
+File:Willow-Ouija.png|The [[Ouija Board]] spawns in the Basement Living Room on a cabinet next to the Basement Utility door.
+File:Willow-Cards.png|The [[Tarot Cards]] spawn on the end table between two armchairs in the Basement Bar.
+File:Willow-Voodoo.png|The [[Voodoo Doll]] spawns on the cat cave in a corner of the Master Bedroom.
+File:Willow-MusicBox.png|The [[Music Box]] spawns in a bookcase in the Living Room.
+File:Willow-Circle.png|The [[Summoning Circle]] spawns in the Kitchen.
+File:Willow-Mirror.png|The [[Haunted Mirror]] spawns in the Gym on the wall separating the main room from the attached bathroom.
+File:Willow-Monkey.png|The [[Monkey Paw]] spawns in a bookcase in the Studio.
+</gallery>
+
+==Trivia==
+*There are many cat-related items inside the house. These props are dedicated to cjdxn's cat, which passed away before the release of [[0.7.0]].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+!0.29.0/[[0.29.6]]
+|Added Willow Street House.
+|-
+![[0.7.0]]
+|Renamed Willow Street House to 13 Willow Street.
+|-
+![[0.18.0]]
+|Overhauled with new assets, props and interactions.
+|}<br>
+{{Loc nav}}
+[[Category:Small Map]]
+[[Category:Maps]]
+[[fr:13 Willow Street]]
+[[ru:13 Willow Street]]

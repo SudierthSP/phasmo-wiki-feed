@@ -1,0 +1,31 @@
+# 0.9.0.5
+# revid 3055  2023-08-23T07:53:35Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version   | image1=   | official_name=   | release_date=2023.8.23   |planned_release_date=   | previous_major_version=   | previous_minor_version=   | next_minor_version=[[0.9.0.6]]   | next_major_version= }}  '''提醒：在更新至此版本之前，请勿强制关闭游戏。''' ==改动== * 为1/2级手电筒的光罩添加虚假的反射光效果，由此减轻高视野下黑暗中移动时的晕动病症状 * 缩短主菜单加载时间 * 在一…”
+# sha256 749a86a46bd2ed5372f4819b19f6b355c9e830fb01072491fbea19c33e100932  bytes 811
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | image1=
+  | official_name=
+  | release_date=2023.8.23
+  |planned_release_date=
+  | previous_major_version=
+  | previous_minor_version=
+  | next_minor_version=[[0.9.0.6]]
+  | next_major_version=
+}}
+
+'''提醒：在更新至此版本之前，请勿强制关闭游戏。'''
+==改动==
+* 为1/2级手电筒的光罩添加虚假的反射光效果，由此减轻高视野下黑暗中移动时的晕动病症状
+* 缩短主菜单加载时间
+* 在一些地图中减少内存占用
+* 增加了三脚架被推倒的几率
+==修复漏洞==
+* 2/3级十字架的燃烧和互动照片现在更统一
+* 在房间内开关灯现在会正确更新反射效果
+* 强制关闭游戏而不是点击退出按钮不再会使用旧的存档
+
+
+==注释==
+{{Reflist|group="note"}}
+{{Versions}}
+[[Category:开发]]

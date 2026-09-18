@@ -1,0 +1,166 @@
+# Third-party tools
+# revid 24693  2026-09-16T16:54:17Z  by VRDemon
+# sha256 87421a081e7c2776db28c05f0a52ab4fc1a6c597ea3254beec8e90c1734f2a06  bytes 7409
+# 源: https://phasmophobia.fandom.com/api.phpThis page provides a list of '''third-party tools''' you may use to aid your investigations in ''Phasmophobia''.
+
+Note that this list mainly consists of external websites or programs that do not modify the game files. Modding the game is against ''Phasmophobia''<nowiki/>'s EULA, and may corrupt your game files and ruin the experiences of other players.
+
+==Evidence and map tools==
+<small>'''''Disclaimer:''' the information and tools listed on this page, as well as the Phasmophobia Wiki in general, are not supported by the developers of ''Phasmophobia'' or the official ''Phasmophobia'' Discord server's staff in any way. The Phasmophobia Wiki is not responsible for the content provided in these tools.''</small>
+{| class="article-table sortable wikitable" style="text-align: center"
+!Name
+!Features
+!Platforms
+!Link
+!Last update
+!Author
+|-
+|Unofficial Phasmophobia Cheat Sheet
+|Primary Evidence, Secondary Evidence, Ghost Information, 0 Evidence Guide, Weekly Challenge Mode, Blood Moon mode, Timer (Smudge, Cooldown, Hunt), Passive and Active Sanity Drain tool, Maps, Footsteps, Ghost Counter, Nightmare Mode, Insanity Mode, Sync, Phrases, Voice Control
+|Website (Mobile Friendly)
+|[https://tybayn.github.io/phasmo-cheat-sheet/ Website]<br>[https://discord.gg/afpvC7Bf7Y Discord]
+|[[0.19.0]]
+|Ty Bayn (Zero-Network), Fantismal (maps)
+|-
+|ZN-Desktop-Link
+|Software (hotkeys,overlay, in-game text chat)
+|Desktop App (In-game Overlay)
+|[https://tybayn.github.io/phasmo-cheat-sheet/ Website] (Download in bottom of Links tab)<br>[https://discord.gg/afpvC7Bf7Y Discord]
+|[[0.19.0]]
+|Ty Bayn (Zero-Network)
+|-
+|Difficulty Builder
+|Custom Difficulties, interactive, shared
+|Website
+|[https://zero-network.net/phasmo-cheat-sheet/difficulty-builder/ Website]<br>[https://discord.gg/afpvC7Bf7Y Discord]
+|[[0.19.0]]
+|Ty Bayn (Zero-Network)
+|-
+|Map Explorer
+|Maps, ranges, interactive, shared
+|Website (Mobile Friendly)
+|[https://zero-network.net/phasmo-cheat-sheet/map-explorer/ Website]<br>[https://discord.gg/afpvC7Bf7Y Discord]
+||[[0.19.0]]
+|Ty Bayn (Zero-Network), Fantismal (maps)
+|-
+|(PET) Phasmophobia Evidence Tool
+|Primary Evidence. Interactive Map Viewer. Timer ''(Sanity)''. Evidence Information, Ghost Information, Equipment Information, Cursed Possession Information. Nightmare Mode/Insanity Mode. Objectives. Newsletter.<br><br>Customization: App Appearance.<br><br>Accessibility: Multi-Languages/Colorblindness.
+|Android
+|[https://play.google.com/store/apps/details?id=com.TritiumGaming.phasmophobiaevidencepicker Google Play]<br>[https://discord.gg/C9XCCQY3dA Discord]
+|[[0.17.1.5]]
+|TritiumStudios
+|-
+|PhasmoHelper
+|Primary Evidence, Secondary Evidence, Ghost Information, Phrases, Nightmare Mode
+|Website (mobile-friendly)
+|[https://jobus0.github.io/phasmohelper/ Website]
+|[[0.18.0.1]]
+|Jobus
+|-
+|PhasmoSync
+|Primary Evidence, Secondary Evidence, Ghost Information, Timer (Smudge, Cooldown, Hunt), Interactive Maps, BPM Tracker, Contract Mode Multiplayer Sync, Forensic Markers.
+|Android
+|[https://play.google.com/store/apps/details?id=com.phasmosync.app Google Play]
+|[[0.19.0]]
+|phasmosync
+|-
+|Phasmophobia Cheat Sheet
+|Primary evidence, Secondary evidence, Timer, Nightmare mode, Insanity Mode
+|Website (mobile-friendly)
+|[https://phasmophobia.seancsapps.com/ Website]
+|[[0.17.1.2]]
+|Damiascus
+|-
+|PhasmoCalc
+|Primary evidence, secondary evidence, ghost counter, Nightmare mode
+|Website (mobile-friendly)
+|[https://phasmocalc.com/ Website]<br>[https://discord.gg/9DBc38r29r Discord]
+|[[0.17.1.0]]
+|Genzzry
+|-
+|Phasmophobia CIS Interactive Maps
+|Interactive Maps, Ranges, Cursed Possessions
+|Website (Mobile Friendly)
+|[https://maps.phasmophobia.su Website]<br>[https://discord.gg/2pwNBaJaxb Discord]
+|[[0.17.1.0]]
+|Marsianso (site), YouJustWantEasy (maps)
+|-
+|Phasmophobia Companion App v2.4
+|100% Ad-Free, Primary evidence, Secondary evidence, General Information, Strengths/Weaknesses, Simplified Journal
+|Website (mobile-friendly)
+|[https://phasmocompanion.beldrproductions.nl Website]
+|[[0.17.1.0]]
+|BeldrProductions
+|-
+|Timer-Overlay PhasmoTimer
+|Timer (Smudge, Mimic/Obambo, Hunt, Candle, Stamina), Software (Overlay)
+|Windows
+|[https://github.com/84z0r/PhasmoTimer GitHub]<br>[https://t.me/atlas2884 Telegram]
+|[[0.16.0]]
+|atlas2884
+|-
+|Ghost ID
+|Primary evidence, secondary evidence, objectives, timer
+|Website (mobile-friendly)
+|[https://thelunararmy.gitlab.io/react-phasmo-ghostid/ Website]
+|[[0.15.1.0]]
+|thelunararmy
+|-
+|Hope Phasmophobia Overlay
+|Primary Evidence, Ghost Pacer (BPM Calculation), Smart Timers (Smudge, Hunt, Crucifix), Overlay, Tactical Modes (Intel/Survival), Localization (EN/PT/JP/CHT)
+|Desktop App (Windows Overlay)
+|[https://www.nexusmods.com/phasmophobia/mods/159?tab=description Nexus Mods]<br>[https://github.com/Jhowners/Hope-Phasmophobia-Overlay GitHub]
+|[[0.15.1.0]]
+|Hope
+|-
+|Phasmophobia Ghost Finder
+|Primary evidence, secondary evidence, timer, maps
+|Website (Mobile-friendly)
+|[https://sirjimmothy.github.io/phasmo/ Website]
+|[[0.15.1.0]]
+|SirJimmothy
+|-
+|Phasmophobia Helper
+|Primary evidence, secondary evidence, phrases, Nightmare mode, Insanity mode
+|Website (mobile-friendly)
+|[https://phasmo.monster/ Website]
+|[[0.15.1.0]]
+|pizzaThis
+|-
+|colspan="6" style="text-align:left"|
+;Legend
+*<small>'''Mobile-friendly:''' This website has been optimized for use on mobile phones.</small>
+*<small>'''Primary Evidence:''' Lists primary evidences of each ghost.</small>
+*<small>'''Secondary Evidence:''' Lists traits that can help to identify a ghost.</small>
+*<small>'''Evidence Information:''' Provides information about Evidence types</small>
+*<small>'''Ghost Information:''' Provides information about Ghost types</small>
+*<small>'''Equipment Information:''' Provides information about Equipment tiers</small>
+*<small>'''Sync:''' Can automatically synchronize multiple sessions.</small>
+*<small>'''Phrases:''' Lists phrases that players can ask the [[Ouija Board]], [[Spirit Box]], and/or [[Monkey Paw]].</small>
+*<small>'''Ghost Counter:''' Keeps a total of how many ghosts you've found.</small>
+*<small>'''Maps:''' Has maps of levels.</small>
+*<small>'''Objectives:''' Lists [[Objectives|optional objectives]] that players can complete.</small>
+*<small>'''Timer:''' Has a timer.</small>
+*<small>'''Nightmare Mode:''' Accommodates Nightmare evidence rules.</small>
+*<small>'''Insanity Mode:''' Accommodates Insanity evidence rules.</small>
+*<small>'''Software:''' Is an over the top/overlay application to run over the game.</small>
+*<small>'''Footsteps:''' Has a BPM counter for the rate of ghost footsteps.</small>
+*<small>'''Voice Control:''' App can be controlled through voice recognition</small>
+*<small>'''Blood Moon mode:''' Supports Blood Moon mechanics</small>
+|}
+
+==Visual enhancements==
+Note that modding is against ''Phasmophobia''<nowiki/>'s EULA, and may corrupt your game files and ruin the experiences of other players. Only post-processing shaders or overlays that do not modify game files are allowed, such as ReShade or Nvidia/AMD's overlays. All such programs are use at-your-own-risk.
+{| class="fandom-table"
+!Name
+!Description
+!Link
+!Author
+|-
+|ReShade
+|ReShade is a generic post-processing injector for games and video software,<br>with features such as depth of field effects and color correction.
+|[https://reshade.me/ Website]
+|crosire
+|}
+[[Category:Third-party tools]]
+[[ru:Сторонние инструменты]]

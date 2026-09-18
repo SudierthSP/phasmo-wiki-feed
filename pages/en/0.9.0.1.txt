@@ -1,0 +1,54 @@
+# 0.9.0.1
+# revid 18211  2024-06-19T01:29:43Z  by Justf0cus420
+# sha256 47191acbe1d240c91e09ec4f9f3a2c80303eb2b88bdf0452d68d30ec324bc020  bytes 2672
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=19 August 2023
+  | previous_major_version=[[0.9.0]]
+  | next_minor_version=[[0.9.0.2]]
+|next_major_version=[[0.10.0]]}}'''0.9.0.1''' is a patch released on 19 August 2023.<ref>[https://store.steampowered.com/news/app/739630/view/3655287211040055439?l=english ''Ascension | Hotfix v0.9.0.1''. 19 August 2023 (on Steam).]</ref> It fixes many outstanding issues from the release of 0.9.0, as well as a few small additions that didn't make it in for the major patch's release.
+==New==
+
+*DOTS T1 is now placeable on most surfaces like Firelights
+*Added instructions to the shop descriptions of Head Gear, explaining how to turn them on or off
+
+==Changes==
+
+*Igniter T3 is no longer consumable
+*Glowsticks will now be the correct brightness when dimmed
+*Crucifix T3 Range is now correctly 5m
+*Removed the 1s delay on the Incense hunt effects
+*Reduced the volume of the car alarm
+*Significantly improved performance of saving and loading from the save file
+*Motion sensor T2 now swaps between a single line, double line and off
+*Temporarily removed the VR social screen mode due to severe performance issues
+
+==Fixes==
+
+*The Incense hunt effect duration will no longer sometimes set to 0 seconds
+*Fixed a bug where if you haven’t played for a long time, you would be wiped to prestige 0
+*Incense will no longer use its ghost effects when you are not near the ghost
+*Crucifixes have received several scale fixes, improving consistency
+*Anti-virus software should no longer stop you from having read/write access to the save file
+*Corrupt save files will now revert to the cloud backup
+*Ghost sound effects now have the correct volume distance falloff
+*T2 Motion sensors no longer turn off when toggling the modes
+*Main menu performance has been improved
+*The wall telephones found in the farmhouses will now let you take interaction photos
+*Potential fix for the Incense T1 glowing
+*One Matchstick is no longer glowing
+*Equipment list text will no longer overlap the item icons
+*The “Next” button on the Legacy Badge screen will now scale correctly when translated
+*You can now get past the splash screen if you fail to connect to the unity servers
+*The legacy badge will no longer clip into one of the female model’s arms
+*After a game in challenge mode, you will no longer be set as a hacker
+*Challenge mode will no longer be different weather for each player
+*Challenge mode will no longer be different cursed item for each player
+*Potential fix for not being able to exit a map if a player crashed while loading
+*Flashlights now cost $30
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.9.0.1]]
+[[ru:0.9.0.1]]

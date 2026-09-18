@@ -1,0 +1,104 @@
+# Sound Sensor
+# revid 21403  2025-07-04T17:39:42Z  by Darkhooper
+# 备注: tier 1 and 3 unlock levels
+# sha256 baf33bf64ab7fcc385d6e53adb18f8b703612a12cfaf299773d9b48295fa80b9  bytes 5197
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=SoundSensor090_T1.png
+ | tier ii img=SoundSensor090_T2.png
+ | tier iii img=SoundSensor090_T3.png
+
+ | price=$80
+ | maxamount=4
+ | uses=Reusable
+ | starter=No
+ | tier i level=10
+ | tier ii level=32
+ | tier iii level=52
+
+ | tier i description=A small microphone attached to a mini tripod, cheap and efficient.
+ | tier i purpose=Place these sound sensors down in locations where you want to track any audio interactions.<br>Once placed, return to the Truck, you can listen to the remote playback whilst checking the Sound Sensor screen to see if any of the Sensors receive any readings.
+ | tier i ability=<span style="color: #008000;">Ranges (m): 5, 10<br>Sensor Shape: Full<br>Placeable</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier ii description=Two higher-quality microphones are attached together on a custom-made tripod mount. They’ve spent some extra time and money creating this one.
+ | tier ii purpose=This sound sensor has been improved to feature three different size settings, togglable with a size button on the Sound Sensor screen in the truck.
+ | tier ii ability=<span style="color: #008000;">Ranges (m): 5, 10, 15<br>Sensor Shape: Full<br>Placeable</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier iii description=Expensive shotgun microphones are attached to a small receiver, allowing high-quality audio streams back to the Truck.
+ | tier iii purpose=The tripod has rotational joints on it, allowing you to Interact with it to change the shape of the Sound Sensor.<br>Each shape is represented by the directions that the microphones are facing:<br>Forward: Cone / Outward: Sides / Inward: Sphere
+ | tier iii ability=<span style="color: #008000;">Ranges (m): 5, 10, 15<br>Sensor Shape: Full<br>Sensor Shape: Wide<br>Sensor Shape: Sides<br>Placeable</span><br><span style="color: #ff0000;">Electronic</span>
+}}
+The '''Sound Sensor''' is a piece of [[Equipment]] in Phasmophobia. It detects sounds in a large area around it, allowing the player to track potential ghost activity in combination with the [[Sound Monitor]].
+
+==Usage==
+A sound sensor can be {{Control|placed}} on the ground or other flat surface. The detection area is highlighted as an orange circle on the [[Site Map]] in the [[truck]]. The sound sensor picks up most noises, except for players talking through local and global chat. 
+
+Any noise picked up by a sensor will appear as a bar on the [[Sound Monitor]], showing how loud the sound was and identifying which sensor picked up the sound. The screen will display the total volume of all sounds detected. The value displayed will update every second.
+
+<!--0.1 dB picked up on a [[Parabolic Microphone]] is equivalent to 1% on the Sound Monitor.
+-->
+By default, the sound sensor picks up sound in a 5-meter radius on the same floor, ignoring walls. This radius can be increased by clicking on the enlargement icon on the [[Sound Monitor]] in the truck. The sound sensor can also be muted by clicking on the speaker icon.
+
+The Tier III Sound Sensor has two additional modes which can be switched to by {{Control|interacting}} with it while it is placed, or {{Control|toggling}} directly while in hand. These modes can't be switched from the truck.
+
+==Tips==
+*A Sound Sensor can be used to monitor [[Ghost Writing]] evidence as the [[Ghost Writing Book]] produces a distinctive scribbling sound when the ghost writes in it.
+*Placing sound sensors in a central area of several rooms is a good way to cover a lot of ground when looking for the ghost's location early on.
+
+==Trivia==
+*Sound sensors detect the noise of the [[Haunted Mirror]] if it is in their range.
+*Some equipment are not picked up by the sound sensor such as the [[EMF Reader]] and the [[Spirit Box]].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+! rowspan="2" |24 March 2020<br>(Part 2)
+|Added a preview outline when placing a sound sensor.
+|-
+|More sounds can now be detected.
+|-
+!19 June 2020
+|Sound sensors are now level-locked.
+|-
+!27 June 2020
+|Sound sensors are now unlocked at level 7.
+|-
+! rowspan="2" |13 August 2020
+|Sound sensors can now be picked up after being placed.
+|-
+|Increased the cost from $60 to $80.
+|-
+!16 August 2020(Part 2)
+|Sound sensors now detect doors being shut.
+|-
+! colspan="2" |Early Access
+|-
+![[0.4.0]]
+|Sound sensors can now be placed on the floor.
+|-
+! rowspan="5" |[[0.6.0]]
+|Changed the sound sensor model.
+|-
+|The range covered is now a spherical radius instead of a cube.
+|-
+|Placement now matches that of other equipment such as candles and video cameras.
+|-
+|Sounds on sound monitor in the van are now more accurately displayed.
+|-
+|Players talking or using the walkie-talkie (global chat) are no longer picked up.
+|-
+![[0.7.0]]
+|Sound sensors now show room name of the room it is physically in, instead of the room the player was standing in when they placed it.
+|-
+![[0.9.0]]
+|The Sound Sensor now has 3 tiers.
+|-
+![[0.9.5.0]]
+|You can now rotate the Sound Sensor III whilst placing it.
+|-
+![[0.10.0]]
+|Sound sensors can now be muted from the truck.
+|}<br>
+
+{{Equipment nav}}
+[[Category:Equipment]]
+[[fr:Capteur sonore]]
+[[ru:Датчик звука]]

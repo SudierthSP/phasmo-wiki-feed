@@ -1,0 +1,25 @@
+# 0.13.0.1
+# revid 23893  2026-06-28T21:36:32Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 11f8452a18dd61d50c027a2cd7acad84f9c261c3f062ceddcc59b0477fc2b968  bytes 1090
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| release_date=27 June 2025
+| previous_major_version=[[0.13.0]]
+| previous_minor_version=
+| next_minor_version=[[0.13.1.0]]
+| next_major_version=[[0.14.0]]
+}}'''0.13.0.1''' is a minor hotfix released on 27 June 2025.<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-hotfix-v0131 ''Phasmophobia Hotfix v0.13.0.1''. 27 June 2025.]</ref> It fixes bugs.
+
+==Fixes==
+*Fixed an issue that prevented PlayStation users from selecting Asia servers for multiplayer.
+*Fixed an issue that caused the Mimic to give D.O.T.S evidence while mimicking a Goryo.
+*Fixed an issue that caused Goryo to give D.O.T.S evidence while the player was on 0 evidence mode.
+*Fixed an issue that caused the final stage Cursed Hollow trophy to appear in all players cabinets. This will now only display if the player earned it during the event.
+*Fixed an issue that prevented some players from selecting ‘Skip’ or ‘Next’ when on the debriefing stat screen following a completed investigation.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.13.0.1]]
+[[ru:0.13.0.1]]

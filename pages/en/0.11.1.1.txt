@@ -1,0 +1,39 @@
+# 0.11.1.1
+# revid 23885  2026-06-28T21:35:58Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 a4ee9a0b782939fbc3dbcfd6ff19fee93c7f02d8cd0375d7bbcd6075f2ada222  bytes 1792
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=23 December 2024
+ | previous_major_version=[[0.11.0]]
+ | previous_minor_version=[[0.11.1.0]]
+ | next_minor_version=[[0.11.1.2]]
+ | next_major_version=[[0.12.0.1]]
+}}'''0.11.1.1''' is a minor hotfix released on 23 December 2024.<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-wintersjesthotfix ''Winter’s Jest - Phasmophobia Hotfix v0.11.1.1''. 23 December 2024.]</ref> It fixes bugs.
+
+==Additions==
+*'''Steam only:''' Added a global leaderboard to track player’s event progress. This will display the Top 10 players across the world.
+**''Note: Steam players will be able to see PlayStation and Xbox players on the leaderboard. Due to technical issues, the leaderboard is unavailable on console.''
+
+==Changes==
+*Added lights to the tinsel and adjusted Warehouse decorations.
+*The weekly and daily tasks will now reset when the event starts and ends, instead of carrying over non-event progression.
+
+==Fixes==
+;All Platforms
+*Fixed several issues that were causing snow to clip on Event Maps.
+*Fixed an issue where a wreath was blocking the fuse box in Bleasdale. This wreath has been removed.
+*Fixed an issue that was causing Blood Moon weather to happen to select players in a group, rather than all players. Now, if the Host gets Blood Moon weather, all players will.
+
+;Xbox Series/PlayStation
+*Fixed an issue preventing players from being able to receive the seasonal daily and weekly tasks.
+
+==Known Issues==
+*When using ‘Random Map’ and you start a hunt on one of the Winter’s Jest maps, the weather will also be set to random.
+*Some player names will not be displayed on the leaderboard due to having unsupported characters in the name.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.11.1.1]]
+[[ru:0.11.1.1]]

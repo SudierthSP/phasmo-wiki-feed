@@ -1,0 +1,112 @@
+# 0.29.6
+# revid 23924  2026-06-28T21:38:47Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 5350003ea312553214e5cfebdfa4db7c2a5785e0796ef9b96503e2d2cf92ee22  bytes 4357
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=18 June 2021
+  | previous_major_version=[[0.28.6.5]]
+  | previous_minor_version=0.29.5 (Beta)
+  | next_major_version=[[0.3.0]]
+  | next_minor_version=[[0.29.6.1]]
+}}The '''0.29.6''' update was released on 17 June 2021 on the Beta branch and on 18 June 2021 on the main branch.<ref>https://store.steampowered.com/news/app/739630/view/2980801691035865221</ref> This update adds two new ghosts, a new street map, as well as several changes and bug fixes. Two hotfixes carrying the same version were later released to fix bugs.
+
+== Additions ==
+
+=== Ghosts ===
+{{main|Ghost}}
+;[[Hantu]]
+*Moves faster than most ghosts in colder rooms and slower than most ghosts in warmer rooms
+*Requires [[Fingerprints]], [[Ghost Orb]], and [[Ghost Writing]] as evidence
+
+;[[Yokai]]
+*Becomes more aggressive when players are talking near it
+*Has a small hearing range compared to other ghosts during hunts
+*Requires [[Spirit Box]], [[Ghost Orb]], and [[Ghost Writing]] as evidence
+
+=== Maps ===
+{{main|Map}}
+;[[Willow Street House]]
+*Small map designed around hiding behind furniture
+*10 rooms in building with first floor and basement
+
+=== General ===
+;[[Daily and Weekly Tasks|Daily Challenges]]
+*New "Capture a 3 star ghost photo" and "Capture a Dirty Water photo" challenges
+
+;Other
+*New profanity filter for usernames/server names
+*New Sell button to sell back items for 50% of the original price
+*Name of the map is now shown on the interactive map
+*New confirmation timer when resolution is changed
+
+== Changes ==
+
+=== Equipment ===
+{{main|Equipment}}
+;Smudge Sticks
+*Smoke time reduced from 15 seconds to 6 seconds
+
+;Thermometer
+*Size of the text has been increased to make it easier to read in VR
+
+=== Gameplay ===
+*Falling out of bounds will now teleport the player back to their last location within the map
+*Ghosts can now wander far away from its room
+*Ghosts now have a higher chance to interact with its environment outside of hunts
+
+=== Ghosts ===
+;Demon
+*Now has a slightly higher chance to hunt
+
+=== Hunts ===
+{{main|Hunt}}
+*The ghost will now walk to the front of the closet/locker if it sees or hears the player inside rather than walking past
+
+=== Maps ===
+*High School and [[Asylum]] truck maps have been flipped to make them less confusing to navigate
+
+;[[Brownstone High School]]
+*Top and bottom floor corridors have been split into 3 sections each
+
+;[[Prison]]
+*Truck has been moved closer to the entrance
+
+=== General ===
+*Kicked players will now be automatically kicked when they re-join
+*Changed how the alternative ports value is saved
+
+== Bug Fixes ==
+
+=== From issues introduced before 0.29.6 ===
+*Improved the performance and load times on most house maps
+*Fixed a bug where player voices would sometimes go high pitch
+*High School: Fixed a bug where sound sensors showed the wrong corridor names
+*Fixed a bug where equipment didn't teleport back to the truck if they fell out of bounds
+*Fixed a bug where the ghost was changing the temperature in the wrong room
+*Fixed a bug where new players would have their volume set to the old players volume
+*Fixed a bug where the ghost couldn't kill you in some closets
+*Fixed several safe spots
+*Fixed a bug where players would still show in the audio options after they have left
+*Fixed a bug where the resolution would sometimes be set very low when launching for the first time
+*Fixed a bug where Sensors could be placed on walls behind other objects
+*Fixed a bug where the ghost was never wandering out of it's room
+*Fixed a bug where the EMF Reader would still show a value if you picked it up from the floor into your inventory
+*Fixed a bug where Smudge Sticks could not be lit with a candle
+*Fixed a bug where the Thermometer would sometimes show values for the wrong room
+
+=== From 0.29.6 (as fixed in hotfixes) ===
+;First hotfix
+*Fixed a bug where enabling alternative ports would stop your from being able to connect to the server
+
+;Second hotfix
+*Fixed a bug where if your windows calendar was set to Thai you could not connect to the game servers
+*Fixed a bug where the server names text could go outside of the box if the name was long
+*Fixed a bug where daily challenges gave no reward
+*Fixed several safe names that were being caught by the profanity filter
+
+== References ==
+{{reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.29.6]]
+[[ru:0.29.6]]

@@ -1,0 +1,54 @@
+# 0.5.1.1
+# revid 23944  2026-06-28T21:40:14Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 0e759c33104bbabfbb4887147c8293bb5d5a173862a42cab952156d964fb37ec  bytes 2189
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=10 January 2022
+ | previous_major_version=[[0.5.0]]
+ | previous_minor_version=[[0.5.1.0]]
+ | next_minor_version=[[0.5.1.2]]
+ | next_major_version=[[0.6.0]]
+}}'''0.5.1.1''' is a minor update to the game released on 10 January 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3099039480050972560 Cursed Possessions | Update v0.5.1.1]</ref> The update removes the 2021 Christmas decorations, changes how photos are taken, and fixes bugs.
+
+== Changes ==
+=== Gameplay ===
+;[[Media|Photo Rewards]]
+*New priority system for photo evidence detection
+*Multiple ghost photos can no longer be taken, instead searching for different evidence within the photo
+*Improved ability to take ghost photos
+
+=== Ghosts ===
+{{Main|Ghost}}
+;[[The Mimic]]
+*No longer has an increased chance to spawn
+
+=== Hunts ===
+*Lights will no longer randomly flicker away from the ghost when the ghost is hunting
+
+=== Maps ===
+;[[Maple Lodge Campsite]]
+*Now has random weather again
+
+=== General ===
+*Removed Christmas event decorations and changes
+*Lowered the volume of the bulb smash sound
+
+== Bug fixes ==
+*Fixed a bug where the ghost could not hear host players during hunts
+*Fixed a bug where you could not take a photo of some door and light switch interactions
+*Fixed a bug where the refrigerator audio was still playing if the power was off at the start of the game
+*Fixed a bug where the Mirror was showing the wrong area on some maps and outside the map on Asylum
+*Fixed an issue where the Prison Ouija Board was spawning sideways
+*Fixed a bug where the ghost would kill you if it heard you in a closet and then you moved into a different closet
+*Fixed a bug on Willow where some sounds near the ceiling on the first floor would get muffled
+*Fixed a bug where the ghost could interact with the DOTS Projector when it was turned off
+*Fixed a bug where you could get a ghost photo if the ghost was directly behind you when taking a photo
+*Fixed a bug where the small house candle did not emit any light
+*Fixed a bug where you could hear dead players after being revived
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.5.1.1]]
+[[ru:0.5.1.1]]

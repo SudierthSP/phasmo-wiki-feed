@@ -1,0 +1,27 @@
+# 0.14.0.1
+# revid 3828  2025-08-15T15:13:34Z  by CangMingSW
+# 备注: 媒体 失真音乐 翻译错误
+# sha256 85b139409f47e8ec407b08b875156657fe44f29f7c5216f6c5f72beacc6b3a12  bytes 1104
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+| release_date=2025年8月14日
+| previous_major_version=[[0.14.0]]
+| previous_minor_version=
+| next_minor_version=
+| next_major_version=
+}}'''0.14.0.1'''是发表于2025年8月14日的小型热修复更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-hotfix-01401 ''Phasmophobia Hotfix v0.14.0.1''. 14 August 2025.]</ref>本次更新主要修复漏洞。
+
+==修复漏洞==
+*修复：Twitch掉落奖励重启游戏并创建大厅后才会显示
+*修复：Xbox Series X/S主机在格拉夫顿农舍放置多个摄像机后监控屏幕变暗，并导致放置者断连
+*修复：人体模型移动后悬空或与环境穿模
+*修复：玩家可能卡在格拉夫顿农舍一楼卫生间
+*修复：保存自定义难度时文本丢失
+*修复：格拉夫顿农舍餐厅桌面上方的视线判定异常
+*修复：玩家在格拉夫顿农舍藏匿点时的若干视觉错误
+*修复：物品从格拉夫顿农舍二楼桌子投掷后会丢失
+*修复：媒体设备中失真音乐错误归类为“鬼魂视频”
+
+==参考资料==
+{{Reflist}}
+{{VersionNav}}
+[[Category:开发]]

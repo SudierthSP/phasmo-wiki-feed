@@ -1,0 +1,113 @@
+# Obake
+# revid 24341  2026-07-27T13:57:58Z  by Darkhooper
+# 备注: slight rewording
+# sha256 d3188548f91f26f9f60c138cb2074fad7b0c3769a7d2073aa6adaea0102fc656  bytes 10097
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |title=Obake
+ |image1=Obake Discovered.jpg
+ |strength=*Fingerprints can disappear faster than usual
+*Occasionally fails to leave fingerprints
+ |abiliti(es)=*Has a chance to blink in a different ghost model when hunting
+ |weakness(es)=*Can leave a unique fingerprint pattern
+ |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
+ |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
+ |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
+}}{{Quote
+ |quote=Obake are terrifying shape-shifters, capable of taking on many forms. They have been seen taking on humanoid shapes to attract their prey.
+ |speaker=The Journal
+}}The '''Obake''' is a type of [[ghost]] in ''Phasmophobia''. Described in the journal as a shapeshifter, their primary power is their ability to create unique fingerprints.
+
+==Behaviour==
+===Activity===
+[[File:Obake Six Fingers.png|80px|thumbnail|Six-fingered handprint]]
+[[File:Obake Two Fingers.png|80px|thumbnail|Two fingerprints]]
+[[File:Obake Five Fingers.png|80px|thumbnail|Five fingerprints]]
+Each time the Obake interacts with a valid surface, it has a 75% chance of leaving [[Ultraviolet#Fingerprints|fingerprints]], instead of the usual 100%. After stepping in [[salt]], it also has a 75% chance each step, instead of 100%, of leaving a [[Ultraviolet#Footprints|footprint]], creating no footstep sound when the chance fails. In multiplayer, the missing footprints are not synchronized between players, which may lead to a different number of footprints and footstep sounds for each player.
+
+When creating handprints or fingerprints, there is a one-sixth (~16.7%)<ref>https://imgur.com/a/2au2yqN</ref> chance for the Obake to create a unique handprint/fingerprint pattern:
+*A six-fingered handprint instead of the usual five fingers
+*Two fingerprints instead of one on light switches, lamps, and TV remotes
+*Five fingerprints instead of four on keyboards and [[Prison]] cell doors
+
+When performing a fake hunt [[ghost event]] or a [[Music Box]] event, the Obake is the only ghost that will sometimes miss a footstep sound.<ref>[https://www.youtube.com/watch?v=orYYC0qT1zE A footstep sound test (on YouTube). 14 December 2024.]</ref> This is very likely a bug.
+
+===Ability===
+The Obake occasionally triggers an ability to reduce the remaining time for all existing fingerprints on the map by half. For example, two fingerprints lingering on the map with 40 seconds and 70 seconds before timing out and disappearing are cut in half to 20 and 35 seconds remaining respectively.
+
+===Hunt===
+When [[Hunt#Ghost flickering|flickering]] during a hunt, the Obake will occasionally shapeshift into a different ghost model of the same gender on one visibility timer before returning to its normal model on the following visibility timer. Dead players cannot see this shapeshift.
+
+A shapeshift will always occur on the 12th, 27th, 39th, 54th, 62nd, 80th, 105th, and 120th visibility timers of a hunt. The cycle then restarts if the hunt is long enough.
+*This means that the first shapeshift will happen approximately 6 - 8 seconds after the grace period ends.
+*This also means that the Obake will not shapeshift at all if the hunt ends prematurely (after the ghost kills a player or when all players leave the investigation area), as it will not have the time to reach the 12th visibility timer.
+
+When shapeshifting, the Obake has an order of [[Ghost Model|models]] it will use. The first shapeshift of the [[contract]] will always be using the first ghost model in the following list. The second shapeshift will then use the second model, the third one the third model, and so on with the list looping on itself. When the Obake reaches its own model in the list, it will shapeshift into itself with a more or less visible posture reset.
+
+{| class="fandom-table" style="text-align:center"
+!Male ghosts
+!Female ghosts
+|-
+|[[File:Ghost Male Butcher.png|142px]] → [[File:2.png|89px]] → [[File:Ghost Male Greybeard.png|59px]] → [[File:Ghost Male Sofia.png|50px]] → [[File:Ghost Male Nerd.png|50px]] → [[File:4.png|50px]] → [[File:3.png|50px]]
+|[[File:Ghost CreepyGirl.png|54px]] → [[File:Ghost OldCrone.png|100px]] → [[File:Ghost RingGirlUPDATED.png|80px]] → [[File:Ghost Argyro.png|53px]]
+|}
+<br>Both the shapeshifting and the fingerprint duration's reduction will count as an ability in the post-game statistics.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] [[EMF Level 5]]
+|[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]] [[Ghost Orb]]
+|[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]] [[Ultraviolet]]
+|}</center>
+On limited evidence (1 or 2 evidence) games, an Obake will always have Ultraviolet as one of its evidence types. This does not affect its ability to occasionally not leave fingerprints on a surface.
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: When interacting with the environment, an '''Obake''' will rarely leave a trace.''
+
+''Weakness: Sometimes this ghost will shapeshift, leaving behind unique evidence.''
+
+==Strategies==
+If the ghost touches a surface and leaves no fingerprints, then later leaves fingerprints on another surface, or vice versa, this usually points to the ghost being an Obake.
+
+If an Obake is suspected, checking a touched surface with a [[UV Light]] each time it interacts with a door or the like is prudent to spotting the Obake's special fingerprints, both to maximize the chances of spotting them and to note any instances of them rapidly disappearing. Note that getting normal fingerprints, even several times repeatedly, does not rule out an Obake outright.
+
+Although the Obake has a 75% chance to leave Ultraviolet evidence, due to probability, it is possible for the Obake to always leave fingerprints on surfaces that it touches much like any other ghost with Ultraviolet. It's also possible for an Obake to interact with nearby doors frequently enough that it can effectively "mask" an instance where it does not leave fingerprints during one interaction by instead providing them in a separate interaction moments later, as well as conceal its ability to quickly decay its fingerprints.
+
+If you are on a zero-evidence run, the Obake will never produce fingerprints nor footprints, and will mainly be identified by spotting its shapeshifting power during a hunt. In multiplayer, one player can stay in the investigation area and hide while other players can look through set-up [[Video Camera|Video Cameras]] in safety while the ghost is hunting; in singleplayer, strong looping skills are very favorable in order to maintain sight on it for extended periods of time to catch it changing models during a flicker.
+
+* Finding a proper looping spot is important; some spots such as the cars in some suburban houses do not allow the player to see the ghost when looping it, and trying to identify an Obake by looping there is pointless.
+* This tends to become much easier if the ghost is using the child or Patient 07 model, as those models can also be crawling (or bent backwards in the case of Patient 07), and will reset to the normal standing posture when it shifts, resulting in a sudden, extremely obvious posture change for a single blink.
+* Usage of [[Incense]] or Tier III [[Salt]] to hinder the ghost can make the task significantly easier. A Video Camera can also be a powerful tool even in singleplayer, especially if the player cannot see the ghost well due to poor lighting or other reasons; the Camera screen will visibly display "Ghost Shapeshift" if it is pointed at the ghost when it shifts, immediately giving an Obake away.
+
+Another way to identify the Obake is by spotting its missing footstep sounds either in a sequence of 3+ steps after it stepped in a single salt pile, or during fake hunt/Music Box events. Both of these methods also work on zero-evidence runs. Additionally, in multiplayer, if a player doesn't hear the same number of footstep sounds than another player for one sequence, then it is an Obake.
+
+Note that there are [[difficulty]] settings that can change the default chance of a fingerprint being left on a surface, as well as the decay timer. Keep this in mind when playing on such custom difficulties.
+
+==Trivia==
+*In Japanese folklore, an Obake (お化け), or sometimes "Bakemono" (化け物), is said to be a type of Yokai. Literally, the terms mean ''a thing that changes'', referring to a state of transformation or shapeshifting. These words are often translated as "ghost", but primarily they refer to living things or supernatural beings who have taken on a temporary transformation, and these ''bakemono'' are distinct from the spirits of the dead. However, as a secondary usage, the term ''obake'' can be a synonym for ''Yurei'', the ghost of a deceased human being. 
+**In English, the ghost is referred to as a general, non-specified type of an Obake. However, if the language is set to Japanese, this ghost type is actually written as 化け狐 (Bake Kitsune), making this ghost specifically a fox Obake.
+*In a custom difficulty, the Obake's ability to halve the fingerprints' remaining duration also affects "infinite" fingerprints, as their actual duration is not infinite but rather 2,147,483,647 seconds (the maximum value of a signed Int32 data type, used to store integers), or approximately 68 years. This makes it possible for "infinite" fingerprints to disappear if one waits long enough and the Obake uses this ability often enough (around 25 times).
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.4.0]]
+|Added Obake.
+|-
+![[0.4.1.0]]
+|Increased the chance of the Obake leaving fingerprints from 50% to 75%.
+|-
+![[0.8.0]]
+|The Obake now has a 1/15 (~6.67%) chance to appear as a different ghost model per flicker during hunts; will happen at least once per hunt
+|-
+|}
+
+== References ==
+{{Reflist}}
+{{GhostNav}}
+[[ru:Обакэ]]
+[[fr:Obake]]
+[[Category:Ghosts]]

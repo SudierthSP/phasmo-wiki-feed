@@ -1,0 +1,35 @@
+# 0.11.0.2
+# revid 3900  2025-09-17T14:29:38Z  by CangMingSW
+# sha256 7891d714024ea79535c1f768ca8d982426ddd192fc22a01bff1954a83ffaf684  bytes 1320
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+ | image1=Crimson Eye.png
+ | official_name=绯红之眼
+ | release_date=2024年11月9日
+ | previous_major_version=[[0.11.0]]
+ | previous_minor_version=
+ | next_minor_version=
+ | next_major_version=
+}}
+====改动====
+*在上次补丁发布时，我们提前在Xbox Series X/S和PlayStation 5上提供了额外的语言选项，但由于这些语言尚未准备好，我们暂时将其移除。我们会尽快为玩家提供这些语言。
+====修复漏洞====
+全平台：
+
+* 修复非主机玩家无法看到血月天气的问题。
+* 修复[[格拉夫顿农舍]]和[[希望角灯塔]]的几处安定点。
+* 玩家现在可以将左键、Xbox Series X/S的A键和PlayStation的X键绑定为任意按键。
+* 注意：这并不包括手册，因为这会导致手册无法使用。
+* 修复手柄玩家在加载过程中使用商店 UI 快捷键，意外购买 DOTS 投影仪的问题。
+* 修复手柄玩家无法在仓库中抓取物品的问题。
+
+* 修复如果玩家与语音服务器的连接不完整，看不见手册的问题。
+
+'''Xbox Series/PlayStation：'''
+* 修复Xbox Series X/S玩家在断开并重新连接麦克风后失去语音聊天访问权限的问题。
+* 修复主机玩家无法看到天气效果的问题。
+
+==参考资料==
+{{Reflist}}
+{{Versions}}
+
+[[Category:开发]]

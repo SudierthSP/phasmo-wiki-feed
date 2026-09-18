@@ -1,0 +1,24 @@
+# 0.6.2.2
+# revid 2148  2022-06-25T15:13:59Z  by Qsefthuopq
+# sha256 19f8b648fe016b89303f8892a9922733f20a1fce4e3603cb23a967c75ddd796a  bytes 504
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | release_date=2022年6月25日
+  | previous_major_version=[[0.6.2.0]]
+  | previous_minor_version=[[0.6.2.1]]
+  | next_major_version=
+  | next_minor_version=
+}}
+'''0.6.2.2'''是发布于2022年6月25日的小型更新。
+
+
+== 改动 ==
+移除新鬼魂的出现几率提升
+
+== 修复漏洞 ==
+* 修复一些语言使用通灵盒和通灵板只有一种回应
+* 添加多种多人联机的反作弊方式（内部公告）
+
+==参考资料==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

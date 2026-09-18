@@ -1,0 +1,90 @@
+# 坦格伍德街房屋
+# revid 2947  2023-04-07T14:58:12Z  by 坤坤今天吃什么
+# 备注: 创建页面，内容为“{{Location  |img=坦格活德外.jpg  |imgcaption=一栋白色单层住宅的前廊。  |teamsize=1  |mapsize=小型  |floors=2  |rooms=10 (1F) 1 (B)  |exits=1  |faucets=3  |videofeeds=1  |keys=正门钥匙、车钥匙 }}{{Quote  |噩梦开始的地方，我们的第一批超自然现象的报告来自这里。这间房很小，但它埋藏的秘密比我们肉眼能看到的要多。  |—加载界面描述 }}'''坦格伍德街房屋'''（6 Tanglewood Drive）…”
+# sha256 9e4822f556bd59507a0a692801ce9c7b6db123c7e69321a00852e82f5c03a6f9  bytes 3299
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+ |img=坦格活德外.jpg
+ |imgcaption=一栋白色单层住宅的前廊。
+ |teamsize=1
+ |mapsize=小型
+ |floors=2
+ |rooms=10 (1F) 1 (B)
+ |exits=1
+ |faucets=3
+ |videofeeds=1
+ |keys=正门钥匙、车钥匙
+}}{{Quote
+ |噩梦开始的地方，我们的第一批超自然现象的报告来自这里。这间房很小，但它埋藏的秘密比我们肉眼能看到的要多。
+ |—加载界面描述
+}}'''坦格伍德街房屋'''（6 Tanglewood Drive）是恐鬼症的一张小型[[地图]]，为小型单层房屋，有三间卧室和两间浴室。  
+
+由于面积较小，此地图可以迅速进行调查，但开放的平面图和只有四个可躲藏衣柜/铁柜导致该图的[[猎杀]]非常危险。
+
+==结构==
+坦格伍德街房屋有三间卧室（包括一个婴儿房），两间浴室，一个车库和一个地下室，以及其他房间。
+
+这张图在婴儿房有1个[[泰迪熊]]。
+
+===布局技巧===
+* 主卧室由卧室本身、相邻浴室和相邻储物室组成。
+* “门厅”包括前门、男孩卧室、主浴室和婴儿房前的走廊，以及相连的两个柜子。
+
+===关键躲藏点和对策===
+在这间房子内有3个衣柜，1组储物柜，和2个家具躲藏点。根据不同的难度，有些衣柜或储物柜会装满物品，使玩家无法躲在里面。
+
+* '''业余:''' 无
+* '''中级:''' 最多 3 个
+* '''专家:''' 最多 4 个
+* '''噩梦:''' 最多 5 个
+* '''三人游戏:''' 多 1 个可躲的躲藏点
+* '''四人游戏:''' 多 2 个可躲的躲藏点
+
+自定义难度躲藏点设为'''无'''不会有躲藏点，无论多人游戏是否。
+
+「溜鬼」可在厨房岛、餐厅餐桌、车库执行。
+
+==电闸位置==
+[[电闸]]可在车库或地下室生成。
+
+==骨头位置==
+[[骨头证据|骨头]]生成点相当随机，但通常偏房间的中间。
+
+;示例
+<div class="mw-collapsible-content"><gallery widths="185">
+Long bone tanglewood livingroom.png|客厅地板上很容易被忽视的一根骨头
+Long bone tanglewood masterbedroom.png|主卧内厕所门框旁的一块骨头，也很容易错过
+File:Tanglewood-Bone3.jpg|主浴室的骨头
+File:Tanglewood-Bone4.jpg|饭厅地毯上的头骨
+File:Tanglewood-Bone5.jpg|主卧柜子上的骨头
+</gallery></div>
+
+==[[诅咒之物]]位置==
+<gallery>
+闹鬼魔镜坦格活德.jpg|主卧入口处墙上的[[闹鬼魔镜]]
+File:Tanglewood-Music2.png|婴儿房架子上的[[八音盒]]
+File:Tanglewood-Ouija2.png|地下室深处咖啡桌上的[[通灵板]]
+File:Tanglewood-Circle2.png|地下室楼梯附近的[[召唤阵]]
+File:Tanglewood-Cards.png|客厅角落桌上的[[塔罗牌]]
+File:Tanglewood-Doll2.jpg|车库垃圾桶上的[[巫毒娃娃]]
+猴爪坦格活德.jpg|餐厅柜子里的[[猴爪]]
+</gallery>
+
+==逸闻轶事==
+[[File:Tanglewood-Easter Egg.png|thumb|200x200px|厨房橱柜里的人脸土豆。|链接=Special:FilePath/Tanglewood-Easter_Egg.png]]
+
+*这是游戏里的第一张地图。
+*厨房橱柜里有[[土豆]]彩蛋；该彩蛋为热门主播Psycho创立。
+
+==历史==
+{| class="fandom-table"
+! colspan="2" |抢先体验 (Steam)
+|-
+!2020年9月19日<br>(Part 4)
+|移除只有死亡玩家能看见的骷髅
+|-
+![[0.7.0]]
+|Tanglewood Street House 改名为 6 Tanglewood Drive
+|}<br>
+{{MapNav}}
+[[Category:小型地图]]
+[[Category:地图]]

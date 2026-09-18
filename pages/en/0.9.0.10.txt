@@ -1,0 +1,41 @@
+# 0.9.0.10
+# revid 18231  2024-06-19T06:42:33Z  by Darkhooper
+# sha256 6056c41c65ecf659bf3d899a02b0bf633a495581c0a5f982e85b68e195dcef4d  bytes 1861
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=15 September 2023
+  | previous_major_version=[[0.9.0]]
+  | previous_minor_version=[[0.9.0.9]]
+  | next_minor_version=[[0.9.1.0]]
+  | next_major_version=[[0.10.0]]
+}}'''0.9.0.10''' is a minor patch released on 15 September 2023.<ref>[https://store.steampowered.com/news/app/739630/view/7184986051957054490 ''Ascension | Hotfix v0.9.0.10''. 15 September 2023 (on Steam).]</ref> It contains several optimization changes, and fixes bugs.
+
+==Changes==
+*Improved VR target priority
+*Improved VR grab performance, accuracy and reliability
+*To fix a UI bug, the VR journal is now bright when grabbed
+*Further optimisations to Sunny Meadows
+*Changed the rendering path back to Forward from Forward+ due to graphical issues
+*Optimised Maple Campsite
+*Optimised VR cpu usage across all maps
+
+==Fixes==
+*You can now close tent doors again
+*You can no longer exploit custom difficulty multipliers by not applying it
+*You will now drain sanity when the fuse box is off when the room light is turned on
+*Player cards and scrollable areas will now look correct in the journal in VR
+*The ghost can now kill you near the front door of High School
+*The ghost can no longer move outside of the playable area in Woodwind
+*Obake will now correctly make footstep sounds during hunts
+*UV Light T1 will no longer roll around on the floor infinitely
+*The VR teleport movement distance circles are visible again
+*The VR highlight reticule is now visible again
+*Sunny Meadows wheelchair sounds now show on parabolic microphones
+*You can no longer teleport through walls in VR with teleport movement
+*You will no longer drop your held items in VR if another VR player drops their Journal
+*The cost of UV Light T1 is now correctly $35 to match the other tiers
+
+==References==
+{{Reflist}}{{Versions}}
+[[Category:Development]]
+[[fr:0.9.0.10]]
+[[ru:0.9.0.10]]

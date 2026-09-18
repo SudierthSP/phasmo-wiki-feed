@@ -1,0 +1,50 @@
+# 0.174
+# revid 23915  2026-06-28T21:38:07Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 2433d5d9f3f3cd8f86e8dd3d03aadb81041801f1338d5757a3ea83e84258fe9e  bytes 2548
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+|official_name=Post Launch Update #2
+|release_date=28 September 2020
+|previous_major_version=[[0.165]]
+|previous_minor_version=?
+|next_minor_version=?
+|next_major_version=[[0.176.28]]
+}}'''0.174''', also known as the '''Post Launch Update #2''', was released on 28 September 2020.<ref>[https://store.steampowered.com/news/app/739630/view/2767982326152253728 ''Post Launch Update #2'' (on Steam)]</ref> This update makes some adjustments and fixes bugs.
+
+== Additions ==
+* Added text to show the max amount of items you can add on the inventory screen.
+* Lights will now flicker if your sanity is low. Only you can see these flickers.
+
+== Changes ==
+* Lowered the amount of money you get for taking some photos.
+* Lowered the volume of the Truck radio.
+* Lowered the volume of the main menu audio.
+* The Crucifix now has a maximum of 2 uses.
+* Smudge Sticks can no longer be used to take the Ghost out of it's hunting phase. Instead it will now have a delayed use and stop the Ghost from targeting a player for a short time to give you extra time to hide.
+* The Ghost now has a bigger interaction range on School and Asylum.
+* Updated translations.
+
+== Fixes ==
+* Updated all of the Server and Voice Server code to hopefully prevent crashes, client timeouts and voice disconnects.
+* Fixed a bug where VR players couldn't grab objects on the ground.
+* Fixed a bug where the Smudge Sticks would reset if you swapped them into your inventory.
+* Potential fix for players not always being killed by the Ghost.
+* Fixed a bug where VR players could grab objects when they were dead.
+* Optimised the networks calls during the Ghosts hunting phase.
+* Fixed a bug where servers were not being made visible on the lobby browser after playing a game.
+* Fixed a lot of areas on Asylum where the Ghost would get stuck.
+* Potential fix for the Ghost not syncing data with all players.
+* Fixed a bug where dead players could use the spirit box.
+* Fixed a bug where the main key would despawn if the host left.
+* Fixed a bug where your money would say $0 until you restarted the game.
+* Potential fix for the Truck not always leaving when you close the door.
+* Fixed a bug where the Tripod would get teleported back to the Truck if placed in the Ridgeview basement.
+* Fixed a bug where the save file wouldn't get generated properly if you haven't played the game before.
+* Fixed a bug where if you rejoined a server the default items would be doubled.
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.174]]
+[[ru:0.174]]

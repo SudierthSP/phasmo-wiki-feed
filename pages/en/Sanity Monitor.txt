@@ -1,0 +1,15 @@
+# Sanity Monitor
+# revid 23416  2026-05-06T21:17:46Z  by Darkhooper
+# sha256 88912ac5379a8dfe928aabffb56c82bcbd4a771f6584e873b1205ba0b9060f7a  bytes 1395
+# 源: https://phasmophobia.fandom.com/api.php[[File:Sanity monitor 0.6.png|thumb|The monitor displaying 4 players with various sanity values. Usernames redacted.]]
+
+The '''Sanity Monitor''' is a screen in the [[truck]] labelled "Team Sanity". It reads both the [[sanity]] of individual [[player]]s as well as the average sanity of the team, both expressed as a percentage. The Sanity Monitor is not perfectly accurate, as it will oscillate by ±2% per player in order for sanity to be perceived as more organic. Despite this inherent inaccuracy, it is still critical to gleaming player sanity levels, and by that extent seeing how aggressive the [[ghost]] will be; as average sanity decreases, [[hunt]]s will occur with increasing frequency.
+
+Players who are yet to load into the map show up on the Sanity Monitor with their name shown as "Loading...", and a hyphen in place of their sanity. [[Death|Dead]] players will have their sanity value replaced with a "?" instead. Players who have left the game will disappear from the sanity monitor entirely.
+
+In Nightmare and Insanity [[difficulty|difficulties]], the Sanity Monitor is damaged, and will give random readings, becoming essentially useless. Use of an [[Ouija Board]], if available, is thus the only feasible way to get a good estimate of one's current sanity.
+
+{{Equipment nav}}
+[[Category:Truck Equipment]]
+[[fr:Moniteur de Santé mentale]]
+[[ru:Монитор рассудка]]

@@ -1,0 +1,29 @@
+# 0.9.0.7
+# revid 20171  2025-02-12T06:56:25Z  by Darkhooper
+# 备注: might as well remove this
+# sha256 1864eb7e6db303d1a7fe2efce2a3e9d9f52ee23e9b559208b384d7e5f35c9a4e  bytes 1445
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=24 August 2023
+  | previous_major_version=[[0.9.0]]
+  | previous_minor_version=[[0.9.0.6]]
+  | next_minor_version=[[0.9.0.8]]
+|next_major_version=[[0.10.0]]}}'''0.9.0.7''' is a minor patch released on 24 August 2023.<ref>[https://store.steampowered.com/news/app/739630/view/3666546844629022149?l=english ''Ascension | Hotfix v0.9.0.7''. 24 August 2023 (on Steam).]</ref> It primarily fixes bugs, with a focus on gamepad controls.
+
+==Changes==
+*Gamepad players can now press the south (Xbox - A) button to quick access the main menu board
+*You can now press the east button (Xbox - B) to exit the spirit box text voice recognition without dropping the item
+
+==Fixes==
+*Pressing the east button (Xbox - B) while the journal is open will no longer drop the item you are holding
+*Doors will no longer get stuck while held when using a gamepad
+*Placing a crucifix will no longer sometimes push it through the floor, but photos will be temporarily worse
+*You are no longer counted as being inside the truck if you push the spirit box into the truck wall from outside
+*Igniter tier 3 now correctly lasts 10 minutes instead of 5 minutes
+*The shop funds visual no longer defaults to $999,999,999 if your save file fails to load the value
+*The music box will now correctly do the ghost event when within 5 meters of the ghost
+
+==References==
+{{Reflist}}{{Versions}}
+[[Category:Development]]
+[[fr:0.9.0.7]]
+[[ru:0.9.0.7]]

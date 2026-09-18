@@ -1,0 +1,81 @@
+# 0.176.28
+# revid 23916  2026-06-28T21:38:12Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 8b17b8827812298c5513894af85d628d72e246d5f486392086857bf3548d9e17  bytes 5015
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+|official_name=Post Launch Update #3
+|release_date=29 October 2020
+|previous_major_version=[[0.174]]
+|previous_minor_version=?
+|next_minor_version=?
+|next_major_version=[[0.176.39]]
+}}'''0.176.28''', also known as the '''Post Launch Update #3''', was released on 29 October 2020.<ref>[https://store.steampowered.com/news/app/739630/view/2910974785798922911 ''Post Launch Update #3'' (on Steam)]</ref> This update adds Halloween-themed decorations and fixes bugs.
+
+== Additions ==
+* Added a voice sensitivity slider in the audio options.
+* The text on the Spirit Box will say what the response said.
+* Added a copy button for the server invite code that can be used when the code is hidden.
+* Added text to show the server version on the server password screen.
+* Added a button to enter passwords from your clipboard.
+* Added LIV support for VR.
+* Additions for Halloween.
+
+== Changes ==
+* Upgraded the server code to PUN2. This should fix most timeout disconnects and all voice chat issues.
+* If your voice recognition is working you can no longer get a response on the Spirit Box just by talking, it will now only answer if you asked a question.
+* Updated localisation.
+* Lowered the pitch of the EMF Reader sound.
+* Lowered the brightness of the lights on the main menu.
+* The Australia server has been removed from the region selection.
+* Ghost writing will now count for photo evidence.
+* The lobby room list will no longer show empty or full rooms.
+* Lowered the amount of sanity that you lose during a ghost event.
+* The Ghost Orb and Bone will now spawn more towards the middle of the room.
+* If your voice recognition stops working the Spirit Box will default to giving a random response by talking.
+* The room temperature will no longer raise over time if the ghost leaves the room.
+* Most of the save data has been moved off of the save file to help with optimisation and help prevent save files getting corrupted when you crash.
+* The server invite code will now always be hidden by default.
+
+== Fixes ==
+* Fixed a bug where the microphone would reset in the audio options each game.
+* Several optimisations to help with timeout disconnects.
+* Potential fix for anyone on a University internet not being able to connect to the server.
+* Fixed a bug where dead players couldn't use voice chat.
+* Fixed a bug where the Non-VR pause menu would become unusable.
+* Fixed a bug where dead players were able to use the walkie talkie.
+* Fixed a bug where you could take a Photo outside of Edgefield and it would count as Dead Body evidence.
+* Fixed some spots where you could glitch through walls on Tanglewood.
+* Fixed some spots on the Farmhouse maps where the Ghost could get stuck.
+* Fixed an issue where you could change the text style of your name.
+* Fixed a bug where VR Toggle mute was set to hold and not toggle.
+* Fixed a Non-VR bug where the pause menu screens would overlap.
+* Fixed a bug where rebinding drop to left mouse button would make the main menu unusable.
+* Potential fix for save files being corrupted if you crash.
+* Fixed a bug where the Ghost wouldn't always lower the room temperature.
+* Fixed a bug where changing the voice language wouldn't change the voice recognition language.
+* Fixed an issue where your would get disconnected by client timeout when loading levels.
+* Fixed a bug where your sanity would raise during a Ghost Event.
+* Fixed a bug where the ghost death hands could be seen on cameras.
+* Fixed a bug where you could take photos through walls/ doors.
+* Fixed an issue where players with 1GB vram graphics cards would crash in multiplayer when loading into a level.
+* Fixed a bug where the photo evidence names would be in different languages depending on who took the photo.
+* Fixed a bug where your sanity would raise by 25 during one of the ghost events.
+* Fixed a bug where the windows and door handles in some doors were still visible when you were dead.
+* Fixed a bug where the Ghost Orb would sometimes get disabled.
+* Fixed a bug where the Smudge Sticks smoke would last forever if you swapped it into your inventory.
+* Fixed a bug where you could get the temperature through the wall when you were outside.
+* Fixed an issue where objects could fall behind the truck shelves and be made unreachable.
+* Fixed a bug where several player sound effects were not being affected by the master volume.
+* Fixed a bug where the push to talk button had to be held down for 1 second after your question for it to register as a phrase.
+* Fixed a bug where the default items daily challenge wouldn't complete.
+* Fixed a bug where the thermometer would set off motion sensors.
+* Ridgeview: Fixed a bug where the ghost orb would spawn outside of the basement.
+* Fixed a bug where VR players would spawn outside the Truck if they were outside of their play space.
+* Fixed a bug where the Ghost would try to throw items that were on the VR inventory belt.
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.176.28]]
+[[ru:0.176.28]]

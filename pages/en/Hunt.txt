@@ -1,0 +1,575 @@
+# Hunt
+# revid 24655  2026-09-13T19:47:42Z  by Darkhooper
+# 备注: deogen's speed's ranges
+# sha256 ee06479437d39635c63ec4ec5b9caa3071a28c1a7b8476265a94f1ad296173d7  bytes 33632
+# 源: https://phasmophobia.fandom.com/api.php<div class="mw-collapsible mw-collapsed" style="width:400px; margin-left:1%; float:right; text-align:right">
+'''<span style="color:#efcf00">This image has flashing lights.</span>'''<div class="mw-collapsible-content">[[File:Electronic interference 0.4.0.gif|right|338x196px]]</div>
+</div>
+The '''hunt''' is an in-game mechanic intended to complicate further investigation of a location by the player(s). During hunts, the [[ghost]] will materialize itself and proceed to roam around the location in order to [[Death|kill]] one or more players. For the duration of the hunt, all [[Exit Door|exit doors]] will become locked and the ghost will cause all nearby lights and electronic equipment to malfunction.
+
+A '''cursed hunt''' is a variant of a hunt caused by [[cursed possession]]s. Mechanic-wise, cursed hunts are mostly similar to regular hunts.
+
+==Initiating a hunt==
+===Standard protections===
+Hunts cannot occur while the [[setup phase]] is ongoing. The duration of the setup phase by difficulty is as follows:
+{| class="article-table"
+![[Difficulty]]
+!Duration of setup phase
+|-
+|[[Difficulty#Amateur|Amateur]]
+|5 minutes
+|-
+|[[Difficulty#Intermediate|Intermediate]]
+|2 minutes
+|-
+|[[Difficulty#Professional|Professional]]<br>[[Difficulty#Nightmare|Nightmare]]<br>[[Difficulty#Insanity|Insanity]]
+|No setup phase
+|}
+
+The setup phase can be ended early if a cursed possession is used or activated.
+
+Once a hunt ends, there is a minimum cooldown of 25 seconds (20 seconds for a [[Demon]]) before the ghost can attempt to initiate another hunt. This does not affect the activation of [[#Cursed hunts|cursed hunts]]. Ghosts do not necessarily hunt immediately once this cooldown is over.
+
+===Regular hunt requirements===
+At least one player must be within the investigation area for a hunt to begin. All ghosts have a [[sanity]] threshold below which they will be able to hunt, and some ghosts may have abilities which may modify the threshold, or even override it entirely.
+
+Using "trigger words" or swearing does ''not'' increase the chance of a hunt.
+
+====Hunt sanity thresholds====
+For most ghosts, the average team sanity is used to determine whether the ghost can hunt. The average sanity is of all players who are alive, regardless of whether they are inside or outside the investigation area. Dead players do not count towards the average team sanity.
+
+When the average sanity is at or below the threshold, ghosts have a 10% chance to initiate a hunt after exiting an idle state. This chance is increased to 1/6 when the average sanity is at or below the threshold minus 25.
+
+The following table lists the hunt sanity thresholds and abilities for all ghosts:
+{| class="article-table" style="margin: auto;"
+!Ghost
+!Condition
+!Hunt sanity threshold<br>(if non-standard) (%)
+!Non-threshold based ability/<br>additional notes
+|-
+|[[Banshee]]
+|Always
+|Standard
+|Only checks target's sanity
+|-
+| rowspan="2" |[[Dayan]]
+|When a nearby player is moving
+|65
+|
+|-
+|When a nearby player is still
+|45
+|
+|-
+| rowspan="2" |[[Demon]]
+|On ability phase activation<ref group="note">This occurs less frequently than hunts below its sanity-based threshold.</ref>
+|N/A
+|Hunts regardless of sanity<br>Can use its ability during the setup phase, but it will not hunt.
+|-
+|Always
+|70
+|
+|-
+|[[Deogen]]
+|Always
+|40
+|
+|-
+| rowspan="2" |[[Gallu]]
+|In "enraged" state
+|60
+|
+|-
+|In "weakened" state
+|40
+|
+|-
+|[[Kormos]]
+|When a nearby player is sprinting
+|70
+|
+|-
+| rowspan="2" |[[Mare]]
+|Lights turned off or broken at ghost's current room
+|60
+|
+|-
+|Lights turned on at ghost's current room
+|40
+|Regardless of fuse box status
+|-
+| rowspan="2"|[[Obambo]]
+|In "aggressive" state
+|65
+|
+|-
+|In "calm" state
+|10
+|
+|-
+| rowspan="3" |[[Onryo]]
+|Every third flame blown out and no other flame nearby
+|N/A
+|Hunts regardless of sanity
+|-
+|Always
+|60
+|
+|-
+|Near a flame
+|40
+|
+|-
+|[[Raiju]]
+|In the presence of active electronic equipment
+|65
+|
+|-
+| rowspan="2" |[[Shade]]
+|Always
+|35
+|
+|-
+|At least one player in ghost's current room
+|N/A
+|Does not hunt regardless of sanity
+|-
+| rowspan="3" |[[Thaye]]
+|Initial threshold (Age 0)
+|75
+| rowspan="3" |Fixed 1/8 chance to hunt
+|-
+|Modifier per age added (Age +1)
+| -6
+|-
+|Final threshold (Age 10)
+|15
+|-
+|[[The Mimic]]
+| colspan="3" |Inherits hunt thresholds & abilities of currently-mimicked ghost
+|-
+|[[Yokai]]
+|At least one player uses voice chat nearby
+|80
+|
+|-
+|All other ghosts/<br>standard
+|Always
+|50
+|
+|}
+
+===Cursed hunts===
+Cursed hunts can only be initiated directly by using [[cursed possession]]s.<ref group="note">Hunts that occur after a cursed hunt only inherit the extended duration, and are otherwise more akin to normal hunts. Hence, the definition of cursed hunts used here is strictly those caused ''directly'' by cursed possessions.</ref> Cursed hunts ignore sanity thresholds and hunt cooldowns; they can start right after a normal hunt, but normal hunts respect the cooldown after cursed hunts. Cancelled cursed hunts (due to empty locations) don't count toward the cooldown timer.
+
+===Activity===
+During hunts, the [[Site Activity Monitor|activity monitor]] shows level 10. However, activity level doesn't indicate hunting probability, and level 10 readings don't always mean a hunt is occurring.
+
+===Preventing a hunt===
+Hunt prevention equipment:
+*[[Crucifix]]: Stops hunts if ghost is within range when attempting to hunt. Ghost must wait 25 seconds (20 for [[Demon]]) before trying again. Tier I prevents 1 hunt; Tiers II and III prevent 2 hunts.
+*Fire sources: A lit fire source, such as a [[firelight]] or a campfire, within 4 meters of an [[Onryo]] prevents hunting, but the Onryo can blow out flames, potentially triggering a hunt regardless of sanity.
+*[[Incense]]: Prevents hunt initiation for varying durations when lit within 3-5 meters (tier-dependent) of the ghost:
+**[[Demon]]: 60 seconds
+**[[Spirit]]: 180 seconds
+**All other ghosts: 90 seconds
+*[[Monkey Paw]]: "I wish to trap the ghost" prevents hunting for 1 minute but triggers a guaranteed hunt immediately afterward.
+
+Cursed hunts can only be prevented by a tier III crucifix with two charges remaining. Incense blinds ghosts during cursed hunts but won't prevent them.
+
+==Start of a hunt==
+Each hunt consists of a grace period (not to be confused with the cooldown ''between'' hunts) and the actual hunting phase. During the grace period, the ghost will remain invisible and still for a number of seconds, giving players a chance to escape before it begins chasing them. All exit doors lock at the beginning of the grace period, preventing players from entering or exiting the investigation area. The duration of this grace period depends on difficulty or the type of the hunt:
+*'''Amateur:''' 5 seconds
+*'''Intermediate:''' 4 seconds
+*'''Professional:''' 3 seconds
+*'''Nightmare:''' 2 seconds
+*'''Insanity:''' 2 seconds
+*'''Cursed hunt:''' 1 second
+*'''Custom:''' 0 - 5 seconds
+
+The ghost cannot detect or see players during this grace period. Subsequent hunts after a cursed hunt, where not activated by a cursed possession again, are not "true" cursed hunts and hence revert to the difficulty-based grace period.
+
+The duration of a hunt depends on the difficulty and the map size. These are as follows, excluding the grace period:
+{| class="article-table" style="margin: auto;"
+! rowspan="2" |[[Difficulty]]
+! colspan="3" style="text-align:center;" |Duration of hunt
+|-
+!Small map
+!Medium map
+!Large map
+|-
+|[[Difficulty#Amateur|Amateur]]<br>Hunt duration: ''Low''
+|15 seconds
+|30 seconds
+|40 seconds
+|-
+|[[Difficulty#Intermediate|Intermediate]]<br>Hunt duration: ''Medium''
+|20 seconds
+|40 seconds
+|50 seconds
+|-
+|[[Difficulty#Professional|Professional]]<br>[[Difficulty#Nightmare|Nightmare]]<br>[[Difficulty#Insanity|Insanity]]<br>Hunt duration: ''High''
+|30 seconds
+|50 seconds
+|1 minute
+|}<br>After a cursed hunt is initiated, all subsequent hunts in the same contract, whether regular or cursed, including the ongoing cursed hunt, will last 20 seconds longer than the original duration. The hunt duration is the same for all ghosts, except for the [[Obambo]] which shortens this by 20% if it starts a hunt in the aggressive state.
+
+If the ''Kills extend hunts'' setting is not off, each successful kill will extend the current hunt duration:
+{| class="article-table" style="margin: auto;"
+! rowspan="2" |Difficulty
+! colspan="3" style="text-align:center;"|Added duration
+|-
+!Small map
+!Medium map
+!Large map
+|-
+|Nightmare<br>Insanity<br>Kills extend hunts: ''Low''
+|15 seconds
+|20 seconds
+|25 seconds
+|-
+|Kills extend hunts: ''Medium''
+|25 seconds
+|30 seconds
+|35 seconds
+|-
+|Kills extend hunts: ''High''
+|35 seconds
+|40 seconds
+|45 seconds
+|}
+<br>Using the Monkey Paw's "I wish to leave" wish will unlock all exit doors even during a hunt, but with temporary side effects.
+
+Hunts always initiate from wherever the ghost is standing (except for [[The Twins]] in specific cases); it does not have to start from any specific room. Once the grace period begins, an [[EMF]] 4 signal will be emitted at the point where the ghost is standing.
+
+==Ghost movement==
+Once the grace period ends, the ghost will proceed to either wander in a random direction, or chase a player. Ghosts cannot teleport during hunts.
+
+Within the investigation area, the ghost is able to access practically all places that players can access. It may also phase through certain furniture such as doors, some beds, and some clutter. The ghost cannot physically enter closets, lockers and mini tents, though it can stand in front of (and appear to be partially inside) one.
+
+===Wandering===
+In a "wandering" (or "roaming") phase where the ghost is not aware of any player, the ghost randomly selects a waypoint on the map, moves to that waypoint, then repeats. The ghost always attempts to take the shortest path to its waypoint.
+
+===Chasing phase===
+If the ghost detects a player, its "wandering" phase will be disrupted and it will enter a "chasing" phase, setting a waypoint at the player's last known location. After reaching the waypoint, it will repeat this action until it is unable to detect any player, upon which it will search in the immediate vicinity, before returning to its "wandering" phase.
+
+The following actions attract the ghost:
+[[File:Ghost_interfere_detect_en.png|500px|right]]
+;Being seen by the ghost
+*Each player has a total of 6 tracking points, split into 2 groups of 3, each on the upper and lower parts of the hitbox. This is anchored to the player's current point-of-view. The ghost is considered to be able to see the player, or achieving line-of-sight ('''LoS'''), if it can see all 3 points of one group (e.g. seeing 2 upper group points and 2 lower group points does ''not'' count). The placement of these tracking points means that having the head poke through a closed closet will not allow the ghost to see non-VR players, but VR players could possibly be seen, since they are actually looking through the closet.
+*The ghost has a 360-degree vision.
+*The ghost can see players up to 75 meters away.
+*Each ghost model has the same "head" height. If the ghost is a crawling model, LoS will still be achieved as if the ghost was standing.
+*Most physical objects or structures, except throwable objects, will block LoS. This includes glass windows and doors, and cell walls and doors in [[Prison]].
+
+;[[Voice chat|Voice communications]]
+*During a hunt, ghosts can hear players up to 9 meters away on the same floor.
+*Whether the ghost can hear the player is dictated by their voice chat settings. When voice chat is activated, any sound above a certain volume, whether from the player talking or background noise, will attract the ghost within the specified distance.
+*Using global chat within 9 meters of the ghost, even without talking, will attract it to the player using it. This does not attract the ghost to other players; players outside the investigation area using global chat will not cause players inside to die.
+
+;Active electronic equipment
+*The ghost will be attracted by any active electronic equipment held by players in their hand, placed on the VR toolbelt, or being [[Head Gear|worn on their head]], within 7.5 meters of it on the same floor during a hunt. Items that do not make any noise such as flashlights or thermometers will still attract the ghost. Regular flashlights (but not UV flashlights) that are swapped into the inventory but still turned on will also attract the ghost.
+*Equipment dropped on the floor or offhand, as well as deactivated Head Gear that is still being worn, do not attract the ghost.
+
+The waypoint is continuously updated when the ghost has an active line-of-sight with a player, while a waypoint placed from detection through voice or equipment is not. This means a "detection waypoint" cannot be changed before the ghost has reached it, even if players try to lure it elsewhere.
+
+The following do not attract the ghost:
+*Footsteps (except for the [[Kormos]])
+*Door, closet and locker noises
+*Electronics on the floor, even when turned on
+*Electronics that are held and turned off
+*[[Crucifix]]es
+*Lit incense
+*Firelights and tier II UV lights, even when lit
+*Players outside the investigation area
+*The reading lamp of the [[Journal]].
+
+====Detection priority====
+The ghost first checks for detectable players through voice or equipment before checking for line-of-sight. This means if a ghost detects a same player through both ways at the same time, it will first use the "detection waypoint" before switching to the "LoS waypoint" which always has the priority over the detection waypoint. The switch happens instantly if there is only one player inside the investigation area, and after a delay of 0-20 seconds{{Verify}} otherwise.
+
+If multiple players are detected at the same time, the ghost will target the player who is the closest to it through direct distance (i.e. not pathing distance). The distance check happens instantly after the LoS check. In the case where players are detected before the distance check, the ghost will choose the first player in the list (established by the order the players joined the lobby). After the ghost kills a player, the distance check is delayed by 3 seconds.{{Verify}}
+
+If the ghost has an active LoS with a player, it will remain focused on that player, unless another player gets within 2 metres of the ghost while also having an active LoS.
+
+====Special detection cases====
+=====Waypoint memory between hunts=====
+During the hunt, the ghost will remember the last seen location of a player before the hunt ended. When a new hunt starts, the ghost first has a 50% chance to set a waypoint at this location. This may include the location of a player it killed. If there is no such instance or otherwise, the ghost will "forget" this location and proceed with either regular wandering or chasing.
+*This is not relevant when the ghost is not hunting; the ghost does not remember player locations outside of a hunt. It is theoretically safe to hide in a closet or locker indefinitely if the doors remain closed and the player avoids being seen, since ghosts cannot walk into them.
+*The ghost can only remember one waypoint per hunt; the same waypoint does not carry across multiple hunts.
+<!--*If the ghost is smudged, the waypoint is forgotten. Hence, the ghost also does ''not'' intentionally go to the last seen player location from before the smudge. Clarification needed: Is it between hunts or during the same hunt?-->
+
+=====Detection in hiding spots with doors=====
+If the player is detected in a closet, locker, or small tent, the ghost will set a waypoint just outside that location, then force open the door(s) of that hiding spot when it arrives, overriding the player holding the door if applicable. This usually results in death unless the player is standing in such a way that delays LoS from being achieved, and they can close the closet door again fast enough.
+
+=====Hiding behind opened room doors=====
+If there is an opened room door in the ghost's [[interaction]] range, it will check if there are players nearby. If this is true, it will roam to the player's location and forcefully close the door, similar to how ghosts open closet/locker doors if a player is detected inside.<ref>[https://www.youtube.com/watch?v=NLGR394GidA ''Ghosts Finding You Behind Doors EXPLAINED'' | Phasmophobia | Psycho on YouTube]</ref>
+
+=====Incense=====
+If the ghost is within range of a burning [[Incense]], regardless of who is holding the Incense, and is successfully "pinged", the ghost will be unable to detect or kill players for 5 seconds, causing it to enter the "wandering" phase. When the effect ends, it will be able to detect and kill players again, resuming its normal hunting behaviour. The Incense technically does not "repel" the ghost away from the player, only that it will randomly set a new waypoint which may or may not be in the same direction as the player.
+
+=====Monkey Paw=====
+Using the Monkey Paw's "I wish to be safe" will enable the ghost to detect the wisher's voice and electronics from infinite range (including from different floors) for the rest of the contract.
+
+=====Ghost-specific detection behaviours=====
+Some ghosts have different behaviours in terms of detecting players during hunts:
+*If the [[Banshee]]'s target is currently within the investigation area, it cannot detect nor kill non-targets.
+*The Deogen always has LoS with all players, meaning it always knows everyone's location.
+*Incense blinds [[Moroi]] for 7 seconds.
+*The [[Yokai]] can only detect voices and electronics within 2.5 meters of it, instead of the respective 9 and 7.5 metres.
+
+===Ghost speeds===
+[[File:Ghost speed graph example.png|400px|right]]<small>The speeds listed below assume a default '''Ghost speed (%)''' setting of 100. The speeds will scale accordingly if this setting is changed.</small>
+
+Most ghosts move at a base speed of 1.7 m/s.<ref>[https://discord.com/channels/493757248842235906/775543308012224523/1020350064620752986 ''..."Now I got confirmation from the OG Phasmo dev himself DKnighter who sent me the following values..."'' PsychoHypnotic, 16 Sep 2022 (on Discord).]</ref> If a ghost maintains active line-of-sight ('''LoS''') with a player it is chasing, its speed will gradually increase at a rate of 0.05 times its base speed per second, taking up to 13 seconds to reach the cap of 1.65 times its base speed. If it loses detection of a player, it will maintain the speed until it gives up its "immediate area search", thereafter slowly decreasing its speed at 0.01 times its base speed per second. This takes 65 seconds to return to base speed if from maximum speed. Ghosts do not carry over their speed across hunts.
+
+The following ghosts obey LoS, but have additional modifiers that may or may not conditionally override it:
+*The [[Dayan]] moves at a fixed speed of 2.25 m/s (overriding LoS acceleration) if a player is moving within 10 metres, or at a fixed speed of 1.2 m/s (also overriding LoS acceleration) if the player is standing still within 10 metres. It obeys normal ghost speeds if there is no player within 10 metres.
+*The [[Jinn]] moves at a fixed speed of 2.5 m/s (overriding LoS acceleration) if it has LoS with a player, that player is further than 3 meters away, and the [[fuse box]] is on. It obeys normal ghost speeds if any of these conditions are ''not'' met.
+*The [[Raiju]] moves at a fixed speed of 2.5 m/s (overriding LoS acceleration) if it is within a certain distance of any active electronic equipment. It obeys normal speeds outside of the radius.
+
+The following ghosts ignore standard LoS speed rules:
+*The [[Aswang]]'s acceleration increases its speed at a rate of 0.075 times its base speed per second instead of 0.05, meaning it reaches its maximum speed of 2.53 m/s after 8.67 seconds instead of the standard 13 seconds.
+*The [[Deildegast]] has a fixed speed (between 0.4 and 3 m/s) without LoS acceleration that depends on the number of moved items by players.
+*The [[Deogen]] moves slower the shorter its pathing distance is to the player; its speed ranges from 0.4 m/s (within 2.42 meters of the player) to 3 m/s (further than 5.32 meters).<ref name="24_patch">[https://store.steampowered.com/news/app/739630/view/3339995286952592740 ''Truck Overhaul | Update v0.6.2.0'' (on Steam)]</ref> If it is not chasing anyone (e.g. when smudged), it stays at its previous speed, or 1.6 m/s if its previous speed was higher than 3 m/s.
+*The [[Hantu]]'s speed increases the lower the room temperature is, going from a minimum of 1.4 m/s to a maximum of 2.7 m/s.<ref>[https://store.steampowered.com/news/app/739630/view/3090035994578324798 ''Cursed Posessions | Update v0.5.2.1'' (on Steam)]</ref>
+*The [[Kormos]] cannot reach LoS unless the player moves within 5 metres. Its current speed is multiplied by 1.3 if it travels to a detection waypoint while having no LoS.
+*The [[Revenant]] moves at 1 m/s if it has not detected any player. If it detects a player, it will move at 3 m/s until it reaches the last known position of the player, before decelerating at a rate of 0.75 m/s² (for ~2.7 s) back to 1 m/s.
+*The [[Thaye]]'s speed is fixed at 2.75 m/s initially. Every time it ages, this speed decreases by 0.175 m/s; it will reach 1 m/s once it has aged completely.<ref name="24_patch" />
+
+Additionally, if the [[weather]] is Blood Moon, the ghost's speed is increased by 15%.
+
+For comparison, the player walks at 1.6 m/s and can sprint at 3 m/s for 3 seconds with a 5-second cooldown, resulting in an average speed of 2.125 m/s if continuously sprinting off-cooldown.
+
+==Interacting with objects==
+Ghosts are able to perform [[interaction]]s during hunts. There are similarities and differences from non-hunt interactions:
+*All ghosts have a 50% chance (100% chance for [[Poltergeist]]) of throwing one [[prop|object]] near them (within their [[interaction]] range)<ref>[https://youtu.be/09UJG8RuYtE?si=YQTenwgH9QzMrtJd A hunt throwing range test (on YouTube). 16 November 2024.]</ref> every 0.5 seconds during hunts, 4 seconds after the beginning of the hunt.
+*Ghosts can interact with all types of [[door]]s, except [[exit door]]s and other types of furniture doors, 3 seconds after the beginning of the hunt then every 4 - 8 seconds. If a ghost with the [[Ultraviolet]] evidence interacts with a door, it will leave the evidence accordingly.
+**If the player is holding a normal or closet door, the ghost cannot override it unless it detects the player as defined [[#Detection in hiding spots with doors|above]]. It can still leave an EMF signal and Ultraviolet (if applicable) if it cannot override the door.
+**Ghosts cannot randomly interact with small tent (hiding) doors but will do so if a player is detected in the small tent.
+*The ghost can blow out firelights within 5 meters during a hunt, though this is technically not a true interaction.
+
+Most other objects cannot be interacted with by the ghost during a hunt.
+
+==Other hunt-related behaviour==
+===Sounds===
+During hunts, the ghost will always produce footsteps and one specific vocalization that is used for all hunts in that contract. The interval between footsteps depends on the moving speed of the ghost.
+
+Without adjusting for volume fall-off, the maximum distance a player can hear ghost footsteps and [[Ghost#Sounds|vocalizations]] during a hunt is 20 meters (12 meters for [[Myling]]). If the player(s) and the ghost are located on different floors during the hunt, there will be no electronic interference and the ghost's footsteps and vocalizations will be greatly muffled, though the range is still the same. Sound occlusion and electronic interference does not account for physics; a ghost going up a staircase may sound muffled and not cause electronic interference on the upper floor until it reaches the top, for example.
+
+===Electronic disturbance===
+Within 10 meters of the ghost (15 meters for [[Raiju]]), all active electronic equipment and map lights, as well as global chat, will malfunction and/or flicker rapidly.
+
+===Heartbeats===
+Players can hear their own heartbeat if the ghost is within 10 meters, and there are no walls, floors, or doors between the ghost and the player, and the closer the ghost is to the player, the louder the heartbeats. Most, if not all pieces of furniture do not prevent heartbeats even when the ghost technically does not have line-of-sight with the player.
+
+===Ghost flickering===
+During a hunt, the ghost will flicker or flash in and out of existence. The game uses a set of baseline and visibility timers to determine whether the ghost is visible or invisible. Baseline timers follow one another and their cycle begins at the start of the grace period, while visibility timers only appear at the beginning of each baseline timer after the grace period. The game triggers the ghost's visibility at the beginning of a visibility timer, and its invisibility at the end of it.
+
+The following table shows the baseline and visibility timers of various ghosts:
+{| class="fandom-table"
+!Ghost
+!Baseline timers (s)
+!Visibility timers (s)
+!Visibility rate during hunt
+!Example
+|-
+|Standard
+|0.60 / 0.46 / 1.00 / 0.82 / 0.30 / 0.48 / 0.70 / 0.82 / 0.45 / 0.36
+| rowspan=2 |0.22 / 0.18 / 0.08 / 0.28 / 0.20 / 0.16 / 0.25 / 0.18 / 0.22 / 0.10
+|30.7% - 33.2%
+|[[File:Flickering Standard.gif|50px]]
+|-
+|[[Phantom]]
+|1.87 / 1.20 / 1.60 / 1.80 / 1.28 / 1.70 / 1.42 / 2.00 / 1.50 / 1.10
+|11.5% - 14%
+|[[File:Flickering Phantom.gif|50px]]
+|-
+|[[Deogen]]
+| rowspan=2 |0.45 / 0.40 / 0.55 / 0.60 / 0.32 / 0.48 / 0.40 / 0.55 / 0.50 / 0.30
+|0.22 / 0.25 / 0.21 / 0.28 / 0.23 / 0.30 / 0.24 / 0.29 / 0.21 / 0.24 / 0.28 / 0.26 / 0.27
+|53.1% - 56.5%
+|[[File:Flickering Deogen.gif|50px]]
+|-
+|[[Oni]]
+|0.28 / 0.50 / 0.46 / 0.32 / 0.26 / 0.40 / 0.34 / 0.47 / 0.30 / 0.49 / 0.24 / 0.45 / 0.34
+|55.3% - 63%
+|[[File:Flickering Oni.gif|50px]]
+|}
+<br>The Oni's visibility timers will occasionally overlap due to its baseline timers sometimes being shorter than its visibility timers. This causes the Oni to be invisible for longer or visible for shorter as it becomes invisible after the overlap.
+
+The [[Obake]] occasionally shapeshifts into a different ghost model on one visibility timer, before returning to its normal model on the following visibility timer.
+
+Timed correctly, one can obtain '''Ghost''' [[Media#Photo evidence|photos]] during a hunt while the ghost flashes visible. The hunt also allows for '''Hunting Ghost''' [[Media#Video evidence|videos]] and [[Media#Sound evidence|sounds]] to be obtained.
+
+==Dying==
+{{main|Death}}
+The ghost can kill a player in two ways:
+*If the player gets within 1.1 metres of the ghost while having an active line-of-sight, it will instantly kill the player.
+*If the player gets within 1.5 metres of the ghost while having an active line-of-sight, it will kill the player after a delay of 1 second (2 seconds for [[Deogen]]).
+
+If the ghost is a Kormos, active line-of-sight is not required for it to kill the player, but its killing range is decreased:
+*If the player gets within 0.5 metres of the Kormos, it will instantly kill the player.
+*If the player gets within 0.6 metres of the Kormos, it will kill the player after a delay of 1 second.
+
+In all these cases, the required distance refers to one of three distances: the distance between the ghost's head (1.5m above floor) and the player's head, the distance between the ghost's feet (0.1m above floor) and the player's head, or the distance between the ghost's center (1m above floor) and the player's feet.
+
+When the ghost kills a player, the player will levitate, drop all of their equipment, and their hands will reach their neck before having it snapped and dropping dead. The dead player will become an observer with their entire screen covered in bright fog. If all players die, the contract will end.
+
+==End of a hunt==
+A hunt ends when the ghost successfully kills a player (when ''Kills extend hunts'' is off), the ghost's hunting time is up, or there are no alive players within the investigation area for any reason, including if every player is killed, if every player glitches out at the start of a hunt/during a hunt, or if the exit doors are unlocked with the Monkey Paw's "I wish to leave" wish and every player exits during a hunt.
+
+When the hunt ends, the ghost will disappear and be teleported back to its [[Ghost Room|favourite room]] after a delay of 1.5 seconds, the exit door can be unlocked again, all on-site lights will turn off and can once again be toggled.
+
+==Related difficulty settings==
+*'''Ghost speed (%):''' How quickly the ghost moves
+*'''Friendly ghost:''' The ghost will never hunt. Turning this setting on will result in zero rewards
+*'''Grace period (s):''' The duration before the ghost can kill you at the start of a hunt
+*'''Hunt duration (s):''' The duration the ghost will hunt for
+*'''Kills extend hunts (s):''' The time added to the hunt duration when killing a player
+*'''Setup time (s):''' How long before the ghost can start a hunt
+
+==Trivia==
+*Hunts do not count toward witnessing a ghost event.
+*The number of hunts during a given game will appear on the resume screen in the lobby.
+*It is possible for a hunt to start without any players inside the investigation area; when a player stands perfectly in an exit doorway, it's possible for a hunt to start, as the game thinks they are inside the investigation area, but with the player getting pushed outwards and out of the investigation area when the doorway is blocked. If this happens, the hunt will immediately end.
+*If a cursed possession is used in a way that triggers a cursed hunt while a normal hunt is ongoing (e.g. breaking the [[Haunted Mirror]] or the [[Ouija Board]]), the current hunt will keep its normal duration, but subsequent hunts will correctly have 20 extra seconds.
+
+==See also==
+*[[Guides/Surviving a hunt]]
+*[[Guides/Identifying ghosts]]
+*[[Guides/Common misconceptions]]
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+! rowspan="2" |2 February 2020
+|Doubled the hunt duration.
+|-
+|Ghosts now have a higher chance of teleporting if it cannot find players while hunting.
+|-
+! rowspan="2" |5 March 2020
+|Global chat is now unusable during hunts.
+|-
+|Ghosts will now flash in and out during hunts.
+|-
+!10 March 2020
+|Ghosts will no longer teleport while hunting on smaller maps.<ref group="note">Ghosts also no longer teleport on larger maps during hunts but it is unknown when this change was made.</ref>
+|-
+!19 March 2020
+|Added a grace period of 3 seconds to the start of the hunt.
+|-
+!23 March 2020<br>(Part 2)
+|Ghosts now flash at a faster rate during hunts.
+|-
+! rowspan="3" |23 March 2020<br>(Part 3)
+|Ghosts now appear for longer during hunts.
+|-
+|All exit doors are now locked during hunts and cannot be unlocked until after the hunt.
+|-
+|Ghosts now emit footstep sounds during hunts.
+|-
+!25 March 2020<br>(Part 2)
+|Hunts now cause the Site Activity Monitor to show at level 10.
+|-
+!30 March 2020
+|Reduced the hunt duration.
+|-
+!31 March 2020
+|Hunts will no longer initiate if no one is inside the building.
+|-
+!8 April 2020
+|Added a 15 second cooldown between hunts.
+|-
+!26 April 2020
+|Flashlights will now flicker during hunts.
+|-
+!30 July 2020<br>(Part 2)
+|Lights will now turn off while the ghost is in the room during a hunt.
+|-
+!15 August 2020<br>(Part 3)
+|The ghost is now invisible during the grace period at the start of a hunt.
+|-
+!17 August 2020<br>(Part 2)
+|Increased the cooldown between hunts to 25 seconds.
+|-
+!22 August 2020
+|Heartbeats will now play when looking at the ghost while it is invisible during hunts.
+|-
+!3 September 2020<br>(Part 2)
+|The ghost now appears for longer when flashing during hunts.
+|-
+!10 September 2020
+|Ghosts will now teleport back to the ghost room after a hunt.
+|-
+! colspan="2" |Early Access
+|-
+!22 September 2020
+|Increased the grace period to 8 seconds.
+|-
+! rowspan="6" |[[0.28.6.5]]
+|Decreased the grace period to 5 seconds.
+|-
+|Ghosts no longer move during the hunt's starting grace period.
+|-
+|Ghosts now accelerate or decelerate depending on whether they see a player.
+|-
+|Ghosts now have a chance to remember the last seen location of a player.
+|-
+|Ghosts now open both locker doors slightly as a chance or to kill players.
+|-
+|Furniture now blocks line-of-sight.
+|-
+! rowspan="6" |[[0.3.0]]
+|The flickering animation for flashlights during hunts has been changed.
+|-
+|All electronics now flicker during hunts, instead of only some.
+|-
+|Electronics now only flicker within a certain radius of the ghost.
+|-
+|Most electronics now attract the ghost during hunts.
+|-
+|Decreased the grace period to 3 seconds.
+|-
+|Global chat now works outside of the electronic interference range.
+|-
+![[0.3.0.1]]
+|Increased the grace period to 4 seconds.
+|-
+! rowspan="2" |[[0.4.0]]
+|The hunt duration is now variable based on map size.
+|-
+|The grace period is now variable based on difficulty.
+|-
+! rowspan="2" |[[0.5.0]]
+|Ghosts can now throw objects during hunts.
+|-
+|Added cursed hunts.
+|-
+![[0.6.1.0]]
+|Ghosts can now check behind doors.
+|-
+![[0.6.2.1]]
+|Ghosts no longer emit footsteps while standing still during the grace period.
+|-
+! rowspan="2" |[[0.7.0]] 
+|Reduced the audible range of ghost vocalisations from unlimited to 20 metres.
+|-
+|Increased the rate of interacting with objects during hunts to 50% every 0.5 seconds.
+|-
+![[0.17.0]]
+|Changed the LoS acceleration rate from +5% per second to +2.5% per second.
+|-
+![[0.17.1.4]]
+|Reverted line-of-sight ghost speed acceleration rates.
+|}
+
+==References==
+{{Reflist}}
+
+==Notes==
+{{Reflist|group="note"}}
+[[ru:Охота]]
+[[fr:Chasse]]<!--
+[[zh:猎杀]]-->
+[[Category:Ghost State]]

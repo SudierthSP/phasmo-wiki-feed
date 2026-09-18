@@ -1,0 +1,97 @@
+# 0.11.0
+# revid 23880  2026-06-28T21:35:28Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 0b15e336cf29d9bd0e15503e065e312008fa82753d1b89dd1aa47c76517fe052  bytes 5613
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | image1=Crimson Eye.png
+ | official_name=Crimson Eye
+ | release_date=27 October 2024 (Official Partners early access)<br>28 October 2024 (public release)
+ | previous_major_version=[[0.10.0]]
+ | previous_minor_version=[[0.10.1.2]]
+ | next_minor_version=[[0.11.0.1]]
+ | next_major_version=[[0.12.0.1]]
+}}'''0.11.0''', also known as the '''Crimson Eye''' update, is a major update released on 28 October 2024.<ref>[http://www.kineticgames.co.uk/blog/phasmophobia-crimson-eye ''Crimson Eye - Phasmophobia v0.11'']</ref><ref group="note">Official Kinetic Games Partners were given early access keys on 27 October 2024.</ref> It features the Halloween 2024 event, optimizations, and bug fixes.
+
+==Additions==
+;Halloween
+*Added the [[Special events#Halloween 2024|Halloween 2024 event]]
+
+;[[Event Board]]
+*Added an Event Board to the [[Lobby|Warehouse]] featuring leaflets for current in-game events and challenges
+**Each Event and Challenge has a unique leaflet for progress tracking
+***You can open a leaflet by interacting with it, revealing information and corresponding rewards
+**The event board is located between the truck and Interior door of the Warehouse
+**Several assets and decor have been moved to surround the event board
+**The previous game's photo corkboard has been relocated to the parked Warehouse truck
+**New Challenges have been added:
+***Ranger Challenge
+***Sunny Meadows Survival
+
+;General
+*Added Latin American Spanish language support
+*Point Hope now has a unique key in the Truck
+*You can now invite and join friends using your Steam friends list
+*Your Unity ID is now displayed on the main menu board. Please provide this with any game support ticket you submit
+*If you block a player, you will now be muted for them (in addition to them being muted to you)
+*The EULA now supports all languages
+
+==Changes==
+;Upgraded Physics
+*The player and door systems have been overhauled to fix all physics-related issues:
+**Doors will no longer push players into walls or out of locations
+**Doors can no longer be pulled off of their hinges
+**Players with low fps will no longer fall through the floor on Point Hope
+**Players can no longer be pushed through walls or objects
+
+;General
+*All aspects of the game have been heavily optimised, resulting in higher performance and more consistent frame rates
+*The handwritten font (Journal / Main menu) has been replaced to improve localisation support across all languages
+*You can no longer access the badge selection menu or change your character model while in the debriefing screen
+*The ghost orbs section of Training will now be completed more consistently
+
+==Fixes==
+*Many localisation, UI and font issues have been fixed throughout the game, in all languages
+*Sticky notes in training will now display the correct key bindings when using a controller and will be disabled in VR
+*Ghosts will no longer be able to hear players using push to talk after you stop talking using global chat
+*Players will no longer float when loading into the warehouse
+*The Main Menu UI will no longer break and overlap if you click the join button too many times, or when leaving the difficulty settings
+*Red strings on the investigation board will now turn on and off correctly when taking/removing photos
+*ID Cards will now reset when resetting your save file
+*You will no longer pick up the ouija board if you ask the sanity question with a gamepad and text voice recognition
+*You will no longer get stuck in the Monkey Paw text menu when using a gamepad
+*New badges will now appear as options on your ID card as soon as you earn them
+*Badges on the ID card will now be completely reset if you have a badge that isn't synced with your cloud save
+*Your ID card will now reset if you reset your save file
+*Ghosts can now enter and exit Sunny Meadows 'experiment room 3'
+*Ghosts will no longer get stuck on top of several objects in Sunny Meadows
+*The Ridgeview utility light will no longer stop rendering if you close the door
+*Gamepad icons for navigating main menu board will no longer disappear when swapping between menus
+*The gamepad cursor speed will now correct adjust to higher resolution monitors
+*VR and gamepad users can now scroll on the debriefing screen to see all information
+*You can no longer lose equipment inside the wall above the stairs in Ridgeview
+*When multiple players die at the same time, the contract will now end, and you will be able to exit the debriefing screen
+*The contract will now load correctly if someone disconnects while loading
+*Custom difficulty will now properly unlock at level 50 instead of level 1
+*The voice recognition UI will no longer show multiple phrases for each question in some languages
+*Weekly difficulty "Primitive" no longer tries to spawn more salt than what is possible
+*UI will no longer overlap if spamming the join button or when leaving the difficulty settings
+*When the host leaves, objects physics will now correctly reset for the new host
+*The ghost animations during events will now be the correct speed
+*Fixed several microphone issues on Steam Deck
+
+==Known Issues==
+*Some locations have lighting and reflection issues, specifically with rooms being too bright
+*After dropping the voodoo doll, the movement will be incorrect
+*Some trees will flash with Eye Adaption enabled on low-end hardware
+*The first two pages of the VR Journal have missing text
+*Tripod I will follow you when dropped on consoles
+*Rain and Snow effects can't be seen on consoles
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.11.0]]
+[[ru:0.11.0]]

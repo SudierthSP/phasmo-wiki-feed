@@ -1,0 +1,26 @@
+# 0.29.6.2
+# revid 23926  2026-06-28T21:38:55Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 98b6376fc533051fa162f8e8916b1724628b5bbf5f37eab06e48c2fe9a738d56  bytes 683
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=2 July 2021
+ | previous_major_version=[[0.29.6]]
+ | previous_minor_version=[[0.29.6.1]]
+ | next_minor_version=[[0.2.10.1]]
+ | next_major_version=[[0.3.0]]
+}}'''0.29.6.2''' is a minor update to the game released on 2 July 2021.<ref>https://discord.com/channels/435431947963990026/661365069006897154/860697582132527105</ref> This update mainly fixes several exploits.
+
+== Changes ==
+=== General ===
+*All Unicode characters have temporarily been added to the profanity filter
+*Unity version has been updated
+
+== Bug fixes ==
+*Fixed several exploits
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.29.6.2]]
+[[ru:0.29.6.2]]

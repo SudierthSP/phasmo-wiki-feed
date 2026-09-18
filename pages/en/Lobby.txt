@@ -1,0 +1,231 @@
+# Lobby
+# revid 24038  2026-07-15T18:32:18Z  by Hampter134
+# 备注: /* Sho */
+# sha256 598c65ee17ada7575f0117a8514ca6128caf5f8d52db54b804f97c39e142e928  bytes 14272
+# 源: https://phasmophobia.fandom.com/api.php[[File:Lobby 0.11.jpg|thumb|A view of a player standing in the lobby.]]
+The '''lobby''', or '''warehouse''', is the place [[player]]s will spawn upon starting up the game or finishing a [[contract]]. It is a warehouse that has been converted into the lobby. The lobby is used as an intermission area for players to find or create servers, play minigames while waiting, [[Shop|purchase equipment]], or simply to interact with other players.
+
+==Layout==
+The lobby contains several distinct areas, which are, clock-wise:
+
+===[[Main menu board]]===
+This is where players will spawn upon launching the game/joining the lobby. This board acts as a user interface and contains several options. To access the board, the player must press Space or left-click on it; it is not necessary to be in front of the board if pressing space. Players can press Space again or the Esc key to leave the board.
+
+====Main menu====
+This is the menu which will appear before joining a lobby. From there, players may either create or join lobbies as well as view their daily and weekly objectives progression.   
+* '''Singleplayer''' - create a singleplayer session
+* '''Multiplayer''' - create or join a server
+* '''Training''' - learn the basics of ghost hunting
+* '''Twitch Drops''' - link your Twitch account to the game
+* '''Options''' - adjust the settings to your preference
+* '''Credits''' - Shows a list of people who directly contributed to the game's development
+* '''Quit''' - exit to desktop
+
+====Lobby menu====
+This menu appears upon joining a lobby. It allows the host and other players to adjust server settings and manage players before starting a game.
+
+Every player in the lobby will appear as [[ID Card]]s on the board. The host is able to kick players from the lobby using the "X" button next to the player's card, whom will be barred to join again until the host leaves. All players can also adjust the volume of other players for themselves using the scroll bar at the bottom of the player's card. 
+
+If the lobby is set to "private" upon creation, a code will be assigned to it, which will be displayed in the top right corner. Players are able to copy the lobby code to share it to others or hide it from view (this will not hide it for other players in the lobby; this feature is meant for streamers to prevent viewers from joining the lobby).
+
+The server settings can be managed through these buttons:
+* '''Change''' - Allows the host to change the difficulty or create a custom difficulty (see below). Non-hosts can view the current difficulty through this button.
+* '''Leave''' - Disconnects the player from the lobby
+* '''Ready''' - Marks the player as "ready" to start the game. Every player in the lobby must be ready for the host to start the game.
+* '''Start (Host)''' - Starts the game.
+
+====Difficulty selection====
+By clicking on the pen icon by the [[difficulty]] box, players will be able to view and edit the current difficulty through the "change" button. Alongside the five default difficulties and the [[Challenge Mode]], there are three custom difficulty preset slots players may edit in order to create unique gameplay experiences.
+
+===[[Shop]]===
+This is where players can buy or sell [[equipment]] as well as add them to the game through a large touch-screen. Players may also create custom loadouts they may select upon entering a lobby. The area is also decorated with display cases and two large wall racks containing all equipment.
+
+===Display area===
+This area consist of several display cases where collectibles and items found during investigations will appear, including: 
+*[[Bone Evidence|Bones]] (certain bones such as hands, feet, femurs, etc. must be collected twice)
+*[[Cursed possession|Cursed possessions]] used during investigations ([[Tarot Cards]] are collected individually by drawing them from the deck) 
+*Trophies related to [[special events]].
+*Trophies related to [[Achievements/Trophies]].
+Clicking on items inside the display cases will allow the player to inspect them closer.
+
+===Entertainment corner===
+Going up the stairs, there is a mezzanine where several games and entertainments can be found.
+
+====Basketball====
+{{Main|Basketball}}
+There is a basketball hoop on one of the walls as well as two basketballs on a table in a corner. The hoop is equipped with a score display that will count the number of goals a player has made. The number of goals is specific to each player; one player scoring a goal will not increase the score of other players and the number of goals will carry over from one server to another.
+
+====Cornhole and ring toss====
+Sets of [https://en.wikipedia.org/wiki/Cornhole cornhole] and [https://en.wikipedia.org/wiki/Ring_toss ring toss] games. The rings and bags for each game can be found on the same table as the basketballs.
+
+====Bowling====
+There are pins disposed on the floor along with a small bowling ball players may toss. The pins can be {{Control|placed}} similarily to firelights.
+
+====Jenga====
+A stack of jenga blocks (branded "Biggish Blocks") where players may play jenga. Each jenga block can be {{Control|placed}} in a manner similar to [[Video Camera]]s.
+
+===Staff room===
+A dark, inaccessible room located under the entertainment corner. By peering through the window, the ''Patient 07'' [[ghost model]] can be seen twitching at the far end of the room.
+
+===Event board/Boombox===
+There is a table next to the staff room where the [[Event Board]], a boombox, and two clipboards displaying the [[Daily and Weekly Tasks]] can be found. The boombox can be toggled on or off to play techno music for the player that has activated it. It may also play themed music or start on during special events.
+
+The music titles played by the boombox are:
+*Rik4k - All Aboard
+*Rik4k - Back in Time
+*Rik4k - Dreaming Emotion
+*Rik4k - Enlight
+*Rik4k - Forgotten Truth
+*Rik4k - Luminosity
+*Rik4k - Peace Circus
+*Rik4k - Promotion
+*Rik4k - Rocket Science
+*Rik4k - Summer Ending
+
+===Truck===
+The players may access and explore the [[truck]] from this area. The corkboard inside displays the 10 last pictures taken during a game.
+
+===Event leaderboard===
+Only available during [[special events]], a leaderboard displaying the Top 10 players having contributed to the current [[Special events|event]], and the player's own rank and points.
+
+===Map selection board===
+On the left of the main menu board, there is another corkboard where players can choose the next map to play on. This is a vote-based system; the map with the majority of votes will be the one chosen for the contract. If multiple maps have the same number of votes, the game will randomly choose between the tied maps upon starting the contract.
+
+The players may also choose the "random" option to let the game select the map for them.
+
+==Events==
+{{See also|Special events}}
+On multiple occasions, the lobby has been decorated to celebrate various special events:
+
+===Halloween 2020===
+[[File:Lobbyhalloween.png|right|180px]]
+During this event, the lobby was decorated with Jack-o-lanterns, the lights were dimmed out. and particles resembling [[Ghost Orb]]s were floating near the board. The sky outside was also turned bright red.
+
+===1st Year Anniversary===
+The lobby was decorated with various party accessories, including banners, party lights, interactible balloons scattered on the floor, as well as [[UV Light|Glowsticks]] of different colors players could pick up. Player models were also given party hats that they would keep for the entire game while the event was ongoing. 
+
+It is also during this event that the boombox was introduced. 
+
+===Halloween 2021===
+[[File:Lobby halloween 2021.png|right|180px]]
+Most of the lights in the lobby were turned off, the sky turned an ominous bright red and particles resembling ember floated around the white board, giving the lobby a very sinister ambience. [[UV Light|UV flashlights]] were disposed under the white board, which could be used to reveal various messages and writings all over the walls and floor. Some special elements were are also added:
+
+*The door by the electrical board is slightly ajar. Peering through will make the ring girl [[ghost model]] suddenly appear in the gap with a loud hissing sound.
+*A shadowy child ghost model with bright glowing eyes is peering down at players from the rafters above the white board. This is modified from the "tooth-faced" ghost model.
+*There is a skeleton hidden in one of the lockers.
+
+Player models also wore paper masks representing various ghost models for the entirety of the event.
+
+After the event ended, the lighting and particle effects were removed, but the UV messages and other physical decorations remained. One UV flashlight stayed available on the equipment shelf for use.
+
+===Holiday 2021===
+[[File:Lobby Christmas 2021.png|right|180px]]
+The lobby gained a Christmas tree with several presents surrounding it, two minigames for players to spend time on, snowballs to throw, and snow covering part of the floor. 
+
+Player models wore elf hats for the duration of the event; additionally, one of the [[ghost]] models was temporarily changed to wear a Santa hat, wield an oversized candy cane instead of an axe, and ring jingle bells every time it made an audible step.
+
+===Halloween 2022===
+[[File:Lobby halloween2022.png|right|180px]]
+The lobby received ominous lighting effects as well as various thematic props, such as skeletons, candelabras and jack o' lanterns. The jack o' lanterns could be lit using a [[lighter]] found on the table where the boombox is. A then-upcoming Tier III [[UV Light]] could be picked up from a box behind the counter of the shop area and used to reveal various writings on the wall.
+
+Peering through the Staff Room door at the ghost model inside would cause a demonic circle to appear in the middle of the lobby with ominous grandfather clock sound effects, surrounded by five sheet-covered ghosts (these are merely accessory NPCs, not to be confused with actual [[ghost]]s) who would whisper and emit freezing breath. If the player walked into the middle of the circle, the ghosts would start to slowly close in with a rising sound effect, until they all suddenly dematerialize, leaving the sheets dropping to the ground and finishing the event.
+
+===Holiday 2022===
+[[File:Lobby Christmas2022.jpg|right|180px]]
+Between [[0.8.0]] and [[0.8.0.7]], the lobby featured several decorations:
+* Christmas fairy lights and bells
+* Stockings hung on the walls
+* 3 snowmen who turn their heads to look at the player
+* A cookie plate on the table
+* Christmas-themed music (using the same music as 2021)
+
+===Halloween 2023===
+The lobby was very similar to the Halloween 2022 lobby with the same thematic decorations minus the lighters and the Tier III UV Light. The demonic circle event was also present.
+
+===Holiday 2023===
+[[File:Lobby Christmas 2023.png|right|180px]]
+The lobby received several themed decorations:
+* Christmas fairy lights
+* Stockings hung on the walls
+* 4 snowmen
+* A cookie plate on the table
+* Snowballs
+* Presents
+* Christmas-themed music (using the same music as 2021)
+
+===Easter 2024===
+[[File:Easter2024Lobby.png|right|180px]]
+The lobby received several themed decorations:
+* A Summoning Ritual
+* Twigs
+* Bunnies
+* Fireflies
+* Nests with eggs
+
+===Crimson Eye===
+[[File:Halloween2024Lobby.png|right|180px]]
+During the [[Special events#Halloween 2024|Crimson Eye]] [[Special events#Halloween 2025|event]], the lobby received Halloween-themed decorations:
+* A Blood Altar
+* Candles
+* Demonic symbols
+* Halloween-themed music
+
+===Winter's Jest===
+[[File:Lobby Christmas 2024.png|right|180px]]
+During the [[Special events#Holiday 2024|Winter's Jest event]], the lobby received Christmas-themed decorations:
+* A Christmas tree
+* Snow
+* Presents
+* Christmas-themed music
+
+===Cursed Hollow===
+[[File:Easter2025Lobby.png|right|180px]]
+During the [[Special events#Easter 2025|Cursed Hollow event]], the lobby received Easter-themed decorations:
+* Straw
+* Wooden bunnies
+* Fireflies
+* Ominous whispers on the boombox
+
+===5th Year Anniversary===
+[[File:5thYearAnniversaryLobby.png|right|180px]]
+In [[0.14.1.0]], as ''Phasmophobia'' celebrated its 5th anniversary, decorations such as balloons, fanions, confetti, usable confetti poppers, and an anniversary cake were added to the lobby.
+
+===Phasmophobia by Alan Wake===
+[[File:AlanWakeLobby.png|right|180px]]
+In [[0.17.1.0]], during the Phasmophobia by Alan Wake event, the lobby was redecorated with a theme based on [https://en.wikipedia.org/wiki/Alan_Wake_2 Alan Wake 2].
+
+==Trivia==
+*The lobby that came with the initial Steam release of Phasmophobia was a modified version of the [https://assetstore.unity.com/packages/3d/environments/urban/garage-workshop-104604 Garage Workshop] pre-made Unity asset. Many elements from this pack were also used in other areas of the game, such as the lockers and clutter like crates or bins found across some of the pre-[[0.7.0|Apocalypse update]] maps.
+*Shooting 666 hoops will trigger lighting and thunder outside.
+*Between [[0.3.0]] and [[0.3.1.2]], old equipment models could be found in a cardboard box on a shelf on the right of the whiteboard.
+*Two rings from the ring toss can be linked together by throwing the first one upwards and collide it with the second one by the same way. This is most likely a Unity physics bug.
+*An engraving on the side of the table with a boombox reads JOJO WAS HERE. This is a reference to an official ''Phasmophobia'' content creator, JOJOsaysBREE.<ref>[https://discord.com/channels/435431947963990026/756933460915912788/1053107844121108551 ''"This is an Easter egg that belongs to official Phasmophobia content creator JOJOsaysBREE!"'' ImTooToasty, ''Phasmophobia'' Discord Moderator. 15 December 2022 (on Discord).]</ref>
+*Several [[rune]]s could be found in the display area using a UV Light between [[0.8.1.0]] and [[0.10.0]].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.7.0]]
+|Updated the lobby.
+|-
+![[0.10.0]]
+|Removed Point Hope teasers.
+|-
+![[0.11.0]]
+|Added the Event Board.
+|-
+![[0.11.1.1]]
+|Added the Event Leaderboard.
+|-
+! rowspan="2" |[[0.13.0]]
+|Added trophies to the display area.
+|-
+|Reworked the main menu board.
+|}
+
+==References==
+{{Reflist}}
+[[Category:Maps]]
+[[fr:Lobby]]
+[[ru:Лобби]]

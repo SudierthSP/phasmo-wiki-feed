@@ -1,0 +1,55 @@
+# 身份卡
+# revid 3174  2023-09-02T03:46:07Z  by Skaijie
+# sha256 9df1b6d99c16c914068ce68e833c72b8a036e818354279309a7d17a21559ef40  bytes 1433
+# 源: https://phasmophobia.fandom.com/zh/api.php==特征==
+身份卡显示：
+* 玩家名称
+* 资金
+* 等级
+* 玩家模型（点击转换）
+玩家本身的身份卡上显示等级进度条，其他玩家的条可调整音量（默认音量为 50%）。
+
+===身份===
+玩家默认身份为''猎鬼师 实习生''。某些玩家会有特殊身份，也包括徽章。目前可选择一种身份在身份卡显示，点击灰色圆圈更换。
+
+{| class="fandom-table"
+!身份
+!身份卡设计
+!指定玩家
+|-
+|<span style="color: #ECD316;">猎鬼师 ???</span>
+|
+|开发者
+|-
+|<span style="color: #6871E5;">猎鬼师 ???</span>
+|
+|官方恐鬼症 Discord 职员
+|-
+|<span style="color: #DB2232;">猎鬼师 ???</span>
+|
+|官方内容创造者（Twitch 实况主）
+|-
+|<span style="color: #F6BDC4;">猎鬼师 灵媒</span>
+|<!--邀请大佬上传-->
+|官方翻译者<span class='heimu'>（如 [[User:Qsefthuopq|Qsefthuopq]]）</span>
+|-
+|猎鬼师 艺术家
+|
+|官方艺术比赛赢家
+|-
+|<span style="color: #BE8E30;">猎鬼师 贵宾</span>
+|[[File:身份证 贵宾.jpg|200px]]
+|[[特殊事件和挑战#VIP身份组活动|官方内容创造者赠品获奖者]]
+|-
+|猎鬼师 22年节日
+|[[File:身份证 22年节日.jpg|200px]]
+|[[特殊事件和挑战#2022年圣诞节|2022年圣诞节]]活动完成者<!--
+|-
+|<span style="color: #EA8A00;">猎鬼师 新手</span>
+|
+|1级声望-->
+|-
+|猎鬼师 实习生
+|[[File:身份证 实习生.jpg|200px]]
+|默认<!--Prestige 0-->
+|}

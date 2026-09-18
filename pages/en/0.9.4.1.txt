@@ -1,0 +1,35 @@
+# 0.9.4.1
+# revid 23998  2026-06-28T21:44:43Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 84a06feac9f94d0aed710b5ee00a10a313cec8da2a691fc0cf6454d293e493d7  bytes 1561
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=31 January 2024
+ | previous_major_version=[[0.9.0]]
+ | previous_minor_version=[[0.9.4.0]]
+ | next_minor_version=[[0.9.4.2]]
+ | next_major_version=[[0.10.0]]
+}}'''0.9.4.1''' is a minor hotfix released on 31 January 2024.<ref>[https://store.steampowered.com/news/app/739630/view/4053871001448289704 ''Ascension | Hotfix v0.9.4.1''. 31 January 2024 (on Steam).]</ref>
+
+== Changes ==
+* Smudge Sticks now block the Onryo’s hunt ability
+* If the Onryo is hunting and blows out a third candle, it will now cancel the Onryo hunt ability and no longer start a hunt after that hunt ends
+* Upgraded Unity version from 2022.3.5f1 to 2022.3.17f1
+
+== Fixes ==
+* The bear in the Grafton Nursery has been moved so it doesn’t get stuck when the hiding spot is blocked
+* Fixed ghost navigation issues on Grafton Farmhouse
+* The bone will no longer spawn in the bath in Grafton
+* The monkey paw will no longer mark you as a hacker and only half revive the host if you tried to revive the host while they were dying
+* You can no longer change your system clock to skip ahead to another week or days challenge
+* The fog will no longer be inside of the Prison truck
+* The ghost can no longer get stuck behind walls in Willow
+* The ghost can no longer get stuck inside the tree in Woodwind
+* You can no longer get stuck behind one of the fuse boxes on Maple Campsite
+* You can no longer get on top of the table in Storage Tent 2 in Maple Campsite
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.9.4.1]]
+[[ru:0.9.4.1]]

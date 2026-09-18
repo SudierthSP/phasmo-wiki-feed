@@ -1,0 +1,128 @@
+# EMF读取仪
+# revid 3581  2024-12-15T12:20:52Z  by Skaijie
+# sha256 9f7eeb611e05eee747b7e4cadb88b97fe7f7d40f6a4372e70b5699e5809e8b0d  bytes 5418
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+ | tier i img=EMF090_T1.png
+ | tier ii img=EMF090_T2.png
+ | tier iii img=EMF090_T3.png
+
+ | price=$45
+ | maxamount=2
+ | uses=
+ | starter=是
+ | tier i level=
+ | tier ii level=20
+ | tier iii level=52
+
+ | tier i description=带有多种模式的电磁场（EMF）检测仪，能够检测空气中的不同干扰。不幸的是，它久经沙场，只有一种模式能正常使用；但幸运的是，这个模式能够读取我们所需要的超自然读数！
+ | tier i purpose=打开这个电磁场读取仪并扫描可疑的物体，观察是否会得到读数。<br>如果指针在5以上的读数处迅速摆动，那么你找到了一件证据！
+ | tier i ability=<span style="color: #008000;">范围（米）：1.7</span><br><span style="color: #ff0000;">精确度: 低</span><br><span style="color: #ff0000;">电子设备</span>
+ | tier ii description=全球各地的超自然调查员都在用这款K2型EMF读取仪，它能够提供一致的精确读数。
+ | tier ii purpose=K2拥有更大的探测范围和五个LED指示灯，用于显示电磁场读数，此外还配备了扬声器模块。<br>
+启动设备时，会亮起一个指示灯；有常规互动时，会点亮两到四个指示灯；而找到证据时，所有五个指示灯都会亮起！
+ | tier ii ability=<span style="color: #008000;">范围（米）：2<br>精确度：高<br>音频指示器</span><br><span style="color: #ff0000;">电子设备</span>
+ | tier iii description=猎鬼部门的定制装备。除了在其大屏幕上显示电磁场数值外，它还有更多功能。
+ | tier iii purpose=这款电磁场读取仪可以同时跟踪最多三个电磁场点位。它能显示每个点位的范围、方向以及读数强度。<br>
+一个电磁场点位消失后，剩余的读数将显示在屏幕上的列表中，以便最新读数始终位于底部。<br>
+每个电磁场读数还会定期发出蜂鸣声，音调越高表示电磁场的强度越高！
+ | tier iii ability=<span style="color: #008000;">范围（米）：3.5<br>精确度：高<br>音频指示器<br>显示屏幕<br>距离指示器<br>方位指示器</span><br><span style="color: #ff0000;">电子设备</span>
+}}''"有些幽灵会在它的周围留下 EMF 痕迹，被EMF读取仪探测到后，会显示 EMF 5级。"''
+
+'''EMF读取仪'''是一种可被购买的[[装备]]，用于探测周围环境的[[EMF|电磁场]]。
+
+若想探测[[证据]]中的[[EMF 5级]]，EMF读取仪不可或缺。
+
+==EMF运作方式==
+{{main|EMF}}
+手持EMF读取仪可读取EMF信号，默认右键开关。打开后扔在地上，EMF读取仪不会自动关闭。
+
+[[猎杀]]过程中，EMF读取仪会显示随机数值，出现故障，类似于猎杀过程中的灯光闪烁。
+
+作为一件电子设备，鬼魂现身或猎杀时会将 10 米内的EMF读取仪闪烁。在鬼魂猎杀时 7.5 米内手持打开读取仪会吸引鬼魂。
+
+=== 一级 ===
+检测到的EMF会有误差，最低读数为EMF的标准级别。侦测范围为 1.7 米。
+* 要测到EMF 5级时读取仪必须跳在 5级和以上之间而不是低于 5级和 5级之间。
+
+如果读取仪同时检测到两个或以上的信号，将显示最高的EMF级别。
+
+=== 二级 ===
+二级EMF读取仪会显示标准的EMF级别，上面有五个LED灯珠，分别对应着五个EMF等级。侦测范围为 2 米。EMF读取仪检测到信号时会亮起不同数量的LED。读取仪同时检测到两个或以上的信号，将显示最高的EMF级别。
+
+=== 三级 ===
+三级读取仪可同时显示最附近的三个EMF读数。每个信号将有不同的信息。侦测范围为 3.5 米。级别显示为黑箭头，距离显示为x.xx米，方向显示为8个方向和中央。
+
+==EMF级别==
+{{main|EMF}}
+{| class="wikitable"
+|+
+!EMF级别 !!LED颜色（二级）!!鬼魂活动程度
+|-
+!1
+|
+<center><span class="clr" style="color: #0080ff">蓝色</span></center>
+|无活动，打开时默认级别
+|-
+!2
+|
+<center><span class="clr" style="color: #199b1e">绿色</span></center>
+|[[EMF#Level 2: Interaction|与物品互动]]
+|-
+!3
+|
+<center><span class="clr" style="color: #e8c252">黄色</span></center>
+|投掷物品
+|-
+!4
+|
+<center><span class="clr" style="color: #ff8800">橙色</span></center>
+|鬼魂现身或猎杀
+|-
+!5
+|
+<center><span class="clr" style="color: #ff0000">红色</span></center>
+|[[EMF 5级|证据]] (25% 几率)
+|}
+
+==EMF 5级== 
+{{main|EMF 5级}}
+如果被调查的鬼魂拥有EMF 5级证据，那么任何一个EMF 2或3级都有25%的几率触发EMF 5级。EMF 5级并不一定代表鬼魂在频繁活动或者玩家处于危险当中。
+
+== Gallery ==
+<gallery>
+File:Emf reader.jpg|thumb|0.3.0版前的EMF读取仪模型
+File:Emf new model.png|0.3.0版后的EMF读取仪模型（现为2级）
+</gallery>
+
+
+==历史==
+{| class="fandom-table"
+! colspan="2" |内测
+|-
+! 2020年1月29日
+| 降低EMF音量
+|-
+! 2020年2月17日 至 2020年3月2日
+| 开关EMF读取仪会发出声音
+|-
+! colspan="2" | 公开抢先体验
+|-
+! 2020年10月29日
+| 降低EMF音调
+|-
+! rowspan="2" |[[0.3.0]]
+| 更新读取仪模型
+|-
+| EMF音调现在取决于读数
+|-
+! [[0.9.0]]
+| 新增一、三级EMF读取仪，现有EMF读取仪模型列为二级
+|-
+! rowspan="2" |[[0.10.0]]
+| 鬼魂现身时，一级读取仪不会因为电子干扰而跳过 5 级
+|-
+|三级读取仪新增音效
+|}<br>
+{{EquipmentNav}}
+[[Category:装备]]
+[[Category:初始装备]]

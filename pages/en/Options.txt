@@ -1,0 +1,307 @@
+# Options
+# revid 24665  2026-09-14T20:41:20Z  by Darkhooper
+# sha256 daab05d48271756e2913ba1ab2aebcf19f0fa1571923103badb1d4c9910d658c  bytes 6854
+# 源: https://phasmophobia.fandom.com/api.phpUsers can change several '''options''' in-game.
+
+== Game ==
+{| class="fandom-table"
+!Option
+!Description
+!Default
+|-
+|Text
+|Sets the game language for most interfaces.<br>Supported languages: English, Brazilian Portuguese, Spanish, Portuguese, German, French, Italian, Czech, Polish, Russian, Japanese, Korean, Turkish, Simplified Chinese, Traditional Chinese, Dutch, Greek, Norwegian, Romanian, Swedish, Ukranian, Bulgarian, Danish, Finnish, Hungarian, Arabic, Catalan
+|English
+|-
+|Voice
+|Sets the language for voice recognition.<br>Supported languages:
+*All of the above (Voice)
+*English, Portuguese, French, German, Italian, Spanish, Chinese, Japanese (System Voice)<ref group="note">Danish is a supported Windows Voice Recognition language but it is not known whether Phasmophobia supports Danish (System Voice).</ref>
+|English
+|-
+|Voice Recognition Mode
+|Sets the voice recognition system being used.
+|Voice
+|-
+|Cross Play
+|Enables or disables matchmaking with players on other platforms.
+|On
+|-
+|Aim Sensitivity
+|Changes the sensitivity of the aim when looking around.
+|1.0
+|-
+|Inverted X Axis
+|Inverts the horizontal axis of the mouse when looking around.
+|Off
+|-
+|Inverted Y Axis
+|Inverts the vertical axis of the mouse when looking around.
+|Off
+|-
+|Auto Aim
+|Enables an automatic aiming at objects when using a controller.
+|Off
+|-
+|Field Of View
+|Adjusts the amount of game area that is visible on-screen.
+|70
+|-
+|Head Bob
+|Whether the player camera bobs up and down while moving.
+|On
+|-
+|Sprint Mode
+|Enables the player to stay sprinting.
+|Hold
+|-
+|Degrees
+|Sets the [[thermometer]]'s temperature unit of measurement.
+|Celsius
+|-
+|Default Cursor
+|Sets the default cursor's shape.
+|
+|-
+|Default Cursor Opacity
+|Adjusts the visibility of the default cursor.
+|100%
+|-
+|Cursor Size
+|Adjusts the size of the cursor.
+|100%
+|-
+|Virtual Cursor Speed
+|Changes the sensitivity of the cursor when navigating menus.
+|6.0
+|-
+|Highlight Cursor
+|Sets the cursor's shape when highlighting objects.
+|
+|-
+|Highlight Cursor Opacity
+|Adjusts the visibility of the highlight cursor.
+|100%
+|-
+|Cursor color
+|Sets the cursor's color.
+|
+|-
+|Player 1 color
+|Sets the Player 1's color.
+|
+|-
+|Player 2 color
+|Sets the Player 2's color.
+|
+|-
+|Player 3 color
+|Sets the Player 3's color.
+|
+|-
+|Player 4 color
+|Sets the Player 4's color.
+|
+|-
+|Immersive Animations
+|Enables the first-person death animation.
+|On
+|-
+|Alternative Ports
+|Uses alternative ports which may resolve some connection issues.
+|Off
+|-
+|Reset save file
+|Resets all in-game player data, including levels, money, equipment, statistics, collectables, and trophies, except one-off trophies (e.g. Easter event trophy).
+|N/A
+|}
+
+== Game (VR) ==
+{| class="fandom-table"
+!Option
+!Description
+!Default
+|-
+|Seated Mode
+|Changes the player's height for better comfort.
+|On
+|-
+|Left-Handed Mode
+|Swaps the left and right specific controls.
+|Off
+|-
+|Locomotion
+|Sets the player's locomotion mode.
+|Smooth
+|-
+|Turning Mode
+|Sets the turning mode for the player's view.
+|Smooth
+|-
+|Turning Angle
+|Adjusts the angle at which the player turns when using the Snap Turning Mode.
+|45
+|-
+|Turning Speed
+|Adjusts the speed at which the player turns when using the Smooth Turning Mode.
+|10
+|-
+|Movement Direction
+|Whether a direction is defined by the controller's input or the player's view.
+|Controller
+|-
+|Grab Type
+|Enables the player to stay grabbing an object.
+|Toggle
+|-
+|Door Grab Type
+|Enables the player to stay grabbing a door.
+|Toggle
+|-
+|Teleport Grab
+|Enables the player to grab objects from further away.
+|Off
+|-
+|Tool Location
+|Sets the location of the [[Voice chat#Global chat|walkie-talkie]] and the [[journal]].
+|Belt
+|-
+|Belt Offset
+|Adjusts the vertical position of the belt.
+|2
+|-
+|Height Calibration
+|Calibrates the player's height.
+|N/A
+|}
+
+== Video ==
+{| class="fandom-table"
+!Option
+!Description
+!Default
+|-
+|Brightness
+|Sets the brightness and contrast of the UI and objects.
+|100%
+|-
+|Fullscreen Mode
+|Sets the game to fullscreen.<br>Doesn't show in VR.
+|Fullscreen
+|-
+|VSync
+|Limits the game's framerate to the computer refresh rate.<br>Doesn't show in VR.
+|On
+|-
+|Resolution
+|Sets the fullscreen game resolution and framerate.<br>Doesn't show in VR.
+|''Depends on device capabilities''
+|-
+|Anti-Aliasing
+|Smoothens and eliminates jagged lines on the edges of objects, improving graphical quality at the expense of performance.
+|Off
+|-
+|SMAA Quality
+|Sets the quality of the SMAA.<br>Only shows when SMAA is selected for Anti-Aliasing.<br>Doesn't show in VR.
+|Low
+|-
+|MSAA Quality
+|Sets the quality of the MSAA.<br>Only shows when MSAA is selected for Anti-Aliasing.
+|Off
+|-
+|FidelityFX Super Resolution 1.0
+|Renders the game at a lower resolution, then uses artificial intelligence to upscale it to a higher resolution, improving performance at the expense of quality. May not work for older graphics cards.
+|Off
+|-
+|Override Sharpness
+|Increases sharpness when using FidelityFX.<br>Only shows when FidelityFX is enabled.
+|?
+|-
+|Sharpness Amount
+|The amount of sharpness applied.<br>Only shows when Override Sharpness is enabled.
+|?
+|-
+|Texture Resolution
+|Sets the quality of object textures.
+|Full
+|-
+|Skylight
+|Whether the sun and moon casts light on objects.
+|On
+|-
+|Fog Quality
+|Sets the quality of fog effects during foggy [[weather]].
+|Medium
+|-
+|Shadows
+|Whether shadow edges are sharp or graduated.
+|Soft
+|-
+|Shadow Resolution
+|Sets the quality of shadows.
+|Medium
+|-
+|Anisotropic
+|Sharperns the look of objects that are further away.
+|On
+|-
+|Ambient Occlusion
+|Improves the realism of shadows and lighting.
+|On
+|-
+|Bloom
+|Creates a strong glow effect around light sources.
+|Off
+|-
+|Film Grain
+|Creates a grainy effect on the player's screen.<br>Doesn't show in VR.
+|On
+|-
+|Chromatic Aberration
+|Creates a blue-red effect around edges of objects.<br>Doesn't show in VR.
+|On
+|-
+|Eye Adaption
+|Simulates the eyes adjusting to light or dark areas over time.<br>Doesn't show in VR.
+|Off
+|-
+|Screen Space Illumination
+|Simulates bounced lighting, making lighting and shadows look less dark.<br>Doesn't show in VR.
+|Off
+|}
+
+== Audio ==
+{| class="fandom-table"
+!Option
+!Description
+!Default
+|-
+|Master Volume
+|Controls the volume of the entire game, including the player's microphone.
+|100
+|-
+|Speaker Mode
+|Sets the method of audio output. Takes effect upon reloading the main menu or loading into a contract.
+|Stereo
+|-
+|Microphone
+|Selects the microphone input for [[voice chat]] and voice recognition.
+|''Depends on device settings''
+|-
+|Current Microphone Input
+|Shows the amount of sound that the game is currently detecting, before in-game filters are applied.
+|N/A
+|-
+|Voice Input Mode
+|The method by which voice input is transmitted.
+|Push To Talk
+|}
+
+== Controls ==
+{{Main|Controls}}
+
+== Notes ==
+{{Reflist|group="note"}}
+[[ru:Настройки]]
+[[Category:Settings]]
+[[fr:Options]]

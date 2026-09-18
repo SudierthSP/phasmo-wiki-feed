@@ -1,0 +1,154 @@
+# 0.8.0
+# revid 23975  2026-06-28T21:42:45Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 6dbe9e2f6bd1312a216ded1bdc1e498c14b56ce80bdb5144ecd160f0ce7190f9  bytes 6380
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | image1=Tempest update poster.png
+  | image2=Sunrise MapleLodge.jpg
+  | official_name=Tempest
+  | release_date=13 December 2022 (Content Creator early access)<br>14 December 2022 (public release)
+  | previous_major_version=[[0.7.0]]
+  | previous_minor_version=[[0.7.3.0]]
+  | next_minor_version=[[0.8.0.1]]
+  | next_major_version=[[0.9.0]]
+}}'''0.8.0''', also known as the '''Tempest''' update, is a major update released on 14 December 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3651886751537076286 ''Tempest | Major Update v0.8.0.0'', 12 December 2022 (on Steam).]</ref><ref group="note">Content Creators on the official Phasmophobia Discord were given early access keys on 13 December 2022.</ref> The update includes an upgrade to the Universal Render Pipeline (URP), improvements to weather, changes to several existing ghosts, and others.
+
+== Additions and Changes ==
+=== [[Special events#Holiday 2022|Holiday '22]] ===
+* New Phasmophobia 2022 Christmas event
+* Earn a unique holiday trophy and an exclusive Holiday '22 ID card and badge
+
+=== Equipment ===
+;[[Candle]]
+* Improved wax effects when lit
+
+;[[Crucifix]]
+* Can now be placed
+* Effective range is now visible while being placed
+
+;[[Haunted Mirror]]
+* Improved effects and visibility
+
+;[[Ouija Board]]
+* All players must now be further than 5m from the Ouija Board before it breaks, instead of just the person who activated it
+* Will now deactivate if the player walks outside the map
+
+;[[Sanity Pills]]
+* No longer disappear and now drop on the floor instead
+
+;[[Smudge Sticks]]
+* Improved burn effect
+
+=== Gameplay ===
+;Custom Difficulty
+* Reduced rewards from custom difficulties by 80%
+** Current and future challenges will still be accessible
+
+;Investigation bonuses
+* New bonuses for completing objectives in [[contract]]s
+** '''Investigation bonus:''' doubled money and experience for secondary [[objectives]] if the player identifies the ghost correctly and escapes alive
+** '''Perfect investigation bonus:''' In addition to the above, collect the bone and fill the journal with 3-star photos, to gain a further bonus on top of the investigation bonus
+** Investigation bonuses are affected by the difficulty multiplier
+* Added new Payments page to [[journal]]
+* Reduced secondary objective rewards to accomodate investigation bonus changes
+
+;[[Objectives]]
+* Removed salt objective
+
+;Weather
+* Re-added foggy weather
+** Will now only show where it makes sense
+* Added new Sunrise weather
+** Locations will start with temperatures between {{Temperature|10|18}}
+* Improved weather effects and visuals
+
+=== Ghosts ===
+;General
+* Ghost flickering is now synced across players
+* Ghosts now affect lights at the same range as equipment on the same floor
+
+;[[Goryo]]
+* Will not longer change favourite room or roam long distances
+
+;[[Hantu]]
+* Cold breath will now animate in any room during hunts if the breaker is off
+* Improved cold breath visuals
+
+;[[Obake]]
+* Now has 1/15 (~6.67%) chance to appear as a different ghost model per flicker during hunts
+** Will happen at least once per hunt
+
+;[[Revenant]]
+* Will now gain speed boost simply by detecting a player
+* Will no longer slow down until it reaches last known player location
+* Speed will now decrease by 0.75 m/s after losing player instead of instantly
+
+;[[Wraith]]
+* Will no longer step in salt piles
+* Updated journal weakness
+
+;[[Yurei]]
+* Ability will no longer work if ghost is in a room without a door
+
+=== Maps ===
+* Improved campsites' performance
+* Moved [[fingerprints]] on [[13 Willow Street]] doors to be more consistent
+* Radios are now interactable with the breaker off
+* Improved two hiding spots in [[Sunny Meadows Mental Institution]]; one by the restricted area door and one in the restricted wing
+* Small tent cloth is now translucent
+
+== General ==
+=== Graphics ===
+;URP
+* Upgraded to Universal Render Pipeline
+* New graphics options:
+** Sky light - for enabling sun or moonlight
+** Screen Space Ambient Occlusion
+** Fog quality
+** FidelityFX 1.0 - AI upscaling for better performance
+*** Only compatible with AMD RX 400/Nvidia GTX 10 series GPUs and newer
+* Anti-aliasing options - FXAA, SMAA or MSAA now selectable
+** VR players can only select MSAA
+* Improved general post-processing effects
+* Transparent objects and effects will now receive shadows from lights
+* DirectX 10 is no longer supported
+
+=== Accessibility ===
+* Added a text option for voice recognition
+** UI will allow for asking questions on Spirit Box/Ouija Board
+
+=== Other ===
+* Swapping to a new PC or reinstalling Windows will revert the save to the player's personal cloud backup
+* Resetting save will now wipe cloud backup
+
+== Bug fixes ==
+* The average sanity objective will now complete at the same time for all players
+* The bone will no longer spawn inside other objects
+* Tripods no longer count as electronic equipment after removing a camcorder
+* Willow windows are now the correct way round
+* The "Complete daily challenges" weekly challenge will now only trigger when a daily challenge completes, instead of when it progresses
+* You can no longer scroll to another item while placing something
+* The ghost's room will now show on the board in the truck in training
+* The Deogen spirit box reply no longer requires the player to crouch
+* The morgue door VR grab is now in the correct position
+* Hitting the crouch button, then physically crouching in VR no longer pushes you enough into the floor that the ghost cannot kill you
+* Computer monitors in [[Prison]] no longer turn on when the power is off
+* The "ghost repelled" stat will now count if you are not the host
+* In Sunny Meadows, the female hallway light switch will no longer toggle the utility room's light
+* Journal on/off buttons are much clearer to understand
+* The EULA accept button will no longer be clickable until you scroll to the bottom
+* The objects moved stat will now correctly count poltergeist throws
+* Your inventory will no longer break if you grab more than one item before joining a game
+* Room reflections will now be accurate after turning a light and off quickly
+* Russian and Ukraninian fonts will no longer have grey boxes around most characters
+* VR death room spawn position is now correct
+
+== References ==
+{{Reflist}}
+
+== Notes ==
+{{Reflist|group="note"}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.8.0]]
+[[ru:0.8.0]]

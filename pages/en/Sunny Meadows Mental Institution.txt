@@ -1,0 +1,838 @@
+# Sunny Meadows Mental Institution
+# revid 24753  2026-09-17T06:42:40Z  by Darkhooper
+# 备注: changed page layout
+# sha256 535e75d8a09e298f7109189b75298cd122782cf146ba53e38852e41634f58537  bytes 28326
+# 源: https://phasmophobia.fandom.com/api.php{{Location
+|img=Smmi updated1.png
+|imgcaption=Main entrance porch.
+|mapsize=Large
+|floors=2
+|unlocklevel=17
+|rooms=69 (Total)
+*1F: 44
+*B: 22
+*Staircases: 3
+*53 possible ghost rooms
+|exits=1
+|faucets=22
+|videofeeds=8
+|keys=Main Door Key
+|img rooms=Rooms Sunny Meadows.png
+|img sanity=Sanity Sunny Meadows.png
+|img temperatures=Temperatures Sunny Meadows.png
+}}
+{{Quote
+|speaker=Loading blurb
+|quote=This vast asylum holds more than just cobwebs and debris. Some say you can still hear the screams.
+}}'''Sunny Meadows Mental Institution''' (or simply '''Sunny Meadows''') is a [[map]] in ''Phasmophobia'' and the largest by number of rooms, succeeding the original [[Asylum]] map. It is a two-story decrepit [[wikipedia:psychiatric hospital|psychiatric hospital]] that can either be played as a whole map or separated into five '''Restricted''' areas, one of which is randomly selected for the contract.
+
+==Description==
+Sunny Meadows seems to once have been a Catholic parish/asylum as it features an old chapel and has several nods to it having once been a religious institution. Unlike most other maps, the building seems to be completely abandoned, and even somewhat in a hurry (for example, most of the "surgical" equipment in the morgue is still in place, as are some decaying corpses and human body parts). It is unclear what exactly made the asylum shut down and how long ago it happened.
+
+It is a run-down, cluttered environment, with every footstep reverberating through the halls. Take note of the [[ghost]]'s scratching along the walls, and beware its wrath -- you may find yourself separated from your fellow investigators during a [[hunt]] as the wings' doors lock shut.
+
+While the derelict stone environment and profane Chapel are eerie enough, the true horrors lie within the location's bowels: blood-stained walls, rotting corpses, and piles of gore provide ample indication of the atrocities performed within. The screams of the poor souls tortured and slain within its dark confines can still be heard through the quiet blackness.
+
+==Structure==
+Sunny Meadows contains 69 rooms, split into 5 wings and across 2 floors, as well as an outdoor courtyard. The wings are:
+*'''Courtyard Wing:''' Built around a large courtyard, this wing contains amenities for patients and visitors as well as staff facilities.
+*'''Male Wing:''' This wing contains several bedrooms, a dormitory, a common bathroom, as well as a day room for the male patients of the institution.
+*'''Female Wing:''' This wing contains several bedrooms, a dormitory, a common bathroom, as well as a day room for the female patients of the institution.
+*'''Hospital Wing:''' This wing contains several common hospital rooms as well as an operating room and a macabre morgue, still reeking with the remains of its past residents.
+*'''Restricted Wing:''' This wing was presumably where the most aggressive or unfortunate patients received their "treatments" under the form of brutal torture, containing several cells filled with blood and gore.
+
+===Layout tips===
+*A labeled map, albeit one that is weathered and altogether difficult to read, is provided in the Entrance Corridor. 
+**The room names '''Servant Room 1''' and '''Servant Room 2''' are swapped on this map from what is actually defined in-game.
+*Certain rooms contain old bell-type alarm clocks and metronomes which the ghost might interact with.
+*The crosses found hanging on the walls in various parts of the building can be turned upside down by the ghost, which will emit a loud scratching sound. Finding a cross that has been turned upside down (except for the ones in the Chapel) is a strong sign that the ghost is nearby. Crosses cannot be flipped back upright once they have been interacted with.
+
+The [[Ghost Room|favourite room]] cannot be any of the following rooms:
+<div style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+*Foyer
+*Connecting Corridor
+*Courtyard Corridor
+*Male Wing
+*Female Wing
+*Basement Corridor
+*Basement West Corridor
+*Hospital Wing
+*Basement East Corridor
+*Restricted Area
+*Padded Room 1
+*Padded Room 2
+*Left Entrance Stairwell
+*Right Entrance Stairwell
+*West Stairwell
+*East Stairwell
+</div>
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room lights being on:
+<div style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+*Connecting Corridor
+*Courtyard Corridor
+*Classroom
+*Kitchen
+*Male Wing
+*Female Wing
+*Basement Corridor
+*Basement West Corridor
+*Hospital Wing
+*Morgue
+*Basement East Corridor
+*Restricted Area
+*Left Entrance Stairwell
+*Right Entrance Stairwell
+*West Stairwell
+*East Stairwell
+</div>
+
+The following rooms have no main room lights and hence no means of sanity drain prevention:
+*Chapel
+*Courtyard
+*Male Room 5
+*Restricted Room 2
+
+The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
+*Courtyard Corridor
+*Male Wing
+*Female Wing
+*Basement West Corridor
+*Restricted Area
+
+Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
+{| class="article-table"
+!Parameter
+!None
+!Low
+!Medium
+!High
+|-
+!Number
+|0
+|5
+|9
+|13
+|}
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 28 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Manager's Office
+|[[File:SM Managers unavailable.png|200px]]
+|[[File:SM Managers available.png|200px]]
+|-
+|Infirmary
+|[[File:SM Infirmary unavailable.png|200px]]
+|[[File:SM Infirmary available.png|200px]]
+|-
+|West Visitors' Room
+|[[File:SM West Visitors unavailable.png|200px]]
+|[[File:SM West Visitors available.png|200px]]
+|-
+|Classroom
+|[[File:SM Classroom unavailable.png|200px]]
+|[[File:SM Classroom available.png|200px]]
+|-
+|Utility Room
+|[[File:SM Utility unavailable.png|200px]]
+|[[File:SM Utility available.png|200px]]
+|-
+|Servants' Room 2
+|[[File:SM Servants Room unavailable.png|200px]]
+|[[File:SM Servants Room available.png|200px]]
+|-
+|Servant Dining Room
+|[[File:SM Servants Dining unavailable.png|200px]]
+|[[File:SM Servants Dining available.png|200px]]
+|-
+|Boiler House
+|[[File:SM Boiler unavailable.png|200px]]
+|[[File:SM Boiler available.png|200px]]
+|-
+|Male Room 1
+|[[File:SM Male Room 1 unavailable.png|200px]]
+|[[File:SM Male Room 1 available.png|200px]]
+|-
+|Male Wing
+|[[File:SM Male Wing 1 unavailable.png|200px]]
+|[[File:SM Male Wing 1 available.png|200px]]
+|-
+|Male Wing
+|[[File:SM Male Wing 2 unavailable.png|200px]]
+|[[File:SM Male Wing 2 available.png|200px]]
+|-
+|Male Wing
+|[[File:SM Male Wing 3 unavailable.png|200px]]
+|[[File:SM Male Wing 3 available.png|200px]]
+|-
+|Male Day Room
+|[[File:SM Male Day unavailable.png|200px]]
+|[[File:SM Male Day available.png|200px]]
+|-
+|Male Dorm Room
+|[[File:SM Male Dorm unavailable.png|200px]]
+|[[File:SM Male Dorm available.png|200px]]
+|-
+|Female Room 4
+|[[File:SM Female Room 4 unavailable.png|200px]]
+|[[File:SM Female Room 4 available.png|200px]]
+|-
+|Female Wing
+|[[File:SM Female Wing 1 unavailable.png|200px]]
+|[[File:SM Female Wing 1 available.png|200px]]
+|-
+|Female Wing
+|[[File:SM Female Wing 2 unavailable.png|200px]]
+|[[File:SM Female Wing 2 available.png|200px]]
+|-
+|Female Day Room
+|[[File:SM Female Day unavailable.png|200px]]
+|[[File:SM Female Day available.png|200px]]
+|-
+|Female Dorm Room
+|[[File:SM Female Dorm unavailable.png|200px]]
+|[[File:SM Female Dorm available.png|200px]]
+|-
+|Basement Corridor
+|[[File:SM Basement Corridor unavailable.png|200px]]
+|[[File:SM Basement Corridor available.png|200px]]
+|-
+|Matron Office
+|[[File:SM Matron unavailable.png|200px]]
+|[[File:SM Matron available.png|200px]]
+|-
+|Basement Storage
+|[[File:SM Basement Storage unavailable.png|200px]]
+|[[File:SM Basement Storage available.png|200px]]
+|-
+|Hospital Room 2
+|[[File:SM Hospital Room 2 unavailable.png|200px]]
+|[[File:SM Hospital Room 2 available.png|200px]]
+|-
+|Operating Room
+|[[File:SM Operating unavailable.png|200px]]
+|[[File:SM Operating available.png|200px]]
+|-
+|Morgue
+|[[File:SM Morgue 1 unavailable.png|200px]]
+|[[File:SM Morgue 1 available.png|200px]]
+|-
+|Morgue
+|[[File:SM Morgue 2 unavailable.png|200px]]
+|[[File:SM Morgue 2 available.png|200px]]
+|-
+|Basement East Corridor
+|[[File:SM Basement East Corridor unavailable.png|200px]]
+|[[File:SM Basement East Corridor available.png|200px]]
+|-
+|Restricted Area
+|[[File:SM Restricted Area unavailable.png|200px]]
+|[[File:SM Restricted Area available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|28
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|26
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|25
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|23
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+When a [[hunt]] begins, if the player is in the same wing as the ghost, the [[door]]s that allow to leave the wing will lock, forcing hunters to work with the area of the map that they find themselves in, potentially separating players from one-another. As such, it is wise to check for hiding spots both near where investigation is taking place and in wings on the route to the [[Ghost Room|favourite room]], as running to known hiding spots may not be possible. Beware, the ghost can still pass through these doors during a hunt.
+
+When running away from a ghost, make good use of the various props such as dividers and cabinets cluttering the hallways in order to repeatedly break line of sight and reach a hiding spot or even throw it off, as more often than not the hiding spots are located at the ends and beginnings of hallways.
+
+==Sunny Meadows Mental Institution - Restricted==
+The restricted version of the map can be selected independently of the main location, and is considered a medium map. In the Restricted version, only the immediate entrance area (including the Chapel where the [[Cursed possession|Cursed Possession]]s spawn) and one randomly-selected wing of the building will be able to be accessed, with the entrances to the others being blocked off.
+
+<tabber>
+|-|Courtyard=
+{{Location
+|title=Sunny Meadows Mental Institution Restricted
+|img=SMRestricted Courtyard.png
+|imgcaption=The courtyard.
+|mapsize=Medium
+|floors=1
+|unlocklevel=17
+|rooms=17 (Total)
+*15 possible ghost rooms
+|exits=1
+|faucets=0
+|videofeeds=4
+|keys=Main Door Key
+|img rooms=Rooms SM Restricted Courtyard.png
+|img sanity=Sanity SM Restricted Courtyard.png
+|img temperatures=Temperatures SM Restricted Courtyard.png
+}}
+===Layout tips===
+The [[Ghost Room|favourite room]] cannot be any of the following rooms:
+*Connecting Corridor
+*Courtyard Corridor
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room lights being on:
+*Connecting Corridor
+*Courtyard Corridor
+*Classroom
+
+The following rooms have no main room lights and hence no means of sanity drain prevention:
+*Chapel
+*Courtyard
+
+The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
+*Courtyard Corridor
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 6 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Manager's Office
+|[[File:SM Managers unavailable.png|200px]]
+|[[File:SM Managers available.png|200px]]
+|-
+|Infirmary
+|[[File:SM Infirmary unavailable.png|200px]]
+|[[File:SM Infirmary available.png|200px]]
+|-
+|West Visitors' Room
+|[[File:SM West Visitors unavailable.png|200px]]
+|[[File:SM West Visitors available.png|200px]]
+|-
+|Classroom
+|[[File:SM Classroom unavailable.png|200px]]
+|[[File:SM Classroom available.png|200px]]
+|-
+|Utility Room
+|[[File:SM Utility unavailable.png|200px]]
+|[[File:SM Utility available.png|200px]]
+|-
+|Servants' Room 2
+|[[File:SM Servants Room unavailable.png|200px]]
+|[[File:SM Servants Room available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|6
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|4
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|3
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|1
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+|-|Male Wing=
+{{Location
+|title=Sunny Meadows Mental Institution Restricted
+|img=SMRestricted Male.png
+|imgcaption=The male wing.
+|mapsize=Medium
+|floors=1
+|unlocklevel=17
+|rooms=17 (Total)
+*14 possible ghost rooms
+|exits=1
+|faucets=3
+|videofeeds=4
+|keys=Main Door Key
+|img rooms=Rooms SM Restricted Male.png
+|img sanity=Sanity SM Restricted Male.png
+|img temperatures=Temperatures SM Restricted Male.png
+}}
+===Layout tips===
+The [[Ghost Room|favourite room]] cannot be any of the following rooms:
+*Connecting Corridor
+*Courtyard Corridor
+*Male Wing
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room lights being on:
+*Connecting Corridor
+*Courtyard Corridor
+*Male Wing
+
+The following rooms have no main room lights and hence no means of sanity drain prevention:
+*Chapel
+*Male Room 5
+
+The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
+*Courtyard Corridor
+*Male Wing
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 8 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Manager's Office
+|[[File:SM Managers unavailable.png|200px]]
+|[[File:SM Managers available.png|200px]]
+|-
+|Infirmary
+|[[File:SM Infirmary unavailable.png|200px]]
+|[[File:SM Infirmary available.png|200px]]
+|-
+|Male Room 1
+|[[File:SM Male Room 1 unavailable.png|200px]]
+|[[File:SM Male Room 1 available.png|200px]]
+|-
+|Male Wing
+|[[File:SM Male Wing 1 unavailable.png|200px]]
+|[[File:SM Male Wing 1 available.png|200px]]
+|-
+|Male Wing
+|[[File:SM Male Wing 2 unavailable.png|200px]]
+|[[File:SM Male Wing 2 available.png|200px]]
+|-
+|Male Wing
+|[[File:SM Male Wing 3 unavailable.png|200px]]
+|[[File:SM Male Wing 3 available.png|200px]]
+|-
+|Male Day Room
+|[[File:SM Male Day unavailable.png|200px]]
+|[[File:SM Male Day available.png|200px]]
+|-
+|Male Dorm Room
+|[[File:SM Male Dorm unavailable.png|200px]]
+|[[File:SM Male Dorm available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|8
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|6
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|5
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|3
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+|-|Female Wing=
+{{Location
+|title=Sunny Meadows Mental Institution Restricted
+|img=SMRestricted Female.png
+|imgcaption=The female wing.
+|mapsize=Medium
+|floors=1
+|unlocklevel=17
+|rooms=16 (Total)
+*13 possible ghost rooms
+|exits=1
+|faucets=3
+|videofeeds=4
+|keys=Main Door Key
+|img rooms=Rooms SM Restricted Female.png
+|img sanity=Sanity SM Restricted Female.png
+|img temperatures=Temperatures SM Restricted Female.png
+}}
+===Layout tips===
+The [[Ghost Room|favourite room]] cannot be any of the following rooms:
+*Connecting Corridor
+*Courtyard Corridor
+*Female Wing
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room lights being on:
+*Connecting Corridor
+*Courtyard Corridor
+*Female Wing
+
+The following rooms have no main room lights and hence no means of sanity drain prevention:
+*Chapel
+
+The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
+*Courtyard Corridor
+*Female Wing
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 6 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Manager's Office
+|[[File:SM Managers unavailable.png|200px]]
+|[[File:SM Managers available.png|200px]]
+|-
+|Female Room 4
+|[[File:SM Female Room 4 unavailable.png|200px]]
+|[[File:SM Female Room 4 available.png|200px]]
+|-
+|Female Wing
+|[[File:SM Female Wing 1 unavailable.png|200px]]
+|[[File:SM Female Wing 1 available.png|200px]]
+|-
+|Female Wing
+|[[File:SM Female Wing 2 unavailable.png|200px]]
+|[[File:SM Female Wing 2 available.png|200px]]
+|-
+|Female Day Room
+|[[File:SM Female Day unavailable.png|200px]]
+|[[File:SM Female Day available.png|200px]]
+|-
+|Female Dorm Room
+|[[File:SM Female Dorm unavailable.png|200px]]
+|[[File:SM Female Dorm available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|6
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|4
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|3
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|1
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+|-|Hospital Wing=
+{{Location
+|title=Sunny Meadows Mental Institution Restricted
+|img=SMRestricted Hospital.png
+|imgcaption=The hospital wing.
+|mapsize=Medium
+|floors=2
+|unlocklevel=17
+|rooms=20 (Total)
+*1F: 6
+*B: 13
+*Staircases: 1
+*14 possible ghost rooms
+|exits=1
+|faucets=1
+|videofeeds=4
+|keys=Main Door Key
+|img rooms=Rooms SM Restricted Hospital.png
+|img sanity=Sanity SM Restricted Hospital.png
+|img temperatures=Temperatures SM Restricted Hospital.png
+}}
+===Layout tips===
+The [[Ghost Room|favourite room]] cannot be any of the following rooms:
+*Connecting Corridor
+*Left Entrance Stairwell
+*Basement Corridor
+*Basement West Corridor
+*Padded Room 1
+*Hospital Wing
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room lights being on:
+*Connecting Corridor
+*Left Entrance Stairwell
+*Basement Corridor
+*Basement West Corridor
+*Hospital Wing
+*Morgue
+
+The following rooms have no main room lights and hence no means of sanity drain prevention:
+*Chapel
+
+The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
+*Basement West Corridor
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 8 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Manager's Office
+|[[File:SM Managers unavailable.png|200px]]
+|[[File:SM Managers available.png|200px]]
+|-
+|Basement Corridor
+|[[File:SM Basement Corridor unavailable.png|200px]]
+|[[File:SM Basement Corridor available.png|200px]]
+|-
+|Matron Office
+|[[File:SM Matron unavailable.png|200px]]
+|[[File:SM Matron available.png|200px]]
+|-
+|Basement Storage
+|[[File:SM Basement Storage unavailable.png|200px]]
+|[[File:SM Basement Storage available.png|200px]]
+|-
+|Hospital Room 2
+|[[File:SM Hospital Room 2 unavailable.png|200px]]
+|[[File:SM Hospital Room 2 available.png|200px]]
+|-
+|Operating Room
+|[[File:SM Operating unavailable.png|200px]]
+|[[File:SM Operating available.png|200px]]
+|-
+|Morgue
+|[[File:SM Morgue 1 unavailable.png|200px]]
+|[[File:SM Morgue 1 available.png|200px]]
+|-
+|Morgue
+|[[File:SM Morgue 2 unavailable.png|200px]]
+|[[File:SM Morgue 2 available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|8
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|6
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|5
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|3
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+|-|Restricted Wing=
+{{Location
+|title=Sunny Meadows Mental Institution Restricted
+|img=SMRestricted Restricted.png
+|imgcaption=The restricted area.
+|mapsize=Medium
+|floors=2
+|unlocklevel=17
+|rooms=18 (Total)
+*1F: 6
+*B: 11
+*Staircases: 1
+*12 possible ghost rooms
+|exits=1
+|faucets=0
+|videofeeds=3
+|keys=Main Door Key
+|img rooms=Rooms SM Restricted Restricted.png
+|img sanity=Sanity SM Restricted Restricted.png
+|img temperatures=Temperatures SM Restricted Restricted.png
+}}
+===Layout tips===
+The [[Ghost Room|favourite room]] cannot be any of the following rooms:
+*Connecting Corridor
+*Left Entrance Stairwell
+*Basement Corridor
+*Basement East Corridor
+*Padded Room 2
+*Restricted Area
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room lights being on:
+*Connecting Corridor
+*Left Entrance Stairwell
+*Basement Corridor
+*Basement East Corridor
+*Restricted Area
+
+The following rooms have no main room lights and hence no means of sanity drain prevention:
+*Chapel
+*Restricted Room 2
+
+The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
+*Restricted Area
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 5 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Manager's Office
+|[[File:SM Managers unavailable.png|200px]]
+|[[File:SM Managers available.png|200px]]
+|-
+|Basement Corridor
+|[[File:SM Basement Corridor unavailable.png|200px]]
+|[[File:SM Basement Corridor available.png|200px]]
+|-
+|Matron Office
+|[[File:SM Matron unavailable.png|200px]]
+|[[File:SM Matron available.png|200px]]
+|-
+|Basement East Corridor
+|[[File:SM Basement East Corridor unavailable.png|200px]]
+|[[File:SM Basement East Corridor available.png|200px]]
+|-
+|Restricted Area
+|[[File:SM Restricted Area unavailable.png|200px]]
+|[[File:SM Restricted Area available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|5
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|3
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|2
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|1
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+</tabber>
+
+==Bone locations==
+{{Main|Bone Evidence}}
+Bones spawn randomly, but will only spawn in areas that a ghost can also walk on, within a room that can be chosen as a [[Ghost Room|favourite room]]. Additionally, the bone cannot spawn in '''Manager's Office''' and '''Waiting Room'''.
+
+==Cursed possession locations==
+All the [[cursed possession]]s are located in the Chapel: the [[Monkey Paw]] at the foot of the large crucifix, and five other possessions arranged around the [[Summoning Circle]] in the middle.
+
+[[File:Sunny Meadows Cursed Possessions.png|200px]]
+
+==Apocalypse Challenge==
+{{Main|Apocalypse Challenge}}
+The Apocalypse Challenge can only be completed in Sunny Meadows. This is indicated with a golden skull on the map polaroid of the [[Lobby#Map selection board|map selection board]] when in Singleplayer.
+
+==Trivia==
+*A number of tags each listing a possible wish for the Monkey Paw can be found in various rooms.
+*Ghosts can blow out some of the lit candles that are found in the Chapel. This may even result in an early [[Onryo]] hunt.
+*Despite being classified as a large map, Sunny Meadows is actually smaller than both [[Prison]] and [[Brownstone High School]]—both originally Medium maps—by floor area within the map (investigation area).
+*Sunny Meadows Restricted was originally a Small map, and was changed to Medium in 0.10.0, making it the second map to change size classes across versions of the game.
+*Female Day Room, Male Day Room, as well as West Visitors' Room each have a standing lamp that needs to be turned on in addition to the main room lights for full sanity drain prevention.
+*The stairs in Right Entrance Stairwell look to lead to a possible upper floor, however they are blocked up.
+
+==Easter eggs==
+*The map contains various elements which seems to be telling the story of one of the [[Ghost Model|ghost models]], semi-officially named ''Patient 07''.
+**In [[0.6.0.1]], the "pajama girl" ghost model was changed to wear white gowns with a barcode and a label saying "Patient 07". In the same update, on the former [[Asylum]] map, one of the patient rooms had tally marks counting up to 1080 on its walls which could be revealed using a UV flashlight or Glowstick, as well as the following writing:<br><br>''I have to leave<br>Somewhere new<br>I don't belong here<br>I'll go soon<br>To get better, I hope<br>I found a new home<br>Sunny Meadows<br>Sounds nice, a place to heal''<br><br>
+**In Padded Room 1 in the Hospital Wing, tally marks counting up to 7560 can be seen with a [[UV Flashlight]] or [[Glowstick]], as well as bloody handprints covering the door. This suggests that it might have been Patient 07's room once she was transferred to Sunny Meadows, or at least was locked in there for a significant period of time (approximately 20.7 years if the marks are counted as days).
+**Finally, Patient 07's corpse can be found rotting in the Morgue. This means that Patient 07 died (most likely of poor treatment and brutal torture) in Sunny Meadows and that her tormented soul has since been condemned to haunt the world of the living.
+*If the player lights the [[Summoning Circle]] in Custom difficulty with at least six cursed possessions in the game, every lit candle will turn a crucifix in the room upside down. If the last candle is lit, the large cross in the Chapel will ignite.
+**The [[temperature]] of the ignited large cross is {{Temperature|666}} (the devil's number).
+**This easter egg is hinted at by many writings on the Chapel's walls. "Six Becomes One" is written multiple times both using Latin and runic alphabets.
+*A [[potato]] can be found in the Bake House, inside the 2nd oven from the left on the top row.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.7.0]]
+|Added Sunny Meadows Mental Institution/Restricted.
+|-
+![[0.7.1.0]]
+|Added window-knocking sounds to windows.
+|-
+![[0.7.1.2]]
+|The boilers now have a burning loop sound.
+|-
+![[0.7.1.4]]
+|The ghost can no longer do ghost events in most hallways (basement west corridor, restricted area, courtyard corridor, female wing and male wing).
+|-
+![[0.8.0]]
+|Improved two hiding spots; one by the restricted area door and one in the restricted wing.
+|-
+![[0.8.0.4]]
+|Adjusted several hiding spots when they are blocked, moving and deleting props where necessary.
+|-
+! rowspan="3" |[[0.8.0.6]]
+|Ghosts and players can now move the large metal trays.
+|-
+|Coal now has new sounds when dropped or thrown.
+|-
+|Many assorted improvements to prop and map collision, as well as ghost pathing.
+|-
+![[0.10.0]]
+|Sunny Meadows Restricted is now categorized as a medium location
+|-
+![[0.16.1.2]]
+|Fixed a bug which caused the [[bone]] to always spawn in the same location.
+|-
+![[0.18.0]]
+|The ghost will now only lock the doors to a wing if both it and a player are inside that wing.
+|}<br>
+{{MapNav}}
+[[Category:Maps]]
+[[Category:Large Map]]
+[[fr:Sunny Meadows Mental Institution]]
+[[ru:Sunny Meadows Mental Institution]]

@@ -1,0 +1,68 @@
+# Obambo
+# revid 24274  2026-07-24T04:39:31Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 b891cb67095836e69b2772eff2cb1282da797c3c0f2669b8ce56beae75edba05  bytes 4689
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=
+ |strength=*Hunts earlier and is faster in its "aggressive" state
+ |weakness(es)=*Hunts later and is slower in its "calm" state
+*Hunts initiated in its "aggressive" state have a reduced duration
+ |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
+ |Evidence2=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]
+ |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
+}}{{Quote
+ |quote=The Obambo is the ghost of someone never properly laid to rest. Fickle and defensive, it flickers between states of calm and aggression.
+ |speaker=The Journal
+}}The '''Obambo''' is a type of [[ghost]] in ''Phasmophobia''. Its unique ability revolves around switching between a "calm" state in which it is less aggressive and slower during hunts and an "aggressive" state in which it is more aggressive and faster during hunts. 
+
+==Behavior==
+===Activity===
+The Obambo has two states: "calm" and "aggressive". It always starts in the calm state at the beginning of a [[contract]] before switching to the other state 1 minute after an [[exit door]] is opened for the first time, then every 2 minutes. The state switch can happen during a [[hunt]].
+
+In its calm state, the Obambo has a fixed [[activity]] level of 90. In its aggressive state, it has a fixed activity level of 25.
+
+===Hunt===
+The Obambo has a hunt [[sanity]] threshold of 10% while in its calm state, and of 65% in its aggressive state.
+
+The Obambo will travel at a base speed of 1.445 m/s in its calm state and at a base speed of 1.955 m/s in its aggressive state.
+
+The hunt duration will be 20% shorter if the Obambo starts the hunt in the aggressive state. This will apply even if the ghost switches to the calm state mid-hunt.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]] [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]] [[Ghost Writing]]
+|[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]] [[Ultraviolet]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: While aggressive, the '''Obambo''' is quicker to start hunting.''
+
+''Weakness: While calm, the '''Obambo''' is slower to start hunting and easier to track.''
+
+==Strategies==
+The Obambo can easily be mistaken for [[The Twins]] if one tries to identify the ghost only by its hunt speed, as they both have similar base speeds. If the average sanity is not extremely low, and the ghost starts all hunts in its fast speed, it is much more likely to be an Obambo than The Twins; There is a massive gap from 10% to 65% sanity, where an Obambo can hunt while aggressive but not while calm, so at higher sanity levels, it will only hunt in its aggressive state, meaning all hunts start in the fast speed.
+
+A conclusive way to identify the Obambo is to time the duration of a hunt. If the ghost is faster than the standard speed at the beginning of the hunt and the hunt lasts 20% less time than expected, then it is an Obambo. It can also switch states (and thus its base speed) during a hunt, so if the ghost snaps from a slower speed to a faster speed (or vice versa) during a hunt, seemingly for no reason, then it is very likely an Obambo.
+
+In general, noticeable, distinct "phases" of high/low activity can point towards the ghost being an Obambo; while other ghosts can also exhibit similar behavior from chance, the Obambo will have much more pronounced, prolonged phases.
+
+==Trivia==
+*An Obambo, also known as an Obambou, is a supernatural entity belonging to tribes of Central Africa. It is depicted as evil, possessing the power to do evil and good, if it chooses to, having the ability to possess and cause sickness. In some African tribes, an Obambou is referred to as a devil, or as the spirit of someone who was not buried correctly. The Commi tribe believed that when someone is severely ill, an Obambou is a likely culprit which can be determined by a doctor or shaman. The Obambo will reside in the bowels of humans until family, friends, and neighbors surround the possessed person and make noise however they can to drive out the Obambo, by singing, dancing, yelling, or banging things together.
+*In its calm state, the Obambo is the ghost with the lowest chance of succeeding in a hunting attempt.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.15.1.0]]
+|Added Obambo.
+|}
+
+[[ru:Обамбо]]
+[[fr:Obambo]]
+[[Category:Ghosts]]
+{{GhostNav}}

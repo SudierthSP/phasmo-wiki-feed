@@ -1,0 +1,709 @@
+# 难度/自定义
+# revid 3894  2025-09-13T06:39:12Z  by CangMingSW
+# sha256 ad3bd7303d890581379dd464db206315daf30272b87bfada529a7bbde15ab5f2  bytes 12539
+# 源: https://phasmophobia.fandom.com/zh/api.php50等级解锁的'''自定义难度'''让玩家自定各种关于玩家、鬼魂、合约的设定。这会影响合约奖励：设定越对玩家不利，奖励越高。
+
+==难度调整数==
+每项难度设定在左边会显示有颜色的图标，以表达对于奖励的效果。这些通常由业余难度为标准：
+* <span style="color: #00b800;">绿色：</span>提高调整数
+*<span style="color: #b3a400;">黄色：</span>被其它设定限制调整数
+* <span style="color: #b04500;">橙色：</span>减低调整数
+*<span style="color: #a60002;">红色：</span>总数调整数被限制或以比例降低
+
+以下列表会以基本奖励和奖励调整数对比。把每个设定调为基本奖励会提供 1.00x 的总额奖励调整数。调整数最低为 0.00x，最高为 15.00x。
+
+调整数有三种：
+*加减数（+ 或 -）
+**例：+0.20x 导致 3.00x → 3.20x；-0.50x 导致 3.20x → 2.70x
+*乘数（x）
+**例：*0.75x 导致 4.00x → 3.00x；*0.75x 和 *0.50x 导致 1.00x → 0.75x → 0.37x
+*限数
+**例：2.00x 限数导致 3.00x → 2.00x 或 7.30x → 2.00x；1.00x 限数不会影响 0.75x 或 0.50x 的调整数
+
+有些设定有相对的效果，次要调整数目以下会说明。
+
+特例：调整数因为有 3 或 2 个证据而高于 4.00x 或 5.00x 的情况下，游戏会先以正常的规例让调整数加到 4.00x 或 5.00x，之后的加数再减半。
+
+*例：如果有三个证据而调整数目前为 3.80x，如果再调整一个 +0.50x 的设定，游戏会先加 0.20x 以达成 4.00x，剩下的 0.30x 会减半并添加，总额调整数为 4.15x。
+
+{| class="fandom-table"
+! 设定
+! 选项
+! 调整数目
+!次要调整数目 
+!注释
+|-
+! colspan="5" |玩家
+|-
+| rowspan="5" |初始理智
+|0
+|<span style="color: #00b800;">+1.00x</span>
+|醒脑丸恢复理智量为 25% 以上则 <span style="color: #b3a400;">+0.15x</span>
+|
+|-
+|25
+|<span style="color: #00b800;">+0.75x</span>
+|醒脑丸恢复理智量为 20% 以上则 <span style="color: #b3a400;">+0.09x</span>
+|
+|-
+|50
+|<span style="color: #00b800;">+0.50x</span>
+|醒脑丸恢复理智量为 10% 以上则 <span style="color: #b3a400;">+0.06x</span>
+|
+|-
+|75
+|<span style="color: #00b800;">+0.25x</span>
+|醒脑丸恢复理智量为 5% 以上则 <span style="color: #b3a400;">+0.03x</span>
+|
+|-
+|100
+|基础奖励
+|
+|
+|-
+| rowspan="12" |醒脑丸恢复理智量（%）
+|0
+| <span style="color: #00b800;">+0.50x</span> 
+|初始理智为 100% 则 <span style="color: #b3a400;">+0.25x</span>
+|
+|-
+| 5
+|<span style="color: #00b800;">+0.40x</span>
+|初始理智为 100% 则 <span style="color: #b3a400;">+0.22x</span>
+|
+|-
+|10
+|<span style="color: #00b800;">+0.30x</span>
+|初始理智为 75% 以上则 <span style="color: #b3a400;">+0.20x</span>
+|
+|-
+| 20
+|<span style="color: #00b800;">+0.20x</span>
+|初始理智为 75% 以上则 <span style="color: #b3a400;">+0.17x</span>
+|
+|-
+|25
+|<span style="color: #00b800;">+0.15x</span>
+|
+|
+|-
+|30
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|35
+|<span style="color: #00b800;">+0.05x</span>
+|
+|
+|-
+|40
+|基础奖励
+|
+|
+|-
+|45
+|<span style="color: #b04500;">-1.00x</span>
+|
+|
+|-
+|50
+|<span style="color: #b04500;">-3.00x</span>
+|
+|
+|-
+|75
+|<span style="color: #b04500;">-5.00x</span>
+|
+|
+|-
+|100
+|<span style="color: #b04500;">-10.00x</span>
+|
+|
+|-
+| rowspan="5" |理智降低速度（%）
+|0
+|N/A
+|<span style="color: #a60002;">'''调整数限制为 0.00x'''</span>
+|
+|-
+|50
+|<span style="color: #b04500;">'''*0.50x'''</span>
+|'''调整会乘以这数目'''
+|
+|-
+|100
+|基础奖励
+|
+|
+|-
+|150
+|<span style="color: #00b800;">+0.30x</span>
+|
+|
+|-
+| 200
+|<span style="color: #00b800;">+0.60x</span>
+|
+|
+|-
+| rowspan="3" |奔跑
+|关
+|<span style="color: #00b800;">+1.50x</span>
+|玩家移速比鬼魂快或徘徊期为 3 秒以上则 <span style="color: #b3a400;">+0.50x</span>
+|
+|-
+|开
+|基础奖励
+|
+|
+|-
+|无限
+|N/A
+|<span style="color: #a60002;">'''调整数限制为 0.00x'''</span>
+|
+|-
+| rowspan="5" |玩家移动速度（%）
+| 50
+|<span style="color: #00b800;">+1.00x</span>
+|奔跑打开或徘徊期为 3 秒以上则 <span style="color: #b3a400;">+0.50x</span>
+|
+|-
+|75
+|<span style="color: #00b800;">+0.50x</span> 
+|奔跑打开或徘徊期为 2 秒以上则 <span style="color: #b3a400;">+0.20x</span>
+|
+|-
+|100
+|基础奖励
+|
+|
+|-
+|125
+|<span style="color: #b04500;">'''*0.75x'''</span>
+| rowspan="2" |'''调整会乘以这数目'''
+|
+|-
+|150
+|<span style="color: #b04500;">'''*0.50x'''</span>
+|
+|-
+| rowspan="2" |手电筒
+|关
+|<span style="color: #00b800;">+0.45x</span>
+|开局电闸没设定为损坏则 <span style="color: #b3a400;">+0.10x</span>
+|
+|-
+|开
+|基础奖励
+|
+|
+|-
+| rowspan="2" |死亡丢失物品
+|关
+|N/A
+|<span style="color: #a60002;">'''调整数限制为 0.00x'''</span> 
+|
+|-
+|开
+|基础奖励
+|
+|
+|-
+! colspan="5" |鬼魂
+|-
+| rowspan="5" |鬼魂移速（%）
+|50
+| <span style="color: #b04500;">'''*0.50x'''</span>
+| rowspan="2" |'''调整会乘以这数目'''
+|
+|-
+|75
+|<span style="color: #b04500;">'''*0.75x'''</span>
+|
+|-
+|100
+|基础奖励
+|
+|
+|-
+|125
+|<span style="color: #00b800;">+0.50x</span>
+|奔跑打开或徘徊期为 2 秒以上则 <span style="color: #b3a400;">+0.25x</span>
+|
+|-
+|150
+|<span style="color: #00b800;">+1.00x</span>
+|奔跑打开或徘徊期为 3 秒以上则 <span style="color: #b3a400;">+0.50x</span>
+|
+|-
+| rowspan="3" |游荡频率
+|低
+|<span style="color: #b04500;">-0.20x</span>
+|
+|
+|-
+|中 
+| 基础奖励
+|
+|
+|-
+|高
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+| rowspan="4" |变更鬼魂房间
+|无
+|基础奖励
+|
+|
+|-
+|低
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|中 
+|<span style="color: #00b800;">+0.20x</span> 
+|游荡频率没设定为高则 <span style="color: #b3a400;">+0.10x</span>
+|
+|-
+|高
+|<span style="color: #00b800;">+0.30x</span>
+|游荡频率没设定为高则 <span style="color: #b3a400;">+0.15x</span>
+|
+|-
+| rowspan="3" |互动数
+|低 
+|<span style="color: #00b800;">+0.20x</span> 
+|
+|
+|-
+|中
+|<span style="color: #00b800;">+0.10x</span> 
+|
+|
+|-
+|高
+|基础奖励
+|
+|
+|-
+| rowspan="3" |事件频率
+|低
+|基础奖励 
+|
+|
+|-
+|中
+|<span style="color: #b04500;">-0.10x</span> 
+|
+|
+|-
+|高
+|<span style="color: #b04500;">-0.20x</span>
+|
+|
+|-
+| rowspan="2" |友善的鬼
+|关
+|基础奖励
+|
+|
+|-
+|开
+|N/A
+|<span style="color: #a60002;">'''调整数限制为 0.00x'''</span>
+|
+|-
+| rowspan="6" |猎杀徘徊期（秒）
+|0
+|<span style="color: #00b800;">+1.25x</span>
+|玩加移速比鬼魂移速快则 <span style="color: #b3a400;">+0.95x</span>
+|
+|-
+|1
+|<span style="color: #00b800;">+0.75x</span>
+|玩加移速比鬼魂移速快则 <span style="color: #b3a400;">+0.00x</span>
+|
+|-
+|2
+|<span style="color: #00b800;">+0.30x</span>
+|玩加移速比鬼魂移速快则 <span style="color: #b3a400;">-0.10x</span>
+|
+|-
+| 3
+|<span style="color: #00b800;">+0.20x</span>
+|玩加移速比鬼魂移速快则 <span style="color: #b3a400;">-0.20x</span>
+|
+|-
+| 4
+|<span style="color: #00b800;">+0.10x</span>
+|玩加移速比鬼魂移速快则 <span style="color: #b3a400;">-0.25x</span>
+|
+|-
+| 5
+|基础奖励
+|玩加移速比鬼魂移速快则 <span style="color: #b3a400;">-0.30x</span>
+|
+|-
+| rowspan="3" | 猎杀时间
+|低
+|基础奖励
+|
+|
+|-
+|中
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|高
+|<span style="color: #00b800;">+0.20x</span>
+|
+|
+|-
+| rowspan="4" |击杀延长猎杀（秒）<ref group="注释">设定包括（秒），虽然设定选项不是以秒为单位</ref>
+|关
+| rowspan="4" |基础奖励 
+|
+| rowspan="4" |不影响调整数
+|-
+|低
+|
+|-
+|中
+|
+|-
+|高
+|
+|-
+| rowspan="4" |给出的证据
+|0
+|<span style="color: #00b800;">+4.00x</span>
+|
+|
+|-
+|1
+|<span style="color: #00b800;">+2.00x</span>
+|
+|
+|-
+|2
+|<span style="color: #00b800;">+0.50x</span>
+|<span style="color: #b3a400;">高过 5.00x 的调整数减半</span>
+|
+|-
+|3
+|基础奖励
+|<span style="color: #b3a400;">高过 4.00x 的调整数减半</span>
+|
+|-
+| rowspan="4" | 指纹出现几率（%）
+|25
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|50
+|<span style="color: #00b800;">+0.06x</span>
+|
+|
+|-
+|75
+|<span style="color: #00b800;">+0.03x</span>
+|
+|
+|-
+|100
+|基础奖励
+|
+|给出的证据为 0 时，这个设定强制基础奖励
+|-
+| rowspan="7" |指纹持续时间（秒）
+|15
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|30
+|<span style="color: #00b800;">+0.07x</span>
+|
+|
+|-
+|60
+|<span style="color: #00b800;">+0.05x</span>
+|
+|
+|-
+|90
+|<span style="color: #00b800;">+0.02x</span>
+|
+|
+|-
+|120 
+|基础奖励
+|
+|给出的证据为 0 时，这个设定强制基础奖励
+|-
+|180
+|<span style="color: #b04500;">-1.50x</span>
+|
+|
+|-
+|无限
+|<span style="color: #b04500;">-3.00x</span>
+|
+|
+|-
+! colspan="5" |合约
+|-
+| rowspan="7" |部署时间（秒）
+|0
+|<span style="color: #00b800;">+0.30x</span>
+|
+|
+|-
+|30
+|<span style="color: #00b800;">+0.30x</span>
+|<span style="color: #a60002;">'''调整数限制为 2.60x'''</span>
+|
+|-
+|60
+|<span style="color: #00b800;">+0.25x</span>
+|<span style="color: #a60002;">'''调整数限制为 2.30x'''</span>
+|
+|-
+|120
+|<span style="color: #00b800;">+0.25x</span>
+|<span style="color: #a60002;">'''调整数限制为 2.00x'''</span>
+|
+|-
+|180 
+|<span style="color: #00b800;">+0.10x</span>
+|<span style="color: #a60002;">'''调整数限制为 1.60x'''</span>
+|
+|-
+|240
+|<span style="color: #00b800;">+0.10x</span>
+|<span style="color: #a60002;">'''调整数限制为 1.30x'''</span>
+|
+|-
+|300
+|基础奖励
+|<span style="color: #a60002;">'''调整数限制为 1.00x'''</span>
+|
+|-
+| rowspan="8" |天气
+|随机
+|基础奖励 
+|
+|
+|-
+|小雨
+|<span style="color: #00b800;">+0.02x</span>
+|
+|
+|-
+|暴雨
+|<span style="color: #00b800;">+0.05x</span> 
+|
+|
+|-
+|降雪
+|<span style="color: #00b800;">+0.02x</span>
+|
+|
+|-
+|刮风
+|<span style="color: #00b800;">+0.02x</span>
+|
+|
+|-
+|晴朗
+| <span style="color: #b04500;">-0.10x</span>
+|
+|
+|-
+|起雾
+|<span style="color: #00b800;">+0.02x</span>
+|
+|
+|-
+|日出
+|<span style="color: #b04500;">-0.10x</span>
+|
+|
+|-
+| rowspan="4" |开局敞开的门
+|无
+|基础奖励
+|
+|
+|-
+|低
+|<span style="color: #00b800;">+0.05x</span>
+|
+|
+|-
+|中
+| <span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|高
+|<span style="color: #00b800;">+0.20x</span>
+|
+|
+|-
+| rowspan="5" |躲藏点
+|无
+|<span style="color: #00b800;">+0.50x</span>
+|猎杀时间为低或玩加移速比鬼魂移速快则 <span style="color: #b3a400;">+0.20x</span>
+|
+|-
+|低
+|<span style="color: #00b800;">+0.20x</span>
+|
+|
+|-
+|中
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|高
+|<span style="color: #00b800;">+0.05x</span>
+|
+|
+|-
+|极高
+|基础奖励
+|
+|
+|-
+| rowspan="2" |理智显示屏
+|关
+|<span style="color: #00b800;">+0.05x</span>
+|
+|
+|-
+|开
+|基础奖励
+|
+|
+|-
+| rowspan="2" |活动强度显示屏
+|关
+|<span style="color: #00b800;">+0.05x</span>
+|
+|
+|-
+|开
+|基础奖励
+|
+|
+|-
+| rowspan="3" |开局打开电闸
+|损坏
+|<span style="color: #00b800;">+0.50x</span>
+|手电筒打开则 <span style="color: #b3a400;">+0.15x</span>
+|
+|-
+|关
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|开
+|基础奖励
+|
+|
+|-
+| rowspan="2" |显示电闸位置
+|关
+|<span style="color: #00b800;">+0.05x</span> 
+|
+|开局电闸为损坏时，这个设定强制奖励
+|-
+|开
+|基础奖励
+|
+|
+|-
+| rowspan="8" |诅咒之物数量
+|0
+|<span style="color: #00b800;">+0.30x</span>
+|
+|
+|-
+|1
+|基础奖励
+|
+|
+|-
+|2
+|<span style="color: #b04500;">-1.00x</span>
+|
+|
+|-
+|3
+|<span style="color: #b04500;">-2.00x</span>
+|
+|
+|-
+|4
+| <span style="color: #b04500;">-3.00x</span>
+|
+|
+|-
+|5
+|<span style="color: #b04500;">-4.00x</span>
+|
+|
+|-
+|6
+|<span style="color: #b04500;">-5.00x</span>
+|
+|
+|-
+|7
+|<span style="color: #b04500;">-6.00x</span>
+|
+|
+|-
+| rowspan="8" |诅咒之物 #1 - #7
+|随机
+|基础奖励
+|
+| rowspan="8" |显示次数取决于诅咒之物数量设定。没设定为随机就会减低奖励。<br>一种诅咒之物不能多次设定，尝试这么做会直接跳过。跳过猴爪会重置为随机。
+|-
+|塔罗牌
+|<span style="color: #b04500;">-1.00x</span>
+| rowspan="7" |诅咒之物数量为 7 就不会有进一步的调整数
+|-
+|通灵板 
+|<span style="color: #b04500;">-2.00x</span>
+|-
+|闹鬼魔镜
+| <span style="color: #b04500;">-2.00x</span> 
+|-
+|八音盒
+|<span style="color: #b04500;">-2.00x</span>
+|-
+|召唤阵 
+|<span style="color: #b04500;">-2.00x</span>
+|-
+|巫毒娃娃 
+|<span style="color: #b04500;">-1.00x</span>
+|-
+|猴爪
+| <span style="color: #b04500;">-5.00x</span>
+|-
+|}
+
+==注释==
+{{Reflist|group="注释"}}
+[[Category:游戏玩法]]

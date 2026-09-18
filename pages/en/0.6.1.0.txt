@@ -1,0 +1,101 @@
+# 0.6.1.0
+# revid 23950  2026-06-28T21:40:40Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 de5def5dd4720bf09f34ec9684085ddb45afb290d3acfdb01c7c281f7020bd8c  bytes 4329
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=12 April 2022
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.0.1]]
+  | next_major_version=[[0.7.0]]
+  | next_minor_version=[[0.6.1.1]]
+}}The '''0.6.1.0''' update is a minor update to the game released on 12 April 2022.<ref>https://store.steampowered.com/news/app/739630/view/3178986531408800631</ref> This update adjusts hiding spots and fixes bugs.
+
+== Additions ==
+;VR
+*Forward/backward position of VR belt can now be adjusted
+*Location of [[journal]] and walkie-talkie can now be adjusted: Belt or Shoulder
+
+== Changes ==
+=== Gameplay ===
+==== Map adjustments ====
+;[[Tanglewood Street House]]
+*2 additional hiding spots in Nursery and Basement
+*Additional cooler boxes in basement for fingerprints
+*Utility door moved from kitchen to hallway
+*Adjustments to flooring
+
+;[[Edgefield Street House]]
+*Additional locker in garage
+*Rotated closet to stop a safe spot
+*Adjusted intensity and range of some lights
+
+;[[Ridgeview Road House]]
+*Ground floor room layout changed
+*4 additional hiding spots, including Master Bedroom closet, Basement, Living Room, and an additional locker in Garage
+
+;[[Willow Street House]]
+*2 additional hiding spots in Living Room and Blue Bedroom
+*Armchair in Master Bedroom will now move depending on if that spot is blocked or not
+*Removed washer/dryer hiding spot in Garage
+
+;[[Bleasdale Farmhouse]]
+*2 additional hiding spots in Office and Foyer
+**[[Fuse box]] spawnpoint moved to accommodate change
+*Washer and dryer in Utility moved
+**Additional blocker
+*Room dividers in Master Bedroom and Attic moved
+*Cupboard in Attic moved
+*Fuse box spawnpoint in hallway moved to adjacent wall
+
+;[[Grafton Farmhouse]]
+*Ground floor Utility layout changed
+*2 additional hiding spots in Utility and Foyer
+
+;[[Prison]]
+*4 additional hiding spots, including 2 in Cafeteria/upstairs deck, and 2 additional lockers in Entrance and Infirmary
+
+==== Hunts ====
+*Ghosts will now prioritise checking behind doors
+
+=== VR ===
+*Journal grab point adjusted
+*All scrollbars replaced with up and down buttons, including new buttons in EULA
+*Grip force required to grab objects reduced
+*Held items in VR will no longer be dropped if player's hand moves too far away
+**Props and equipment will now teleport to player's tracked hand position if they are too far away, instead of being dropped
+
+=== General ===
+*Journal font updated to work with more languages instead of using a fallback font
+
+== Bug fixes ==
+*Fixed a bug where the reflections in some areas would be the skybox colour
+*Fixed a bug where you couldn't take photos of fingerprints on the patio doors
+*Fixed a bug where keyboard fingerprints used the wrong texture and were clipping
+*Fixed a bug where the Obake unique light-switch fingerprint wasn't obvious enough
+*Fixed a bug where the fingerprints were in the wrong location on the dirty light switches
+*Fixed an issue where the Truck monitor font was only set up for English localization
+*Fixed a bug where you couldn't navigate the main menu UI using a gamepad/ controller
+*Fixed a bug where ghost events and interactions wouldn't work with the Willow Garage door
+*Fixed a bug where you could use equipment with right-click when using the journal
+*Fixed a bug where you couldn't place the equipment on the Tanglewood basement rug
+*Fixed several safe spots
+*VR only:
+**Fixed a bug where DOTS and Motion Sensor were still in the wrong orientation when grabbed
+**Fixed a bug where you could sometimes hear VR Footstep sounds when you weren't moving
+**Fixed a bug where some pianos couldn't be played
+**Fixed a bug where you couldn't grab doors in Asylum and School
+**Fixed a bug where you could see VR players' belts when they were dead
+**Fixed a bug where you couldn't grab objects when you were dead including the Journal
+**Fixed a bug where you didn't drop their held items where they died
+**Fixed a bug where you couldn't see the full death hand animation
+**Fixed a bug where the VR Journal sounds could be heard from far away
+**Fixed a bug where you couldn't change players volume slider in the menu in VR
+**Potential fix for oculus rift S touch controllers not being able to crouch
+**Fixed a bug where some VR player character models had black eyes
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.6.1.0]]
+[[ru:0.6.1.0]]

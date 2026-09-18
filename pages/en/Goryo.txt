@@ -1,0 +1,87 @@
+# Goryo
+# revid 23229  2026-04-20T02:21:14Z  by Darkhooper
+# sha256 9dfec607bfd0129074f9ef5858821ed026d95ca4b5ea6d7d936bfdf4726e008c  bytes 6889
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Goryo Discovered.jpg
+ |strength=*Usually shows itself passing through [[D.O.T.S Projector|D.O.T.S]] on video camera only with no players nearby
+ |weakness(es)=*Less likely to wander
+*Cannot change favorite rooms
+ |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
+ |Evidence2=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Reader]]
+ |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
+}}{{Quote
+ |quote=When a Goryo passes through a DOTS projector, using a video camera is the only way to see it.
+ |speaker=The Journal
+}}The '''Goryo''' is a type of [[ghost]] in ''Phasmophobia''. Goryo are known for appearing only on video feeds when interacting with a [[D.O.T.S. Projector]], as well as remaining within the vicinity of its starting [[Ghost Room]].
+
+==Behaviour==
+===Activity===
+The Goryo is less likely to enter a [[roaming]] state compared to other ghosts. As a result, it is more likely to perform [[interaction]]s and is in fact the ghost with the highest rate of interactions at 0% [[sanity]].
+
+When performing a roam, the Goryo can only perform short roams, rather than either short or long roams. Thus, it cannot change its favorite room in any difficulty. This can only be overridden via the 'sanity wish' when using the [[Monkey Paw]].
+
+[[File:Gyo dawt.gif|thumb|259x259px|The Goryo's D.O.T.S ability.]]
+The Goryo will only enter in a D.O.T.S state if no players are in the same room as the ghost. In addition, its D.O.T.S silhouette is only visible through a [[Video Camera]], and cannot be seen with the naked eye. A Goryo will still manifest normally during [[ghost event]]s and [[hunt]]s.
+
+The Goryo has a 2/3 chance to enter the D.O.T.S state from the roaming state instead of a 1/3 chance for other ghosts.
+
+When choosing a [[Ghost Room|favourite room]] state, the Goryo has a 10% chance to enter a D.O.T.S state instead, making it the only ghost that can enter a D.O.T.S state while the roaming state is disabled due to "The Hermit" [[Tarot Cards|tarot card]] or the Monkey Paw's 'trap wish'.
+
+If there is a player inside the investigation area, the Goryo's D.O.T.S state will make it move towards a random waypoint within 1 metre (instead of 2 metres for other ghosts), and that waypoint must be within the favourite room.
+
+{| class="mw-collapsible mw-collapsed fandom-table"
+!colspan="2"|Advanced mechanics
+|-
+!colspan="2"|WARNING: This data is not officially verified.
+|-
+![[Roaming]] state bug
+|After placing a waypoint, if the Goryo is in its favourite room, it will ignore the distance calculation and move to the waypoint while in '''idle state''', making it able to choose other actions (such as returning to the favourite room, an [[interaction]], another roam, etc.) during the move. And as such, it is the only ghost that can backtrack to its favourite room in the middle of a roam.
+|}
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]] [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Reader]] [[EMF Level 5]]
+|[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]] [[Ultraviolet]]
+|}</center>
+On limited evidence (1 or 2 evidence) games, a Goryo will always have the D.O.T.S. Projector as one of its evidence types.
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: A '''Goryo''' will usually only show itself on camera if there are no people nearby.''
+
+''Weakness: They are rarely seen far from their place of death.''
+
+==Strategies==
+===Identification===
+It is necessary to have a [[Video Camera]] either placed facing an active D.O.T.S. Projector, or held by a player outside the ghost's room. If D.O.T.S. evidence is visible in the camera's screen, but invisible in direct view, the ghost is likely to be a Goryo. Conversely, if D.O.T.S. is seen without the aid of a video camera, a Goryo can be safely ruled out. Turning up device or in-game brightness may help when trying to rule out a Goryo.
+
+Ghost events only need the player to be ''somewhat'' near the ghost, and the ghost does not need to roam to perform them, only teleporting if applicable. Hence, having ghost events happening a relatively long distance away from the favorite room does not rule out the Goryo; if it is from an extremely far distance however, then the Goryo can usually be ruled out.
+
+If the player did not obtain D.O.T.S Projector as one of the ghost's evidences on Nightmare/Insanity difficulty or on a limited evidence custom game (1/2 evidence), then the Goryo can be safely ruled out. 
+
+On a custom difficulty with 0 evidence, the Goryo is near-impossible to identify with certainty, as it cannot be identified through its D.O.T.S ability, only its favorite room/roaming limitations, and as these are not definitive indications (other ghosts can also not change favorite rooms/roam far), at best only an educated guess based on its movements can be made; Try waiting a while to see if the ghost changes its favorite room at low sanity, or use motion sensors and salt to track how far it travels in one go. The ghost always hunting from the same room can also indicate a Goryo, especially if the custom difficulty has a high roaming frequency. 
+
+==Trivia==
+*In Japanese folklore, it was feared that when a person died tragically, their soul would become a vengeful spirit (commonly referred to as [[Onryo|Onryō]]), causing disasters, pestilence, and haunting. People worshipped the Onryō as a Goryō (御霊, ''honorable spirit'') and tried to avert disaster by appeasing his anger. The Japanese word "御霊" is often read as "Mitama" ("Goryō" is also the correct reading), which is a term of respectful invocation of ancestral spirits. In ''Phasmophobia'', Goryo do not reflect these powers nor their Japanese origin, and are American in both appearance and name due to sharing models and a naming pool with other ghost types.
+*It is possible to take a '''D.O.T.S. Ghost''' [[Media#Photo evidence|photo]] of the Goryo's D.O.T.S. silhouette. This will require switching from a video camera to a photo camera at just the right moment if playing in singleplayer. Just as with the [[Phantom]], the ghost won't actually be visible in the photograph, but it will still count toward the "Capture a photo of the ghost" [[Objectives|optional objective]].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.3.0]]
+|Added Goryo.
+|-
+![[0.8.0]]
+|The Goryo will no longer change favourite rooms or roam long distances.
+|-
+![[0.13.0]]
+|The Goryo now has an increased chance to enter a [[D.O.T.S Projector (Evidence)|D.O.T.S state]].
+|}<br>
+{{GhostNav}}
+[[ru:Горё]]
+[[fr:Goryo]]
+[[Category:Ghosts]]

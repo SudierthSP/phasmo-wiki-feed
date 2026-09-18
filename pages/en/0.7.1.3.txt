@@ -1,0 +1,41 @@
+# 0.7.1.3
+# revid 23970  2026-06-28T21:42:09Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 3df8eff2ca25b77f9a2b44cf2bb5e5ea9bdfddd5aeec7ce8c8dbaf2d1eb1485b  bytes 1747
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=18 October 2022
+  | previous_major_version=[[0.7.0]]
+  | previous_minor_version=[[0.7.1.2]]
+  | next_minor_version=[[0.7.1.4]]
+  | next_major_version=[[0.8.0]]
+}}'''0.7.1.3''' is a minor hotfix to the game released on 18 October 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3551676518253681218 Halloween '22! | Hotfix v0.7.1.3 (on Steam)]</ref>
+
+== Changes ==
+* The house [[fuse box]] switch now animates 
+* If the player's save file corrupts and the backup fails to load, the save file will now automatically be reset
+
+== Bug fixes ==
+; General
+* The ghost will no longer find non hosts if the host talked during a hunt
+* Significant CPU performance improvements
+* Player physics are now reverted back to before the last hotfix due to several issues
+* The private game screen will now correctly show “NA” instead of “US”
+* Cursed Possessions will now work for all players every game
+* The shop screen left loadout buttons will no longer be covered by the navigation arrows if you have a 4:3 aspect ratio
+* Fixed an issue causing severe physics lag which was affecting movement and screen rendering
+* Removing an item from your loadout will now save your loadout
+* FireSource.Update() will no longer spam in the player log, causing fps drops in some cases
+* Candles will no longer play smoke from both the base and the wick
+* Placing a candle will no longer jump forward in some cases
+
+; [[Sunny Meadows Mental Institution|Sunny Meadows]]
+* The ghost will no longer get stuck in several rooms
+* Steps will now render correctly
+* The bookshelf in the female day room is no longer invisible
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.7.1.3]]
+[[ru:0.7.1.3]]

@@ -1,0 +1,39 @@
+# 0.8.0.8
+# revid 23983  2026-06-28T21:43:20Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 50466a5ac36e0ef6a9ae832355ae537b4671340f6011d27e9268bb222d9084ca  bytes 1859
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=14 January 2023
+ | previous_major_version=[[0.8.0]]
+ | previous_minor_version=[[0.8.0.7]]
+ | next_minor_version=[[0.8.1.0]]
+ | next_major_version=[[0.9.0]]
+}}'''0.8.0.8''' is a minor hotfix released on 14 January 2023.<ref>[https://store.steampowered.com/news/app/739630/view/5973495552998116937 ''Tempest | Hotfix v0.8.0.8''. 14 January 2023 (on Steam).]</ref>
+
+== Changes ==
+* Placing the music box is now consistent with all other placeable equipment
+* Difficulty apocalypse skull stickers are now only visible when in single player mode
+* There is now an apocalypse skull sticker on the Sunny Meadows polaroid
+* The microphone input visual is now only visible in multiplayer 
+
+== Bug fixes ==
+* You can now place equipment in training
+* Coolers in Tanglewood will now give fingerprints
+* In Custom Difficulty, choosing "Random” Cursed Possession will no longer sometimes result in less Cursed Possessions than you should have when choosing multiple Cursed Possessions
+* Voodoo doll no longer breaks physics when a VR player grabs it after a PC player has dropped it
+* Sanity drain multiplier now shows the percentage
+* Changing the cursed possession quantity after setting Apocalypse II or III will no longer corrupt your save
+* VR sprint modes now display correctly in the journal UI
+* Props and equipment no longer keep the VR highlight circle on when they are no longer grabbable (e.g. taking sanity pills)
+* VR Movement type setting buttons will now display correctly
+* Video cameras will no longer display white “flickers” of light sometimes
+* “Locked” is now translated on the map/contract board
+* The hoop easter egg now works in the new lobby
+* Improved VR performance when playing with other VR players
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.8.0.8]]
+[[ru:0.8.0.8]]

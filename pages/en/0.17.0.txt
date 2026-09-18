@@ -1,0 +1,111 @@
+# 0.17.0
+# revid 24123  2026-07-20T11:30:17Z  by Darkhooper
+# 备注: next major version
+# sha256 063b8a129056a6ebfdede611dc89e328795607bcbe705ed84ff480f1ed57abfb  bytes 8596
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| image1=0.17.0.jpg
+| official_name=Player Character Update
+| release_date=4 May 2026 (Official Partners early access)<br>5 May 2026 (public release)
+| previous_major_version=[[0.16.0]]
+| previous_minor_version=[[0.16.1.2]]
+| next_minor_version=[[0.17.1.0]]
+| next_major_version=[[0.18.0]]
+}}'''0.17.0''', also known as the '''Player Character Update''', is a major update released on 5 May 2026.<ref>[https://www.kineticgames.co.uk/news/phasmophobia-player-character-update-01700 ''Phasmophobia - Player Character Update 0.17.0.0''. 5 May 2026.]</ref><ref group="note">Official Kinetic Games Partners were given early access keys on 4 May 2026.</ref> This update adds new [[player]] models and animations, as well new cosmetics to customize said models.
+
+==Additions==
+*'''Characters:''' 12 new, higher quality character models (6 male, 6 female) with character bios, adjustable hair colour and more.
+*'''[[Cosmetics]]:''' A wide array of available cosmetic items to equip your chosen character with; coats, shirts and trousers, all with multiple colour options. Unique shirts for prestige and event specific achievements. Accessories such as piercings, hats and glasses are also available. ''Note: All cosmetics are either unlockable in-game or purchased with in-game currency.''
+*'''Animations:''' Alongside the new character models, interactions with equipment, objects and the environment will now feature character animations. Upon dying, a new death animation will also be seen.
+**PC VR Players can enable/disable new first-person death animations with the ‘immersive animations’ toggle in the options menu, as seen below. If disabled, which is the default, the new death animation will be seen in third-person.
+[[File:ImmersiveAnimations.jpg|center|500px]]
+*'''Player [[Watch]]:''' A watch has been added to the character models that can be used during contracts to monitor player sanity levels and keep track of time elapsed during the contract. To view the watch in full, players can hold the Use button when their left hand is empty or by opening their Journal. The watch will not display Sanity if the Sanity Monitor is disabled, nor will it count as a piece of electronic equipment for Ghost abilities.
+**For VR Players, the watch will always be visible and can be viewed by simply raising their left hand up.
+*'''Cursed Hollow Cosmetics:''' The Cursed Hollow cosmetic rewards are now available for all players. The Cursed Hollow Mask, T-Shirt and Necklace can be equipped from within the customisation Shop.
+
+==Changes==
+*'''[[ID Card|ID Cards]]:''' ID Cards and Badges are now equipped and swapped within the customisation Shop menu, rather than the main menu.
+*'''Death Room:''' The room a player will enter after being killed by the Ghost has been removed, with the player now seamlessly transitioning to the Dead state.
+*'''Player’s [[Journal]]:''' The Journal will now appear in game when being used, rather than being a separate UI item.
+*The Prestige limit has been increased to 4000.
+**''Note: No additional unlocks are available after Prestige 20.''
+*Physics have been added to all Doors, meaning they will now continue to move after the player lets go.
+*Flashlights will now be held in the player’s left hand, and can be dropped when the right hand is empty.
+*Equipment, such as the tripod, can now be placed while standing.
+*All items will now be placed on the character model, rather than invisible unless equipped.
+*Tier 2 Sound Recorders are now included in the Audio Only weekly challenge.
+*The lowest FOV option is now 70, rather than 60. The default setting remains at 70.
+*VR Specific Changes:
+**The inventory belt has been removed, with all items now placed on the character model.
+**The teleport movement circle will now render on top of other objects and will be invisible until the player presses the teleport button when at full stamina.
+
+==Fixes==
+*Fixed an issue that caused Head Gear to not be visible on all FOV values.
+*Fixed an issue in Prison where wishing for a trap with the Monkey’s Paw wouldn’t affect sliding doors.
+*Fixed an issue where the Raiju’s hunt threshold would only increase if equipment was held.
+*Fixed an issue where the Yokai could hear the Music Box from too far away.
+*Fixed an issue where the Jinn could drain sanity from a player in rooms above and below it.
+*Fixed an issue in VR where a player’s Journal could be seen after that player had died.
+*Fixed an issue in VR that caused player hands to shake.
+*Fixed an issue in VR that caused difficulty picking up the Spirit Box from the van wall.
+*Fixed an issue in VR that caused Salt to rotate with the player’s body, rather than hand.
+*Fixed an issue in VR where players could interact with objects without teleport grab selected.
+*Fixed an issue in VR where the player would be unable to scroll through the Journal in the lobby.
+*Fixed an issue in VR where players would appear to slide down stairs when using teleport locomotion.
+*Fixed an issue in VR where players could grab items through walls.
+*Fixed an issue in VR that caused the Tier 3 Firelight to be held upside down.
+*Fixed an issue in VR that caused the Tier 3 Firelight to float in mid-air for players in Multiplayer.
+*Fixed an issue in VR that caused players to be able to teleport out of the Van at the end of the tutorial and skip areas.
+*Fixed an issue in VR that made it difficult to interact with UI elements.
+*Fixed an issue in VR that caused doors to push players aside.
+*Fixed an issue in VR that caused the T1 Head Gear to fall off players when viewing the  CCTV.
+*Fixed an issue in VR that caused player’s models to become misaligned with their position.
+*Various other fixes and improvements.
+
+==Known Issues==
+*Players are unable to use the Journal while dying.
+*‘Use’ animations may continue if the equipment is dropped mid-animation.
+*A drop in frame-rate occurs in the customisation menu.
+*Players will be invisible on CCTV through another player’s Tier 1 Head Gear.
+*Flashlights will remain in the player's hand when using a Tier 1 Photo Camera.
+*The Video Camera can be moved away from the player when switched out while in use.
+*The character model's eyes will be wide open after the player has died.
+*The custom difficulty setting “Doors starting open” will only work on Tanglewood.
+*Footstep audio will not correctly match the player's speed when sprinting or crouching.
+*Doors can be held shut by players holding items.
+*VR and Non-VR players can’t hear each others footsteps.
+*Various minor visual inconsistencies.
+
+''The following issues, as well as other known bugs, will be fixed with the launch of Phasmophobia's next update on May 12th, 2026:''
+*Items placed during a pickup animation will instead be placed at the previous placed position.
+*Pressing cancel on the hair customisation screen will apply the hair to the previously selected character.
+*Yurei’s door closing ability will not fully close the door.
+*Some ID Card badge icons become white if the player selects a badge that only has one unlock out of two.
+*Grabbing a Flashlight with a prop in-hand will cause the flashlight to be held at the player’s feet.
+*Meg Marr’s hair is bald when wearing a hat.
+*The Ouija Board and Haunted Mirror will drop sideways instead of flat on the ground.
+*Doors will not open correctly while holding the Tarot Cards.
+*If revived while crouching, the character rig will display incorrectly.
+*Head Gear will visually stutter when the player is crouched.
+*Equipment will visually stutter when the player is rotating.
+*Tier 3 Video Camera blocks too much of the screen on the right hand side.
+*Player model will ragdoll more than intended upon dying.
+*Hunted and Suburbanite descriptions have been corrected.
+*Animated ID Card & Badges will be displayed correctly.
+*VR Players feet will sink into the ground when crouched.
+*VR Players are unable to open the left hand closet door in the upstairs hallway of 10 Ridgeview Court.
+
+''We will also be making the following changes as part of the same update:''
+*Removing the equipment switching animation to allow for instant switching.
+*Salt will be placed instantly instead of after the animation has finished.
+*Equipment will be moved closer to the screen for easier readability.
+*Player head rotation will now have a limit for looking up and down for Multiplayer, locally there is still no limit.
+*Various other visual and gameplay adjustments and improvements.
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.17.0]]
+[[ru:0.17.0]]

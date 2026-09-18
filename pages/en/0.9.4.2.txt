@@ -1,0 +1,21 @@
+# 0.9.4.2
+# revid 23999  2026-06-28T21:44:47Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 5f3008cd57231e9a0169ac8912f2d05e4de298e0b99f685a02a7401fd0339094  bytes 629
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=15 February 2024
+ | previous_major_version=[[0.9.0]]
+ | previous_minor_version=[[0.9.4.1]]
+ | next_minor_version=[[0.9.4.3]]
+ | next_major_version=[[0.10.0]]
+}}'''0.9.4.2''' is a minor hotfix released on 15 February 2024.<ref>[https://store.steampowered.com/news/app/739630/view/7664633371958775141 ''Ascension | Hotfix v0.9.4.2''. 15 February 2024 (on Steam).]</ref>
+
+== Additions ==
+* Added the Unity Gaming Services notification system to be compliant with the EU Digital Services Act
+
+== References ==
+{{Reflist}}<br><br>
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.9.4.2]]
+[[ru:0.9.4.2]]

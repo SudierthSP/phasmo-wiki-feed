@@ -1,0 +1,34 @@
+# 0.14.2.0
+# revid 23899  2026-06-28T21:36:58Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 68565423c0b4bb49c553286654207998f7dcad413f761af42dae83d739e9594f  bytes 1830
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| image1=0.14.2.0.jpg
+| release_date=8 October 2025 (Official Partners early access)<br>9 October 2025 (public release)
+| previous_major_version=[[0.14.0]]
+| previous_minor_version=[[0.14.1.0]]
+| next_minor_version=[[0.14.2.1]]
+| next_major_version=[[0.15.0]]
+}}'''0.14.2.0''' is a minor update released on 9 October 2025.<ref>[https://store.steampowered.com/news/app/739630/view/506216199297696430 ''Phasmophobia - Crimson Eye v0.14.2.0''. 9 October 2025 (on Steam).]</ref><ref group="note">Official Kinetic Games Partners were given early access keys on 8 October 2025.</ref> It brings back the Crimson Eye event.
+
+==Additions==
+*'''Crimson Eye:''' Phasmophobia's Halloween event returns for another round. Throughout this event, players will be able to earn extra rewards and work together to complete challenges.
+*'''Moon Altars:''' A change to these means that they will now appear as 'Usable' in game, and once interacted with will disappear. Remember to take a photo before interacting with an Altar, it'll count as a Unique piece of Media!
+*While the event Trophy remains the same as the 2024 event's, it is now upgradeable upon completing Personal Goals. The Crimson Eye trophy can be upgraded up to three times during the event, and progression will carry through to the next Crimson Eye event.
+*We have added leaderboard support for in-game events to the PS5, PS VR2 and Xbox Series X/S versions of Phasmophobia.
+
+==Changes==
+*If crossplay is turned off, only players on the same platform will be displayed on the event leaderboard.
+
+==Fixes==
+*Fixed various visual and performance issues.
+*A recently identified security vulnerability within Unity has been patched.
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.14.2.0]]
+[[ru:0.14.2.0]]

@@ -1,0 +1,29 @@
+# 0.9.0.6
+# revid 18216  2024-06-19T01:31:24Z  by Justf0cus420
+# sha256 085de2d33b0918da8e89e167efcc50514f5e701f27fe18c4db722e9df27dc0f0  bytes 1353
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=24 August 2023
+  | previous_major_version=[[0.9.0]]
+  | previous_minor_version=[[0.9.0.5]]
+  | next_minor_version=[[0.9.0.7]]
+|next_major_version=[[0.10.0]]}}'''0.9.0.6''' is a minor patch released on 24 August 2023.<ref>[https://steamcommunity.com/games/739630/announcements/detail/3666546844627514000 ''Ascension | Hotfix v0.9.0.6''. 24 August 2023 (on Steam).]</ref> It primarily fixes bugs.
+
+==Changes==
+* Interact and Primary Use controls have now been swapped for gamepad to allow for easier gameplay
+* EMF reader T2 is now 2m range as stated in the shop description
+
+==Fixes==
+* Photo cameras are no longer taking photos in portrait mode (regression since 0.9.0.4)
+* Dead body photos now work after the ragdoll animation has completed
+* Three star ghost photos are now easier to take
+* Haunted Mirror can now have its photo taken whilst upside down
+* The ghost will no longer have a high chance to fail to show DOTS if there is a room above you or the ghost
+* When looking through the room divider in the downstairs Grafton bedroom, objects will no longer disappear
+* You can no longer put the glowstick into your inventory during the “shake” animation
+* Firelight T3 is no longer labelled consumable in the Shop
+
+==References==
+{{Reflist}}{{Versions}}
+[[Category:Development]]
+[[fr:0.9.0.6]]
+[[ru:0.9.0.6]]

@@ -1,0 +1,172 @@
+# Community Challenge Pack
+# revid 24291  2026-07-24T04:42:10Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 9d231de4fac684656c502e0801631d04d93f1721ade7be5b839dc32d5304cc03  bytes 4386
+# 源: https://phasmophobia.fandom.com/api.phpThis page is dedicated for community-made challenges for experienced investigators who are looking for more fun and intense gameplay.
+
+== Age-based equipment limits ==
+{| class="article-table"
+!'''Feature/equipment'''
+!Impossible
+!early 19th century.
+!late 19th c.
+!mid-20th c.
+!Classic
+|-
+|[[EMF Reader]]
+|✗
+|✗
+|✗
+|
+|
+|-
+|[[UV Flashlight]]
+|✗
+|✗
+|
+|
+|
+|-
+|[[Glow Stick]]
+|✗
+|
+|
+|
+|
+|-
+|[[Thermometer]]
+|✗
+|✗
+|✗
+|✗
+|
+|-
+|[[Video Camera|Cameras]]
+|✗
+|✗
+|✗
+|✗
+|
+|-
+|[[Head Mounted Camera|Head Mounted Cameras]]
+|✗
+|✗
+|✗
+|✗
+|
+|-
+|[[Ghost Writing Book]]
+|
+|
+|
+|
+|
+|-
+|[[Spirit Box]]
+|✗
+|✗
+|
+|
+|
+|-
+|[[Flashlight]]
+|✗
+|✗
+|✗
+|
+|
+|-
+|[[Strong Flashlight]]
+|✗
+|✗
+|✗
+|
+|
+|-
+|Onsite lights
+|✗
+|✗
+|✗
+|
+|
+|-
+|[[Lighter]]
+|✗
+|✗
+|
+|
+|
+|-
+|[[Photo Camera]]
+|✗
+|✗
+|
+|
+|
+|-
+|[[Sanity Pills]]
+|✗
+|✗
+|✗
+|
+|
+|}
+Notes:
+
+* Items marked with "✗" are disallowed.
+* If the flashlight and lighter are disallowed, the lighter can only be used in the truck to light candles. Manage your time inside the building well.
+* The EMF Reader can be substituted with the [[Site Activity Monitor|Activity Monitor]] in the truck.
+* "Cameras" refer to [[Video Camera]] and [[Head Mounted Camera]]. [[Computer|Onsite cameras]] are always allowed.
+* "Flashlight" refers to both the starter [[Flashlight]] and [[Strong Flashlight]].
+
+== Basic challenges ==
+;Lights Out
+*Flashlights and onsite lights are disallowed. You may only use [[candle]]s.
+*Use a custom [[difficulty]] with the ''Flashlights'' and ''Fuse Box at start of contract'' options set to ''Off'' and ''Broken'' respectively.
+
+;UV flashlight broke
+* You can only use [[glowstick]]s for locating fingerprints.
+
+;Technology is hard
+* Refuse to get with the times? Guess you can't use some of your most valuable equipment, then.
+* Cameras, sensors and microphones should be treated as disabled. Only the [[Spirit Box|Spirit box]], [[thermometer]], [[D.O.T.S. Projector]], and [[EMF Reader|EMF reader]] are allowed.
+
+;Photo Op
+* You must get 5 clear photos of the ghost ('clear' being defined as at least 50% visible in the photo to at least one player, regardless of if it's in shadow form or not).
+
+;Tech-testing
+* You can only use [[Motion Sensor|motion sensors]], [[Sound Sensor|sound sensors]], [[Parabolic Microphone|parabolic mics]], and [[Video Camera|video cameras]] to help detect the ghost room. [[D.O.T.S Projector]]s, [[thermometer]]s, [[EMF Reader|EMF readers]], [[UV Flashlight|fingerprints]], [[Salt Shaker|salt]], [[Ghost Writing Book|ghost writing book]], and [[Smudge Stick|smudging]] cannot be used to detect the ghost room.
+* The blacklisted items can be used once you have high confidence in where the ghost room is.
+* If needed, use a custom difficulty with the ''Changing favourite room'' option set to ''Off''.
+
+;0% Sanity Challenge
+* Use a custom difficulty with the ''Starting sanity'' and ''Sanity pill restoration (%)'' options both set to 0.
+
+;Start a cursed hunt
+* Use any of the six cursed possessions to initiate a cursed hunt before commencing an investigation. If you do not obtain a cursed hunt after drawing all the [[Tarot Cards]], you may proceed with the investigation.
+
+;Beginning Items Only
+* Bring no additional items.
+
+;RNG Challenge
+* Use a die (one dice) to determine what items you can bring. Come up with your own rules or follow these:
+* 1-2: Bring none of that item
+* 3-4: Bring one of that item
+* 5-6: Bring two of that item
+* It's up to you whether or not the above is considered 'additional' if it's a default item.
+* Alternatively, you can use following tool: https://www.phasmo-randomizer.site
+
+;Lockdown
+* You cannot leave once entered until you finish. Bringing items into the doorway or throwing it through the door doesn't count as entering.
+
+;Blind leading the deaf
+* One person wears the [[Head Mounted Camera]], while everyone else stays in the truck and guides them through the house.
+
+;No evidence
+* Use a custom difficulty with the ''Evidence given'' option set to 0. Rely solely on the ghost's behaviour to figure out what type it is. You may choose whether or not to use a Video Camera to locate [[The Mimic]]'s Ghost Orbs.
+
+== References ==
+# [https://steamcommunity.com/sharedfiles/filedetails/?id=2313645210 Kyzer's Challenge Pack (on Steam)]
+
+[[ru:Набор испытаний сообщества]]
+[[Category:Community]]

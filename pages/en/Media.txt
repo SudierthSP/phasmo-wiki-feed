@@ -1,0 +1,466 @@
+# Media
+# revid 24503  2026-08-26T00:33:35Z  by Darkhooper
+# 备注: 0.19
+# sha256 5c5fe4f1698c1af41bb4c6b6a46d4ff29e26323ebc6317d6adce2e9013b5537e  bytes 9463
+# 源: https://phasmophobia.fandom.com/api.phpDuring the investigation, players can record '''media''' for additional money and experience rewards. Recorded media can be seen in the Media tab in the [[journal]]. 
+
+==Mechanics==
+During a [[contract]], when a subject of a specific category is recorded for the first time using the [[Photo Camera]], the [[Video Camera]], or the [[Sound Recorder]], it is marked with a '''Unique''' stamp. Recording another subject of the same category will register it as a '''Duplicate''' instead, rewarding less [[money]] and [[experience]].
+
+A bonus is awarded per piece of media when recorded with a higher tier of the corresponding equipment:
+*Tier II: $1 / 1 XP
+*Tier III: $2 / 2 XP
+
+Recorded sounds can be listened back in the Media tab in the journal.
+
+In order to complete a Perfect Investigation, alongside usual requirements, the journal must be filled with only Unique media, which include 5 Unique photos, 5 Unique videos, and 3 Unique sounds.
+
+==Photo evidence==
+Photo evidence can be collected by taking a photo of certain items with the [[Photo Camera]]:
+{| class="fandom-table"
+!Category
+!Unique reward
+!Duplicate reward
+!Sticky note on the [[Objective Board]]
+|-
+|[[Ghost]]
+|$15 / 15 XP
+|$3 / 3 XP
+|Finally, proof of a ghost!
+|-
+|Shadow Ghost
+|$15 / 15 XP
+|$3 / 3 XP
+|That's no ordinary shadow
+|-
+|Translucent Ghost
+|$15 / 15 XP
+|$3 / 3 XP
+|The distorted shape of a... person?
+|-
+|[[Ghost Event#Mist Form|Mist Form]]
+|$15 / 15 XP
+|$3 / 3 XP
+|That thing came after me!
+|-
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Ghost]]
+|$10 / 10 XP
+|$2 / 2 XP
+|Evidence of a physical form!
+|-
+|[[Bone Evidence|Bone]]
+|$5 / 5 XP
+|$1 / 1 XP
+|We found some remains...
+|-
+|Burned [[Crucifix]]
+|$10 / 10 XP
+|$2 / 2 XP
+|It's really getting angry now.
+|-
+|[[Dead Body]]
+|$5 / 5 XP
+|$1 / 1 XP
+|It killed my teammate, we should leave.<br><small>(1st dead body)</small>
+----It killed more of the team! We HAVE to go!<br><small>(2nd dead body)</small>
+----Now I'm the only one left...I'm sorry.<br><small>(3rd dead body)</small>
+|-
+|[[Dirty Water]]
+|$5 / 5 XP
+|$1 / 1 XP
+|It made the sink water dirty, ew.
+|-
+|[[EMF]] Reading
+|$5 / 5 XP
+| -
+|A positive EMF reading
+|-
+|[[EMF Level 5]]
+|$10 / 10 XP
+| -
+|The readings shot up suddenly.
+|-
+|[[Obake]] Fingerprint
+|$10 / 10 XP
+|$2 / 2 XP
+|Is it shapeshifing...?
+|-
+|[[Ultraviolet#Fingerprints|Fingerprint]]
+|$5 / 5 XP
+|$1 / 1 XP
+|The ghost left UV evidence!
+|-
+|[[Ultraviolet#Footprints|Footprint]]
+|$5 / 5 XP
+|$1 / 1 XP
+|Actual UV footprints from the ghost!
+|-
+|[[Freezing Temperatures]]
+|$10 / 10 XP
+| -
+|Freezing Temperatures
+|-
+|[[Ghost Writing]]
+|$10 / 10 XP
+|$2 / 2 XP
+|It's written something in our book.
+|-
+|Object Levitating<br><small>(recorded as "Interaction")</small>
+|$5 / 5 XP
+|$1 / 1 XP
+|It moved this!
+|-
+|[[Haunted Mirror]]
+|$5 / 5 XP
+| -
+|This mirror made me feel...weird.
+|-
+|[[Monkey Paw]]
+|$5 / 5 XP
+| -
+|My wish came true, but at what cost?
+|-
+|[[Music Box]]
+|$5 / 5 XP
+| -
+|A music box, the song is nice but creepy.
+|-
+|[[Ouija Board]]
+|$5 / 5 XP
+| -
+|This Ouija Board allows us to talk with the ghost.
+|-
+|[[Summoning Circle]]
+|$5 / 5 XP
+| -
+|This summoning circle looks dangerous.
+|-
+|[[Tarot Cards]]
+|$5 / 5 XP
+| -
+|Some cards we found, they do crazy stuff.
+|-
+|[[Voodoo Doll]]
+|$5 / 5 XP
+| -
+|We found this doll, it made the ghost angry.
+|-
+|Moon Totem<br>([[Special events#Halloween 2025|Crimson Eye event]])
+|$5 / 5 XP
+|$1 / 1 XP
+|Touching this might be a bad idea...
+|-
+|Shadow<br>([[Special events#Phasmophobia x Alan Wake II|Phasmophobia by Alan Wake event]])
+|$5 / 5 XP
+|$1 / 1 XP
+|Unnerving shadowy entities.
+|}
+
+==Video evidence==
+Video evidence can be collected by recording a video of certain items with the [[Video Camera]]:
+{| class="fandom-table"
+!Category
+!Unique reward
+!Duplicate reward
+!Sticky note on the [[Objective Board]]
+|-
+|Ghost [[Obake|Shapeshift]]
+|$20 / 20 XP
+|$5 / 5 XP
+|It changed forms!
+|-
+|[[Hunt|Hunting]] Ghost
+|$20 / 20 XP
+|$5 / 5 XP
+|It attacked us...
+|-
+|Ghost
+|$15 / 15 XP
+|$3 / 3 XP
+|Finally, proof of a ghost!
+|-
+|Shadow Ghost
+|$15 / 15 XP
+|$3 / 3 XP
+|That's no ordinary shadow
+|-
+|Translucent Ghost
+|$15 / 15 XP
+|$3 / 3 XP
+|The distorted shape of a...person?
+|-
+|Mist Form
+|$15 / 15 XP
+|$3 / 3 XP
+|That thing came after me!
+|-
+|D.O.T.S. Ghost
+|$10 / 10 XP
+|$2 / 2 XP
+|Evidence of a physical form!
+|-
+|Burned Crucifix
+|$10 / 10 XP
+|$2 / 2 XP
+|It set the crucifix on fire!
+|-
+|[[Sunny Meadows Mental Institution|Chapel]] Crucifix
+|$5 / 5 XP
+|$1 / 1 XP
+|It wasn't like this before...
+|-
+|Wall Crucifix
+|$5 / 5 XP
+|$1 / 1 XP
+|That can't be good...
+|-
+|Dead Body
+|$5 / 5 XP
+|$1 / 1 XP
+|It killed my teammate, we should leave.<br><small>(1st dead body)</small>
+----It killed more of the team! We HAVE to go!<br><small>(2nd dead body)</small>
+----Now I'm the only one left...I'm sorry.<br><small>(3rd dead body)</small>
+|-
+|Disturbed [[Salt]]
+|$10 / 10 XP
+|$2 / 2 XP
+|The ghost stepped in the salt!
+|-
+|[[Door]] Moved
+|$5 / 5 XP
+|$1 / 1 XP
+|It moved this!
+|-
+|[[Fire Source|Fire]] Extinguish
+|$5 / 5 XP
+|$1 / 1 XP
+|Something snuffed out the flame!<br>
+----It blew this out
+|-
+|Fire Interaction
+|$5 / 5 XP
+|$1 / 1 XP
+|It's manipulating the flames
+|-
+|Ghost Writing
+|$10 / 10 XP
+|$2 / 2 XP
+|It started writing...
+|-
+|[[Ghost Orb]]s
+|$10 / 10 XP
+|$2 / 2 XP
+|We've seen Ghost Orbs!
+|-
+|[[Interaction]]
+|$5 / 5 XP
+|$1 / 1 XP
+|It moved this!
+|-
+|[[Light]] Flickering
+|$10 / 10 XP
+|$2 / 2 XP
+|The light is not supposed to do that!
+|-
+|Light Exploded
+|$10 / 10 XP
+|$2 / 2 XP
+|It blew out the light bulbs!
+|-
+|Lights Switched
+|$5 / 5 XP
+|$1 / 1 XP
+|The light switched on it's [sic] own.
+|-
+|[[Fuse Box]]
+|$5 / 5 XP
+|$1 / 1 XP
+|It tripped the fuse!
+|-
+|[[Motion Sensor|Motion Sensed]]
+|$5 / 5 XP
+|$1 / 1 XP
+|It triggered our motion sensor!
+|-
+|[[Interaction|Object Thrown]]
+|$5 / 5 XP
+|$1 / 1 XP
+|It moved this!
+|-
+|[[Radio|Distorted Music]]
+|$5 / 5 XP
+|$1 / 1 XP
+|The music doesn't sound right
+|-
+|Rocking Chair
+|$5 / 5 XP
+|$1 / 1 XP
+|The chair was rocking...
+|-
+|Shower Turned On
+|$5 / 5 XP
+|$1 / 1 XP
+|It turned on the shower!
+|-
+|Ouija Board
+|$5 / 5 XP
+|$1 / 1 XP
+|It's responding!
+|}
+
+==Sound evidence==
+Sound evidence can be collected by recording the sound of certain items with the [[Sound Recorder]]:
+{| class="fandom-table"
+!Category
+!Unique reward
+!Duplicate reward
+!Sticky note on the [[Objective Board]]
+|-
+|[[Banshee|Paranormal Scream]]
+|$10 / 10 XP
+|$2 / 2 XP
+|It wasn't like this before...
+|-
+|[[Deogen|Paranormal Breathing]]
+|$10 / 10 XP
+|$2 / 2 XP
+|It wasn't like this before...
+|-
+|Hunting Ghost
+|$20 / 20 XP
+|$5 / 5 XP
+|It wasn't like this before...
+|-
+|Mist Form
+|$15 / 15 XP
+|$3 / 3 XP
+|That thing came after me!
+|-
+|[[Ghost Event]]
+|$15 / 15 XP
+|$3 / 3 XP
+|It wasn't like this before...
+|-
+|Burned Crucifix
+|$10 / 10 XP
+|$2 / 2 XP
+|It's burning!
+|-
+|[[EMF Level 5|EMF 5]] Reading
+|$10 / 10 XP
+|$2 / 2 XP
+|This made a sound!
+|-
+|Fire Extinguish
+|$5 / 5 XP
+|$1 / 1 XP
+|It blew this out
+|-
+|Ghost Writing
+|$10 / 10 XP
+|$2 / 2 XP
+|It started writing...
+|-
+|[[Paranormal Sound#Paranormal Groaning|Paranormal Groaning]]
+|$5 / 5 XP
+|$1 / 1 XP
+|It wasn't like this before...
+|-
+|[[Paranormal Sound#Paranormal Laughing|Paranormal Laughing]]
+|$5 / 5 XP
+|$1 / 1 XP
+|It wasn't like this before...
+|-
+|[[Paranormal Sound#Paranormal Talking|Paranormal Talking]]
+|$5 / 5 XP
+|$1 / 1 XP
+|It wasn't like this before...
+|-
+|[[Paranormal Sound#Paranormal Whisper|Paranormal Whisper]]
+|$5 / 5 XP
+|$1 / 1 XP
+|It wasn't like this before...
+|-
+|Possessed [[Toy]]
+|$5 / 5 XP
+|$1 / 1 XP
+|It wasn't like this before...
+|-
+|Distorted Music
+|$5 / 5 XP
+|$1 / 1 XP
+|It wasn't like this before...
+|-
+|[[Spirit Box]] Response
+|$10 / 10 XP
+|$2 / 2 XP
+|It wasn't like this before...
+|-
+|Music Box
+|$5 / 5 XP
+|$1 / 1 XP
+|It wasn't like this before...
+|-
+|Ouija Board
+|$5 / 5 XP
+|$1 / 1 XP
+|It's responding!
+|}
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+!27 March 2021
+|Photos are now starred according to distance instead of a random reward.
+|-
+![[0.5.1.1]]
+|Added a priority system for photo detection.
+|-
+! rowspan="3" |[[0.7.0]]
+|Photos no longer give rewards based on a scoring system.
+|-
+|Photos are now also starred based on the distance from the centre of the photo.
+|-
+|Photo rewards are now capped at a multiplier of x1.
+|-
+! rowspan="3" |[[0.10.1.0]]
+|Two photos can now be removed from the journal.
+|-
+|You cannot remove 3-star photos.
+|-
+|While in multiplayer games, players will vote on whether a photo should be removed or not.
+|-
+! rowspan="5" |[[0.13.0]]
+|Added Video evidence.
+|-
+|Added Sound evidence.
+|-
+|Replaced the star-rating system with the new Unique/Duplicate System.
+|-
+|All media rewards are now included in the reward multiplier.
+|-
+|Up to three pieces of media can now be deleted during an investigation, up from two previously.
+|-
+! rowspan="4" |[[0.13.1.0]]
+|Added new recordable video evidence:
+*The ghost turning Crucifix in Sunny Meadows.
+*The burning Crucifix in the chapel of Sunny Meadows.
+*Obake shapeshifting.
+|-
+|Adjusted rewards so harder-to-record media feels more valuable.
+|-
+|Several pieces of video evidence have been changed from being unique to now counting as an interaction: Phones, Sinks, Showers, Camping stove, Bear trap
+|-
+|Removed rocking chair sound evidence due to it not being a ghost sound.
+|-
+![[0.18.0]]
+|A separate Photo can now be taken capturing a EMF Level 5 reading.
+|-
+![[0.19.0]]
+|Added unique video evidence text for shower and fuse box interactions.
+|}
+
+[[Category:Gameplay]]
+[[fr:Média]]
+[[ru:Медиа]]

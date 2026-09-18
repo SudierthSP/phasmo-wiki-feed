@@ -1,0 +1,19 @@
+# 0.4.1.2
+# revid 1510  2021-11-23T16:56:17Z  by Qsefthuopq
+# sha256 b76e20568be7181c458b21dafe138b434cce012a81b5b921084ed0cd1bd1bc98  bytes 490
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | official_name=噩梦补丁
+  | release_date=2021年11月12日
+  | previous_major_version=[[万圣节更新]]
+  | previous_minor_version=0.4.1.1
+  | next_major_version=
+  | next_minor_version=
+}}
+==变更==
+* 移除万圣节装饰
+* 新鬼出现几率限时提升结束
+==修复漏洞==
+* 逃脱鬼猎杀任务无法完成
+* 鬼魂笔记拍照不识别证据
+* 在营地木屋阳台门附近行走的声音会传入顶楼
+* 灵球不随着鬼魂换鬼魂房间而变动

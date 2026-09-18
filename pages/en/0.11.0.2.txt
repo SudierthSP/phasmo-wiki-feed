@@ -1,0 +1,34 @@
+# 0.11.0.2
+# revid 23882  2026-06-28T21:35:36Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 1a27de3d497ce09045fc704180dd5e5d751519e4ff00d455ed999e1467d46af8  bytes 1783
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=8 November 2024
+ | previous_major_version=[[0.11.0]]
+ | previous_minor_version=[[0.11.0.1]]
+ | next_minor_version=[[0.11.0.3]]
+ | next_major_version=[[0.12.0.1]]
+}}'''0.11.0.2''' is a hotfix released on 8 November 2024.<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-crimson-eye-v01102 ''Crimson Eye - Phasmophobia Hotfix v011.0.2''. 8 November 2024.]</ref> It fixes bugs.
+
+==Changes==
+*At release of the last patch, additional languages on Xbox Series X/S & PlayStation 5 were made available ahead of their official release. As these are not yet ready, we have removed these for the time being. We aim to get these out to players as soon as possible.
+
+==Fixes==
+;All Platforms
+*Fixed an issue that prevented non-host players, from seeing Blood Moon weather.
+*Fixed several spots in Grafton and Point Hope where the player could become stuck.
+*Players can now bind the left mouse button, the A button on Xbox Series X/S and the X on PlayStation to any key bind. ''Note: This does not include the Journal as this would cause it to be unusable.''
+*Fixed an issue where gamepad players could use shop UI shortcuts while loading, causing them to accidentally buy DOTS Projectors.
+*Fixed an issue where gamepad players couldn't always grab objects in the warehouse.
+*Fixed an issue that would cause the Journal to be invisible if the player’s connection to the voice servers wasn’t complete.
+
+;Xbox Series/PlayStation
+*Fixed an issue that would cause players on Xbox Series X/S to lose access to voice chat after disconnecting and then reconnecting a microphone.
+*Fixed an issue that caused console players to be unable to see weather effects.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.11.0.2]]
+[[ru:0.11.0.2]]

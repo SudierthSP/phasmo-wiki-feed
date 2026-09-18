@@ -1,0 +1,169 @@
+# Thaye
+# revid 23537  2026-05-13T21:49:46Z  by Darkhooper
+# 备注: Ghost Writing is not tied to activity level, DOTS is more frequent when Thaye ages
+# sha256 84cd606ccfc83c64923756d08a0cbc48f746b8a582cf77ea65e457511908b166  bytes 7830
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Thaye Discovered.jpg
+ |strength= *Becomes very active the first time a player gets nearby
+ |weakness(es)= *The more time players spend near it, the quieter and slower it becomes
+ |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=|link=D.O.T.S. Projector (Evidence)]]
+ |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
+ |Evidence3=[[File:ClosedBook_Render.png|24x24px|alt=|link=Ghost Writing]]
+}}{{Quote
+ |quote=Thaye have been known to rapidly age over time, even in the afterlife. From what we've learned, they seem to deteriorate faster while within the presence of the living.
+ |speaker=The Journal
+}}The '''Thaye''' is a type of [[ghost]] in ''Phasmophobia''. It is known to exhibit paradoxical activity spans when nearby players, ranging from that of an [[Oni]] to that of a [[Shade]] the longer at least one player stays in its vicinity.
+
+==Behaviour==
+===Activity===
+When the Thaye chooses to perform a [[Ghost Event|ghost event]], it has a chance of (1 - age / 9) of succeeding. This means it will no longer be able to perform ghost events after using its ability 9 times, unless forced through the use of [[Cursed Possession|cursed possessions]].
+
+The Thaye is more likely to interact with [[door]]s compared to most other ghosts (30% chance instead of the 25% chance for a standard ghost).
+
+===Ability===
+The Thaye has an internal "age" parameter that affects its general [[activity]]. The Thaye will attempt to age 1 minute after an [[exit door]] is opened for the first time; if at least one player is in the same room as the ghost or within 3 meters of it,<ref group="note">There is a bug where the Thaye can age with a player in a room directly below it.</ref> the Thaye will add 1 to its age and re-attempt to age after 1-2 minutes, else it will re-attempt to age after 30 seconds. If the Thaye successfully uses this ability during a hunt, the age increase will only be effective after the hunt.<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1245885002198028421 ''"...they will not age mid hunt, but will after the hunt."'' Shuee, Lead Quality Assurance (on Discord). 31 May 2024.]</ref> The following shows the parameters that are affected by age:
+{| class="article-table"
+! Behaviour
+! Age 0 (Initial)
+! Per age added
+! Age 10 and higher
+|-
+! Hunt [[sanity]] threshold<ref group="note">Due to an oversight in development, the Thaye's hunt sanity threshold is actually 1% lower for all values listed in this table.</ref>
+| 75%
+| -6%
+| 15%
+|-
+! [[Hunt]] speed
+| 2.75 m/s
+| -0.175 m/s
+| 1 m/s
+|-
+! [[Activity]]
+| 200%
+| -15%
+| 50%
+|-
+| colspan="4" |
+{| class="article-table mw-collapsible-content mw-collapsible mw-collapsed" style="text-align:center;" width="100%"
+|+Detailed behaviour per age
+!Age
+!Hunt sanity threshold
+!Activity
+!Hunt speed
+|-
+|0
+|75%
+|200%
+|2.75 m/s
+|-
+|1
+|69%
+|185%
+|2.575 m/s
+|-
+|2
+|63%
+|170%
+|2.4 m/s
+|-
+|3
+|57%
+|155%
+|2.225 m/s
+|-
+|4
+|51%
+|140%
+|2.05 m/s
+|-
+|5
+|45%
+|125%
+|1.875 m/s
+|-
+|6
+|39%
+|110%
+|1.7 m/s
+|-
+|7
+|33%
+|95%
+|1.525 m/s
+|-
+|8
+|27%
+|80%
+|1.35 m/s
+|-
+|9
+|21%
+|65%
+|1.175 m/s
+|-
+|10+
+|15%
+|50%
+|1 m/s
+|}
+|}
+
+For every age added, the Thaye's "human age" as provided by the [[Ouija Board]] increases by 1 - 4. Unlike ghost activity, there is no (reasonably attainable) limit on the Thaye's "human age". The Thaye's starting "human age" can still be anywhere from 10 - 90, like all other ghosts.
+
+===Hunt===
+Instead of having an increased chance of hunting the lower the average sanity, the Thaye always has a fixed chance of 1/8 of initiating a hunt after exiting an idle state below the hunt sanity threshold.
+
+Unlike most other ghosts, the Thaye does not speed up with line-of-sight of a player.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:DOTS_projector_sprite.png|24x24px|alt=|link=D.O.T.S. Projector (Evidence)]] [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]] [[Ghost Orb]]
+|[[File:ClosedBook_Render.png|24x24px|alt=|link=Ghost Writing]] [[Ghost Writing]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: Upon entering the location, '''Thaye''' will become active, defensive and agile''
+
+''Weakness: '''Thaye''' will weaken over time, making them weaker, slower and less aggressive''
+
+==Strategies==
+With a Thaye, both interactions and events will be more frequent from the start of the investigation, which may make it easier to locate the ghost. On the other hand, if players do not locate the ghost quickly, especially on large maps, the Thaye may prove to be one of the most dangerous ghosts in the game, as its initial hunt sanity threshold is higher than that of a [[Demon]]'s, and it is much faster when chasing players during these early hunts. Due to the extreme danger it can pose towards the beginning of a contract, identifying hiding spot locations as soon as possible is very prudent.
+
+One must be careful not to confuse the [[Obambo]]'s two distinct hunt speeds and polarising sanity thresholds (based on its state) with the Thaye's slowing and progressively-lowering hunt sanity threshold as it ages. These ghosts also share two pieces of evidence.
+
+One could identify a Thaye through its hunting behaviour; if it is fast early in the contract, slows down over several hunts as players continue spending time near it, and does not gain speed with continuous line-of-sight (LOS), then a Thaye is likely. Unlike a Thaye, the Obambo does gain speed with continuous LOS, and can also change base speeds during a hunt, making this a clear way to differentiate the two. Likewise, if the ghost hunts early and has high levels of activity, but becomes less willing to hunt, interact, or perform ghost events over time, this could also point to a Thaye.
+
+Because ghost events and interactions are more common early on, one should use this opportunity to complete any non-hunt related objectives or fill the [[journal]] with photos. Taking the hunt sanity threshold into consideration, if one is careful with how they interact with the ghost, a (near-)perfect contract can be achieved easily. However, if players spend excessive time in the ghost room and cause the Thaye to age quickly, and are not careful with their [[cursed possession]] usage to compensate for the loss in activity, completing objectives and obtaining photo evidence could become an annoying (or boring) task.
+
+Hunt-related objectives on the other hand are best left for when the ghost has aged enough that it is no longer a major threat; after aging 4 times, a Thaye will be slower than the player's average speed if continuously sprinting off-cooldown, and after aging 3 more times (for 7 times in total), it will be slower than the player's walking speed, allowing it to be easily looped. Staying in the ghost room for a period of time to age them to safe levels, then using a cursed possession to force a hunt is a safe way of completing many objectives such as escaping the ghost during a hunt.
+
+==Trivia==
+*Thaye (IPA: /θəjɛ́/, pronounced "thuh-yeh") are also known as sarai and tasei in Burmese (written သရဲ) are disembodied spirits in Myanmar folklore that have many forms at once, depending on the beholder. They come in the deep of the night and cause minor nuisances.
+*When [[The Mimic]] mimics a Thaye, it will choose a random age.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.6.2.0]]
+|Added Thaye.
+|-
+![[0.6.2.1]]
+|Adjusted the Thaye's weakness.
+|-
+![[0.9.0]]
+|The Thaye no longer has an increased chance to interact with the [[D.O.T.S. Projector]] or the [[Ghost Writing Book]].
+|}
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{Ghost nav}}
+[[Category:Ghosts]]
+[[fr:Thayé]]
+[[ru:Тайэ]]

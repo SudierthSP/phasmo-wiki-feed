@@ -1,0 +1,14 @@
+# 诅咒之物
+# revid 2800  2023-03-01T13:30:28Z  by Skaijie
+# sha256 2957f0aec19bbb1c9eddf62241dfd28140c1d6276197a6c940b15d53d3f99840  bytes 436
+# 源: https://phasmophobia.fandom.com/zh/api.php'''诅咒之物'''是与鬼魂互动或使其现身的七件物品：[[八音盒]]、[[通灵板]]、[[巫毒娃娃]]、[[闹鬼魔镜]]、[[召唤阵]]、[[塔罗牌]]和[[猴爪]]。每局默认[[难度]]游戏都会随机生成一件诅咒之物（除了疯狂难度以外）。
+
+== 历史 ==
+{| class="fandom-table"
+! colspan="2" | 抢先体验 (Steam)
+|-
+! [[0.5.0]]
+| 添加诅咒之物
+|}<br>
+{{EquipmentNav}}
+[[Category:物品]]

@@ -1,0 +1,22 @@
+# 0.19.0.2
+# revid 24696  2026-09-16T19:22:34Z  by Darkhooper
+# 备注: new version
+# sha256 7768eefe57f602001ac597326a92d32514b4b8f4f106a20dbcd167a771b18dcf  bytes 795
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| release_date=16 September 2026
+| previous_major_version=[[0.19.0]]
+| previous_minor_version=[[0.19.0.1]]
+| next_minor_version=
+| next_major_version=
+}}'''0.19.0.2''' is a minor update released on 16 September 2026.<ref>[https://www.kineticgames.co.uk/news/phasmophobia-v01902-patch-notes ''Phasmophobia v0.19.0.2 - Patch Notes''. 16 September 2026.]</ref> It fixes two issues.
+
+==Fixes==
+*Fixed an issue which prevented certain PlayStation 5 and XBOX Series X/S users from entering rooms for Singleplayer and Multiplayer.
+*Fixed an issue that caused player audio to be muffled in Multiplayer if another player dropped the Parabolic Microphone immediately after turning it on.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.19.0.2]]
+[[ru:0.19.0.2]]

@@ -1,0 +1,114 @@
+# Demon
+# revid 24442  2026-08-11T17:49:22Z  by Darkhooper
+# 备注: favorite room state if ability fails
+# sha256 694eef77bba0dd5aea0bd75e3a9def62a435b56d5816e944d1af96749da6751c  bytes 7380
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Demon Discovered.jpg
+ |strength=*Lower hunt cooldown than other ghosts
+*Higher hunt sanity threshold
+*Smudging prevents hunts for shorter
+ |abiliti(es)=*Rare chance to hunt at any sanity percentage
+ |weakness(es)=*Increased effective crucifix range
+ |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
+ |Evidence2=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]
+ |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
+}}{{Quote
+ |quote= A Demon is one of the worst ghosts you can encounter. It has been known to attack without reason.
+ |speaker=The Journal
+}}The '''Demon''' is a type of [[ghost]] in ''Phasmophobia''. Demons are generally considered to be one of the most dangerous types of ghost to encounter: they are purported to attack more often than any other ghost.
+
+==Behaviour==
+===Ability===
+The Demon has an ability that allows it to automatically start a [[hunt]], regardless of current average [[sanity]]. There is no particular behaviour or condition that affects if it activates or not; if it decides to use its ability, it will hunt. This hunt can be blocked by normal prevention methods.
+
+As the Demon's ability hunt is governed by the [[Ability|ability state]], these hunts occur much less frequently than hunts derived from being below its sanity threshold. Additionally, as this is not a "proper" hunt attempt, the Demon can attempt to use its ability when it is unable to hunt (during the [[Setup Phase|setup phase]], when it is affected by Incense, or during a hunt cooldown). However, the ability will fail and the Demon will instead enter the [[Ghost Room|favourite room]] state.
+
+===Hunt===
+The Demon has a normal hunt sanity threshold of 70%, instead of the standard 50%. This does not affect and is independent from its hunt ability, although the hunt does not differ in any way.
+
+Demons have a minimum cooldown of 20 seconds between hunts, instead of the usual 25 seconds.
+
+Smudging a Demon will prevent hunts for only 60 seconds, as opposed to the standard 90 seconds.
+
+As a weakness, the effective range of a [[crucifix]] is 50% larger than the standard range:
+*4.5 metres instead of 3 for Tier I
+*6 metres instead of 4 for Tier II
+*7.5 metres instead of 5 for Tier III
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]] [[Freezing Temperatures]]
+|[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]] [[Ghost Writing]]
+|[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]] [[Ultraviolet]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: '''Demons''' will initiate hunts more often than other ghosts.''
+
+''Weakness: '''Demons''' fear the Crucifix and will be less aggressive near one.''
+
+==Strategies==
+Generally, it is best to think of the Demon as having a 100% hunt sanity threshold, even if its hunts are rarer above 70% average sanity.
+
+To identify a Demon by its traits, players may time the cooldown between hunts, or watch out for signs of a very early hunt. Given the Demon's relative aggressiveness in hunting, players should plan their route to the ghost room and what they wish to bring for any objectives, while considering whether to hide or to use [[Incense]] on the ghost if it hunts. Sprint may need to be conserved once approaching the ghost room in order to make a quick escape in the event of a sudden hunt. If a very early hunt occurs, make sure to rule out the possibility of a cursed hunt caused by another player using a cursed possession without the rest of the team's knowledge.
+
+With the crucifix's increased effective range, preventing hunts will generally be easier, though difficulties may still be encountered in massive rooms, such as the Basketball Court of [[Brownstone High School]].
+
+===Identification===
+Players can use two tests:
+*Time the hunt cooldown: a cooldown of less than 25 seconds (excluding hunts caused by [[cursed possession]]s) may indicate a Demon. If it uses a crucifix charge in this time, this may also be indicative of a Demon.
+*Time the smudge hunt prevention: a ghost hunting between 60 - 90 seconds after being smudged correctly may indicate a Demon
+
+Take care to ensure that the timing is correct to avoid misidentification -- usage of a stopwatch may be helpful. In particular, if a ghost is still under the effect of a previous smudge, smudging again will not reset the timer, which may throw off timing; wait for the ghost to attempt another hunt before smudging again. Note that ghosts do not necessarily hunt after the cooldown is over; having hunts consistently being more than 25 seconds apart does ''not'' necessarily eliminate the Demon as a possibility.
+
+Additionally, while a ghost hunting above 70% average sanity is very likely to be a Demon, this does not ''guarantee'' it, as a few other ghosts are also capable of hunting that early. However,  a Demon will do this the most consistently, as these other ghosts have conditions on hunting at high levels of sanity (the [[Yokai]] requires talking, the [[Onryo]] requires [[firelight]]s to be blown out, etc.).
+
+==Trivia==
+*On 42 Edgefield Road, a Demon located in the Garage, Master Bedroom, or Hallway may be able to burn a [[crucifix]] which is still hanging in the truck, as its increased range covers portions of these rooms. Note that it is also possible for this to happen with other ghosts (especially with higher crucifix tiers which have a longer range), but the Demon is able to do this much more frequently.
+*In mythology, demons tend to have horrifying forms, being commonly depicted with horns, tails, claws, and other inhuman appendages. In-game, Demons draw from the regular pool of [[Ghost Model]]s without any sort of modifications.
+*The word "demon" comes from Ancient Greek "δαίμων" (daimōn), meaning "god", "godlike", "power", "fate", etc. It was used in contexts related to unknown/supernatural forces, both good and bad. As time progressed, the meaning became more negative thanks to Christianization.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!5 August 2020
+|Added Demon.
+|-
+! colspan="2" |Early Access
+|-
+![[0.29.6]]
+|Increased the hunt sanity threshold from 65% to 70%.
+|-
+![[0.3.0]]
+|Prior to 0.3.0, the evidence was [[Spirit Box]], [[Ghost Writing]], and [[Freezing Temperatures]].
+|-
+![[0.4.0]]
+|Demons now deduct less sanity on successful questions instead of failed questions.
+|-
+! rowspan="3" |[[0.5.0]]
+|The Banshee's rare ability to hunt at any sanity percentage has been moved to the Demon.
+|-
+|The Demon's hunt cooldown is now 20 seconds.
+|-
+|Smudge sticks now prevent the Demon from hunting for only 60 seconds instead of 90 seconds.
+|-
+![[0.5.1.0]]
+|The Demon's reduced sanity drop now applies to all cursed possessions.
+|-
+![[0.5.2.0]]
+|The Demon's weakness has been changed from reducing cursed possession sanity drops to having a larger crucifix range, which was originally the Banshee's weakness.
+|-
+![[0.7.0]]
+|Improved the reliability of the Demon's hunt ability.
+|-
+![[0.9.0]]
+|Crucifixes will now have an extra 50% range (per Tier) against Demons.
+|}
+{{GhostNav}}
+[[Category:Ghosts]]
+[[fr:Démon]]
+[[ru:Демон]]

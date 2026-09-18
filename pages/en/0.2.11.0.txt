@@ -1,0 +1,40 @@
+# 0.2.11.0
+# revid 23920  2026-06-28T21:38:29Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 aafe6e9cf6182f5cb7500c69ad86602cb6bb6896f2d1d3e49e9d18a04c5a579f  bytes 1378
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=21 July 2021
+ | previous_major_version=[[0.29.6]]
+ | previous_minor_version=[[0.2.10.1]]
+ | next_major_version=[[0.3.0]]
+}}'''0.2.11.0''' is a minor update to the game released on 21 July 2021.<ref>https://discord.com/channels/435431947963990026/661365069006897154/867389020644048958</ref> This update makes several minor changes to gameplay and fixes bugs.
+
+== Changes ==
+=== Ghosts ===
+{{Main|Ghost}}
+;[[Mare]]
+*Can no longer turn lights on
+
+;[[Yurei]]
+*Now has an additional ability to lower players' sanity
+
+=== Hunts ===
+{{Main|Hunt}}
+*Microphone volume required for the ghost to hear a player has been increased slightly
+
+=== General ===
+*The High volumetric lighting setting has been removed, with the Medium setting renamed to High
+
+== Bug fixes ==
+*Fixed a bug where the Sound Sensor graph bars could go higher than the monitor
+*Fixed a bug where the ghost could always hear host players if they were talking when push to talk was turned on
+*Fixed a bug where the Thermometer wouldn't always give values for the correct room
+*Fixed a bug where disconnecting from server timeout on the main menu gave no error message
+*Fixed a bug where the language selection and photo sensitivity warning didn't show until you reloaded the main menu
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.2.11.0]]
+[[ru:0.2.11.0]]

@@ -1,0 +1,183 @@
+# Grafton Farmhouse
+# revid 24940  2026-09-18T17:26:19Z  by Darkhooper
+# 备注: changed page layout
+# sha256 8d66f70a118fd88034e6b44921877362f08dfb20e7d96e5c11496d8eb7153593  bytes 5620
+# 源: https://phasmophobia.fandom.com/api.php{{Location
+|img=Grafton farmhouse entrance brightened.webp
+|imgcaption=The front of the farmhouse.
+|mapsize=Small
+|unlocklevel=4
+|floors=3
+|rooms=14 (Total)
+*3F: 1
+*2F: 5
+*1F: 8
+|exits=1
+|faucets=3
+|videofeeds=1
+|keys=Main Door Key
+|img rooms=Rooms Grafton.png
+|img sanity=Sanity Grafton.png
+|img temperatures=Temperatures Grafton.png
+}}
+{{Quote
+|speaker=Loading blurb
+|quote=A long-abandoned farmhouse, located in the middle of nowhere. Who knows what still lurks within.
+}}'''Grafton Farmhouse''' is a small [[map]] in ''Phasmophobia'', and one of the two variants of the Farmhouse, alongside [[Bleasdale Farmhouse]]. This isolated, half-ruined three-story farmhouse has a spacious ground floor, a smaller second floor, and an attic. 
+
+==Structure==
+Grafton Farmhouse includes 3 bedrooms, a dining room, a library, an attic, and a workshop, among other rooms.
+
+===Layout tips===
+*On the second floor, to the left of the door to the Master Bathroom, there is a door seemingly leading to another spacious room; however, it is jammed.
+*The Foyer's main light is shattered and provides intermittent illumination; consider turning on the lantern on some boxes near the stairs for much better visibility.
+*The ghost has a unique interaction when near the [[mannequin]]s located in the Work Room, being able to change their pose and teleport them around the house.
+*The ghost can interact with the pullstring dolls in the Child Bedroom to make them talk, change their pose, or teleport them around the house.
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room [[light]]s being on:
+*Foyer
+*Attic
+
+The [[fuse box]] does not warm up the following rooms, which stay at the [[weather]]'s ambient temperature:
+*Foyer
+*Living Room
+*Kitchen
+*Utility Room
+*Dining Room
+*Library
+*Upstairs Hallway
+*Twin Bedroom
+*Attic
+
+The following rooms allow short [[Roaming|roams]] to another floor to be completed:
+*Attic
+
+Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
+{| class="article-table"
+!Parameter
+!None
+!Low
+!Medium
+!High
+|-
+!Number
+|0
+|2
+|4
+|5
+|}
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 9 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Kitchen
+|[[File:Grafton Kitchen unavailable.png|200px]]
+|[[File:Grafton Kitchen available.png|200px]]
+|-
+|Utility Room
+|[[File:Grafton Utility unavailable.png|200px]]
+|[[File:Grafton Utility available.png|200px]]
+|-
+|Dining Room
+|[[File:Grafton Dining Room unavailable.png|200px]]
+|[[File:Grafton Dining Room available.png|200px]]
+|-
+|Work Room
+|[[File:Grafton Work Room unavailable.png|200px]]
+|[[File:Grafton Work Room available.png|200px]]
+|-
+|Upstairs Hallway
+|[[File:Grafton Upstairs Hallway unavailable.png|200px]]
+|[[File:Grafton Upstairs Hallway available.png|200px]]
+|-
+|Master Bedroom
+|[[File:Grafton Master Bedroom unavailable.png|200px]]
+|[[File:Grafton Master Bedroom available.png|200px]]
+|-
+|Child Bedroom
+|[[File:Grafton Child Bedroom unavailable.png|200px]]
+|[[File:Grafton Child Bedroom available.png|200px]]
+|-
+|Twin Bedroom
+|[[File:Grafton Twin Bedroom unavailable.png|200px]]
+|[[File:Grafton Twin Bedroom available.png|200px]]
+|-
+|Attic
+|[[File:Grafton Attic unavailable.png|200px]]
+|[[File:Grafton Attic available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|9
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|7
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|5
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|4
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+[[Guides/Surviving_a_hunt#Looping_the_ghost|Looping]] the ghost may be performed around the kitchen island, the living room piano, or the dining table, among other places.
+
+==Bone locations==
+Bones spawn randomly, but will only spawn in areas that a ghost can also walk on.
+
+==Cursed possession locations==
+<gallery>
+Grafton-Circle.png|The [[Summoning Circle]] spawns in the Child Bedroom.
+Grafton-Ouija.png|The [[Ouija Board]] spawns in the Attic.
+Grafton-Box.png|The [[Music Box]] spawns in the Twin Bedroom.
+Grafton-Mirror.png|The [[Haunted Mirror]] spawns in the Master Bedroom.
+Grafton-Tarot.png|The [[Tarot Cards]] spawn in the Library.
+Grafton-Voodoo.png|The [[Voodoo Doll]] spawns in the Work Room.
+Grafton-Paw.png|The [[Monkey Paw]] spawns in the Dining Room.
+</gallery>
+
+==Gallery==
+<gallery>
+CauldronLake.png|Grafton Farmhouse as ''Cauldron Lake'' during the Phasmophobia by Alan Wake event.
+</gallery>
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!???
+|Added Grafton Farmhouse.
+|-
+! colspan="2" |Early Access
+|-
+! rowspan="3" |[[0.9.4.0]]
+|Moved the wardrobe and lights in the Nursery in Grafton for better lighting
+|-
+|The upstairs hallway armchair and nursery crib are now hiding zones and can be blocked
+|-
+|The upstairs armchair has been moved closer to the wall to make it safer
+|-
+![[0.14.0]]
+|Overhauled with a new layout including a new attic room, new visual assets, new environmental features, etc.
+|}<br>
+{{Loc nav}}
+[[Category:Maps]]
+[[Category:Small Map]]
+[[fr:Grafton Farmhouse]]
+[[ru:Grafton Farmhouse]]

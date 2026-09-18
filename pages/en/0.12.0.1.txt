@@ -1,0 +1,50 @@
+# 0.12.0.1
+# revid 24457  2026-08-16T16:00:37Z  by Darkhooper
+# 备注: added Known Issues section
+# sha256 1a2764434360f01e5d86aba2fcefab68406704be45ddf251239c7cfd5016bdba  bytes 2504
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | image1=Bleasdale Rework.png
+ | official_name=Bleasdale Rework
+ | release_date=10 March 2025
+ | previous_major_version=[[0.11.0]]
+ | previous_minor_version=[[0.11.1.2]]
+ | next_minor_version=[[0.12.0.2]]
+ | next_major_version=[[0.13.0]]
+}}'''0.12.0.1''', also known as the '''Bleasdale Rework''' update, is a major update released on 10 March 2025.<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-bleasdale-rework-update ''Bleasdale Farmhouse Rework - Phasmophobia v0.12.0.1'']</ref> It features an overhaul of [[Bleasdale Farmhouse]], as well as several QoL improvements.
+
+==Additions==
+*'''Bleasdale Farmhouse:''' Bleasdale Farmhouse has been fully overhauled with a new layout, new visual assets, new environmental features and much more. Several examples of these are:
+**Motion Sensing exterior lights that can be triggered by both [[player]]s and [[ghost]]s.
+**A bead string door that will move when walked through by either the player or the ghost.
+**Something small and frightening, scuttling about the house...
+**''Plenty'' of new ghost interactables!
+*Ghosts can now light any non-equipment [[Fire Source|fire sources]] such as fireplaces, campfires and candles.
+*Some lights can now be turned toggled with multiple switches.
+**''Note: currently Bleasdale only, but these will be added to other locations over time''
+
+==Changes==
+*Bleasdale Farmhouse is now classed as a medium [[map]] due to its rework.
+*[[Point Hope]] is now classed as a medium map.
+*Pianos found in maps now have new interaction sounds for players and ghosts.
+*"Get a ghost to blow out a firelight" [[Objectives|objective]] now only counts for player equipment ([[Firelight]] T1, T2, T3)
+*Paintings now fall down more realistically.
+*Implemented performance improvements across all maps.
+
+==Fixes==
+;All Platforms
+*Fixed an issue causing white blocks to appear on screen when loading into a contract in multiplayer.
+*Fixed several Spanish questions when using voice recognition with the Oujia Board
+*Fixed several location issues that would cause the player to get stuck.
+
+;Xbox/PlayStation
+*Fixed an issue that would cause Xbox players to get stuck on the initialisation screen if no account profile picture had been set.
+
+==Known Issues==
+*Players on PlayStation 5 and PS VR2 may experience visual desync when opening doors in Bleasdale. Example: The door may visually remain closed upon opening.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.12.0.1]]
+[[ru:0.12.0.1]]

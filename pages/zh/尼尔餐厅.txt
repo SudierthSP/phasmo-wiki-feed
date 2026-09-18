@@ -1,0 +1,5 @@
+# 尼尔餐厅
+# revid 4049  2025-12-17T03:22:18Z  by Qsefthuopq
+# 备注: 页面内容被替换为“# redirect [[内尔餐馆]]”
+# sha256 8d256d67d49815ca00e1c33d4bfd9cc80a52ce98c90ffe625a28685f9b921cef  bytes 27
+# 源: https://phasmophobia.fandom.com/zh/api.php# redirect [[内尔餐馆]]

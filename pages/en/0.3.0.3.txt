@@ -1,0 +1,67 @@
+# 0.3.0.3
+# revid 23930  2026-06-28T21:39:13Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 0d8c1f5b830ff1d60e9db49e387d38cdc7fb915e5662363bc39b54a666089747  bytes 3690
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=3/4 September 2021
+  | previous_major_version=[[0.3.0]]
+  | previous_minor_version=[[0.3.0.2]]
+  | next_major_version=[[0.4.0]]
+  | next_minor_version=[[0.3.0.4]]
+}}'''0.3.0.3''' is a minor update to the game released on 3 September 2021,<ref>https://store.steampowered.com/news/app/739630/view/2940276088438770053</ref> with a same-version hotfix released the following day.<ref>https://discord.com/channels/435431947963990026/661365069006897154/883516164532211712</ref> The update mainly fixes bugs.
+
+== Changes ==
+=== Equipment ===
+;[[D.O.T.S. Projector]]
+*Sound will now flicker randomly instead of when the ghost interacts with it
+*An interaction by the ghost will no longer produce EMF
+
+;[[Glowstick]]
+*Brightness after its one minute use time has been reduced
+
+=== Gameplay ===
+*VR: Movement speed will no longer change based on the rotation of the player controller and will now only be based on the joystick/trackpad
+*VR: Journal can now be grabbed with both hands again as well and UI can be interacted with using the player's left hand
+
+=== Maps ===
+;General
+*Removed most house candles due to performance issues
+
+== Bug fixes ==
+=== From versions released before 0.3.0.3 ===
+*Fixed an issue where the Goryo's strength wasn't functioning correctly
+*Fixed a bug where the player could see the night vision light when wearing a head camera
+*Fixed a bug where the cameras still had the jitter post processing effect
+*Fixed an issue where the Spirit Box emission/ bloom was too bright
+*Fixed a bug where clicking on locked store equipment would stop the player from buying other equipment if the player was too low a level
+*Fixed a bug where the player could make the photo camera flash without taking a photo
+*Fixed a bug where the player would get very low fps on the main menu after a game if using a gamepad
+*Fixed a bug where standing near a DOTS Projectors would stop the player's sanity drain
+*Fixed a spot in the Willow bathroom where the player could get stuck
+*Fixed some missing translations on the main menu
+*Fixed a few areas on Asylum where the ghost could get stuck behind the wall
+*Fixed a bug where the player could hold the Tripod with a camera on during a hunt and not get chased
+*Fixed and improved the gamepad navigation on the Journal
+*Fixed a bug where the player would get teleported back to the van if the player went out of bounds
+*Fixed a bug where graphics options were not being applied to the dead processing effects
+*Fixed a bug where sensors positions would desync in multiplayer after being grabbed from a wall
+*Fixed a bug where walkie talkie player volumes were too loud
+*Fixed a bug where the player's voice chat microphone wouldn't be set until the player restarted the game
+*Fixed a bug where other players equipment in their inventory wouldn't drop when they died
+*VR: Fixed a bug where teleport grab wouldn't always grab objects
+*VR: Fixed an issue where it was hard to grab objects with teleport grab
+*VR: Fixed a bug where if the player teleport-grabbed a placed DOTS Projector it wouldn't turn off
+*VR: Fixed grab rotations for the flashlights, cameras and smudge sticks
+*VR: Fixed a bug where where the player could take a photo in the truck when the camera was off
+*VR: Fixed an issue where the Thermometer text was hard to read
+*VR: Fixed a bug where the player couldn't hear parabolic sounds if they held the parabolic microphone in their left hand
+
+=== From 0.3.0.3 (as fixed in hotfix) ===
+*Fixed an issue with VR players not being able to close the truck door in multiplayer unless they were the host
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.3.0.3]]
+[[ru:0.3.0.3]]

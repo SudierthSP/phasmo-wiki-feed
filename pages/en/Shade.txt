@@ -1,0 +1,106 @@
+# Shade
+# revid 23207  2026-04-17T17:30:31Z  by Darkhooper
+# 备注: link to Activity page
+# sha256 1653acf4ee09cd1ac79fc04bb9793747890f5c40deadbf64a3e39128dc86bcf2  bytes 7222
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Shade Discovered.jpg
+ |strength= *Harder to find due to it being generally less active
+ |abiliti(es)= *Produces mist and shadow form ghost events more often
+ |weakness(es)= *Has a low hunt sanity threshold
+*Generally unwilling to hunt and perform interactions in the presence of players
+ |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
+ |Evidence2=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
+ |Evidence3=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]
+}}{{Quote
+ |quote=A Shade is known to be very shy. There is evidence to suggest that a Shade will stop all paranormal activity if there are people nearby.
+ |speaker=The Journal
+}}The '''Shade''' is a type of [[ghost]] in ''Phasmophobia''. Noted as being shy ghosts, a Shade will lower its activity in the presence of multiple players.
+
+==Behaviour==
+===Activity===
+In general, the Shade is less [[Activity|active]] than other ghosts.
+
+The Shade is less likely to perform [[ghost event]]s at high sanity. At 100% average sanity, it has a 0% chance of successfully performing an event. This success rate increases by 2% per percentage of average sanity lost; at an average sanity of 50%, an attempted ghost event will always succeed.
+
+[[File:SummoningCircleShadeShadow.gif|thumb|245x245px|A Shade's potential appearance in a Summoning Circle]]
+When manifesting during a ghost event, the Shade has a 2/3 chance to appear in its shadow form instead of a full or translucent form. If the Shade is made to appear using a [[Summoning Circle]], a [[Music Box]], or a [[Monkey Paw]], it has a 50% chance to appear in its shadow form rather than in its full form while in the ghost event stage. It will return to a fully visible form when the hunt begins.
+
+The Shade cannot perform [[Ghost Event#Singing|singing]] and [[Ghost Event#Appear|appear]] events. It also has a 60% chance to perform the [[Ghost Event#Mist Form|mist form]] event instead of 20% for other ghosts.
+
+===(In)abilities===
+If at least one player is in the same room as a Shade, it will be unable to perform interactions (including the [[Fuse Box|fuse box]] and interactions forced through the [[Voodoo Doll]]), ghost events, or initiate hunts, regardless of average sanity<ref>[https://discord.com/channels/435431947963990026/1034831196674347088/1034837007756697650 Information from the #ghost-huntin-resources channel on Discord.]</ref>, and will enter a [[Ghost Room|favourite room]] state instead when trying to perform these actions.
+
+When performing an object throw, whether it be during or outside a hunt, the Shade cannot use the variant where the object levitates before being thrown towards a player.
+
+During a hunt, though the Shade can interact with doors while a player is in the same room as it like any other ghost, it is still unable to blow out flames.
+
+===Hunt===
+The Shade can only hunt below an average [[sanity]] of 35%, lower than most other ghosts.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] [[EMF Level 5]]
+|[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]] [[Freezing Temperatures]]
+|[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]] [[Ghost Writing]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: '''Shades''' are much harder to find.''
+
+''Weakness: The ghost will not enter a hunt if there are people nearby.''
+
+==Strategies==
+Due to the Shade's aforementioned shyness, the lack of interactions may give it away, or players may become frustrated at the ghost not producing evidence, though this also makes them one of the safer ghosts to encounter, as their shyness also extends to hunts. Try keeping everyone out of the ghost room, as well as using [[Incense]] or specific [[cursed possession]]s that will increase the chance of the ghost interacting with the environment. Turning off the lights in the ghost's room may also help.
+
+Given the Shade's inability to hunt in a room with players, one can be tested for in Nightmare/Insanity difficulty simply by lowering the average sanity close to zero, and having players stand in the ghost's current room and rooms directly adjacent. If it refuses to hunt or hunts only from a room without players, then it may be a Shade; players should identify nearby escape routes and/or prepare [[Incense]] before testing this, as the ghost may hunt in the same room as a player if it's actually not a Shade, which can be very dangerous, especially since a Shade shares two evidence types with a [[Jinn]] which is extremely difficult to escape from if the fuse box is on, and a [[Revenant]] which is almost certain death if it hunts in the same room as a player.
+
+The Shade appearing as a shadow when manifested by cursed possessions is not guaranteed, so seeing a full-body manifestation with them does not rule out a Shade.
+
+A common misconception surrounds the technicality on Shades performing interactions or ghost events in the same room as the player:
+*All ghosts have a ''range'' in which they can interact. Simply put, the Shade can "interact through walls". More precisely, if the Shade is in a room with ''no'' players, but its interaction range extends into a room ''with'' players, then the Shade can still interact with items inside the room with players provided that they are covered by the interaction range.
+**In general, this logic also applies for ghosts not being able to throw items in a lit room.
+*Additionally, a ghost event will always ''occur'' in the same room as a player, but the ghost does not have to be in that room to ''initiate'' it; for physical events, the ghost will teleport to the chosen player's room once the event is triggered, while no teleportation occurs for mist form events. This remains true for the Shade. See [[Ghost Event]] for more information on ghost events.
+
+==Trivia==
+*Shade (lat. umbra, gr. σκιά) - in the mythology of many peoples, the ghost or spirit of the dead human, who is in the afterlife.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!24 March 2020
+|Added Shade.
+|-
+! colspan="2" |Early Access
+|-
+![[0.3.0]]
+|Prior to 0.3.0, the evidence was [[EMF Level 5]], [[Ghost Orb]], and [[Ghost Writing]].
+|-
+! rowspan="4" |[[0.5.0]]
+|Reduced the number of players required in the Shade's current room to prevent hunts from 2 to 1.
+|-
+|Being in the same room as the Shade will now prevent EMF 3 interactions.
+|-
+|The Shade now prefers shadow form if manifesting during a ghost event.<!--Need confirmation for increased mist form event chances-->
+|-
+|Reduced the Shade's hunt sanity threshold from 50% to 35%.
+|-
+![[0.5.2.0]]
+|Shades now have a chance to fail ghost events at higher sanities.
+|-
+!?
+|Shades can no longer perform interactions when a player is in its current room.
+|-
+![[0.10.0]]
+|Shades can no longer blow out fire sources and write in Ghost Writing Books if there are any players in the same room.
+|}
+
+==References==
+{{Reflist}}
+{{GhostNav}}
+[[ru:Тень]]
+[[fr:Ombre]]
+[[Category:Ghosts]]

@@ -1,0 +1,315 @@
+# Updates
+# revid 24288  2026-07-24T04:41:42Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 1ddf0d8f5d569c87be0ec0bb48361449eebb33f3ffbfb3f6c9daaa1a9be9fa1a  bytes 12382
+# 源: https://phasmophobia.fandom.com/api.php
+= [THIS LIST IS VERY INCOMPLETE] =
+
+<br>
+
+= Update September 25, 2020 =
+----
+
+
+== Update #1==
+
+=== Fixes ===
+
+# Fixed an issue where the item descriptions were being cut off if they were too long.
+# Fixed an issue where if you died it wouldn’t always update your item amount in your inventory.
+# Fixed an issue where long translations were being overlapped onto the item icons in training.
+# Potential fix for the Ghost not syncing it’s Ghost type between all players causing some evidence to not work.
+# Fixed a bug where only the Host could see the Ghost.
+# Fixed a lot of AI navigation issues on Brownstone School.
+# Fixed a bug where dead VR players could still grab objects.
+# Fixed a bug where the Truck whiteboard description would be set to the hosts language.
+# Fixed a bug where VR players were hovering above the ground.
+# Fixed a bug where you could ALT+F4 when you were dead to keep your items.
+# Fixed a bug where Banshees would never attack.
+# Fixed a spot in the Ridgeview kitchen where placing a Sensor would go on the wrong side of the wall.
+# Fixed a bug where the bone was spawning once per person.
+# Fixed a bug where the bone would despawn if the host left.
+
+=== Changes ===
+
+#You can now bind your mouse buttons again.
+#Banshees will now attack anyone if it’s target is outside.
+
+=== Fixes ===
+
+# Fixed a bug where you could hear Wraiths footsteps after they walked on Salt.
+# Potential fix for the Spirit Box and Ouija Board not working with push to talk.
+# Fixed a bug where the Ghost could teleport outside of the map and get stuck. This will likely fix the Tanglewood teleporting issue.
+# Fixed some translation issues on the main menu.
+# Fixed a bug where the Thermometer was sometimes getting the wrong rooms temperature.
+# Fixed some massive performance drops with some cctv cameras on Brownstone School.
+# Fixed a bug where female VR characters were on their tip toes for most people.
+# Fixed a bug where VR players couldn’t grab objects that were on the floor.
+
+=== Changes ===
+
+#Moved the Truck on Brownstone School to help with performance issues when looking at the cctv cameras.
+#Increased the VR grabbing distance to help with grabbing objects on the floor.
+
+=== New === 
+
+#Added text on the main menu screen to show the current server version.
+#Added an option to set your voice recognition language in "other" on the main menu. Your voice language package on windows will need to be set to this.
+
+
+== Update #2 ==
+
+=== Changes ===
+
+#Temporarily removed one of the Ghost events that was bugged.
+#Fixed some missing voice languages.
+
+<br />
+
+= Update September 24, 2020 =
+----
+
+
+== Update #1 ==
+
+=== Fixes ===
+
+# Fixed a bug where controller players couldn’t rebind their buttons.
+# Fixed a bug where the VR controllers grabbing radius was too small on some controllers.
+# Potential fix for VR players accidently turning.
+# Fixed a bug where IR Light Sensors were not always triggering for players.
+# Fixed a bug where the Spirit Box would answer too many times if other players were talking.
+# Fixed a bug where the Ghost would despawn if the host disconnected. (Whoops).
+# Fixed a bug where the Ghosts position would be desynced for non hosts which would prevent the spirit box from working. This will also fix other issues like the Ghost Orb being in the wrong spot.
+# Fixed a bug where the Ghost footsteps would stop playing after a while.
+
+=== Changes ===
+
+# The main menu will no longer reload if you fail to connect to the server.
+# Updated German, Spanish, French, Italian, Russian, Turkish, Dutch, Chinese and Danish translations.
+# Completed objectives will now fade instead of being crossed off, this is to help with localisation.
+# Thermometer now has no level requirement to buy.
+
+
+== Update #2 ==
+
+=== Fixes ===
+
+# Fixed a bug where the Ghost would sometimes not spawn properly.
+# Fixed a bug where if a player disconnects it would respawn the house key.
+# Potential fix for voice recognition not working in-game.
+# Fixed a rare crash when VR players are loading.
+# Potential fix for being teleported back to the Truck randomly.
+# Fixed a bug where some player volumes were being set to 0.
+
+=== Changes ===
+
+# Added an error message when you can’t connect to the server.
+
+
+== Update #3 ==
+
+=== Fixes ===
+
+# Fixed a bug where if you died and used a sanity pill it would be taken from your inventory twice.
+# Fixed an issue where if you died the mission total would add up to double what you received.
+# Fixed a bug where VR players were hovering slightly above the ground.
+# Fixed a bug where everyone was getting an extra $10 insurance for completing the ghost type objective.
+
+<br>
+
+= Update September 20, 2020 =
+----
+
+
+=== Fixes ===
+
+# Potential fix for the main menu getting stuck in a reload loop if you got disconnected from the server as soon as you connected.
+# Potential fix for the voice recognition test saying it’s not supported when it was working.
+# Fix for a crash where the game didn’t detect a microphone when the game launches.
+# Fixed a bug where taking a photo of the Ghost wouldn’t always give you a Ghost photo evidence.
+# Fixed some crashes related to the Voice Recognition trying to start when it hadn’t been setup correctly on the pc.
+# Fixed a bug where the Spirit Box would say "Nothing Detected" when it was turned off.
+# Potential fix for a lot of systems not running if a player disconnects when loading.
+# Fixed a bug where dead players couldn’t hear other players.
+
+=== Changes ===
+
+# Lowered the death zone ambient sound volume.
+# You will no longer lose any items if you leave a game when you are alive.
+# Increased the Ghosts chance to interact with objects.
+# Increased the Ghosts chance to use the Ghost Writing Book.
+# Dead players will now receive 50% of the experience reward with no difficulty bonus.
+# Changed the "DNA Evidence" to now say "Bone evidence".
+# Solo players will now get the reward screen when they die and will get 50% of the reward as if they were in multiplayer.
+# Renamed the EMF Monitor to "Total Activity" to avoid confusion.
+# Updated German, Spanish, Czech, French and Chinese translations.
+
+=== New ===
+
+# Added reset buttons in the Non-VR controls on the main menu.
+# Added a invite code for each room. This code can be entered in the lobby screen to join private games.
+
+<br>
+
+= Update September 19, 2020 =
+----
+
+
+== Update #1 ==
+
+=== Fixes ===
+
+# Fixed sanity pill description.
+# Potential fix for getting a black screen if the server was made private.
+
+
+== Update #2 ==
+
+=== Fixes === 
+
+# Fixed a bug where you wouldn’t lose any items if you died in multiplayer.
+# Tanglewood: Fixed some objects that were invisible in the bathroom.
+# Fixed a bug where your items would not get removed if you died in multiplayer.
+# Fixed a bug where non hosts couldn’t hear the Ghosts footsteps during it’s hunting phase.
+# Fixed a bug where some players couldn’t see all the servers.
+
+
+== Update #3 ==
+
+=== Fixes ===
+
+# Fixed a bug where the Journal would become unusable if a player disconnects when loading.
+# Tanglewood: Potential fix for being able to glitch through the walls in the living room.
+# Potential fix for being able to join games that have already started.
+# Fixed a bug where the public/ private text in the server screen would say public after a game even though it was private.
+# Fixed a bug where the turning on the Non-VR flashlight with T wouldn’t play the sound if you had a UV Light in your hand.
+# Fixed a bug where the VR footsteps would play when you weren’t moving.
+# Fixed a bug where the VR footsteps would play the wrong sound effect.
+# Potential fix for the Smudge Sticks not working.
+# Fixed an issue where if you fell out of the main menu area you would not be teleported back.
+
+=== Changes ===
+
+# If you are playing solo, your sanity will now drop at 50% the normal rate.
+# Increased the area that you can use the Walkie Talkie and Journal for VR.
+# Updated German translation.
+
+=== New ===
+
+# Added a lot more names for the Ghosts.
+# Added text on the voice recognition test to tell you if the voice recognition is enabled.
+
+
+== Update #4 ==
+
+=== Fixes ===
+
+# Fixed the global voice chat/ walkie talkie being too loud.
+# Potential fix for not being able to use voice chat when in a game.
+# Fixed the collision of the windows on the farmhouse levels.
+# GPU and CPU optimisations for the CCTV.
+# Fixed a bug where items being held by players would despawn if that player disconnects or leaves.
+
+=== Changes === 
+
+# You will no longer lose your items if you crash or disconnect unless you were dead when it happened.
+# Removed the condition where only one walkie talkie could be active at a time.
+# Removed the Skeletons on Tanglewood in the dead zone.
+# Removed the "Quit Game" buttons in the pause menu.
+
+=== New ===
+
+# The Spirit Box will now say "Nothing Detected" when it fails it’s reply conditions.
+# Your default non grabbing hands will now rotate with your controller rotation settings.
+# Added a message on the voice recognition test which will tell you if the voice recognition is setup correctly on your pc.
+# Added an "Are you sure?" screen to the VR pause menu.
+
+<br />
+
+= Update September 18, 2020 =
+----
+
+
+== Update #1 ==
+
+=== Fixes ===
+
+# Fixed a bug where the lobby browser wouldn’t show more than 4 servers.
+
+
+== Update #2 ==
+
+=== Fixes ===
+
+# Fixed some lighting issues on Tanglewood.
+# Fixed a bug where some areas were dropping your sanity even though the light was on.
+# Fixed a bug where the Ghost was not locking doors.
+# Potential fix for tall VR players getting stuck on some objects.
+# Fixed a spot in the Truck where VR players could glitch through the wall.
+# Potential fix for not being able to close the Truck door if someone disconnects.
+# Fixed a bug where the rocking chair would disappear.
+# Fixed a bug where the control screen input text wasn’t being set to your current input when you loaded back to the menu.
+# Potential fix for the Samsung Odyssey not being supported.
+# Potential fix for a lot of systems not being run if a player leaves or disconnects during loading.
+
+=== Changes ===
+
+# Viveport and Steam players will now only be able to play with each other as long as they are on the same update. Since Steam updates are instant and Viveport takes 5 days there may be times where Viveport and Steam players can’t connect to each other. This will only be for the first month after release.
+# You no longer have to open the main door to be able to close the Truck.
+# Increased the delay for when you get sent back to the main menu after dying when playing solo.
+# Lowered the amount of time you need to be in the same room as the Ghost for the general phrase recognition to work from 5 to 2 seconds.
+# Updated Spanish translation.
+# The lobby will now stay as either public or private after a game depending on what you had before.
+
+=== New ===
+
+# The controls page will now automatically swap between controller and keyboard controls if your control scheme changes.
+# Added an extra screen when you first launch the game to tell you how to setup voice recognition.
+# Added an error message on the voice recognition test which should tell you if something is wrong.
+# Added a button to kick players from the server.
+
+<br />
+
+= Update September 17, 2020 =
+----
+
+
+== Fixes == 
+
+# Potential fix for sometimes getting a black screen when loading back to the main menu.
+# Fixed a bug where VR players couldn’t enter the training level.
+# Fixed a bug where non host players could make the server private.
+
+== Changes ==
+
+# You can no longer place a Tripod on the VR Inventory Belt.
+
+<br />
+
+= Update September 16, 2020 =
+----
+
+
+== Fixes ==
+
+# Fixed a bug where the "training complete" message wasn’t showing after completing the training level.
+# Fixed a bug where players who were not connected to the server would not load back onto the main menu.
+
+== Changes ==
+
+# Players who play the training level or play solo will now be forced to disconnect from the server to free up a server slot.
+
+<br />
+
+= Update September 15, 2020 =
+----
+
+
+== Changes ==
+
+# The Viveport build will now automatically swap to the Youtuber/ Arcade version if you play using the arcade license.
+# Updated localisation.
+# Viveport and Steam players will not be able to play with each other until an update hopefully on launch day.
+[[ru:Обновления]]
+[[Category:Development]]

@@ -1,0 +1,58 @@
+# 0.9.1.0
+# revid 23993  2026-06-28T21:44:07Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 00c208ce02ae5cf69a17d978d5c6247dcf05a34340305a13e3f92d10323f0406  bytes 3399
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | image1=091-banner.png
+  | official_name=Halloween Event
+  | release_date=26 October 2023
+  |planned_release_date=
+  | previous_major_version=[[0.9.0]]
+  | previous_minor_version=[[0.9.0.10]]
+  | next_minor_version=[[0.9.2.0]]
+  | next_major_version=[[0.10.0]]
+}}'''0.9.1.0''', also known as the '''Halloween Event''' update, is a minor update released on 26 October 2023.<ref>[https://steamcommunity.com/games/739630/announcements/detail/6391229148051190152 ''Halloween Event | Update v0.9.1.0''. 26 October 2023 (on Steam).]</ref> Past the titular event, it features a rework of [[Maple Lodge Campsite]], as well as some assorted fixes and changes.
+
+== Halloween ==
+* Halloween Event 2023 has been added, instructions can be found in-game on how to receive this year's spooky ID-card badge and trophy! The event will last around 2 weeks!
+* Maple and Prison are temporarily unlocked at level 1 to allow new players to complete the event
+
+== Additions and Changes ==
+* Maple Lodge Campsite has had a complete layout revamp, featuring a new reception building, two separate campsite areas, new assets and areas, more hiding spots and greatly improved performance
+* Added new rain sounds in both campsites when inside tents, inside the toilet block or under draped tarp
+* Added Temporal Anti-Aliasing option in the journal (Provides a higher quality AA method than FXAA and SMAA, but lower quality than MSAA)
+* The EULA has been updated (2.2, 7.1, 7.2 and 10.4)
+* Several icons have been replaced across the main menu and contract selection screens
+* You can no longer light objects using 'Interact' (default: Mouse 1)
+* To help with performance in the truck, the CCTV monitor will now only turn on when you are standing nearby, and it will now display a screensaver when disabled
+
+== Fixes ==
+* The Monkey Paw now has the correct textures again
+* You can now take a photo of the haunted mirror on Ridgeview, whilst it is on the wall
+* In Training, you can now open/close the truck doors in VR
+* Several fingerprints are no longer visible when you don’t have UV evidence
+* Crucifix T2 should now consistently give both “interaction” and “burned crucifix” photos
+* The haunted mirror will no longer get detected on the parabolic microphone or sound sensors if not being held or used
+* The Camp Woodwind entrance gate will no longer say “Maple Lodge campsite”
+* Video cam no longer breaks if swapped into inventory when CCTV is on the last camera
+* Lighters can no longer light some candles, firelights and the campfire when not lit
+* Summoning circle photos will no longer take priority over other photos as often
+* If you die in foggy weather, future games in foggy weather now show the fog correctly
+* Many performance improvements, especially in multiplayer and in the truck
+* Placing equipment on the wall in some areas of Sunny Meadows will no longer teleport the equipment back to the truck
+* Bone photos will now work more reliably
+* Firelight T2 now correctly lasts 5 minutes instead of 3 minutes
+
+== Known Issues (as of 26/10/23) ==
+* The in-game version number will show as 0.9.0.11
+* Terrain is currently showing inside Sunny Meadows
+* Ghost footstep sounds are currently sometimes incorrect in Maple Campsite
+* The bear trap interaction photo does not work
+
+==References==
+{{Reflist}}
+
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.9.1.0]]
+[[ru:0.9.1.0]]

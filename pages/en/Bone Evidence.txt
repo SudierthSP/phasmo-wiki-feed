@@ -1,0 +1,108 @@
+# Bone Evidence
+# revid 24635  2026-09-12T16:52:43Z  by Darkhooper
+# 备注: where the bone can spawn / journal mention
+# sha256 110aca34f7e9d740665471472c0a0aba7cc1e6273d1fa55778a84efc284b1cdf  bytes 4071
+# 源: https://phasmophobia.fandom.com/api.php{{Item Template
+|img=Bone_spine_0.4.0.png
+|imgcaption=A spine bone laying on the ground.
+}}The bone is a collectible item that can be found on all maps.
+
+==Mechanics==
+Every contract, one bone will spawn in a random location that is accessible to the ghost, within a room that can be chosen as a [[Ghost Room|favourite room]]. One bone type of the human body will be randomly chosen for each contract.
+
+The player can {{Control|pick up}} the bone, causing it to disappear and be marked as collected in the [[journal]]. The bone cannot be made to reappear for the rest of the [[contract]] once it has been picked up. Picking up the bone does not count against how many items one can carry.
+
+Once a type of bone has been picked up for the first time, it will appear in the display case in the [[lobby]]. Certain bones (such as hands and feet) must be collected twice to complete the collection.
+
+===Rewards===
+{{Main|Media}}
+Taking a picture of the bone will yield up to $7 and 7 XP depending on the tier of the [[Photo Camera]] and whether there is a Unique stamp.
+
+Separately, picking up the bone will also yield the following base rewards, which will vary based on [[map]] size:
+{| class="article-table"
+!Map size
+!Money ($)
+!Experience (XP)
+|-
+!Small
+|25
+|25
+|-
+!Medium
+|35
+|35
+|-
+!Large
+|50
+|50
+|}
+
+===Types of bones===
+[[File:Complete Bone Case 10-27-2022.jpg|thumb|400x400px|A completed bone case in the lobby.]]
+Top Shelf (Left to Right):
+*Spine
+*Skull
+*Jaw
+*Right Scapula
+*Left Scapula
+
+Middle Shelf (Left to Right):
+*Right Hand
+*Right Humerus
+*Right Ulna
+*Right Radius
+*Ribcage
+*Left Radius
+*Left Ulna
+*Left Humerus
+*Left Hand
+
+Bottom Shelf (Left to Right):
+*Right Foot
+*Right Fibula
+*Right Femur
+*Pelvis
+*Left Femur
+*Left Fibula
+*Left Foot
+
+==Tips==
+*As the bone's spawn location is relatively random, the bone may be hard to find. As a general rule of thumb, if you cannot stand in a particular spot (on top of kitchen counters, cabinets etc.), the bone is unlikely to spawn there. Bones should not spawn in closets, lockers, and small tents, since the ghost technically cannot enter them. With that being said, it should be noted that these delimitations are ''not'' foolproof, certain factors such as physics glitches or areas erroneously marked as pathable by the ghost may cause the bone to spawn in unexpected locations such as on top of furniture or in bathtubs.
+*Having bones that are thin or camouflage into the background may increase the difficulty of finding them, though it is also possible to miss bones that are in plain sight.
+*If you have not found the bone a while after completing other objectives and identifying the ghost, it may be wise to move on to avoid wasting time (and potentially lives) looking for it.
+*Dead players are able to see the bone, so searching for the bone may give them something to do while waiting for the game to finish. They could potentially lead the remaining living players to the bone by throwing an object to guide the way.
+*To maximise rewards, take a picture of the bone before picking it up.
+
+==Trivia==
+*Prior to [[0.4.0]], the model of the bone appeared to be the femur (thigh bone) of a chicken.
+*The skeleton that you collect is missing the Tibia; the main bone of the lower leg. The Fibula, which you can collect in game, is the smaller bone of the lower leg that does not carry any weight while walking. The equivalent two bones of the lower arm, the Radius and Ulna, can both be collected.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+! rowspan="2" |3 March 2020
+|Added Bones to the game.
+|-
+|One bone will spawn in the building per contract.
+|-
+! colspan="2" |Early Access
+|-
+!29 October 2020
+|Bones will now tend towards the middle of the room.
+|-
+![[0.4.0]]
+|Replaced the bone model with new random bone models.
+|-
+![[0.7.2.0]]
+|Bones will now only spawn in areas accessible by the ghost.
+|-
+![[0.9.0]]
+|Rewards for collecting the bone will no longer be affected by the reward multiplier.
+|}
+
+==See also==
+*[[Photo Camera]]
+[[Category:Item]]
+[[fr:Os]]
+[[ru:Кость]]

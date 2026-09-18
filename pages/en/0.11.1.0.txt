@@ -1,0 +1,47 @@
+# 0.11.1.0
+# revid 23884  2026-06-28T21:35:53Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 7911b156edf87ee93bbd690f70695cb31ed4c0fb91e1e90e17f43e49ebc052d9  bytes 2050
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | image1=Winters Jest.jpg
+ | official_name=Winter's Jest
+ | release_date=11 December 2024 (Official Partners early access)<br>12 December 2024 (public release)
+ | previous_major_version=[[0.11.0]]
+ | previous_minor_version=[[0.11.0.3]]
+ | next_minor_version=[[0.11.1.1]]
+ | next_major_version=[[0.12.0.1]]
+}}'''0.11.1.0'''<ref group="note">Shown as 0.11.0.4 on the [[main menu board]].</ref>, also known as the '''Winter's Jest''' update, is a minor update released on 12 December 2024.<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-wintersjestupdate ''Winter’s Jest - Phasmophobia 0.11.1.0''. 12 December 2024.]</ref><ref group="note">Official Kinetic Games Partners were given early access keys on 11 December 2024.</ref> It adds the Winter's Jest event.
+
+==Additions==
+*Added the [[Special events#Holiday 2024|Winter's Jest event]]
+*The Achievement Hunter challenge has been added to the Event Board.
+**''Players will need to play 1 game to receive the Achievement Hunter badge.''
+
+==Changes==
+*Main Menu navigation can now loop between menus.
+**Example: Players can now navigate ''Contract Board > Main Board > Shop > Contract Board > Main Board > Shop > Contract Board'' etc.
+
+==Fixes==
+;All Platforms
+*The most played map stat will now track the correct map.
+**''Note: This will only work for new maps played after this change.''
+*Fixed several issues that were causing crashes.
+*Players can now rebind global push to talk.
+*Fixed an issue that was causing Blood Moon reflections in the Edgefield death room.
+*Fixed an issue that caused the seasonal event clock to count down to an incorrect date for some players.
+
+;PS5
+*Foveated Rendering will no longer cause the screen to wobble
+
+==Known Issues==
+*Navigating left of the main menu will get you stuck on the future leaderboard location.
+*When loading in to a map, white squares may appear on each side of the player’s screen.
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.11.1.0]]
+[[ru:0.11.1.0]]

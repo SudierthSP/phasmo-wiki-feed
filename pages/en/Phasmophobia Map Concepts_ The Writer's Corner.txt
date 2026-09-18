@@ -1,0 +1,17 @@
+# Phasmophobia Map Concepts: The Writer's Corner
+# revid 6763  2021-09-29T21:24:08Z  by Whiteheart7
+# sha256 2974b1a9b096eb7b7611532a697682c6ccac310db06fabf5d54d2e71c7f2cffd  bytes 1024
+# 源: https://phasmophobia.fandom.com/api.phpJust a small sidepage I made for the creative Supporters of this game, enjoy.
+[[File:PhasmophobiaOffice Floorplan.jpg|thumb|'''Office Floorplan''']]
+[[File:PhasmophobiaRetirement Floorplan.jpg|left|thumb|'''Retirement Home Floorplan''']]
+[[File:PhasmophobiaVictorianTanglewoodFloorplan.jpg|thumb|'''Victorian House Floorplan''']]
+[[File:PhasmophobiaStudioFloorplan.gif|left|thumb|'''Studio Floorplan''']]
+[[File:PhasmophobiaStreethouse1Floorplan.jpg|left|thumb|'''Streethouse #1 Floorplan''']]
+[[File:PhasmophobiaStreethouse2Floorplan.jpg|thumb|'''Streethouse #2 Floorplan''']]
+[[File:PhasmophobiaDakotaStreethouseFloorplan.jpg|thumb|'''Streethouse #4 Floorplan''']]
+[[File:PhasmophobiaStreethouse3Floorplan.jpg|left|thumb|'''Streethouse #3 Floorplan''']]
+[[File:PhasmophobiaGasStationFloorplan.jpg|left|thumb|'''Gas Station Floorplan''']]
+[[File:PhasmophobiaCabin Floorplan.jpg|thumb|'''Cabin Floorplan''']]
+[[File:Phasmophobia Theatre Floorplan.jpg|left|thumb|'''Theatre Floorplan (Incomplete)''']]
+
+[[Category:Community]]

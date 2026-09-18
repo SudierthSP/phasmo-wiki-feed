@@ -1,0 +1,5 @@
+# 0.4.0
+# revid 1324  2021-10-29T03:06:42Z  by Qsefthuopq
+# 备注: 重定向页面至[[万圣节更新]]
+# sha256 756fed228981c531422351eea2d816c0b51abfb4c89642588366461b2537f7ab  bytes 29
+# 源: https://phasmophobia.fandom.com/zh/api.php#redirect [[万圣节更新]]

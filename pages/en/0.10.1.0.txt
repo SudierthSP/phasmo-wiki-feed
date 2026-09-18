@@ -1,0 +1,75 @@
+# 0.10.1.0
+# revid 23877  2026-06-28T21:35:14Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 99b2caa05e4447498a9f370ea25294c1d42db3cbd1dd706f20ef680d2f366b51  bytes 4361
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=13 August 2024
+ | previous_major_version=[[0.10.0]]
+ | previous_minor_version=[[0.10.0.1]]
+ | next_minor_version=[[0.10.1.1]]
+ | next_major_version=[[0.11.0]]
+}}'''0.10.1.0''' is a minor update released on 13 August 2024.<ref>[https://store.steampowered.com/news/app/739630/view/4325229998951357510 ''Photo Deletion and Vivox | Minor Update v0.10.1.0''. 13 August 2024 (On Steam).]</ref> This update brings a new voice chat system, a photo deletion system, and fixes some bugs.
+
+==Additions==
+*Two photos can now be removed from the journal
+**You cannot remove 3-star photos
+**While in multiplayer games, players will vote on whether a photo should be removed or not
+**UI has been added to the photo journal pages to show the amount of photo removals available
+
+==Changes==
+*The lantern room has been split into different ghost rooms to avoid confusion and fix sensor placement:
+**Lantern room top
+**Lantern room bottom
+*Removed BHaptics support
+*Improved player movement to help it feel much smoother and experience less stuttering
+*Head bob now only bobs when you're moving
+*Wheelchairs will no longer be pushed when interacting with, a new interaction will be added to these wheelchairs further in development
+*The fuse box on Point Hope will now only spawn in the entry house, kitchen, games room, and master bedroom floors 
+*Lowered the volume of the Tanglewood landline phone interaction
+*Lowered the volume of the airball ghost event
+
+;Vivox
+*The multiplayer voice chat system has been changed from Photon Voice to Vivox. Voice recognition is unaffected by these changes. This new system has:
+**Higher quality audio
+**Support for a wider range of microphones and headphones
+**Echo cancellation
+**Noise suppression
+**Fixed the issue where the ghost can't hear you during single-player
+**Global chat will no longer suddenly stop working
+
+==Fixes==
+*DOTS III light will no longer stop emitting when placed in certain areas
+*The sound sensor icons will now face the correct direction on the mini-map
+*The lighthouse tent door in Point Hope is no longer invisible when viewed through parabolic glass
+*Adjusted the broken fuse box sparks to stop them from going through floors
+*You can no longer walk up the broom in the Point Hope maintenance room
+*Phantoms will now disappear when taking a photo of them with a full journal
+*Several plates now have more accurate collision
+*Moved some assets to stop players from getting stuck behind the fire gate in the Point Hope games room
+*Players will no longer jitter when going up the top-level stairs in Point Hope
+*Players will no longer get stuck when travelling down the inside of top-level stairs in Point Hope
+*Fixed the rendering artefacts on Point Hope's upstairs doors
+*It is now possible for VR players to acquire the Ferryman badge
+*You can now sprint when you die if your sprint setting is set to "Off" 
+*Players can no longer climb certain objects after traversing staircases
+*You can now achieve the poltergeist and revenant achievements with a mimic
+*The banshee's "ability used" stat will now only count if the Banshee reaches a player's position during its targeted wander
+*Shades will now consistently work as intended when players leave the room
+*Goryo will now give DOTS evidence correctly when there are no players in the same room as the ghost
+*The spirit box will provide evidence more consistently when the ghost only responds to "alone" players
+*Ghost events will no longer occur with no one in the location
+*When using a gamepad, you will no longer buy and sell items in the shop unintentionally, at the same time as enabling/disabling/resetting your loadout
+*The VR teleport stamina visuals will now display correctly
+*If your ID badge gets removed due to it not being unlocked, you no longer have to select a new role to be able to play the game
+*Improved the spawn positions of the bone in Point Hope
+*Blocking an "I wish to see the ghost" hunt with a tier III crucifix, will no longer leave the player who wished permanently blind
+*The VR loading screen will now fade to black correctly when loading Training
+*You can now place video cameras consistently on tripods in VR
+*Banshees entering their DOTS state will no longer increase the ability used stat
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.10.1.0]]
+[[ru:0.10.1.0]]

@@ -1,0 +1,117 @@
+# Deogen
+# revid 24658  2026-09-13T20:16:09Z  by Darkhooper
+# sha256 68e81db0e6cbd338dca23c36787fa9447c5aab0ac84bc38910f97eb83040cdd2  bytes 9809
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Deogen Discovered.jpg
+ |strength= *Always knows where players are during a hunt
+*Moves at a high speed with no player nearby
+ |abiliti(es)=*Can produce a unique response through the Spirit Box
+ |weakness(es)=*Significantly slows down when near its target
+*Has a lower hunt sanity threshold
+ |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=|link=D.O.T.S. Projector (Evidence)]]
+ |Evidence2=[[File:ClosedBook_Render.png|24x24px|alt=|link=Ghost Writing]]
+ |Evidence3=[[File:SpiritBox_Render.png|24x24px|alt=|link=Spirit Box (Evidence)]]
+}}{{Quote
+ |quote=Sometimes surrounded by an endless fog, Deogen have been eluding ghost hunters for years.<br>These ghosts have been reported to find even the most hidden prey, before stalking them into exhaustion.
+ |speaker=The Journal
+}}The '''Deogen''' is a type of [[ghost]] in ''Phasmophobia''. It has a talent for quickly rushing down players during a hunt no matter where they are, but is slow to approach when closing in for the kill.
+
+==Behaviour==
+===Activity===
+If the player asks any question through the [[Spirit Box]] while standing within 1 metre of the Deogen, it has a 33% chance with each question to produce a unique response of constant heavy bull-like breathing, instead of a regular response.
+
+[[File:Deogen Breathing.mp3]]
+
+The Deogen is more likely to interact with [[door]]s compared to most other ghosts (30% chance instead of the 25% chance for a standard ghost).
+
+===Hunt===
+The Deogen's [[hunt]] sanity threshold is 40%, instead of the usual 50%.
+
+During a hunt, the Deogen always has line-of-sight with all players on the map; in other words, it does not use the "roaming" mechanic. When the hunt begins, the Deogen will pick the nearest player (by straight-line distance) to move towards. It will focus that player for 10 seconds before being able to check and repick the nearest target every 5-10 seconds throughout the hunt. One can also use [[Incense]] to stun the Deogen temporarily and force it to change its target when the smudge effect runs out.
+
+The Deogen moves at a speed based on its ''pathfinding'' distance to the target player and does not speed up due to line-of-sight:<ref>[https://www.reddit.com/r/PhasmophobiaGame/comments/v9q6my/-/ibyruhn ''"It's got nothing to do with LOS."'' cjdxn4, Developer (on Reddit). 11 June 2022.]</ref> <math>0.15 \text{m/s} \times 2^{\text{pathfinding distance} - 1}</math>, with a maximum limit at 3 m/s (above 5.32 m) and a minimum limit at 0.4 m/s (below 2.42 m).
+
+During an incense's blinding effect, the Deogen's speed is set at 0.4 m/s if the [[difficulty]] uses a 50%, 75%, or 100% ghost speed, and at 1.6 m/s if the difficulty uses a 125% or 150% ghost speed.
+
+During a hunt, the Deogen [[Hunt#Ghost flickering|flickers]] and is visible for longer compared to most other ghosts:
+{| class="fandom-table"
+!Ghost
+!Baseline timers (s)
+!Visibility timers (s)
+!Visibility rate during hunt
+!Example
+|-
+|Standard
+|0.60 / 0.46 / 1.00 / 0.82 / 0.30 / 0.48 / 0.70 / 0.82 / 0.45 / 0.36
+|0.22 / 0.18 / 0.08 / 0.28 / 0.20 / 0.16 / 0.25 / 0.18 / 0.22 / 0.10
+|30.7% - 33.2%
+|[[File:Flickering Standard.gif|50px]]
+|-
+|Deogen
+|0.45 / 0.40 / 0.55 / 0.60 / 0.32 / 0.48 / 0.40 / 0.55 / 0.50 / 0.30
+|0.22 / 0.25 / 0.21 / 0.28 / 0.23 / 0.30 / 0.24 / 0.29 / 0.21 / 0.24 / 0.28 / 0.26 / 0.27
+|53.1% - 56.5%
+|[[File:Flickering Deogen.gif|50px]]
+|}
+<br>While players still die instantly within 1.1 metres of the Deogen, they die after spending 2 seconds within 1.5 metres of the Deogen instead of 1 second with other ghosts.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:DOTS_projector_sprite.png|24x24px|alt=|link=D.O.T.S. Projector (Evidence)]] [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|[[File:ClosedBook_Render.png|24x24px|alt=|link=Ghost Writing]] [[Ghost Writing]]
+|[[File:SpiritBox_Render.png|24x24px|alt=|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
+|}</center>
+On difficulties with only 1 or 2 evidences (e.g. Nightmare), the Deogen always has Spirit Box as one of its pieces of evidence due to its unique response.<ref>[https://discord.com/channels/435431947963990026/1254572878310019147/1254573797864902758 From #ghost-huntin-resources on the Discord server. 24 June 2024.]</ref>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: '''Deogens''' constantly sense the living. You can run but you can't hide.''
+
+''Weakness: '''Deogens''' require a lot of energy to form and will move very slowly when approaching its victim.''
+
+==Strategies==
+===Hunt===
+If you have not ruled the Deogen out, it is best to choose a hiding spot which you can easily leave before the Deogen corners you, or have [[Incense]] prepared. Once a Deogen is close enough to the player for its weakness to kick in, it becomes the slowest ghost in the game. Provided players do not accidentally trap themselves in a tight space with no way out, surviving a Deogen is trivial as it is impossible for it to catch up to its targets so long as they keep moving, as it becomes extremely slow, much slower than the player's default movement speed, and can be extremely easily looped; on bigger maps such as [[Sunny Meadows Mental Institution|Sunny Meadows]] or [[Brownstone High School]], the player might not even have to loop it, and can simply walk around the map and lead it on a tour (as long as they don't accidentally go into a dead end).
+
+It is worth noting that when the Deogen is stunned with smudge sticks, it will maintain the speed at it was at when affected; in most cases, the Deogen will be moving at its minimum speed, meaning that the Deogen will only roam a very short distance before being able to chase players again.
+
+When playing in multiplayer, keep server lag in mind; if you misjudge the ghost's server-side position and move away too late, it may kill you. To avoid this, try not to cut it too close with looping and moving around the ghost especially if your connection is poor, and stay a moderate distance away; Since the Deogen only switches targets periodically and not in real time based on distance, avoid having players stand behind each other to prevent the Deogen from rushing into another player to reach its target, because the Deogen ''can'' kill non-targets unlike the [[Banshee]].
+
+===Identification===
+The most straightforward form of identification is for the ghost to hunt and reveal its dramatically different hunting behaviour; if it approaches the nearest player at high speeds and slows down drastically as it approaches, then it is a Deogen. Note that some other ghosts (e.g. a "young" [[Thaye]], a [[Revenant]] that has detected someone, or a [[Deildegast]] without much interactions) may move at similar speeds, but without slowing down drastically (if at all); mistaking them for a Deogen can be deadly. A non-hunt way would be to constantly track the ghost and look for the signature heavy breathing through the spirit box, though this will be more tedious, especially in large rooms. The easiest way to do this is using a Tier III [[Motion Sensor]]; because the spherical radius of the sensor is only slightly larger than the distance required to obtain heavy breathing, using the Spirit Box on top of the Motion Sensor when it triggers has a good chance of producing the unique Deogen response.
+
+===Miscellaneous===
+Deogens are among the easiest ghosts to take a ghost photo of, partly due to being invisible for shorter and visible for longer, and partly due to their hunt mechanics making them easily looped, giving players plenty of time to snap a photo; keep a photo camera handy if needed.
+
+If the player has to temporarily step away from an ongoing game for whatever reason, remember to move outside the investigation area before stepping away; staying in a hiding spot will not work against a Deogen, which will find and kill the player when it starts hunting.
+
+==Trivia==
+*The ghost is based on the "De Ogen", from a supposed tale in the Flemish book "''De Kinderen van Het Bezeten Bos''" (lit. "Children of the haunted forest") about a strange yellow-eyed fog haunting the Sonian Forest in Belgium. There is no proof such a book exists or if it was based on an older tale.
+*Because the Deogen always has line-of-sight with all players, most "safe spots" that take advantage of a lack of line-of-sight will not work, resulting in death. In fact, this may also result in the Deogen killing players through walls that are sufficiently thin.
+*The Deogen cannot be the ghost selected for the contract if the lobby's host is below Prestige 0 Level 30. This is due to the Deogen's hunt mechanics being so drastically different from other ghosts that new players still learning the hunt mechanics would be too confused by it.
+**This piece of information was first [https://www.reddit.com/r/PhasmophobiaGame/s/eWFCnRP7y8 shared] by u/BigMeikLIVE on the Phasmophobia subreddit then [https://www.reddit.com/r/PhasmophobiaGame/s/HXwZdDYptR tested] by some people before Trial Moderator Skreekaw on the Discord server ultimately got confirmation<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1348625820297723995 From #phasmo-chat on the Discord server. 10 March 2025.]</ref> by Lead Developer Dknighter on 11 November 2024.
+**[[The Mimic]] can still, however, imitate the Deogen before Prestige 0 Level 30.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.6.2.0]]
+|Added Deogen.
+|-
+![[0.6.2.1]]
+|Updated Deogen weakness description to stop some confusion.
+|-
+![[0.9.0]]
+|The Deogen no longer has an increased chance to interact with the [[D.O.T.S. Projector]] or the [[Ghost Writing Book]].
+|}
+
+==References==
+{{Reflist}}
+{{Ghost nav}}
+[[fr:Deogen]]
+[[ru:Деоген]]
+<!--[[zh:雾影]]-->
+[[Category:Ghosts]]

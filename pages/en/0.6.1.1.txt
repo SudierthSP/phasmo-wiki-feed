@@ -1,0 +1,32 @@
+# 0.6.1.1
+# revid 23951  2026-06-28T21:40:44Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 e969182860ca42ca32836be69e01bfae55b4e01d5a189100ae079f18d182f949  bytes 1120
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=12 April 2022
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.1.0]]
+  | next_major_version=[[0.7.0]]
+  | next_minor_version=[[0.6.1.2]]
+}}The '''0.6.1.1''' update is a minor update to the game released on 12 April 2022.<ref>https://store.steampowered.com/news/app/739630/view/3178986769797085048</ref> This update makes a further adjustment to a hiding spot and fixes bugs.
+
+== Changes ==
+=== Gameplay ===
+==== Map adjustments ====
+;[[Tanglewood Street House]]
+*Added some boxes in the Tanglewood nursery hiding spot
+
+== Bug fixes ==
+*Fixed a bug where dirty water glowed in the dark
+*Fixed a bug where hiding spot clutter objects were not synced between players
+*Fixed a bug where you could hear dead non-VR players talk
+*Fixed a bug where the new Tanglewood hiding spots wouldn't always work
+*Fixed an exploit where you could push yourself into the wall and not get killed
+*Fixed an issue where toggling seated mode whilst crouched would set you to the wrong height
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.6.1.1]]
+[[ru:0.6.1.1]]

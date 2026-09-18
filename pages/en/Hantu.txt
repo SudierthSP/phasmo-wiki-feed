@@ -1,0 +1,130 @@
+# Hantu
+# revid 24456  2026-08-14T21:22:36Z  by Darkhooper
+# 备注: freezing breath frequency
+# sha256 f41191cf290405ca32fb58456a6b8b7bb60774b39d525272ffba1b8fb942f515  bytes 8909
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Hantu Discovered.jpg
+ |abiliti(es)=*Can emit frosty breath when hunting with the breaker off
+ |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
+ |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
+ |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
+ |strength=*Moves quicker in colder areas during hunts|weakness(es)=*Moves slower in warmer areas during hunts
+}}{{Quote
+ |quote=A Hantu is a rare ghost that thrives in the coldest climates. The cold seems to make them more aggressive and empowered.
+ |speaker=The Journal
+}}The '''Hantu''' is a type of [[ghost]] in ''Phasmophobia.'' They are known for their increased speed in colder rooms, which can make them an unexpected threat during a [[hunt]].
+
+==Behaviour==
+===Activity===
+The Hantu cannot turn on the [[Fuse Box|fuse box]], and is twice as likely to turn it off. This makes it slightly less likely to perform [[Ghost Event|ghost events]].
+
+===Hunt===
+During a hunt, the Hantu's speed is affected by the temperature of the room that it goes through:
+{| class="article-table"
+!Room temperature
+!Ghost speed (m/s)
+|-
+|> {{Temperature|15}}
+|1.4
+|-
+|{{Temperature|12|15}}
+|1.75
+|-
+|{{Temperature|9|12}}
+|2.1
+|-
+|{{Temperature|6|9}}
+|2.3
+|-
+|{{Temperature|3|6}}
+|2.4
+|-
+|{{Temperature|0|3}}
+|2.5
+|-
+|< {{Temperature|0}}
+|2.7
+|}
+Unlike most other ghosts, the Hantu does not have line-of-sight acceleration during hunts.
+
+During a [[hunt]], the Hantu will emit freezing breath every 3 seconds near its head in any room as long as the fuse box is off. Dead players cannot see this breath. As this is not actual "[[evidence]]", it can appear on any [[difficulty]].
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]] [[Freezing Temperatures]]
+|[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]] [[Ghost Orb]]
+|[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]] [[Ultraviolet]]
+|}</center>
+On limited evidence (1 or 2 evidence) games, a Hantu will always have Freezing Temperatures as one of its evidence types.
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: Lower temperatures allow the '''Hantu''' to move at faster speeds.''
+
+''Weakness: '''Hantus''' move slower in warmer areas.''
+
+==Strategies==
+Temperature plays an important role in both identifying and defending against a Hantu. In general, Hantus will be most powerful within and near the ghost room, where low and freezing temperatures are most likely to be. Thus, it is important that players get away from the ghost (room) as soon as a hunt begins, as the Hantu can quickly catch someone within its vicinity. Hantus are particularly dangerous during Light Snow [[weather]], especially on the outdoors maps of [[Maple Lodge Campsite]] and [[Camp Woodwind]], as ambient room temperatures will generally be lower if the fuse box is off, boosting their speed during a hunt.
+
+In general, leaving the breaker turned on is a safer strategy, though one can also turn it off to aid in identification, if needed.
+
+===Identification===
+There are three ways to identify a Hantu:
+*Leave the [[fuse box]] turned on for a while, then listen for its speed during a hunt. If it is faster in colder rooms (usually, but not always the favourite room), and slower than a normal ghost in a warm room, then it is a Hantu; this can usually be identified safely from a hiding spot, by using its notoriously uneven footsteps, with the rate of footsteps changing suddenly and seemingly randomly as it changes between different speeds.
+**If it is a [[Raiju]], then the ghost will be fast near active electronics and a normal speed outside a specified range. If this is a no-evidence game, try removing all electronics first. If at least one piece of evidence is provided, then having Freezing Temperatures as a piece of evidence will eliminate Raiju.
+**Similarly, if it is a [[Jinn]], it will speed up when spotting a faraway player, as the fuse box is turned on; have all players hidden out of sight to prevent a misidentification, or turn off the fuse box just before/during the hunt.
+**The [[Moroi]] can also speed up over several hunts or even during a hunt, but as a result of gradually lowering average sanity instead. Ensure that all players maintain their sanities at a constant level, and do not take [[Sanity Medication]]/use sanity-draining [[Cursed Possession|cursed possessions]] during a hunt, which induces a sudden, very noticeable speed change in a Moroi, possibly causing a misidentification.
+*The Hantu's ability to emit freezing breath when the breaker is off can be used to definitively identify it without [[evidence]], though it is more risky than the other strategies. Look closely! Use Incense to stun it while it's hunting.
+*Leave the breaker turned on for a while, then loop it around a large piece of furniture in a warm room during a hunt, carrying [[Incense]] to avoid death. If the ghost does not speed up with line-of-sight and does not have any other noticeable speed differences that could point towards another ghost, then it is likely a Hantu. It is worth noting the mere presence of the ghost in that room will cool it down and make it increasingly harder to loop over time; this is usually irrelevant in small maps which have shorter hunt durations, and looping a Hantu for an entire hunt is feasible, but on medium and large maps and/or when the hunt duration is extended by cursed hunts, such looping should not be done over an extended period of time, or alternatively one should utilize a loop or series of loops that spans multiple rooms.
+**For reference, if the player is continuously sprinting off-cooldown, their average speed is 2.125 m/s; this means the Hantu is significantly slower than the player in rooms that are >12°C, roughly the same speed in rooms that are 9-12°C, and faster than the player in rooms that are <9°C. Having a tier I [[Thermometer]] out while looping the ghost can help identify when temperatures are approaching dangerous levels and the player should switch to loop in another room/find a hiding spot.
+**If ambient temperatures are high and the player is confident enough in their looping skills, the player can opt to loop the ghost with the breaker off instead, allowing them to look for a Hantu's signature freezing breath at the same time.
+
+If you do not obtain [[Freezing Temperatures]] as one of the ghost's types of evidence on a limited evidence custom game (1/2 evidence), then the Hantu can be safely ruled out. It also cannot turn on fuse boxes, so if this happens, the ghost is not a Hantu.
+
+The Hantu is one of three ghosts (the others being the [[Kormos]] and [[Onryo]]) for which you can collect all three pieces of evidence without excluding [[The Mimic]]. Therefore, before concluding you're dealing with a Hantu, confirm that it is actually a Hantu using the above methods and/or check whether the [[Spirit Box]] gives a response. If it does, you have The Mimic instead.
+
+The Hantu is slightly less likely to perform ghost events, as turning off the fuse box uses the same [[ability]] state as ghost events; especially with Event frequency set to Low, the difference is statistically significant (~29% instead of ~41%), although at that level ghost events are infrequent and random enough that this cannot really be used as a reliable tell. Moreover, a [[Shade]] will be even less likely to perform ghost events due to its less active nature.
+
+==Trivia==
+*"Hantu" translates from the Indonesian/Malay languages to spirit or ghost, and generally refers to spirits of the dead, but they can also be other invisible supernatural beings such as Demons. In mythology, Hantus vary widely and don't necessarily have to be evil.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.29.6]]
+|Added Hantu.
+|-
+![[0.3.0]]
+|Prior to 0.3.0, the evidence was [[Fingerprints]], [[Ghost Orb]], and [[Ghost Writing]].
+|-
+![[0.5.0]]
+|Hantu now emits freezing breath when manifested.
+|-
+![[0.5.0.2]]
+|Hantu’s freezing breath will now only be visible in freezing temperature rooms.
+|-
+! rowspan="2" |[[0.5.1.0]]
+|Freezing Temperatures is now guaranteed as one of the Hantu's evidences on Nightmare difficulty.
+|-
+|Dead players can no longer see the Hantu's freezing breath.
+|-
+! rowspan="2" |[[0.5.2.0]]
+|Changed the Hantu's speed brackets.
+|-
+|Increased the chance of the Hantu turning off the breaker.
+|-
+! rowspan="2" |[[0.5.2.1]]
+|Hantus can no longer turn on the fuse box.
+|-
+|Further changed the Hantu's speed brackets, making it faster in colder rooms.
+|-
+![[0.8.0]]
+|Cold breath will now animate in any room during hunts if the breaker is off.
+|}
+{{GhostNav}}
+[[ru:Ханту]]
+[[fr:Hantu]]
+[[Category:Ghosts]]

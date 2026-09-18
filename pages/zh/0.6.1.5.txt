@@ -1,0 +1,36 @@
+# 0.6.1.5
+# revid 1919  2022-04-21T13:21:25Z  by Qsefthuopq
+# sha256 ad50d30deb336e2a0090bdd46bee17a3a3800ef3d12dfbf3a3250e4a999b09e7  bytes 1128
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | release_date=20224月21日
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.1.4]]
+  | next_major_version=
+  | next_minor_version=
+}}
+'''0.6.1.5'''是发布于2022年4月21日的小型更新。<ref>https://store.steampowered.com/news/app/739630/view/3174484195240196297</ref> 
+本次更新移除了没删干净的彩蛋，更改一些视觉效果并修复漏洞。
+
+== 变更==
+=== 彩蛋 ===
+*移除布莱斯代尔和格拉夫顿农舍剩余的彩蛋
+
+=== 游戏玩法 ===
+*进一步优化清水和脏水效果，增加辨析度
+*优化希腊语字体
+**之后的更新将修复多个语言的字体问题
+
+== 修复漏洞 ==
+*火光阴影不再渲染在不透明几何体上
+*把小帐篷门帘拉的很长
+*帐篷门现在会跟随VR模式的手旋转
+*优化VR模式下塔罗牌和营地篮球的手持位置
+*在VR模式下投掷塔罗牌时不再飘浮
+*奔跑时打开手册不再消耗体力
+*如果你躲在衣柜门后而不在衣柜里，鬼现在会打开衣柜门
+*所有语言的语言识别测试功能失效
+
+==参考资料==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

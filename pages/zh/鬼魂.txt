@@ -1,0 +1,586 @@
+# 鬼魂
+# revid 4294  2026-08-29T23:04:51Z  by 0y0w
+# sha256 b18482150783eb44ae5664dd81992c2a664be6d6f4244ba416c4ce4e13ba23ca  bytes 20516
+# 源: https://phasmophobia.fandom.com/zh/api.php{{stub}}
+''{{about|不同类型的鬼魂|鬼魂活动相关信息|鬼魂活动}}''
+[[File:2.png|alt=|thumb|310x310px]]
+
+鬼魂是[[恐鬼症]]的重点。<big>''鬼魂''</big>''是猝死之人的灵魂''。玩家的主要[[目标]]是进入并探索废弃的[[地图|闹鬼之地]]以获取超自然[[证据]]。勘察[[鬼魂活动]]，''探明鬼魂类型''。鬼魂会随机与环境互动、触发[[鬼魂事件]]、甚至发起[[猎杀]]。
+
+== 行为 ==
+每次调查开始时，一个鬼魂在指定[[鬼魂房间]]生成。每个鬼都有随机生成的性别、名称、年龄、死亡时间、性格、[[鬼魂房间|最喜欢的房间]]和物理模型。鬼魂的行为（如移速和猎杀方式）仅受鬼魂类型影响，不受其它特征影响。
+
+调查中首次开[[出口门]]会启动鬼魂，使它可以与环境互动。鬼魂通常是隐形的，并可呆在原地、游荡、互动、使用特殊能力、触发鬼魂事件、猎杀等。即使出口门是开着的，鬼魂也不能离开调查区。
+
+如果玩家未解锁出口门进入调查区，鬼魂不会“激活”，即不互动、触发鬼魂事件和猎杀，但会留下部分证据。
+
+使用[[诅咒之物]]会强制鬼进行诅咒猎杀。
+
+以下为鬼魂的状态（非官方术语）。
+
+=== 独立状态 ===
+鬼魂不能同时处于两个独立状态。
+
+* '''静止'''：鬼魂静止不动2-6秒。
+
+* '''游荡'''：游荡分为短距离游荡和长距离游荡。鬼魂随机选取设定范围内的地点。然后再量路径是否符合限制。如果成功，鬼魂走向路径点，否则重复寻路步骤<ref>[https://clips.twitch.tv/InventivePlausibleGiraffeTakeNRG-BwqV8FU99njdrNUY ''How ghosts roam.'' Clipped from cjdxn (on Twitch). 10 July 2022.]</ref>
+**当鬼魂选择进行漫游时，短漫游或长漫游的几率取决于“漫游频率”难度设置：
+***低：短漫游 90%，长漫游 10%
+***中：短漫游 80%，长漫游 20%
+***高：短漫游 70%，长漫游 30%
+**短漫游最大 3 米，长漫游最大 12 米。
+
+* '''鬼房/鬼魂房间'''：鬼导航到该房间。
+
+* '''互动'''：鬼与一件物体互动。这个状态不包括吹火焰。如果鬼魂可以书写[[鬼魂笔迹]]，那么鬼魂不能由这个状态与鬼魂笔记互动。
+
+* '''鬼魂事件/灵异事件'''：鬼执行鬼魂事件。
+
+* '''猎杀'''：鬼开始猎杀。
+
+* '''能力'''：鬼使用特殊能力（能力可分为状态能力和被动能力，这里指的是状态能力）。以下鬼魂可触发能力状态：
+** 恶魔
+** 巨灵
+** 幻妖
+** 幻影
+** 捣蛋鬼
+** 孪魂（待确认）
+** 魅影
+** 幽灵
+注意：不只是拥有能力状态的鬼魂可在合约统计中显示能力次数。
+
+=== 非独立状态 ===
+非独立状态可以和独立状态同时发生（拥有限制）。也有一些不算真正“状态”的行为。
+
+*'''点阵'''：有[[点阵投影仪证据]]的鬼魂可处于点阵状态，经过点阵投影仪时会显现出轮廓。
+
+*'''火焰'''每个火焰（[[火光]]、[[点火器]]等）每 20 - 120 秒可独立被附近的鬼魂吹熄。<!--from meik disc testing-->
+
+*'''鬼魂笔迹'''：鬼魂每 45-90 秒有几率写笔迹，如果在书的附近。
+
+<!-- it is hypothesised that there is a minimum cooldown of 2 seconds between changing "independent" states.-->
+
+=== 可见性 ===
+在常规游戏中，鬼魂通常是隐身的，只有鬼魂事件、猎杀、和点阵状态（经过投影仪时）才看得见。猎杀时只会出现完全的身体，鬼魂事件则可以出现完全现身，半透明或黑影形态现身。还有，鬼魂模型与鬼魂类型并不相关，这意味着鬼魂的现身无法作为判断鬼魂类型的依据（除了女妖和达魇，她们只会是女鬼且使用女性鬼魂模型）。
+
+=== 干扰===
+在鬼魂现身或猎杀时，所有的电子设备（如手电筒和通灵盒）和房间电灯将在鬼魂周围 10 米的范围内失灵、闪烁（雷魂为 15 米）。
+
+=== 声音 ===
+在鬼魂现身或猎杀时，会发出不同的声音. 当鬼经过物体或者踩[[盐]]时会发出脚步声；对绝大多数鬼来说，这种声音可以传播 20 米.
+
+鬼也会定期发出脚步声，或者发出只有通过 [[收音器]]才能听到的超自然声音，这种超自然声音非常独特.
+
+值得注意的是，某些现象通常不限于一种单一类型的鬼。例如，绝大多数的鬼魂都能使[[水槽]]里出现[[脏水]]，在房间里乱扔东西，开关灯和门和[[电闸|拉闸]]。一些鬼的行为可能会更加活跃，比如[[骚灵]]有可能一次扔多件物体、[[赤鬼]]更喜欢触发鬼魂事件。还有，[[鬼魂模型]]与鬼魂类型无关，通常无法根据其外观判断出鬼魂类型（除了女妖和达魇，她们只会是女鬼且使用女性鬼魂模型）。
+
+所有类型的鬼都会现身，且不会在现身时猎杀。靠近现身的鬼魂（20 米范围）会听到鬼的声音和任何脚步声，10米范围并与鬼魂有视线会听到心跳声。
+
+以下仅为部分声音描述： 
+
+男鬼：
+
+* 连续的“呃”
+* 一声低沉的“哦”
+*沉重的喘息声
+*重复说话，如 “run”（跑）、“help me”（救我）等
+
+女鬼：
+
+* 咆哮声
+* 两种歌声
+* 哭泣声
+* 小孩的笑声
+
+== 鬼魂类型 ==
+目前游戏内共有30种鬼魂
+
+{| class="article-table" style="text-align: center; margin: auto; font-size: 120%;"
+|-
+| [[阿斯旺]] || [[女妖]] || [[达魇]] 
+|-
+| [[界灵|界灵/擾物靈]] || [[恶魔]] || [[雾影]] 
+|-
+| [[加鲁]] || [[御灵]] || [[寒魔]] 
+|-
+| [[巨灵]] || [[盲灵]] || [[梦魇]] 
+|-
+| [[魔洛伊]] || [[鬼婴]] || [[幻妖]] 
+|-
+| [[奥班博]] || [[赤鬼]] || [[怨灵]] 
+|-
+| [[幻影]] || [[捣蛋鬼|捣蛋鬼/騷靈]] || [[雷魂]] 
+|-
+| [[亡魂]] || [[暗影]] || [[魂魄]] 
+|-
+| [[刹耶]] || [[拟魂]] || [[孪魂]] 
+|-
+| [[魅影]] || [[妖怪]] || [[幽灵]] 
+|}
+
+
+{| class="fandom-table"
+!鬼魂类型
+!特征
+!弱点
+|-
+![[女妖]]
+| 每次锁定攻击一个人；有更高的几率执行唱歌的鬼魂事件
+|用收音器有时能听到女妖独特的哀嚎声
+|-
+![[恶魔]]
+|恶魔会更早发起猎杀；即使在最高理智值时也能发起猎杀
+|十字架的作用范围比放置指示范围大50%
+|-
+![[御灵]]
+|只能在附近无人时进入点阵状态；点阵轮廓仅能通过摄像机看到
+| 无法大幅远离其所在房间活动，也无法自行更换鬼魂房间
+|-
+![[寒魔]]
+|低温会加快寒魔的移速
+|在温暖的地方移速较慢；如果电闸关闭，其在猎杀期间会产生寒气；永远不会打开电闸
+|-
+![[巨灵]]
+|如果电闸开启并远处存在玩家在其视野范围，将以更快速度移动
+|电闸关闭时无法使用其特殊能力；永远不会直接关闭电闸
+|-
+![[梦魇]]
+|它在黑暗中更有可能攻击你
+|开灯降低攻击欲望；偶尔在灯光开启后立即关闭；永远不会打开任何灯光
+|-
+![[鬼婴]]
+|猎杀时更安静
+|鬼婴会更频繁地发出超自然声音
+|-
+![[赤鬼]]
+|附近人多时活动频率增加
+|猎杀时消失时间更短；无法触发烟雾团（哈气）鬼魂事件
+|-
+![[幻影]]
+|注视幻影会大幅降低理智；偶尔走向任意玩家
+|拍照会让它暂时消失；猎杀时消失时间更高
+|-
+![[捣蛋鬼|捣蛋鬼/騷靈]] 
+|它可以一次性投掷大量物体；可以高速投掷物体
+|它在空无一物的居室内无能为力
+|-
+![[亡魂]]
+|猎杀时跟随玩家速度加快
+|找不到猎物时移动缓慢
+|-
+![[暗影]]
+|较少进行互动
+|如果附近有人，它不会发起猎杀
+|-
+![[魂魄]]
+| --
+|熏香能更长时间阻止其猎杀
+|-
+![[魅影]]
+|偶尔传送至任一玩家身边
+|害怕踩盐，避免踩盐
+|-
+![[妖怪]]
+|在它附近说话会激怒它，增加攻击欲望
+|它猎杀时只能听到附近的声音
+|-
+![[幽灵]]
+|它会让你丧失更多的理智
+|在它所在的居室里点燃熏香可暂时困住它，减少游荡频率；使用能力会关门
+|-
+![[怨灵]]
+|它会在熄灭火焰时让发起攻击
+|附近有火焰时不太可能会猎杀
+|-
+![[孪魂]]
+|任一都可猎杀，但不会同时进行；其一行动缓慢，另一行动迅速
+|它们经常会同时与环境互动，但通常在不同的地方
+|-
+![[雷魂]]
+|它通过吸取附近电子设备的能量来加速
+|猎杀时干扰电子设备距离增加
+|-
+![[幻妖]]
+|它与环境互动时可能不留指纹；可能留下消失更快的指纹
+|小概率留下特殊指纹；猎杀期间能迅速变换形态
+|-
+![[拟魂]]
+|能模仿其它鬼魂的能力与特征
+|会呈现假的灵球作为次要证据
+|-
+![[魔洛伊]]
+|在玩家理智值低时，移动明显加快；能够诅咒玩家，使他们在调查区域内失去理智的速度比平常更快
+|在猎杀期间，熏香使鬼魂失明的时间延长50%
+|-
+![[雾影]]
+|在猎杀期间知道玩家的位置，并且在前往玩家所在地时移动得非常迅速
+|靠近玩家时移动非常缓慢
+|-
+![[刹耶|剎耶]]
+|有人进入调查区域后，它会变得活跃、警戒和敏捷
+|它会随着时间的推移而变弱，行动迟缓且攻击性减弱
+|-
+![[奥班博]]
+|狂暴时，奥班博会更快开始猎杀。
+|平静时，奥班博启动猎杀的速度较慢，且更容易被发现。
+|-
+![[加鲁]]
+|使用防护装备会促使鬼魂狂暴，从而削弱装备效果。
+|狂暴会消耗加鲁的精力，使得防护装备更为有效。
+|-
+![[达魇]]
+|如果有人在它附近“跳舞”，达彦会获得力量以保护自己。
+|如果她附近的人静止不动，达魇的力量将消散。
+|-
+![[阿斯旺]]
+|锁定目标后，阿斯旺的追击速度会加快。
+|阿斯旺更擅长追逐而非搜寻。
+|-
+![[盲灵]]
+|听觉极其敏锐。
+|几乎完全失明。
+|-
+![[界灵|界灵/擾物靈]]
+|速度较快的鬼魂。
+|随着物品被移动或投掷，其速度会逐渐变慢。
+|}<br />詳細鬼魂特徵可參考[[指南/辨别鬼魂特征|辨别鬼魂特徵]]頁面
+
+== 证据==
+
+{| class="sortable wikitable" style="text-align:center"
+!👻[[鬼魂]]<!-- 可按首字排序 -->
+![[File:EMFReader_Render.png|24x24px|link=EMF 5级]][[EMF 5级]]
+![[File:GhostOrb_Sprite.png|24x24px|link=灵球]][[灵球]]
+![[File:SpiritBox_Render.png|24x24px|link=通灵盒]][[通灵盒]]
+![[File:Thermometer_Render.png|24x24px|link=刺骨寒温]][[刺骨寒温]]
+![[File:Fingerprints_3.png|24x24px|link=紫外线]][[紫外线]]
+![[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]][[鬼魂笔迹]]
+![[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]][[点阵投影仪]]
+|-
+<!-- EMF 5级或灵球 || 通灵盒或刺骨寒温 || 紫外线|| 笔迹或点阵投影仪 -->
+| style="text-align:left;" |[[女妖]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]|| || ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]
+| ||[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[恶魔|惡魔]]|| || || ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[御灵|御靈]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| || || ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||
+|[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[寒魔]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]|| ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||
+|
+|-
+| style="text-align:left;" |[[巨灵|巨靈]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| || ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||
+|
+|-
+| style="text-align:left;" |[[梦魇|夢魇]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| || ||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[鬼婴|鬼嬰]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| || || ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[幻妖]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]|| || ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||
+|
+|-
+| style="text-align:left;" |[[赤鬼]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| || ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| ||
+|[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[怨灵|怨靈]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| ||
+|
+|-
+| style="text-align:left;" |[[幻影]]|| || ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||
+|[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[骚灵|騷靈]]|| || ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]||  ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[雷魂]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]|| || || ||
+|[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[亡魂]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]|| ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| ||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[暗影]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| || ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| ||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[魂魄]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| || ||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[孪魂|孿魂]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| ||
+|
+|-
+| style="text-align:left;" |[[魅影]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| || ||
+|[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[妖怪]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| || ||
+|[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[幽灵|幽靈]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]|| ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| ||
+|[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[拟魂|擬魂]]|| || ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||
+|
+|-
+| style="text-align:left;" |[[魔洛伊]]|| || ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| |||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[雾影|霧影]]|| || ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| || ||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]||[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[刹耶|剎耶]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]|| || || ||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]||[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[奥班博]]|| || || || ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]||[[File:DOTS_projector_sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[加鲁]]||[[File:EMFReader_Render.png|24x24px|link=EMF5级]]|| ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]|| ||
+|-
+| style="text-align:left;" |[[达魇]]||[[File:EMFReader_Render.png|24x24px|link=EMF5级]]||[[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]]||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| || || ||
+|-
+| style="text-align:left;" |[[阿斯旺]]|| || || ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| ||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]||[[File:DOTS_projector_sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[盲灵]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]|| ||
+|-
+| style="text-align:left;" |[[界灵|界灵/擾物靈]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| || || || || [[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]||[[File:DOTS_projector_sprite.webp|24x24px|link=点阵投影仪]]
+|}
+
+请查阅[[证据]]条目或鬼魂页面获取辨别不同鬼魂的详细信息。
+
+上表可随意排序。 [https://meta.wikimedia.org/wiki/Help:Sorting#Secondary_sortkey 按第二列排序]可保留首行顺序（按Shift键）。这可以连续对后几行排序。
+
+
+==随机特征==
+这些随机生成的特征通常与鬼魂类型无关。 
+
+===性别===
+男性或女性，几率各为一半（女妖和达魇除外，她们只会使用女性鬼魂模型）。
+===死亡时间===
+鬼魂的死亡时间长度（即如果它还活着，它今天的年龄）是 50 岁到 1000 岁之间随机生成的数字。
+
+===年龄===
+鬼自出生到死亡的年龄，年龄范围为10-90岁。
+===害羞===
+鬼是否害羞决定其遇到多名玩家时的行为。害羞鬼只回应单独的人。专家和噩梦难度不会显示是不是害羞鬼。
+===鬼魂名称===
+鬼魂名称由姓和名组成。姓氏根据性别随机生成。用按键通话直呼其名会激怒鬼。
+
+旧版名称来自美国近百年流行的姓名，现在已添加更多姓名。
+====可能出现的男性名称====
+<div style="-moz-column-count:3; -webkit-column-count:3; column-count:3;">
+*Alex
+*Amit
+*Andrew
+*Anthony
+*Benjamin
+*Billy
+*Bradley
+*Brenden
+*Brian
+*Carlos
+*Charles
+*Christopher
+*Corey
+*Daniel
+*Dave
+*David
+*Donald
+*Edward
+*Eric
+*Gary
+*George
+*Grant
+*Gregory
+*Harold
+*Jack
+*James
+*Jan
+*Jason
+*Jay
+*Jerry
+*John
+*Joseph
+*Justin
+*Keith
+*Kenneth
+*Kenny
+*Kevin
+*Kyle
+*Larry
+*Leslie
+*Luke
+*Mark
+*Michael
+*Paul
+*Peter
+*Raymond
+*Richard
+*Robert
+*Ronald
+*Russell
+*Steven
+*Thomas
+*Ted
+*Tim
+*Walter
+*William
+</div>
+
+====可能出现的女性名称====
+<div style="-moz-column-count:3; -webkit-column-count:3; column-count:3;">
+*Ann
+*April
+*Barbara
+*Becky
+*Betty
+*Carla
+*Carol
+*Catiana
+*Cora
+*Donna
+*Doris
+*Dorothy
+*Edie
+*Elizabeth
+*Ella
+*Ellen
+*Emily
+*Emma
+*Eva
+*Georgia
+*Gloria
+*Helen
+*Holly
+*Jane
+*Jennifer
+*Jennise
+*Jessica
+*Jo
+*Josefine
+*Judy
+*Julie
+*Karen
+*Kelly
+*Kim
+*Leslie
+*Linda
+*Lisa
+*Livy
+*Lori
+*Lucy
+*Marcia
+*Margaret
+*Maria
+*Marie
+*Mary
+*Megan
+*Michelle
+*Nancy
+*Nellie
+*Patricia
+*Robin
+*Rose
+*Ruth
+*Sandra
+*Sarah
+*Shannon
+*Sharne
+*Shelly
+*Sophie
+*Stacey
+*Susan
+</div>
+
+====可能出现的姓氏====
+<div style="-moz-column-count:3; -webkit-column-count:3; column-count:3;">
+*Alexander
+*Anderson
+*Bailey
+*Baker
+*Barber
+*Barton
+*Bellfield
+*Birch
+*Bishop
+*Bowen
+*Brock
+*Brooks
+*Brown
+*Buckley
+*Carey
+*Carter
+*Clark
+*Clarke
+*Cordero
+*Corrigan
+*Davis
+*Dexter
+*Dixon
+*Doe
+*Douglas
+*Dyer
+*Elliott
+*Emmett
+*Everly
+*Gacy
+*Garcia
+*Gayton
+*Hans
+*Harris
+*Hill
+*Holland
+*Holmes
+*Huntley
+*Jackson
+*Johnson
+*Jones
+*Kemper
+*Knight
+*Kraft
+*Kray
+*Lancaster
+*Lavender
+*Lee
+*Lewis
+*Manson
+*Marsh
+*Martin
+*Martinez
+*Maudsley
+*Miller
+*Mills
+*Moore
+*Myers
+*Nilsen
+*Norris
+*Pettit
+*Ramirez
+*Rhoades
+*Roberts
+*Robinson
+*Rook
+*Roswell
+*Schelin
+*Shawcross
+*Shipman
+*Skinner
+*Smith
+*Stevens
+*Straffen
+*Sweeney
+*Taylor
+*Thomas
+*Thompson
+*Todd
+*Walker
+*Watts
+*West
+*White
+*Williams
+*Wilson
+*Winter
+*Wright
+*Young
+</div>
+
+==参阅==
+
+*[[指南/辨别鬼魂特征]]
+*[[指南/定位鬼魂位置]]
+{{GhostNav}}
+[[Category:鬼魂]]

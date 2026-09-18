@@ -1,0 +1,27 @@
+# 0.17.1.1
+# revid 4158  2026-05-14T13:24:23Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version | release_date=2026年5月13日 | previous_major_version=[[0.17.0]] | previous_minor_version=[[0.17.1.0]] | next_minor_version= | next_major_version= }}'''0.17.1.1'''是于2026年5月13日发布的小型热修复更新。<ref>[https://www.kineticgames.co.uk/news/phasmophobia-hotfix-v01711 ''《恐鬼症》 - 热修复 v0.17.1.1''. 2026年5月13日.]</ref> 此更新修复了若干漏洞。  ==修复漏洞== *修复：移动时手持装备/物…”
+# sha256 17dc4023b08e600b4c86613e0c32118325791c7059b0d8c8a8959d2f53a19841  bytes 926
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+| release_date=2026年5月13日
+| previous_major_version=[[0.17.0]]
+| previous_minor_version=[[0.17.1.0]]
+| next_minor_version=
+| next_major_version=
+}}'''0.17.1.1'''是于2026年5月13日发布的小型热修复更新。<ref>[https://www.kineticgames.co.uk/news/phasmophobia-hotfix-v01711 ''《恐鬼症》 - 热修复 v0.17.1.1''. 2026年5月13日.]</ref> 此更新修复了若干漏洞。
+
+==修复漏洞==
+*修复：移动时手持装备/物品会出现视觉抖动。
+*修复：若干导致游戏崩溃的问题。
+*修复：[[盲灵]]会检测到已死亡的玩家并试图将其杀死。
+*修复：盲灵能够检测到死亡玩家发出的声音。
+*修复：咖啡世界各帐篷名称不正确。
+*其他修复与改进。
+
+==已知问题==
+*玩家在使用[[通灵盒]]时与卡车监控屏互动，可能会导致操作被锁定。
+
+==参考资料==
+{{Reflist}}
+{{VersionNav}}
+[[Category:开发]]

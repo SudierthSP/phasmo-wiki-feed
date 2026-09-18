@@ -1,0 +1,83 @@
+# 褐石中学
+# revid 4043  2025-11-16T04:18:45Z  by CangMingSW
+# 备注: 更正房间数错误
+# sha256 7092d6eaba31f0a45f2c17cb694f3714cd599a31afa9e2ab8b88b0e98fec1858  bytes 3932
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+|img=Brownstone.jpg
+|imgcaption=
+|teamsize=3
+|mapsize=大型
+|floors=2
+|rooms=
+*34 (1F)
+*30 (2F)
+*64（总共）
+*58（可以作为鬼房）
+|exits=5
+|faucets=8个有一排水槽的卫生间
+|videofeeds=15
+|keys=正门钥匙
+}}
+'''褐石中学'''（英：Brownstone High School）是恐鬼症里的一张地图。它是第一张中型地图，后来重新分类为大型地图。
+
+褐石中学有一个前院和两个侧院（都不互通），大约有三十余个教室，八间厕所，一间演讲厅，一间食堂，以及一个有两间更衣室的体育馆。方形地图对称的布局和对路痴玩家较为友好。
+
+褐石中学有五个[[出口门]]，但由于最近的入口与[[厢式货车|货车]]之间的距离较远，建议在进入之前先将[[装备]]搬到靠近楼房的地方。
+
+== 结构 ==
+褐石中学有一个前院和一个侧院，两者彼此分开。大约 40 间教室、8 间浴室、1 个报告厅、1 个自助餐厅和 1 个带两个更衣室的体育馆。整栋建筑大约有85 x 55米。
+
+总共设有五个[[出口门]]。由于最近的入口与卡车之间距离较远，进入前最好将设备放置在建筑附近。后门通向一个户外院子，院子内设有室外篮球场。这里被视为安全区，因此防止被动的理智消耗。
+
+===布局提示===
+* 每楼的走廊分为三个部分（左、前、右）。
+** 所有走廊不能被选为[[鬼魂房间]]，所以玩家无需再走廊找[[灵球]]。但大厅仍可以被选为鬼魂房间。
+* 位于学校后侧的四个科学教室（两个在楼下，两个在楼上）分别由两个较小的子房间组成：有椅子的教室和有大金属桌的实验室。如果鬼房刷在此处记得两个子房间都要调查灵球或找证据。
+* 这张地图上有四对同名浴室，每楼每侧有一双厕所。
+** 男厕都在左边，女厕都在右边。
+** 每双厕所包括一间共用厕所和一间教师厕所。在走廊朝后面看时，教师厕所在共用厕所后面。
+** 一楼和二楼厕所都有相应的名字。
+* 1-19 号教室都在一楼，其余 20 号以上的教室都在二楼。
+
+== 地图 ==
+<div class="mw-collapsible-content"><gallery widths="530">
+File:brownstone floor 1.jpeg|一楼
+File:brownstone floor 2.jpeg|二楼
+File:BrownstoneHighSchoolMap.jpg|地图标签
+</gallery></div>
+
+== [[诅咒之物]]位置 ==
+所有诅咒之物位于大堂。
+<gallery>
+File:School-Doll.webp|大厅尽头的长椅上的[[巫毒娃娃]]
+File:School-Circle.webp|大厅尽头的[[召唤阵]]
+File:School-Board.webp|大厅左侧的柱子后面的[[通灵板]]
+File:School-Mirror.webp|大厅右侧柱子后面的[[闹鬼魔镜]]
+File:School-Cards.webp|大厅左侧长椅上的[[塔罗牌]]
+File:School-Music.webp|大厅右侧长椅上的[[八音盒]]
+猴爪褐石.jpg|箱子上的[[猴爪]]
+</gallery>
+
+== [[骨头证据|骨头]]位置 ==
+骨头通常在房间的中间附近生成，这取决于房间的形状，不过也可能有一些例外。由于褐石中学地图非常大，一般不值得去特意找骨头。<span class='heimu'>吃力不讨好</span>
+
+;示例
+<div class="mw-collapsible-content"><gallery widths="185">
+Bone in Brownstone High School, First Floor, Right Side, Library. On the ground. 1.jpg|一楼图书馆的骨头
+Bone in Brownstone High School, Second Floor, Right Side, Storage Room 2. On the ground at the foot of a shelf. 3.webp|二楼右侧储藏室地上的骨头
+Bone brownstone classroom.webp|二楼教室里的一根骨头
+</gallery>
+</div>
+
+== 逸闻轶事 ==
+
+* 目前褐石中学是第二大的地图，最大的是[[收容所]]。
+* 二楼主走廊是地图中最大的“房间”之一，与篮球场不相上下。这两个房间同时也是游戏中最大的房间之一。
+* 褐石中学和《寂静岭》的米德维奇小学很相似，也许只是个巧合。
+
+==历史==
+
+
+{{MapNav}}
+[[Category:地图]]
+[[Category:大型地图]]

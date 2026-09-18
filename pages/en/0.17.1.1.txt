@@ -1,0 +1,29 @@
+# 0.17.1.1
+# revid 24125  2026-07-20T11:31:18Z  by Darkhooper
+# 备注: next major version
+# sha256 a910c76bfc04ff4d68ad6ccafe5f8cd437cac504879097cd84cb8a4ab55a6df8  bytes 999
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| release_date=13 May 2026
+| previous_major_version=[[0.17.0]]
+| previous_minor_version=[[0.17.1.0]]
+| next_minor_version=[[0.17.1.2]]
+| next_major_version=[[0.18.0]]
+}}'''0.17.1.1''' is a minor hotfix released on 13 May 2026.<ref>[https://www.kineticgames.co.uk/news/phasmophobia-hotfix-v01711 ''Phasmophobia - Hotfix v0.17.1.1''. 13 May 2026.]</ref> It fixes bugs.
+
+==Fixes==
+*Fixed an issue that caused held equipment/items to visually stutter when moving.
+*Fixed several issues that lead to game crashes.
+*Fixed an issue that caused the Kormos to detect dead players and attempt to kill them.
+*Fixed an issue where the Kormos could detect sound from dead players.
+*Fixed an issue where the Coffee World tent names were incorrect.
+*Other fixes and improvements.
+
+==Known Issues==
+*Players can become locked when interacting with the Truck's CCTV screen while using a Spirit Box.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.17.1.1]]
+[[ru:0.17.1.1]]

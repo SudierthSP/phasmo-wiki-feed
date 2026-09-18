@@ -1,0 +1,68 @@
+# 監獄 - 限制區
+# revid 4268  2026-08-26T12:55:56Z  by Fanta1109
+# sha256 652b859f9286b61d0a38f22cbce831a3db4e11a785e814c21a312d1e342d1110  bytes 2140
+# 源: https://phasmophobia.fandom.com/zh/api.php==監獄 - 受限區域==
+此地圖的為[[監獄]]限制版本可以獨立於主要地點進行選擇，並被視為小型地圖。在受限版本中，僅能進入緊鄰的入口區域（[[詛咒之物]]生成處）以及地圖前側隨機選取的一個樓層，其餘區域皆會被封鎖。監獄受限區域的任何變體均無法進入牢房區或食堂。
+
+{{#tag:tabber|
+一樓=
+{{Location
+|title=監獄 - 受限區域
+|img=Prison Restricted 1F.png
+|mapsize=小
+|floors=1
+|unlocklevel=11
+|rooms=9
+|exits=1
+|faucets=0
+|videofeeds=4
+|keys=Main Door Key
+|img rooms=Rooms Prison Restricted 1F.png
+|img sanity=Sanity Prison Restricted 1F.png
+|img temperatures=Temperatures Prison Restricted 1F.png
+}}
+===關鍵躲藏點與策略===
+在此變體的監獄受限區域中，共有 1 個「官方認可」的躲藏點：
+*'''入口'''：房間最深處的儲物櫃
+
+根據難度的不同，其中一些躲藏點可能會被大型物品阻擋：
+*'''業餘：''' 無封鎖
+*'''中級：''' ?
+*'''專業：''' ?
+*'''噩夢/狂暴：''' ?
+*3 人遊戲：+1 個可用躲藏點
+*4 人遊戲：+2 個可用躲藏點
+
+''當「躲藏地點數量」設定為「無」時，多人在場增加的額外躲藏點將被覆蓋無效''
+{{!}}-{{!}}
+二樓=
+{{Location
+|title=監獄 - 受限區域
+|img=Prison Restricted 2F.png
+|mapsize=小
+|floors=2
+|unlocklevel=11
+|rooms=10
+|exits=1
+|faucets=4
+|videofeeds=6
+|keys=Main Door Key
+|img rooms=Rooms Prison Restricted 2F.png
+|img sanity=Sanity Prison Restricted 2F.png
+|img temperatures=Temperatures Prison Restricted 2F.png
+}}
+===關鍵躲藏點與策略===
+在此變體的監獄受限區域中，共有 2 個「官方認可」的躲藏點：
+*'''入口'''：房間最深處的儲物櫃
+*'''醫務室'''：第一間房間最右側盡頭的儲物櫃
+
+根據難度的不同，其中一些躲藏點可能會被大型物品阻擋：
+*'''業餘：''' 無封鎖
+*'''中級：''' ?
+*'''專業：''' ?
+*'''噩夢/狂暴：''' ?
+*3 人遊戲：+1 個可用躲藏點
+*4 人遊戲：+2 個可用躲藏點
+
+''當「躲藏地點數量」設定為「無」時，多人在場增加的額外躲藏點將被覆蓋無效''
+}}

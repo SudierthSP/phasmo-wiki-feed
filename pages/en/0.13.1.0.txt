@@ -1,0 +1,99 @@
+# 0.13.1.0
+# revid 23894  2026-06-28T21:36:36Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 77a9c99c8488104e726de510ff920355d4f275bb701f83d36b00b82f7e56e1f5  bytes 6870
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| release_date=10 July 2025
+| previous_major_version=[[0.13.0]]
+| previous_minor_version=[[0.13.0.1]]
+| next_minor_version=[[0.13.1.1]]
+| next_major_version=[[0.14.0]]
+}}'''0.13.1.0''' is a minor update released on 10 July 2025.<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-chronicle-v01310 ''Chronicle Patch - Phasmophobia v0.13.1.0''. 10 July 2025.]</ref> It focuses on quality of life changes and fixes bugs.
+
+==Additions==
+*Added new recordable video evidence:
+**The ghost turning Crucifix in Sunny Meadows.
+**The burning Crucifix in the chapel of Sunny Meadows.
+**Obake shapeshifting.
+*An audio and visual cue will now signify the completion of recording Sounds.
+**''A flashing light will appear on the Tier 1 Sound Recorder, while an audio signifier will accompany this on Tiers 2 and 3.''
+*Map names are now displayed when browsing available rooms in multiplayer.
+
+==Changes==
+*The Journal keybind can no longer be mixed with another keybind.
+*Adjusted rewards so harder-to-record media feels more valuable.
+**''Examples: Freezing Temperatures and Ghost Writing now reward $10 instead of $5, Sounds of a hunting ghost reward $20 instead of $15, while a dead body now rewards $5 instead of $10.''
+*Adjusted the range for recording sounds during ghost hunts and events.
+**On top of this, the scream heard at the end of an event can now be recorded, giving a larger window to capture sounds from the event.
+*Volume adjustments for several interactions:
+**The audio from the teddy bear has been reduced.
+**Light extinguish interaction audio has been reduced.
+**Door rattle/slam/squeak interaction audio has been reduced.
+*The Tier 3 Photo Camera’s screen is now larger, aligning it with the aspect ratio for polaroids found in the Journal.
+*The CCTV unit in the warehouse van is now the updated design.
+*The number of available media deletions is now linked to the difficulty type or custom game difficulty multiplier implemented:
+**Amateur / x0 - x1.99 - 5 deletions
+**Intermediate / x2 - x2.99 - 4 deletions
+**Professional / x3 and above - 3 deletions
+*Photos with $0 value can now be deleted without the need to vote.
+*In a match with 3 or 4 players, only a majority vote - not unanimous - is required to delete a piece of media.
+*Several pieces of video evidence have been changed from being unique to now counting as an interaction:
+**Phones
+**Sinks
+**Showers
+**Camping stove
+**Bear trap
+*Removed rocking chair sound evidence due to it not being a ghost sound.
+
+==Fixes==
+*Fixed an issue that caused all players to receive the same statistics as the player responsible for capturing media.
+*Fixed an issue that would allow for videos to be recorded again from the same spot after deleting the original from the Journal.
+*Fixed an issue that would cause the rocking chair to not be recordable if the recording started halfway through the animation.
+*Fixed an issue that allowed players to record video evidence through cars.
+*Fixed an issue that caused a translucent ghost to be labelled as ‘Ghost’ on Photos.
+*Fixed an issue that caused the Sound Recorder to be unaffected by Master Volume.
+**''This fix also applies to Sounds from the Journal.''
+*Fixed an issue that caused the Voodoo Doll to be thrown by the player at a greater distance than intended.
+*Fixed an issue that allowed flickering lights to be recorded during hunts, causing interference for players trying to capture a hunting ghost.
+*Fixed an issue that would sometimes spawn the location of a Sound within a wall or outside the playable area, preventing it from being recorded.
+*Fixed an issue that caused keybinds to be applied without the player selecting ‘Apply’.
+*Fixed an issue that caused the lights and side screen of the Tier 3 Video Camera to turn off when not recording.
+*Fixed an issue that prevented players from scrubbing through recorded Sounds in the journal.
+*Fixed an issue where freezing temperatures could not be captured as Photo evidence if set to Fahrenheit.
+*Fixed an issue that caused missing localisation on Apocalypse trophies.
+*Fixed an issue that prevented the player from reviving despite having pulled the High Priestess tarot card.
+*Eye adaption will now work correctly when viewing the trophy cabinet.
+*Fixed an issue where the Firelight would remain lit when a player cycles through their equipment.
+*Fixed an issue where the ghost’s footsteps could not be heard in Training.
+*Fixed an issue where clicking a special badge applied the prestige theme to ID card.
+*Fixed an issue where Sound Recorder SFX could be heard from far away on larger maps.
+*Fixed an issue where the Firelight Extinguished sound could not be played back from the Journal.
+*Fixed an issue that caused Sounds to be cut off early when being played back in the Journal.
+*Fixed an issue that prevented the Incense (at any Tier) to be lit if USE was held too long.
+*Fixed an issue where, if the player deletes a Unique piece of media, the remaining Duplicate would not then become Unique.
+*Fixed an issue that prevented VR players from pulling all 10 tarot cards.
+*Fixed an issue in Prison and the campsites where the generator light would display incorrectly depending on the player’s distance.
+*Fixed an issue where VR players could not interact with the tarot cards if they have first been interacted with by a non-VR player.
+*Fixed several localisation and visual issues with the trophies found in the cabinets.
+*Fixed an issue that caused some ghost Photos to not count towards completion of the Apocalypse challenge.
+*Fixed an issue where ghosts could spawn inside walls.
+*Fixed an issue that would cause a clone of the host to remain in the lobby, despite the host having left the game.
+*Fixed an issue that prevented the Monkey Paw wish ‘‘I wish to see the ghost’’ from working correctly if there was no summoning circle also in the map.
+*Fixed an issue that prevented gamepad-users from selecting the Enable Loadout shortcut with the correct button.
+*Fixed an issue for VR players where their character’s hands would shake involuntarily.
+*Fixed an issue that prevented the correct UI from displaying on a video camera if a player was recording from the same camera in the van.
+*Fixed an issue where the Crucifix would disappear through the floor of Sunny Meadows when placed down.
+*Fixed an issue that allowed players to use Equipment after death if they had shaken the Tier 2 UV Light right before dying.
+*Fixed an issue that prevented earned Bronze and Silver Apocalypse trophies from displaying correctly after being earned.
+*Fixed an issue with VOSK for French users that would result in frequent game crashes.
+*Various other bug fixes and improvements.
+
+==Known Issues==
+*The Obake shapeshift video evidence can be hard to record
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.13.1.0]]
+[[ru:0.13.1.0]]

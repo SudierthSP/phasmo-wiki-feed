@@ -1,0 +1,22 @@
+# 0.8.1.5
+# revid 23989  2026-06-28T21:43:50Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 251270acce10627c575c291a8a65ad97a780dd490516a53f7d5b13a1b4b7b5c1  bytes 850
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=8 April 2023
+  | previous_major_version=[[0.8.0]]
+  | previous_minor_version=[[0.8.1.4]]
+  | next_minor_version=[[0.8.1.6]]
+  | next_major_version=[[0.9.0]]
+}}'''0.8.1.5''' is a minor hotfix released on 8 April 2023.<ref>[https://store.steampowered.com/news/app/739630/view/3719451786604182404 ''Easter Event '23 | Hotfix v0.8.1.5''. 8 April 2023 (on Steam).]</ref>
+
+== Fixes ==
+* You can now complete the Easter event, if you do not have any other badges. If you had this bug, you will receive the badge and trophy by completing the Easter event on one map again
+* This weeks weekly challenge will now give the reward and have the correct loadout. This challenge will reset at the correct time and will not be extended
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.8.1.5]]
+[[ru:0.8.1.5]]

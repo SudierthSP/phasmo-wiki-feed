@@ -1,0 +1,72 @@
+# Mannequin
+# revid 24421  2026-08-06T19:16:45Z  by Darkhooper
+# 备注: removed Willow's dress forms
+# sha256 5e09b47e3c22e8287398d2453c41870d2ae1b458101c21c58538fa5f19ac4644  bytes 2231
+# 源: https://phasmophobia.fandom.com/api.php'''Mannequins''' are props that the [[ghost]] can interact with. They are most commonly found in garages and basements.
+
+==Mechanics==
+Players cannot interact with or move mannequins in any way. However, they can block the ghost's line-of-sight during [[hunt]]s. When a ghost [[Interaction|interacts]] with mannequins, it will leave an [[EMF]] 2 reading (33% chance for [[EMF Level 5]] instead for applicable ghosts) at its base. If the mannequin gets teleported, the EMF reading will be located at the mannequin's original location.
+
+;Dress Form
+Dress forms can either be rotated or teleported elsewhere at fixed spots by the ghost.
+
+;Mannequin
+Similarly to the dress form, the ghost can either change the mannequin's pose (51% chance), rotate it (19% chance), or teleport it elsewhere (30% chance), usually near the player, when interacting with it.
+
+The ghost cannot interact with mannequins while a player is looking at them.
+
+==Locations==
+===Dress Forms===
+{| class="fandom-table"
+!Map
+!# of Dress forms
+!Original Location of Dress form(s)
+!Locations Dress form(s) may be teleported to
+|-
+|[[42 Edgefield Road]]
+|2
+|<gallery>
+File:Edgefield Mannequin 1.png|Back right corner of the storage room in the Basement
+File:Edgefield Mannequin 2.png|Corner near the lockers in the Garage</gallery>
+|
+*Back of the Hallway
+*Next to the bathtub in the Bathroom
+|-
+|[[10 Ridgeview Court]]
+|3
+|<gallery>
+File:Ridgeview Mannequin 1.png|Back of the Garage
+File:Ridgeview Mannequin 2.png|Back corner of the left side of the Basement behind shelfs
+File:Ridgeview Mannequin 3.png|Right of the stairs in the Basement</gallery>
+|
+*In the Kitchen by the window outlooking the porch
+*Next to the computer in the Hallway
+|-
+|[[Bleasdale Farmhouse]]
+|1
+|<gallery>
+File:Bleasdale Mannequin.png|On a couch in Attic Space right outside the Attic Bedroom</gallery>
+|
+|}
+
+===Mannequins===
+{| class="fandom-table"
+!Map
+!# of Mannequins
+!Original Location of Mannequin(s)
+|-
+|[[Bleasdale Farmhouse]]
+|1
+|<gallery>
+File:Mannequin Bleasdale.png|In the Master Bedroom</gallery>
+|-
+|[[Grafton Farmhouse]]
+|4
+|<gallery>
+File:Mannequins Grafton.png|In the Work Room</gallery>
+|}
+
+{{MapFeatureNav}}
+[[ru:Манекен]]
+[[Category:Map Features]]
+[[fr:Mannequin]]

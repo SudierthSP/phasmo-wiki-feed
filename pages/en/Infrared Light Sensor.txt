@@ -1,0 +1,33 @@
+# Infrared Light Sensor
+# revid 20037  2025-01-16T17:01:14Z  by Quietust
+# sha256 4e7348ed34ecca4d9bdbc33693f34c3b1ccaa291e5fd5bb8dae2de13b352b718  bytes 1293
+# 源: https://phasmophobia.fandom.com/api.php{{Item Template
+|img=Infrared Light Sensor.png
+|imgcaption=A small green box with a sensor mounted on a brick wall.
+|price=$65
+|maxamount=4
+|uses=Reusable
+|starter=No
+|level=6
+|description=An infrared motion sensor that detects both human and paranormal movement, when set off it will illuminate the surrounding area with a bright light.}}The '''Infrared Light Sensor''' was an item that helped to indicate the ghost's physical location. It was removed in [[0.3.0]]. 
+==Usage==
+When a player, dead player or ghost walked past the infrared light sensor, it would illuminate the surrounding area with a bright light, allowing players to track the ghost to a certain degree while on-site. The Infrared Light Sensor did not provide feedback to the [[truck]], nor did it count for the "Detect the ghost with a motion sensor" [[Objectives|objective]].
+
+Due to its very limited utility, it was merged with the [[Motion Sensor]].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!August 13, 2020
+|Added the Infrared Light Sensor as an equipment.
+|-
+! colspan="2" |Early Access (Steam)
+|-
+![[0.3.0]]
+|Removed the Infrared Light Sensor.
+|}<br>
+{{Equipment nav}}
+[[Category:Equipment]]
+[[fr:Capteur à lumière infrarouge]]
+[[ru:Инфракрасный датчик света]]

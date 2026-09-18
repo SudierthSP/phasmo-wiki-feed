@@ -1,0 +1,33 @@
+# 0.3.1.1
+# revid 23934  2026-06-28T21:39:30Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 3857cd7c66454c4b9a5483acd131c02ae8b59fc6a4d183e4377c5431a1288389  bytes 1341
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=21 September 2021
+  | previous_major_version=[[0.3.0]]
+  | previous_minor_version=[[0.3.1.0]]
+  | next_major_version=[[0.4.0]]
+  | next_minor_version=[[0.3.1.2]]
+}}'''0.3.1.1''' is a minor update to the game released on 21 September 2021.<ref>https://store.steampowered.com/news/app/739630/view/4972526782656020068</ref> The update mainly fixes bugs.
+
+== Changes ==
+=== Gameplay ===
+*Removed the imgui.ini file check so that players can use Reshade again
+*Removed the light cookie/mask on the area light around the player view to make it easier to know when their flashlight is on
+*The main menu music has now been moved to a boom box that can be clicked to mute it
+
+== Bug Fixes ==
+*Fixed an issue where the Jinn description was wrong
+*Fixed a bug where the kitchen sink water wouldn't become dirty when the ghost turned it on
+*Fixed a bug where the keybinds would reset when loading into a game
+*Fixed a bug where journal keybind changes wouldn't save
+*Fixed a bug where players could hear muted players after they used the walkie talkie
+*Fixed an issue where the ambient occlusion option was showing for VR players
+*Fixed a bug where the connecting screen would stay after failing to connect to the server
+
+== References ==
+{{reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.3.1.1]]
+[[ru:0.3.1.1]]

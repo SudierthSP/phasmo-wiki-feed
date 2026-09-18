@@ -1,0 +1,148 @@
+# 0.6.0
+# revid 23948  2026-06-28T21:40:32Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 ac1d3c80265da58778d361192c1942f675b3da3a77f7521fd6daf68844135fe3  bytes 6432
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | image1=VR overhaul update poster.png
+  | official_name=VR Overhaul
+  | release_date=7 April 2022
+  | previous_major_version=[[0.5.0]]
+  | previous_minor_version=[[0.5.2.1]]
+  | next_major_version=[[0.7.0]]
+  | next_minor_version=[[0.6.0.1]]
+}}The '''0.6.0''' update, also known as the '''VR Overhaul''' update, is a major update to the game released on 7 April 2022.<ref>https://store.steampowered.com/news/app/739630/view/6051154755227140125</ref> This update includes reworks to the VR player experience, an upgrade to the Unity version, and a rework of the [[Sound Sensor]].
+
+== Additions ==
+
+=== Gameplay ===
+;VR
+*VR system moved from SteamVR to OpenXR, offering better performance and stability
+**Support for "all major headsets"
+**All OpenXR runtimes now supported
+*Cursor now avaible for when hovering over equipment
+*Two options for grabbing objects
+**'''Toggle''': Press once to grab, press again to release
+**'''Hold''': Keep button pressed down to keep hold of the object
+*Equipment belt and head camera slots in the truck now highlight when attempting to slot something into them
+*New VR Seated and Left Handed modes
+*New height calibration options
+*New hand poses and animations for different actions
+*Players can now swap objects between both hands by grabbing
+*New simulated crouch by pressing right thumbstick/trackpad
+*Snap turn can now be done by pressing down, when enabled
+*Walkie-talkie and journal now placed on belt for easier use
+*Improved VR throwing physics
+*New smooth camera mode for recording and streaming
+*New models and textures for VR belt
+*New left-handed mode for equipment to be toggleable in left hand
+*Known issues:
+**Scrollbars in the main menu are hard to use
+**Objects will need to be grabbed twice if the VR player was not the last to grab them
+**Applying settings whilst crouched resets player height
+**Some cabinet doors can't be grabbed
+
+;General
+*New sound effects, including to lockers
+
+== Changes ==
+
+=== Equipment ===
+;[[Parabolic Microphone]]
+*Will now update every 1 second instead of 2 seconds
+*No longer reads noise from players talking or using walkie-talkie
+
+;[[Sound Sensor]]
+*Updated model
+*Now covers spherical area instead of a cube, with increased range
+*Now placed in same way as candles and cameras
+*Sounds now displayed more accurately when shown on the monitor in the truck
+*No longer reads noise from players talking or using walkie-talkie
+
+;[[Sanity Pills]]
+*Price reduced to $20
+**Changed to accomodate a bug where sanity pills were not removed from inventory when used or the player died
+
+;Truck screens
+*Updated design
+
+=== Evidence ===
+;[[Fingerprints]]
+*New designs for singular fingerprints (as opposed to handprints)
+*[[Ridgeview Road House]] and [[Tanglewood Street House]]: fingerprints can now be left on patio doors
+*Will now be on the light switch instead of on the paneling next to it
+
+===Gameplay===
+;[[Journal]]
+*Ghosts can now be crossed off individually
+*Improved scrolling with scroll wheel
+
+;Hiding spots
+*Hiding spots which are made infeasible will now have furniture removed instead of blocking them
+*All maps now have at least one (or more) hiding spots depending on difficulty
+**Amateur: All spots available
+**Intermediate: ≥3 hiding spots
+**Professional: ≥2 hiding spots
+**Nightmare: ≥1 hiding spot
+*Doors, objects, and walls have been added or moved to remove several unintended safe spots
+*[[Maple Lodge Campsite]]: New door flaps for small tents
+*[[Willow Street House]]: Significant changes to make hiding spots much more consistent
+*New slots in locker doors for the player to see through
+
+;Map adjustments
+*Audio adjustments to improve distinction between different floors
+*Assets have been moved for better alignment with environment
+*Improved sink tap effects
+**New sink tap audio
+*Light switches in several maps have been moved for more consistency
+*Several floors have had their materials changed
+*Spotlights in several houses changed to also illuminate ceiling
+*Plug sockets changed from EU-style (220v) to US-style (110v)
+*[[Edgefield Street House]]: new light switch and ceiling light in basement
+*[[Maple Lodge Campsite]]: new light switch to cleaning closet
+*Ridgeview Road House, Edgefield Street House and [[Tanglewood Street House]]: Lighting adjustments to improve performance
+*Tanglewood Street House: Computer is now turned on with keyboard instead of screen
+*Optimised polygon count of blue beds in some house maps by 119,000 polys
+
+;Other
+*Dead players can now sprint infinitely
+*New eyelashes for player models
+*Many new first and last names for ghosts
+*House maps: ghosts can now interact with keyboards to turn on desktop computers
+*Previous photos showcased in the lobby are now easier to see
+*Improved thunder sound effects during heavy rain
+*Placement holograms no longer cast or receive shadows
+
+;[[Voice chat]]
+*Three options now available: Voice activation, Push-to-talk, or an On/Off toggle
+
+===Ghosts===
+;[[Obake]]
+*Now leaves special evidence on more surfaces
+**Double fingerprints on light switches
+**Five fingerprints on prison doors and keyboards
+
+=== General ===
+*Soft Shadows setting now applies to all lights instead of only equipment lights
+*Updated Unity engine
+*Volumetric Lighting setting temporarily removed, to be re-added with Foggy weather in a later update
+
+== Bug fixes ==
+*Fixed a bug where some ghost events didn’t play ghost sounds
+*Fixed a bug where you could sometimes grab a tent door that was not visible (e.g., behind you)
+*Fixed a bug where some lights in the farmhouses wouldn’t stop your sanity draining
+*Fixed a bug where the Onryo wouldn’t interact correctly if you didn’t get the Summoning Circle Cursed Possession
+*Fixed a bug where the ghost event objective would complete when there was no ghost event
+*Fixed a safe spot in the Ridgeview garage
+*Fixed a bug where sprint stamina wasn’t re-generating if you had your journal open
+*Fixed a bug where the journal brightness setting was higher than the main menu setting
+*Fixed a bug where after a hunt; the ghosts audio would fade out and back in briefly
+*Fixed a bug where Sanity Pills were not being removed from your inventory if used or if you died
+*Fixed a bug where the mist ghost event wasnt working correctly
+*Fixed a bug where the ghost would not walk towards you during some ghost events
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.6.0]]
+[[ru:0.6.0]]

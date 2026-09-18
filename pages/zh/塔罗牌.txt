@@ -1,0 +1,122 @@
+# 塔罗牌
+# revid 4087  2026-03-14T13:49:43Z  by ZXH114
+# sha256 4d119bf2ffe0984b8072f14699a9bec3b3f4be5a530bad8a6a12e1c54407ea73  bytes 3091
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Item_Template
+|img=Tarot Cards.png
+|imgcaption=
+|uses=10
+|description=
+}}塔羅牌是在[[圣诞节更新|聖誕節更新]]中新增的物品。
+
+== 介绍 ==
+這些神秘的卡牌是我們在調查中發現的最吸引人的物品。
+
+每副牌包含十張隨機牌，它們都有不同的超自然屬性。抽牌可能會對玩家和附近鬼魂產生各種效果。
+
+有些牌雖然有用，但也可能有負面效果，例如：降低理智、鬼魂攻擊，甚至猝死。
+
+很多卡牌的效果仍待探索，一切皆有可能。
+
+== 機制 ==
+作為一件詛咒之物，每局遊戲有七分之一的機率生成塔羅牌。
+
+每副塔羅牌包含 10 張隨機卡牌，使用卡牌後會根據效果發出不同顏色的火光燒掉。
+
+每副卡牌可能會有重複的卡，因此在一局遊戲裡通常無法遇到所有卡牌。
+
+塔羅牌只能在調查區域內使用。
+
+=== 拍照獎勵 ===
+根据拍摄距离的不同，塔罗牌照片可以获得高达 $5 和 5XP 的拍照奖励。塔罗牌能拍一次，只要卡牌还没用完。
+
+== 卡牌 ==
+{| class="fandom-table"
+|-
+!卡牌
+!圖片
+!生成機率<ref name=":0">https://clips.twitch.tv/CogentSourLouseImGlitch-OllnePQhjGUZx_9o</ref>
+!卡片效果
+|-
+! The Sun
+太陽
+![[File:TheSun.webp|无框|200px]]
+|5%
+|抽卡著[[理智]]回復至100%。
+|-
+!The Moon
+月亮
+![[File:TheMoon.webp|无框|200px]]
+|5%
+|抽卡著[[理智]]扣至0%。
+|-
+!The Tower 
+塔
+![[File:TheTower.webp|无框|200px]]
+|20%
+|觸發一次互動，并增强鬼魂活动 1 倍持续 20 秒。
+|-
+!The Wheel of Fortune
+命運之輪
+![[File:WheelOfFortune.webp|无框|200px]]
+|20%
+|抽卡著增加/降低25%[[理智]]。
+（發紅火减少，發綠火增加）
+|-
+! The Devil
+惡魔
+![[File:TheDevil.webp|无框|200px]]
+|10%
+|觸發[[鬼魂事件]]。
+|-
+!The High Priestess
+大祭司
+![[File:HighPreistess.webp|无框|200px]]
+|2%
+|隨機復活一位已死亡的玩家(在[[尸体|屍體]]處復活)。<br>無玩家死亡時会保存一次复活次数，有玩家死亡时立即复活。<br>玩家在獵殺中復活時，不能在同一場獵殺再次死亡。
+|-
+! The Hanged Man
+倒吊人
+![[File:HangedMan.webp|无框|200px]]
+|1%
+|抽卡著直接[[死亡]]
+(無論是否在抽卡後立即離開調查區域)
+|-
+!Death
+死亡
+![[File:Deathcard.webp|无框|200px]]
+|10%
+|觸發[[猎杀#诅咒猎杀|詛咒獵殺]]
+|-
+!The Hermit
+隐者
+![[File:TheHermit.webp|无框|200px]]
+|10%
+|將鬼傳送回鬼房並使其受困1分鐘。
+（不影響獵殺和鬼魂事件行為）
+|-
+! The Fool
+愚者
+![[File:TheFool.webp|无框|200px]]
+|17%
+(獵殺時100%)
+|會先顯示為其它卡牌（平等的出現機會），之後以愚者的圖畫顯示並燒毀，這卡沒有任何效果。
+|}<br>獵殺時使用的塔羅牌都會變為愚者。
+
+== 前瞻圖片 ==
+[[file:Tarot_cards_1-7.png|720px]]<br>[[file:Tarot_cards_cn.png|720px]]
+
+== 歷史 ==
+{| class="fandom-table"
+! colspan="2" |搶先體驗 (Steam)
+|-
+![[0.5.0]]
+|添加塔羅牌。
+|-
+![[0.8.1.0]]
+|“塔”牌会增强活动。
+|}
+
+== 參閱 ==
+{{Reflist}}
+{{EquipmentNav}}
+[[Category:物品]]

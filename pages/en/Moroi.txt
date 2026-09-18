@@ -1,0 +1,133 @@
+# Moroi
+# revid 24626  2026-09-11T04:17:05Z  by Darkhooper
+# 备注: how moroi curses with sound recorder
+# sha256 f83c2ebd4013e467af6e6f2fcc305562da9e256270b02dc0008e08a3a6b1e465  bytes 10167
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Moroi Discovered.jpg
+ |strength= *Hunting speeds depend directly on average team sanity
+ |abiliti(es)=*Can curse players through the spirit box or the parabolic microphone, making them lose sanity faster
+ |weakness(es)= *Will be disoriented for longer when smudged during a hunt
+ |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
+ |Evidence2=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]
+ |Evidence3=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
+}}{{Quote
+ |quote=Moroi have risen from the grave to drain energy from the living. They have been known to place curses on their victims, curable only by antidotes or moving very far away.
+ |speaker=The Journal
+}}The '''Moroi''' is a type of [[ghost]] in ''Phasmophobia''. Its ability to "curse" players to lower their [[Sanity]], combined with its increased speed at low sanity levels, can cause it to become the fastest ghost in the game.
+
+==Behaviour==
+===Ability===
+The Moroi has an ability to "curse" a target through the following ways:
+*By successfully obtaining a response from the [[Spirit Box]]; this will curse the person who "caused" the response, either by asking questions or triggering the failsafe.
+*By hearing a [[Paranormal Sound|paranormal sound]] through the [[Parabolic Microphone]].
+*By attempting to record any [[Media#Sound evidence|sound]] with the [[Sound Recorder]], whether the sound is successfully recorded or not.
+
+When a player is cursed, their passive [[sanity]] drain is doubled and being in a lit area will no longer prevent sanity drain (i.e. the player is considered in the dark at all times). Leaving the investigation area will still pause the sanity drain, and [[firelight]]s will still mitigate the sanity drain. Consuming [[Sanity Medication]] removes the curse for that player. Players that have been cursed before in the contract can be cursed again. Multiple players can be cursed at the same time, but curses do not stack on a single player.
+
+===Hunt===
+The Moroi's speed is dependent on the average sanity, and will change during a hunt according to the current average sanity. The base speed increases by an average of 0.083 m/s for every 5% average sanity below its average hunt threshold of 50%. The list below shows each possible base speed for the Moroi:<ref>[https://discord.com/channels/493757248842235906/775543308012224523/1020350064620752986 ''..."Now I got confirmation from the OG Phasmo dev himself DKnighter who sent me the following values..."'' PsychoHypnotic, 16 Sep 2022 (on Discord).]</ref>
+{| class="article-table"
+|+
+!'''Average sanity %'''
+!'''Base ghost speed'''
+|-
+|≥ 45%
+|1.5 m/s
+|-
+|40% - 45%
+|1.583 m/s
+|-
+|35% - 40%
+|1.66 m/s
+|-
+|30% - 35%
+|1.749 m/s
+|-
+|25% - 30%
+|1.832 m/s
+|-
+|20% - 25%
+|1.915 m/s
+|-
+|15% - 20%
+|1.998 m/s
+|-
+|10% - 15%
+|2.081 m/s
+|-
+|5% - 10%
+|2.164 m/s
+|-
+|0% - 5%
+|2.25 m/s
+|}
+
+When using an [[Incense]] during a hunt, the duration where the Moroi cannot see nor kill players is 7 seconds instead of 5.<ref group="note">It is unknown if this intended or not as the [[0.9.0]] patch notes state that incense blinds the Moroi for 50% longer, meaning the expected blinding duration is 7.5 seconds.</ref>
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]] [[Freezing Temperatures]]
+|[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]] [[Ghost Writing]]
+|[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
+|}</center>
+On limited evidence (1 or 2 evidence) games, the Moroi will always have Spirit Box as one of its evidence types.
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: The weaker their victims, the stronger the '''Moroi''' becomes.''
+
+''Weakness: '''Moroi''' suffer from hyperosmia, weakening them for longer periods.''
+
+==Strategies==
+[[File:MoroiCurseEx.png|thumb|300x300px|A visual example of the Moroi's curse]]
+Given the Moroi's ability to drain sanity after responding through the Spirit Box, it is recommended to refrain from utilizing the Spirit Box after obtaining the first response. If necessary, only the player who previously asked questions should use the Spirit Box again. Usage of Parabolic Microphones should also be limited, and if required for an objective, should also be done by the player that previously used the Spirit Box.
+
+The Moroi only curses the player through a Sound Recorder if they try to record a sound, not if they hear it; if one wishes to preserve their sanity, they must refrain from using the Sound Recorder.
+
+Due to the Moroi's ever increasing speed the lower the player's sanity drops, managing sanity levels is more important than ever; Sanity Medication should be used as soon as possible after a player finds out they have been cursed, lights should be kept on where possible, and in dark rooms (where lights don't stop sanity drain completely), or if the player cannot turn on lights due to any reason (limited by the fuse box, lights broken by ghost event etc), Firelights should be used judiciously to slow down sanity drain.
+
+===Identification===
+The easiest way to identify a Moroi is by paying attention to the ghost's speed:
+*Listen for the ghost's speed both over multiple hunts and during a given hunt, as average sanity lowers; a ghost that speeds up over the course of multiple hunts as average sanity lowers, or gradually speeds up during wandering when all players are hiding, could be a Moroi. Remember to take into account line-of-sight acceleration, if applicable. Note that the [[Hantu]] will increase in speed if the fuse box is left off as the temperature in the map decreases, but it does not speed up through line-of-sight; either keep the fuse box turned on to avoid misidentification, or make sure that the ghost does not have the Hantu's signature freezing breath during a chase with the power off.
+*As an alternate strategy, methods to quickly manipulate sanity can be utilized during a hunt. As the Moroi's roaming speed changes in real time as average sanity changes, a significant change of it (via Sanity Medication, or some cursed possessions which can quickly drop sanity) while it's hunting will cause the Moroi to abruptly speed up or slow down, potentially identifying it in the span of a single hunt. All players should be hidden (or, most optimally, having been hidden from the start) to avoid the speed change being confused for some other natural speed changes e.g. a ghost's acceleration/deceleration from line-of-sight or the [[Revenant]]'s losing track of players, and to wait a few seconds in order to get a read on its roaming speed before using the cursed possession/Sanity Medication afterwards.
+**Additionally, a marked degree of coordination in multiplayer is required, as a single player's sanity changing will not affect the average sanity as much; players will have to e.g. use Sanity Medication at the same time, or take turns asking questions to a [[Ouija Board]], in order to change average sanity enough to cause the Moroi to exhibit a definitive speed change.
+**A few other ghosts may change speeds even without detecting a player ([[Raiju]] when near electronics, [[Hantu]] roaming between different-temperature rooms, [[Obambo]] changing phases, [[Dayan]] reacting to a player, [[Gallu]] stepping on [[Salt]]); make sure the ghost isn't changing speeds on its own before performing the test.
+*If starting a cursed hunt early during the contract, especially with cursed possessions that can cause cursed hunts without draining sanity, it is extremely likely that the average sanity will be above 45% and the Moroi's roaming speed will be its minimum 1.5 m/s, noticeably slower than most ghosts. Keep in mind [[The Twins]] will have a base speed of 1.5 m/s when starting a hunt at its present location, which is indistinguishable from a Moroi's speed when above 45% sanity.
+
+Another way to identify the Moroi is by smudging it during a hunt. The Moroi will be blinded for 7 seconds instead of 5; noticing a blinding time longer than usual can indicate a Moroi. This will be more easily noticeable with Tier II and Tier III Incense as they affect the ghost's speed, causing a change in its footsteps during the blinding effect.
+
+When the [[Sanity Monitor|sanity monitor]] is available, one can also identify a Moroi based on its ability: if your sanity has drained much more than normal after a Spirit Box response, a paranormal sound on the parabolic microphone, or a sound record with the sound recorder, especially if you've been in fully lit rooms and/or holding a [[Firelight]] for extended periods of time, then you have most likely been cursed by a Moroi. Take into account sanity drain from ghost events, if any, as well as if you have used any cursed possessions throughout the mission.
+
+==Trivia==
+*The ''moroi'' (plural idem) are a type of vampires in Romanian folklore who practiced vampirism while being still alive (as opposed to ''strigoi'' who became vampires after death). In modern usage, ''moroi'' simply means "ghost" in Romanian.
+*Unlike most other ghosts with speed bonuses, the Moroi accelerates with continuous line-of-sight of a player. Below 5% average sanity, the maximum speed of a Moroi is 3.71 m/s, making it the fastest ghost in the game.
+*The Moroi is the ghost with the fastest potential speed in the game, reaching a ridiculous 6.4 m/s speed under the following conditions:
+**The ghost speed is set to 150%
+**The weather is Blood Moon
+**Average sanity is 0-5%
+**Continuous LoS for at least 13 seconds
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.6.2.0]]
+|Added Moroi.
+|-
+![[0.8.0.6]]
+|The Moroi's speed now changes when the average sanity moves into a different bracket.
+|-
+![[0.9.0]]
+|Incense will now have an extra 50% duration against Moroi.
+|}
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{Ghost nav}}
+[[Category:Ghosts]]
+[[fr:Moroï]]
+[[ru:Морой]]

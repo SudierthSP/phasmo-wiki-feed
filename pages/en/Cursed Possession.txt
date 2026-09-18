@@ -1,0 +1,68 @@
+# Cursed Possession
+# revid 22758  2026-02-14T16:56:21Z  by Arkanos999
+# sha256 aea94c31af028aff9d6fbc2efb60000fdc6a7bdeffd10d7962f250c33b784b04  bytes 4382
+# 源: https://phasmophobia.fandom.com/api.php'''Cursed possessions''' are a group of seven powerful, supernatural items that are used to directly interface with the ghost. They can make the ghost appear or provide information, generally at the cost of [[sanity]]. These items are the [[Music Box]], [[Ouija Board]], [[Voodoo Doll]], [[Haunted Mirror]], [[Summoning Circle]], [[Monkey Paw]], and [[Tarot Cards]]. Activating or using a cursed possession will immediately cancel the [[Setup Phase|setup phase]].
+
+==Mechanics==
+On all default [[difficulty|difficulties]], except Insanity, one cursed possession is selected at random for every contract. Each item has one dedicated spawn location on a given [[map]]. On most maps these spawn locations are scattered around the map, while on a few (namely [[Brownstone High School]], [[Prison]], and [[Sunny Meadows Mental Institution|Sunny Meadows]]), they are all within just one room. 
+
+The use of cursed possessions is not mandatory. All [[objectives]] can be completed without them, and only a handful of [[Daily and Weekly Tasks]] require them outright. Cursed possessions grant players a level of control over the investigative process and the overall flow of a mission, but come with the risk of causing a hunt.
+
+*The [[Music Box]] causes the ghost to sing, broadcasting its current location.
+*The [[Haunted Mirror]] provides a view into the [[Ghost Room]].
+*The [[Ouija Board]] permits players to ask the ghost various questions.
+*The [[Summoning Circle]] teleports the ghost to the circle.
+*The [[Tarot Cards]] provoke various ghost activities.
+*The [[Voodoo Doll]] forces the ghost to perform [[interaction]]s.
+*The [[Monkey Paw]] grants the player various wishes to call upon.
+
+Cursed possessions generally only work while the player is in the investigation area. All, except for the Summoning Circle and Ouija Board, must be picked up in order to be activated. Cursed possessions require a free hand to pick up, and cannot be stored in the inventory. Instead they drop to the ground when switching to a different item, like the [[Tripod]]. The Summoning Circle is the only item that is immovable, and must be interacted with by using either an [[igniter]] or a lit [[firelight]].
+
+A [[Media#Photo evidence|photo]] can be taken of each spawned cursed possession in a contract. Photos reward up to $7 and 7 XP depending on the tier of the [[Photo Camera]] and whether there is a Unique stamp.
+
+===Enabling the "Friendly ghost" option===
+On Custom [[difficulty]] setting, when the "Friendly ghost" option is enabled, no hunt will occur after any of the following situations that would normally cause them: 
+*When the "Death" tarot card is drawn
+*When the haunted mirror, music box, and Ouija board breaks
+*When the heart pin of the voodoo doll is pushed in or when all pins are pushed in at once at 0% sanity
+*When the summoning circle-triggered ghost event ends
+*When the "I wish to see the ghost" and "I wish to trap the ghost" effects end, and when "I wish for knowledge" is asked of the Monkey Paw
+
+Additionally, "The Hanged Man" tarot card cannot be drawn, except for "The Fool" version. All other effects of these cursed possessions work as normal with the setting enabled.
+
+==Related difficulty settings==
+*'''Cursed Possessions quantity:''' The number of Cursed Possessions available
+*'''Cursed Possession #1 - #7:''' Enables the player to select the cursed possession(s), if desired
+
+==Objectives and tasks==
+*'''Weekly task:''' Use cursed possessions
+
+==Gallery==
+<gallery>
+Tanglewood-Music2.png|The Music Box in 6 Tanglewood Drive.
+Ouija edgefield utility.png|The Ouija Board in 42 Edgefield Road.
+Grafton-Mirror.png|The Haunted Mirror in Grafton Farmhouse.
+Willow-Circle.png|The Summoning Circle in 13 Willow Street.
+Prison-Doll.png|The Voodoo Doll in Prison.
+Maple-rework-tarot-cards.png|The Tarot Cards in Maple Lodge Campsite.
+Sunny Meadows Monkey Paw.png|The Monkey Paw in Sunny Meadows.
+</gallery>
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.5.0]]
+|Added or changed various equipment to form the group of cursed possessions.
+|-
+![[0.5.0.2]]
+|Cursed possessions can no longer be used outside the investigation area.
+|-
+![[0.5.1.0]]
+|Each cursed possession now only has one spawn location per map.
+|}<br>
+{{EquipmentNav}}
+[[Category:Item]]
+[[fr:Objet maudit]]
+[[ru:Проклятые предметы]]
+[[es:Posesiones malditas]]

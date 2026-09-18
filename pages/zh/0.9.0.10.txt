@@ -1,0 +1,35 @@
+# 0.9.0.10
+# revid 3265  2023-09-16T07:47:45Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version   | release_date=2023年9月15日   | previous_major_version=[[0.9.0]]   | previous_minor_version=[[0.9.0.9]]   | next_minor_version= }}'''0.9.0.10'''是发布于2023年9月15日的小型更新补丁。<ref>[https://store.steampowered.com/news/app/739630/view/7184986051957054490 ''Ascension | Hotfix v0.9.0.10''. 15 September 2023 (on Steam).]</ref> 本次更新作出了一些改动优化性能并修复漏洞。 ==改动== *优化VR目标优先…”
+# sha256 720ba53c4ec9ac0c6b0496161326c143e119b8e9647aa630a318abc7480b007c  bytes 1635
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | release_date=2023年9月15日
+  | previous_major_version=[[0.9.0]]
+  | previous_minor_version=[[0.9.0.9]]
+  | next_minor_version=
+}}'''0.9.0.10'''是发布于2023年9月15日的小型更新补丁。<ref>[https://store.steampowered.com/news/app/739630/view/7184986051957054490 ''Ascension | Hotfix v0.9.0.10''. 15 September 2023 (on Steam).]</ref> 本次更新作出了一些改动优化性能并修复漏洞。
+==改动==
+*优化VR目标优先度
+*优化VR抓取性能、准确度和可靠度
+*拿取VR手册时会高亮显示，以此修复UI漏洞
+*进一步优化[[精神病院]]地图
+*由于图像问题，将渲染路径从Forward+退回至Forward
+*优化[[枫林营地]]地图
+*在VR模式下，优化在所有地图内的CPU占用
+==修复漏洞==
+*现在可以再次正常关闭帐篷门帘
+*现在无法继续通过不应用自定义难度设置获得高倍数奖励
+*打开房间灯光且电闸哥布时，现在能正常降低理智
+*在VR模式下，玩家卡片和可滚动区域的显示位置正常化
+*鬼现在能在学校的正门附近击杀玩家
+*鬼不会再走出[[林风营地]]的调查区域
+*在猎杀时，幻妖现在能正常发出脚步声
+*掉到地上的1级紫外线灯光不再无限滚动
+*现在能再次看到VR的传送移动圆圈
+*现在能再次看到VR的高亮网格
+*精神病院的轮椅音效现在能显示在收音器上
+*在VR模式下使用传送移动不再会穿墙
+*在VR模式下，如果另一名VR玩家丢弃手册，你手持的物品不再掉下
+*1级紫外线灯光的价格校正为和其他等级一致的$35
+==参考资料==
+{{Reflist}}{{Versions}}

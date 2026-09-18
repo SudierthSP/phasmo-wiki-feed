@@ -1,0 +1,5 @@
+# Van
+# revid 18865  2024-08-18T22:50:03Z  by MavenMaxis
+# 备注: MavenMaxie moved page [[Van]] to [[Truck]]: its clearly a truck not a van.
+# sha256 ba10fea135451aff65715c9c534aa57d318d8e7aa7bce9b5987778234b33cc4f  bytes 19
+# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Truck]]

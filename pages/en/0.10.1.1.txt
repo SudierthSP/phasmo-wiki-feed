@@ -1,0 +1,24 @@
+# 0.10.1.1
+# revid 23878  2026-06-28T21:35:19Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 aabdd87a978450fcb700b92bc594e3c2006595ebac0ee6f4a0e567a4e4809b4f  bytes 917
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=13 August 2024
+ | previous_major_version=[[0.10.0]]
+ | previous_minor_version=[[0.10.1.0]]
+ | next_minor_version=[[0.10.1.2]]
+ | next_major_version=[[0.11.0]]
+}}'''0.10.1.1''' is a hotfix released on 13 August 2024.<ref>[https://store.steampowered.com/news/app/739630/view/4325229998952538076''Photo Deletion and Vivox | Hotfix v0.10.1.1''. 13 August 2024 (On Steam).]</ref> It provides a couple of fixes for the new Vivox voice chat system.
+
+==Fixes==
+*If you fail to connect to Vivox, you will now still be able to play, but without voice chat
+*The ghost can no longer always hear you in single-player if you using either push to talk or toggle mute
+*You can now be heard after using global chat if you are using toggle voice chat
+*Banned players can now get past the splash screen
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.10.1.1]]
+[[ru:0.10.1.1]]

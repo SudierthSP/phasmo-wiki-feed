@@ -1,0 +1,27 @@
+# 0.8.0.5
+# revid 2702  2023-01-07T05:39:29Z  by Skaijie
+# sha256 25366b1accf3ceaee072de22a2d583ede1c315f900cd17b78798cbc95de933cd  bytes 1029
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+ | release_date=2022年12月24日
+ | previous_major_version=[[0.8.0]]
+ | previous_minor_version=[[0.8.0.4]]
+ | next_minor_version=[[0.8.0.6]]
+}}'''0.8.0.5'''是发布于2022年12月24日的小型热修复更新。<ref>[https://store.steampowered.com/news/app/739630/view/3615859152043944558 ''Tempest | Hotfix v0.8.0.5''. 24 December 2022 (Steam)]</ref>
+
+== 改动 ==
+* 改进指纹着色器，使其在紫外线和普通光照下效果更好
+* 增加激活荧光棒前一分钟的亮度
+
+== 修复漏洞 ==
+* 现在雨水将与精神病院的地板碰撞，而不是在地板上方3米。
+* 监狱的雾气不再生成在A区内，优化性能
+* 修复附近有死亡的玩家时通灵板不会碎裂的漏洞
+* 重新加载主菜单后现在能正常看到节日奖杯
+* 相机现在能在鬼魂事件和猎杀时正常故障
+* 在透明表面上的指纹不再会有奇怪的方框
+* 修复鬼会卡在精神病院的仆人餐厅桌上的漏洞
+
+== 参考资料==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

@@ -1,0 +1,105 @@
+# 恐鬼症
+# revid 3404  2024-02-17T07:57:25Z  by Hulih0
+# 备注: 改了下最新版本
+# sha256 e09ee41fdb4863d3a3705074bdb2c54ab87d594786dff05f1326e05ef23b6043  bytes 2918
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox VG
+ |image=Phasmophobia_Logo.png
+ |developer=[[Kinetic Games]]
+ |publisher=[[Kinetic Games]]
+ |artist=cjdxn
+ |programmer=Dknighter、Lavender
+ |engine=Unity
+ |platform=*PC
+*VR
+ |available={{GetGame}}
+ |released=2020年9月18日 <sup>抢先体验</sup><br/>
+ |genre=在线多人合作恐怖
+ |price=13.99 <sup>美元</sup><br/>47.00 <sup>人民币</sup><br/>248.00 <sup>台币</sup><br/>72.00 <sup>港币</sup>
+ |version=[[0.9.4.3]]
+}}{{Quote
+ |灵异现象频发，带上你的猎鬼装备，和你的团队一同前往收集超自然证据吧。
+ |游戏描述
+ |恐鬼症
+}}'''恐鬼症'''是一款由[[Kinetic Games]]开发的独立多人合作恐怖游戏。本游戏在2020年9月18日开启抢先体验，支持PC和VR。最多支持4名玩家一同前往[[地点|闹鬼场所]]调查灵异现象。
+
+==游戏玩法==
+你需要使用[[装备]]定位[[鬼魂房间]]来完成各项目标。为完成目标，你需要增加鬼魂活动强度。为此，你可以问鬼问题，让它做一些事，直呼其名或说关键句激怒它。当你在建筑内时理智会逐渐降低。理智越低，鬼魂[[猎杀]]的可能性越高。猎杀时的鬼魂会追逐并杀死玩家。猎杀时出口门会锁上，因此玩家需要躲起来或逃离鬼魂。
+
+===目标===
+{{Main|目标}}
+游戏开始后，你需要完成四个目标。目标1只会是'''推测当前鬼魂类型。''' 在[[教程]]里只有一个目标。你需要使用装备找出不同的证据来进行[[调查]]。你遇到的现象会记录在[[手册]]里。默认按J打开手册，在里面你可以看到各类鬼魂信息、照片等。你需要拥有正确的证据，在最后一页推测出鬼魂类型才能完成目标1。最后回到[[厢式货车|车]]上关门结束游戏。
+
+剩下的目标可能需要携带特定装备才能完成。
+
+有多种方式获取证据，而鬼魂的[[指南/辨别鬼魂特征|特殊行为]]也能助你推测出鬼魂类型。
+
+===控制===
+所有PC控制选项都能在设置菜单内更改，默认设置为：
+
+{| class="wikitable" width="50%"
+! width="40%" |用途
+! width="30%" |键盘
+|-
+|移动
+|W, A, S, D
+|-
+|奔跑
+|Shift
+|-
+|蹲伏
+|C
+|-
+|局部通话
+|V
+|-
+|手电筒（特殊键）
+|T
+|-
+|頭戴设备
+|T(長按)
+|-
+|全局通话
+|B
+|-
+|切换物品栏
+|Q
+|-
+|手册
+|J
+|-
+|捡起物品
+|E
+|-
+|丢弃物品
+|G
+|-
+|交互
+|鼠标左键
+|-
+|主要用途
+|鼠标右键
+|-
+|次要用途
+|F
+|}
+
+==截图==
+<gallery widths="185">
+File:Tutorial_hallway.png
+File:Bleasdale_utility_investigation.png
+File:学校走廊.png
+File:精神病院地下室走廊.jpg
+File:物品商店外观.jpg
+File:干扰 0.7.jpg
+</gallery>
+
+==逸闻轶事==
+
+*'Phasmophobia'的意思是害怕鬼魂。Phasmo = 鬼魂   phobia = 恐惧症
+*Kinetic Games最初仅由一位开发者制作，现有两位开发者和两位美术。
+
+----
+<center>
+{{Subreddit}}{{JoinDiscord}}
+</center>
+[[Category:恐鬼症]]

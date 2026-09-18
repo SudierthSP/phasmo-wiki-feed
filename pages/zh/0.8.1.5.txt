@@ -1,0 +1,19 @@
+# 0.8.1.5
+# revid 2952  2023-04-09T05:59:57Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version  | release_date=2023年4月9日  | previous_major_version=[[0.8.0]]  | previous_minor_version=[[0.8.1.4]]  | next_minor_version=  | next_major_version=[[0.9.0]] }} '''0.8.1.5'''是发布于2023年4月9日的小型更新。本次修复了复活节事件无法领取奖励的问题。  ==复活节事件== *在没有其他徽章时，现在能正常领取复活节事件的奖励。如果你遇到该漏洞，在复活节事件地图内再次游玩…”
+# sha256 583fb525b9a34ccc8d86c176c1b01eb5b16c23978c4a695a5a6622d1f4819837  bytes 619
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+ | release_date=2023年4月9日
+ | previous_major_version=[[0.8.0]]
+ | previous_minor_version=[[0.8.1.4]]
+ | next_minor_version=
+ | next_major_version=[[0.9.0]]
+}}
+'''0.8.1.5'''是发布于2023年4月9日的小型更新。本次修复了复活节事件无法领取奖励的问题。
+
+==复活节事件==
+*在没有其他徽章时，现在能正常领取复活节事件的奖励。如果你遇到该漏洞，在复活节事件地图内再次游玩可获得奖励
+*本周的每周挑战给予正常的奖励和装备布局。该挑战将在正确的时间重置
+
+==参考资料==
+{{Reflist}}{{Versions}}

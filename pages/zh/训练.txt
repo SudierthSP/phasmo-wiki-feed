@@ -1,0 +1,5 @@
+# 训练
+# revid 2266  2022-08-14T05:05:27Z  by Skaijie
+# 备注: 重定向页面至[[教程]]
+# sha256 5cf8f26dba27efee2e3e31610357ae7e14bded651961ead092371e34882b085a  bytes 20
+# 源: https://phasmophobia.fandom.com/zh/api.php#REDIRECT [[教程]]

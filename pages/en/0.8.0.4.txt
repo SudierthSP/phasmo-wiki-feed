@@ -1,0 +1,33 @@
+# 0.8.0.4
+# revid 23979  2026-06-28T21:43:02Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 0592f590158d460710e9b9b13f3e316005f65201e374177cb38e51c4ff0f3901  bytes 1532
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=21 December 2022
+ | previous_major_version=[[0.8.0]]
+ | previous_minor_version=[[0.8.0.3]]
+ | next_minor_version=[[0.8.0.5]]
+ | next_major_version=[[0.9.0]]
+}}'''0.8.0.4''' is a minor hotfix released on 21 December 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3615859152036088057 ''Tempest | Hotfix v0.8.0.4''. 21 December 2022 (on Steam).]</ref>
+
+== Bug fixes ==
+* Fixed a bug some people wouldn’t back up their save file, get badges or be able to obtain the Holiday trophy. If you were using a VPN to fix this before, you no longer need to use it.
+* You will no longer get an infinite black screen if you loaded the game for the first time and then quit without playing
+* The Haunted mirror can now see ceilings again
+* Fixed foliage lighting in Grafton, Bleasdale and Sunny Meadows
+* One of the female ghost models will now have the correct visual on the DOTS Projector
+* Sunny meadows: Adjusted the following hiding spots when they get “blocked”
+** Female Bedroom 4, the bed will now move
+** The Manager's Office wardrobe will now move up against the wall
+** The cardboard boxes in the Supply Room will now disappear
+** The Operating Room’s privacy screen will now disappear
+** Male Room 1’s bed will now rotate towards the wall
+** The bookshelf in the Female day room will now have collision
+** Hospital Room 2’s privacy screen will now disappear when not blocked
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.8.0.4]]
+[[ru:0.8.0.4]]

@@ -1,0 +1,185 @@
+# Daily and Weekly Tasks
+# revid 24005  2026-06-28T21:45:17Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 e1aaca8f517cf8fe0bdd9f6388216cb253cf8556293f8f3669b955024f072d79  bytes 5370
+# 源: https://phasmophobia.fandom.com/api.php[[File:Tasks 0.8.1.png|300px|thumb|right|An example of the tasks that can be completed.]]
+'''Daily Tasks''' and '''Weekly Tasks''' are additional goals that provide bonus income when completed. Most tasks on a given day or week are the same for every player. Four daily and weekly tasks each are given at a time.
+
+==Progress==
+Both types of tasks can be viewed on the [[main menu board]], and on clipboards that can be found in the [[truck]] (when in a [[contract]]) and the lobby. Where applicable, the task will be listed on the post-game results screen when it is completed during the contract.
+
+Contracts with a [[difficulty]] multiplier of 0x will not count towards any task progress. For [[media]]-related tasks, only pieces of media in the [[journal]] will count.
+
+==List of tasks==
+===Daily Tasks===
+Daily Tasks reset at midnight UTC every day.
+{| class="fandom-table"
+!Daily Task
+!Actual requirements (if applicable)/notes
+!Reward<br>(both $ and XP)
+|-
+|Buy an item in the store
+|Buy 3 items in the [[Shop]].
+|100
+|-
+|Capture a unique ghost photo
+|Capture 3 unique [[ghost]] photos.
+|100
+|-
+|Complete [[Objectives]]
+|Complete 6 objectives across multiple contracts.
+|100
+|-
+|Discover the Ghost type
+|Have the correct ghost selected upon ending a contract.
+|100
+|-
+|Earn $100 from capturing [[media]]
+|Get a total of $100 in media rewards. This can be across multiple contracts.
+|100
+|-
+|Find the [[Bone Evidence|bone]]
+|Collect 3 bones.
+|100
+|-
+|Get a ghost to walk through Salt
+|Have 10 salt piles stepped in by the ghost. This must be done across multiple contracts.
+|100
+|-
+|Get a Ouija Board response
+|
+|50
+|-
+|Get a Spirit Box response
+|
+|50
+|-
+|Play a medium map
+|
+|150
+|-
+|Play Contracts
+|Play 3 contracts.
+|100
+|-
+|Play with another investigator
+|Join and play one contract with at least one other player.
+|100
+|-
+|Reach 0 [[sanity]]
+|Have your individual sanity reach 0%.
+|50
+|-
+|Survive with only the starter items
+|Play one standard (i.e. non-[[Challenge Mode|challenge]]) contract without adding any additional equipment.
+|100
+|-
+|Contribute event points
+|Collect 75 event points. This task is always present during [[special events]] and replaces the first task.
+|250
+|}
+
+===Weekly Tasks===
+Weekly Tasks reset at midnight UTC every Monday.
+{| class="fandom-table"
+!Weekly Task
+!Actual requirements (if applicable)/notes
+!Reward<br>(both $ and XP)
+|-
+|Capture unique ghost media
+|Capture 15 unique photos or [[Media#Video evidence|videos]] of the ghost.
+|500
+|-
+|Capture unique media
+|Capture 30 unique media of any subject.
+|500
+|-
+|Capture unique UV photos
+|Capture 20 unique [[Media#Photo evidence|photos]] of [[Ultraviolet#Fingerprints|fingerprints]] or [[Ultraviolet#Footprints|footprints]].
+|500
+|-
+|Collect bones
+|Collect 15 bones.
+|500
+|-
+|Complete Daily Tasks
+|Complete 15 [[#Daily Tasks|Daily Tasks]].
+|500
+|-
+|Complete objectives in ''[map name]''
+|Complete 12 objectives in the specified map. The map is randomly selected and different for each player.
+|500
+|-
+|Correctly find the ghost type
+|Correctly identify the ghost type 15 times.
+|500
+|-
+|Detect the ghost with a [[Motion Sensor]]
+|Detect the ghost 30 times with a motion sensor.
+|500
+|-
+|Detect sounds with a [[Sound Sensor]]
+|Pick up 30 sounds with a sound sensor.
+|500
+|-
+|Earn Perfect Investigation Bonuses on Nightmare or harder
+|Complete 3 games with a reward multiplier of x4 or more with the following conditions: identify the correct ghost type, complete all 3 objectives, collect the [[Bone Evidence|bone]], and fill all media slots with unique recordings.
+|500
+|-
+|Hear paranormal sounds with a [[Parabolic Microphone]]
+|Pick up paranormal sounds 15 times on a parabolic microphone.
+|500
+|-
+|Prevent hunts with a [[crucifix]]
+|Prevent 15 hunts with a crucifix.
+|500
+|-
+|Survive [[hunt]]s
+|Survive 30 hunts.
+|500
+|-
+|Use Cursed Possessions
+|Activate or use 50 [[cursed possession]]s. The same cursed possession can be used multiple times if possible.
+|500
+|-
+|Complete Challenge Mode in ''[map name]''
+|Play [[Challenge Mode]] in the specified map and identify the ghost three times. This task is always present, but the map and challenge will change every week.
+|5000
+|-
+|Contribute event points
+|Collect 300 event points. This task is always present during [[special events]] and replaces the first task.
+|2000
+|}
+
+==See also==
+*[[Daily and Weekly Tasks/Rotation]]
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.8.1.0]]
+|Added a Challenge Mode task.
+|-
+![[0.9.0]]
+|Removed the "Survive a Hunting Phase" daily task, and the "Earn experience" and "Survive hunts" weekly tasks.
+|-
+![[0.11.1.0]]
+|Added temporary "Contribute event points" daily and weekly tasks.
+|-
+! rowspan="3" |[[0.13.0]]
+|Added "Detect sounds with a Sound Sensor" and "Survive hunts" weekly tasks.
+|-
+|Changed some daily and weekly tasks:
+*"Capture a 3-star ghost photo" -> "Capture a unique ghost photo"
+*"Get a $50+ photo reward" -> "Earn $100 from capturing media"
+*"Take 3-star footstep photos" -> "Capture unique UV photos"
+*"Take 3-star ghost photos" -> "Capture unique ghost media"
+*"Take 3-star photos" -> "Capture unique media"
+|-
+|Removed "Earn Perfect Investigation Bonuses" and "Earn money from contracts" weekly tasks.
+|}
+
+[[Category:Objectives]]
+[[fr:Tâches quotidiennes et hebdomadaires]]
+[[ru:Ежедневные и еженедельные задания]]

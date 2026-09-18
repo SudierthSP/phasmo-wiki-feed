@@ -1,0 +1,227 @@
+# Contests and giveaways
+# revid 24441  2026-08-11T15:27:48Z  by Darkhooper
+# sha256 8fd8722cd60a2428fa0001f02e05a70254b104e2d3ed585e9af85811c657720b  bytes 10307
+# 源: https://phasmophobia.fandom.com/api.phpThis page lists '''contests and giveaways''' related to ''Phasmophobia'' that ultimately resulted in a winner or winners receiving an in-game reward. As such, this list does not include all contests, only those that rewarded some form of in-game prize.
+
+==2022==
+===Poster Design Contest (2022)===
+This contest was hosted by [[Kinetic Games]] on the official Phasmophobia Discord Server. The winner and runners up would receive an in-game badge, a Steam gift card, the Community Artist Discord Role, and 1 Phasmophobia game key.
+{| class="fandom-table" style="width: auto;"
+!Platform
+!Start Date
+!End Date
+!Winners Announced
+|-
+|Discord 
+|18 May 2022
+|30 June 2022
+|4 July 2022
+|-
+! colspan="4" |Announcement
+|-
+| colspan="4" |
+Welcome back, we've got some news for you.
+
+;CONTEST
+'''We are holding a new Poster Design Contest''', submissions will close at midnight (EST), on June 30th.
+
+We loved the previous poster designs so much, we'd love some more for the office!
+
+<div class="mw-collapsible mw-collapsed">
+We are seeking out artistic members of this community to show off their creativity and skill by designing a poster, but this time there are some rules:
+;RULES
+*'''You must choose and include ''only one item'' from the game, and make that the primary focus of the poster''' (e.g the Haunted Mirror or Smudge Sticks, not both).
+*Your design must be SFW (No nudity, profanity, or excessive violence). The design must fall within the server rules so please read them carefully before working on a design.
+*Size - 2900px x 4060px (portrait preferred), minimum 300DPI, JPEG high quality (a smaller sized / quality png must be submitted to modmail for competition review).
+*Your design must be entirely original and not contain the work of another individual in any capacity.
+*We will not download any software to view your designs, so please ensure your design is able to be viewed as a standalone image and not a project file to be opened in an application such as Photoshop.
+*You may submit multiple designs, and substitute/edit any submissions prior to the deadline on June 30th.
+*To submit designs, or have any questions, send a Direct Message to *** saying "Poster design submission", and include your image in the same message. Please do not message individuals regarding submissions, only ***.
+
+;PRIZES
+'''1st place'''
+*Your poster will be printed and displayed in the Kinetic Games office, and you will receive a physical copy of the poster as well.
+*£100 Steam gift card
+*In-game VIP ID card
+*Community Artist Discord Role
+*1 Phasmophobia game key
+
+'''3 runners ups'''
+*Your poster will be printed and displayed in the Kinetic Games office, and you will receive a physical copy of the poster as well.
+*£50 Steam gift card
+*In-game VIP ID card
+*Community Artist Discord Role
+*1 Phasmophobia game key
+
+'''''Good luck and Happy Huntin''''''
+</div>
+|-
+! colspan="4" |In-Game Prize
+|-
+| colspan="3" |Artist ID card
+| colspan="1" |[[File:Ghost Huntin' Artist ID Card -New.png|220px]]
+|}
+''Note: It was decided after the December 2022 contest that winners of the "Art Contests" would receive the Artist ID card instead of the VIP ID card.''
+
+===Holiday Art Contest (2022)===
+This contest was hosted by Kinetic Games on the official Phasmophobia Discord Server. The winner and runners up would receive an in-game badge, a Steam gift card, the Community Artist Discord Role, and 1 Phasmophobia game key.
+{| class="fandom-table" style="width: auto;"
+!Platform
+!Start Date
+!End Date
+!Winners Announced
+|-
+|Discord
+|5 December 2022
+|31 December 2022
+|20 January 2023
+|-
+! colspan="4" |Announcement
+|-
+| colspan="4" |
+Welcome back, we've got some news for you.
+
+;CONTEST
+The Holiday period is upon us!
+
+We are seeking out creative members of the community to show off their talents and skill by creating something based on Phasmophobia!
+
+<div class="mw-collapsible mw-collapsed">
+;RULES
+*Create anything you like based on the game! Choose any medium; 2D, 3D, music, sounds, video, cosplay, or anything, and send it in! It does not need to be holiday or Christmas related, but can be if you'd like to!
+*Your entries must be SFW (No nudity, profanity, or excessive violence). Your entry must fall within the server rules so please read them carefully before working on a design.
+*'''Requirements:'''
+**Images/Photos: JPEG or PNG
+**Posters: Size - 2900px x 4060px (portrait preferred), minimum 300DPI, JPEG high quality '''(Please send a smaller sized preview when submitting for review)'''.
+**Audio: Up to 3 minutes, MP3, OGG, or WAV formats
+**Video: Up to 3 minutes, MP4, '''(Upload your submission to Youtube or Vimeo as unlisted and send us a link to review)'''
+*Your design must be entirely original, and not contain the work of another individual in any capacity.
+*No AI created art or low effort submissions will be considered for the competition.
+*You may submit multiple entries, and substitute/edit any submissions prior to the deadline on '''December 31st'''!
+*We will not download any software to view your entry, so please ensure your entry is able to be viewed as a standalone image and not a project file to be opened in an application such as Photoshop.
+*To submit your entries, or have any questions, send a Direct Message to *** saying "Holiday Contest Submission", and include your submission in the same message. Please do not message individuals regarding submissions, only ***.
+
+;PRIZES
+'''1st place'''
+*£100 Steam gift card
+*In-game VIP ID card
+*Community Artist Discord Role
+*1 Phasmophobia game key
+
+'''3 runners ups'''
+*£50 Steam gift card
+*In-game VIP ID card
+*Community Artist Discord Role
+*1 Phasmophobia game key
+
+'''''Please note, by submitting an entry to this competition, you agree to not sell said entry, and we may ask in the future for permission to share/use the rights of your work'''''
+</div>
+|-
+! colspan="4" |In-Game Prize
+|-
+| colspan="3" |Artist ID card
+| colspan="1" |[[File:Ghost Huntin' Artist ID Card -New.png|220px]]
+|}
+''Note: It was decided after the December 2022 contest that winners of the "Art Contests" would receive the Artist ID card instead of the VIP ID card.''
+
+===VIP Giveaway (2022)===
+This series of contests and giveaways were hosted individually by Kinetic Games' official content creators. The winners or selected recipients of said contests/giveaways would receive an in-game badge.
+{| class="fandom-table" style="width: auto;"
+!Platform
+!Start Date
+!End Date
+!Winners Announced
+|-
+|Twitter / X
+|10 December 2022
+|31 December 2022
+|N/A
+|-
+! colspan="4" |Announcement
+|-
+| colspan="4" |
+Starting today watch your favourite official Phasmophobia content creator to have a chance at winning an in-game VIP badge! 
+
+See below for more details.
+
+[[File:VIP Contest Announcement.jpg|440px]]
+|-
+! colspan="4" |Contest / Giveaway Details
+|-
+| colspan="4" | 
+Each Official Content Creator was given 3 VIP cards to distribute by whatever means they chose. Many creators chose to make their distribution more of a contest (video essays, bingo tournaments, last man standing, etc.) while others truly did a giveaway (selecting someone random from their streams, holding raffles, giving to friends, etc.)
+
+The exact dates and times of each content creator's contest/giveaway was up to the creator. All creators were to give their chosen recipients' Steam IDs to Kinetic Games so they could associate the appropriate role with those accounts.
+
+There was no official announcement from Kinetic Games of the chosen recipients, so a complete list of winners is not publicly known. The chosen recipients received their VIP ID cards in-game on 18 January 2023.
+|-
+! colspan="4" |In-Game Prize
+|-
+| colspan="3" |VIP ID card
+| colspan="1" |[[File:VIP ID Card -HQ.png|220px]]
+|}
+
+==2024==
+===Blood Moon Art Contest (2024)===
+This contest was hosted by Kinetic Games on the official Phasmophobia Discord Server. The winner and runners up would receive an in-game badge, a Steam gift card, the Community Artist Discord Role, and 1 Phasmophobia game key.
+{| class="fandom-table" style="width: auto;"
+!Platform
+!Start Date
+!End Date
+!Winners Announced
+|-
+|Discord
+|11 November 2024
+|23 November 2024
+|29 November 2024
+|-
+! colspan="4" |Announcement
+|-
+| colspan="4" |
+A Phasmophobia Halloween art contest!
+
+To celebrate the release of the new Crimson Eye update, the Blood Moon Halloween event and console updates we are looking for the artistically-inclined ghost-hunting fans of Phasmophobia to put their pens to their spirit-books and create some fan art!
+
+Should your spooky images impress the ghosts trapped in this haunted house and capture the spirit of the game, you could win fun and exciting prizes!
+
+So whether you're an experienced and hardened ghost-hunter, or a bright-eyed and optimistic new hunter stepping foot into the lighthouse for the first time, impress us with your ghostly art as you created spooky images Under the Blood Moon!
+
+<div class="mw-collapsible mw-collapsed">
+;RULES
+For the best chance to win, try to incorporate the essence of the Blood Moon!
+*Must involve in part or in whole Phasmophobia and Halloween
+*Strictly no AI art is allowed in this contest.
+*Can be classically drawn/painted, digital art, 3d renderings, or illustrations. If you are using a screenshot from the game it must only be used as a base layer that you’ve built up into a creative new image
+*No nudity
+*While some blood/gore is allowed due to the nature of the game, please keep it tasteful!
+*Any additional classic Phasmophobia elements are encouraged!
+*No previous art experience required! We're looking for any art that captures the spirit of Halloween and Phasmophobia!
+*Please keep the max resolution for your entry at or below 1440p
+
+;PRIZES
+'''1st place'''
+*£100 Steam gift card
+*In-game VIP ID card
+*Community Artist Discord Role
+*1 Phasmophobia game key (platform of your choice!)
+
+'''3 runners ups'''
+*£50 Steam gift card
+*In-game VIP ID card
+*Community Artist Discord Role
+*1 Phasmophobia game key (platform of your choice!)
+
+9 additional creators will get the Community Artist Discord Role.
+</div>
+|-
+! colspan="4" |In-Game Prize
+|-
+| colspan="3" |VIP ID card
+| colspan="1" |[[File:VIP ID Card -HQ.png|220px]]
+|}
+
+==See also==
+*[[Special events]]
+[[Category:Events]]
+[[fr:Concours et cadeaux]]
+[[ru:Конкурсы и розыгрыши]]

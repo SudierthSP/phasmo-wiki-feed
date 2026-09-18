@@ -1,0 +1,123 @@
+# Controls
+# revid 24250  2026-07-24T04:35:46Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 f6de68594e41fd009673c5fa95a187f332f270ea00692ec858e4d3a3397ddc94  bytes 3507
+# 源: https://phasmophobia.fandom.com/api.php{{Stub|You can help us by=adding controls for VR headsets with unique controllers}}
+
+This page lists the default controls in ''[[Phasmophobia]]''. They can be modified in the [[Options]] menu.
+
+==Controls==
+{| class="fandom-table" style="text-align:center"
+!'''Usage'''
+!'''Input (Keyboard/Mouse)'''
+!'''Input (Controller)'''
+!'''Input (VR)'''
+|-
+!Movement
+|<center>{{Keyboard|W}}{{Keyboard|A}}{{Keyboard|S}}{{Keyboard|D}}</center>
+|<br>{{Controller|LS}}<br>{{Controller|LStick}}
+| rowspan="2" |
+*'''Meta/Windows Mixed Reality/Valve Index:''' Left Thumbstick
+*'''HTC Vive:''' Left Trackpad
+|-
+!Sprint
+|<center>{{Keyboard|Shift|60}}</center>
+|<br>{{Controller|LP}}<br>{{Controller|L3}}
+|-
+!Look
+|[[File:MoveMouse.png|47x47px]]
+|<br>{{Controller|RS}}<br>{{Controller|RStick}}
+|
+*'''Meta/Windows Mixed Reality/Valve Index:''' Right Thumbstick/Looking Around
+*'''HTC Vive:''' Right Trackpad/Looking Around
+|-
+!Crouch
+|<center>{{Keyboard|C}}</center>
+|<br>{{Controller|RP}}<br>{{Controller|R3}}
+|
+*'''Meta/Windows Mixed Reality/Valve Index:''' Right Thumbstick Press/Ducking
+*'''HTC Vive:''' Right Trackpad Press/Ducking
+|-
+!Push-to-talk (Local)
+|<center>{{Keyboard|V}}</center>
+|<br>{{Controller|LB}}<br>{{Controller|L1}}
+|
+*'''Meta:''' X
+*'''HTC Vive/Windows Mixed Reality:''' Left Menu Button
+*'''Valve Index:''' Left A
+|-
+!Push-to-talk (Global)
+|<center>{{Keyboard|B}}</center>
+|<br>{{Controller|RB}}<br>{{Controller|R1}}
+| rowspan="3" |Take/Place on the Belt
+|-
+!Item swap
+|<center>{{Keyboard|Q}}</center>
+|<br>{{Controller|Y}}<br>{{Controller|Triangle}}
+|-
+!Journal
+|<center>{{Keyboard|J}}</center>
+|<br>{{Controller|View}}<br>{{Controller|TouchPad}}
+|-
+!Grab item
+|<center>{{Keyboard|E}}</center>
+|<br>{{Controller|X}}<br>{{Controller|Square}}
+| rowspan="2" |Grip
+|-
+!Drop item
+|<center>{{Keyboard|G}}</center>
+|<br>{{Controller|B}}<br>{{Controller|Circle}}
+|-
+!Special
+| rowspan="2" |<center>{{Keyboard|T}}</center>
+| rowspan="2" |<br>{{Controller|DPadDown}}<br>{{Controller|D-PadDown}}
+|Trigger
+|-
+![[Head Gear]] toggle<br>(Hold unless on VR)
+|Trigger near headgear
+|-
+!Inspect [[Watch]]<br>(Hold unless on VR)
+|<center>{{Keyboard|H}}</center>
+|<br>{{Controller|DPadLeft}}<br>{{Controller|D-PadLeft}}
+|
+|-
+!Interact
+| rowspan="2" |[[File:LeftMouseButton.png|30px]]
+| rowspan="2" |<br>{{Controller|RT}}<br>{{Controller|R2}}
+|Trigger with held item
+|-
+!Door Interact
+|Grip
+|-
+!Main use
+|[[File:RightMouseButton.png|30px]]
+|<br>{{Controller|A}}<br>{{Controller|Cross}}
+|Trigger with held item
+|-
+!Secondary use/place
+|<center>{{Keyboard|F}}</center>
+|<br>{{Controller|LT}}<br>{{Controller|L2}}
+|Trigger with held item
+|-
+!Inventory Slots<br>(keyboard only)
+|<center>{{Keyboard|1}}{{Keyboard|2}}{{Keyboard|3}}{{Keyboard|4}}</center>
+|
+|
+|}
+
+==VR Controllers reference==
+<div style="text-align:center; background: #111; border-radius: 25px; padding: 5px; color: #fff">
+<!-- Can somebody make this look nicer? idk what I'm doing -->
+[[File:Meta Touch Pro Controllers.png]]<br>
+Meta Touch Pro. This layout is the most common layout used today.<br>
+[[File:Windows Mixed Reality Controllers.png]]<br>
+Windows Mixed Reality. This controller lacks the common A B X Y buttons.<br>
+[[File:Valve Index Controllers.png]]<br>
+Valve Index. This controller does not use the X Y buttons. Grip is triggered by grabbing.<br>
+[[File:HTC Vive Controller.png]]<br>
+HTC Vive. This controller is very unique, lacking A B X Y buttons and thumbsticks.<br>
+</div>
+
+[[ru:Управление]]
+[[Category:Gameplay]]
+[[fr:Contrôles]]

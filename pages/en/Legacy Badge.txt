@@ -1,0 +1,16 @@
+# Legacy Badge
+# revid 24603  2026-09-05T02:59:51Z  by Darkhooper
+# sha256 66c65d8784c36785481f2c8bffaf63eee943423bad5aad13a0d1ea182efc78a9  bytes 1217
+# 源: https://phasmophobia.fandom.com/api.php[[ru:Legacy Badge]]
+[[File:Legacy Badge Template.png|thumb|Legacy Badge customization template provided by the developers.]]
+The '''Legacy Badge''' is a badge that was given to players that played ''Phasmophobia'' before the release of the [[0.9.0|Ascension]] update. Legacy Badges show the highest level a player achieved prior to the level system overhaul. Legacy badges are unobtainable for players that began playing after 17 August 2023.
+
+==Features==
+Upon launching the game after the [[0.9.0|Ascension]] update, eligible players are given the ability to customize their legacy badge which includes changing the color, background, and accent icons on the badge. This used to be a one-time process, and after saving the badge it would permanently show on a player's left shoulder under their [[ID Card#Prestige Badges|Prestige]]. Since version [[0.19.0]], players who have a legacy badge can customize it in the [[shop]].
+
+==Legacy Badge Plaque==
+[[File:Legacy Badge plaque 1.png|thumb|Legacy Badge Plaque.]]
+As of version [[0.9.0.4]], a plaque was added to the [[Lobby]] to show a player's Legacy Badge. This will only appear for players that have a Legacy Badge.
+
+[[Category:Gameplay]]
+[[fr:Badge d'héritage]]

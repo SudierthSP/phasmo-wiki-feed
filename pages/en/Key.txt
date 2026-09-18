@@ -1,0 +1,55 @@
+# Key
+# revid 23334  2026-05-05T20:24:06Z  by Darkhooper
+# 备注: fixed link
+# sha256 a1f4578561ccb86e85328214717c7a0b5ede06d64622d1f96f723dd9d054be3b  bytes 2489
+# 源: https://phasmophobia.fandom.com/api.php[[File:CarKey.png|alt=The car key on Tanglewood Street.|thumb|273x273px|The car key on [[6 Tanglewood Drive]].]]
+'''Keys''' are used to unlock [[Exit Door|exit doors]] to investigation areas within [[map]]s, or to turn off a [[car]] alarm.
+
+==Usage==
+At the start of every investigation, the location's Main Door Key will be hung on the hook beside the door keypad in the [[truck]]. A player needs to collect it in order to unlock the exit doors and enter the location. If the map has a car, a car key can also be found within the map; using a car key on the car will cause it to beep twice and turn off the alarm if it was previously on.
+
+Keys are shared across all players and can be used at any time, except during [[hunt]]s where all exit doors will be locked. Keys that have been collected in the [[contract]] will show up in the [[journal]].
+
+===Types of keys===
+* '''Main Door Key''': Found in the [[truck]], the Main Door Key is used to unlock the main door or side doors of a building.
+* '''Car Key''': Found in [[6 Tanglewood Drive]], [[13 Willow Street]], [[42 Edgefield Road]], and [[10 Ridgeview Court]]. Can be used to turn off car alarms set off by the [[ghost]].
+*'''Cabin Key''': Found in [[Maple Lodge Campsite]], under the rug near the cabin door. Used to unlock the door to the Cabin.
+*'''Lantern Cabinet Key''': Found in [[Point Hope]], at the pool ball exit after solving a [[Point Hope#Easter_Egg: Ferryman of the Drowned|certain riddle at the pool]]. Can be used to unlock the lantern cabinet in Lantern Room.
+
+==Trivia==
+*In earlier updates, Garage Keys and Basement Keys were formerly present on certain small maps, intended to unlock the doors to their respective rooms. These doors could also be locked by the [[ghost]].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+! rowspan="3" |5 January 2020
+|Collected keys are now permanent.
+|-
+|Some doors will now be randomly locked within the map, requiring keys to be unlocked.
+|-
+|The list of keys collected is now shown in the [[Journal]].
+|-
+!6 January 2020
+|Keys are now synced across players.
+|-
+!2 February 2020
+|The Main Door Key now only spawns once all players have connected.
+|-
+!22 August 2020
+|Added a sound effect when picking up keys.
+|-
+! colspan="2" |Early Access
+|-
+!0.28.?
+|Removed the Garage and Basement keys.
+|-
+![[0.4.0]]
+|Added a Cabin Key for the [[Maple Lodge Campsite]] cabin.
+|}
+
+{{Map nav}}
+[[Category: Map Features]]
+[[fr:Clé]]
+[[ru:Ключи]]
+[[zh:钥匙]]

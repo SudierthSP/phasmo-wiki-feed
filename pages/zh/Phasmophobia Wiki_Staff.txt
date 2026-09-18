@@ -1,0 +1,21 @@
+# Phasmophobia Wiki:Staff
+# revid 1341  2021-10-29T12:51:05Z  by Qsefthuopq
+# sha256 2ed0dacefe39693f33e35657e692054b337bd1204d487869e9be22cb875e1e02  bytes 309
+# 源: https://phasmophobia.fandom.com/zh/api.php{{DISPLAYTITLE:Wiki管理员}}
+<center>
+{{Header|管理员}}
+{| class="article-table"
+!
+!ID
+!身份
+!状态
+|-
+|[[File:qsefthuopq.jpg|100x100px|link=User:qsefthuopq]]
+|'''qsefthuopq'''
+|'''自由译者'''
+| style="background:#00FF00;color: black;" |'''活跃'''
+
+|}
+
+</center>
+[[Category:Site Administration]]

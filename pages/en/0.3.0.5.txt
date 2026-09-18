@@ -1,0 +1,29 @@
+# 0.3.0.5
+# revid 23932  2026-06-28T21:39:21Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 69ed716636392bb71a62563c3fc56b86d1feb98dda9a39155c390824d3392ac9  bytes 1085
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=8 September 2021
+  | previous_major_version=[[0.3.0]]
+  | previous_minor_version=[[0.3.0.4]]
+  | next_major_version=[[0.4.0]]
+  | next_minor_version=[[0.3.1.0]]
+}}'''0.3.0.5''' is a minor update to the game released on 8 September 2021.<ref>https://store.steampowered.com/news/app/739630/view/2940276721131083156</ref> The update mainly fixes bugs.
+
+== Changes ==
+=== Gameplay ===
+*Reduced the rate that temperature raises when the ghost is not in the room
+
+== Bug fixes ==
+*Fixed a bug where the player couldn't see the journal photos if their hard drive failed to save the photo as a .png file in their install folder
+*Fixed some performance issues when another player took a photo
+*Fixed a bug where the first photo in the journal could be blank if another player took the photo
+*Fixed a bug where the journal photos and photo names would sometimes be in the wrong order
+*Fixed a bug where where some ghost sounds were not giving evidence for photos
+
+== References ==
+{{reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.3.0.5]]
+[[ru:0.3.0.5]]

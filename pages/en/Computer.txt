@@ -1,0 +1,25 @@
+# Computer
+# revid 21222  2025-06-27T16:47:00Z  by Darkhooper
+# 备注: new mechanics
+# sha256 09a271418ca79519f12071230bcfd8e81b0161f1aa8f09395f7bf342cfe3cea5  bytes 1604
+# 源: https://phasmophobia.fandom.com/api.php[[File:Computer.png|right|frameless|320x320px|alt=]]
+The '''computer''' is an [[equipment]] located on a desk in the [[truck]].
+
+==Usage==
+By default, the computer displays a screensaver, but when the player approaches it, it displays a live feed of any currently-active camera on the map, including [[video camera]]s, Tier I [[Head Gear]], and the location's [[Video Feed|video feed]].
+
+When {{Control|interacting}} with the computer, players can then select which camera to focus on, or use one of the available buttons at the bottom of the screen. The REC button will start the video recording for the selected camera, the PAN buttons will rotate the camera if placed on a [[tripod]], the NV button will toggle night vision, and the ZOOM buttons will adjust the zooming.
+
+The use of the computer in tandem with video cameras allows for the safe gathering of some [[evidence]] types: [[Ghost Orb]]s, [[Ghost Writing]], [[Ultraviolet]] and [[D.O.T.S. Projector]] can all be observed through the screen with proper positioning of the camera and the relevant equipment.
+
+==Trivia==
+*Prior to update 0.29.0, the computer keyboard lacked an "H" key.<ref>[[:File:ComputerCamera.png|File:ComputerCamera.png]]</ref>
+*Prior to the [[Exposition Update]], the computer was the only way to utilize video cameras, as they did not have their own display feed.
+*The assets used for the computer can be found [https://assetstore.unity.com/packages/3d/props/electronics/hq-computer-93276 here].
+
+==References==
+{{reflist}}
+{{Equipment nav}}
+[[Category:Truck Equipment]]
+[[fr:Ordinateur]]
+[[ru:Видеомонитор]]

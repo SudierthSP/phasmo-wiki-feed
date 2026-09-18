@@ -1,0 +1,105 @@
+# Freezing Temperatures
+# revid 23468  2026-05-12T16:49:30Z  by Darkhooper
+# sha256 d125d7b9aac3d5a31c3e10b4699bb02418c71ccc54e31bced8665f5860b8b926  bytes 4513
+# 源: https://phasmophobia.fandom.com/api.php{{Evidence_Infobox
+ |detected_by=[[File:Thermometer_Render.png|24x24px|link=Thermometer]] [[Thermometer]]
+ |image1=Thermometer_Render.png
+}}{{Quote|speaker=The Journal|quote=All ghosts make rooms cold, however, some have been known to make the temperature drop extremely fast.}}
+'''Freezing Temperatures''' (or Freezing Temps/Freezing) are a piece of [[evidence]] used to determine the type of [[ghost]] haunting the location.
+
+==Mechanics==
+The presence of a ghost in a room will cause the room's [[temperature]] to decrease, regardless of evidence. Ghosts without Freezing Temperatures evidence will be able to drop the room's temperature to {{Temperature|celcius=1}}, whereas ghosts with Freezing Temperatures as evidence will be able to drop the temperature to {{Temperature|-10}}.
+
+Freezing Temperatures can only be confirmed if the [[thermometer]] reads a temperature ''strictly below'' {{Temperature|celcius=1}}.<ref>[https://www.reddit.com/r/PhasmophobiaGame/comments/1651puv/comment/jyeuden/ ''"Well normal ghosts can only lower to 1C, so if you get anything below that then you know"'' cjdxn4, Developer (on Reddit). 30 August 2023.]</ref>
+*If using a Tier I thermometer, Freezing Temperatures should only be confirmed if the thermometer reads a temperature strictly below {{Temperature|celcius=0}} as it is less accurate between {{Temperature|celcius=5}} and {{Temperature|celcius=0}} (there are only 8 graduations between these two values instead of 9).
+
+===Rewards===
+{{Main|Media}}
+Taking a photo of the thermometer while it is displaying a freezing temperature will yield a '''Freezing Temperatures''' photo, rewarding up to $7 and 7 XP, depending on the tier of the [[Photo Camera]].
+
+==Tips==
+===Ghost location and temperatures===
+Temperatures only decrease when the ghost is within a room, and although the ghost is more likely to stay in its [[ghost room]], making it colder, freezing temperatures do not necessarily indicate the ghost room.<ref>[https://www.reddit.com/r/PhasmophobiaGame/comments/qle0yp/comment/hjysjrg/ Developer comment on reddit]</ref>
+
+Additionally, temperatures do not return to normal immediately after a ghost leaves a room. This means that multiple rooms can be freezing at once, and that players should not assume that low or freezing temperatures guarantees that the ghost is still in that room.
+
+Since [[0.9.0]], seeing cold breath is ''not'' an indicator of Freezing Temperatures.
+
+===Weather===
+If the fuse box is turned off at the start, Freezing Temperatures may be obtained quicker, depending on the [[weather]] and how often the ghost roams into other rooms. In particular, one could theoretically observe Freezing Temperatures in approximately two minutes if it is snowing, as long as the ghost stays in the same room for long enough.
+
+As of [[0.9.0]], temperatures drop at 1/3 the current speed, if the temperature is below the weather's ambient temperature.
+
+===Visual effects===
+Nearly all ghosts can initiate an "airball" [[ghost event]] which is visually similar to the player's breath, other than in movement. The airball does ''not'' count as an indicator for low temperatures. The main difference is that the airball event usually moves towards a particular player, while cold breath never moves by itself.
+
+==Possible ghosts==
+{| class="article-table"
+|[[Aswang]]
+|Freezing Temperatures
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|[[Ghost Writing]]
+|-
+|[[Demon]]
+|Freezing Temperatures
+|[[Ultraviolet]]
+|[[Ghost Writing]]
+|-
+|[[Hantu]]
+|Freezing Temperatures
+|[[Ultraviolet]]
+|[[Ghost Orb]]
+|-
+|[[Jinn]]
+|Freezing Temperatures
+|[[EMF Level 5]]
+|[[Ultraviolet]]
+|-
+|[[Moroi]]
+|Freezing Temperatures
+|[[Ghost Writing]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Oni]]
+|Freezing Temperatures
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|[[EMF Level 5]]
+|-
+|[[Onryo]]
+|Freezing Temperatures
+|[[Ghost Orb]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Revenant]]
+|Freezing Temperatures
+|[[Ghost Orb]]
+|[[Ghost Writing]]
+|-
+|[[Shade]]
+|Freezing Temperatures
+|[[EMF Level 5]]
+|[[Ghost Writing]]
+|-
+|[[The Mimic]]
+|Freezing Temperatures
+|[[Ultraviolet]]
+|[[Spirit Box]]
+|-
+|[[The Twins]]
+|Freezing Temperatures
+|[[EMF Level 5]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Yurei]]
+|Freezing Temperatures
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|[[Ghost Orb]]
+|}
+
+==References==
+{{Reflist}}
+{{Evidence nav}}
+{{Equipment nav}}
+[[Category:Evidence]]
+[[fr:Températures glaciales]]
+[[ru:Минусовая температура]]

@@ -1,0 +1,200 @@
+# 0.13.0
+# revid 23892  2026-06-28T21:36:28Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 e620ad40eaf21774187c22208ffea6adc8a3aea74ca702374782ba3117162afb  bytes 13117
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | image1=0.13.jpg
+ | official_name=Chronicle
+ | release_date=24 June 2025
+ | previous_major_version=[[0.12.0.1]]
+ | previous_minor_version=[[0.12.1.2]]
+ | next_minor_version=[[0.13.0.1]]
+ | next_major_version=[[0.14.0]]
+}}'''0.13.0''', also known as the '''Chronicle''' update, is a major update released on 24 June 2025.<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-chronicle-v013 ''Chronicle - Phasmophobia v0.13'']</ref> It features a rework of the photo system, adds video and sound evidence along the new sound recorder, and new objectives and tasks.
+
+==Additions==
+===[[Equipment]]===
+;[[Sound Recorder]]
+*Using this new piece of equipment, players will be able to capture up to three Sounds per contract. These will be able to be played back from the Sounds page in the Journal. The Sound Recorder itself will be available from Level 4, with its Tier 2 and Tier 3 iterations available at later levels.
+
+===[[Media]]===
+;Video Evidence
+*A total of five videos can be captured in a single investigation.
+*To capture video footage, players will need to hold down the "USE" button while aiming the camera at the spot they wish to record. A new icon will display on the video camera, encouraging the player to record.
+*Below is a selection of recordable evidence during an investigation:
+**Hunting Ghost
+**Ghost triggering Crucifix
+**Ghost Orbs
+**Thrown objects
+**Doors being moved
+**Ghosts interacting with objects (rocking chairs, gas canisters, etc.)
+**A light source shattering
+**Ghost blowing out a candle or fire
+**More to discover
+
+;Sound Evidence
+*The Sound Recorder can capture the below Sounds during an investigation:
+**Paranormal Sounds
+**A hunting Ghost
+**Singing Ghost events
+**Spirit Box responses
+**More to discover
+
+===Challenges and Optional [[Objectives]]===
+;Challenges
+*While the rotational challenges will remain the same, we now have the ability to introduce unique challenges throughout the year. These could include:
+**Update launch challenges (such as "On Record", live as of 24th June*)
+*** *progress from "Lights Out!" will be wiped and replaced with "On Record"
+**Increased XP events
+**Equipment-focused challenges (Sound Recorder, Video Camera, etc.)
+
+;Optional Objectives
+*Added "Capture three unique photos with a Photo Camera"
+*Added "Capture three unique videos with a Video Camera"
+*Added "Capture two unique paranormal sounds with a Sound Recorder"
+*Added "Capture a video of a Ghost"
+
+===Miscellaneous===
+*User Interface improvements.
+**The Main Menu has been reworked while retaining the same functionality.
+**Players can now set Playstyle (Casual, Hardcore, and Roleplay) and Hardware preferences (VR Required and Microphone Required) when creating a room.
+**Players can now filter by the above options and difficulties on the lobby browser.
+**Players can now see the Difficulty (or multiplier if using a custom difficulty) of a lobby when browsing the room browser.
+**Players can now see the currently selected map of a room from the room browser.
+**When using text options instead of Voice Recognition, the relevant Gamepad UI buttons now flash when pressed to give visual feedback on button presses.
+*Twitch Drops are now live. For more information, please see our blog.
+*Many new sounds.
+*Check your trophy cabinets.
+*VR players can now grab doors from any position on the door, instead of just the door handle. This allows for much smoother and easier movement.
+*Added a Virtual Cursor Sensitivity Option for UI navigation, this can be found in Game Settings.
+*You can now go back to the post-game debriefing screen after closing it. 
+*Added an Auto Aim option for gamepads to help grab and interact with objects. 
+*Players can now rename their custom difficulties.
+
+==Changes==
+===Equipment===
+;[[Video Feed]]
+*The CCTV interface has been split in to three sections - CCTV Cameras, Video Cameras and Head Cameras.
+*Players can view up to five different live camera feeds at once.
+*While using the CCTV interface, players can record video media from the safety of the truck.
+
+===Media===
+;Photo Evidence
+*Maximum Photos a player can take in an investigation has been reduced from ten to five.
+*New types of Photos can be gathered:
+**EMF reading on an EMF reader
+**Three Ghost Forms - Translucent, D.O.T.S and Shadow
+*The Photo types below have been moved to Video media and will no longer be able to be photographed.
+**Light switches
+**Door movements
+**Thrown objects
+**Ghost interactions with various objects
+
+===Rewards and Progression===
+;Rewards
+*Using higher tiers of the Photo Camera, Video Camera and Sound Recorder will reward players with an additional monetary bonus, per piece of Media.
+**$1 for Tier 2
+**$2 for Tier 3
+*All media rewards are now included in the reward multiplier.
+*Replaced the star-rating system with the new Unique/Duplicate System.
+**During a contract, the first time a piece of media is captured, it is marked Unique.
+**If the same piece of evidence is captured, it will receive a Duplicate mark and will reward less money and experience.
+**To achieve a Perfect Investigation, alongside usual requirements, players must fill their journal with Unique Media.
+**Up to three pieces of media can now be deleted during an investigation, up from two previously.
+
+;Progression
+*Equipment and their corresponding Tiers are now unlocked earlier.
+*Tier upgrades are now unlocked in groups of two or three, giving players the choice of which upgrade path to follow first.
+**Example: Crucifix Tier 3 and incense Tier 3 are both available to unlock at Level 80, instead of 90 and 85 respectively.
+
+===Optional Objectives===
+*Changed "Find evidence of paranormal activity with an EMF Reader" to "Capture a Photo of an EMF reading on an EMF reader"
+
+===Miscellaneous===
+*The Crucifix now visually "cools down" after successfully preventing a hunt.
+*Consoles now default to the last selected region, rather than the region with lowest ping to match PC.
+*Phasmophobia will now be able to load on Steam without an internet connection.
+*Goryo now has an increased chance of D.O.T.S.
+*Banshee can now change rooms.
+*The player will no longer have to click the ready up button in single player.
+
+==Fixes==
+*Fixed an issue in Point Hope that restricted player movement when holding the large pan from the kitchen.
+*Fixed an issue that would cause Salt to be placed in the air.
+*Fixed a visual issue where the CCTV screensaver would appear outside of the monitor.
+*Fixed an issue that would cause Cursed Possessions to be thrown out of a players reach in Bleasdale's attic.
+*Fixed an issue where bones would spawn behind inaccessible locations on the following maps: Tanglewood, Point Hope, Maple Lodge and Willow.
+*Fixed an issue that allowed for infinite sprinting after using the Monkey Paw.
+*Fixed an issue for VR players where the Tier 3 Firelight, Tier 3 Incense and the Voodoo Doll would swing oddly while held.
+*Fixed an issue where a cabinet door would not show as open for non-VR players if opened by a VR player.
+*Fixed an issue that prevented Head Gear from being useable by others if a player was disconnected or died.
+*Fixed an issue that prevented D.O.T.S and Motion Sensors from being picked up if placed inside static lights (Example: ceiling lights in Grafton Farmhouse)
+*Fixed an issue that caused hunts to happen if a player was outside the door on several maps.
+*Fixed an issue that caused Hantu breath to be visible after being killed with extended hunts on.
+*Fixed an issue that caused the Store to scroll while in the tutorial.
+*Fixed an issue that allowed items to be thrown through the outside wall of Ridgeview.
+*Fixed an issue that caused the Ouija board to not break when asked a question that would take the player below 0 Sanity.
+*Fixed an issue that caused items to get stuck behind the TV in Tanglewood's Living Room.
+*Fixed a visual issue that caused overlapping text when using the Ouija board.
+*Fixed an issue that listed the UV lights in the wrong order in the main menu lobby.
+*Fixed an audio issue that caused flies to be heard when Master Volume was set to 0 on Maple Lodge.
+*Fixed an issue that sometimes prevented a ghost from moving rooms when wishing for sanity with the Monkey Paw.
+*Fixed an issue where the ghost could become stuck in lockers in Prison.
+*Fixed an issue that prevented the player from being killed when hiding behind a chair in Prison.
+*Fixed an issue that allowed the Obake to walk backwards during a hunt.
+*Fixed an issue that caused lights to turn off when a Crucifix is used.
+*Fixed an issue that prevented seated VR players being able to reach the breaker box on Sunny Meadows. This has now been adjusted to be reachable.
+*Fixed a visual issue that caused the Tier 1 Crucifix to clip under carpets.
+*Fixed an issue that caused the ghost to become stuck behind crates during a hunt on Maple Lodge.
+*Fixed an issue where left-handed mode in VR would not correctly swap button layouts.
+*Fixed an issue where the ghost could begin a ghost event on Maple Lodge and be out of bounds.
+*Fixed a visual issue with the camping chair found in the yellow tent in Maple Lodge.
+*Fixed a UI issue that selected Random as a player's map choice when they are navigating menus.
+*Fixed an issue that prevented players from mounting video cameras on tripods when playing in VR.
+*Fixed an issue that caused the Music Box to flip when placed on a carpet.
+*Fixed an issue where other players could see a dead VR player's journal.
+*Fixed an issue that caused difficulty lighting incense in VR.
+*Fixed an issue in VR that caused the Tier 1 flashlight to be angled incorrectly when attached to a player's belt.
+*Fixed an issue on VR that, when teleport grab is turned off, caused incorrect interactions with doors.
+*Fixed an issue for VR players that caused inconsistencies with door handling if Grab Types were not synced.
+*Fixed an issue that allowed the player to stand in small tents (Maple Lodge, Woodwind) and prevent the ghost from killing the player.
+*Fixed an issue that caused inconsistencies with the door interaction points in VR for small tents (Maple Lodge, Woodwind).
+*Fixed an issue that caused the Ouija board to not provide a correct number when asked how many people are in a room.
+*Fixed an issue for legacy players that prevented them from setting legacy options if the EULA splash screen was displayed.
+*Fixed various issues in VR training mode that caused interaction problems.
+*Fixed an issue that allowed dead players to hear a heartbeat while stood next to the ghost.
+*Fixed an issue that caused a player to become un-ready if they open the Journal while in a multiplayer lobby.
+*Fixed an issue in VR where, when using teleport movement, players would drop all their equipment.
+*Fixed an issue where equipment belonging to a VR player would appear on the floor of the map for non-VR players.
+*Fixed an issue that prevented the Raiju receiving a speed increase around held electronical equipment.
+*Fixed an issue that caused the "Most Deaths To" stat to not display correctly for some users.
+*Fixed an issue that caused the ghost model to not be visible at distance during a hunt.
+*Fixed an issue that would cause tripods to become unusable for all players if a camera is placed on them by a VR player.
+*Fixed an issue that displayed Spirit Box UI when opening the journal, requiring the player to close the game in order to proceed.
+*Fixed an issue that prevented players from reporting other players when using a gamepad or playing in VR.
+*Fixed an issue when playing in VR where fog would remain after using the Monkey Paw ("I wish to see the ghost"), reducing vision for the player for the remainder of the game.
+*Fixed an audio issue that would play footstep sounds when a player is not moving.
+*Fixed an issue that would remove the Apocalypse map selection icon after going in and out of a game.
+*Fixed an issue which caused the tick over the Apocalypse icon to now display after completing Gold.
+*Various other bug fixes and improvements.
+
+==Known Issues==
+*Some trophies may not be visible in the main lobby for players on PlayStation 5, PlayStation VR2 and Xbox Series X/S.
+*These trophies will, however, be viewable once the player is in the single-player or multiplayer lobby.
+*A recordable Sound may spawn in an area that is not accessible to the player.
+*If a video is deleted, the player will be unable to record another video of that type during the same contract.
+*The Sound Recorder is not listed alphabetically in the Truck List.
+*Audio levels on several sounds may be too high.
+*The Master Volume setting does not affect the Sound Recorder volume.
+*The SFX of the Sound Recorder can be heard from very far away.
+*The High Priestess tarot card, if drawn, may not revive the player.
+*The footsteps of the ghost in Training are not audible.
+*There may be higher than expected difficulty in getting audio with the Sound Recorder during ghost hunts/events.
+*The player cannot take a photo of the Thermometer for Freezing temps if their setting is Fahrenheit.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.13.0]]
+[[ru:0.13.0]]

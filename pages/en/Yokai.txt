@@ -1,0 +1,87 @@
+# Yokai
+# revid 23421  2026-05-07T20:39:55Z  by Darkhooper
+# 备注: 0.17
+# sha256 44a4b118a696e02b808e037953cf369a206e3aeb521242d314573b8d7dcc461a  bytes 6691
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Yokai Discovered.jpg
+ |strength=*Talking near it will temporarily increase the hunting threshold and interaction rate
+ |weakness(es)=*When hunting, it can only hear voices and detect electronics within a short range
+ |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
+ |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
+ |Evidence3=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
+}}{{Quote
+ |quote=Yokai are common ghosts that are attracted to human voices. They can usually be found haunting family homes.
+ |speaker=The Journal
+}}'''Yokai''' is a type of [[ghost]] in ''Phasmophobia''. It is sensitive to voices, and becomes more aggressive while players are speaking nearby, which allows it to start a [[hunt]] even at high [[sanity]] levels. At the same time, while it is hunting, the radius in which it can hear players is much smaller compared to the other ghost types.
+
+==Behaviour==
+===Activity===
+Utilizing [[voice chat]] in the same room as the Yokai will increase its [[activity]] by 30.
+
+The Yokai must be within 2.5 metres of the [[Music Box]] to trigger the [[Ghost Event#Music Box|Music Box event]] instead of 5 metres for other ghosts.
+
+When a Music Box event is triggered, the cursed hunt initiated from the ghost reaching the box triggers if the box is within 0.5 metres of the Yokai's head<ref group="note">Each ghost model has the same "head" height, meaning the head of a crawling model is located where it would be if the ghost was standing.</ref> instead of 1 metre for all other ghosts. This means the cursed hunt will not instantly trigger if the Yokai reaches a crouching player holding the box.<ref>[https://youtu.be/Ai_fCSXUgn0 This video] shows the difference between a non-Yokai and a Yokai.</ref>
+
+===Hunt===
+When at least one player uses voice chat in the same room as the Yokai, its hunt sanity threshold is temporarily increased to 80%. Otherwise, it has the standard threshold of 50%.
+
+During hunts, a Yokai can only hear players or sense handheld active electronics that are within 2.5 metres of it. Its line-of-sight is unaffected.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]] [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]] [[Ghost Orb]]
+|[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: Talking near a '''Yokai''' will anger it, increasing the chance of an attack.''
+
+''Weakness: When hunting, a '''Yokai''' can only hear voices close to it.''
+
+==Strategies==
+The Yokai is identifiable through two distinctive traits: it will hunt more often when players are together and talking near it, but its ability to detect hidden players during a hunt through voice or electronics will be limited. For example, it will be less likely to follow the player past multiple line-of-sight breaks, and will not be attracted to held electronics unless the Yokai is already very close to the holder. 
+
+Although its 80% hunt threshold is theoretically the highest in the game, even greater than that of the [[Demon]] (outside of its hunt ability) and the youngest [[Thaye]], in practice, these extremely early hunts are rare. The Yokai does not have any additional buffs (and is in fact weaker) when hunting, so escaping it will be generally easier.
+
+To test for a Yokai during a hunt, stand at a distance close enough to where the ghost is currently at that is outside of the ghost's immediate line of sight, preferably near a hiding spot, and then turn on an electronic device and/or begin speaking in voice chat. If the ghost does not seek out the player making this noise, especially if it causes disruption of the device and then passes by instead of homing in, then it is likely a Yokai. Note that the electronic disruption range is a little bit greater than the actual range in which most ghosts will actually sense the held device. Care should be taken to not mistake the Yokai's limited hearing and electronics detection sense with the [[Banshee]] ignoring players other than its target (if they are inside the investigation area) during a hunt, especially on Nightmare as both these ghosts share two evidence.  
+
+The [[Monkey Paw]]'s wish to unblock a hiding spot will cause the ghost to be able to hear the speech and held electronics of the player who used it from any distance, overriding the Yokai's weakness. This may make trying to test a Yokai from its trait much more difficult, and when playing singleplayer, outright impossible. 
+
+In multiplayer, the Yokai becomes mildly more dangerous, as there are more players that could be talking near the Yokai at any given moment, and thus can elevate its hunt sanity threshold more often. Where possible, less experienced players should ideally keep voice communications as short as possible until the ghost room is found. Otherwise, completing [[objectives]] can be made easier by encouraging the Yokai to hunt through talking.
+
+Contrary to popular opinion, the Yokai does not hunt more aggressively if players speak near it, only raising its hunt threshold; this means that talking near it has no effect if the team's average sanity is already below the 50% normal hunt threshold, so if the sanity levels are already low, then there's no need to avoid using voice chat anymore.
+
+The [[Sound Recorder]]'s record range, especially for tiers II and III, actually outranges a Yokai's electronics detection range; by utilizing a suitable hiding spot, it is possible to record a hunting Yokai as it passes by, without it detecting the player, to easily get a high-reward piece of [[media]].
+
+==Trivia==
+*In Japanese Folklore, Yokai (妖怪, or "strange apparition") is a term broadly encompassing unexplained phenomenons, supernatural apparitions or spirits, which can take a wide variety of forms going from animals to inanimate objects.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.29.6]]
+|Added Yokai.
+|-
+![[0.3.0]]
+|Prior to 0.3.0, the evidence was [[Spirit Box]], [[Ghost Orb]], and [[Ghost Writing]].
+|-
+![[0.5.0]]
+|Talking near the Yokai will now increase its activity.
+|-
+![[0.17.0]]
+|The Yokai can no longer hear the Music Box from too far away.
+|}
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{GhostNav}}
+[[ru:Ёкай]]
+[[fr:Yokai]]
+[[Category:Ghosts]]

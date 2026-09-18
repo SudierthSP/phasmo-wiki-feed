@@ -1,0 +1,151 @@
+# Ghost Orb
+# revid 24613  2026-09-07T20:57:40Z  by Darkhooper
+# 备注: we can no longer clip cameras through solid objects
+# sha256 4b5802f3bfdec44c15d46ddba59b81c1c08bfae720490719185415c482d8f279  bytes 5835
+# 源: https://phasmophobia.fandom.com/api.php{{Evidence_Infobox
+ |detected_by=[[Video Camera]], [[Video Feed]], Tier I [[Head Gear]]
+ |image1=Ghost Orb video feed 0.4.0.gif
+ |caption1=A Ghost Orb floating towards the lower-right corner of the screen.
+}}{{Quote|speaker=The Journal|quote=Small floating orbs of light, only visible through a camera.}}
+'''Ghost Orbs''' are a type of [[evidence]] used to help determine the type of [[ghost]] haunting the location.
+
+==Mechanics==
+When a map is loaded in, Ghost Orbs will spawn in the [[ghost room|favourite room]] and float within the room. They look like very small orbs that glide across the screen, generally one at a time. They can be seen through the screen on a [[Video Camera]] with night vision, or through any available [[Video Feed|video feed]] with night vision, but not through night vision goggles (Tier III [[Head Gear]]). 
+
+Depending on the map and the location of the favourite room, Ghost Orbs can sometimes be seen via the map's [[Video Feed|CCTVs]] if the CCTV happens to be facing into the favourite room, though this is usually rare. Ghost Orbs will periodically shift position within the favourite room, forcing players to be more proactive in locating them.
+
+When the ghost room changes on [[difficulty|difficulties]] where 'Changing favourite room' is not set to 'None' (such as on Professional, Nightmare, or Insanity), the Ghost Orbs will also move to the new favourite room.
+
+===Rewards===
+{{Main|Media}}
+Filming a Ghost Orb will yield a '''Ghost Orbs''' video in the journal, rewarding up to $12 and 12 XP, depending on the tier of the video camera and whether there is a Unique stamp.
+
+== Possible ghosts==
+{| class="article-table"
+|+
+|[[Banshee]]
+|Ghost Orb
+|[[D.O.T.S Projector (Evidence)|D.O.T.S Projector]]
+|[[Ultraviolet]]
+|-
+|[[Dayan]]
+|Ghost Orb
+|[[EMF Level 5]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Hantu]]
+|Ghost Orb
+|[[Ultraviolet]]
+|[[Freezing Temperatures]]
+|-
+|[[Kormos]]
+|Ghost Orb
+|[[Spirit Box (Evidence)|Spirit Box]]
+|[[Ultraviolet]]
+|-
+|[[Mare]]
+|Ghost Orb
+|[[Spirit Box]]
+|[[Ghost Writing]]
+|-
+|[[Obake]]
+|Ghost Orb
+|[[EMF Level 5]]
+|[[Ultraviolet]]
+|-
+|[[Onryo]]
+|Ghost Orb
+|[[Freezing Temperatures]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Raiju]]
+|Ghost Orb
+|[[D.O.T.S Projector (Evidence)|D.O.T.S Projector]]
+|[[EMF Level 5]]
+|-
+|[[Revenant]]
+|Ghost Orb
+|[[Freezing Temperatures]]
+|[[Ghost Writing]]
+|-
+|[[Thaye]]
+|Ghost Orb
+|[[D.O.T.S Projector (Evidence)|D.O.T.S Projector]]
+|[[Ghost Writing]]
+|-
+|[[Yokai]]
+|Ghost Orb
+|[[D.O.T.S Projector (Evidence)|D.O.T.S Projector]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Yurei]]
+|Ghost Orb
+|[[D.O.T.S Projector (Evidence)|D.O.T.S Projector]]
+|[[Freezing Temperatures]]
+|}
+[[The Mimic]] induces Ghost Orbs as a "false flag" evidence. Since its main pieces of evidences are [[Spirit Box (Evidence)|Spirit Box]], [[Ultraviolet]], and [[Freezing Temperatures]], Ghost Orbs will be unaffected by the number of evidences set (such as on Custom difficulties or Nightmare difficulty), even when it is set to 0.
+
+==Strategies==
+
+*Because of the periodical moving of Ghost Orbs, searching for them with a hand-held Video Camera is often better than relying on stationary cameras. In addition, this eliminates back-and-forth trips to the truck, especially on larger maps where [[sanity]] preservation is more important.
+*A player in the truck can view their teammates' Tier I head gear during the initial search for the ghost room to search for Ghost Orbs.
+*If viewing the camera feed from the truck, camera placement is key to detecting Ghost Orbs. A good strategy for detecting them is placing two video cameras in the corners of the room facing each other to maximize coverage, or using a Tier 2 or 3 [[tripod]] to rotate the camera.
+*Ghost Orbs tend to show up in regular intervals. If none are seen for a long time, try moving the video camera or switch to another one.
+*In outdoor areas such as on [[Maple Lodge Campsite]], Ghost Orbs can be hard to see in bad weather conditions (primarily rain, snow, and fog). A hint to distinguishing them from snowflakes is that Ghost Orbs tend to float more horizontally and, sometimes, even upwards (compared to snowflakes always falling down). Additionally, snowflakes are generally dark, while orbs will be bright.
+*It is best to check for Ghost Orbs when the room's lights are off. When on, the brightness may hide the Orbs from sight.
+
+==Gallery==
+<gallery caltionalign="center">
+Mega Guide - Community Request - Phasmophobia.gif|An animation of the Ghost Orb moving pre-Exposition.
+GhostOrb.png|A pre-[[0.3.0|Exposition]] Ghost Orb circled in red.
+</gallery>
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!January 29, 2020
+|Added Ghost Particle as an evidence type.
+|-
+!March 12, 2020
+|Ghost Particles are now more visible on video cameras.
+|-
+!March 14, 2020
+|Renamed Ghost Particle to Ghost Orb.
+|-
+!March 26, 2020
+|Ghost Orbs are now brighter.
+|-
+!June 30, 2020
+|Ghost Orb positions are now synced between players.
+|-
+!August 9, 2020
+|Ghost Orbs positions are again no longer synced between players.
+|-
+! colspan="2" |Early Access
+|-
+!September 26, 2020
+|Ghost Orbs now spawn in the Ghost Room rather than moving with the Ghost itself.
+|-
+!September 28, 2020
+|Ghost Orb positions are once again synced between players.
+|-
+!October 18, 2020
+|Ghost Orbs will now spawn more towards the middle of the room.
+|-
+![[0.3.1.0]]
+|Ghost Orbs will now change position periodically within the room.
+|-
+! rowspan="2" |[[0.4.0]]
+|Ghost Orbs no longer require night vision to be seen in foggy weather.
+|-
+|Ghost Orbs can now also be seen via Photo Cameras if it is foggy.
+|-
+![[0.4.1.0]]
+|Ghost Orbs have been adjusted for better visiblity using night vision.
+|}
+
+{{Evidence nav}}
+[[ru:Призрачный огонёк]]
+[[Category:Evidence]]
+[[fr:Orbe fantomatique]]

@@ -1,0 +1,837 @@
+# Difficulty/Custom
+# revid 24587  2026-08-29T03:59:58Z  by Darkhooper
+# 备注: Undo revision [[Special:Diff/24583|24583]] by [[Special:Contributions/Sjadyak|Sjadyak]] ([[User talk:Sjadyak|talk]]) redundant with the clamp bullet point right above
+# sha256 368ee179fc126f8d7f61a5058de33e596ecfb720a0d21f4b62a103cb15b94327  bytes 14361
+# 源: https://phasmophobia.fandom.com/api.phpUnlocked at level 50, '''custom difficulty''', as the name suggests, allows the player to modify various parameters relating to the player, the ghost, and the contract itself. In exchange, the reward multiplier is either increased (if the changes make the difficulty harder) or decreased (if the changes make the difficulty easier). The penalties for decreasing the difficulty are usually higher than the rewards for increasing it.
+
+==Difficulty Modifiers==
+Each difficulty setting will show a coloured icon beside it, depending on how the reward multiplier is affected, mostly in relation to Amateur difficulty:
+* <span style="color: #00b800;">Green:</span> Increased rewards
+* <span style="color: #b3a400;">Yellow:</span> Limited by another difficulty setting
+* <span style="color: #b04500;">Orange:</span> Decreased rewards
+* <span style="color: #a60002;">Red:</span> Clamped or limited to a maximum reward multiplier
+
+In the following table, numbers in the Reward Modifier column are compared to the Base Reward. Every setting being set to Base Reward results in 1.00x rewards. Rewards cannot be lower than 0.00x or higher than 15.00x.
+
+*A modifier with + or - adds that number to the rewards multiplier.
+**e.g. +0.20x results in 3.00x -> 3.20x; -0.50x results in 3.20x -> 2.70x
+*A modifier with * multiplies the final rewards multiplier by that number.
+**e.g. *0.75x results in 4.00x -> 3.00x; *0.75x and *0.50x results in 1.00x -> 0.75x -> 0.37x
+*A clamp reduces the final rewards multiplier to that number, if it is higher.
+**e.g. a 2.00x clamp results in 3.00x -> 2.00x or 7.30x -> 2.00x; a 1.00x clamp would not affect 0.75x or 0.50x rewards
+
+Some parameters will affect other parameters. Such interactions are listed under the Secondary Modifier column.
+
+In the special case where modifiers are halved above 4.00x or 5.00x multipliers due to having 3 or 2 types of evidence respectively, the game first adds normally to reach the 4.00x or 5.00x multipliers, before adding half of what remains of the modifier.
+*For example, with 3 types of evidence and a multiplier at 3.80x, trying to add a modifier of +0.50x will first add 0.20x to reach 4.00x before adding half of the remaining 0.30x, which will give a final multiplier of 4.15x.
+
+{| class="fandom-table"
+!Setting
+!Option
+!Reward Modifier
+!Secondary Modifier
+!Notes
+|-
+! colspan="5" |Player
+|-
+| rowspan="5" |Starting sanity
+|0
+|<span style="color: #00b800;">+1.00x</span>
+|<span style="color: #b3a400;">+0.15x</span> instead if Sanity Pill Restoration is ≥25%
+|
+|-
+|25
+|<span style="color: #00b800;">+0.75x</span>
+|<span style="color: #b3a400;">+0.09x</span> instead if Sanity Pill Restoration is ≥20%
+|
+|-
+|50
+|<span style="color: #00b800;">+0.50x</span>
+|<span style="color: #b3a400;">+0.06x</span> instead if Sanity Pill Restoration is ≥10%
+|
+|-
+|75
+|<span style="color: #00b800;">+0.25x</span>
+|<span style="color: #b3a400;">+0.03x</span> instead if Sanity Pill restoration is ≥5%
+|
+|-
+|100
+|Base Reward
+|
+|
+|-
+| rowspan="12" |Sanity Pill restoration (%)
+|0
+|<span style="color: #00b800;">+0.50x</span>
+|<span style="color: #b3a400;">+0.25x</span> instead if Starting Sanity is 100%
+|
+|-
+|5
+|<span style="color: #00b800;">+0.40x</span>
+|<span style="color: #b3a400;">+0.22x</span> instead if Starting Sanity is 100%
+|
+|-
+|10
+|<span style="color: #00b800;">+0.30x</span>
+|<span style="color: #b3a400;">+0.20x</span> instead if Starting Sanity is ≥75%
+|
+|-
+|20
+|<span style="color: #00b800;">+0.20x</span>
+|<span style="color: #b3a400;">+0.17x</span> instead if Starting Sanity is ≥75%
+|
+|-
+|25
+|<span style="color: #00b800;">+0.15x</span>
+|
+|
+|-
+|30
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|35
+|<span style="color: #00b800;">+0.05x</span>
+|
+|
+|-
+|40
+|Base Reward
+|
+|
+|-
+|45
+|<span style="color: #b04500;">-1.00x</span>
+|
+|
+|-
+|50
+|<span style="color: #b04500;">-3.00x</span>
+|
+|
+|-
+|75
+|<span style="color: #b04500;">-5.00x</span>
+|
+|
+|-
+|100
+|<span style="color: #b04500;">-10.00x</span>
+|
+|
+|-
+| rowspan="5" |Sanity drain speed (%)
+|0
+|N/A
+|<span style="color: #a60002;">'''Rewards are clamped to 0.00x'''</span>
+|
+|-
+|50
+|<span style="color: #b04500;">'''*0.50x'''</span>
+|'''Rewards are multiplied by this number'''
+|
+|-
+|100
+|Base Reward
+|
+|
+|-
+|150
+|<span style="color: #00b800;">+0.30x</span>
+|
+|
+|-
+|200
+|<span style="color: #00b800;">+0.60x</span>
+|
+|
+|-
+| rowspan="3" |Sprinting
+|Off
+|<span style="color: #00b800;">+1.50x</span>
+|<span style="color: #b3a400;">+0.50x</span> instead if Player speed > Ghost speed or if Grace period is ≥3s
+|
+|-
+|On
+|Base Reward
+|
+|
+|-
+|Infinite
+|N/A
+|<span style="color: #a60002;">'''Rewards are clamped to 0.00x'''</span>
+|
+|-
+| rowspan="5" |Player speed (%)
+|50
+|<span style="color: #00b800;">+1.00x</span>
+|<span style="color: #b3a400;">+0.50x</span> instead if Sprinting is On or if Grace period is ≥3s
+|
+|-
+|75
+|<span style="color: #00b800;">+0.50x</span>
+|<span style="color: #b3a400;">+0.20x</span> instead if Sprinting is On or if Grace period is ≥2s
+|
+|-
+|100
+|Base Reward
+|
+|
+|-
+|125
+|<span style="color: #b04500;">'''*0.75x'''</span>
+| rowspan="2" |'''Rewards are multiplied by this number'''
+|
+|-
+|150
+|<span style="color: #b04500;">'''*0.50x'''</span>
+|
+|-
+| rowspan="2" |Flashlights
+|Off
+|<span style="color: #00b800;">+0.45x</span>
+|<span style="color: #b3a400;">+0.10x</span> instead if Fuse box at start of contract is not Broken
+|
+|-
+|On
+|Base Reward
+|
+|
+|-
+| rowspan="2" |Lose items and consumables
+|Off
+|N/A
+|<span style="color: #a60002;">'''Rewards are clamped to 0.00x'''</span>
+|
+|-
+|On
+|Base Reward
+|
+|
+|-
+! colspan="5" |Ghost
+|-
+| rowspan="31" |Ghost
+|Random
+|Base Reward
+|
+|
+|-
+|Aswang
+|N/A
+| rowspan="30" |<span style="color: #a60002;">'''Rewards are clamped to 0.00x'''</span>
+|
+|-
+|Banshee
+|N/A
+|
+|-
+|Dayan
+|N/A
+|
+|-
+|Deildegast
+|N/A
+|
+|-
+|Demon
+|N/A
+|
+|-
+|Deogen
+|N/A
+|
+|-
+|Gallu
+|N/A
+|
+|-
+|Goryo
+|N/A
+|
+|-
+|Hantu
+|N/A
+|
+|-
+|Jinn
+|N/A
+|
+|-
+|Kormos
+|N/A
+|
+|-
+|Mare
+|N/A
+|
+|-
+|The Mimic
+|N/A
+|
+|-
+|Moroi
+|N/A
+|
+|-
+|Myling
+|N/A
+|
+|-
+|Obake
+|N/A
+|
+|-
+|Obambo
+|N/A
+|
+|-
+|Oni
+|N/A
+|
+|-
+|Onryo
+|N/A
+|
+|-
+|Phantom
+|N/A
+|
+|-
+|Poltergeist
+|N/A
+|
+|-
+|Raiju
+|N/A
+|
+|-
+|Revenant
+|N/A
+|
+|-
+|Shade
+|N/A
+|
+|-
+|Spirit
+|N/A
+|
+|-
+|Thaye
+|N/A
+|
+|-
+|The Twins
+|N/A
+|
+|-
+|Wraith
+|N/A
+|
+|-
+|Yokai
+|N/A
+|
+|-
+|Yurei
+|N/A
+|
+|-
+| rowspan="5" |Ghost speed (%)
+|50
+|<span style="color: #b04500;">'''*0.50x'''</span>
+| rowspan="2" |'''Rewards are multiplied by this number'''
+|
+|-
+|75
+|<span style="color: #b04500;">'''*0.75x'''</span>
+|
+|-
+|100
+|Base Reward
+|
+|
+|-
+|125
+|<span style="color: #00b800;">+0.50x</span>
+|<span style="color: #b3a400;">+0.25x</span> instead if Sprinting is On or if Grace period is ≥2s
+|
+|-
+|150
+|<span style="color: #00b800;">+1.00x</span>
+|<span style="color: #b3a400;">+0.50x</span> instead if Sprinting is On or if Grace period is ≥3s
+|
+|-
+| rowspan="3" |Roaming frequency
+|Low
+|<span style="color: #b04500;">-0.20x</span>
+|
+|
+|-
+|Medium
+|Base Reward
+|
+|
+|-
+|High
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+| rowspan="4" |Changing favourite room
+|None
+|Base Reward
+|
+|
+|-
+|Low
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|Medium
+|<span style="color: #00b800;">+0.20x</span>
+|<span style="color: #b3a400;">+0.10x</span> instead if Roaming frequency is not High
+|
+|-
+|High
+|<span style="color: #00b800;">+0.30x</span>
+|<span style="color: #b3a400;">+0.15x</span> instead if Roaming frequency is not High
+|
+|-
+| rowspan="3" |Activity level
+|Low
+|<span style="color: #00b800;">+0.20x</span>
+|
+|
+|-
+|Medium
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|High
+|Base Reward
+|
+|
+|-
+| rowspan="3" |Event frequency
+|Low
+|Base Reward
+|
+|
+|-
+|Medium
+|<span style="color: #b04500;">-0.10x</span>
+|
+|
+|-
+|High
+|<span style="color: #b04500;">-0.20x</span>
+|
+|
+|-
+| rowspan="2" |Friendly ghost
+|Off
+|Base Reward
+|
+|
+|-
+|On
+|N/A
+|<span style="color: #a60002;">'''Rewards are clamped to 0.00x'''</span>
+|
+|-
+| rowspan="6" |Grace period (s)
+|0
+|<span style="color: #00b800;">+1.25x</span>
+|<span style="color: #b3a400;">+0.95x</span> instead if Player speed > Ghost speed
+|
+|-
+|1
+|<span style="color: #00b800;">+0.75x</span>
+|<span style="color: #b3a400;">+0.00x</span> instead if Player speed > Ghost speed
+|
+|-
+|2
+|<span style="color: #00b800;">+0.30x</span>
+|<span style="color: #b3a400;">-0.10x</span> instead if Player speed > Ghost speed
+|
+|-
+|3
+|<span style="color: #00b800;">+0.20x</span>
+|<span style="color: #b3a400;">-0.20x</span> instead if Player speed > Ghost speed
+|
+|-
+|4
+|<span style="color: #00b800;">+0.10x</span>
+|<span style="color: #b3a400;">-0.25x</span> instead if Player speed > Ghost speed
+|
+|-
+|5
+|Base Reward
+|<span style="color: #b3a400;">-0.30x</span> instead if Player speed > Ghost speed
+|
+|-
+| rowspan="3" |Hunt duration (s)<ref group="note" name=":0">The parameter includes "(s)" despite the durations listed not being in seconds.</ref>
+|Low
+|Base Reward
+|
+|
+|-
+|Medium
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|High
+|<span style="color: #00b800;">+0.20x</span>
+|
+|
+|-
+| rowspan="4" |Kills extend hunts (s)<ref name=":0" group="note" />
+|Off
+| rowspan="4" |Base Reward
+|
+| rowspan="4" |This does not affect rewards in any case.
+|-
+|Low
+|
+|-
+|Medium
+|
+|-
+|High
+|
+|-
+| rowspan="4" |Evidence given
+|0
+|<span style="color: #00b800;">+4.00x</span>
+|
+|
+|-
+|1
+|<span style="color: #00b800;">+2.00x</span>
+|
+|
+|-
+|2
+|<span style="color: #00b800;">+0.50x</span>
+|<span style="color: #b3a400;">Reward modifiers above 5.00x are halved</span>
+|
+|-
+|3
+|Base Reward
+|<span style="color: #b3a400;">Reward modifiers above 4.00x are halved</span>
+|
+|-
+| rowspan="4" |Fingerprint chance (%)
+|25
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|50
+|<span style="color: #00b800;">+0.06x</span>
+|
+|
+|-
+|75
+|<span style="color: #00b800;">+0.03x</span>
+|
+|
+|-
+|100
+|Base Reward
+|
+|Forced if Evidence given is 0
+|-
+| rowspan="7" |Fingerprint duration (s)
+|15
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|30
+|<span style="color: #00b800;">+0.07x</span>
+|
+|
+|-
+|60
+|<span style="color: #00b800;">+0.05x</span>
+|
+|
+|-
+|90
+|<span style="color: #00b800;">+0.02x</span>
+|
+|
+|-
+|120
+|Base Reward
+|
+|Forced if Evidence given is 0
+|-
+|180
+|<span style="color: #b04500;">-1.50x</span>
+|
+|
+|-
+|Infinite
+|<span style="color: #b04500;">-3.00x</span>
+|
+|
+|-
+! colspan="5" |Contract
+|-
+| rowspan="7" |Setup time (s)
+|0
+|<span style="color: #00b800;">+0.30x</span>
+|
+|
+|-
+|30
+|<span style="color: #00b800;">+0.30x</span>
+|<span style="color: #a60002;">'''Rewards are clamped to 2.60x'''</span>
+|
+|-
+|60
+|<span style="color: #00b800;">+0.25x</span>
+|<span style="color: #a60002;">'''Rewards are clamped to 2.30x'''</span>
+|
+|-
+|120
+|<span style="color: #00b800;">+0.25x</span>
+|<span style="color: #a60002;">'''Rewards are clamped to 2.00x'''</span>
+|
+|-
+|180
+|<span style="color: #00b800;">+0.10x</span>
+|<span style="color: #a60002;">'''Rewards are clamped to 1.60x'''</span>
+|
+|-
+|240
+|<span style="color: #00b800;">+0.10x</span>
+|<span style="color: #a60002;">'''Rewards are clamped to 1.30x'''</span>
+|
+|-
+|300
+|Base Reward
+|<span style="color: #a60002;">'''Rewards are clamped to 1.00x'''</span>
+|
+|-
+| rowspan="8" |Weather
+|Random
+|Base Reward
+|
+|
+|-
+|Light Rain
+|<span style="color: #00b800;">+0.02x</span>
+|
+|
+|-
+|Heavy Rain
+|<span style="color: #00b800;">+0.05x</span>
+|
+|
+|-
+|Snow
+|<span style="color: #00b800;">+0.02x</span>
+|
+|
+|-
+|Windy
+|<span style="color: #00b800;">+0.02x</span>
+|
+|
+|-
+|Clear
+|<span style="color: #b04500;">-0.10x</span>
+|
+|
+|-
+|Fog
+|<span style="color: #00b800;">+0.02x</span>
+|
+|
+|-
+|Sunrise
+|<span style="color: #b04500;">-0.10x</span>
+|
+|
+|-
+| rowspan="4" |Doors starting open
+|None
+|Base Reward
+|
+|
+|-
+|Low
+|<span style="color: #00b800;">+0.05x</span>
+|
+|
+|-
+|Medium
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|High
+|<span style="color: #00b800;">+0.20x</span>
+|
+|
+|-
+| rowspan="5" |Number of hiding places
+|None
+|<span style="color: #00b800;">+0.50x</span>
+|<span style="color: #b3a400;">+0.20x</span> instead if Hunt duration is Low or if Player speed > Ghost speed
+|
+|-
+|Low
+|<span style="color: #00b800;">+0.20x</span>
+|
+|
+|-
+|Medium
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|High
+|<span style="color: #00b800;">+0.05x</span>
+|
+|
+|-
+|Very High
+|Base Reward
+|
+|
+|-
+| rowspan="2" |Sanity monitor
+|Off
+|<span style="color: #00b800;">+0.05x</span>
+|
+|
+|-
+|On
+|Base Reward
+|
+|
+|-
+| rowspan="2" |Activity monitor
+|Off
+|<span style="color: #00b800;">+0.05x</span>
+|
+|
+|-
+|On
+|Base Reward
+|
+|
+|-
+| rowspan="3" |Fuse box at start of contract
+|Broken
+|<span style="color: #00b800;">+0.50x</span>
+|<span style="color: #b3a400;">+0.15x</span> instead if Flashlights is not Off
+|
+|-
+|Off
+|<span style="color: #00b800;">+0.10x</span>
+|
+|
+|-
+|On
+|Base Reward
+|
+|
+|-
+| rowspan="2" |Fuse box visible on map
+|Off
+|<span style="color: #00b800;">+0.05x</span>
+|
+|Forced if Fuse box at start of contract is Broken
+|-
+|On
+|Base Reward
+|
+|
+|-
+| rowspan="8" |Cursed Possessions quantity
+|0
+|<span style="color: #00b800;">+0.30x</span>
+|
+|
+|-
+|1
+|Base Reward
+|
+|
+|-
+|2
+|<span style="color: #b04500;">-1.00x</span>
+|
+|
+|-
+|3
+|<span style="color: #b04500;">-2.00x</span>
+|
+|
+|-
+|4
+|<span style="color: #b04500;">-3.00x</span>
+|
+|
+|-
+|5
+|<span style="color: #b04500;">-4.00x</span>
+|
+|
+|-
+|6
+|<span style="color: #b04500;">-5.00x</span>
+|
+|
+|-
+|7
+|<span style="color: #b04500;">-6.00x</span>
+|
+|
+|-
+| rowspan="8" |Cursed Possession #X
+|Random
+|Base Reward
+|
+| rowspan="8" |This will appear the same amount of times as what Cursed Possessions quantity is set to. All of them will reduce the rewards if not set to Random.<br>If a specific cursed possession is already selected, trying to select it again will skip over it. Skipping over Monkey Paw resets the selection to Random.
+|-
+|Tarot Cards
+|<span style="color: #b04500;">-1.00x</span>
+| rowspan="7" |No modifier if Cursed Possessions quantity is 7
+|-
+|Ouija Board
+|<span style="color: #b04500;">-2.00x</span>
+|-
+|Haunted Mirror
+|<span style="color: #b04500;">-2.00x</span>
+|-
+|Music Box
+|<span style="color: #b04500;">-2.00x</span>
+|-
+|Summoning Circle
+|<span style="color: #b04500;">-2.00x</span>
+|-
+|Voodoo Doll
+|<span style="color: #b04500;">-1.00x</span>
+|-
+|Monkey Paw
+|<span style="color: #b04500;">-5.00x</span>
+|-
+|}
+
+==Notes==
+{{Reflist|group="note"}}
+[[ru:Сложность/Пользовательская]]
+[[Category:Settings]]
+[[fr:Difficulté/Personnalisée]]

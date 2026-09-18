@@ -1,0 +1,25 @@
+# 0.8.0.7
+# revid 23982  2026-06-28T21:43:15Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 a197862374c0efba4ae7be9892d83417bcd2e2c1d8789e1d6c93dcf7382b5829  bytes 776
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=9 January 2023
+ | previous_major_version=[[0.8.0]]
+ | previous_minor_version=[[0.8.0.6]]
+ | next_minor_version=[[0.8.0.8]]
+ | next_major_version=[[0.9.0]]
+}}'''0.8.0.7''' is a minor hotfix released on 9 January 2023.<ref>[https://store.steampowered.com/news/app/739630/view/3681162799776527636 ''Tempest | Hotfix v0.8.0.7''. 9 January 2023 (on Steam).]</ref> This update removes the Christmas holiday event and decorations.
+
+== Changes ==
+* Removed Holiday event and decorations
+* Reduced the brightness of the lights in the Main Menu collection cabinets
+
+== Bug fixes ==
+*  The ghost can now walk through the courtyard doors in Sunny Meadows
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.8.0.7]]
+[[ru:0.8.0.7]]

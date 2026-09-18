@@ -1,0 +1,108 @@
+# EMF Level 5
+# revid 24168  2026-07-21T13:45:00Z  by Darkhooper
+# 备注: new EMF 5 photo
+# sha256 2e4446aeb76ccfcf61f4eda4a5cc0a8f00d0b5294f0c6949bd41dd8c84188fce  bytes 4454
+# 源: https://phasmophobia.fandom.com/api.php{{Evidence_Infobox
+ |detected_by=[[File:EMFReader_Render.png|24x24px|link=EMF Reader]] [[EMF Reader]]
+ |image1=EMF 5_0.3.1.2.png
+ |caption1=EMF Level 5 being detected on the tier II EMF reader.
+}}{{Quote|speaker=The Journal|quote=Some Ghosts leave Electro Magnetic Fields (EMF) when they interact with things. Look out for extra strong readings that reach level 5.}}'''EMF Level 5''' (or EMF 5) is a piece of [[evidence]] used to determine the type of [[ghost]] haunting the location.     
+
+==Mechanics==
+When a ghost with EMF Level 5 as one of its evidences [[Interaction|interacts]] with the environment, each [[EMF]] reading will have a 33% chance to be an EMF 5 emission instead of EMF 2 or EMF 3, which can be detected and confirmed with an [[EMF Reader]]. This applies to any action that will normally create EMF 2 or EMF 3, such as interactions, (some) abilities and so on. It does not apply to EMF 4.
+
+===Rewards===
+{{Main|Media}}
+Taking a photo of an EMF Level 5 will yield an '''EMF Level 5''' photo in the journal, rewarding up to $12 and 12 XP, depending on the tier of the [[Photo Camera]]. Likewise, recording the sound of an EMF Level 5 will yield an '''EMF 5 Reading''' sound in the journal, rewarding up to $12 and 12 XP, depending on the tier of the [[Sound Recorder]] and whether there is a Unique stamp.
+
+==Possible ghosts==
+{| class="article-table"
+|[[Dayan]]
+|EMF Level 5
+|[[Ghost Orb]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Deildegast]]
+|EMF Level 5
+|[[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|[[Ghost Writing]]
+|-
+|[[Gallu]]
+|EMF Level 5
+|[[Ultraviolet]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Goryo]]
+|EMF Level 5
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|[[Ultraviolet]]
+|-
+|[[Jinn]]
+|EMF Level 5
+|[[Ultraviolet]]
+|[[Freezing Temperatures]]
+|-
+|[[Myling]]
+|EMF Level 5
+|[[Ultraviolet]]
+|[[Ghost Writing]]
+|-
+|[[Obake]]
+|EMF Level 5
+|[[Ghost Orb]]
+|[[Ultraviolet]]
+|-
+|[[Oni]]
+|EMF Level 5
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|[[Freezing Temperatures]]
+|-
+|[[Raiju]]
+|EMF Level 5
+|[[Ghost Orb]]
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|-
+|[[Shade]]
+|EMF Level 5
+|[[Freezing Temperatures]]
+|[[Ghost Writing]]
+|-
+|[[Spirit]]
+|EMF Level 5
+|[[Ghost Writing]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[The Twins]]
+|EMF Level 5
+|[[Spirit Box (Evidence)|Spirit Box]]
+|[[Freezing Temperatures]]
+|-
+|[[Wraith]]
+|EMF Level 5
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|}
+
+==Tips==
+===Increasing interactions===
+EMF 5 is a random chance, so one would want to increase the chance of the ghost interacting with the environment. One can place some [[prop]]s in the ghost room for the ghost to throw. Make sure to turn off the room lights, as ghosts cannot throw items if the lights in its current room are on. Smudging the ghost or saying recognised phrases near the ghost can mildly increase the chance/rate of interactions.
+
+===EMF from the [[Site Activity Monitor]]===
+It is possible to "guess" EMF Level 5 as an evidence using the site activity monitor, though this is not guaranteed. This is because the site activity monitor is an approximate representation of the total EMF currently present in the map, with a modifier of 0, -1 or -2 for each EMF generated. Hence, EMF level 5 can be "guessed" if multiple straight-line jumps of 4 and 5 levels are observed, especially if no players are currently inside the investigation area. Though an EMF 5 emission can be represented by an activity change of 3 levels, an EMF 3 is just as likely to do the same, so a jump of 3 levels is generally ignored.
+
+Some occurrences may also show up as jumps of 4 or 5 levels; avoid erroneously taking these to represent EMF 5:
+*A [[ghost event]], which generates EMF 4. [[Hunt]]s also always generate EMF 4 but this is rarely observed
+*The [[Poltergeist]]'s multi-throw ability
+*Using [[Cursed Possession|cursed possessions]] to force interactions or ghost events, resulting in two EMF 2/3 interactions happening within the same second, or EMF 4 from ghost events and hunts
+*A hunt ending, sometimes causing a jump from level 10 to level 5/6
+*In general, interactions occurring very close to each-other
+
+Either way, using an [[EMF Reader]] is a far more reliable way of verifying EMF 5 as a piece of evidence. 
+
+==See also==
+*[[Objectives]]
+
+{{Evidence nav}}
+[[Category:Evidence]]
+[[fr:EMF niveau 5]]
+[[ru:Детектор ЭМП (ур. 5)]]

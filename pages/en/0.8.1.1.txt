@@ -1,0 +1,45 @@
+# 0.8.1.1
+# revid 23985  2026-06-28T21:43:28Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 2f601dbd93b5de63b260d6f39aeb8a6698d960c93714721262a51c25ef140d3c  bytes 2162
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=5 March 2023
+ | previous_major_version=[[0.8.0]]
+ | previous_minor_version=[[0.8.1.0]]
+ | next_minor_version=[[0.8.1.2]]
+ | next_major_version=[[0.9.0]]
+}}'''0.8.1.1''' is a minor hotfix released on 5 March 2023.<ref>[https://store.steampowered.com/news/app/739630/view/3656397893588782928 ''Tempest | Hotfix v0.8.1.1''. 5 March 2023 (on Steam).]</ref>
+
+== Additions ==
+* Added unique descriptions for crucifix interaction photos
+
+== Changes ==
+* The ghost will now always fully show when it starts moving during the start of a hunt
+* Monkey paw tags now update live in the journal when grabbed
+
+== Bug fixes ==
+* The Monkey Paw tags can now be grabbed by multiple players in the same game
+* The ghost in the dead room will now match the ghost model if it was male
+* The host can now be revived with the monkey paw revive wish
+* The see ghost negative effect will now end after the ghost event if you have a friendly ghost
+* Improved main menu performance
+* The revive stat will now only count when you are revived, instead of when anyone is revived
+* Voice recognition will now work correctly for non-hosts
+* Improved accuracy of the ghost crucifix hunt detection
+* The loading screen tips are now translated correctly, if the language was changed in the same instance of the menu
+* Removed black objects and weird lighting from the truck in High School
+* Improved some translations in the shop
+* Potential fix for “Loadout can't be added until flipping back and forth between loadout 1 and 2
+* No more null references for “UpdateAddButtons” in all logs
+* Fixed a rare bug where you couldn’t change difficulty
+* Potential fix for keyboard EMF photo not working in Ridgeview
+* The next time you open the game, your last difficulty will reset once, in order to fix many issues some users were having if they continued to play with the settings they had pre-0.8.1.0.
+* Willow windows now have the new UV shader
+* Sound sensors, motion sensors and DOTS will no longer be detectable by the ghost when held after being placed
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.8.1.1]]
+[[ru:0.8.1.1]]

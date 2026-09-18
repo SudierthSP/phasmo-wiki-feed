@@ -1,0 +1,132 @@
+# Motion Sensor
+# revid 21588  2025-08-08T20:24:13Z  by Darkhooper
+# 备注: replaced airball by mist form
+# sha256 4c33e44c34e67387ac982b80a7f4d622cf640ce34a829a0eb6929f2cf3df842a  bytes 6550
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=MotionSensor090_T1.png
+ | tier ii img=MotionSensor090_T2.png
+ | tier iii img=MotionSensor090_T3.png
+
+ | price=$100
+ | maxamount=4
+ | uses=Reusable
+ | starter=No
+ | tier i level=3
+ | tier ii level=42
+ | tier iii level=70
+
+ | tier i description=Previously a wildlife camera, the sensor has been modified to track paranormal entities moving in front of it.
+ | tier i purpose=Place this motion sensor on walls or the floor and it will flash any time something moves in front of it, even things you can’t see.
+ | tier i ability=<span style="color: #008000;">Sensor Shape: Line<br>Light Indicator<br>Placeable</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier ii description=From what we learned by modifying the previous version, we’ve managed to improve a more advanced camera for our paranormal tracking needs.
+ | tier ii purpose=With two different modes, a longer range, and a sound indicator, this sensor is perfect for paranormal tracking.<br>You can toggle the laser shape by Interacting with the sensor after it has been placed.
+ | tier ii ability=<span style="color: #008000;">Sensor Shape: Line<br>Sensor Shape: Narrow<br>Light Indicator<br>Audio Indicator<br>Placeable</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier iii description=A security camera that was stripped apart and rebuilt from the ground up, granting it vision into the paranormal realm.
+ | tier iii purpose=Place this Motion Sensing camera on the floor near to any ghost activity you may find. When activated, it will turn and flash a bright light whenever a ghost enters or exits its detection range.
+ | tier iii ability=<span style="color: #008000;">Range (m): 1.5<br>Sensor Shape: Full<br>Scanning<br>Light Indicator<br>Audio Indicator<br>Placeable</span><br><span style="color: #ff0000;">Electronic</span>
+}}The '''motion sensor''' is a piece of [[equipment]] that can help in tracking the movement of the [[ghost]].
+
+==Usage==
+A motion sensor can used by {{Control|placing}} it. After being placed, it can be turned off by {{Control|interacting}} with it.
+
+===Tier I===
+The Tier I Motion Sensor can either be placed on the wall or on the floor. When placed, the sensor will emit a red laser beam, indicating its effective detection distance. If it is placed on a wall, it will also display on the [[Site Map]] in the [[truck]] as a red bar.
+
+When a [[player]] (even if they are dead and spectating), the ghost, the [[Ghost Event#Mist Form|mist form]], or an object passes through its laser beam, the motion sensor will emit a bright light for 2 seconds. The bar on the site map will also turn green for 6 seconds, and an audible beep will play from the monitor. Motion sensors that are not displayed will still play the beep.
+
+===Tier II===
+The Tier II Motion Sensor is similar to the Tier I Motion Sensor and adds a conical mode which can be switched to by {{Control|interacting}} with it. The conical mode allows the sensor to have a second laser beam that can help players track the ghost's movement more accurately, as its lights will be emitted from left to right, or from right to left, depending on the direction of the movement. Additionally, the Tier II Motion Sensor will directly emit an audible beep when it detects movement.
+
+===Tier III===
+The Tier III Motion Sensor can only be placed on the floor and has a 1.5-metre spherical range that is displayed as a red circle on the site map in the truck. When the ghost enters this range, the sensor will quickly rotate to the location it detected the ghost, and will emit a small light and an audible beep. On the site map, the red circle will turn green for 6 seconds. When the ghost exits the range, the sensor will only rotate to the location it detected the ghost and emit a light, without beeping.
+
+Only the ghost can trigger this sensor.
+
+===Rewards===
+{{Main|Media}}
+Filming a motion sensor being triggered by the ghost will yield a '''Motion Sensed''' video, rewarding up to $7 and 7 XP, depending on the tier of the [[Video Camera]] and whether there is a Unique stamp.
+
+==Tips==
+*Placing motion sensors at corners or room boundaries can help to track where the ghost is.
+
+==Gallery==
+<gallery>
+File:Motion sensor t3 tanglewood.jpg|Tier III motion sensor's range shown on map as a red circle.
+File:Motion Sensor Triggered.jpg|The Motion Sensor when triggered.
+</gallery>
+
+==Objectives==
+{{Main|Objectives}}
+{| class="fandom-table"
+!Objective
+!Actual requirements
+|-
+|Detect a ghost presence with a motion sensor
+|Have the ghost walk past the motion sensor, triggering it
+|}
+
+==Trivia==
+*The motion sensor is the most expensive item in the game, costing $100.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!29 January 2020
+|Motion sensors no longer have a sound indicator in the van.
+|-
+!12 March 2020
+|The 5th and 6th motion sensor icons have been removed from the monitor in the van.
+|-
+!13 March 2020
+|Motion sensors no longer detect entities through walls.
+|-
+!20 March 2020
+|Motion sensors now have an outline to indicate where it will be placed.
+|-
+!21 March 2020
+|VR players can now place motion sensors from a greater distance.
+|-
+!19 May 2020
+|The motion sensor monitor in the van has been replaced with a map of the building for Tanglewood, Ridgeview and Edgefield maps. Motion sensors will show their detections on the map.
+|-
+! rowspan="2" |20 May 2020
+|Motion sensors will now stay activated on the map for 6 seconds, up from 2 seconds.
+|-
+|The width of the bar on the motion sensor has been doubled to improve visiblity.
+|-
+!19 June 2020
+|Motion sensors are now level-locked.
+|-
+!27 June 2020
+|Motion sensors can now only be unlocked at level 6.
+|-
+! rowspan="2" |12 August 2020
+|Motion sensors can now be picked up after they have already been placed on a wall.
+|-
+|The cost of motion sensors has been increased from $70 to $100.
+|-
+! colspan="2" |Early Access
+|-
+!29 September 2020
+|The motion sensor bar on the map monitor now shows up as red instead of pink.
+|-
+! rowspan="2" |[[0.3.0]]
+|Changed the motion sensor model.
+|-
+|The function of the Infrared Light Sensor has been merged into the motion sensor; motion sensors now emit light when an entity walks past it.
+|-
+![[0.4.0]]
+|Motion sensors can now be placed on the floor.
+|-
+![[0.9.0]]
+|Added Tier II and III Motion Sensors.
+|-
+![[0.13.0]]
+|The [[Ghost Event#Mist Form|mist form]] can no longer trigger motion sensors.
+|}
+
+{{Equipment nav}}
+[[Category:Equipment]]
+[[fr:Détecteur de mouvement]]
+[[ru:Датчик движения]]

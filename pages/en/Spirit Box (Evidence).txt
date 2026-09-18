@@ -1,0 +1,359 @@
+# Spirit Box (Evidence)
+# revid 23460  2026-05-12T14:35:09Z  by Quietust
+# 备注: /* Possible ghosts */
+# sha256 0bcc101811d84c45c967cee168dde36b6dc0fb3b1951781204dc1bd2fe7b3620  bytes 10055
+# 源: https://phasmophobia.fandom.com/api.php{{Evidence_Infobox
+|detected_by=[[File:SpiritBox_Render.png|24x24px|link=Spirit Box]] [[Spirit Box]]
+|title1=Spirit Box
+|image1=SpiritBox_Ghost.png
+|caption1=The icon shown on a Tier 2 [[Spirit Box]] during a Ghost response}}
+{{Quote
+|quote=Only certain ghosts will talk through a Spirit Box when asked a question with your voice. Make sure the lights are turned off.
+|speaker=The Journal
+}}'''Spirit Box''' is a type of [[evidence]] in ''[[Phasmophobia]]''. It is used to determine which type of ghost is inhabiting a location. Its corresponding piece of equipment is the [[Spirit Box]].
+
+==Mechanics==
+===Evidence requirements===
+In order to get a successful Spirit Box response from the ghost, all of the following is required:
+*The ghost has Spirit Box as one of its types of evidence.
+*The player must be in the same room as the ghost.
+*The player must be within a certain range of the ghost (3 meters with a Tier I, 4 meters with a Tier II, and 5 meters with a Tier III).
+*All lights in said room must be '''off'''.  Light emitted from equipment, including electronic and non-electronic equipment, does not affect this. Lights in other rooms, including rooms or hallways that are directly adjacent, may be left on, and any doors between the rooms can stay open.
+*Ghosts which respond only to "people who are alone" will respond only if there is a single person in the room at the moment the question is asked. If the ghost is noted to respond to everyone, the number of people in the room does not affect the ghost's ability to respond. If the [[difficulty]] has a setup time (e.g. Amateur and Intermediate), this will be indicated on the cork board and in the journal.
+*If all other conditions are met, there is a chance of the ghost responding per question asked. The chance depends on the tier of the Spirit Box: 50%, 60%, 70% for tiers 1, 2, 3, respectively.
+
+If the player is particularly unlucky, a combination of these factors may cause the Spirit Box to repeatedly turn the LEDs red, or show an 'X', despite the ghost having Spirit Box as one of its evidences.
+
+Other than the need for the Spirit Box to be near the player, there are no further checks on where the Spirit Box itself is.
+
+===Answering===
+[[File:SpiritBoxAndYou.png|thumb|300px|The indicators for each Spirit Box tier.|right]]
+When a question is successfully registered, the Spirit Box will return one of two results:
+*If all the relevant conditions are met and the chance is successful, the ghost LED will turn white on a Tier I Spirit Box, the ghost icon will display on a Tier II Spirit Box, the response LEDs will turn white on a Tier III Spirit Box, and a distorted voice line will be heard through the Spirit Box. This is considered as evidence of Spirit Box.
+*If the ghost LED turns red on a Tier I Spirit Box, the 'X' icon displays on a Tier II Spirit Box, or the response LEDs turn red on a Tier III Spirit Box, one or more of the conditions [[#Evidence requirements|listed below]] have not been met.
+
+Note that the ghost may still respond ''audibly'' if the player asks questions while the Spirit Box is being interfered with. This also counts as Spirit Box evidence.
+
+===Non-evidence===
+The following does ''not'' count as evidence of Spirit Box:
+*The ghost [[interaction|touching]] a door or an object
+*The ghost performing a [[ghost event]] or a [[hunt]], which may cause the LEDs/icons on the Spirit Box to flicker
+**One ghost vocalization involves the ghost repeatedly saying certain words; this is also not evidence of Spirit Box
+*Any other phenomenon not related to the Spirit Box
+
+===Ghost-specific abilities===
+*The [[Deogen]] has a 33% chance to respond with heavy breathing instead of a regular response if the player is standing within 1 meter of the ghost.<ref>[https://www.youtube.com/watch?v=Zm2w4X-TU2c ''Phasmophobia Deogen new spirit box sound!'' from Shuee 01 (on YouTube)]</ref>
+*The [[Moroi]] will curse the player who asked a question if they successfully obtain a response. The cursing response will not sound any different.
+
+===Rewards===
+{{Main|Media}}
+Successfully recording a Spirit Box response will yield a '''Spirit Box Response''' sound in the journal, rewarding up to $12 and 12 XP, depending on the tier of the [[Sound Recorder]] and whether there is a Unique stamp. Additionally, a '''Deogen Breathing''' can also be recorded, also rewarding up to $12 and 12 XP.
+
+==Types of questions==
+There are three types of questions that can be asked:
+*Aggressiveness
+*Location
+*Age
+
+Given the nature of voice recognition, questions may be marginally different from one another, so the following lists only contain general phrases that should be used as a guide.
+
+===Aggressiveness===
+Ghost responses are threatening with murderous intent.
+{| class="mw-collapsible mw-collapsed fandom-table"
+!'''Aggression-related questions'''
+|-
+|"Are you friendly?"
+|-
+|"What do you want?"
+|-
+|"Why are you here?"
+|-
+|"Do you want to hurt us?"
+|-
+|"Should we leave?"
+|}
+
+;Responses
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan='3' |'''Aggression-related responses'''
+|-
+!Response
+!Audio
+|-
+|"Attack"
+|
+[[File:Attack 2.ogg]]
+[[File:Attack 3.ogg]]
+[[File:Attack 4.ogg]]
+[[File:Attack 5.ogg]]
+[[File:Attack 6.ogg]]
+|-
+|"Death"
+|
+[[File:Death 1.ogg]]
+[[File:Death 3.ogg]]
+[[File:Death 4.ogg]]
+[[File:Death 5.ogg]]
+[[File:Death 6.ogg]]
+[[File:Death 7.ogg]]
+|-
+|"Hate"
+|
+[[File:Hate 1.ogg]]
+[[File:Hate 2.ogg]]
+[[File:Hate 3.ogg]]
+[[File:Hate 4.ogg]]
+[[File:Hate 5.ogg]]
+[[File:Hate 6.ogg]]
+|-
+|"Hurt"
+|
+[[File:Hurt 1.ogg]]
+[[File:Hurt 2.ogg]]
+[[File:Hurt 3.ogg]]
+[[File:Hurt 4.ogg]]
+[[File:Hurt 5.ogg]]
+[[File:Hurt 6.ogg]]
+|-
+|"Kill"
+|
+[[File:Kill 1.ogg]]
+[[File:Kill 2.ogg]]
+[[File:Kill 3.ogg]]
+[[File:Kill 4.ogg]]
+[[File:Kill 5.ogg]]
+[[File:Kill 6.ogg]]
+|}
+
+===Location===
+Responses will correspond to the location of the ghost relative to the player.
+{| class="mw-collapsible mw-collapsed fandom-table"
+!'''Location-related questions'''
+|-
+|"Where are you?"
+|-
+|"Are you close?"
+|-
+|"Give us a sign."
+|-
+|"Speak to us."
+|-
+|"Can you talk?"
+|-
+|"Are you here?"
+|-
+|"Is there a Ghost here?"
+|-
+|"What is your location?"
+|-
+|"Show yourself."
+|}
+
+;Responses
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan='3' |'''Location-related responses'''
+|-
+!Distance
+!Response
+!Audio
+|-
+| rowspan="3" |Within 2 metres
+|"Here"
+|
+[[File:Here 1.ogg]]
+[[File:Here 2.ogg]]
+[[File:Here 3.ogg]]
+[[File:Here 4.ogg]]
+[[File:Here 5.ogg]]
+[[File:Here 6.ogg]]
+|-
+|"Close"
+|
+[[File:Close 1.ogg]]
+[[File:Close 2.ogg]]
+[[File:Close 3.ogg]]
+[[File:Close 4.ogg]]
+[[File:Close 5.ogg]]
+[[File:Close 6.ogg]]
+|-
+|"Behind"
+|
+[[File:Behind 2.ogg]]
+[[File:Behind 3.ogg]]
+[[File:Behind 4.ogg]]
+[[File:Behind 5.ogg]]
+[[File:Behind 6.ogg]]
+|-
+| rowspan="2" |Between 2 - 5 metres (where applicable)
+|"Away"
+|
+[[File:Away 1.ogg]]
+[[File:Away 2.ogg]]
+[[File:Away 3.ogg]]
+[[File:Away 4.ogg]]
+[[File:Away 5.ogg]]
+[[File:Away 6.ogg]]
+|-
+|"Far"
+|
+[[File:Far 1.ogg]]
+[[File:Far 2.ogg]]
+[[File:Far 3.ogg]]
+[[File:Far 4.ogg]]
+[[File:Far 5.ogg]]
+[[File:Far 6.ogg]]
+[[File:Far 7.ogg]]
+|}
+
+===Age questions===
+Responses will detail the ghost's predetermined age.
+{| class="mw-collapsible mw-collapsed fandom-table"
+!'''Age-related questions'''
+|-
+|"How old are you?"
+|-
+|"Are you a child?"
+|-
+|"Are you old?"
+|-
+|"Are you young?"
+|}
+
+;Responses
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan='3' |'''Age-related responses'''
+|-
+!Response
+!Audio
+|-
+|"Old"
+|
+[[File:Old 1.ogg]]
+[[File:Old 2.ogg]]
+[[File:Old 3.ogg]]
+[[File:Old 4.ogg]]
+[[File:Old 5.ogg]]
+[[File:Old 6.ogg]]
+|-
+|"Young"
+|
+[[File:Young 1.ogg]]
+[[File:Young 2.ogg]]
+[[File:Young 3.ogg]]
+[[File:Young 4.ogg]]
+[[File:Young 5.ogg]]
+[[File:Young 6.ogg]]
+|}
+
+==Possible ghosts==
+{| class="article-table"
+|+
+|[[Dayan]]
+|Spirit Box
+|[[EMF Level 5]]
+|[[Ghost Orb]]
+|-
+|[[Deogen]]
+|Spirit Box
+|[[D.O.T.S Projector (Evidence)|D.O.T.S Projector]]
+|[[Ghost Writing]]
+|-
+|[[Gallu]]
+|Spirit Box
+|[[EMF Level 5]]
+|[[Ultraviolet]]
+|-
+|[[Kormos]]
+|Spirit Box
+|[[Ghost Orb]]
+|[[Ultraviolet]]
+|-
+|[[Mare]]
+|Spirit Box
+|[[Ghost Orb]]
+|[[Ghost Writing]]
+|-
+|[[Moroi]]
+|Spirit Box
+|[[Freezing Temperatures]]
+|[[Ghost Writing]]
+|-
+|[[Onryo]]
+|Spirit Box
+|[[Freezing Temperatures]]
+|[[Ghost Orb]]
+|-
+|[[Phantom]]
+|Spirit Box
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|[[Ultraviolet]]
+|-
+|[[Poltergeist]]
+|Spirit Box
+|[[Ultraviolet]]
+|[[Ghost Writing]]
+|-
+|[[Spirit]]
+|Spirit Box
+|[[EMF Level 5]]
+|[[Ghost Writing]]
+|-
+|[[The Mimic]]
+|Spirit Box
+|[[Ultraviolet]]
+|[[Freezing Temperatures]]
+|-
+|[[The Twins]]
+|Spirit Box
+|[[EMF Level 5]]
+|[[Freezing Temperatures]]
+|-
+|[[Wraith]]
+|Spirit Box
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|[[EMF Level 5]]
+|-
+|[[Yokai]]
+|Spirit Box
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|[[Ghost Orb]]
+|}
+
+==Tips==
+*Ghost replies on the Spirit Box do not count as [[ghost event]]s or [[interaction]]s.
+*It is possible to obtain a Spirit Box response from a ghost that has it among its types of evidence during a ghost event or a hunt.
+
+==Trivia==
+*Age related questions do not relate to the ghost's [[Ghost Model|appearance]].
+*The response voices are the heavily edited voices of many Phasmophobia content creators.
+*Some Spirit Box questions can also be used on the [[Ouija Board]].
+*Ghosts will respond to "Are you French?" as the game thinks it hears "Are you friendly?"
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.3.0]]
+|The Spirit Box now has three different voice responses that are based on the ghost's gender.
+|-
+![[0.9.0]]
+|Changed the Spirit Box responses.
+|-
+![[0.9.3.0]]
+|Lowered the “far” response’s minimum distance to 2m, from 4m
+|-
+! rowspan="2" |[[0.10.0]]
+|Small environment lights such as lamps must now also be turned off to receive a response
+|-
+|Players must now hold the Spirit box to use it with text-based voice recognition
+|}
+
+==See also==
+*[[List of voice lines]]
+
+==References==
+{{Reflist}}
+{{Evidence nav}}
+[[Category:Evidence]]
+[[fr:Spirit Box (Preuve)]]
+[[ru:Радиоприёмник (Улика)]]

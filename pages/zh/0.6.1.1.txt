@@ -1,0 +1,31 @@
+# 0.6.1.1
+# revid 3982  2025-10-17T17:01:43Z  by CangMingSW
+# sha256 3637da1627ac55359fb77d3b67386083ee17e00cf1000f8fdb96f7bd79b2e142  bytes 852
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | release_date=2022年4月12日
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.1.0]]
+  | next_major_version=
+  | next_minor_version=
+}}
+'''0.6.1.1'''是发布于2022年4月12日的小型更新。<ref>https://store.steampowered.com/news/app/739630/view/3178986769797085048</ref>
+本次更新进一步调整了一个躲藏点和修复漏洞。
+
+== 变更 ==
+=== 游戏玩法===
+==== 地图调整 ====
+;[[坦格活德街房屋]]
+*在婴儿房躲藏点添加一些盒子
+
+== 修复漏洞 ==
+*脏水会在黑暗中发光
+*不同玩家看到的躲藏点阻塞物不一样
+*能听见死亡的非VR玩家说话
+*坦格活德街房屋的新躲藏点有时不能用
+*卡在墙里不会被鬼杀死
+*蹲下时切换坐下游玩模式导致视角高度出错
+
+==参考资料==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

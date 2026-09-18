@@ -1,0 +1,93 @@
+# Shop
+# revid 24483  2026-08-25T17:47:15Z  by Darkhooper
+# 备注: 0.19
+# sha256 4a232b903dd09565a4f5ab8259df00a39e273762a77a02f09b75cc8e0c070206  bytes 5379
+# 源: https://phasmophobia.fandom.com/api.phpThe '''shop''' is used to buy and sell items, add them to the [[contract]], create item loadouts, and customize the character.
+
+==Usage==
+The shop can be accessed from the main menu by navigating using the keyboard arrow keys, or clicking the right arrow from the main menu. The shop can also be directly clicked on. Pressing Esc or Space, or clicking the left arrow will exit the shop.
+
+The shop is divided in four pages that can be accessed on the left of the screen. These pages are "Shop", "Equipment Manager", "Quick-Loadouts", and "Customization".
+
+The player's current level and money are listed at the top right-hand corner of the screen.
+
+===Shop===
+[[ru:Магазин]]
+[[File:Shop Interface 0.9.5.png|thumb|200px|right|The Shop page.]]
+The Shop page allows players to buy [[equipment]]. Each piece of equipment has a tile that displays the quantity of it the player currently owns as well as its price. Clicking on the different tier buttons will show the piece of equipment's description, properties, and the buttons to buy, sell, or upgrade said piece of equipment.
+
+===Equipment Manager===
+[[File:Equipment Manager Interface 0.9.5.png|thumb|200px|right|The Equipment Manager page.]]
+The Equipment Manager page allows players to add and remove equipment from the contract. To add a piece of equipment to the contract, the player needs to click on its '''+''' button. Clicking on its '''-''' button will remove it from the contract.
+
+Starter equipment is colored in white while each player's equipment is represented as a different color that can be customized in the options.
+
+Changing the piece of equipment's tier can be done by clicking on one of the tier buttons. Each player can only bring one tier of equipment. If the host changes their tier of a main equipment, the starter equipment will also be changed to that tier.
+
+===Quick-Loadouts===
+[[File:Quick-Loadouts Interface 0.9.5.png|thumb|200px|right|The Quick-Loadouts page.]]
+The Quick-Loadouts page allows players to create loadouts that can be added to the contract. By default, players can set 2 loadouts. Up to 8 additional loadout slots can be unlocked by prestiging.
+
+In each loadout, players can click the '''+''' and '''-''' buttons in the "Amount" column next to each piece of equipment to add or remove it from the loadout. The tier buttons in the "Tier" column will set the piece of equipment's tier in the loadout. The "All" row can increase or decrease the tier of all equipment at once, and add or remove one of each piece of equipment from the loadout. In the "All" loadout, only the tier of each piece of equipment can be changed. The loadout is automatically saved every time a change is made to it. Each loadout also can be renamed, except for the "All" loadout.
+
+Once the player is satisfied with the loadout, they can choose to enable it, which will automatically buy the missing pieces of equipment in the loadout and add it to the contract each time they load into a lobby. Once enabled, the loadout will have a checkmark icon next to it. A warning icon will appear instead and prevents the player from using it if they haven't unlocked a specific piece of equipment in the loadout, or if they don't have enough money to cover the loadout's costs.
+
+The "Truck" column will display all the equipment currently added to the contract.
+
+===Customization===
+[[File:Customization.png|thumb|200px|right|The Customization page.]]
+The Customization page allows players to customize their [[Player#Player model|character]] with [[cosmetics]] and their [[ID Card|ID card]].
+
+This section is divided in four subtabs, the first of which lets the player change their character, the latter's hair, and add piercings and/or accessories. Clothes can be changed in the second subtab. Players can customize their ID card and add charms to their outfit in the third subtab, and their [[Legacy Badge]] in the fourth subtab, the latter of which is only visible to players who have a legacy badge.
+
+==See also==
+*[[Main menu board]]
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.7.0]]
+|Moved the equipment store to its own separate computer.
+|-
+![[0.7.0.3]]
+|Loadouts now automatically save.
+|-
+! rowspan=6 |[[0.8.1.0]]
+|Reformatted Shop/Storage to act similar to an online shopping cart
+|-
+|Added the truck icon to show the number of items added to the lobby
+|-
+|Added the trash button to the Shop/Storage tab
+|-
+|Added the Auto Add button to the Loadouts tab
+|-
+|Added All items loadout
+|-
+|Improved several icons
+|-
+! rowspan=3 |[[0.9.0]]
+|Clicking on any Equipment panel in the SHOP or LOADOUT pages will now open a new window displaying new information and buttons for Upgrading
+|-
+|Added a small Tier button to the top left of each equipment item in the Shop, which you can click to quickly cycle through unlocked Upgrades
+|-
+|Added the Auto Buy button to the Loadouts tab
+|-
+![[0.9.5.0]]
+|Complete overhaul:
+*3 separate pages for more intuitive usage
+*Easy buy options for controller
+*Renamable loadouts
+*Player-specific colours for supplied equipment
+*Quick shortcuts to navigate between screens to unlock equipment
+*Full tutorial for each page
+*Shortcuts for gamepad users
+|-
+![[0.17.0]]
+|Added Customization tab.
+|-
+![[0.19.0]]
+|Added a new Legacy Badge section to the Customisation shop to allow you to edit your badge at any time.
+|}
+[[Category:Lobby]]
+[[fr:Magasin]]

@@ -1,0 +1,62 @@
+# Aswang
+# revid 24628  2026-09-11T04:21:32Z  by Darkhooper
+# 备注: removed "used correctly" -> Aswang can no longer kill players standing in the box-based hiding spots in Ridgeview.
+# sha256 b46f027374eef5a27009ff7a55bb1a7fddc402f0e21f30552bba5a191488b218  bytes 3998
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=
+ |strength=*Will accelerate faster with line-of-sight than any other ghost.
+*Can sometimes hunt with zero grace period.
+ |weakness(es)=*Cannot kill players in official hiding spots.
+*Slower hunt base speed.
+ |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=|link=D.O.T.S. Projector (Evidence)]]
+ |Evidence2=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
+ |Evidence3=[[File:ClosedBook_Render.png|24x24px|alt=|link=Ghost Writing]]
+}}{{Quote
+ |quote=Rumored to gorge itself on blood and corpses, the Aswang is feral yet capable of blending into urban environments.
+ |speaker=The Journal
+}}The '''Aswang''' is a type of [[ghost]] in ''Phasmophobia''. During hunts, its behavior is more focused on using its fast acceleration to chase players rather than finding them in hiding spots.
+
+==Behavior==
+===Hunt===
+[[File:Aswang Speed Graph.png|thumb|300px|The Aswang's speed over time with line-of-sight (green) compared to a standard ghost (red)]]
+The Aswang has a base speed of 1.53 m/s. Its line-of-sight acceleration increases its speed at a rate of 0.075 times its base speed per second instead of 0.05, meaning it reaches its maximum speed of 2.53 m/s after 8.67 seconds instead of 13 seconds for most other ghosts.
+
+The [[hunt]] will instantly end if the Aswang detects and reaches a player inside an ''available'' official [[Hiding Spots|hiding spot]] (such as a closet or a locker), meaning it is impossible for players to be killed while hiding. However, if the Aswang were to end a hunt this way, then the ghost will place a waypoint directly at the player's location at the start of the next hunt and move to it, even during the grace period.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:DOTS_projector_sprite.png|24x24px|alt=|link=D.O.T.S. Projector (Evidence)]] [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]] [[Freezing Temperatures]]
+|[[File:ClosedBook_Render.png|24x24px|alt=|link=Ghost Writing]] [[Ghost Writing]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: When they spot their target, '''Aswangs''' become faster in pursuit.''
+
+''Weakness: '''Aswangs''' prefer chasing over searching.''
+
+==Strategies==
+The Aswang is arguably one of the easier ghosts in the game to deal with, due to it not having many major strengths along with the combination of its lower hunt base speed and inability to kill hidden players. However, it must be clear that it cannot kill players in ''official'' hiding spots; the ones that can be blocked and are affected by the "Number of hiding places" parameter in the custom difficulty section. Therefore, this weakness is ineffective if hiding places are set to zero and if players are hiding in unofficial locations.
+
+Additionally, if a hiding spot is used to end a hunt, then the player that it found should also remember that the ghost will beeline straight for them the next hunt.
+
+The Aswang's speed could be mistaken for the [[Obambo]]'s or [[The Twins]]'. Players can verify over multiple hunts if the ghost ever changes to a faster base speed. If it is the case, it is not an Aswang.
+
+==Trivia==
+*In Filipino folklore, Aswangs are malevolent shapeshifting creatures that were known to hunt for human flesh and blood during the nighttime. It is thought to have taken many forms such as "The Vampire", "The Witch", "The Viscera Sucker", "The Ghoul", etc. During the daytime, Aswangs would disguise themselves by shapeshifting into humans and then back into their forms during the nighttime to hunt for humans. The folklore also says that Aswangs did not represent one specific individual, but rather an entire species of them.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.17.1.0]]
+|Added Aswang.
+|}
+
+[[ru:Асванг]]
+[[fr:Aswang]]
+[[Category:Ghosts]]
+{{GhostNav}}

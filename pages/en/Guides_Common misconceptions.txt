@@ -1,0 +1,162 @@
+# Guides/Common misconceptions
+# revid 23863  2026-06-22T15:45:40Z  by Darkhooper
+# 备注: The Kormos cannot see through walls.
+# sha256 c3fe4dcf3cc0f538c62b99c328e6d5ecf890de826b77d79a47589a5c8ef5d529  bytes 21485
+# 源: https://phasmophobia.fandom.com/api.phpThis guide dispels '''common misconceptions''' and myths about game mechanics in ''Phasmophobia''.
+
+==Investigation==
+===Being in a lit room will always stop passive sanity drain===
+Passive [[sanity]] drain is dependent on whether the room's "main lights" — chiefly ceiling light fixtures — are turned on or not. Other light sources that may be present in the room, such as table lamps, floor lamps, and electronic devices like televisions, will not prevent passive sanity drain despite illuminating the room to some degree. Additionally, in larger rooms with a lower overall light level, such as most hallways in [[Sunny Meadows Mental Institution|Sunny Meadows]], having the main lights on will not completely prevent passive sanity drain either, instead reducing it to 80% of the normal rate, which can cause sanity drain to be perceived as faster on these maps, depending on individual playstyle (whether the lights are usually turned on to preserve sanity). [[Firelight]]s within 2 metres of the player will reduce, but not stop, passive sanity drain, with the effectiveness dependent on the tier.
+
+===The radio messages at the beginning of an investigation will hint about the ghost type and/or its behaviour===
+These messages are simply there for immersion and are chosen randomly. They do not correlate to the ghost type or give any indication about its behaviour at all.
+
+===My dead body photo must be taken for me to receive insurance payout===
+The dead body photo does not affect whether a player receives insurance, and instead awards a small amount of cash like every other photo. Insurance is instead given automatically, the value of which being a portion of the purchase price of all equipment added by that player for the contract. Insurance is only given on Intermediate [[difficulty]] and lower.
+
+==Items and Equipment==
+===Higher EMF readings mean imminent danger===
+The level of an EMF reading has no correlation to a ghost's overall activity or aggression. Instead, EMF readings are individually linked to specific actions from the ghost; for example, the ghost opening or closing a door gives an EMF level 2, and it throwing an object will give an EMF level 3. Also note that EMF readings do not add up on the EMF reader. This means that a ghost interacting with two adjacent doors (EMF level 2 each) will not give an EMF level 4, but will instead create two separate EMF 2 readings, one for each interaction.
+
+Continuing on this, an [[EMF Level 5]] reading is simply a reading having a 33% chance to replace an EMF level 2 or EMF level 3, and is unrelated to whether the ghost is going to attack soon. In the same vein, getting a series of higher EMF readings does not necessarily mean that the ghost will trigger an EMF Level 5 either.
+
+===The lowest temperature in the room indicates the ghost's exact location===
+This is not true; the temperature at every point within a room will be exactly the same. Furthermore, the thermometer's reading always fluctuates, hence whether it is lower in a specific spot is not meaningful in terms of the exact position of the ghost. Even then, low or freezing temperatures is not a guarantee of the ghost being in a particular room at a specific time, as temperatures rise and fall slowly when the ghost leaves or enters a room.
+
+==="What is your favourite room" with the Ouija Board gives the favourite room===
+Asking for the name of the [[Ghost Room|favourite room]] only gives an answer of the ghost's ''current'' room, ''regardless'' of how the location question is phrased. People may have found it to give the favourite room in earlier versions, but this is because the ghost tended to roam around less and stay in its favourite room, hence giving the impression that asking for the favourite room was accurate. On the other hand, the [[Haunted Mirror]] ''does'' show the favourite room, even if the ghost is elsewhere when it is used.
+
+===The smoke emitted from extinguished firelights indicates that the ghost interacted with them===
+No, firelights will always emit the same type of smoke regardless of what caused them to go out. However, a "huffing" sound will be heard if a candle is blown out by the ghost, which is not the case if it burns out on its own.
+
+===Using the Spirit Box/leaving the Spirit Box on lowers sanity===
+Using the spirit box and obtaining a response will not drain sanity on its own. However, as using the spirit box requires the player to be in a dark room, passive sanity drain from darkness will apply normally. Note that the [[Moroi]] has a unique ability where it will "curse" the player using the Spirit Box upon answering, causing their passive sanity drain to be increased until the curse is lifted.
+
+===Flashlights must be turned off when using the Spirit Box===
+Using the spirit box requires on-site lights in the player's current room to be turned off, but not player-brought equipment. The ghost will still give responses even with flashlights on or if there are firelights burning in the room. This also applies for lights in adjacent rooms; the Spirit Box will still work even if doors are open or the "room" is not separated by a physical wall (such as the living room and the dining room on [[10 Ridgeview Court]]).
+
+===Crucifixes can stop ongoing hunts and/or protect the player from the ghost===
+The only function of the [[crucifix]] is to ''prevent'' [[hunt]]s from happening if the ghost is within its effective range. Crucifixes will have no effect on the ghost once it starts hunting, even against [[Demon]]s. The only way to stop an ongoing hunt before its natural expiration is either for one player to be killed, which stops the hunt if ''Kills extend hunt duration'' is turned off, or all players to manage to leave the investigation area while a hunt is ongoing, the only legitimate method of doing so being using the [[Monkey Paw]] to unlock the exit doors and then walking outside.
+
+===Using onsite objects or items has repercussions on the ghost's activity===
+Interacting with the map, furniture and objects, even in an excessive way, will not rile up or anger the ghost into hunting, performing a [[Ghost Event|ghost event]] or increasing its activity. The only map items that can trigger a hunt, event or activity from the ghost are [[Cursed Possession|cursed possessions]], depending on how the cursed possession is used.
+
+==Maps==
+===Certain map ambient sounds can hint at the ghost's location===
+Map ambient sounds (such as the screams echoing through [[Sunny Meadows Mental Institution|Sunny Meadows]] or branches cracking on [[Maple Lodge Campsite]]) are there simply for immersion and are not tied to the ghost in any way. 
+
+===Ghosts can change their favourite room to any other room on the map===
+In theory, this is true, but this will vary widely depending on the ghost's abilities, the difficulty settings on roaming and favourite room changing chance, the layout of the map, and whether the player uses [[cursed possession|cursed possessions.]] Ghosts have a chance of changing favourite room when performing long roams.
+*A ghost can realistically change from the Dining Room in [[6 Tanglewood Drive]] to the Master Bedroom in one roam.
+*A ghost in the Foyer of [[Bleasdale Farmhouse]] would have to minimally change favourite rooms to the Upstairs Hallway first, before possibly changing to the Attic.
+*A ghost in the A/B blocks of [[Prison]] would find it very hard to change rooms to the front section of the map, since the intermediate hallway cannot be chosen as a favourite room.
+
+In general, the further a room is from the ghost's current favourite room, the lower the chance is of the ghost changing its favourite room to there. Exceptions include [[Wraith]]s, [[Phantom]]s and [[Banshee]]s which have an ability to travel directly to a player's location no matter how far away said player is (and subsequently have a chance to change their favourite room to a nearby room), and the "I wish for sanity" [[Monkey Paw]] wish, which changes the ghost's favourite room to a random room, which can be anywhere on the map.
+
+==Hunt==
+===Ghosts can be triggered to hunt by swearing at them/addressing them in certain ways===
+This is not true. Saying the ghost's name or certain trigger words near the ghost only increases [[activity]], not hunt chances. The only ghost which may hunt more often when players are talking near it is the [[Yokai]], and this merely raises the hunt sanity threshold rather than causing it to hunt on command (and additionally concerns ''any'' sort of speech, not just trigger words/phrases). In other words, there are no ways to make ghosts start hunting simply by being vocally active.
+
+===Ghosts who have EMF Level 5 evidence will give it out during hunts===
+This is only ''partially'' true. While hunting, the Ghost still makes EMF interactions when it interacts with the environment. For example, if the ghost touches a door while searching for players, the door will still make a readable interaction. Once the ghost goes far enough away/stops hunting, which makes electronic equipment usable, one can then read the EMF level from that door, which could potentially be a level 5 reading.  
+
+However, regardless of whether the ghost has [[EMF Level 5]] as evidence, electronic interference when the ghost manifests during a hunt or a ghost event will only give levels 1 - 4 on an active [[EMF Reader]]. It is hence useless to check for EMF Level 5 when the reader is being interfered with during hunts, and is generally dangerous, as the active reader may broadcast the player's location to the ghost if used.
+
+===The ghost will not hunt so long as at least one teammate has high sanity===
+The probability of a hunt happening takes into account the average [[sanity]] of all players (displayed at the top of the [[Sanity Monitor]] inside the [[truck]]), regardless if they are outside or inside the investigation area. This means that a lone player with high sanity will still face very "aggressive" behaviour from the ghost if the rest of the players have low sanity, even if they all stay outside. The ghost only checks for the presence of a player inside the investigation area to initiate a hunt, not their individual sanity level.
+
+One exception to this is the [[Banshee]], which will only check its target's sanity to hunt; if it selects a teammate with high sanity as its target, then it will indeed not hunt so long as that teammate's sanity stays above the threshold, even if all other teammates have low sanity, which also applies if the target is outside of the investigation area.
+
+===Ghosts can chase the player outside the investigation area/into the truck===
+This is not a feature of the game. If you see a ghost clearly outside the investigation area (and perhaps it kills someone), then someone in your lobby is likely modifying/hacking the game.
+
+There is a bug in the game where the ghost can kill players through exterior doors if they stand too close to them, causing players to die while outside the building, but this is due to a hitbox issue and not due to the ghost leaving the building; there is also a delay between a player getting caught and actually dying (during which the death animation is playing out), and a player can still move around while this is happening, which means if they die close to an exit door, they can walk outside the building and die outside.
+
+As an aside, crucifixes ''can'' prevent hunts when located outside of the investigation area, or even when sitting on the equipment wall in the truck, as crucifixes do not check for walls, obstacles, or zone boundaries to block a hunt, nor do they need to be activated in any way, just that the ghost is within the crucifix's range. Hunts prevented from the truck usually occur on maps where the truck is parked close enough to certain rooms (e.g. the garage of [[42 Edgefield Road]]), and the ghost just so happened to be on the very edge of said rooms while it attempted to hunt and got caught in the crucifix's effective range; this is more likely to happen with [[Demon]]s who have an increased crucifix range. For a brief period, the [[Kormos]] could also kill players outside thanks to its range-based death trigger, but this was merely a programming oversight, and is no longer able to do so.
+
+===Ghosts can see through doors or walls===
+In general, most ghosts ''cannot'' see players through doors or walls, even transparent ones. For example, in [[13 Willow Street]], if you close the glass doors between the living room and the kitchen, it's possible to watch the ghost through them during a hunt without it seeing you. The same goes for the bars in [[Prison]]. However, during hunts, all ghosts can pass through doors as if they didn't exist. The only ghost who can see through physical objects is the [[Deogen]], who will always know the location of the player no matter where they are on the map, rendering hiding or line-of-sight breaking completely useless.
+
+===Ghosts can remember where you hid in a previous hunt/hiding in the same spot multiple hunts in a row is unsafe===
+Ghosts will only have a 50% chance to "remember" where a player was during the next hunt if it ''saw'' a player in that specific spot in the previous hunt. If nobody was seen at or near that spot, it will ''not'' remember that you hid there.
+
+In the case someone ''was'' seen in the general area of a hiding spot (however not necessarily ''in'' the hiding spot), it may be safer to hide in a different place for the next hunt, as the ghost may wander around that area for a while before moving on, and incidentally may potentially find you hiding there. Players are then safe to return to that hiding spot in following hunts as the ghost's memory only lasts for one hunt.
+
+This also does ''not'' apply if you smudge the ghost with incense; the ghost does not have a chance to return to where it last saw you within the same hunt after a smudge. More likely, the ghost is already nearby, so the chance of it randomly wandering to you (or simply detecting you) is higher. Ghosts also do not remember player locations outside of hunts as they are technically "blind".
+
+In short, unless someone was seen at or near the spot in the immediate previous hunt, choosing to stay in the same spot across multiple hunts is no more dangerous than choosing to move.
+
+===The ghost won't see me if I turn all the building lights off===
+The ghost's vision is unaffected by darkness, and they can see players in the dark just as well as they can in the light. Conversely, ghosts do not actually "see" the light beam from a flashlight or any form of light-emitting equipment, instead simply sensing active electronic equipment in a fixed range.
+
+===Using global chat during hunts could cause other players to die===
+Unless the other player's microphone is picking up the sound from their own speaker, this is not the case. Using global chat during a hunt will attract the ghost to only the player who is pressing the button, if the ghost is within range. This was designed to prevent griefing in this manner where players attempt to kill other players.
+
+==Ghosts==
+===Banshees will not hunt if their target is outside the investigation area===
+A Banshee can hunt even if the target is outside (even though it will still only check the target's sanity), and will simply behave like any other ghost during a hunt, chasing any opportune player.
+
+===Extremely low temperatures are a sign of a Hantu===
+''All'' ghosts which give [[Freezing Temperatures]] evidence are capable of reducing a room's temperature all the way to {{Temperature|-10}}, and the Hantu is not known to reduce a room's temperature any more quickly than other ghosts.
+
+===Lit firelights can affect the Hantu's speed===
+Only the room's temperature (which can be read on a [[Thermometer]]) will affect its speed; firelights do not affect the room's temperature, and as such do not affect the Hantu's speed. Currently, the only source of flames that affect room temperatures is [[Camp Woodwind]]'s campfire when lit.
+
+===Jinns cannot interact with the fuse box door===
+All ghosts, including the Jinn, are capable of interacting with the door covering the [[Fuse Box]]. The only thing the Jinn cannot do is directly touch the switch inside to turn the power off (and similarly, the Hantu cannot turn the switch on).
+
+===Jinns will interact with electronics more often===
+Jinns do not have a higher chance of interacting with electronics; they interact with electronic items in the same manner as other ghosts.
+
+===Mares are more likely to turn off the fuse box===
+[[Mare]]s are not more likely to turn off the fuse box, and in fact have no special relationship with it compared to the Jinn or the Hantu.
+
+===Obakes can mimic player models===
+Obakes cannot mimic player models. They can only briefly change into another ghost model on specific blinks during a hunt. This misconception may derive from a special ghost event that was scrapped early after pre-release where the ghost could mimic player models.
+
+===The Onryo's ability to hunt after blowing out a third flame bypasses crucifixes, smudging and other lit flames===
+This ability hunt can still be blocked by crucifixes, smudging, and other lit flames.
+
+===Extinguishing firelights manually can cause an Onryo to hunt===
+An Onryo's three-flame hunt only counts flames that the ghost itself blows out; players extinguishing flames have no effect whatsoever on an Onryo hunting, other than potentially letting it start a hunt when the lit flame would've prevented it.
+
+===Raijus can drain power from any electronic source===
+Only active electronic equipment brought in from the [[truck]] (e.g. flashlights, active sensors and projectors, active [[Head Gear|head gear]], etc.) will power the Raiju's abilities. Other sources of electricity, like power sources that depend on the breaker (native lighting, alarm clock/radio, computers, TVs, etc.) do not boost the Raiju, so there is no need to turn these off beforehand.
+
+===The Mimic's Ghost Orbs will follow the ghost/work differently from other ghosts===
+The Mimic's Ghost Orbs function no differently from that of other ghosts'; they will stay in the [[Ghost Room|favourite room]], move around in a random direction like other ghosts' orbs, and swap rooms only when the favourite room changes.
+
+===The Twins is two functional ghosts===
+Code-wise, [[The Twins]] is just one ghost, however it has two separate interaction ranges: the normal range and an "extended" range, which allows it to interact with items that are very far away from it, giving off the illusion that there is another ghost roaming the building. When The Twins tries to hunt, there is a 50/50 chance that it will either hunt from where it is standing or near from where it last interacted with its extended range.
+
+===A sloped line with a break on the activity graph is a dead giveaway of The Twins===
+While the appearance of a sloped line containing a break on the activity graph can be indicative of The Twins, especially if it appears on both sides of a hump representing a rise in activity, it is not exclusive to The Twins ghost type and can appear with any given ghost.
+
+==Journal text==
+===If the ghost is a Deogen, the weather is more likely to be Fog, and vice versa===
+The "endless fog" mentioned in the Deogen's journal is simply flavour text and has no gameplay effects whatsoever.
+
+===Moving far enough away from a Moroi can break its curse===
+This does not happen in-game, even on the larger maps such as Sunny Meadows or Brownstone High School. The only way to break a Moroi's curse is to take Sanity Medication.
+
+===Onryos will avoid lit firelights===
+Firelights do not affect how much the Onryo roams or moves, and any open flames will only prevent the Onryo from initiating a hunt in a similar manner to [[crucifix]]es.
+
+===If the ghost is a Phantom, the cursed possession is more likely to be a Ouija Board, and vice versa===
+Phantoms and Ouija Boards are not related gameplay-wise in any way.
+
+===Spirits are more common than other ghosts, and Hantus are rarer than other ghosts===
+All ghosts have the same chance of being chosen, including [[Spirit]]s and Hantus, contrary to their journal entry stating Spirits are "very common" while Hantus are "rare". These journal entries are merely brief decorative passages, and are in no way gameplay-significant.
+
+===Wraiths will avoid salt at all costs===
+Wraiths are not "afraid" of salt, and placing salt near it will not affect how much it roams or moves, nor do they actively avoid salt via pathfinding around it; it will simply pass though salt piles without disturbing them, including during [[hunt]]s, and have no further interactions with them. 
+
+===Wraiths can fly and walk through walls===
+This references the Wraith's ability to walk through salt piles without disturbing them, and teleporting to players respectively; Wraiths cannot actually ''fly'' between floors, hover off the ground during hunts or manifestation events, or move through walls (only doors, which all other ghosts are also capable of doing).
+
+===Yokais are more common in the suburban house maps===
+Despite the mention of "family homes" in the Yokai's journal, these maps don't have a particularly higher chance of choosing a Yokai as the ghost. As aforementioned, each ghost has an equal chance of being chosen.
+[[Category:Guides]]
+[[fr:Guides/Idées reçues]]
+[[ru:Руководства/Распространённые заблуждения]]
+__NOTOC__

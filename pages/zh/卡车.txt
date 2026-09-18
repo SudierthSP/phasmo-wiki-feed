@@ -1,0 +1,5 @@
+# 卡车
+# revid 1262  2021-10-26T04:15:23Z  by Qsefthuopq
+# 备注: 重定向页面至[[厢式货车]]
+# sha256 fdafacee2ab0683410f4e452b0ea77d82e69b411762b95f70a2cd4f659ae0c84  bytes 26
+# 源: https://phasmophobia.fandom.com/zh/api.php#redirect [[厢式货车]]

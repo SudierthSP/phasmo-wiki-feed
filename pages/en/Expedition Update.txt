@@ -1,0 +1,141 @@
+# Expedition Update
+# revid 24007  2026-06-28T21:45:29Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 49639049a3e0f05fbf25419e7d50e8f7355dc5ad9eb21543212a3ef15211b433  bytes 7814
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | image1=
+  | official_name=Expedition
+  | release_date=1 April 2022 (Changelog only)
+}}The '''Expedition Update''' is an April Fools' joke update announced on 1 April 2022, and is a hoax changelog for the full release of v1.0.<ref>https://store.steampowered.com/news/app/739630/view/3090035994578896769</ref> The update was said to be the final version of the game. ''Phasmophobia 2'' was also announced, with an Early Access release date of 31 March 2025, and a full release date of 1 April 2025. No update was actually released to the game, and there are currently no plans to develop a ''Phasmophobia 2'' game.
+
+== Additions ==
+=== Gameplay ===
+*You can now perform an exorcism to delete the ghost, this will be permanent and you will never get that ghost type again. The game is completed when you run out of ghost types to play against
+*Added dust particles to each room to make finding ghost orbs harder
+*Added batteries hidden around each location, unique to each flashlight
+*Added an [[Asylum#Easter eggs|easter egg in an Asylum bedroom]]
+*There is now a chance for no ghost to spawn in the location, players can select 'None' in the journal to receive rewards
+*Added an optional objective after the contract to go back and clean the location for extra rewards
+*Added room names above all doors in Prison
+*Added an option to increase and decrease the maximum players in a server (Max 100)
+*You can now go prone by pressing the 'Z' key to hide under beds
+*You can now use the spray cans to draw graffiti
+*You can now change your characters clothes by taking them out of wardrobes when in a location, this only works if you are the only player in that room
+*Added raytracing support
+*Added an option to replace all textures and geometry with white cubes to improve performance for those with old computers
+*You can now play the game on mobile devices
+*You can now press 'N' to dance
+
+=== Maps ===
+;Lighthouse
+*Small location with 8 rooms
+*A lighthouse located on a remote island in the middle of a hazardous sea
+*Players can complete maintenance on the light and tower for bonus rewards
+
+;Funfair
+*A medium outdoor map featuring minigames, a house of mirrors and a completely interactive haunted fun house
+*You must buy a ticket for $100 to enter this location, per player
+
+;Church
+*A medium location with a large open main hall, perfect for losing ghosts and items
+*Graveyard with dynamically generated gravestones for every previous death on your account
+*Enter the crypts and choose which ghost model you'd like to scare you
+
+=== Truck driving ===
+*Added an open world area where you can drive back and forth to each location
+*Added a shop location where you will have to drive to in order to buy your equipment
+*You must now bring all equipment back to the truck or you will lose them
+
+=== Possession ===
+*Likely references another horror game, ''Dead by Daylight'', and multiple requests for a similar gamemode in ''Phasmophobia''
+*A brand new game mode where you can play as the ghost, in a 1v4 competitive fight to the death against other players
+*The ghost player will have 1 minute to hide the bone and cursed possession before choosing a favourite room to stay in
+*During hunts players that are talking or have equipment turned on will glow red through walls
+*The ghost player will be able to talk to investigators through the spirit box
+*Ghost players will steal the money of anyone they kill, and can use it to upgrade abilities in a new 3 tier skill tree
+
+=== Equipment ===
+;Ghost-e-ball
+*A red and white sphere like item that can be used to capture the ghost, in exchange for additional rewards OR can be trained to "become the very best!"
+
+;Teddy Bear<ref group="note">[[Toy|Teddy bears]] exist in the actual game, but are merely a prop and do not serve to aid the player in investigation.</ref>
+*A fluffy toy that responds to ghost activity, but can also be placed to hug the nearest player for a 1% sanity increase
+
+;Buddy
+*You can now 'Use' the bone to summon a dog that will follow you and will bark when near the ghost
+
+;Wrist Watch
+*A watch that tells you the time
+
+== Changes ==
+=== Gameplay ===
+*The parabolic microphone will now play back all sounds at 500% volume, allowing you to hear things from further away
+*Reduced sprint duration from 3s to 1.5s
+*Reduced sprint cooldown from 5s to 2.5s
+*Sanity Pills will now only spawn inside bathrooms and are no longer buyable
+*You will now be fined by the home owners for every item that has been misplaced, dropped, broken or stolen
+*You now have to lock the exit doors and place the key under the doormat when you leave, otherwise you will be fined
+*Sinks and showers will now flood the house if you don't turn them off
+*You can now attach all equipment to tripods
+*Replaced all Spirit Box audio with “E”
+*The main key will sometimes be hidden outside the location instead of spawning in the truck
+*Converted the entire game from Unity to Unreal Engine 5
+
+=== Ghosts ===
+;Spirit
+*Spirits have developed a dependency on Smudge Sticks, and will stop all activity and leave the location unless you light them nearby
+**Increased smudge stick duration on Spirits to 5 minutes
+
+;Revenant
+*The OG speed-demon has had enough of you all sprinting away and hiding, so we've put him back to his rightful top spot
+**Revenants now sprint when players sprint, setting them to their maximum speed
+**Revenant grace period is now always 1 second
+
+;The Twins
+*The 'twin' ghost will now join the team and help with the investigation
+
+;The Mimic
+*Mimics now mimic all ghosts at the same time, and always have every strength and weakness
+
+;Raiju
+*Raiju will now speed up as long as the fuse box is on, when near switched on lights and when players are using walkie-talkies
+
+;Poltergeist
+*Poltergeists can now throw players
+
+;Obake
+*Obake were having some trouble changing forms as they were too shy, so we've given them an encouragement speech and now they think they're ready to change in front of players
+**Will now change ghost models every second during events and hunts
+
+== Bug fixes ==
+*Fixed a bug where equipment and lights would flicker whenever the ghost appeared
+*Fixed a bug where ghosts were flashing on and off during hunts
+*Fixed a bug where the Newbridge Beech House contract could not be selected
+*Fixed a bug where players could hide behind doors (by removing all doors in all locations)
+*Fixed a bug where the 'Death' tarot card didn't instantly kill you
+*Fixed a bug where you could get EMF 5 by looking at the activity monitor
+*Fixed a bug where voice recognition breaks when tabbing out
+*Fixed a bug where you couldn't jump
+*Fixed a bug where the power would turn off if you turned on too many lights
+*Fixed a bug where players could hold 3 items instead of 2
+*Fixed a bug where flashlights were staying on even when in your pocket
+*Fixed a bug where if two people grabbed an object at the same time, the item would duplicate for them
+*Fixed a bug where you could glitch doors off of their hinges
+*Fixed a bug where you could glitch yourself inside of walls
+*Fixed a bug where you couldn't see the ghost's relationship meter
+*Fixed a bug where the ghosts looked like they wanted to kill you, instead of give you a cuddle
+*Fixed a bug where ghosts were hugging your eye sockets instead of your body when they got to you
+*Fixed a bug where "#BlameLavender", "#BlameDK" and "#BlameCJ" categories weren't visible in the bug reporter
+*Fixed a bug where hackers weren't able to hack everything
+*Fixed a bug where the letter 'H' was found on keyboards when it shouldn't be (Reference to old keyboard not having an "H" key)
+*Fixed a bug where ghosts were being naughty
+
+== References ==
+{{Reflist}}
+
+== Notes ==
+{{Reflist|group="note"}}
+
+[[Category:April Fools']]
+[[fr:Mise à jour Expedition]]
+[[ru:Expedition Update]]

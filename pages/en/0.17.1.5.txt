@@ -1,0 +1,23 @@
+# 0.17.1.5
+# revid 24129  2026-07-20T11:32:49Z  by Darkhooper
+# 备注: next major version
+# sha256 2dfc4a4f629736b9626287bef57e81782631d37949f3350b578e805db8a3fdb2  bytes 873
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| release_date=3 June 2026
+| previous_major_version=[[0.17.0]]
+| previous_minor_version=[[0.17.1.4]]
+| next_minor_version=
+| next_major_version=[[0.18.0]]
+}}'''0.17.1.5''' is a minor hotfix released on 3 June 2026.<ref>[https://kineticgames.co.uk/news/phasmophobia-hotfix-v01715 ''Phasmophobia - Hotfix v0.17.1.5''. 3 June 2026.]</ref> It fixes two issues.
+
+==Fixes==
+*Fixed an issue that caused players to become softlocked when using the Spirit Box while using a controller.
+*Fixed an issue for Steam players that caused Voice Recognition to not work.
+**If you are encountering issues with Voice Recognition on the "Voice" setting on PC, please ensure that the default microphone assigned on your PC is the microphone specified in your windows settings.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.17.1.5]]
+[[ru:0.17.1.5]]

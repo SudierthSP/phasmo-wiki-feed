@@ -1,0 +1,39 @@
+# 0.11.0.1
+# revid 23881  2026-06-28T21:35:32Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 241008d3fb75ba852e07d840ac867ab5435c49683b5900e8c104702e318b61dd  bytes 1713
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=1 November 2024
+ | previous_major_version=[[0.11.0]]
+ | previous_minor_version=
+ | next_minor_version=[[0.11.0.2]]
+ | next_major_version=[[0.12.0.1]]
+}}'''0.11.0.1''' is a hotfix released on 1 November 2024.<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-crimson-eye-v01101 ''Crimson Eye - Phasmophobia Hotfix v011.0.1''. 1 November 2024.]</ref> It fixes several bugs for specific platforms such as PlayStation VR2.
+
+==Changes==
+*PS5: Lowered the density of fog on PSVR2 to increase visibility
+*You can no longer rebind the left mouse click or Xbox A/PlayStation X button to any keybind, this is to prevent the UI becoming unusable
+
+==Fixes==
+;All Platforms
+*Fixed an issue where Totem Points would multiply per player in each game.
+*Fixed an issue that caused too many Totems to spawn in multiplayer.
+*Fixed several instances of players getting stuck in various locations.
+*Fixed an issue that caused Doors in VR to no longer shake & play a loud noise when grabbed.
+*Fixed an issue preventing VR players from turning at the same time as moving, when Smooth Turning was switched on.
+*Fixed an issue where VR Players would bounce off of objects when walking in to them.
+*Fixed an issue causing some controller inputs to become unuseable when a VR player opens the journal.
+
+;Xbox
+*Fixed an issue preventing players from not being able to obtain the “They’re Here“ achievement.
+
+;PS5/PSVR2
+*Fixed an issue with PS VR2 Foveated Rendering that was causing a ghosting effect on the main menu
+*Fixed an issue on PS5 that caused Tripod T1 to follow the player when dropped.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.11.0.1]]
+[[ru:0.11.0.1]]

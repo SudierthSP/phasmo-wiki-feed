@@ -1,0 +1,156 @@
+# 0.26.8.1
+# revid 23921  2026-06-28T21:38:34Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 ce5c709f3e0671dc215e55b9214c8a2be7c0212bdc9d0b9c13d771b1231440bc  bytes 11580
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+|release_date=6 March 2021
+|previous_major_version=[[0.2]]
+|previous_minor_version=?
+|next_minor_version=?
+|next_major_version=[[0.27.4.2]]
+}}'''0.26.8.1''' was released on 6 March 2021.<ref>[https://store.steampowered.com/news/app/739630/view/3013443092082697396 ''Update: Bug fixes, balance changes and new features!'' 6 March 2021 (on Steam).]</ref> This update improves the gameplay and fixes bugs.
+
+== Additions ==
+* Added an accessibility page where you can swap your sound to mono. This requires a game restart.
+* Added a button to select the contract difficulty rather then it being random.
+* Added a button in the game options to change the ports the game uses. This can help significantly in some situations where you are getting a lot of disconnects. This option requires a game restart.
+* Added text on the sanity monitor to show the teams average sanity that the ghost uses to hunt.
+
+== Improvements ==
+=== Quality of Life ===
+* Improved the server and contract selection navigation on gamepads.
+* You can now enter the room invite code with the keyboard numpad.
+* Added a button to add the max amount of each item so you don't have to spam click each item.
+* Added a server region prefix in front of the room invite code to help show what region you are in or trying to connect to.
+* Added a delay for closing the truck door once it has been opened to prevent trolling.
+* Changing character will no longer unready everyone.
+* Added an "Are you sure?" check after clicking the training button on the main menu.
+
+=== Ghost AI ===
+* The ghost will now follow your around corners if it has lost sight of you rather than searching a random location.
+* The ghost will now listen for player voices when hunting and will search those locations. This will not work if you are not the banshee target.
+* The ghost can now open lockers and closets outside of a hunt.
+* The ghost will now open doors, closets and lockers during hunts. This can be stopped by holding the door however the ghost can still walk through room doors like usual.
+* Slightly increased the ghosts chance to wander on all difficulties.
+* The ghost will now search around the location it last saw a player rather than searching a random location.
+* The ghost will now target any player that gets close to it whilst it's already chasing another player.
+
+== Changes ==
+=== Gameplay ===
+* Professional Difficulty: You will no longer be told if the Ghost responds to groups or only if you are alone.
+* Professional Difficulty: The power will now always start off.
+* Removed the dirty water objective as it was too hard to get. It will still remain as extra photo evidence.
+* Removed the temperature objective due to the temperature changes listed below.
+* The Activity Monitor will now show an estimated value rather than the true value.
+* Glow sticks will now have the same brightness when you are holding them as when they are thrown.
+* Improved the movement of ghost orbs so that they stay inside the room longer and are easier to see.
+* EMF Readers will now give random values during hunts similar to how the flashlight flashes during hunts.
+* The ghost appearing and walking towards you will now count as a ghost event.
+* Dead players will no longer count towards the average sanity. Instead alive players will now lose 15 sanity each time a player dies.
+* Lowered the resolution of the photos to help with lag spikes when taking the photo.
+* The $50 photo reward challenge has been changed to be a total $50 reward over multiple games.
+* Banshees will now hunt like other ghosts and target any player when it's target player is outside.
+* Improved how the bone spawns to help prevent it spawning in unreachable locations.
+
+=== Temperature ===
+* Lowered the rate the Thermometer updates it's temperature from 1 second to 2 seconds.
+* Slightly increased the temperatures variations that show on the Thermometer.
+* All rooms will now start with slightly different temperatures.
+* If the power is off, the temperature in every room will now slowly drop to 5C/41F.
+* If the power is on, the temperature in every room will slowly raise unless the ghost is in the room where it will still drop.
+* Professional Difficulty: Due to the power starting off, the room temperatures will start at 5C/41F.
+* Each room will now change their temperature at slightly different speeds.
+* Lowered the speed that temperature raises in rooms once the power is on.
+* Lowered the speed that the ghost lowers the temperature in the room it's in.
+* Freezing temperature ghosts will now reduce the room temperature at the same speed as other ghosts. This means that when the power is off, all rooms including the ghost room will drop at a similar speed.
+
+=== Parabolic Microphone ===
+* The Parabolic Microphones range has been increased from 8 to 30 meters. The width has also been increased from 2 to 6 meters. This is to be used to give you the general direction the ghost and not exactly where it is.
+* Reduced the size of the Parabolic Microphone model to give you a better view on Non-VR.
+* Removed some ambient sounds from being read by the parabolic microphone and sound sensors that were not caused by the ghost.
+* Improved how the parabolic microphone and sound sensors hear player voices to be more accurate.
+* Increased the time sounds can be detected by the parabolic or sound sensor from 2 to 3 seconds.
+* Fixed several sounds that were not being heard by the parabolic microphone.
+
+=== Non-VR ===
+* You can now place Candles similar to the Ghost Writing Book.
+* Flashlights and UV Lights will now turn on when swapping items if your shoulder light was on.
+* Swapping items from a turned on flashlight will now turn on your shoulder light automatically.
+* Tripods will now always get placed directly in front of you to prevent situations where you could place them into unreachable locations.
+
+== Fixes ==
+=== VR ===
+* Fixed a bug where VR players could not speak after a game has finished.
+* Fixed a bug where teleport grabbing in VR didn't work when you were dead.
+* Fixed a bug where several objects couldn't be seen by the smooth VR recording camera.
+* Fixed a bug where VR players couldn't be killed by the ghost if they laid down.
+* Fixed a bug where VR players were not setting Non-VR players saved voice volumes.
+* Fixed a bug where the money value of a photo would get multiplied per VR player.
+
+=== Prison ===
+* Fixed a bug where the ghosts room boundary from both cell blocks were extended into the bathroom and hallway.
+* Prison will no longer be always added to the contract selection.
+* Fixed a bug where cell block exit doors would unlock during hunts.
+* Fixed a bug where you couldn't take a photo of the fingerprints on the cell doors when it was open.
+* Fixed a bug where the main hallway lights wouldn't flash during a hunt.
+* Fixed a bug where the ghost could get stuck on the cell block benches.
+
+=== Asylum ===
+* Fixed a bug where you couldn't take fingerprints photos on the grey doors.
+* Significant performance and load time improvements.
+* Fixed a bug where the ghost couldn't knock on the windows.
+* Moved the light switches in the reception to make what they do clearer and to make them easier to press in VR.
+* Moved most CCTV cameras to help with fps when in the truck.
+* Several changes to most rooms to make them easier to navigate and to remove safe spots.
+
+=== General ===
+* Fixed several safe spots across all maps.
+* Fixed a bug where the ghost could sometimes see you through some locker and closet doors at certain angles.
+* Fixed various physics glitches that allowed you to get into locations where the ghost couldn't reach you.
+* The Ouija Board will no longer flicker lights when it fails to answer if the power is off.
+* Fixed a bug where you could use sanity pills infinitely when the truck was closed.
+* Fixed a bug where the ghost was able to target you on several maps when you were outside.
+* Fixed a bug where the Non-VR loading screen wasn't covering the entire screen on super ultra wide resolutions.
+* Fixed a bug where some objects could still be interacted with by the ghost if they were picked up near the ghost and taken to another location.
+* Fixed a bug where the dead body photo evidence wasn't always working if the body moved.
+* Fixed a bug where Non-VR dead player bodies would spawn inside the ground if they were crouched.
+* Fixed a bug where dead players could use the Ouija Board if it was turned on.
+* Fixed a bug where Candles wouldn't always turn off for Non-VR players.
+* Fixed a bug where the CCTV monitor would stop working if a player disconnected with a head mounted camera.
+* Lowered the camera night vision brightness on all house maps to prevent situations where it is too bright to see the ghost orbs.
+* Fixed a bug where the ghost would get progressively less active the more players died.
+* Fixed a rare bug where you wouldn't always get fully killed by the ghost.
+* Fixed a bug where Non-VR players could place their head mounted cameras back on the hooks when dead.
+* Fixed a bug where if you played without an internet connection you could only play one game then had to restart.
+* Fixed a bug where the lobby page number didn't change when you clicked refresh.
+* Fixed a bug where the lobby server list would show empty pages.
+* Fixed a bug where your voice chat would stop working and not reconnect if your microphone disconnected.
+* Fixed a bug where the ghost would remain in an infinite hunt if the host disconnected during a hunt.
+* Fixed a bug where the maximum amount of lights that could be on was not being changed during ghost events.
+* Fixed a bug where the sound sensor wouldn't detect footsteps if you placed it too high.
+* Fixed a bug where completing the 2nd objective would also give you the experience reward for the 3rd and 4th objective.
+* Fixed a bug where only the host was getting the daily challenge completion for the Ouija board response.
+* Fixed a bug where you would be set to offline after completing the training level.
+* Fixed a bug where the Ouija board wouldn't always detect that you were talking when using normal push to talk.
+* Fixed a bug where sound and motion sensors wouldn't always get assigned to the correct floor on the map.
+* Fixed a bug where the ghost was not always appearing for dead players.
+* Fixed a bug where you couldn't take an evidence photo of the fingerprints on some bathroom windows.
+* Fixed a bug where the ghost footsteps would not register as photo evidence.
+* Fixed a bug where ghost photos wouldn't always register and you would get other evidence instead.
+* Fixed a bug where the survive a hunt challenge was completing when there was no hunt.
+* Fixed a bug where there would be a large spike in network traffic during hunts causing disconnects.
+* Fixed a bug where several lights would not light up equipment items and would cause them to be pitch black.
+* Fixed a bug where items you have purchased wouldn't spawn in training.
+* Fixed a bug where if you left or quit when you were dead you would not lose your items.
+* Fixed a bug where taking a photo of the pile of salt would give footstep evidence for a Wraith.
+* Fixed several truck mini map errors on all maps.
+* Fixed a bug where objects could fall through the basement floor on several maps.
+* Fixed several locations where you would lose sanity if the lights were on.
+* Fixed a bug where you could get the ghost to interact with objects with voice recognition without opening the main door.
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.26.8.1]]
+[[ru:0.26.8.1]]

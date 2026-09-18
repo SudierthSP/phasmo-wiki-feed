@@ -1,0 +1,51 @@
+# 0.8.0.1
+# revid 23976  2026-06-28T21:42:49Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 7436fd862ab5c143f74e360083d15fcb8ef576ba81a587322a7326c4628afbca  bytes 2936
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=15 December 2022
+ | previous_major_version=[[0.8.0]]
+ | next_minor_version=[[0.8.0.2]]
+ | next_major_version=[[0.9.0]]
+}}'''0.8.0.1''' is a minor hotfix released on 15 December 2022.<ref>[https://store.steampowered.com/news/app/739630/view/6331529188450017427 ''Tempest | Hotfix v0.8.0.1''. 15 December 2022 (on Steam).]</ref>
+
+== Changes ==
+* Reduced glossiness of one of the female ghosts
+* Slightly moved the cookie in the red tent in Camp Woodwind
+* House door frames now have collision for motion sensors, salt etc.
+* Monitors up to 360Hz are now supported (previously 240Hz)
+* Reduced the amount of bloom in the photo camera photos
+
+== Bug fixes ==
+* The ghost will no longer eat the cookies before they have all been collected
+* If your level was reset to level 1 but you still had equipment and money your level will now be back. If it is not, please contact our modmail on discord and we can help you there.
+* The ghost can now interact with small objects on the floor of Camp Woodwind
+* New players will no longer get stuck in an infinite loop
+* Rooms will no longer drop to freezing temperatures after the weather changes to Snow
+* Edgefield reflections will now be accurate
+* Sunny Meadows chapel wall scratches will no longer cast shadows
+* A dirt patch in Sunny Meadows will no longer have a white square around it
+* Sink particles should no longer go through the sink in Sunny Meadows
+* Grandfather clock’s hands now look correct
+* You can no longer place DOTS projectors inside several ceilings
+* A house in Tanglewood Drive is now facing the correct way
+* You can no longer place objects through wall mounted TVs
+* If you are dead and Santa eats the cookies, you will no longer transition to snowy weather (unless you revive), overriding the dead visuals
+* Reviving, will now correctly set any weather changes whilst you are dead
+* Rain and snow will no longer stop when exiting Bleasdale or Grafton houses
+* SMAA and MSAA quality settings now default to their proper values, and not “off”
+* You will no longer get “failed to load” on your player profiles if the Unity services server is blocking your IP. This means however that you will not be able to earn the Holiday event without a VPN.
+* SSAO is no longer being calculated on cameras, CCTV and video cameras (also boosting SSAO performance).
+* Glowsticks now stay at full brightness for 60 seconds instead of 10.
+* Some handprint textures are no longer surrounded by a black box
+* You can now take a crucifix photo when the ghost uses it without having to put it in your inventory first
+* You can no longer take multiple crucifix photos by taking it in and out of your inventory
+* The fuse box interaction photo on Prison and Highschool will now work
+* Prison will no longer have sunrise reflections throughout the map 
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.8.0.1]]
+[[ru:0.8.0.1]]

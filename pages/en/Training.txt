@@ -1,0 +1,101 @@
+# Training
+# revid 24285  2026-07-24T04:41:15Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 04c6b00d2d1e3c83c6f3e7274575eefd5fe6694192b80741872436cd6a0e6b0e  bytes 8851
+# 源: https://phasmophobia.fandom.com/api.php[[ru:Обучение]]
+[[File:Training screen loading post 0.9.0.jpg|right|thumb|300px|Loading screen used during Training starting with ''Ascension'' update (0.9.0).]]
+
+'''Training''' is a tutorial mission available in ''Phasmophobia'', designed to help new players learn the essential aspects of the investigation process. It provides a basic overview of most in-game mechanics, including [[Hunt|hunts]] and how to utilize [[evidence]]-based [[equipment]] to gather evidence. 
+
+The Training mission uses a specially-built location simply called "Warehouse", which consists of a series of rooms that are divided into several stages for each lesson. On a technical level, there is not an actual active "ghost" in Training, and instead aspects of its behavior are emulated via scripted triggers.{{Verify}}
+
+Tutorials are given by both text written on white boards and vocal instructions from the man over the radio used in many other parts of the game, and inform the player to complete a certain task to progress further in the tutorial. On most whiteboards, a series of colored post-it notes will list out the control scheme. It is possible to back-track to already-completed sections for review purposes.
+
+Once the mission is completed, the player goes back to the [[truck]] and returns to the main [[lobby]]. The Journal is accessible during training, but as there are no rewards, it is pointless to try to select the ghost type.
+
+== Structure ==
+
+{{Location
+|img=Warehouse view.png
+|imgcaption=A view from the beginning of the training section.
+|teamsize=N/A
+|mapsize=Small
+|unlocklevel=N/A
+|floors=1
+|rooms=~27?
+|exits=1
+|faucets=0
+|videofeeds=0
+|keys=Front Door Key}}<br />
+{{Quote|quote=We've created a warehouse for you to master your ghost hunting skills.|speaker=Loading blurb}}
+The '''Warehouse''' is a special small [[map]] created for Training, and is not otherwise playable. It is a linear series of rooms made up of raised drywall, plywood, planks, and doors located within a dark, spartan warehouse made of primarily concrete. There are no [[exit door]]s, though some sections will remain locked until their objectives are completed.
+
+The Warehouse is a winding, linear experience leading the player through a step-by-step lesson of the basic mechanics of the game. The training is divided in several "stages" separated by locked doors, in which the player must perform a specific action in order to proceed to the next one. There are a total of 11 stages, each introducing the player to a specific element of gameplay, including all evidence types.
+
+== Stages ==
+
+=== Stage 1: Essentials ===
+The player gets an overview of the most basic mechanics: taking a [[Flashlight]] from the [[Truck]], pressing the keypad to open the Truck's back door and lower the ramp, acquiring the [[Key]], and opening doors to progress though a line of rooms, simply labeled Rooms One through Three. A "ghost" will occasionally throw items in Room Three as the player passes through. Although the player is told to take a Flashlight and the key to continue, they are technically optional, and the player can progress onwards without them.
+
+=== Stage 2: Sanity ===
+The player is introduced to the mechanic of [[Sanity]] and how to restore it. This stage features tier 1 [[Sanity Medication]] the player must drink in order to progress to the next stage.
+
+=== Stage 3: Lights ===
+The player is introduced to the mechanics related to lights, such as passive sanity drain and the [[fuse box]]. This room contains three light switches which each control one light. Turning all lights on will trip the fuse box and allow the player to proceed to the next stage.
+
+=== Stage 4: EMF ===
+The player is introduced to the [[EMF]] evidence. The player is offered a tier 1 [[EMF Reader]] and invited into a room with several items placed on tables. Eventually, an invisible force will throw the items around the room, creating EMF readings. The player must find an EMF 5 reading with the reader to proceed to the next stage.
+
+=== Stage 5: Ultraviolet ===
+The player is introduced to the [[Ultraviolet]] evidence. The player is provided with a tier 1 [[UV Light]] which they must use to reveal a handprint on the door and a footprint around the room leading to the next stage.
+
+=== Stage 6: Freezing Temperatures ===
+The player is introduced to the [[Freezing Temperatures]] evidence. Provided with a tier 1 [[Thermometer]], the player must search several rooms and find which one has below-freezing temperatures to proceed to the next stage.
+
+=== Stage 7: D.O.T.S Projector ===
+The player is introduced to the [[D.O.T.S Projector (Evidence)|D.O.T.S]] evidence. Provided with a tier 1 [[D.O.T.S Projector]], the player must enter a dark room and reveal a group of ghost dummies with it to proceed to the next stage.
+
+=== Stage 8: Ghost Orbs ===
+The player is introduced to the [[Ghost Orb|Ghost Orbs]] evidence. Provided with a tier 1 [[Video Camera]], the player has to search a dark room for Ghost Orbs. The stage completes after recording a video of the orb.
+
+=== Stage 9: Ghost Writing ===
+The player is introduced to the [[Ghost Writing]] evidence. The player must place a tier 1 [[Ghost Writing Book]] in a neighboring room and wait for it to be signed in order to proceed to the next stage.
+
+=== Stage 10: Spirit Box ===
+The player is introduced to the [[Spirit Box (Evidence)|Spirit Box]] evidence. Using a tier 1 [[Spirit Box]], the player must attempt to obtain an answer to proceed to the next stage. The "ghost" will sometimes be in a neighboring room with a light that must be turned off in order to obtain an answer.
+
+=== Stage 11: Hunts ===
+The player is introduced to [[Hunt|hunts]] and the [[Setup Timer]]. In this stage, the player must enter a room featuring several lockers and hiding spots where they will be confronted with the simulation of a hunt. When the player enters the room, all doors will lock and hunt effects (such as lights and electronics flickering) will occur. Only when the player has entered a hiding spot and turned off their electronics, a ghost will appear at the entry door and cross the room before disappearing. If the player is spotted by the ghost, they will be teleported back to the beginning of the stage. The stage concludes once the player remains hidden until the ghost disappears.  
+
+== Trivia ==
+*Internally, the Warehouse map is referred to as "TrainingV2".
+*The Truck at the end of Training is actually a separate vehicle, and not the same one the player started from. This can be easily noticed, as this separate Truck will not have any flashlights in it.
+*The "ghost" in Training provides ''six'' types of evidence: EMF Level 5, Ultraviolet, Freezing Temperatures, Ghost Orbs, Ghost Writing, and Spirit Box, which does not indicate an actual ghost that is in the game as ghosts only have three evidence types associated with them. 
+*Prior to the ''[[0.9.0|Ascension update]]'', the Training mission consisted of [[6 Tanglewood Drive]] with a random ghost that could give evidence but could not hunt, similar to the "Friendly Ghost" custom difficulty option. It came with tips on the TV screen located in the Living Room that explained what each equipment did. As with the current iteration of Training, no rewards were given at the end of the mission.
+**Additionally, as this was a "regular" level, and before the Ouija Board became a cursed possession in [[0.5.0]], it could occasionally spawn in the map. This still could not get the ghost to hunt, as the Ouija Board could not break and trigger a cursed hunt during that time.
+*It is possible that the current Training mission—or at least the Warehouse map that it takes place in—was intended to be accessible from multiplayer lobbies by teams up to four players at once, however as of 0.9.0 the mission is only accessible from the main menu and can only be played by a single player.
+*In the early years of alpha, training was available as a lobby mission for co-op (probably to test out chat features, etc.); this has since been removed.
+
+== History ==
+{| class="fandom-table"
+! colspan="2" | Early Access
+|-
+! rowspan="2"| [[0.9.0]]
+| Changed the training map to be a Warehouse instead of 6 Tanglewood Drive.
+|-
+| The training now shows the player how to use each evidence equipments, and gives tips and tricks on how to play the game in a controlled environment.
+|-
+! rowspan="4"|[[0.10.0]]
+|Lowered the temperature of the training to make it easier to get Freezing Temperatures.
+|-
+|Reduced the amount of equipment to one in each room.
+|-
+|The player will now have to get EMF Level 5 to get past the EMF room.
+|-
+|Replaced the glowstick with the UV flashlight as of the tier change.
+|-
+![[0.18.0]]
+|Recording the Ghost Orbs is now required, instead of only getting it inside the video camera's screen.
+|}
+[[Category:Gameplay]]
+[[fr:Entraînement]]

@@ -1,0 +1,5 @@
+# Edgefield Street House
+# revid 12702  2022-09-30T12:28:12Z  by Skaijie
+# 备注: Skaijie moved page [[Edgefield Street House]] to [[42 Edgefield Road]]: new in-game name
+# sha256 c9bb0ff76f893b84e1bfe090815dda2be0df7d42a813d3580aa53cb28aae28f6  bytes 31
+# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[42 Edgefield Road]]

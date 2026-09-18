@@ -1,0 +1,126 @@
+# Ghost Writing
+# revid 24151  2026-07-21T09:53:28Z  by Darkhooper
+# 备注: correct link to Spirit Box Evidence page
+# sha256 f7fce6bcea041d41df2d51fdad2a2e83cbf159cc8f0089ba59dc8156cbccde69  bytes 4688
+# 源: https://phasmophobia.fandom.com/api.php{{Evidence_Infobox
+ |image1=OpenBook_Patterns.gif|detected_by=[[Ghost Writing Book]]
+}}{{Quote|speaker=The Journal|quote=Some Ghosts are able to write inside of books if given the proper tools to do so.}}
+'''Ghost Writing''' is a piece of [[evidence]] used to determine which [[ghost]] is haunting a location. It can be obtained by using a [[Ghost Writing Book]] with an applicable ghost.
+
+==Mechanics==
+If Ghost Writing is a piece of evidence, the ghost will try to write in an opened [[Ghost Writing Book]] every 45 to 90 seconds and the chance to succeed depends on the ghost writing book tier: 51%, 67%, 76% for tiers 1, 2, 3, respectively. The timer starts as soon as the equipment is loaded and is different for each book.
+
+Ghost Writing cannot be given if the Ghost Writing Book is closed and/or the ghost is outside of its range. However, if the interaction succeeds, the book will rise and the pencil/pen will start to frantically scribble on the pages visually and audibly. An [[EMF]] Level 2 reading will also be created (33% chance of being an [[EMF Level 5]] reading instead if the ghost has EMF Level 5 as [[evidence]]).
+
+There are several different types of Ghost Writing that a ghost can put in the book, with the tier I and tier III books both having three, and the tier II book having six. Each has an equal chance of occurring and the type of writing does not narrow down the type of ghost any more than the fact that the ghost writes in the book at all. Each book may contain different types of writing.
+
+===Rewards===
+{{Main|Media}}
+Taking a photo of the Ghost Writing Book after it has been written in will yield a photo labelled as '''Ghost Writing''', and reward up to $7 and 7 XP, depending on the tier of the [[Photo Camera]] and whether there is a Unique stamp. A video and a sound labelled as '''Ghost Writing''', each awarding up to $12 and 12 XP, can also be recorded when the ghost is writing in the book.
+
+==Tips==
+*If a ghost throws a Ghost Writing Book, then it either does not have Ghost Writing as evidence, or is hiding it on reduced-evidence [[difficulty|difficulties]].
+
+==Possible ghosts==
+{| class="article-table"
+|+
+|[[Aswang]]
+|Ghost Writing
+|[[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|[[Freezing Temperatures]]
+|-
+|[[Deildegast]]
+|Ghost Writing
+|[[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|[[EMF Level 5]]
+|-
+|[[Demon]]
+|Ghost Writing
+|[[Freezing Temperatures]]
+|[[Ultraviolet]]
+|-
+|[[Deogen]]
+|Ghost Writing
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Mare]]
+|Ghost Writing
+|[[Ghost Orb]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Moroi]]
+|Ghost Writing
+|[[Freezing Temperatures]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Myling]]
+|Ghost Writing
+|[[EMF Level 5]]
+|[[Ultraviolet]]
+|-
+|[[Obambo]]
+|Ghost Writing
+|[[Ultraviolet]]
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|-
+|[[Poltergeist]]
+|Ghost Writing
+|[[Spirit Box (Evidence)|Spirit Box]]
+|[[Ultraviolet]]
+|-
+|[[Revenant]]
+|Ghost Writing
+|[[Freezing Temperatures]]
+|[[Ghost Orb]]
+|-
+|[[Shade]]
+|Ghost Writing
+|[[EMF Level 5]]
+|[[Freezing Temperatures]]
+|-
+|[[Spirit]]
+|Ghost Writing
+|[[EMF Level 5]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Thaye]]
+|Ghost Writing
+|[[Ghost Orb]]
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|}
+
+==Writing Patterns==
+;Tier I
+<gallery>
+T1BookWriting1.png|Violent Scribbles
+T1BookWriting2.png|Asking for help
+T1BookWriting3.png|Promise
+</gallery>
+;Tier II
+<gallery>
+OpenBook_Writing1_Render.png|Asking for help 1
+OpenBook_Writing2_Render.png|Violent Scribbles
+OpenBook_Writing3_Render.png|Asking for help 2
+OpenBook_Writing4_Render.png|Unintelligible
+OpenBook_Writing5_Render.png|Fleeing the sun
+OpenBook_Writing6_Render.png|"Run" "Help" "See" Etc.
+</gallery>
+;Tier III
+<gallery>
+T3BookWriting1.png|666
+T3BookWriting2.png|Ritual
+T3BookWriting3.png|Pentagram
+</gallery>
+
+==Trivia==
+*One of the patterns of the tier II Ghost Writing Book, labeled "Unintelligible", is an easter egg of content creator Dodorododo, being their username written several times in particularly bad cursive script.<ref>https://old.reddit.com/r/PhasmophobiaGame/comments/pd0aa4/anyone_able_to_read_what_this_says/hanjpd5/</ref>
+*Another of the patterns of the tier II Ghost Writing Book, labeled "Fleeing the Sun", is an easter egg of the 2013 horror movie "Mama", referencing one of the drawings of the children.<ref>http://images.complex.com/complex/image/upload/c_limit,w_680/fl_lossy,pg_1,q_auto/ic12j5nrfw1iuobbr161.jpg</ref>
+
+==References==
+{{Reflist}}
+{{Evidence nav}}
+{{Equipment nav}}
+[[Category:Evidence]]
+[[fr:Écriture fantomatique]]
+[[ru:Записи в блокноте]]

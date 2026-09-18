@@ -1,0 +1,28 @@
+# Site Map
+# revid 20395  2025-03-15T19:01:00Z  by Hadradavus
+# 备注: a couple words
+# sha256 4aac16c5738c9311d8c744c469ea4facc7dfff9b4c4aee410717bea9fc286e28  bytes 2138
+# 源: https://phasmophobia.fandom.com/api.php[[File:Site map 0.6.png|thumb|The site map of Tanglewood Street House, with a motion sensor and sound sensor placed.]]{{about|the screen seen in the Truck|the locations that players can visit|Map}}
+The '''Site Map '''is a screen located within the starting [[Truck]], being the top left screen. Beyond giving the name and layout of the current [[map]], it also highlights many map details, including:
+
+* The present location of players, coded to their color on the [[Sanity Monitor]], additionally giving a small light glow to indicate which direction they're facing
+* The positioning of [[Video Feed|CCTV cameras]]
+* The location of the fuse box, depending on [[Difficulty]]
+
+Depending on the map, the Site Map may either be a birds-eye view of the whole area, including outside sections, with visible props, textures and lighting (all maps added or reworked since [[0.4.0]]); or a simplistic, greyed-out outline of only the investigation area's general layout and geometry (all older maps). In the case of maps where only the geometry is given, a few further points of interest are highlighted:
+
+* Windows, which are marked with a red line
+* [[Exit Door|Exit doors]], which are marked with a green line
+* Staircases to different floors, indicated with a simplistic graphic and an arrow pointing towards the direction that the stairs are accessed to reach the next floor.
+
+On both styles of the Site Map, a couple pieces of [[Equipment]] are visible on it when placed:
+
+* [[Motion Sensor|Motion Sensors]], which show a red bar extending a short distance outward. The bar will flash green and make an audible beep when the motion sensor is activated.
+* [[Sound Sensor|Sound Sensors]], which produce a translucent orange sphere showing its effective area.
+
+Two arrows can be found on the left side of the screen, which can be used by left-clicking on them to switch to either the next floor up or down. These arrows do not "wrap around" when reaching the uppermost or lowermost floor; the opposing arrow must be clicked to switch floors.
+
+{{Equipment nav}}
+[[Category:Truck Equipment]]
+[[fr:Carte du lieu]]
+[[ru:Карта локации]]

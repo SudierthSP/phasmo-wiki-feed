@@ -1,0 +1,39 @@
+# Potato
+# revid 24013  2026-06-28T21:46:05Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 115287e7d93bb07cd3077387292043b99c00e5074c57d751211dbba9c27b246f  bytes 1504
+# 源: https://phasmophobia.fandom.com/api.php{{Item Template
+ |img=Phas potato.png
+ |imgcaption=The potato.
+}}[[File:Hoh.ogg|thumb|The impact sound the potato makes.]]The '''potato''' is a [[prop]] and an easter egg reference to the popular ''Phasmophobia'' content creator [https://www.youtube.com/channel/UCwC6yByzb5-YQNyCT9KKS0Q PsychoHypnotic].<ref>https://discord.com/channels/435431947963990026/765596827537244200/919042700215484476</ref> When dropped, it will emit Psycho's Twitch alert sound.
+
+It can be found in two places:
+* [[6 Tanglewood Drive]]: in a kitchen cupboard 
+* [[Sunny Meadows Mental Institution]]: in the Bake House, 2nd from the left oven on the upper row
+
+==Trivia==
+Psycho's alert has been created by him as an expression of awe ("oh" sound) when someone subscribes or donates during his Twitch streams. The potato is a virtual face filter that Psycho has used a lot in the past, during the COVID-19 pandemic. As of 2023 he rarely uses the filter.
+
+==Gallery==
+<div class="mw-collapsible-content"><gallery widths="240">
+Tanglewood-Easter Egg.png|The location of the potato in [[6 Tanglewood Drive]]
+Potato.png|The potato being held.
+File:The location of the potato in sunny medows.jpg|The location of the potato in [[Sunny Meadows Mental Institution]]
+</gallery></div>
+
+== History ==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.5.0]]
+|Added the potato.
+|-
+![[0.7.0]]
+|Added the potato to Sunny Meadows.
+|}
+==References==
+{{Reflist}}
+{{MapFeatureNav}}
+[[Category:Item]]
+[[fr:Patate]]
+[[ru:Картошка]]

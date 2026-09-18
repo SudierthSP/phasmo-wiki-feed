@@ -1,0 +1,36 @@
+# 0.176.39
+# revid 23917  2026-06-28T21:38:16Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 a6bbb9c4ba3fc11229b632bfbebbe4a0b0e4303dbefc295a9670458b8c4313d1  bytes 1469
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+|release_date=4 November 2020
+|previous_major_version=[[0.176.28]]
+|previous_minor_version=?
+|next_minor_version=?
+|next_major_version=[[0.2]]
+}}'''0.176.39''' was released on 4 November 2020.<ref>[https://store.steampowered.com/news/app/739630/view/2913227220975648271 ''November 4th Update'' (on Steam)]</ref> This update fixes bugs.
+
+== Additions ==
+* Added a "connecting to server" loading screen.
+
+== Changes ==
+* Removed the delay between each equipment spawning.
+* Changed the way the server gets recreated when loading back into the main menu. This should fix a lot of bugs and disconnects. The host will now also remain the same.
+* Fixed a bug where VR players wouldn't get teleported back from the dead room.
+* Fixed a bug where the ghost could see you through the Ridgeview door.
+* Removed the voice sensitivity setting as it was breaking non push to talk.
+
+== Fixes ==
+* Fixed a bug where the VR Smooth Camera would move outside the map when you died.
+* Fixed a bug where some evidence such as Ouija Boards wasn't working for the photos.
+* Potential fix for crashes when loading back to the main menu.
+* Potential fix for save files getting corrupted when you crash or quit.
+* Potential fix for Glowsticks sometimes not giving any light.
+* Fixed a bug where some players were not able to connect to the server since the Halloween update.
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.176.39]]
+[[ru:0.176.39]]

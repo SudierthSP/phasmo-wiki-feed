@@ -1,0 +1,623 @@
+# Brownstone High School
+# revid 24797  2026-09-17T16:47:12Z  by Darkhooper
+# 备注: changed page layout
+# sha256 509e8b3504998684f4b9e561488ac9751774022d5db5aa18c2881b3f1f332378  bytes 21345
+# 源: https://phasmophobia.fandom.com/api.php{{Location
+|img=High school updated2.png
+|imgcaption=The front of the high school.
+|unlocklevel=8
+|mapsize=Large
+|floors=2
+|rooms=64 (Total)
+*2F: 30
+*1F: 34
+*58 possible ghost rooms
+|exits=5
+|faucets=36
+|videofeeds=15
+|keys=Main Door
+|img rooms=Rooms Brownstone High School.png
+|img sanity=Sanity Brownstone High School.png
+|img temperatures=Temperatures Brownstone High School.png
+}}
+{{Quote
+|speaker=Loading blurb
+|quote=Shut down due to unnatural deaths, this isolated school has been abandoned for decades.
+}}'''Brownstone High School''' is a [[map]] in ''Phasmophobia''. It was the first medium-sized map added to the game, though it is now a large-sized map. Its square shape and general symmetry can make it difficult to navigate, and its long hallways may make perpetual running almost impossible.
+
+==Structure==
+Brownstone High School has one front and one side yard (separated from each other), about three dozen classrooms, eight bathrooms, a lecture hall, a cafeteria, and a gymnasium complete with two locker rooms. The entire building is approximately 85 by 55 meters. 
+
+Brownstone High School features five [[exit door]]s. Due to the large distance between the closest entrance and the [[truck]], it may be desirable to stage gear close to the building before entering. The rear exit doors lead onto a outdoor yard featuring an exterior basketball court. It is considered a safe zone, therefore preventing passive sanity drain.
+
+===Layout tips===
+*There are four pairs of bathrooms on the map, with one pair per side per floor:
+**All male bathrooms are on the left, and all female bathrooms are on the right.
+**Each pair consists of a student's bathroom (labelled boys/girls) and a teacher's bathroom (labelled male/female). The teacher's bathroom is behind the "regular" bathroom (when looking towards the back).
+*Classrooms numbered 20 and above are all located on the '''2'''nd floor. The rest, classrooms 1-19, are downstairs.
+*In addition to doors and windows, [[Ultraviolet#Fingerprints|fingerprints]] can also appear on bathroom mirrors.
+
+The following rooms cannot be chosen as a [[ghost room|favourite room]]:
+*First Floor Main Corridor
+*First Floor Left Corridor
+*First Floor Right Corridor
+*Second Floor Main Corridor
+*Second Floor Left Corridor
+*Second Floor Right Corridor
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room lights being on:
+*Lobby
+*First Floor Main Corridor
+*First Floor Left Corridor
+*First Floor Right Corridor
+*Basketball Court
+*Lecture Hall
+*Second Floor Main Corridor
+*Second Floor Left Corridor
+*Second Floor Right Corridor
+
+The following rooms have no main room lights and hence no means of sanity drain prevention:
+*Classroom 10
+
+The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
+*First Floor Main Corridor
+*First Floor Left Corridor
+*First Floor Right Corridor
+*Second Floor Main Corridor
+*Second Floor Left Corridor
+*Second Floor Right Corridor
+
+Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
+{| class="article-table"
+!Parameter
+!None
+!Low
+!Medium
+!High
+|-
+!Number
+|0
+|6
+|11
+|17
+|}
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 21 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Library
+|[[File:BHS Library unavailable.png|200px]]
+|[[File:BHS Library available.png|200px]]
+|-
+|Classroom 6
+|[[File:BHS Classroom 6 unavailable.png|200px]]
+|[[File:BHS Classroom 6 available.png|200px]]
+|-
+|Classroom 8
+|[[File:BHS Classroom 8 unavailable.png|200px]]
+|[[File:BHS Classroom 8 available.png|200px]]
+|-
+|Classroom 11
+|[[File:BHS Classroom 11 unavailable.png|200px]]
+|[[File:BHS Classroom 11 available.png|200px]]
+|-
+|Classroom 12
+|[[File:BHS Classroom 12 unavailable.png|200px]]
+|[[File:BHS Classroom 12 available.png|200px]]
+|-
+|Classroom 15
+|[[File:BHS Classroom 15 unavailable.png|200px]]
+|[[File:BHS Classroom 15 available.png|200px]]
+|-
+|Downstairs Boys' Bathroom
+|[[File:BHS Downstairs Boys unavailable.png|200px]]
+|[[File:BHS Downstairs Boys available.png|200px]]
+|-
+|Downstairs Male Teachers' Bathroom
+|[[File:BHS Downstairs Male unavailable.png|200px]]
+|[[File:BHS Downstairs Male available.png|200px]]
+|-
+|Downstairs Girls' Bathroom
+|[[File:BHS Downstairs Girls unavailable.png|200px]]
+|[[File:BHS Downstairs Girls available.png|200px]]
+|-
+|Downstairs Female Teachers' Bathroom
+|[[File:BHS Downstairs Female unavailable.png|200px]]
+|[[File:BHS Downstairs Female available.png|200px]]
+|-
+|Classroom 20
+|[[File:BHS Classroom 20 unavailable.png|200px]]
+|[[File:BHS Classroom 20 available.png|200px]]
+|-
+|Classroom 27
+|[[File:BHS Classroom 27 unavailable.png|200px]]
+|[[File:BHS Classroom 27 available.png|200px]]
+|-
+|Classroom 31
+|[[File:BHS Classroom 31 unavailable.png|200px]]
+|[[File:BHS Classroom 31 available.png|200px]]
+|-
+|Classroom 33
+|[[File:BHS Classroom 33 unavailable.png|200px]]
+|[[File:BHS Classroom 33 available.png|200px]]
+|-
+|Classroom 36
+|[[File:BHS Classroom 36 unavailable.png|200px]]
+|[[File:BHS Classroom 36 available.png|200px]]
+|-
+|Science Classroom 3
+|[[File:BHS Science 3 unavailable.png|200px]]
+|[[File:BHS Science 3 available.png|200px]]
+|-
+|Science Classroom 4
+|[[File:BHS Science 4 unavailable.png|200px]]
+|[[File:BHS Science 4 available.png|200px]]
+|-
+|Upstairs Boys' Bathroom
+|[[File:BHS Upstairs Boys unavailable.png|200px]]
+|[[File:BHS Upstairs Boys available.png|200px]]
+|-
+|Upstairs Male Teachers' Bathroom
+|[[File:BHS Upstairs Male unavailable.png|200px]]
+|[[File:BHS Upstairs Male available.png|200px]]
+|-
+|Upstairs Girls' Bathroom
+|[[File:BHS Upstairs Girls unavailable.png|200px]]
+|[[File:BHS Upstairs Girls available.png|200px]]
+|-
+|Upstairs Female Teachers' Bathroom
+|[[File:BHS Upstairs Female unavailable.png|200px]]
+|[[File:BHS Upstairs Female available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|21
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|17
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|13
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|5
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+Due to the very large size of the map, it may not even be necessary to hide if the player is sufficiently far from the ghost. The player can simply sit in a room far away from the ghost, as it would be extremely unlikely for it to wander by chance to the player's location if it has not detected them. 
+
+On the other hand, the large size of the map may make noticing the start of a hunt much more difficult. This can be particularly dangerous in hallways, as the player may be taken by surprise by a ghost that started hunting from far away. Communication between players and vigilance is key to avoid bad surprises; keeping exit doors open to hear or see them close and periodically trying to toggle light switches can help players know if a hunt started elsewhere in the building.
+
+The ghost is able to walk through many of the teacher's desks found in the classrooms, rendering them not useful for trying to loop the ghost.
+
+==Brownstone High School - Restricted==
+The restricted version of the map can be selected independently of the main location, and is considered a medium map. In the first-floor Restricted versions, only the Foyer (where the [[Cursed Possession]]s spawn) and one randomly-selected front quarter of the lower floor will be able to be accessed (including the side entrance corresponding to the variant), with the other side entrance being blocked off. In the second-floor Restricted versions, the main entrance will always be blocked, with only one side entrance available (marked by exterior lighting). Only the staircase on the lower level can be accessed (where the Cursed Possessions spawn bar the [[Summoning Circle]]),  and one randomly-selected front quarter of the upper floor will be able to be accessed, with the Summoning Circle spawning to one side of the top of the stairs.
+
+<tabber>
+|-|First Floor Left=
+{{Location
+|title=Brownstone High School Restricted
+|img=BHSRestricted FFL.png
+|imgcaption=A view from the intersection of the left and main corridors on the first floor.
+|mapsize=Medium
+|floors=1
+|unlocklevel=8
+|rooms=12 (Total)
+*10 possible ghost rooms
+|exits=2
+|faucets=10
+|videofeeds=4
+|keys=Main Door Key
+|img rooms=Rooms BHS Restricted FFL.png
+|img sanity=Sanity BHS Restricted FFL.png
+|img temperatures=Temperatures BHS Restricted FFL.png
+}}
+===Layout tips===
+The following rooms cannot be chosen as a [[ghost room|favourite room]]:
+*First Floor Main Corridor
+*First Floor Left Corridor
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room lights being on:
+*Lobby
+*First Floor Main Corridor
+*First Floor Left Corridor
+
+The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
+*First Floor Main Corridor
+*First Floor Left Corridor
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 3 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Classroom 12
+|[[File:BHS Classroom 12 unavailable.png|200px]]
+|[[File:BHS Classroom 12 available.png|200px]]
+|-
+|Downstairs Boys' Bathroom
+|[[File:BHS Downstairs Boys unavailable.png|200px]]
+|[[File:BHS Downstairs Boys available.png|200px]]
+|-
+|Downstairs Male Teachers' Bathroom
+|[[File:BHS Downstairs Male unavailable.png|200px]]
+|[[File:BHS Downstairs Male available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|3
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|0
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|0
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|0
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+|-|First Floor Right=
+{{Location
+|title=Brownstone High School Restricted
+|img=BHSRestricted FFR.png
+|imgcaption=A view from the intersection of the right and main corridors on the first floor.
+|mapsize=Medium
+|floors=1
+|unlocklevel=8
+|rooms=12 (Total)
+*10 possible ghost rooms
+|exits=2
+|faucets=8
+|videofeeds=4
+|keys=Main Door Key
+|img rooms=Rooms BHS Restricted FFR.png
+|img sanity=Sanity BHS Restricted FFR.png
+|img temperatures=Temperatures BHS Restricted FFR.png
+}}
+===Layout tips===
+The following rooms cannot be chosen as a [[ghost room|favourite room]]:
+*First Floor Main Corridor
+*First Floor Right Corridor
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room lights being on:
+*Lobby
+*First Floor Main Corridor
+*First Floor Right Corridor
+
+The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
+*First Floor Main Corridor
+*First Floor Right Corridor
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 5 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Library
+|[[File:BHS Library unavailable.png|200px]]
+|[[File:BHS Library available.png|200px]]
+|-
+|Classroom 6
+|[[File:BHS Classroom 6 unavailable.png|200px]]
+|[[File:BHS Classroom 6 available.png|200px]]
+|-
+|Classroom 8
+|[[File:BHS Classroom 8 unavailable.png|200px]]
+|[[File:BHS Classroom 8 available.png|200px]]
+|-
+|Downstairs Girls' Bathroom
+|[[File:BHS Downstairs Girls unavailable.png|200px]]
+|[[File:BHS Downstairs Girls available.png|200px]]
+|-
+|Downstairs Female Teachers' Bathroom
+|[[File:BHS Downstairs Female unavailable.png|200px]]
+|[[File:BHS Downstairs Female available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|5
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|1
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|0
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|0
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+|-|Second Floor Left=
+{{Location
+|title=Brownstone High School Restricted
+|img=BHSRestricted SFL.png
+|imgcaption=A view from the intersection of the left and main corridors on the second floor.
+|mapsize=Medium
+|floors=2
+|unlocklevel=8
+|rooms=13 (Total)
+*2F: 11
+*1F: 2
+*9 possible ghost rooms
+|exits=1
+|faucets=10
+|videofeeds=5
+|keys=Main Door Key
+|img rooms=Rooms BHS Restricted SFL.png
+|img sanity=Sanity BHS Restricted SFL.png
+|img temperatures=Temperatures BHS Restricted SFL.png
+}}
+===Layout tips===
+The following rooms cannot be chosen as a [[ghost room|favourite room]]:
+*First Floor Main Corridor
+*First Floor Left Corridor
+*Second Floor Main Corridor
+*Second Floor Left Corridor
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room lights being on:
+*First Floor Left Corridor
+*Lecture Hall
+*Second Floor Main Corridor
+*Second Floor Left Corridor
+
+The following rooms have no main room lights and hence no means of sanity drain prevention:
+*First Floor Main Corridor
+
+The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
+*First Floor Main Corridor
+*First Floor Left Corridor
+*Second Floor Main Corridor
+*Second Floor Left Corridor
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 4 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Classroom 20
+|[[File:BHS Classroom 20 unavailable.png|200px]]
+|[[File:BHS Classroom 20 available.png|200px]]
+|-
+|Classroom 33
+|[[File:BHS Classroom 33 unavailable.png|200px]]
+|[[File:BHS Classroom 33 available.png|200px]]
+|-
+|Upstairs Boys' Bathroom
+|[[File:BHS Upstairs Boys unavailable.png|200px]]
+|[[File:BHS Upstairs Boys available.png|200px]]
+|-
+|Upstairs Male Teachers' Bathroom
+|[[File:BHS Upstairs Male unavailable.png|200px]]
+|[[File:BHS Upstairs Male available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|4
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|0
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|0
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|0
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+|-|Second Floor Right=
+{{Location
+|title=Brownstone High School Restricted
+|img=BHSRestricted SFR.png
+|imgcaption=A view from the intersection of the right and main corridors on the second floor.
+|mapsize=Medium
+|floors=2
+|unlocklevel=8
+|rooms=13 (Total)
+*2F: 11
+*1F: 2
+*9 possible ghost rooms
+|exits=1
+|faucets=8
+|videofeeds=5
+|keys=Main Door Key
+|img rooms=Rooms BHS Restricted SFR.png
+|img sanity=Sanity BHS Restricted SFR.png
+|img temperatures=Temperatures BHS Restricted SFR.png
+}}
+===Layout tips===
+The following rooms cannot be chosen as a [[ghost room|favourite room]]:
+*First Floor Main Corridor
+*First Floor Right Corridor
+*Second Floor Main Corridor
+*Second Floor Right Corridor
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room lights being on:
+*First Floor Right Corridor
+*Lecture Hall
+*Second Floor Main Corridor
+*Second Floor Right Corridor
+
+The following rooms have no main room lights and hence no means of sanity drain prevention:
+*First Floor Main Corridor
+
+The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
+*First Floor Main Corridor
+*First Floor Right Corridor
+*Second Floor Main Corridor
+*Second Floor Right Corridor
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 3 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Classroom 27
+|[[File:BHS Classroom 27 unavailable.png|200px]]
+|[[File:BHS Classroom 27 available.png|200px]]
+|-
+|Upstairs Girls' Bathroom
+|[[File:BHS Upstairs Girls unavailable.png|200px]]
+|[[File:BHS Upstairs Girls available.png|200px]]
+|-
+|Upstairs Female Teachers' Bathroom
+|[[File:BHS Upstairs Female unavailable.png|200px]]
+|[[File:BHS Upstairs Female available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|3
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|0
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|0
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|0
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+</tabber>
+
+==Bone locations==
+Bones spawn randomly, but will only spawn in areas that a ghost can also walk on, within a room that can be chosen as a [[Ghost Room|favourite room]]. Additionally, the bone cannot spawn in '''Lobby''', '''Basketball Court''', '''Cafeteria''', and '''Lecture Hall'''.
+
+==Cursed possession locations==
+<tabber>
+|-|Regular=
+<gallery>
+File:School-Doll.png|The [[Voodoo Doll]] spawn on a bench in the end of the Lobby.
+File:School-Circle.png|The [[Summoning Circle]] spawns in the end of the Lobby.
+File:School-Board.png|The [[Ouija Board]] spawns behind the left column in the Lobby.
+File:School-Mirror.png|The [[Haunted Mirror]] spawns behind the right column in the Lobby.
+File:School-Cards.png|The [[Tarot Cards]] spawn on a bench along the left wall of the Lobby.
+File:School-Music.png|The [[Music Box]] spawn on a bench along the right wall of the Lobby.
+Monkeypaw brownstone.jpg|The [[Monkey Paw]] spawns on a box in front of the right column in the Lobby.
+</gallery>
+
+|-|Restricted (second floor left variation)=
+<gallery>
+File:BHSRestricted2FL-Cursed.png|Six out of seven cursed possessions spawn on a bench in front of the staircase in the First Floor Main Corridor.
+File:BHSRestricted2FL-Circle.png|The [[Summoning Circle]] spawns in front of Classroom 21 in the Second Floor Main Corridor.
+</gallery>
+
+|-|Restricted (second floor right variation)=
+<gallery>
+File:BHSRestricted2FR-Cursed.png|Six out of seven cursed possessions spawn on a bench in front of the staircase in the First Floor Main Corridor.
+File:BHSRestricted2FR-Circle.png|The [[Summoning Circle]] spawns in front of Classroom 24 in the Second Floor Main Corridor.
+</gallery>
+</tabber>
+
+==Trivia==
+*Despite being larger than [[Sunny Meadows Mental Institution]]—the other Large map—in terms of playable area, Brownstone High School was classified as a Medium map until [[0.9.0]].<ref>https://discord.com/channels/435431947963990026/765596827537244200/1142680133933748254</ref>
+**This makes it the first map to have changed size class between versions of the game.
+*The "Second Floor Main Corridor" is one of the largest rooms in the map, competing with "Basketball Court". Both rooms individually are also among the largest rooms in the game.
+*The assets used for this map can be found [https://assetstore.unity.com/packages/3d/environments/urban/hq-abandoned-school-modular-106665 here].
+*There is a phone in every classroom that the ghost can ring as an interaction. In earlier versions of the game, this ringing was very loud and could be heard from great distances.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha?
+|-
+! N/A
+|Brownstone High School was added to the game.
+|-
+! colspan="2" |Early Access
+|-
+![[0.28.6.5]]
+|Optimisations to significantly improve load times and fps
+|-
+! rowspan="2" |[[0.29.6]]
+|Truck map has been flipped to make them less confusing to navigate
+|-
+|Top and bottom floor corridors have been split into 3 sections each
+|-
+![[0.9.0]]
+|Brownstone High School is now classified as a Large map.
+|-
+![[0.17.1.0]]
+|Added official hiding spots to Brownstone High School.
+|-
+! rowspan="2" |[[0.19.0]]
+|Added Brownstone High School Restricted.
+|-
+|The Truck has been moved closer to the main entrance.
+|}
+==References==
+{{Reflist}}
+{{MapNav}}
+[[Category:Maps]]
+[[Category:Large Map]]
+[[fr:Brownstone High School]]
+[[ru:Brownstone High School]]

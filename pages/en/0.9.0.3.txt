@@ -1,0 +1,21 @@
+# 0.9.0.3
+# revid 18213  2024-06-19T01:30:20Z  by Justf0cus420
+# sha256 5fd57cd2e8e763623d7869cb13657fd755a389a2009ab61944ffd7f08eaf4d75  bytes 814
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=21 August 2023
+  | previous_major_version=[[0.9.0]]
+  | previous_minor_version=[[0.9.0.2]]
+  | next_minor_version=[[0.9.0.4]]
+|next_major_version=[[0.10.0]]}}'''0.9.0.3''' is a patch released on 21 August 2023.<ref>[https://store.steampowered.com/news/app/739630/view/3655287211046800992?l=english ''Ascension | Hotfix v0.9.0.3''. 21 August 2023 (on Steam).]</ref> It fixes the problem with weekly challenges.
+==Fixes==
+
+* This weeks challenges will now be correctly generated
+
+To clear up some confusion with legacy badge, your badge can currently only be seen in multiplayer by another player on your character. This will change in a future update when we add new character models.
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.9.0.3]]
+[[ru:0.9.0.3]]

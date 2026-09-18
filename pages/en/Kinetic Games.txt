@@ -1,0 +1,158 @@
+# Kinetic Games
+# revid 24506  2026-08-26T00:39:47Z  by Darkhooper
+# sha256 fca79291f1a94e0c799118c964a1c2a61f3a91f42ed6d6d946db3dea75ad1a76  bytes 7444
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Studio
+ |image1=KineticGames.png
+ |founded=2020<ref>https://www.kineticgames.co.uk/about-us</ref>
+ |founder=Daniel Knight
+ |website=[http://www.kineticgames.co.uk/ www.kineticgames.co.uk]
+ |links=
+<div class="button123" style="float:left">[[File:MediaBoxTwitter.png|30px|link=https://x.com/KineticGamesDev]]</div><div class="button123light" style="float:left">[[File:MediaBoxTwitterActive.png|30px|link=https://x.com/KineticGamesDev]]</div>
+<div class="button123" style="float:left; margin-left:5px">[[File:MediaBoxTwitch.png|30px|link=https://www.twitch.tv/kineticgamesdev]]</div><div class="button123light" style="float:left; margin-left:5px">[[File:MediaBoxTwitchActive.png|30px|link=https://www.twitch.tv/kineticgamesdev]]</div>
+<div class="button123" style="float:left; margin-left:5px">[[File:MediaBoxYouTube.png|30px|link=https://www.youtube.com/@officialkineticgames]]</div><div class="button123light" style="float:left; margin-left:5px">[[File:MediaBoxYouTubeActive.png|30px|link=https://www.youtube.com/@officialkineticgames]]</div>
+}}'''Kinetic Games''' is a British indie game studio focusing on virtual reality. They are the developers of the 4-player co-op horror game ''[[Phasmophobia]]''.
+
+==Members==
+Kinetic Games currently has 53 members:
+<div style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+*Daniel Knight (Dknighter) - CEO & Game Director
+
+*Pete Johnson - Development Director
+*Ryan Wolfe (Wolfe) - Senior Producer
+
+*Benjamin Lavender (Lavender) - Tech Director
+*Max Hayman (Max) - Lead Programmer
+*Adam Thornett (Adam) - Senior Programmer
+*Benedykt Cieśliński (Shady) - Programmer
+*Mark Turner (Turra) - Programmer
+*Martin Dean (ScraamblEg) - Programmer
+*Max Oates (Max) - Programmer
+*Paulina Melon (Paulina) - Programmer
+*Stephen Arnold - Multiplayer Programmer
+
+*Corey J. Dixon (cjdxn) - Art Director
+*Jack Skinner (Skinner) - Art Lead
+*Ben Lawson (Zec) - Visual Developer
+*Owen Clarke - Junior 2D Artist
+*Harry Masmanidis - Senior Artist
+*Ian Smith - Senior Environment Artist
+*Louise Oliver (Louise) - Environment Artist
+*Louis Baker (Liuos) - Environment Artist
+*Nabin Phauja - Environment Artist
+*Veronique Lacloche - Environment Artist
+*Alona Stupak - Character Artist
+*Ethan Lewis (Ethan) - Character Artist
+*Tadas Sadauskas - Character Artist
+
+*Oli Grant (oli) - Senior Audio Lead
+*Christina Stanley-Webb (Christina) - Sound Designer
+*Chris Kozlowski - Sound Designer
+*Harm-Jan Wiechers - Sound Designer
+
+*Ana Dukakis - Senior Narrative Designer
+*Charlie Hutchinson - Senior Level Designer
+
+*Corbin Jacobs (AceXV) - Lead QA
+*Lewis Barlow-Hyde - Senior QA
+*Peter McDonald-Ryder (Kestrl) - Senior QA
+*Adam Harfield - QA
+*Matthew Ruane (Spookhound) - QA
+*Aaron McGee - Junior QA
+*Alfie Manning - Junior QA
+*Niall Selby - Junior QA
+
+*Asim Tanvir (AT) - Director of Marketing & Partnerships
+*Tom Dent (Tom) - Lead Social & Community Manager
+*Chris Rose - Publishing Manager
+*Liam Evans - Marketing Artist
+*Imogen Beckhelling (Immy) - Lead Marketing Manager
+
+*Rebecca Knight - Support Lead
+*Mark Smyth - Player Support Specialist
+*Begla - Lead Email Support
+
+*Eren Mustafa - Head of Finance and Operations
+*Christine Daoud - Junior Finance Assistant
+
+*Lilian Charlery - HR Operations Manager
+
+*Jason Riley - Legal Counsel
+
+*Tom Pollitt - Operations Associate
+*Ben Blackmore - IT Manager
+</div>
+
+==History==
+===2018===
+Daniel Knight (Dknighter) is believed to have begun work on ''Spectrophobia'' from as early as 2018, with the earliest changelog available for the game in early-alpha dating back to December 2019. On 3 March 2020, the game was renamed ''Phasmophobia'', and the company was renamed to Kinetic Games. It is unknown what the company was named prior.
+
+=== 2021===
+Before mid-2021, a person known as Botsero on the official Phasmophobia Discord was the main tester and idea curator for the game, though he was technically not considered part of Kinetic Games. Botsero has since retired.
+
+On 18 June 2021, Knight announced the addition of two new members to the company, Corey J. Dixon (cjdxn) as the Art Director and Benjamin Lavender (Lavender) as a Senior Developer. The latter then became Lead Programmer then Tech Director.
+
+===2022 ===
+Kinetic Games announced the addition of Jack Skinner (Skinner) as an Environment Artist on 16 May 2022.
+
+===2023===
+Ben Lawson (Zec) was announced as a new member in September 2023, having joined possibly slightly earlier, originally with the 2D artist role.<ref>[https://www.reddit.com/r/PhasmophobiaGame/comments/16ccfvp/shop_v31_feedback_time_again/ ''"...with the help of our new 2D artist! I'd like to give a huge welcome to Zec..."'' cjdxn, ''Phasmophobia'' Lead Artist. 7 September 2023 (on Reddit).]</ref>
+
+===2024===
+Team expansions: 
+*5 March: Begla as an Email Support
+*12 March: Heather Lancaster (Shuee) as Lead Quality Assurance
+*2 April: Louise Oliver (Louise) as an Environment Artist, and Christina Stanley-Webb (Christina) as a Sound Designer
+*3 June: Louis Baker (Liuos) as an Environment Artist
+*5 August: Asim Tanvir (AT) as a Community Manager, later became Lead Marketing Manager on 14 October 
+*3 September: Ryan Wolfe (Wolfe) as a Game Producer
+*1 October: Corbin Jacobs (AceXV) as Quality Assurance
+*14 October: Tom Dent (Tom) as a Community Manager
+*2 December: Anthony Marmont (Fydar) as a Senior Developer
+*16 December: Peter McDonald-Ryder (Kestrl) as Quality Assurance
+
+===2025===
+Team expansions:
+*January: Adam Thornett (Adam) as Senior Programmer and Eren Mustafa as Head of Finance
+*February: Ethan Lewis (Ethan) as Character Artist
+*March: Martin Dean (ScraamblEg) as Programmer, Mark Turner (Turra) as Programmer, and Benedykt Cieśliński (Shady) as Programmer
+*April: Max Hayman (Max) as Senior Programmer and Max Oates (Max) as Programmer
+*July: Matthew Ruane (Spookhound) as Quality Assurance
+*???: Lilian Charlery as HR Operations Manager, Paulina Melon (Paulina) as Programmer, Harry Masmanidis as Senior Artist, Oli Grant (oli) as Senior Audio Lead, Lewis Barlow-Hyde as Quality Assurance, and Tom Pollitt as Operations Associate
+
+Fydar left the team in May.
+
+In August, Asim Tanvir (AT) became Director of Marketing and Partnerships.<ref>https://www.linkedin.com/posts/asimtanvir_delighted-to-say-im-now-director-of-marketing-activity-7361786860056051713-gbCo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAL_s9oB009ICNPFWzyu1OmIgV4b4Mlhq8I</ref>
+
+===2026===
+Shuee left the team on 2 January 2026. Her Lead QA role was transferred to AceXV.
+
+Team expansions:
+*Ana Dukakis as Senior Narrative Designer
+*Liam Evans as Marketing Artist
+*Mark Smyth as Player Support Specialist
+*Imogen Beckhelling (Immy) as Lead Marketing Manager
+*Pete Johnson as Development Director
+*Veronique Lacloche as Environment Artist
+*Tadas Sadauskas as Character Artist
+*Charlie Hutchinson as Senior Level Designer
+*Adam Harfield as QA
+*Aaron McGee as Junior QA
+*Alfie Manning as Junior QA
+*Niall Selby as Junior QA
+*Chris Rose as Publishing Manager
+*Christine Daoud as Junior Finance Assistant
+*Owen Clarke as Junior 2D Artist
+*Nabin Phauja as Environment Artist
+*Alona Stupak as Character Artist
+*Stephen Arnold as Multiplayer Programmer
+*Ian Smith as Senior Environment Artist
+*Chris Kozlowski as Sound Designer
+*Harm-Jan Wiechers as Sound Designer
+*Jason Riley as Legal Counsel
+*Ben Blackmore as IT Manager
+
+==References==
+{{Reflist}}
+[[Category:Phasmophobia]]
+[[fr:Kinetic Games]]
+[[ru:Kinetic Games]]

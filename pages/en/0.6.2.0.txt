@@ -1,0 +1,97 @@
+# 0.6.2.0
+# revid 23958  2026-06-28T21:41:14Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 dd8ee5930775fde65ed3a2a1f02ea824485aad262ae2cb07fc6c60410c92d7d8  bytes 4017
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | image1=Truck Overhaul screenshot.png
+  | official_name=Truck Overhaul
+  | release_date=10 June 2022
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.1.7]]
+  | next_major_version=[[0.7.0]]
+  | next_minor_version=[[0.6.2.1]]
+}}'''0.6.2.0'''<ref>[https://discord.com/channels/435431947963990026/861599315386826793/966333574229925888 Development Preview: Truck Redesign Pt. 1 (Discord)]</ref>, also known as the '''Truck Overhaul''' update, was released on 10 June 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3339995286952592740 ''Truck Overhaul | Update v0.6.2.0'' (on Steam)]</ref> The update includes a redesign of the truck's interior, three new ghosts, changes to existing ghosts, a new voice recognition system, and other quality-of-life changes.
+
+== Additions ==
+=== Ghosts ===
+;[[Moroi]]
+*Evidence: Spirit Box, Ghost Writing and Freezing Temperatures<ref>[https://store.steampowered.com/news/app/739630/view/3174485479387049743 Development Preview #1 | 11/05/22 (Steam)]</ref>
+
+;[[Deogen]]
+*Evidence: Spirit Box, Ghost Writing and D.O.T.S Projector<ref>[https://store.steampowered.com/news/app/739630/view/3308469454272601978 Development Preview #3 | 27/05/22 (Steam)]</ref>
+
+;[[Thaye]]
+*Evidence: Ghost Orb, Ghost Writing and D.O.T.S Projector
+
+;General
+*Actual abilities of new ghosts will be revealed about 2 weeks after release
+
+=== Maps ===
+;[[Maple Lodge Campsite]]
+* Campfire will now raise temperature of the area around it
+
+== Changes ==
+=== Gameplay ===
+;[[Truck]]
+* New interior and exterior design
+* Placing objects back onto wall to be added in Custom Difficulty update
+* New footstep sounds on the floor and ramp
+* [[Site Map]] now uses up and down arrows for changing floor, instead of a single button
+
+;[[Equipment]]
+* Four [[lighter]]s can now be added per contract, up from 2
+* Three [[Salt|salt shakers]] can now be added per contract, up from 2
+
+=== Ghosts ===
+;[[Jinn]]
+* Will now leave EMF at [[fuse box]] instead of at itself when it performs its ability
+
+;[[Mare]]
+* Slightly increased chance of used ability
+
+;[[Oni]]
+* Will no longer produce "ghost mist"
+
+=== Hunt ===
+* Increased number of minimum hiding spots in multiplayer games
+** 3 players: 1 additional hiding spot
+** 4 players: 2 additional hiding spots
+
+=== General ===
+;New voice recognition system
+* No longer requires Windows Speech Recognition
+* Voice recognition microphone can now be set in-game
+* Input volume visible in audio settings
+* Additional microphone input options added: Voice Detector Sensitivity and Noise Suppression
+** Currently only accessible through the journal
+* Removed voice recognition test as it will only work when in a server
+
+;Other
+* Removed voice recognition splash screen
+* Cursor will no longer lock on VR
+* Rebaked lighting across all maps to help reduce light leaks and artefacts
+* Replaced the Russian, Ukrainian, Turkish, Greek, and Japanese fonts to be more readable
+
+== Bug fixes ==
+* Sanity Pills can no longer be duplicated for extra uses
+* Sanity Pills will now give the correct insurance amount
+* You can now use the main menu boom-box in VR
+* The delay when taking a photo has been removed
+* Yurei can no longer drain your sanity when you are outside the location
+* Yurei will no longer stop interacting if they use their ability in the Willow garage
+* You can now interact with all interactable objects in VR
+* The photo camera sound will now muffle correctly between floors
+* You can no longer light Lighters with lit Candles
+* Candles can now be lit with other lit Candles
+* Candle and Lighter flames will now cast the correct shadows
+* The shoulder flashlight will no longer break when closing and opening the truck door
+* Fixed missing Korean and Traditional Chinese text
+* The controls text in the training will no longer overlap the keybind text
+* Potential fix for the VR runtime launching when playing without VR
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.6.2.0]]
+[[ru:0.6.2.0]]

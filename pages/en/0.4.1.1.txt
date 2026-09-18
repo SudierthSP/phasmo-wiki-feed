@@ -1,0 +1,32 @@
+# 0.4.1.1
+# revid 23938  2026-06-28T21:39:48Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 279adfce636989b173c7fa1170e55af99ca8ad669767cc490033bec2d5d2bdf0  bytes 1405
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=4 November 2021
+ | previous_major_version=[[0.4.0]]
+ | previous_minor_version=[[0.4.1.0]]
+ | next_minor_version=[[0.4.1.2]]
+ | next_major_version=[[0.5.0]]
+}}'''0.4.1.1''' is a minor update to the game released on 4 November 2021.<ref>https://store.steampowered.com/news/app/739630/view/3060753084266419645</ref> The update includes bug fixes and a change to voice recognition phrases.
+
+== Changes ==
+=== General ===
+*Voice recognition phrases will now default to English if they have not been translated
+
+== Bug Fixes ==
+*Fixed a bug where some Ouija Board sanity questions were taking away too much sanity
+*Fixed a bug where the Ouija Board sanity questions would give a different answer for each player in multiplayer
+*Fixed a bug where the ghost would not kill you if it saw you while checking your last location
+*Fixed a bug where the snow weather effects were not working correctly
+*Potential fix for the escape the ghost mission sometimes not completing
+*Fixed a bug where player volumes were not always setting to the correct value after loading into a game
+*Fixed a bug where you would get fingerprints photos on Campsite when there were no fingerprints
+*Fixed a bug where the ghost could sometimes think non hosts were inside closets and kill them from far away
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.4.1.1]]
+[[ru:0.4.1.1]]

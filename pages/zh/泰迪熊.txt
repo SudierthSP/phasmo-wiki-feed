@@ -1,0 +1,35 @@
+# 泰迪熊
+# revid 2855  2023-03-18T04:46:27Z  by Skaijie
+# sha256 f5f0e7f59b930cad11cb0d478659ecc85e4c9a47d61cd4157e397f4053e82558  bytes 1031
+# 源: https://phasmophobia.fandom.com/zh/api.php[[File:Teddy_maple_yellowtent (1).png|thumb|right|upright=1.5|营地黄色帐篷里的泰迪熊。]]
+'''泰迪熊'''是一件鬼魂会与之互动的玩具。
+== 机制==
+[[File:Teddy Bear with head turned around Bleasdale Farmhouse.png|thumb|right|upright=1.5|头被鬼拧了180°的泰迪熊]]
+鬼与泰迪熊互动的方式：咯咯笑、投掷、传送泰迪熊或拧头。
+
+== 位置 ==
+[[File:Teddy Bears 4.png|thumb|right|upright=1.5|[[格拉夫顿农舍]]杂物间的所有4只泰迪熊]]
+这些[[地图]]会有泰迪熊：
+
+* [[布莱斯代尔农舍]]
+** 一楼厕所
+** 二楼走廊
+** 二楼主卧室
+* [[埃奇菲尔德街房屋]] - 二楼女孩卧室
+* [[格拉夫顿农舍]]
+** 一楼主卧室
+** 一楼双床卧室
+**楼上浴室
+** 婴儿房
+* [[里奇维尤路房屋]] - 二楼女孩卧室
+* [[坦格活德街房屋]] - 一楼婴儿房
+* [[柳树街房屋]] - 一楼男孩卧室
+* [[枫林营地]] - 黄色帐篷
+* [[林风营地]] - 黄色帐篷
+
+== 参阅 ==
+
+* [[地图]]
+* [[巫毒娃娃]]
+
+[[Category:物品]]

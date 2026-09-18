@@ -1,0 +1,144 @@
+# 0.8.1.0
+# revid 23984  2026-06-28T21:43:24Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 0b8ef0b676feda6a7f4cdb8f527fb2a2c4bef970c0e1682b538f7754684870ea  bytes 7328
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=27 February 2023
+ | previous_major_version=[[0.8.0]]
+ | previous_minor_version=[[0.8.0.8]]
+ | next_minor_version=[[0.8.1.1]]
+ | next_major_version=[[0.9.0]]
+}}'''0.8.1.0''' is a minor content update released on 27 February 2023.<ref>[https://store.steampowered.com/news/app/739630/view/3681167057404815460 ''Tempest | Update v0.8.1.0'', 27 February 2023 (on Steam).]</ref> The update includes new difficulties and a further rework to custom difficulties, a new "Challenge Mode", a new [[Monkey Paw]] [[cursed possession]], and an improved equipment store interface.
+
+== Additions ==
+=== [[Difficulty]] ===
+* New "Insanity" difficulty (differences from Nightmare listed):
+** Ghost will hide two types of evidence
+** No [[cursed possession]]
+** [[Ghost room]] changes more often
+** Long [[hunt]] duration and kill increase duration
+** Sanity pills restore much less sanity
+** 75% starting sanity
+** 6x multiplier
+* Maximum reward multiplier possible is now ~15x
+** Reduced the reward multiplier addition for several options
+** Adjusted Apocalypse Challenge multiplier requirements:
+*** Bronze: 6x+ 
+*** Silver: 10x+ 
+*** Gold: 15x
+* Added rules to reduce rewards when certain combinations of options are turned on
+** Will show a yellow warning icon beside the option
+* 'Evidence given' option set to 2 or 3 will now soft cap the multiplier
+* Removed 6s 'Grace Period' option
+* Removed 'Sprint Duration' and 'Sprint Recharge' options, now defaults to 3s sprint/5s cooldown
+* Changed 'Sprint' options to On/Off/Infinite
+* New "rotational difficulty": Challenge Mode
+** 26 difficulty modes, each available twice a year
+** Completing the challenge 3 times on a specified map provides rewards
+** Free equipment; no equipment loss
+** Playable in solo or multiplayer
+
+=== Equipment ===
+;[[Monkey Paw]]
+* Grants the player wishes
+** Wishes can be found in [[Sunny Meadows]]
+*** Wishes do not have to be found for the player to use them
+** Exact mechanics will be revealed 2 weeks after release
+
+;[[Crucifix]]
+* New visuals, audials, and textures
+
+;[[Tarot Cards]]
+* “The Tower” card will now additionally double all ghost activity for 20s
+
+=== Other ===
+* New riddle event consisting of runes in lobby
+* Improved UV visuals
+* Improved weather particle lighting
+* New visual and audial weather effects on all windows when raining
+* Several foliage objects will now be affected by windy weather outside
+* You will now receive an in-game message when a new game update is available to download
+* [[Fuse Box]] sparks now bounce off objects instead of clipping through them
+
+== Changes ==
+=== Equipment ===
+;[[Crucifix]]
+* Increased hunt cooldown from 5 seconds to 25 seconds (20 for [[Demon]])
+
+;[[Haunted Mirror]]
+* Favourite room will no longer be visible if used at 0% sanity
+
+;[[Summoning Circle]]
+* Lighting a candle with no sanity will now extinguish it instantly
+** Lighting the 5th candle with no sanity will cause an instant hunt
+
+=== Gameplay ===
+* Saying "goodbye" on the Ouija Board no longer counts toward challenges
+* Renamed the High School bathrooms to make it clearer where they are
+* The night vision camera effect will now adjust brightness when entering and exiting foggy areas
+
+=== UI ===
+;[[Shop|Equipment Store]]
+* Shop and storage reformatted to act similar to an online shopping cart
+** Items will be added with + icons, then player chooses to Buy, Sell, Add or Remove
+** Clear list with trash icon
+* New icon to show number of items added to lobby
+* New auto-add button for loadouts
+** Will auto-add whenever player has enough equipment, else equipment must be bought first
+* New All items loadout
+* Several icons have been improved
+
+=== Other ===
+* Reduced the range and resolution of several environmental lights slightly
+** Will decrease the chance of shadows becoming overly pixelated when having lots of lights turned on in a location, and decreasing the chance of an object hitting the “maximum lights” limit (e.g. resulting in black floors or DOTS casting no light)
+* [[Ghost Orb]]s can no longer go through walls into a different room
+* Fog quality settings have been changed for better visual clarity across all settings 
+** Low – Downsampling at 2, no shadows 
+** Medium – No downsampling, no shadows 
+** High – No downsampling, receive shadows 
+** Removed blur effect
+* Renamed Daily and Weekly Challenges to Daily and Weekly Tasks to avoid confusion with the new Challenge Mode difficulty
+* Improved and fixed the visuals of light sources on the PC monitors in Prison
+* Improved the visuals of the collectible cabinets in the warehouse lobby
+* Failing to join a room with a password now gives a more descriptive error
+
+== Bug fixes ==
+* Ghosts can no longer interact with windows on the floor below them, in both Farmhouse locations
+* Voice recognition will now work for all players if other players loaded in slowly
+* Removed several safe spots in Prison, Maple Lodge Campsite, and School
+* Several shaders and materials will now render correctly
+* The Voodoo Doll can no longer stop hunts
+* Using the Voodoo Doll, Tarot Cards, Music Box and the Summoning Circle will now count towards the “use Cursed Possessions” task
+* Items will no longer teleport in the SM Courtyard when thrown in specific spots
+* Patched up some holes in the Sunny Meadows Courtyard floor
+* Removed an invisible wall upstairs in Edgefield
+* Improved Anisotropic textures for radiators, rugs, outside ground, SM flooring
+* Ghosts can now kill you on the blue beds in house maps
+* Ghosts can now detect active electronic equipment if they were grabbed when active
+* Voice recognition will no longer work if you have the ‘text’ voice recognition option enabled
+* The Apocalypse stickers will now show in Singleplayer instead of Multiplayer
+* A book in the Sunny Meadows Courtyard is no longer only a shadow
+* Removed several shadow rendering issues in Sunny Meadows and Tanglewood
+* Thaye will now have the correct interaction rate before aging
+* Window knocks now count as an interaction for stats
+* Tasks featuring “Asylum” will now display “Sunny Meadows”
+* You can no longer sprint or move while in the death room
+* Setting a preset for a custom difficulty and changing a cursed possession, will no longer apply that change to the actual preset difficulty, instead of just the Custom game you are editing
+* Standing in DOTS light will no longer stop sanity drain
+* You can now see your hands on your monitor when in VR and smooth camera is enabled
+* Ghost orbs can no longer be seen with a photo camera
+* The ball in the upstairs Ridgeview closet will no longer glitch when the hiding spot is blocked
+* Ghost orbs in the outside "rooms" in Camp Woodwind will no longer be very high above the ground
+* Video cameras will now receive the ghost glitch effects
+* The “Sky Light” will now turn on and off accurately with your settings
+* Lighter flame is now being considered for the Onryo hunt ability when blown out
+* An Onryo will now have a higher chance to blow out a flame, the more players that are dead, instead of a lower chance
+* Hunts will now end if all players are outside
+* The haunted mirror will now drain a minimum of 20 sanity per use instead of 27
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.8.1.0]]
+[[ru:0.8.1.0]]

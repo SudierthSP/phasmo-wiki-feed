@@ -1,0 +1,265 @@
+# Ghost Event
+# revid 24629  2026-09-11T16:27:49Z  by Darkhooper
+# 备注: Ghost events can now happen in High School's Lobby. The devs silently changed it without writing down in the patch notes. Video proof: https://www.twitch.tv/leona/clip/HorribleFaithfulCodM4xHeh-eL9jnA57ca_Eck1c
+# sha256 b3f46cb9627cb12adb8f63e519bf2c1b98b676d9ee67ad024aaea7a6a6092774  bytes 11866
+# 源: https://phasmophobia.fandom.com/api.phpA '''ghost event''' is a manifestation of the [[ghost]] in the mortal world other than a [[hunt]] and which does not directly interact with the environment (unlike an [[interaction]]). Ghost events vary from full on physical apparitions to mere balls of smoke and usually produce sound (hissing, moaning, chanting etc.) perceivable without the use of specialized [[equipment]].
+
+==Mechanics==
+===Triggering ghost events===
+When the ghost attempts to perform a ghost event, it will check the presence of players within 15 metres in the investigation area and on the same floor. If successful, the closest player within the range will be chosen as the ghost event's target. If the ghost chooses to manifest, it will be teleported to near the player first, at at least 2 metres away from them. Ghosts do not teleport for mist form events. An [[EMF]] 4 reading will be generated at the point where the ghost is at the start of the event.
+
+Players can trigger ghost events by drawing ''The Devil'' card from a deck of [[Tarot Cards]]. Some other [[cursed possession]]s can trigger specialised ghost events. Otherwise, ghost events are random and happen more frequently the higher the ghost [[activity]]. Ghost event chances are also higher if the [[weather]] is Blood Moon, and doubled if ''The Tower'' tarot card has been drawn in the last 20 seconds or if the [[Monkey Paw]]'s 'activity wish' has been used in the last 2 minutes.
+
+===Blacklisted rooms===
+Ghosts cannot perform ghost events towards a player if the latter is standing in the following rooms:
+{| class="fandom-table"
+![[Brownstone High School]]<br>[[Brownstone High School#Brownstone High School - Restricted|Brownstone High School Restricted]]
+![[Sunny Meadows Mental Institution|Sunny Meadows]]<br>[[Sunny Meadows Mental Institution#Sunny Meadows Mental Institution - Restricted|Sunny Meadows Restricted]]
+|-
+|
+*First Floor Main Corridor
+*First Floor Left Corridor
+*First Floor Right Corridor
+*Second Floor Main Corridor
+*Second Floor Left Corridor
+*Second Floor Right Corridor
+|
+*Basement West Corridor
+*Restricted Area
+*Courtyard Corridor
+*Female Wing
+*Male Wing
+|}
+<br>Ghosts and the [[#Mist Form|mist form]] can still follow a player into these rooms from an adjacent room. Events caused by [[Cursed Possession|cursed possessions]] can also bypass this restriction.
+
+The "appear" ghost event is still possible in these rooms though it is unknown whether this is intended.
+
+===Manifestation===
+Among the different types of events, some will make the ghost manifest itself. When this happens, the ghost will use either its full form, a shadow form which is only visible under light, or a translucent form. The ghost will also select a random hunt vocalisation except for singing events.
+
+Nearby electronics will malfunction and lights will flicker, giving the impression of an ongoing hunt.
+
+===Types of events===
+====Standing====
+The ghost manifests itself in one spot and stays still for 2 to 5 seconds. One of three things will happen:
+*No additional features other than the lights in the room turning off.
+*All lights in the room will be glowing red for the duration of the event before turning off.
+*All lights in the room will flicker (if turned on), can no longer be toggled, then shatter at the end of the event.
+
+====Singing====
+[[File:Male_singing_event.mp3|right|300px|thumb|Vocalisation during singing events for male ghosts.]]
+[[File:Female_singing_event.mp3|right|300px|thumb|Vocalisation during singing events for female ghosts.]]
+The ghost manifests itself and sings in one spot. Male ghosts will hum an unknown, low-tone tune<!-- Note to editors: this has been confirmed by Heather (Lead QA at Kinetic Games) to neither be "One, Two, Buckle My Shoe" nor "One, Two, Freddy's Coming For You" (source: https://imgur.com/a/35MUDLR)-->, while female ghosts will sing ''[[wikipedia:Ring a Ring o' Roses|Ring a Ring o' Roses]]''.
+*For the Krampus model during the [[Special events#Holiday 2024|Winter's Jest event]], this was another ~30-second tune.<br>[[File:Krampus_singing.ogg]]
+*For the forest spirit model during Easter events, this was the female vocalisation played backwards.<br>[[File:Forest_spirit_singing.ogg]]
+*For the snowman model during the [[Special events#Holiday 2023|Holiday 2023 event]], this was a variation of Jingle Bells.<br>[[File:Snowman_singing.ogg]]
+
+All doors in the room where the event occurs will close (including exit doors, but without locking them), and the lights in that room will also turn off.
+
+====Chasing====
+The ghost manifests itself and chases the event's target player at the standard ghost speed of 1.7 m/s, regardless of ghost type or ghost speed settings. If after 2 seconds the ghost gets within 3 metres of the player (or within 1 metre if the player is not looking at the ghost), it will disappear and hiss sharply. Otherwise, it will disappear without any sound after 5 to 10 seconds. After the ghost disappears, it will continue walking while in '''idle state''' to the location the player was when it disappeared.
+
+All doors in the room where the event started will close (including exit doors, but without locking them), and the lights in that room will also turn off.
+
+====Appear====
+A variant of the chasing event with a maximum duration of 3 seconds where the ghost does not produce vocalisations and where doors will not close. The target player for this event will be a random player among the ones in the same room as the ghost, which means the event fails to start if there are no players in the same room as the ghost. This event also cannot start if the room has no main lights, and cannot be triggered by ''The Devil'' [[Tarot Cards|tarot card]].
+
+This event will end prematurely if a light is turned on in the room the event started in or if all players leave the room the event started in.<ref>[https://youtu.be/kFDBL70QiUo An appear event test (on YouTube). 30 April 2024.]</ref>
+
+This event is bugged since [[0.10.0]]; instead of ending prematurely if all players leave the room, the event will end if a player is in the same room as the ghost, making the ghost visible for a single frame unless the player manages to leave the room before the ghost performs the check.
+
+====Mist Form====
+All lights in the target player's room will turn off and a small white cloud will appear and begin floating toward the player. If after 2 seconds the cloud reaches the player, it will disappear and cause a sharp hissing sound, in which the pitch and duration is always the same. If the player keeps their distance from the cloud, it will eventually vanish without hissing (or draining any sanity) after 5 to 10 seconds.
+
+Note that there are other "mist"-like things or graphics effects that can all be confused with each other, such as freezing breath, incense smoke, or lighting bloom.
+
+====Summoning====
+This event can be triggered by using a [[Summoning Circle]] or the [[Monkey Paw]]'s "I wish to see the ghost" wish. When used, the ghost will be teleported to the circle (or stay at its current location instead when using the Monkey Paw), become visible in its full form and remain trapped there for 5 seconds. Afterwards, it will begin a [[Hunt#Cursed hunt|cursed hunt]] on the spot.
+
+====Music Box====
+This event can only be triggered by using a [[Music Box]]. If the ghost is within 5 metres of an actively playing music box, it will become visible in its full form and begin walking towards the box. If it walks for 5 seconds, reaches the music box, or the music box is dropped, it will begin a cursed hunt.
+
+===Sanity drain===
+If the ghost event target collides with the ghost or the mist form, causing it to disappear and end the ghost event prematurely, 10% of their sanity will be deducted. Some ghosts have differing rates of sanity drain:
+*'''[[Banshee]]:''' 15% sanity instead of 10% if:
+**The ghost event is of the singing type, and
+**The ghost event target is also the hunt target.
+*'''[[Oni]]:''' double sanity drain for all types of events.
+*'''[[Phantom]]:''' Additional 0.5%/s sanity drain if the player is within 10 metres of the ghost while in pseudo line-of-sight (where heartbeats play).
+
+===Ghost event preferences===
+Some ghosts have a preference for certain types of ghost events:
+{| class="fandom-table"
+! colspan="8" |Ghost event preferences
+|-
+! rowspan="2" |Ghost
+! rowspan="2" |Singing
+! colspan="3" |Standing
+! rowspan="2" |Chasing
+! rowspan="2" |Mist Form
+! rowspan="2" |Appear
+|-
+!Standard
+!Light-breaking
+!Red light
+|-
+|Standard
+|20% (1/5)
+|6.67% (1/15)
+|6.67% (1/15)
+|6.67% (1/15)
+|20% (1/5)
+|20% (1/5)
+|20% (1/5)
+|-
+|[[Banshee]]
+|46.67% (7/15)
+|4.44% (2/45) 
+|4.44% (2/45)  
+|4.44% (2/45) 
+|13.33% (2/15) 
+|13.33% (2/15)
+|13.33% (2/15)
+|-
+|[[Kormos]]
+|33.33% (1/3)
+|11.11% (1/9)
+|11.11% (1/9)
+|11.11% (1/9)
+|0%
+|0%
+|33.33% (1/3)
+|-
+|[[Mare]]
+|20% (1/5)
+|4.44% (2/45)
+|11.11% (1/9)
+|4.44% (2/45)
+|20% (1/5)
+|20% (1/5)
+|20% (1/5)
+|-
+|[[Oni]]
+|20% (1/5)
+|6.67% (1/15)
+|6.67% (1/15)
+|6.67% (1/15)
+|40% (2/5)
+|0%
+|20% (1/5)
+|-
+|[[Shade]]
+|0%
+|6.67% (1/15)
+|6.67% (1/15)
+|6.67% (1/15)
+|20% (1/5)
+|60% (3/5)
+|0%
+|-
+| colspan="8" |
+{| class="article-table mw-collapsible-content mw-collapsible mw-collapsed" width="100%"
+|+Ghost event preferences (''The Devil'' tarot card)
+|-
+! rowspan="2" style="text-align:center" |Ghost
+! rowspan="2" style="text-align:center" |Singing
+! colspan="3" style="text-align:center" |Standing
+! rowspan="2" style="text-align:center" |Chasing
+! rowspan="2" style="text-align:center" |Mist Form
+! rowspan="2" style="text-align:center" |Appear
+|-
+! style="text-align:center" |Standard
+! style="text-align:center" |Light-breaking
+! style="text-align:center" |Red light
+|-
+|Standard
+|20% (1/5)
+|6.67% (1/15)
+|6.67% (1/15)
+|6.67% (1/15)
+|20% (1/5)
+|40% (2/5)
+|0%
+|-
+|Banshee
+|20% (1/5)
+|6.67% (1/15) 
+|6.67% (1/15)  
+|6.67% (1/15) 
+|20% (1/5) 
+|40% (2/5)
+|0%
+|-
+|Kormos
+|50% (1/2)
+|16.67% (1/6)
+|16.67% (1/6)
+|16.67% (1/6)
+|0%
+|0%
+|0%
+|-
+|Mare
+|20% (1/5)
+|4.44% (2/45)
+|11.11% (1/9)
+|4.44% (2/45)
+|20% (1/5)
+|40% (2/5)
+|0%
+|-
+|Oni
+|20% (1/5)
+|6.67% (1/15)
+|6.67% (1/15)
+|6.67% (1/15)
+|60% (3/5)
+|0%
+|0%
+|-
+|Shade
+|0%
+|6.67% (1/15)
+|6.67% (1/15)
+|6.67% (1/15)
+|20% (1/5)
+|60% (3/5)
+|0%
+|}
+|}
+<br>When manifesting, the Oni has a 2/3 chance to appear in its full form, while the Shade has a 2/3 chance to appear in its shadow form. For summoning and music box events, the Shade also has a 50% chance to use the shadow form.
+
+If ''The Devil'' tarot card is drawn, the "appear" event's chances are transferred to the mist form event, increasing the latter's chances to 40% (except for the Oni and the Shade). In consequence, the Oni's chasing event's chances get increased to 60% due to its inability to perform mist form events. For the Kormos, it will simply be a 50/50 between the singing and the standing events. The Banshee does not have an increased chance of performing singing events when drawing this card.
+
+===Non-ghost events===
+The following are ''not'' considered ghost events:
+*A [[hunt]] or a [[Hunt#Cursed hunts|cursed hunt]].
+*Any ghost activity occurring during a hunt.
+*[[Light]]s flickering.
+*[[Firelight]]s burning out by themselves.
+*Any [[interaction]].
+*The [[Yurei]]'s ability to shut a door and deduct nearby players' sanity.
+
+==Tips==
+*Although smudging increases the ghost's activity, it does not directly increase the chance of a ghost event, only indirectly via increased activity in general.
+
+==Related difficulty settings==
+{{Main|Difficulty}}
+*'''Event frequency:''' The chance for the ghost to trigger an event
+
+==Objectives==
+{{Main|Objectives}}
+{| class="article-table"
+!Objective
+!Actual requirements
+|-
+|Have a member of your team witness a Ghost Event
+|Have a ghost event occur
+|}
+
+==References==
+{{Reflist}}
+[[Category:Ghost State]]
+[[de:Geisteraktivitäten]]
+[[fr:Événement paranormal]]
+[[ru:Паранормальное явление]]

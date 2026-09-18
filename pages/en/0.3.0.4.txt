@@ -1,0 +1,30 @@
+# 0.3.0.4
+# revid 23931  2026-06-28T21:39:17Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 454469be21c6306013de2b3fb2e9db2701bcfdfb181b6c2e5f2156508c6bd189  bytes 1086
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=7 September 2021
+  | previous_major_version=[[0.3.0]]
+  | previous_minor_version=[[0.3.0.3]]
+  | next_major_version=[[0.4.0]]
+  | next_minor_version=[[0.3.0.5]]
+}}'''0.3.0.4''' is a minor update to the game released on 7 September 2021.<ref>https://store.steampowered.com/news/app/739630/view/2940276351198493964</ref> The update mainly fixes bugs.
+
+== Changes ==
+=== Equipment ===
+*Equipment items can no longer be turned on or off unless they are held in the player's own hand
+
+== Bug fixes ==
+*Fixed a bug where the graphics settings were not applying until the player joined a server
+*Fixed a bug where photos wouldn't always be added in multiplayer
+*Fixed a bug where the night vision wasn't always syncing between players
+*Fixed a bug where the camera night vision would sometimes turn off
+*Fixed a bug where the ghost would be a shadow too often during hunts
+*Fixed a bug where smudge sticks and candles could be accidentally lit by other players
+
+== References ==
+{{reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.3.0.4]]
+[[ru:0.3.0.4]]

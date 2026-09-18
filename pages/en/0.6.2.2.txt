@@ -1,0 +1,25 @@
+# 0.6.2.2
+# revid 23960  2026-06-28T21:41:23Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 a565c4e376f8c3332e105b499609c1cade9611eb4da6d0d4c0f721271707c9fa  bytes 963
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=25 June 2022
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.2.1]]
+  | next_major_version=[[0.7.0]]
+  | next_minor_version=[[0.6.2.3]]
+}}'''0.6.2.2''' is a minor update to the game released on 25 June 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3334367690118116119 Truck Overhaul | Hotfix v0.6.2.2 (on Steam)]</ref> This update removes the increased spawn chance for new ghost types and fixes bugs. The update was pulled and re-released to fix an issue with the game appearing as a trial version.
+
+== Changes ==
+*Removed increased spawn chance for new ghost types ([[Deogen]], [[Moroi]], [[Thaye]])
+
+== Bug fixes ==
+* Fixed an issue where some languages were getting the same responses on the spirit box and Ouija board for all questions asked
+* The Thaye will now answer questions correctly
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.6.2.2]]
+[[ru:0.6.2.2]]

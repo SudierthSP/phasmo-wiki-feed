@@ -1,0 +1,124 @@
+# Frequently used game terms
+# revid 24290  2026-07-24T04:42:01Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 dca428d68bc7fd2a17684f856e7ff890540ddb85862cff17869a690e6965ddd9  bytes 4057
+# 源: https://phasmophobia.fandom.com/api.phpThis page lists some alternative names or slang commonly used by the community for various items or concepts.
+
+== List of commonly used terms ==
+{| class="article-table"
+|+
+!Alternative form
+!Meaning
+|-
+|Active (ghost)
+|To describe a high amount of [[interaction|ghost activity]].
+|-
+|Aggressive (ghost)
+|Usually pointing to the ghost hunting very often or early. Also used less commonly to describe a high amount of [[interaction|ghost activity]].
+|-
+|Airball, smoke ball, mist ball, white mist
+|The [[Ghost_Event#Mist_Form|Mist Form]] ghost event, in which the lights turn off and a small white cloud appears and floats toward a player, followed by a sharp hiss if it gets close enough.
+|-
+|Box, radio
+|[[Spirit Box]]
+|-
+|Chain [[hunt]]ing
+|The ghost hunting in very short intervals due to low [[sanity]], bad luck, the ghost's type, or a combination of these.
+|-
+|Deo
+|A [[Deogen]]
+|-
+|D.O.T.S, Dots
+|[[D.O.T.S Projector (Evidence)|D.O.T.S Evidence]]
+|-
+|Early hunt(er)
+|A ghost that hunted above 50% average sanity.
+|-
+|Fake hunt
+| A [[ghost event]] where the ghost walks towards a player and disappears, displaying deceptively similar behaviour to an actual hunt.
+|-
+|Freezing Temps, Freezing
+|[[Freezing Temperatures]]
+|-
+|[[Ghost room]], (ghost's) favourite room
+|A set room upon which certain ghost behaviour is anchored on.<ref group="note">Ghost room and ghost's current room are sometimes used interchangeably. This wiki uses ghost room solely to refer to the set room and not the ghost's current room.</ref>
+|-
+| GoPro, headcam
+|(Generally Tier I) [[Head Gear]]
+|-
+|Late hunt(er)
+|A ghost which has an average sanity hunting threshold below the typical 50%.
+|-
+|Lisa
+|The [[Ghost Model#Female models|Patient 07]] model, popularised by content creator Insym.
+|-
+|Mary Helen Heather/Mary/MHH
+|The [[Ghost Model#Female models|Patient 07]] model, as nicknamed by content creator Maggstor.
+|-
+|Luigi (board)
+|[[Ouija Board]]
+|-
+|Nukapoc/Megapoc
+|Nukapoc is a challenge of completing perfect games with a 15x [[difficulty]] multiplier, going through all maps back-to-back, with no photo deletion and no deaths. Megapoc is a harder variant using only Tier 1 [[equipment]]. Popularised by Kinetic Games Partner NukaDave.
+|-
+|Orbs/Orbeez
+|[[Ghost Orb]]s
+|-
+|Paramic
+|[[Parabolic Microphone]]
+|-
+|Pentagram
+|[[Summoning Circle]]
+|-
+|Pills
+|[[Sanity Medication]]
+|-
+|(Poltergeist) Explosion
+|A Poltergeist using its multi-throw ability on a pile of objects, making the pile seemingly "explode".
+|-
+|Polty-pile, Polter-pile
+|A pile made by players to trigger the aforementioned poltergeist ability.
+|-
+|Raichu
+|A [[Raiju]] (in analogy with the famous Pokémon)
+|-
+|Rev
+|A [[Revenant]]
+|-
+|Sage
+|[[Incense]], commonly Tier I.
+|-
+|Shy
+|Usually used to describe a ghost with little activity and/or rare hunts.
+|-
+|Twinteraction
+|An interaction produced by [[The Twins]] wherein two interactions usually happen at once or with a very small delay. This is sometimes used to refer to the resulting activity seen on the [[Site Activity Monitor]], but any ghost may show a "twinteraction" activity jump there. 
+|-
+|Van
+|An alternative name for the [[truck]].
+|-
+|Van camping/camper
+|A player who spends most or all of the contract in the truck instead of the investigation area.
+|-
+|Van princess
+|A derogatory term meant to condemn people who spend a lot of time in the van.
+|}
+
+== Terms used on this wiki ==
+These terms may not necessarily have the same definition, or be used widely outside of this wiki.
+{| class="article-table"
+|+
+!Phrase
+!Meaning
+|-
+|Cursed hunt<ref group="note">Not a term unique to the wiki, but defined here for clarity.</ref>
+|A hunt caused directly by a [[cursed possession]] with a 1-second grace period, as opposed to the hunts afterwards.
+|-
+|Investigation area
+|The area of the map that is physically bounded by [[exit door]]s. This is usually referred to in official changelogs as the ''location''.
+|}
+
+==Notes==
+{{Reflist|group="note"}}
+[[ru:Часто используемые игровые термины]]
+[[Category:Community]]

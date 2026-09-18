@@ -1,0 +1,119 @@
+# Event Board
+# revid 24569  2026-08-26T23:14:33Z  by Darkhooper
+# 备注: similarly to Sunny Meadows Survival, the Lighthouse Keeper challenge can be completed on Point Hope Restricted
+# sha256 9d725bf76041b027e54c1bbbfdf31ffaa741e37a6b35edd6d031e6196dd3b9c5  bytes 3954
+# 源: https://phasmophobia.fandom.com/api.php[[ru:Доска событий]]
+[[File:Event board winter.jpg|300px|thumb|right|The Event Board during the Winter's Jest event.]]
+The '''event board''', in the [[lobby]], allows the player to view their progression in various challenges and [[Special events|events]], as well as getting information on how to complete them.
+
+==Challenges==
+{| class="fandom-table"
+!Title
+!Description
+!Requirements
+!Rewards
+|-
+|Become the Lighthouse Keeper
+|Drowned souls haunt this recently evacuated tower. Can you save Point Hope?
+|Identify the [[ghost]] 50 times and survive, on a [[difficulty]] above 0x, on [[Point Hope]] or [[Point Hope#Point Hope - Restricted|Point Hope Restricted]].
+|
+*''Lighthouse Keeper'' badge and [[ID Card|ID card]]
+|-
+|Ranger Challenge
+|The campsites could be evacuated forever, we need your help!
+|Identify the ghost 50 times and survive, on a difficulty above 0x, on [[Maple Lodge Campsite]] or [[Camp Woodwind]].
+|
+*''Ranger'' badge and ID card
+|-
+|Farmhouse Fieldwork
+|Paranormal entities have overwhelmed the farmlands. It's time to get them out...
+|Identify the ghost 50 times and survive, on a difficulty above 0x, on [[Bleasdale Farmhouse]] or [[Grafton Farmhouse]].
+|
+*''Farmhand'' badge and ID card
+|-
+|Sunny Meadows Survival
+|Will you conquer the maze of hallways and abandoned rooms?
+|Identify the ghost 50 times and survive, on a difficulty above 0x, on [[Sunny Meadows Mental Institution|Sunny Meadows]] or [[Sunny Meadows Mental Institution#Sunny Meadows Mental Institution - Restricted|Sunny Meadows Restricted]].
+|
+*''Inmate'' badge and ID card
+|-
+|Nell's Diner Discovery
+|There's more to this place than abandoned meals, will you help identify the new unwanted customers?
+|Identify the ghost 50 times and survive, on a difficulty above 0x, on [[Nell's Diner]].
+|
+*''Nomad'' badge and ID card
+|-
+|Entangled Terror
+|Tanglewood was vacated long ago, but something still lurks within... Can you deal with the new residents?
+|Identify the ghost 50 times and survive, on a difficulty above 0x, on [[6 Tanglewood Drive]].
+|
+*''Suburbanite'' badge and ID card
+|-
+|Artist's Retreat
+|The Artists who once lived here have since retreated. Their canvasses paint the scene of a house left haunted. Can you investigate deeper?
+|Identify the ghost 50 times and survive, on a difficulty above 0x, on [[13 Willow Street]].
+|
+*''Sun Seeker'' badge and ID card
+|-
+|Apocalypse Challenge I
+|The Apocalypse has begun, show how skilled you really are!
+|Complete the [[Apocalypse Challenge]] with a [[difficulty]] multiplier of 6x or higher.
+|
+*Bronze Apocalypse trophy
+*''Apocalypse Adept'' badge and ID card
+*''Bronze Hunter'' achievement
+|-
+|Apocalypse Challenge II
+|The Apocalypse continues, can you master it?
+|Complete the Apocalypse Challenge with a difficulty multiplier of 10x or higher.
+|
+*Silver Apocalypse trophy
+*''Apocalypse Master'' badge and ID card
+*''Silver Hunter'' achievement
+|-
+|Apocalypse Challenge III
+|The hardest challenge we can offer. Good luck, you'll need it.
+|Complete the Apocalypse Challenge with a difficulty multiplier of 15x.
+|
+*Gold Apocalypse trophy
+*''Apocalypse Legend'' badge and ID card
+*''Gold Hunter'' achievement
+|-
+|Achievement Hunter
+|Prove your worth, discover every secret and conquer every challenge.
+|Discover and complete all [[Achievements/Trophies]].
+|
+*''Completionist'' badge and ID card
+*''Paranormal Perfectionist'' achievement
+|}
+
+==See also==
+*[[Main menu board]]
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.11.0]]
+|Added the Event Board.
+|-
+![[0.11.1.0]]
+|Added the Achievement Hunter challenge.
+|-
+![[0.14.0]]
+|Added the Farmhouse Fieldwork challenge.
+|-
+![[0.15.0]]
+|Added the Nell's Diner Discovery challenge.
+|-
+![[0.16.0]]
+|Added the Entangled Teror challenge.
+|-
+! rowspan="2" |[[0.18.0]]
+|Event board map leaflets are now spread over multiple pages
+|-
+|Added the Artist's Retreat challenge.
+|}
+
+[[Category:Gameplay]]
+[[fr:Panneau d'événements]]

@@ -1,0 +1,73 @@
+# Death
+# revid 24612  2026-09-05T16:43:23Z  by Darkhooper
+# 备注: added paragraph about what dead players can and cannot see.
+# sha256 be40eb317dd27cbf4feaaa50fde9857631ee9fe3bcb9bc3d81f5117ba0b40683  bytes 7016
+# 源: https://phasmophobia.fandom.com/api.php[[ru:Смерть]]
+[[File:Death atmosphere.png|alt=|thumb|The fog that a dead player sees the world through]]
+In ''Phasmophobia,'' '''death''' results either from being caught by the [[ghost]] during a [[hunt]], obtaining ''The Hanged Man'' [[Tarot Cards|tarot card]], or by chance from using the [[Monkey Paw]]'s revival wish. 
+
+==Mechanics==
+===Player's death===
+[[File:Death Animation.gif|thumb|The standard death animation.]]
+The ghost can kill a [[player]] in two ways:
+*If the player gets within 1.1 metres of the ghost while having an active line-of-sight, it will instantly kill the player.
+*If the player gets within 1.5 metres of the ghost while having an active line-of-sight, it will kill the player after a delay of 1 second (2 seconds for [[Deogen]]).
+
+If the ghost is a [[Kormos]], active line-of-sight is not required for it to kill the player, but its killrange is decreased:
+*If the player gets within 0.5 metres of the Kormos, it will instantly kill the player.
+*If the player gets within 0.6 metres of the Kormos, it will kill the player after a delay of 1 second.
+
+In all these cases, the required distance refers to one of three distances: the distance between the ghost's head (1.5m above floor) and the player's head, the distance between the ghost's feet (0.1m above floor) and the player's head, or the distance between the ghost's center (1m above floor) and the player's feet.
+
+The player can also die through the use of [[Cursed Possession|cursed possession]]s: drawing ''The Hanged Man'' [[Tarot Cards|tarot card]] will kill the player instantly and using the [[Monkey Paw]]'s "I wish to revive my friend" wish has a 50% chance to kill the wisher.
+
+[[File:Death Animation Hanged Man.gif|thumb|The hanging death animation.]]
+When a player dies, they begin to levitate, all their [[equipment]] is dropped onto the ground, and their hands reach their neck before having it snapped and dropping dead. The dead player then becomes an observer (see below).
+*A different animation plays when the player draws ''The Hanged Man'' tarot card, where they get hanged by the right foot instead of having their neck snapped.
+
+===Observer===
+An observer will see the map through a greyish fog and can only communicate with other observers, though they can still hear the living (which may sound incorrectly muffled due to a bug), including the global chat radio. Observers will be able to phase through all forms of doors, even if they are locked. Ghosts will ignore dead players. [[Motion Sensor]]s will be triggered if an observer walks past them. Observers can sprint infinitely, unlike regular players which run out of breath after a few seconds and have to "recharge" (unless the "Sprint duration" [[difficulty]] setting is set to infinite).
+
+Observers cannot pick up or interact with equipment or any other investigation-sensitive items (such as [[Bone Evidence|bones]] or [[cursed possession]]s). However, they can still pick up [[prop]]s found around the map (dishes, notebooks, shoes, etc).
+
+===Reviving a dead player===
+If a living player draws a [[Tarot Cards|Tarot Card]] labeled ''The High Priestess'', one dead player will randomly be chosen to be revived. The dead player will reappear at the location of their [[Dead Body]] (even if they were outside the investigation before being resurrected). Otherwise, the observer will remain as one until the game ends. The [[Monkey Paw]] can also be used to revive an existing dead player, but with a 50% chance of killing the wisher at the same time.
+
+If a player dies and revives in the same hunt, they cannot be killed again for that hunt (i.e. the player cannot die twice in the same hunt).<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1010209022252683406 ''"It only revives one person.  And yes, you can only be killed once during a hunt. If you are revived mid hunt, you cannot be killed again that hunt."'' Shuee, ''Phasmophobia'' Discord Community Helper. 19 August 2022.]</ref>
+
+===End of the round===
+If all players in the round die, the game will end shortly after the last player returns as an observer.
+
+==Post-mortem==
+While dead, players may still help the investigation in the following manner:
+*Players can attempt to use random items to interact with the other living players. They can turn their attention to themselves if they find the [[Bone Evidence]] or if they know any useful information e.g. approximately where the ghost will spawn for its next hunt, or what type of ghost it is.
+**Though dead players can witness most pieces of evidence such as [[EMF Level 5]] or [[Ghost Writing]], or some ghost-specific behaviours such as a [[Phantom]]'s or an [[Oni]]'s flickering, they cannot see a ghost's [[D.O.T.S. Projector (Evidence)|D.O.T.S. state]], an [[Obake]]'s shapeshifting, or a [[Hantu]]'s cold breath.
+**Items held by dead players vary in visibility depending on their current platform. When playing on desktop, items are invisible when held and only reveal themselves when thrown or placed down. If, however, the dead player is in VR, the held item is always visible to their teammates, and manifests as floating in midair. Clever players can use this to more accurately convey ideas, and, in some cases "write" out simple words in air gestures.
+
+===Pranking & griefing===
+Naturally, there is nothing preventing malicious players from also acting in bad faith; they can make deliberate attempts to prank, confuse, or otherwise lightly sabotage investigation post-mortem with their limited abilities. Since throwing items as an observer does not trigger a sound to the living survivors, imitating the ghost throwing items is not possible. However, throwing a ball down the stairs may confuse the remaining players about the ghost's location. As observers are capable of tripping motion sensors, they can potentially confuse living players about the ghost's real location. They may also move and place miscellaneous items such as dolls and teddy bears in key locations like doorways so as to appear to be stalking the remaining investigators. However, as the ghost is incapable of such specific behaviour, experienced players can quickly discern what is a ghost interaction/event and what is the work of another player.
+
+==Post-game rewards==
+{{See also|Money#Insurance}}
+If the player is still dead when the round ends (and not revived by Tarot Cards), the difficulty multiplier will not be applied, and their rewards will be halved instead. They will also lose any equipment that they added to the game, instead receiving a percentage of the total value of the items that they added, depending on the difficulty multiplier.
+{| class="article-table"
+|+Insurance
+!Difficulty!!Percentage of Value
+|-
+|Amateur<br>Difficulty with multiplier ≤ 1x
+|50%
+|-
+|Intermediate<br>Difficulty with multiplier ≤ 2x
+|25%
+|-
+|Professional<br>Nightmare<br>Insanity<br>Difficulty with multiplier > 2x
+|0%
+|}
+
+==See also==
+*[[Dead Body]]
+
+==References==
+{{Reflist}}
+[[Category:Gameplay]]
+[[fr:Décès]]

@@ -1,0 +1,97 @@
+# 0.7.1.2
+# revid 23969  2026-06-28T21:42:05Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 b7a18e51884bc89210da6c96c5a561593515b6d5c1b1d65631394c6e7f1de7b3  bytes 5212
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=14 October 2022
+  | previous_major_version=[[0.7.0]]
+  | previous_minor_version=[[0.7.1.1]]
+  | next_minor_version=[[0.7.1.3]]
+  | next_major_version=[[0.8.0]]
+}}'''0.7.1.2''' is a minor hotfix to the game released on 14 October 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3551676518239198393 Halloween '22! | Hotfix v0.7.1.2 (on Steam)]</ref>
+
+== Additions and changes ==
+=== Maps ===
+;[[Lobby]]
+* You can now interact with the lobby cabinets to get a closer view of its contents 
+* You can now place the bowling pins 
+* You can now remove your votes on the contract board
+* Two extra cabinets have been added in the lobby for future trophies 
+* Added sparkles to the gold apocalypse trophy
+*Moved the shop and cabinets in the lobby have been moved
+** To make access easier for VR players 
+* Improved lobby ball physics 
+* The server browser language filter will now default to "Any" instead of your voice language setting to allow you to see all servers by default
+* The “US” region will now say “NA” to match the region selection
+* Text plaques in the collectable cabinets should now be easier to read
+
+;[[Sunny Meadows Mental Institution]]
+* The sunny meadows boilers now have a burning loop sound
+
+=== General ===
+* Added a VR option to change between toggle and hold grab type for doors
+* The warning before resetting your save file is now much more obvious
+
+== Bug fixes ==
+; General
+* Various bone spawns, ghost orb spawns and AI navigation fixes across all maps
+* You can now ready up on a map that you have not unlocked
+* The microphone volume bar will now work in the lobby when you are in a server
+* Added missing Bleasdale foliage
+* The Bone objective will now always count
+* Pumpkin stickers will now only show your local progress, and not the hosts
+* Loading a custom preset will now update the left and right button properly
+* Insurance will no longer say $0 if you click skip
+* You can now skip the end game animation whilst your ID card is animating
+* Non hosts will now see the bone room in the game stats and when asking Ouija board question
+* Halloween event sounds will now accommodate your volume settings
+* Having no microphone, will no longer break applying your settings
+* A sound will now play correctly when the ghost opens a washing machine door.
+* You can no longer get stuck on the corner of the small blue tent in Maple Lodge Campsite
+* The EMF reader will no longer get stuck in some cases
+* The "most deaths to" stat will now be localized
+* The randomizer will no longer select 0 or 50% sanity drain speed
+* You will no longer be teleported inside the map if you fall out of the map in Edgefield near the truck
+* Newly joined players will no longer get the wrong difficulty
+* You will no longer lose the settings for the last game that you played
+* Voting a new map now unvotes an already voted map
+* Players will no longer stay in lobby when leaving the game
+* Unlocking maps and equipment now happens as you unlock them
+* All candles will now have the lit sound effect
+* Lighting the summoning circle will now drain the correct amount of sanity
+* Summoning circle and pumpkin candles can no longer be turned on with left click
+* Candles will now blow out if they are on the VR Belt and you walk into heavy rain
+* You can no longer see VR players radio when they are dead
+* The VR movement direction option will now work
+* All of the VR options are now visible
+* VR snap turning will now set the correct angle and will now go to 90 degrees
+* VR players can now place cameras on tripods if they are not the host
+* Equipment placed on the VR Belt will no longer face the wrong way for other players
+* VR teleport locomotion can now be used to move around on Sunny Meadows and Camp Woodwind
+* You can use teleport locomotion to move into the Halloween event lobby circle
+* VR Teleport will now work on the lobby staircase
+* VR equipment holding positions will no longer break if they were placed back in the truck
+* You can no longer teleport from the Tanglewood garage to the van
+* The lobby uv torch will now be rotated correctly when held
+* The candle, ghost writing book, video camera and sound sensor will no longer drop to the floor when placed on the VR belt
+
+; Sunny Meadows
+* Increased performance when inside the building especially when in the wings, courtyard or basement
+* Wall crucifixes will now leave scratches on the wall, and interaction photos will now work
+* Hiding spot in the utility room now has collision
+* Fixed some missing room names
+* Wall crucifixes will now give interaction photos
+* Some door fingerprints are no longer floating
+* The cheese slice will now react to physics correctly
+* The bookshelf will now disappear when the hiding spot is blocked, in the female day room
+* Objects will no longer get trapped inside the toilet sinks
+* Ghosts can no longer spawn on top of tables
+* Adjusted the position of the locker blockers in the morgue, so that they don’t clip through the wall or doors
+* You can no longer get stuck or be safe from the ghost behind a small bench in the courtyard
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.7.1.2]]
+[[ru:0.7.1.2]]

@@ -1,0 +1,55 @@
+# 0.9.4.0
+# revid 23997  2026-06-28T21:44:25Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 e4ef5bf6708f8a52abbe61c8dfb0b3a6909739b70f07e8e6888b52da80fc825a  bytes 2935
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=9 January 2024
+ | previous_major_version=[[0.9.0]]
+ | previous_minor_version=[[0.9.3.1]]
+ | next_minor_version=[[0.9.4.1]]
+ | next_major_version=[[0.10.0]]
+}}'''0.9.4.0''' is a minor update released on 9 January 2024.<ref>[https://store.steampowered.com/news/app/739630/view/3883856311529290904 ''Ascension | Minor Update v0.9.4.0''. 9 January 2024 (on Steam).]</ref>
+
+== Additions ==
+* New graphics settings have been added to the Journal (Currently not available for VR and requires a graphics card):
+** Eye Adaption: Simulates your eyes adjusting to light or dark areas over time
+** Screen Space Global Illumination (SSGI): Simulates bounced lighting; making lighting and shadows look less dark. This may affect performance so there are three quality settings.
+* Static lighting has been overhauled in all locations
+* Ambient light has been increased
+* Light from outside sources (moon, street lights) will now shine through windows
+* Larger rooms or rooms with darker materials such as farm houses may look darker, however this is intended
+
+== Changes ==
+* Removed the Holiday Event
+* Reflections will now update quicker and more consistently when lights are toggled on or off
+* The brightness slider has been adjusted to 0%-250% and its maximum value lowered slightly due to the new brighter ambient light
+* The cursor brightness slider has been adjusted to be 0%-100%
+* Moved the wardrobe and lights in the Nursery in Grafton for better lighting
+* Adjusted the range and brightness of the passive player light
+* Adjusted the range and brightness of several location lights to make them more realistic
+* Grafton hiding spots
+** The upstairs hallway armchair and nursery crib are now hiding zones and can be blocked
+** The upstairs armchair has been moved closer to the wall to make it safer
+* Adjusted the player post processing to give slightly more cinematic colours
+* Improved performance when toggling the fuse box
+* Ghost writing books can no longer be thrown by a poltergeist ability
+
+== Fixes ==
+* Metallic door knobs are now shiny again
+* Fixed several safe spots in Willow
+* “Deja Vu” weekly challenge now has the correct items
+* “Glow in the Dark” weekly challenge now has the Fuse Box as the correct state: Broken
+* “Hide and Seek: Extreme” weekly challenge now correctly has 3 evidence
+* Adjusted several reflection probes in Tanglewood to stop glowing objects when a light is turned on in a different room
+* You can now take a photo of the Sunny Meadows summoning circle
+* Motion sensors now correctly show detections on the truck map
+* Fixed safe spots in the Sunny Meadows male room 5 and Maple Campsite Storage Tent 2
+* The ghost can no longer get stuck on the fallen down locker in the School hallway
+* Campsite A and B in Maple Lodge Campsite will now work correctly
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.9.4.0]]
+[[ru:0.9.4.0]]

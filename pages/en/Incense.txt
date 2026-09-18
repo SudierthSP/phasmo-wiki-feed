@@ -1,0 +1,167 @@
+# Incense
+# revid 23285  2026-04-30T20:14:29Z  by 405 M3th0d
+# sha256 8416caeca1de3bf1095e923b2afe4fa7a78f51680896c88aa84067a184ec8bab  bytes 11353
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=Incense090_T1.png
+ | tier ii img=Incense090_T2.png
+ | tier iii img=Incense090_T3.png
+
+ | price=$15
+ | maxamount=4
+ | uses=1
+ | starter=No
+ | tier i level=14
+ | tier ii level=37
+ | tier iii level=80
+
+ | tier i description=A small bundle of black sage, it seems like almost all of the leaves have fallen off, hopefully, it still works.
+ | tier i purpose=You can light Incense with any Igniter to stop a ghost from initiating a hunt for a long duration, additionally, you can use it during a hunt when near a ghost to disorient it for a few seconds.
+ | tier i ability=<span style="color: #008000;">Range (m): 3<br>Duration (s): 5<br>Blinds ghost during hunt (s): 5</span><br><span style="color: #ff0000;">Consumable</span>
+ | tier ii description=A large bundle of white sage, tied neatly with string for a compact and efficient burn when lit. It has a sweet bitter aroma.
+ | tier ii purpose=Much more sage has been used to create this incense bundle, allowing for a longer burn time, keeping you safer for longer during attacks.<br>Additionally, it will slow the movement of the ghost for part its effect duration.
+ | tier ii ability=<span style="color: #008000;">Range (m): 4<br>Duration (s): 6<br>Blinds ghost during hunt (s): 5<br>Slows ghost during hunts (s): 5</span><br><span style="color: #ff0000;">Consumable</span>
+ | tier iii description=A holy incense burner filled with a custom mixture designed specifically to ward off paranormal entities. Swinging this when lit will emit a large quantity of deterring smoke.
+ | tier iii purpose=With a much larger range and longer burn time, you can ward off ghosts much more safely when attacked. When the ghost is initially repelled it will be stunned, halting it’s<!--sic--> movement for a short period.
+ | tier iii ability=<span style="color: #008000;">Range (m): 5<br>Duration (s): 7<br>Blinds ghost during hunt (s): 5<br>Halts ghost during hunts (s): 5</span>
+}}
+'''Incense''' is a purchasable item that can be used to temporarily deter the [[ghost]] from [[hunt]]ing or blind the ghost during a hunt when ignited.
+
+==Usage==
+To light incense, have an [[igniter]] in the inventory, hold the incense, then press the {{Control|Primary Use}} key. Alternatively, incense thrown on the ground can be lit by aiming at it while holding an igniter or [[firelight]], then pressing {{Control|Secondary Use}}. Incense can also be lit when physically colliding with a lit [[Fire Source|fire source]] (including igniters and firelights).
+
+Once lit, the incense will emit smoke for a certain amount of time depending on the tier level:
+*Tier I: 5 seconds
+*Tier II: 6 seconds
+*Tier III: 7 seconds
+While burning, the incense attempts multiple times{{Verify|How many?}} per second to successfully apply its effect(s), but can only apply the effect(s) once. When the incense is used up, the smoke will stop being emitted and the model will finish burning to a stub. There is no explicit indication of whether the incense was used effectively or not. Used incense can still be handheld, but since there's nothing to use, it is normally discarded.
+
+===Effects===
+The incense has a range in which the ghost must be for its effects to be successfully applied. This range depends on the tier level:
+*Tier I: 3 metres
+*Tier II: 4 metres
+*Tier III: 5 metres
+
+====Regular "cleansing"====
+When the ghost is within the incense's range while it is burning, the following will occur:
+*[[Activity|Ghost activity]] will be increased by a random number between 20 and 29, and that number will decrease by 0.5 each second.
+*The ghost will be unable to initiate a hunt on its own for a certain duration:
+**[[Demon]]: 60 seconds
+**[[Spirit]]: 180 seconds
+**All other ghosts: 90 seconds
+*If the ghost is a [[Gallu]], it will switch to its "enraged" state if it was in a "normal" state, or to its "normal" state if it was in a "weakened" state.
+*If the ghost is a [[Yurei]], it will ''also'' return to its favorite room and cannot roam out for 90 seconds. This will not prevent [[ghost event]]s from happening outside the room.
+
+Lighting incense will not prevent cursed hunts nor stop an already ongoing hunt, but doing this ''during'' a hunt will prevent further attempts to initiate regular hunts for the specified duration starting from when the incense effect is applied.
+
+If another incense is used while this effect from a previous incense is ongoing, this effect <u>'''will not'''</u> be re-applied and the timer <u>'''will not'''</u> be reset.
+
+Due to a quirk in how incense works, ghosts which are standing on stairs will '''not''' be affected by the "cleansing" property of incense, though they ''will'' be affected by the "blinding" ability described below.
+
+====Blinding during hunts====
+<div class="mw-collapsible mw-collapsed" style="width: 200px; float: right;">
+'''<span style="color:#ffcd36; font-size:80%">This image has flashing lights.</span>'''
+<div class="mw-collapsible-content">[[File:Smudge tempest.gif|right|200px]]</div>
+</div>
+Incense can be used to "blind" the ghost during a hunt. For this effect to apply, the ghost must be within the incense's range. When the effect is successfully applied, the ghost will:
+*Be forced into its "wandering phase", walking in a random direction
+*Be unable to detect or kill players; one can walk through it without [[death|dying]]
+*Temporarily lose its accumulated speed from line-of-sight
+*The Tier II incense additionally slows the ghost down to 50% of its speed.
+*The Tier III incense additionally stops the ghost from moving entirely.
+
+This effect lasts for 5 seconds for most ghosts, 4 seconds for an enraged [[Gallu]], 6 seconds for a weakened Gallu, and 7 seconds for a [[Moroi]]. After this period, the ghost will return to its regular hunting behaviour, and be able to see and kill players again.
+
+Multiple incenses can be used for the same purpose during the same hunt with no diminishing returns, to blind the ghost for up to 20 seconds (28 for a Moroi) consecutively.
+
+If another incense is used while this effect from a previous incense is ongoing, this effect will be re-applied and the timer will be reset.
+
+==Tips==
+*When lighting incense near a ghost during a hunt, the ghost may coincidentally take the same path as a player, especially in tight hallways. It does not mean that the ghost can still see the player. If possible, light the incense near (but not in) a hiding spot, so that you can reach it before the ghost is no longer blind.
+*If you are not the host, and especially if there is some latency between you and the server, the game may register the ghost killing the player before the incense effect actually applies. To avoid this, try lighting the incense earlier.
+*In some scenarios, it may be beneficial to use a lower-tier incense, for example if the ghost detects a player in a hiding spot and corners them, and an incense is used to protect the player; using a Tier III incense will freeze the ghost in place, possibly in a location where they can still see the player in the hiding spot and force them to switch to another hiding spot, while a Tier I or Tier II incense will cause the ghost to move away and allow the player to stay in said hiding spot. Using a lower-tier incense is also beneficial if the ghost is significantly faster than the player e.g. against a naturally fast ghost such as a young [[Thaye]], or in custom difficulties where the ghost is faster and/or the player is slower; a Tier I incense will allow the ghost to stay relatively fast while blind, potentially moving the ghost much further away and putting a much larger distance between the player and the ghost compared to a Tier II or Tier III incense.
+
+==Gallery==
+<gallery>
+Smudge sticks.png|Pre-[[0.3.0|Exposition]] model being held in the player's hand.
+</gallery>
+
+==Objectives==
+{| class="article-table"
+!Objective
+!Actual requirements
+|-
+|Cleanse the area near the ghost using Incense
+|Light Incense within range of the ghost
+|-
+|Repel the Ghost with Incense while it's chasing someone
+|Smudge a hunting ghost while it has line-of-sight with a player, making it wander
+|}
+
+==Trivia==
+*Before [[0.9.0]], Incense was referred to as "Smudge Sticks". Despite being referred to as "smudging", the smudge sticks are used more akin to "smoke cleansing". Smudging is a spiritual and religious practice found in various Native American cultures, many of which use white sage, a plant native to North America. Smudging is typically used for personal spiritual cleansing, prayer, and ceremonial occasions, the technique varying from tribe to tribe. Smoke cleansing, on the other hand, is used predominantly to ward off negative energy and evil spirits, and is used by wafting the smoke of sage or herbs around an area, sometimes accompanied by prayer, chanting, or incantations. Smoke cleansing is a practice commonly found in modern-day Wicca and witchcraft.
+*The original description for this item was as follows: ''"This has always been one of the main ways to weaken the more common ghosts. To do this you will need to grab some Smudge Sticks and burn it near the Ghost."''
+*The Tier I Incense is a bundle of black sage - which is an ancient practice stemming from Native American people, who use it for purification.
+*The Tier II Incense is a larger bundle of white sage - it is also used in cleansing practices used by Native Americans.
+*The Tier III Incense is a Thurible - a metal incense burner suspended from a chain often used for worship in Christian and Early Judaic religions.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!6 February 2020
+|Increased the effective distance of White Sage.
+|-
+!28 March 2020
+|Renamed White Sage to Smudge Sticks.
+|-
+! rowspan="2" |15 July 2020
+|The ghost no longer has a chance to change rooms after Smudge Sticks are used.
+|-
+|Using Smudge Sticks near the ghost now temporarily increases its activity.
+|-
+!10 September 2020
+|Smudge Sticks now stop active hunts if lit near the ghost.
+|-
+! colspan="2" |Early Access
+|-
+!26 September 2020
+|The Smudge Sticks smoke is now more noticeable.
+|-
+!28 September 2020
+|Smudge Sticks no longer stop active hunts, and instead prevent the ghost from killing players for a short time while making it wander.
+|-
+![[0.29.6]]
+|Smudge Sticks now smoke for 6 seconds instead of 15 seconds.
+|-
+![[0.3.0]]
+|Changed the Smudge Sticks model.
+|-
+!?
+|The smudge effects can now apply while burning instead of at the start or end of burning.
+|-
+![[0.6.2.3]]
+|The player can no longer light other players' smudge sticks.
+|-
+! rowspan="7" |[[0.9.0]]
+|Renamed to Incense.
+|-
+|The Incense now has 3 tiers.
+|-
+|The interval in which the ghost checks if an Incense is active, is now much smaller, making repelling the ghost much more consistent.
+|-
+|Using Incense during another Incense's blinding effect will now reset the blinding timer instead of doing nothing.
+|-
+|Now a "consumable" item; tiers I and II will be consumed when used on contracts.
+|-
+|Incense will now have an extra 50% duration (per Tier) against Moroi.
+|-
+|You can no longer repel the ghost for another player with an unlimited range (e.g. lighting a smudge in the truck).
+|-
+![[0.13.0]]
+|Incense will now temporarily disable a ghost's accumulated speed from line-of-sight.
+|}<br>
+
+{{Equipment nav}}
+[[Category:Equipment]]
+[[fr:Encens]]
+[[ru:Благовоние]]

@@ -1,0 +1,249 @@
+# 0.7.0
+# revid 21282  2025-06-29T20:51:28Z  by Darkhooper
+# 备注: changed link
+# sha256 30587ca084f53b4910b73a9bfa47d9580219c391909b03bbc526106055c7371b  bytes 10647
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | image1=Apocalypse update poster.png
+  | image2=Sunnymeadows corridor basement.jpg
+  | official_name=Apocalypse<ref>[https://www.youtube.com/watch?v=H00Oz_599lc Phasmophobia Apocalypse Update Trailer (on YouTube)]</ref>
+  | release_date=26 September 2022 (Content Creator early access)<br>27 September 2022 (public release)
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.3.1]]
+  | next_minor_version= [[0.7.0.1]]
+  | next_major_version=[[0.8.0]]
+}}'''0.7.0''', also known as the '''Apocalypse''' update, was released on 27 September 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3360267827388792766 ''Apocalypse | Major Update v0.7.0.0'' (on Steam)]</ref><ref group="note">Content Creators on the official Phasmophobia Discord were given early access keys on 26 September 2022.</ref> The update includes options to customise game difficulty, a replacement of the existing [[Asylum]] map, a new small variant of the existing [[Maple Lodge Campsite]] map, an overhaul to the lobby/main menu UI, a new player reporting system, changes to several existing ghosts, and others.
+
+== Additions and Changes ==
+
+=== Maps ===
+;General
+* Redesigned the [[fuse box]] for house and farmhouse maps
+* Increased rewards for playing on larger maps
+* Renamed some maps
+
+;[[Camp Woodwind]]
+*New map, small variant of [[Maple Lodge Campsite]] (the latter will be kept)
+
+;[[Grafton Farmhouse]]
+*Added a house [[candle]]
+
+;[[Maple Lodge Campsite]]
+* Trees next to cabin now block line-of-sight
+* Ghosts can no longer set certain outdoor paths as [[ghost room]]s
+* Rebaked occlusion to improve performance
+* Adjusted campfire particles and bloom
+
+;[[Sunny Meadows Mental Institution]]
+*New map to replace Asylum<ref>[https://discord.com/channels/435431947963990026/765596827537244200/973908282387357737 ''"Asylum will be removed when Sunny Meadows is added"'' cjdxn, ''Phasmophobia'' Lead Artist (on Discord)]</ref>
+*Playable as a "Restricted" variant with four of five sections blocked off
+
+;[[Willow Street House]]
+*Added new props in memory of Lead Artist cjdxn's cat, Willow
+
+=== Gameplay ===
+;General
+* Main menu revamp with additional UI features (such as ID-card based stats system) to be introduced gradually in the upcoming updates
+* New look for the player [[Lobby]], with equipement shop and buyout revamps
+* New collectibles and interactables
+* New ambience sounds
+* Adjusted skyboxes for each weather type
+* Improved heavy rain and snow performance
+* Dead players can now see doors
+* Reduced the volume of the guitar and camping stove
+
+;[[Lobby]] and [[main menu board|main menu]]
+* Replaced the existing lobby with a new lobby
+* Includes new interfaces split into a shop, investigation boards, access to the truck, and a staff room
+* Added player ID cards
+* Added a "Detailed Statistics" panel to the post-game screen
+* Added long-term statistics tracking to the journal for various player and ghost statistics
+* Players will now connect to the last-joined region instead of the region with the best ping
+* Journal can now be used in lobby
+* Steam users can now view and add friends via the new "Recent players" journal tab
+* Added shortcut buttons to jump between Location Selection, Main Menu, and Shop screens
+** Arrow keys can also be used for navigation
+* Added new collectible cabinets to the lobby
+** Each cursed possession will be added the first time it is used
+** Collecting each type of bone will add it to the collection (some need to be added twice)
+** More collectibles to be added in later updates
+* Added the option to create loadouts
+** Additional loadouts will be added in the Progression update
+* Up to 10 photos can now be viewed in lobby, instead of 6
+
+;[[Objectives]] and [[Daily and Weekly Tasks|challenges]]
+* Added weekly challenges
+** More to be added in the Progression update
+* Increased rewards for all daily challenges
+
+;[[Media|Photo Rewards]]
+*Added new rewardable items:
+** D.O.T.S. Ghost
+** Used crucifix (once or twice)
+** Salt pile when stepped in
+** Ghost Writing will now be labelled as Ghost Writing instead of Interaction
+* Collecting the [[Bone Evidence|bone]] will now reward more on larger maps
+* Removed the photo "point" system
+** Each photo will now reward a set amount of money and XP
+* Photos are no longer affected by the difficulty multiplier
+* Improved the photo priority system
+** Scored by distance and how close they are to the middle of the photo
+** Ghost will always take priority in all cases
+** Improved reliability
+
+;[[Truck]]
+* Replaced the whiteboard in the [[truck]] with a progressively updating investigation board
+* Moved the key next to the keypad
+
+;[[Difficulty]]
+* Up to 3 Custom Difficulty presets can be set
+*New Custom option with the following parameter modifiers:
+;;Player:
+**Sanity pill restoration amount
+**Starting sanity
+**Sanity drain speed multiplier
+**Sprinting use allowance
+**Sprint recharge time
+**Sprint duration
+**Flashlights being broken
+**Losing items on death toggle (no rewards)
+**Player speed multiplier
+
+;;Ghosts
+**Number of evidences given
+**Chance of changing favourite room
+**Interaction amount
+**Event frequency
+**Hunt duration
+**Grace period duration
+**Fingerprint chance
+**Fingerprint duration
+**Disable hunts (no rewards)
+**Kills extending hunts
+**Roaming frequency
+**Ghost speed multiplier
+
+;;Contract
+**Setup time
+**Weather
+**Number of doors starting open
+**Amount of hiding places
+**Sanity monitor state
+**Activity monitor state
+**Fuse box map visibility
+**Fuse box starting state
+**Cursed Possessions quantity
+**Cursed Possession choice(s)
+
+=== Ghosts ===
+;General
+* All hunting, [[ghost event]], and [[Music Box]] singing sound volumes now drop to 0% when the player is more than 20 metres away
+* Increased the throw power range from 0.1 - 2.5 to 1 - 3
+* Objects are now thrown higher
+** Results in more consistent throws
+* Increased the chance of item throws during hunts
+** 50% chance every 0.5 seconds for most ghosts
+** 100% chance every 0.5 seconds for [[Poltergeist]]
+* Will now use sprinting sound effect when hunting on dirt floors
+
+;[[Demon]]
+* Any-sanity hunt will now happen more reliably
+
+;[[Jinn]]
+* Ability will now apply if the player is in the same room as the ghost, or within 3 metres
+* The EMF will now be generated at the fuse box when anyone's sanity is drained, instead of just the host
+
+;[[Oni]]
+* Now drains sanity at double the standard rate during ghost events
+* Increased the length range of it flashing visible during hunts
+
+;[[Poltergeist]]
+* Oni throw power transferred to Poltergeist
+** Increased throw power from 0 - 5 (for Oni) to 2 - 6
+
+=== Equipment ===
+;General
+* All equipment can now be placed back on truck wall
+* Reworked the placement highlight system
+** Highlight will now show only when holding down placement key (defaults to F on PC and Trigger on VR)
+** Moving the mouse left/right while holding the placement key will now rotate the highlighted object
+** Release to place item
+** Adjusted placeable areas of various equipments
+
+;[[Candle]]
+* Will now extinguish when placed into inventory
+
+;[[Crucifix]]
+* A successful block of a hunt attempt will now create an EMF 2 reading
+
+;[[Ouija Board]]
+* Sanity drain for "Hide and seek" reduced from 25% to 0%
+
+;[[Sound Sensor]]
+* Will now show room name of the room it is physically in, instead of the room the player was standing in when they placed it
+
+;[[Tripod]]
+* Can now be rotated and placed
+
+=== Player reporting system ===
+* Players can now report other uncivil players through a new reporting system
+* Bans are progressive and increase in duration for multiple offences (some offences may start further in the chain than others): 2 days/7 days/30 days/permanent
+* Misuse of the reporting system may also result in bans
+* Report a player by opening the new "Recent players" tab in the journal and clicking the report icon next to that players name
+* Banned players may still play singleplayer
+* Reduced RAM usage for fonts
+* Adjusted several light bloom values
+
+=== Controls ===
+* Improved consistency for equipment usage
+** Placeable objects will always use the secondary button (defaults to F)
+** Usable objects will always use the primary button (defaults to Right Mouse)
+
+=== General ===
+* Added text and voice recognition support for Arabic
+* VR players will now see a loading screen to help with loading jitters
+* Save files will now create a backup and automatically restore if they corrupt
+* Objects will no longer render behind closed doors
+* Game options can now only be viewed in journal
+* Added screen-spaced reflections to journal options
+* Changed default journal button on a gamepad to "select" instead of D-Pad up
+
+== Bug fixes ==
+* Fixed long-distance roams:
+** High - 30%
+** Medium - 20%
+** Low - 10%
+* Adjusted the chance of ghosts changing its favourite room
+** If a ghost long roams into a new room, do a chance check:
+** Low - 33%
+** Medium - 66%
+** High - 100%
+** Then perform check based on sanity (e.g. 30% sanity = 70% chance)
+** If successful for both chances, change favourite room
+* Goryo will now have a half the chance of other ghosts to long-roam instead of double
+* Myling will now decrease the audible range of its hunt audio, instead of only footsteps
+* If you have less than 16% sanity when lighting the last Summoning Circle, the ghost will now hunt instantly after being summoned
+* When the summoning circle is lit, the ghost's position will now sync faster for non-hosts
+* Fingerprints on camping lamps will now be the correct size
+* You can no longer place objects on the truck ceiling
+* Fixed a rare issue where the voice recognition would not work due to an empty voice models file
+* Picking up a tripod with a camcorder attached by someone else, will no longer break the camcorder
+* You are no longer unkillable when hiding under stairs or similar objects in some locations
+* The hiding spot next to the cabin will no longer get you killed
+* Grafton's upstairs locker can now be blocked
+* Bleasdale's workshop locker can now be blocked
+* Having ALT as your push-to-talk will no longer keep your voice active after alt-tabbing
+* The toilets upstairs in Edgefield now flush
+* Ghosts will no longer affect the living room collider when standing on the basement stairs in Tanglewood
+* You can no longer glitch behind the small tents to access safe spots
+* The Mare will no longer stop attempting to do its light switch ability after you use the light switch several times
+* Doors will no longer spin when closing for a hunt
+
+== References ==
+{{Reflist}}
+
+== Notes ==
+{{Reflist|group="note"}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.7.0]]
+[[ru:0.7.0]]

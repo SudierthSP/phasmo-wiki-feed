@@ -1,0 +1,132 @@
+# Tarot Cards
+# revid 24650  2026-09-13T16:29:53Z  by Darkhooper
+# 备注: dataminers confirmed Hermit is 90 seconds.
+# sha256 b98bbcd64540fbd7bf9183349c5f10e9377af75996940a5f06edd133e04aa3e2  bytes 7032
+# 源: https://phasmophobia.fandom.com/api.php{{Item_Template
+|img=Tarot Cards.png
+|imgcaption=
+|uses=10
+|description=}}{{Quote|speaker=Objective Board|quote=Some cards we found, they do crazy stuff.}}
+'''Tarot cards''' are a [[Cursed Possession|cursed possession]] that can trigger various randomly chosen effects on both the player or the [[ghost]].
+
+==Mechanics==
+[[File:Tarot card draw action.gif|200px|thumb|right|Drawing a ''Death'' card initiates a cursed hunt.]]
+As a cursed possession, tarot cards have a 1 in 7 chance per contract of being chosen as the cursed possession to spawn on a default [[difficulty]] (except Insanity), with one specific spawn location per map. 
+
+Tarot cards can be {{Control|picked up}} with an empty hand and one card can be {{Control|drawn}} at a time. Tarot cards can only be drawn while inside the investigation area.
+
+Each Tarot cards deck contains 10 randomly generated cards. There are 10 possible card types the player can draw, each having a unique effect on either the player or the ghost. After being used, each card will burn up and vanish in a uniquely-colored flame. Each card type has a different, independent chance of being drawn, so some card types can be drawn multiple times or not at all in a single deck.
+
+Once all ten cards have been used, no more will be given to the player for that contract. When the deck is used up, all future hunts will also be extended by 20 seconds, even if no <span style="color: #8400c3;">Death</span> card was drawn prior.<ref group="note">This is very likely a bug.</ref>
+
+===Cards List===
+{| class="sortable fandom-table"
+!Card
+!Title
+!Effect
+!Burn Color
+!Draw Chance
+|-
+|[[File:!TheTower.png|frameless|196x196px]]
+|The Tower
+|Doubles all potential [[Activity|ghost activity]] for 20 seconds.
+|<span style="color: #0080ee;">Blue</span>
+|20%
+|-
+|[[File:!WheelOfFortune.png|frameless|196x196px]]
+|The Wheel of Fortune
+|If the card burns green, the player gains 25% [[sanity]]. If the card burns red, the player loses 25% sanity. Each has an equal chance.
+|<span style="color: #00dd00;">Green</span> (sanity gain)<br><span style="color: #ff4714;">Red</span> (sanity loss)
+|20%
+|-
+|[[File:!TheFool.png|frameless|196x196px]]
+|The Fool
+|Selects another random card to mimic with the same chance for each, before turning into The Fool as it burns. No effect is applied when drawing this card.
+|<span style="color: #ba48e0;">Light Purple</span>
+|17%, 100% during [[hunt]]s
+|-
+|[[File:!TheDevil.png|frameless|196x196px]]
+|The Devil
+|Triggers a [[Ghost Event|ghost event]] towards the nearest player to the ghost.
+|<span style="color: #f25277;">Pink</span>
+|10%
+|-
+|[[File:!Death.png|frameless|196x196px]]
+|Death
+|Triggers a [[Hunt#Cursed hunts|cursed hunt]].
+|<span style="color: #8400c3;">Purple</span>
+|10%
+|-
+|[[File:!TheHermit.png|frameless|196x196px]]
+|The Hermit
+|Forces the ghost to walk to its [[ghost room|favorite room]] and disables the [[roaming]] state for 90 seconds. This does not prevent hunts or ghost events from initiating while the ghost is trapped.
+|<span style="color: #53e1e6;">Cyan</span>
+|10%
+|-
+|[[File:!TheSun.png|frameless|196x196px]]
+|The Sun
+|Sets the player's [[sanity]] to 100%.
+|<span style="color: #ffd700;">Yellow</span>
+|5%
+|-
+|[[File:!TheMoon.png|frameless|196x196px]]
+|The Moon
+|Sets the player's [[sanity]] to 0%.
+|<span class="clr" style="color: #cccccc;">White</span>
+|5%
+|-
+|[[File:!HighPriestess.png|frameless|196x196px]]
+|The High Priestess
+|Revives the first [[Death|deceased]] player in the lobby list (established by the order the players joined the lobby) where they died. If no one is currently dead, it will revive the next player who dies. This card doesn't stack if pulled more than once.
+|<span style="color: #FCE883;">Light Yellow</span>
+|2%
+|-
+|[[File:!HangedMan.png|frameless|196x196px]]
+|The Hanged Man
+|Instantly [[Death|kills the player]]. Unlike the other cards, The Hanged Man does ''not'' burn up afterwards.<br>If the 'Friendly Ghost' custom difficulty option is turned on, it is impossible to draw the real version of this card - it can only appear as a possibility from <span style="color: #ba48e0;">The Fool</span>.
+|N/A
+|1%
+|}
+
+==Tips==
+*The player should not draw a card during a hunt, since all cards drawn during one have a 100% chance to be <span style="color: #ba48e0;">The Fool</span>, essentially wasting the card.
+*Though tarot cards cannot be drawn outside of the investigation area, this can be bypassed by drawing a card and walking outside of an [[Exit Door|exit door]] during the card-pulling animation. Cards will still take effect.
+**While using this method, as long as no players are inside: drawing <span style="color: #f25277;">The Devil</span> will do nothing, and drawing <span style="color: #8400c3;">Death</span> will not trigger a hunt but will still extend the duration of later hunts.
+*Players should take a photo of the cards before using them, as once all of the cards are drawn, the deck will no longer be an item and no photo can be taken.
+*Trying to take a ghost photo after drawing <span style="color: #f25277;">The Devil</span> can sometimes be tricky, since the card's burning animation needs to be completed before the player can drop the deck, so multiplayer coordination is a good solution to this.
+**This is more easily done if the ghost decides to perform a singing ghost event and doesn't spawn too close to the targeted player, as singing ghost events usually last around 10 - 15 seconds.<!--Rough estimate, feel free to change.-->
+
+==Trivia==
+*On Steam, the Tarot Cards designs are also used for the game's Trading Cards, which can be purchased and sold on the Community Market.
+*Tarot Cards are the only cursed possession that is not guaranteed to cause a cursed hunt, as it is possible for the entire deck to not contain a single <span style="color: #8400c3;">Death</span> (roughly 34.9% chance); this can prove to be detrimental if the player wants to cause a hunt to aid in completing objectives and/or identifying the ghost.
+*Though ''extremely'' unlikely (1/10,000,000,000 decks), it is theoretically possible to draw <span style="color: #8400c3;">Death</span> 10 times in a row, making Tarot Cards the cursed possession that can cause the most cursed hunts, up to 10 cursed hunts if the player is extraordinarily (un)lucky.
+
+==Gallery==
+<gallery>
+File:!Cards.png|Card deck back print
+File:Warped Souls - Background.jpg|Warped Souls Background for Steam
+File:Warped Souls - Profile.png|Warped Souls Profile for Steam
+</gallery>
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.5.0]]
+|Added tarot cards.
+|-
+! rowspan="2" |[[0.5.2.0]]
+|''The Tower'' now affects D.O.T.S projectors, ghost writing books, and doors.
+|-
+|''The High Priestess'' now revives the next player to die if no player is currently dead.
+|-
+![[0.8.1.0]]
+|''The Tower'' now doubles all ghost activity for the next 20 seconds, instead of forcing an interaction to occur.
+|}
+
+==Notes==
+{{Reflist|group="note"}}
+{{EquipmentNav}}
+[[Category:Item]]
+[[fr:Cartes de tarot]]
+[[ru:Карты Таро]]

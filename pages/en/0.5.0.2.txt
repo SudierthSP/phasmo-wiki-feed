@@ -1,0 +1,46 @@
+# 0.5.0.2
+# revid 23942  2026-06-28T21:40:05Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 7e3c5d178dc64ea36f17af56570f76dc76e82596fc3013b7f24b52b449ebfd3e  bytes 2301
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=13 December 2021
+ | previous_major_version=[[0.5.0]]
+ | previous_minor_version=[[0.5.0.1]]
+ | next_minor_version=[[0.5.1.0]]
+ | next_major_version=[[0.6.0]]
+}}'''0.5.0.2''' is a minor update to the game released on 13 December 2021.<ref>https://store.steampowered.com/news/app/739630/view/3099036942824804494</ref> The update includes bug fixes and changes.
+
+==Changes==
+
+*You can no longer ask the ghost to play hide and seek with the Ouija board during a hunt
+*Voodoo Doll heart pins will now trigger the hunt instantly, instead of after the animation
+*Several improvements with how the ghost navigates to you during a hunt
+*Hantu’s freezing breath will now only be visible in freezing temperature rooms
+*The ghost can no longer choose Asylum hallways or staircases as it's [sic] favourite room
+*The mirror’s view into the ghost’s room will now keep rotating instead of resetting each time you look at it
+*Several improvements to how the ghost wanders
+*Lowered the chance for the ghost to wander
+*The cursed possessions can no longer be used outside the location as there is no risk
+
+==Bug fixes==
+
+*Fixed a bug where the ghost could not kill you if you were stood in some open closets
+*Fixed a bug where you could stop the “hide and seek” question hunt
+*Fixed a bug where the ghost could get stuck on top of the black car in Ridgeview
+*Fixed a bug when holding the Ouija Board as it broke would make you unkillable
+*Fixed a bug where the Summoning Circle was only draining 20% sanity when the ghost spawned, instead of 16% per candle
+*Fixed a bug where lighting the summoning circle during a hunt would reset the hunt
+*Fixed a bug where the Music Box was always spawning on Asylum
+*Fixed a bug where the ghost was always wandering between floors
+*Fixed a bug where the ghost was able to get far away from its room if it wandered multiple times in a row
+*Fixed a bug where the Tanglewood kitchen sink’s water wasn’t aligned correctly
+*Fixed several font and missing character issues
+*Fixed a bug where a blue bucket’s handle was disappearing when you moved away from it
+*Fixed a bug where the Ouija board was instantly breaking when used by a VR player
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.5.0.2]]
+[[ru:0.5.0.2]]

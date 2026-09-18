@@ -1,0 +1,119 @@
+# 0.5.1.0
+# revid 23943  2026-06-28T21:40:09Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 cba1f8a24070a1d4d0dddf7bc699b99e31d2c142ea418a30b1f00d4d199326b7  bytes 6990
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=24 December 2021
+ | previous_major_version=[[0.5.0]]
+ | previous_minor_version=[[0.5.0.2]]
+ | next_minor_version=[[0.5.1.1]]
+ | next_major_version=[[0.6.0]]
+}}'''0.5.1.0''' is a minor update to the game released on 24 December 2021.<ref>[https://store.steampowered.com/news/app/739630/view/3099038120462683272 Cursed Possessions | Update v0.5.1.0]</ref> The update includes several changes and bug fixes.
+
+== Changes ==
+=== Equipment ===
+;[[Candle]]
+*Smoke particles have been adjusted
+
+;[[Cursed possession]]s
+*Will now only have one spawn point per item, with increased intuitiveness
+**Will be placed in first room for [[Prison]], [[Brownstone High School]] and [[Asylum]]
+
+;[[Tarot Cards]]
+*Now easier to use in VR
+
+=== Gameplay ===
+;[[Weather]]
+*Foggy weather has been temporarily removed
+**Will be re-added in a future update
+
+=== Ghosts ===
+;General
+*Maximum wander distance range has been increased slightly to prevent ghosts from being trapped in larger rooms
+
+;[[Demon]]
+*Description has been updated to better reflect its weakness
+
+;[[Hantu]]
+*Will now always have [[Freezing Temperatures]] evidence guaranteed on Nightmare difficulty
+*Breath can no longer be seen by dead players
+
+;[[Yurei]]
+*"Silent ghost event" ability will now only close one door, instead of all of the doors near the ghost
+*Will now stay in their room more reliably when smudged
+
+=== Maps ===
+;[[Prison]]
+*Light control computers now change their colour to green when lights are on, and red when off
+
+;[[Asylum]]
+*Reduced the room count shown on the contract selection screen
+
+=== General ===
+*Updated to the latest LIV SDK to fix a VR crash
+
+== Bug fixes ==
+*Fixed a consistency issue with Thermometers to make them more accurate
+*Fixed a bug where you could grab broken Ouija Board pieces in VR
+*Fixed a bug where you could attach cursed possessions to your belt in VR
+*Fixed a bug where certain sounds wouldn’t be audible on the Parabolic Microphone
+*Fixed a bug where the Demon’s early hunt was stopping instantly
+*Fixed a bug where the Yurei sanity drain ability wasn’t working consistently
+*Fixed a bug where some Cursed Possessions breaking would trigger hunts with their normal grace period
+*Fixed a bug where the Voodoo Doll could fall behind the oven on Tanglewood
+*Fixed a bug where the Voodoo Doll’s heart pin wasn’t working correctly
+*Fixed a bug where if the Haunted Mirror spawned on the wall in Grafton, you couldn’t get photo rewards from it
+*Fixed a bug where using the Haunted Mirror would sometimes show the incorrect room
+*Fixed a bug where you could get photo rewards from a smashed Ouija Board
+*Fixed a bug where you could cancel the “hide and seek” countdown by saying “goodbye”
+*Fixed a bug where you could get photo rewards from a tarot card deck with no cards left
+*Fixed a bug where drawing the Tower or Hanged Man card as your last wouldn’t do anything
+*Fixed a bug where you couldn’t drop the tarot cards instantly after drawing one
+*Fixed a bug where the Tarot Death card wasn’t triggering a Cursed Hunt and adding duration to further hunts
+*Fixed a spelling mistake on “The High Priestess” card
+*Fixed a bug where using a Summoning Circle with The Twins would make the ghost teleport to the twin location when starting the hunt
+*Fixed a bug where you couldn’t light Summoning Circle candles in VR with a lighter
+*Fixed an issue where the summoning circle wasn’t draining sanity for VR players
+*Fixed an issue where the music box wasn’t draining sanity for VR players
+*Fixed a bug where ghosts could flicker lights that had smashed
+*Fixed a bug in Asylum where you couldn’t see with Night vision cameras
+*Fixed a bug in Prison where several showers didn’t have handles
+*Fixed a bug in Maple Campsite where one wood knock sound would play three sounds in a row
+*Fixed an invisible collider on the ceiling in Ridgeview dining room
+*Fixed a bug where you could hear footsteps with the master volume set to 0
+*Fixed a bug where a ghost appearing with DOTS could spawn it inside of walls, making it very hard to see
+*Fixed a bug where you could still see green reflections after a DOTS had been picked up
+*Fixed a bug where you could still see red reflections after the red-light ghost event
+*Fixed a bug where piano interactions weren’t giving photo rewards
+*Fixed a bug where objects used by the ghost weren’t always registering on the Parabolic Microphone
+*Fixed a bug where you could place several items on the truck ramp whilst its closed
+*Fixed a bug where you could teleport out of the truck, whilst its closed, via the ramp in VR
+*Fixed several bugs where the ghost was leaving EMF without doing anything
+*Fixed a bug where the ghost could interact with the rocking chair multiple times at once causing the sound to overlap
+*Fixed a bug where the ghost would give EMF 2 when attempting to flicker a light that was turned off
+*Fixed a bug where the ghost would give EMF 2 when attempting to teleport an object in your hand
+*Fixed a bug where the ghost would give EMF 2 when attempting to move a mannequin
+*Fixed a bug where the ghost would give EMF 2 when attempting to write in the ghost-writing book when it didn’t have the ghost-writing evidence
+*Fixed a bug where you could not hear the ghost footsteps on the parabolic microphone
+*Fixed a bug where Candles would blow out in heavy rain if another player walked outside
+*Fixed a bug where the voodoo doll would not start a hunt if you used it with no sanity after the heart pin was used
+*Fixed a bug where the haunted mirror would close when holding it if another player walked outside
+*Fixed a bug where several cursed possessions were significantly increasing the hunt duration in multiplayer when they broke or were fully used
+*Fixed a bug where the voodoo doll would force an interaction per remaining pin when used with no sanity
+*Fixed a bug where the voodoo doll pins were not pushing in the same pins for each player
+*Fixed a bug where the voodoo doll would use every pin if you had no sanity when another player with sanity used it
+*Fixed a bug where one of the ghost events did not work with the tarot cards which caused the devil card to not do anything
+*Fixed a bug where dropping and grabbing the voodoo doll in the truck would stop you from being able to close the truck or view the cctv monitor
+*Fixed a bug where some hunts and ghost events would have no sound if they started quickly after another one
+*Fixed a bug where the mirror effects would sometimes stay active after the mirror was broken
+*Fixed a bug where the Voodoo Doll VR holding rotation was wrong
+*Fixed a bug where the Willow living room fingerprints were on the wrong side of the window
+*Fixed a bug where there was no loading screen when exiting Maple Lodge Campsite
+*Fixed a bug where the Poltergeist ability did not work unless you moved the objects first
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.5.1.0]]
+[[ru:0.5.1.0]]

@@ -1,0 +1,31 @@
+# 0.11.0.3
+# revid 23883  2026-06-28T21:35:44Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 40a436826018bd41444b724cb41d12a8733a20f363586e4467e0cd8503f5ec7a  bytes 998
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=21 November 2024
+ | previous_major_version=[[0.11.0]]
+ | previous_minor_version=[[0.11.0.2]]
+ | next_minor_version=[[0.11.1.0]]
+ | next_major_version=[[0.12.0.1]]
+}}'''0.11.0.3''' is a hotfix released on 21 November 2024.<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-v01103 ''Phasmophobia Hotfix v011.0.3''. 21 November 2024.]</ref> It fixes bugs.
+
+==Changes==
+*With this latest patch, we have increased the resolution of all textures for those of you playing on PlayStation VR2, which aims to create a smoother experience for all VR2 players.
+
+==Fixes==
+;Xbox Series
+*Fixed an issue that would prevent players joining multiplayer games when encountering the ‘Bad Username’ error message.
+
+;Xbox Series/PlayStation
+*Fixed an issue that would cause Phasmophobia to crash when playing on Point Hope.
+
+;All Platforms
+*Optimised memory usage on Point Hope
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.11.0.3]]
+[[ru:0.11.0.3]]

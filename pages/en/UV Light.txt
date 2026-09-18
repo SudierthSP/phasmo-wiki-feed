@@ -1,0 +1,80 @@
+# UV Light
+# revid 21391  2025-07-04T17:26:51Z  by Darkhooper
+# 备注: tier 2 and 3 unlock levels
+# sha256 dc45e5b1cd4ea3c45d6de347a0921910d413e3021f92abe0b83fb88ff43f03fb  bytes 4651
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=UV090_T2.png
+ | tier ii img=UV090_T1.png
+ | tier iii img=UV090_T3.png
+
+ | price=$35
+ | maxamount=2
+ | uses=
+ | starter=Yes
+ | tier i level=
+ | tier ii level=18
+ | tier iii level=46
+
+ | tier i description=A tactical small UV flashlight with a handy belt clip.
+ | tier i purpose=This UV flashlight has a long-distance narrow beam of light, perfect for quickly searching for fingerprints and footprints without having to move too far.<br>It also charges prints much faster than the Glowstick.
+ | tier i ability=<span style="color: #008000;">UV Charge Time: 5<br>Spotlight: Narrow</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier ii description=A small glowstick filled with a clear, oily liquid, mixed with fluorescent dye. Snapping the stick causes a reaction to illuminate the surrounding area with a bright colour.
+ | tier ii purpose=Use this Glowstick to grant an area light that slowly fades over time. Once the light has dulled, give it another shake to replenish some of the light.<br>Ghosts can leave behind fingerprints and footprints in certain situations, use your UV light to reveal these. Shining UV light on these will charge them up over a frew seconds. Once charged you can remove the UV light and still have visibility of the prints, perfect for taking a photo.
+ | tier ii ability=<span style="color: #008000;">Duration (s): 60<br>UV Charge Time: 10<br>Area Light</span>
+ | tier iii description=The UV Light Pro flashlight features nearly 80 individual bulbs, illuminating massive areas with light.
+ | tier iii purpose=With a much wider output and brighter source, this flashlight will allow even faster charging and finding of UV fingerprints or footprints.
+ | tier iii ability=<span style="color: #008000;">UV Charge Time: 1.5<br>Spotlight: Wide</span><br><span style="color: #ff0000;">Electronic</span>
+}}
+The '''UV light''' is a buyable starter item used to detect [[Ultraviolet]] evidence such as fingerprints and footprints.
+
+==Usage==
+The UV light can be enabled using the {{Control|toggle}} key while holding it. The UV light can be activated at the same time as a standard [[flashlight]], but any visible fingerprints or footprints may contrast poorly and be hard to see under their light. The UV light projects purple light and this light is weak relative to flashlights. The Tier I and III UV Lights will not work if [[Flashlight]]s are turned off in [[Difficulty#Custom|custom difficulty]] settings.
+
+[[Ghost]]s that give ultraviolet evidence can leave prints on certain surfaces doors, light switches, and windows. They may also leave prints on floors after stepping through [[salt]]. These prints become visible and green when a UV light is shone towards them.
+
+The Tier I UV Light is a flashlight with a narrow spotlight. It counts as an [[Equipment#Electronic equipment|electronic equipment]]. So it will flicker rapidly near a manifesting ghost and will attract the ghost during a [[hunt]] when it is nearby.
+
+Tier II UV Light is a small glowstick. When activated, it glows brightly for 1 minute, then fades to half intensity over the next 10 seconds. After dimming, the glowstick can be shaken with {{Control|primary use}} to revitalize the light it produces.
+
+The tier III UV Light is also a flashlight. However, it has a much wider spotlight and a lesser charge time than tier I. It also counts as an electronic equipment.
+
+==Tips==
+*As of patch 0.9.0, UV prints must be illuminated by a UV light to take a successful photo.
+*Many regard the Tier II UV Light as superior to the Tier I and III versions, due to the fact that the player can simply throw the glowstick on the floor and it will continuously illuminate any prints nearby, and it is also not an electronic, allowing the player to use it as a light source during hunts without the ghost detecting it.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!28 August 2020<br>(Part 3)
+|Added glowsticks.
+|-
+! colspan="2" | Early Access
+|-
+! rowspan="3" |[[0.3.0]]
+|Changed the glowstick model.
+|-
+|The glowstick now fades after a short while.
+|-
+|Changed the UV flashlight model.
+|-
+![[0.3.0.1]]
+|The glowstick now fades to half intensity over 10 seconds after 1 minute.
+|-
+! rowspan="3" |[[0.9.0]]
+|UV light now has 3 tiers. 
+|-
+|The glowstick has been repurposed as the Tier 1 UV light.
+|-
+|After it dims, the glowstick can now be shaken to revitalize the light it produces.
+|-
+![[0.10.0]]
+|Swapped tier I and tier II UV Light.
+|}
+
+{{Evidence nav}}
+{{Equipment nav}}
+[[Category:Equipment]]
+[[Category:Starter Equipment]]
+[[fr:Lampe UV]]
+[[ru:Ультрафиолетовый свет]]

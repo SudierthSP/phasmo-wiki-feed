@@ -1,0 +1,64 @@
+# 0.11.1.2
+# revid 3733  2025-02-22T10:19:41Z  by Qsefthuopq
+# sha256 2f7198ffa51f9120c9af804dd8a18856e09fe27101125e995d69120307eccccc  bytes 1680
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+
+| release_date=2025年2月20日
+
+| previous_major_version=[[0.11.0]]
+
+| previous_minor_version=[[0.11.1.1]]
+
+| next_minor_version=
+
+| next_major_version=
+
+}}
+
+'''0.11.1.2''' 是2025年2月20日发布的小型更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-voice-recognition-update ''Console Voice Recognition - Phasmophobia v0.11.1.2''. 20 February 2025.]</ref> 本次更新为游戏主机平台添加了语音识别功能。
+==语音识别设置指南==
+
+
+===Xbox平台设置===
+连接兼容Xbox的耳机，通过手柄3.5mm接口连接有线耳机，或使用支持Xbox无线协议的头戴设备（如Xbox官方无线游戏耳机）
+
+主菜单 → 日志 → 游戏选项 → 将"语音识别模式"设为语音启用语音模式
+
+
+
+游戏中若麦克风断开，将自动切换至文本模式，重连后恢复语音识别
+
+===PlayStation平台设置===
+PS5 DualSense无线控制器自带麦克风，或连接PS认证耳机（如PULSE 3D无线耳机）
+
+PS VR2玩家可直接使用头显内置麦克风
+
+启用语音模式
+主菜单 → 日志 → 游戏选项 → 将"语音识别模式"设为语音
+==新增内容==
+
+*为PlayStation 5、PS VR2和Xbox Series X/S玩家部署VOSK语音识别系统
+
+*在启动画面新增加载状态图标，便于诊断加载异常
+
+==改动==
+
+* 优化语音识别模式命名，提升翻译准确性
+** VOSK模式更名为语音
+** Windows语音模式更名为系统语音
+
+==修复漏洞==
+
+* 修复部分Xbox玩家离线状态下无法解锁成就的漏洞
+
+* 多语言本地化文本校准
+
+* 其他稳定性优化及隐形崩溃修复
+
+==参考资料==
+
+{{Reflist}}
+
+{{Versions}}
+
+[[Category:开发]]

@@ -1,0 +1,123 @@
+# 特殊事件和挑战
+# revid 3471  2024-10-29T05:08:29Z  by Qsefthuopq
+# sha256 78bf836a80d9c0ddef2ffd2b736f9005fa40fb1b3a9f3a984574f50f0706138d  bytes 6282
+# 源: https://phasmophobia.fandom.com/zh/api.php该页面列出了所有恐鬼症的'''特殊事件和挑战'''。一些事件可获得能在[[大厅]]展示的奖杯。
+<!--
+
+{{待翻译}}
+== 2021年万圣节 ==
+
+== 2021年圣诞节 ==
+-->
+== 2022年彩蛋 ==
+在此事件期间，每张地图都会在固定地点生成彩蛋。玩家可以按{{Control|拾取}}键收集彩蛋。收集完所有彩蛋后，所有玩家的理智将恢复至100%
+
+== 天启挑战 ==
+[[File:天气挑战所有奖杯.jpg|thumb|200px]]
+{{Main|天启挑战}}
+天启挑战是为了[[0.7.0]]自定义[[难度]]而推出。挑战要求玩家设定最高的难度而完成目标。挑战要求如下：
+
+* 创造自定义[[难度]]（特定需求详见下列）
+* 在单人游戏游玩[[阳光牧场精神病院]]
+* 捕获鬼魂照片（任何星数）
+* 完成所有目标并正确判定鬼魂类型
+
+顺利完成合约会自动获取奖杯：
+
+* 6倍或以上：青铜
+* 10倍或以上：白银
+* 15倍：黄金
+
+以高倍数完成游戏会自动获得低倍的奖杯，因此一局游戏就能获得全部奖杯。
+
+该挑战永久开放。
+
+== 不给糖就捣蛋 ==
+[[File:2022年万圣节奖杯.jpg|thumb|200px]]
+2022年万圣节推出了新挑战，让玩家在指定地图搜索装满糖果的雕刻南瓜。指定地图在地图选项板会显示南瓜灯图标。步骤如下：
+* 在指定地图选择噩梦难度（不是自定义预设的噩梦难度）
+* 捡起所有糖果
+* 捡起所有糖果后，新的雕刻南瓜会生成。玩家需要使用打火机把这些南瓜灯点亮。
+* 两项任务做好后，接下来鬼魂现身或猎杀时会带着南瓜头。此时玩家必需捕获鬼魂照片。照片不必有标签，也不必是第一张鬼照，只要鬼魂在技术上能算在照片里。
+每次完成步骤会播放笑声。只要做好所有步骤，玩家也无需活着离开。
+
+如果地图[[天气]]为暴雨，玩家则必需重新开始，因为有些南瓜位于室外而不能被点燃。
+
+地图完成后会在南瓜灯上显示打勾。一旦所有地图完成后，玩家会获取南瓜奖杯。该活动持续从[[0.7.1.0]]到[[0.7.1.5]]为止。
+
+== 2022年圣诞节 ==
+[[File:2022年圣诞节奖杯.jpg|thumb|200px]]
+该事件进行时，大厅会有各种圣诞节装饰物。和不给糖就捣蛋事件类似，你需要在大厅内收集特定物品。
+条件如下：
+
+# 在中级难度下进入有节日标签的所有地图。
+# 收集6块曲奇并装盘
+# 把曲奇放在鬼附近投喂
+# 探明鬼魂类型后离开
+
+完成所有地图后，玩家会获得22年节日[[身份卡|徽章]]和奖杯。
+
+该事件将在2023月1月9日结束。
+
+== VIP身份组活动 ==
+在2022年底，每位官方内容创造者（Twitch 平台主播，Insym、Psycho 等）可以选择 3 个玩家颁发'''猎鬼师 贵宾'''的身份组和徽章，挑选方法由各个主播自由发挥。之后官方在2023年初通过幸运玩家的 Steam ID 设置身分组。目前未有新的VIP身分组颁发活动。
+
+== 2023年谜语 ==
+在[[0.8.1.0]]版本中将更新谜语活动，玩家需要根据谜语提示找到指定位置。这些谜语散布在各个地图内，谜语所在地图不一定是谜底所在地图。
+* 赐我黑石，方能重燃烈火。将此雪困之地，化为人间炼狱
+* 静谧之地，浮于水墓，宜观日出
+* 楼下之椅摇摇欲坠，楼上之屋唯我独撑
+* 虽细雨微雪，亦未曾歇息。防备上方之敌，窃取吾之果实。一丝微光，足以雪中送炭
+* 在随时看得到手的地方，我躲在水落之处
+* 从卧室的窗户往墙上看，在地下室上方的雾气里，一切都显露无遗
+* 离开学习之地，寻找外面的迷宫起点
+
+== 2023年愚人节 ==
+更新小彩蛋！
+* 玩家和鬼魂模型的头部肿起来
+* 玩家模型都改为T-姿势
+* 鬼魂音效音调调高、加速
+
+== 2023年复活节 ==
+# 在任意难度下进入有复活节标签的地图。
+# 找到并收集所有隐藏的彩蛋。
+# 返回车上，火速离开！
+# 在有标签的所有地图内重复以上步骤！
+# 获得23年复活节奖杯！
+
+== 2024 ==
+=== 2024年复活节 ===
+[[File:Easter2024Trophy.png|thumb|The Easter 2024 Trophy.]]
+[[File:Easter_24_Lobby_Tree.gif|thumb|Lobby Tree Visual Effect.]]
+An event was introduced for Easter 2024. During this event, 5 maps would feature a Nest Sticker while Camp Woodwind had a Forest Spirit Sticker on the map selection board. To complete the event, the player needed to do the following:
+
+* Capture a photo of the Forest Spirit's minion on the 5 maps featuring a Nest Sticker
+** The Forest Spirit's minion can be found using the UV Light and the D.O.T.S. Projector
+* After taking a photo of all 5 minions, capture a photo of the ghost on Camp Woodwind and successfully identify it
+
+After completing these objectives, the player will receive an Easter '24 Badge (for the ID Card) and Trophy. The tree in the lobby also will display a glowing visual effect while the event is ongoing.
+
+This event can be done on either singleplayer or multiplayer, on any difficulty (including custom difficulties of any multiplier, even 0x), and there is no need to find the ghost type when doing the minions' part.
+
+This event was introduced in [[0.9.6.0]] and lasted until [[0.9.6.1]].
+
+=== 2024年万圣节 ===
+The ''Blood Moon'' event was introduced for Halloween 2024. In this event, the players were tasked to work together to achieve three community goals in order to get new ID cards, a trophy, and to permanently unlock the Blood Moon [[weather]] type.
+
+The three community goals are:
+*Identify ghosts correctly
+*Complete optional objectives
+*Photograph any Totems you find
+
+When completing these goals on one of the four maps featuring the Blood Moon weather type ([[13 Willow Street]], [[42 Edgefield Road]], [[Grafton Farmhouse]], and [[Point Hope]]), players add progression to a stage.
+
+Once a stage is complete, players will start making progress in the next stage, and they need to interact with the Blood Altar in the lobby to get a reward. The rewards for each stage are:
+*Stage 1: 血月身份卡
+*Stage 2: 升级身份卡
+*Stage 3: 血月奖杯和天气事件
+
+This event was introduced in [[0.11.0]] and will last until 13 November 2024.
+
+== 注释 ==
+{{Reflist|group="note"}}
+[[Category:游戏玩法]]

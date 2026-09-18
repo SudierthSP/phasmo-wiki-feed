@@ -1,0 +1,26 @@
+# Truck
+# revid 21241  2025-06-27T18:08:36Z  by Darkhooper
+# 备注: added Control template
+# sha256 9d53d756ec04fc5fcd7dc609832a80fe87432ec2ab232cb16efe5c2244717f23  bytes 2510
+# 源: https://phasmophobia.fandom.com/api.phpThe '''truck''' is the transportation and mobile base for investigators that is stocked with all the equipment required for the [[contract]], and is also used to transport [[player]]s between the lobby and the contract [[map]].
+
+==Mechanics==
+[[File:Van.png|thumb|323x323px|Inside look of the truck|alt=|border]]
+After a contract is started, players will spawn in the truck, followed by the [[equipment]] brought by the players for the contract. It also houses the [[computer]], [[Objective Board]], [[Sanity Monitor|sanity monitor]], the [[Site Map|site map]], [[Sound Monitor|sound monitor]], [[Site Activity Monitor|site activity monitor]] and the [[Setup Timer|setup timer]].
+
+Once all players have loaded in, the back of the truck can be opened by {{Control|interacting}} with the keypad on the left side when facing the back from the inside, allowing players to walk to the investigation area. The Main Door [[Key]] to the investigation area spawns to the left of the keypad. When leaving, all living players must be on the truck for the doors and ramp to close. Dead players do not have to be on the truck for this to work.
+
+While the truck is still closing up, the keypad can be used again to reopen the doors, but only after the doors have begun to swing close.
+
+Equipment can be picked up from the wall rack, and placed back to the same slot using {{Control|Secondary Use}}. Certain equipment such as [[Motion Sensor|motion sensors]] cannot be placed inside or around the truck. [[Video Camera|Video cameras]] and [[Photo Camera|photo cameras]] will turn on automatically outside the truck, and turn off when inside the truck.
+
+The truck is also parked in the [[lobby]]. However, all the screens in the trailer (except the setup timer, which permanently shows 00:00) are turned off, and the [[Daily and Weekly Tasks]] clipboards are not present.
+
+==Trivia==
+*The truck and the area around it are considered "safe"; the ghost cannot be in these areas, and there is no passive sanity drain. At the same time, it is still possible to effectively use some [[cursed possession]]s while in safe areas. For example, the Hanged Man [[Tarot Cards|tarot card]] can kill players even if they are in the truck.
+*The truck appears to be an Iveco Eurocargo 75E18, with a license plate of '''7GHD666'''. GHD stands for Ghost Huntin' Distribution, the fictional name of the in-game company. 666 is often known as the Number of The Beast.
+
+{{MapFeatureNav}}
+[[Category:Map Features]]
+[[fr:Camion]]
+[[ru:Фургон]]

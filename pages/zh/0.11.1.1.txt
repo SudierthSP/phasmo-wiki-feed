@@ -1,0 +1,37 @@
+# 0.11.1.1
+# revid 3668  2024-12-24T07:48:11Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version  | release_date=2024年12月24日  | previous_major_version=[[0.11.0]]  | previous_minor_version=[[0.11.1.0]]  | next_minor_version=  | next_major_version= }}'''0.11.1.1'''是发布于2024年12月24日的小型热修复更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-wintersjesthotfix ''Winter’s Jest - Phasmophobia Hotfix v0.11.1.1''. 23 December 2024.]</ref>  ==新增内容== *'''Steam：'''添加追踪玩家活动进度的…”
+# sha256 1aa870bb7121fce02f03bc498f082e299048bd5ffc5a9a2a02034ff5633ace60  bytes 1509
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+ | release_date=2024年12月24日
+ | previous_major_version=[[0.11.0]]
+ | previous_minor_version=[[0.11.1.0]]
+ | next_minor_version=
+ | next_major_version=
+}}'''0.11.1.1'''是发布于2024年12月24日的小型热修复更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-wintersjesthotfix ''Winter’s Jest - Phasmophobia Hotfix v0.11.1.1''. 23 December 2024.]</ref>
+
+==新增内容==
+*'''Steam：'''添加追踪玩家活动进度的全球排行榜。将显示全世界前十名的玩家。
+**''注：Steam玩家能在排行榜上看见PlayStation和Xbox玩家。由于技术问题，排行榜在主机平台上暂不可用。''
+
+==改动==
+*为装饰品添加灯光效果并调整仓库的装饰。
+*每周和每日任务现在将在活动开始和结束时重置，而不会保留非活动进度。
+
+==修复漏洞==
+;所有平台
+*修复导致雪在活动地图上穿模的问题。
+*修复Bleasdale中花环遮挡电闸的问题。已移除该花环。
+*修复联机时导致血月天气仅对部分玩家生效的问题。现在，如果主机玩家遇到血月天气，所有玩家都会遇到。
+
+;Xbox Series/PlayStation
+*修复阻止玩家接收季节性每日和每周任务的问题。
+
+==已知问题==
+*当使用“随机地图”并在冬日戏谑活动地图上开始猎杀时，天气会随机变化。
+*由于玩家名称中包含不支持的字符，部分玩家名称不会显示在排行榜上。
+
+==参考资料==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

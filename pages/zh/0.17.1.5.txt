@@ -1,0 +1,21 @@
+# 0.17.1.5
+# revid 4165  2026-06-04T11:55:49Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version | release_date=2026年6月3日 | previous_major_version=[[0.17.0]] | previous_minor_version=[[0.17.1.4]] | next_minor_version= | next_major_version= }}'''0.17.1.5'''是发布于2026年6月3日的小型热修复更新。<ref>[https://kineticgames.co.uk/news/phasmophobia-hotfix-v01715 ''Phasmophobia - 热修复补丁 v0.17.1.5''. 2026年6月3日.]</ref>本次更新修复了两个问题。  == 修复漏洞 == *修复：用手柄时使用通灵盒…”
+# sha256 b5f3415b4b0ede8375b7f94ee2fc3579809bb3c34bea07b125041d0d5d9f33a4  bytes 757
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+| release_date=2026年6月3日
+| previous_major_version=[[0.17.0]]
+| previous_minor_version=[[0.17.1.4]]
+| next_minor_version=
+| next_major_version=
+}}'''0.17.1.5'''是发布于2026年6月3日的小型热修复更新。<ref>[https://kineticgames.co.uk/news/phasmophobia-hotfix-v01715 ''Phasmophobia - 热修复补丁 v0.17.1.5''. 2026年6月3日.]</ref>本次更新修复了两个问题。
+
+== 修复漏洞 ==
+*修复：用手柄时使用通灵盒会导致玩家卡死
+*修复：Steam玩家语音识别功能失效
+**如果您在PC上使用“语音”设置时遇到语音识别问题，请确保您PC上分配的默认麦克风是您Windows设置中指定的麦克风。
+
+== 参考资料 ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:开发]]

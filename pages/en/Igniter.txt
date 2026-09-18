@@ -1,0 +1,85 @@
+# Igniter
+# revid 22579  2025-12-25T07:34:30Z  by Darkhooper
+# sha256 432b0d47fd4c69c7ae4655ccd7699ce6cc58e05471db84bacf2b53bc8b8f14ed  bytes 5328
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=Igniter090_T1.png
+ | tier ii img=Igniter090_T2.png
+ | tier iii img=Igniter090_T3.png
+
+ | price=$10
+ | maxamount=4
+ | uses=Depends
+ | starter=No
+ | tier i level=12
+ | tier ii level=37
+ | tier iii level=52
+
+ | tier i description=Ghost Huntin’ Distribution’s very own matchbox, complete with a spooky little ghost as the mascot. Adorable!
+ | tier i purpose=These matches are perfect for lighting Firelights and Incense, but remember, with only ten uses you’ll run out fast!<br>They can also be used as a small light source, just make sure to not burn your fingers.
+ | tier i ability=<span style="color: #008000;">Duration (s): 10<br>Uses: 10</span><br><span style="color: #ff0000;">Consumable</span>
+ | tier ii description=A BiK lighter; small, compact and handy!
+ | tier ii purpose=A gas lighter. It provides a little more light than matches and lasts a lot longer.<br>
+You can see the liquid inside it drain as you use it, make sure you have enough left when you’re in a pinch!
+ | tier ii ability=<span style="color: #008000;">Duration (min): 5</span><br><span style="color: #ff0000;">Consumable</span>
+ | tier iii description=Since releasing, Zippy Lighters have been a staple for the military, and now; Ghost Investigators.
+ | tier iii purpose=This Lighter could last you for an entire contract, as long as you’re not wasting it!<br>With a larger flame, the light it provides is brighter and has larger range, perfect for those dark getaways during an attack.
+ | tier iii ability=<span style="color: #008000;">Duration (min): 10<br>Waterproof</span>
+}}An '''igniter''' is an item used to light [[incense]], [[firelight|firelights]], [[Summoning Circle|summoning circles]], and [[Fire Source|fire sources]]. It emits a small amount of light when activated and held by the player.
+
+==Usage==
+An igniter can be used either when held or when in the inventory. The igniter can be lit by pressing the {{Control|Primary Use}} key while holding it. Incense, fire sources and regular firelights can then be lit by aiming at the item and pressing the {{Control|Secondary Use}} key. Alternatively, if the igniter is offhand in the inventory, incense or firelight being held on-hand can be lit directly with {{Control|Primary Use}}. The igniter does not have to be lit prior in this case, as it will automatically turn off when placed offhand.
+
+Igniters take up their own special slot in the inventory, allowing for three other items to be carried with them.
+
+Igniters have a limited amount of usable time, depending on their tier:
+*Tier I: 10 matches per box with 10 seconds per match, for a total of 100 seconds (1 minute 40 seconds)
+*Tier II: 5 minutes
+*Tier III: 10 minutes
+
+Additionally, lighting a held incense or firelight while the igniter is offhand in the inventory will instantly deduct 1 match for the Tier I and 15 seconds of the total fuel for the Tiers II and III.
+
+Active Tier I and Tier II igniters are affected by [[Weather#Heavy_Rain|Heavy Rain]], and will be extinguished automatically when taken outside and cannot be ignited in that weather, except in places that are covered from the rain (e.g. under porch roofs, inside tents). However, they can still light held incense and Tier III firelights up if they are in the inventory, even while fully outside.
+
+When an igniter is lit for the first time, contrary to other fire sources, it will not have the 30-second cooldown before the ghost can attempt to blow it out but a cooldown with a random duration between 20 and 80 seconds as with subsequent lightings (this might be a bug). The [[Onryo]] is the only [[ghost]] that can bypass this cooldown due to its hunt prevention mechanics.
+
+Ghosts cannot light igniters and have a 66.67% (2/3) chance to blow out a lit igniter provided they are within 5 meters and the cooldown is over.
+
+Tier I and II igniters are consumable, and will have to be repurchased after use.
+
+==Tips==
+*While using tier I igniters, it is quicker to pick up, light and place firelights than to wait for the match-striking animation.
+
+==Trivia==
+*The igniter is the cheapest item in the game, costing $10.
+*Tier I matches may be extinguished by the ghost, however, they will still appear to be lit.
+*In [[Point Hope]] and [[Bleasdale Farmhouse]], a usable Tier I igniter containing a single matchstick spawns in one of the rooms.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+!23 September 2020
+| Lighters can now light held smudge sticks and candles.
+|-
+![[0.3.0]]
+|Changed the lighter model.
+|-
+![[0.6.2.0]]
+|Increased the limit of lighters per contract from 2 to 4.
+|-
+! rowspan="2" |[[0.9.0]]
+|Lighters were renamed to igniters.
+|-
+|The Igniter now has 3 tiers.
+|-
+! rowspan="3" |[[0.10.0]]
+|Players can now carry an Igniter in addition to 3 other items (''Note: Non-VR players can only carry one Igniter at a time, similar to flashlights'').
+|-
+|Igniters now have their own slot in the VR belt (When placing a tier 1 igniter in this slot, you won't be able to remove it again, until all matches have been drawn).
+|-
+|Firelights and Igniters will now be extinguished accurately in heavy rain. For example, they will no longer be extinguished under house porches and inside small tents.
+|}<br>
+{{EquipmentNav}}
+[[Category:Equipment]]
+[[fr:Allumeur]]
+[[ru:Зажигалка]]

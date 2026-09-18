@@ -1,0 +1,158 @@
+# 6 Tanglewood Drive
+# revid 24985  2026-09-18T17:58:57Z  by Darkhooper
+# 备注: changed page layout
+# sha256 fb76748592ff77dd92a3e01afab02cd5cc7b1eee866ff34f56a9ba745b9a19dc  bytes 6447
+# 源: https://phasmophobia.fandom.com/api.php{{Location
+|img=Tanglewood Front.png
+|imgcaption=A view from the front yard of the house.
+|mapsize=Small
+|floors=2
+|rooms=12 (Total)
+*1F: 11
+*B: 1
+|exits=1
+|faucets=4
+|videofeeds=1
+|keys=Front Door Key, Car Key
+|img rooms=Rooms Tanglewood.png
+|img sanity=Sanity Tanglewood.png
+|img temperatures=Temperatures Tanglewood.png
+}}
+{{Quote|speaker=Loading blurb|quote=Where it all began; our first reports of the paranormal came from here. It's only small, but it holds more secrets than meets the eye.
+}}'''6 Tanglewood Drive''' (or simply '''Tanglewood''') is a small [[map]] in ''Phasmophobia''. It is a small single-story home.
+
+Tanglewood can often make for a swift investigation due to its small size and plentiful hiding and looping spots well distributed across the map.
+
+==Structure==
+Tanglewood has two bedrooms (including a child's room), two bathrooms, a garage, and a basement, among other rooms.
+
+===Layout tips===
+*The "Master Bedroom" consists of the room of the bedroom itself and the attached closet. The attached "Ensuite" is considered a separate room.
+*The "Foyer" consists of both the hallway starting from the front door until the archway leading into the living room, and the hallway parallel to it connecting "Hobby Room", "Nancy's Room", and "Main Bathroom".
+*The "Dining Room" consists of the dining room itself and the attached corridor connecting the "Kitchen", "Basement" and "Utility Room".
+
+The following rooms allow short [[Roaming|roams]] to another floor to be completed:
+*Basement
+
+Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
+{| class="article-table"
+!Parameter
+!None
+!Low
+!Medium
+!High
+|-
+!Number
+|0
+|2
+|4
+|5
+|}
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 6 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Foyer
+|[[File:Tanglewood Foyer 1 unavailable.png|200px]]
+|[[File:Tanglewood Foyer 1 available.png|200px]]
+|-
+|Foyer
+|[[File:Tanglewood Foyer 2 unavailable.png|200px]]
+|[[File:Tanglewood Foyer 2 available.png|200px]]
+|-
+|Hobby Room
+|[[File:Tanglewood Hobby Room unavailable.png|200px]]
+|[[File:Tanglewood Hobby Room available.png|200px]]
+|-
+|Ensuite
+|[[File:Tanglewood Ensuite unavailable.png|200px]]
+|[[File:Tanglewood Ensuite available.png|200px]]
+|-
+|Garage
+|[[File:Tanglewood Garage unavailable.png|200px]]
+|[[File:Tanglewood Garage available.png|200px]]
+|-
+|Basement
+|[[File:Tanglewood Basement unavailable.png|200px]]
+|[[File:Tanglewood Basement available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|6
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|4
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|3
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|2
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+All of the closet hiding spots have door slats that can be seen through easily at both standing or crouching height, while the ghost cannot see through them. This means that it is possible to watch a hunting ghost from a relatively safe position as long as a closet is available. This makes identifying ghosts on lower difficulties easier and makes the map much more beginner friendly.
+
+[[Guides/Surviving_a_hunt#Looping_the_ghost|Looping]] the ghost may be performed around the train table, the dining table, the car in the garage, or the coffee table in the living room. Where needed, the player may hide at the rear of the car, or crouch behind the dining table. The train table also allows you to observe a crawling ghost without being seen by it.
+
+==Bone locations==
+Bones spawn randomly, but will only spawn in areas that a ghost can also walk on. Additionally, the bone cannot spawn in '''Ensuite'''.
+
+==Cursed Possession locations==
+<gallery>
+File:Tanglewood-Mirror.png|The [[Haunted Mirror]] spawns on the wall next to the Master Bedroom door in the Foyer.
+File:Tanglewood-Music2.png|The [[Music Box]] spawns in the Master Bedroom's attached closet.
+File:Tanglewood-Ouija2.png|The [[Ouija Board]] spawns on the train table in the Basement.
+File:Tanglewood-Circle2.png|The [[Summoning Circle]] spawns in the Basement.
+File:Tanglewood-Cards.png|The [[Tarot Cards]] spawn on the table next to the couch in the Living Room.
+File:Tanglewood-Doll.png|The [[Voodoo Doll]] spawns in front of the big teddy bear in Nancy's Room.
+File:Tanglewood-Paw.png|The [[Monkey Paw]] spawns on the wheelbarrow in the Garage.
+</gallery>
+
+==Tips==
+[[File:Tanglewood-CabinetDoors.png|thumb|200x200px|<span style="color: #FF0000;">Red</span>: Fingerprints are inside the model<br><span style="color: #008000;">Green</span>: Fingerprints are on the surface]]
+*One can use video cameras to look for [[Ghost Orb]]s in the Hobby Room through the window before the player even enters.
+*There is a bug where some cabinet doors in the Kitchen or the Utility Room host [[Ultraviolet#Fingerprints|fingerprints]] inside the door model rather than on their surface, making it appear as if the ghost cannot leave fingerprints on them. One can still check for fingerprints on these doors with a [[Photo Camera|photo camera]] or [[Video Camera|video camera]], and photograph them, provided a [[UV Light|UV light]] is shining on them.
+
+==Trivia==
+[[File:Tanglewood-Easter Egg.png|thumb|200x200px|The potato in the kitchen cabinet.]]
+*6 Tanglewood Drive was the first map to be created.
+*A [[potato]] easter egg can be found in one of the kitchen cabinets; this is a reference to the popular content creator PsychoHypnotic.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+!19 September 2020<br>(Part 4)
+|Removed skeletons that were only visible to dead players.
+|-
+![[0.6.1.0]]
+|Moved the Utility door from the kitchen to the hallway.
+|-
+![[0.7.0]]
+|Renamed Tanglewood Street House to 6 Tanglewood Drive.
+|-
+![[0.16.0]]
+|Overhauled with new assets, props and interactions for both the Ghost and the Player.
+|}<br>
+
+{{Loc nav}}
+[[Category:Small Map]]
+[[Category:Maps]]
+[[fr:6 Tanglewood Drive]]
+[[ru:6 Tanglewood Drive]]

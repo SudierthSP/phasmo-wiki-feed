@@ -1,0 +1,22 @@
+# 0.10.1.1
+# revid 3457  2024-08-14T06:32:37Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version  | release_date=2024年8月14日  | previous_major_version=[[0.10.0]]  | previous_minor_version=[[0.10.1.0]]  | next_minor_version=  | next_major_version= }}'''0.10.1.1'''是发布于2024年8月14日的热修复更新。<ref>[https://store.steampowered.com/news/app/739630/view/4325229998952538076''Photo Deletion and Vivox | Hotfix v0.10.1.1''. 13 August 2024 (On Steam).]</ref>本次更新修复了新增的Vivox语音聊天系统的一些问题…”
+# sha256 09474046a1802a45853226110de91af2054e6b3d1770f609571d01c6af057ba0  bytes 842
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+ | release_date=2024年8月14日
+ | previous_major_version=[[0.10.0]]
+ | previous_minor_version=[[0.10.1.0]]
+ | next_minor_version=
+ | next_major_version=
+}}'''0.10.1.1'''是发布于2024年8月14日的热修复更新。<ref>[https://store.steampowered.com/news/app/739630/view/4325229998952538076''Photo Deletion and Vivox | Hotfix v0.10.1.1''. 13 August 2024 (On Steam).]</ref>本次更新修复了新增的Vivox语音聊天系统的一些问题。
+
+==修复漏洞==
+* 如果连接至Vivox失败，仍能继续游玩，但是无法使用语音聊天
+* 如果使用按键说话或切换静音，鬼无法在单人游戏时持续听到你说话
+* 如果使用切换语音，使用全局聊天现在能被听见
+* 被封禁的玩家现在可以通过启动界面
+
+==参考资料==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

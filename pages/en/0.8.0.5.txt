@@ -1,0 +1,31 @@
+# 0.8.0.5
+# revid 23980  2026-06-28T21:43:07Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 ad7a7762cb10418c33f6fffb0b31c845a39b767e61f2432b3faab09feae5e6a8  bytes 1238
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=24 December 2022
+ | previous_major_version=[[0.8.0]]
+ | previous_minor_version=[[0.8.0.4]]
+ | next_minor_version=[[0.8.0.6]]
+ | next_major_version=[[0.9.0]]
+}}'''0.8.0.5''' is a minor hotfix released on 24 December 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3615859152043944558 ''Tempest | Hotfix v0.8.0.5''. 24 December 2022 (on Steam).]</ref>
+
+== Changes ==
+* Improved the fingerprints shader to work better when under UV and normal light
+* Increased brightness of glowstick during the first minute of its activation
+
+== Bug fixes ==
+* Rain will now collide with the floor in Sunny Meadows instead of 3m above it. 
+* Fog in Prison is no longer inside of A Block and is more performant 
+* Fixed the Ouija Board not breaking if a dead player is nearby 
+* You can now see the Holiday trophy after reloading the main menu 
+* Photo cameras will now be glitched again when the ghost is nearby for events and hunts 
+* Fingerprints will no longer have weird squares when placed on transparent surfaces 
+* Fixed the ghost getting stuck on a table in the servants dining room in Sunny Meadows
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.8.0.5]]
+[[ru:0.8.0.5]]

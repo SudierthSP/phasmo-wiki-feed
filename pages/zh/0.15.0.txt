@@ -1,0 +1,27 @@
+# 0.15.0
+# revid 4048  2025-12-17T03:19:53Z  by Qsefthuopq
+# sha256 bd8efafa672fb9bacdf04dd8fe3ab35e01da67f3448b7f432330a954e843932f  bytes 1537
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+| image1=0.15.0.webp
+| release_date=2025.11.11
+| previous_major_version=[[0.14.0.0]]
+| previous_minor_version=[[0.14.2.1]]
+| next_minor_version=
+| next_major_version=
+}}'''0.15.0'''是发布于2025.11.11的大版本更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-nells-diner-01500 ''Phasmophobia - Nell’s Diner v0.15.0.0''. 11 November 2025.]</ref><ref group="note">Official Kinetic Games Partners were given early access keys on 10 October 2025.</ref>本次更新添加一张小型地图。
+
+==新增内容==
+*'''[[内尔餐馆]]'''是《恐鬼症》的最新地图。其大小与6 Tanglewood相近，但布局更为紧凑，并为玩家和鬼魂提供了种类丰富的新可互动物品。该地图共包含13个房间，其中有11个可能生成鬼魂的房间等待猎鬼师前往探索，就比如一间可步入的冷藏库。
+*「有钱人/富翁」身份卡：在此次更新中，我们新增了「有钱人/富翁」身份卡与徽章。玩家在获得“洗劫银行”（"Break The Bank"）成就后即可解锁。
+* 若您已获得该成就，则在此更新后的首次合约完成后即可解锁此身份卡。 
+==修复漏洞==
+* 修复鬼魂事件期间灯光破碎无音效的问题。
+* 修复灵球穿墙进入其他房间的问题。
+* 修复十字架放置在物体内部时会掉落地图下方的问题。
+** 作为修复措施，十字架将无法再放置在物体内部。
+==参考资料==
+{{Reflist}}
+==注释==
+{{Reflist|group="note"}}
+{{VersionNav}}
+[[Category:开发]]

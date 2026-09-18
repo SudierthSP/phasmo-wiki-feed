@@ -1,0 +1,119 @@
+# 0.17.1.0
+# revid 24124  2026-07-20T11:30:52Z  by Darkhooper
+# 备注: next major version
+# sha256 92523b26079bf9118e1c82a4ae0b83256b5c092f54d027e7fcf76d5c5aa97c54  bytes 7804
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| image1=PhasmoAW.PNG
+| release_date=12 May 2026
+| previous_major_version=[[0.17.0]]
+| previous_minor_version=
+| next_minor_version=[[0.17.1.1]]
+| next_major_version=[[0.18.0]]
+}}'''0.17.1.0''' is a minor update released on 12 May 2026.<ref>[https://www.kineticgames.co.uk/news/phasmophobia-v01710-patch-notes ''Phasmophobia v0.17.1.0 - Patch Notes''. 11 May 2026.]</ref><ref>[https://www.kineticgames.co.uk/news/phasmophobia-by-alan-wake---v01710 ''Phasmophobia by Alan Wake - v0.17.1.0''. 12 May 2026.]</ref> This update fixes bugs from the previous version and introduces the 'Phasmophobia by Alan Wake' event.
+
+==Additions==
+*'''Phasmophobia by Alan Wake:''' A writer, a story, a mystery. Uncover the secrets of the Dark Place in our one-time in-game event that brings the world of Alan Wake 2 to Phasmophobia. Unlock player cosmetics, solve the riddles of the Dark Place and much more.
+*Added a 5 second delay after you die to allow you to select a ghost in the journal
+
+===Ghosts===
+*Added [[Aswang]].
+*Added [[Kormos]].
+
+==Changes==
+*Salt will now get instantly placed at the start of the animation instead of the end.
+*Most equipment hold poses have been changed to fix several visual issues including wrists, elbows, arms and the equipment's position on the screen.
+[[File:AfterEquipmentOnScreen.png|center|500px]]
+[[File:AfterWatch-2.png|center|500px]]
+*The T3 Sanity Medication animation will no longer play in Multiplayer.
+*The Tier 1 Igniter is now open so you can see how many matches are left.
+[[File:AfterFirelight.png|center|500px]]
+*Removed the inventory swapping animation to allow for instant swapping of held equipment.
+*Prestige cosmetics are now free after they are unlocked based on your Prestige level.
+
+==Fixes==
+===Character Model===
+*Fixed an issue that caused the heads of character models to look incorrect when the player looks up and down.
+[[File:AfterPlayer.gif|center|500px]]
+*Fixed an issue that caused problems with the character rig upon being revived while crouched.
+*Fixed an issue that caused character models to fall down incorrectly upon death.
+*Fixed an issue that caused Non-VR player character’s feet to clip below the ground when standing still.
+*The player characters feet will no longer float in some areas.
+*Fixed the characters walking animation when below 50% player speed.
+*Fixed an issue that caused character model mouths to be open when the player moves to the right.
+
+===Ghost===
+*Fixed an issue that prevented the Yurei from fully closing doors.
+*Fixed an issue that caused the Raiju to flicker lights outside of Hunts.
+*Fixed an issue on 42 Edgefield Road that caused the Ghost to get stuck in multiple rooms and not be able to reach players in the garage lockers.
+*Fixed an issue where Ghosts in the Grafton Farmhouse Attic would wander too often outside their room.
+
+===Environment===
+*Fixed an issue that caused doors to move incorrectly when holding the Tarot Cards.
+*Fixed an issue that caused doors to be blocked by other players.
+*Fixed an issue that prevented some doors on Bleasdale Farmhouse from opening correctly.
+*Fixed an issue that caused doors to become detached from their hinges.
+*Fixed an issue that caused Sunny Meadows Restricted to load into the full Sunny Meadows location.
+*Fixed an issue that caused two boomboxes to be displayed in the lobby.
+*Fixed several issues that caused inconsistencies with the animations when grabbing objects.
+
+===Equipment===
+*Fixed an issue that caused held equipment to stutter when turning.
+*Fixed an issue that caused Head Gear to be misaligned while crouching.
+*Fixed an issue that prevented players from being seen on the CCTV through Tier 1 Head Gear.
+*Fixed an issue that caused the Tier 1 Firelight being blown out to be heard throughout the map.
+*Fixed an issue that caused the Tier 2 Photo Camera audio to play when using other equipment.
+*Fixed several issues that prevented the Tier 2 and 3 Firelight from working correctly.
+*Fixed an issue that caused the CCTV screen to be displayed on a Video Camera when first grabbed.
+*Fixed an issue that caused usability issues with the Head Gear after toggling night vision on/off on a Video Camera.
+*Fixed an issue related to the above that caused the Tripod to become invisible.
+*Fixed an issue that caused the Ouija Board planchette to float.
+*Fixed an issue that caused the watch’s timer to desync upon death and revival.
+*Fixed an issue that caused the Ouija Board and Haunted Mirror to drop on their sides.
+*Fixed an issue that caused the wrong Tarot Card to be seen by other players when drawn by the player using them.
+*Fixed several visual issues when grabbing an Igniter while holding a Flashlight.
+*Fixed an issue that caused Flashlights to become invisible when being dropped to pick up another item.
+*Fixed an issue that caused the Flashlight to appear when holding the Journal and pressing using the Flashlight.
+*Fixed an issue that caused Spirit Box responses to be heard incorrectly
+*Fixed an issue that caused a still image to be displayed on the Tier 3 Video Camera when leaving the Van.
+*Fixed an issue that caused the wrong exterior doors to lock on Bleasdale Farmhouse.
+
+===VR===
+*Fixed an issue that prevented VR players from opening the upstairs hallway left side closet door.
+*Fixed an issue where VR Players had to grab objects twice to pick them up.
+*Fixed an issue that caused Head Gear to disappear from the player’s hands when grabbed.
+*Fixed an issue that caused a VR player’s screen to spin when dying or reviving if immersive animations are enabled.
+*Fixed an issue where the audio of a VR player dying could be heard across the map.
+*Fixed an issue that caused objects to appear incorrect in a player’s hand.
+*Fixed an issue that caused items dropped by a VR player after they die to not appear for other players.
+
+===Other===
+*Fixed an issue that prevented Voice Chat from working when the player was Dead.
+*Fixed an issue that would cause the Journal to remain in the player’s hand while Dead, if it was opened while dying.
+*Fixed an issue that caused misaligned text with photo names in the Journal.
+*Fixed an issue that caused the light from a Dead player’s Journal from being visible to players that are alive.
+*Fixed an issue with the Journal that made it difficult to navigate between pages and tabs.
+*Fixed an issue that prevented the “Welcome Back” audio from playing.
+*Fixed an issue that prevented the ‘’Doors Starting Open’’ custom difficulty setting from working correctly.
+*Fixed an issue that caused players to hear Dead players opening and closing their Journals.
+*Fixed an issue that caused a soft lock if Alt + Tab was used during the death animation.
+*Fixed an issue that prevented the Legacy Badge menu options from being selected.
+*Fixed an issue that caused the journal objectives tick colour to be incorrect.
+*Fixed an issue that caused door sounds to play when not moving and be heard across the map.
+*Fixed an issue that caused the ID Card foil animation to not render correctly.
+*Various other fixes and improvements.
+
+==Known Issues==
+*Visual issues may be experienced using the Angel Lamp while holding an EMF Reader.
+*Page dropping audio may be heard while solving Nursery Rhyme riddles in Multiplayer.
+*Photos taken with the Tier 1 Photo Camera by a player may appear incorrect in another player's Journal.
+*A slight delay in the EMF Reader animation, but no effect on gameplay (console only).
+*Slight visual issues with various equipment animations.
+*Slight visual issues with host's ID Card if another player leaves a lobby.
+*Tier 1 Spirit Box may become invisible on Oh Deer Diner if held while interacting with the Truck's CCTV.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.17.1.0]]
+[[ru:0.17.1.0]]

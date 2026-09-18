@@ -1,0 +1,30 @@
+# 0.12.0.2
+# revid 23888  2026-06-28T21:36:11Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 5049c47280aa5b983cdbfa6fa62943cb51cf036edcc00f6a7083f9464057599e  bytes 1188
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| release_date=13 March 2025
+| previous_major_version=[[0.12.0.1]]
+| previous_minor_version=
+| next_minor_version=[[0.12.1.0]]
+| next_major_version=[[0.13.0]]
+}}'''0.12.0.2''' is a minor hotfix released on 13 March 2025.<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-v001202-hotfix ''Phasmophobia Hotfix v0.12.0.2''. 13 March 2025.]</ref>
+
+==Fixes==
+;All Platforms
+*Fixed an issue that was causing inconsistencies in ghost line of sight when hiding in select spots.
+*Fixed a non host crash that would occur when the ghost interacted with the clothes in the Bleasdale Farmhouse wardrobe.
+*Fixed an issue in Bleasdale Farmhouse that caused the bowl to collide with the player.
+*Fixed an issue that caused ghosts to be able to see the player between the double glass doors in Bleasdale Farmhouse.
+
+;Xbox/PlayStation
+*Fixed a common crash on Xbox Series X/S that was introduced in the last update.
+*Implemented several PlayStation performance improvements.
+*Fixed an issue that caused a visual desync on PlayStation when opening certain doors in Bleasdale Farmhouse.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.12.0.2]]
+[[ru:0.12.0.2]]

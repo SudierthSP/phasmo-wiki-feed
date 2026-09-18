@@ -1,0 +1,47 @@
+# 0.11.1.0
+# revid 3548  2024-12-12T13:42:04Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version  | image1=Winters Jest.jpg  | official_name=Winter's Jest|冬日戏谑  | release_date=2024年12月11日 (内测)<br>2024年12月12日 (公测)  | previous_major_version=[[0.11.0]]  | previous_minor_version=[[0.11.0.3]]  | next_minor_version=  | next_major_version= }} 0.11.1.0版本称为“冬日戏谑”更新，是于2024年12月12日发布的小型更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-wintersjestupdate ''Winter’…”
+# sha256 9db5b9767d897308947622d18acc8da24e72622b22fb1a3ff1957c4076d42a83  bytes 1700
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+ | image1=Winters Jest.jpg
+ | official_name=Winter's Jest|冬日戏谑
+ | release_date=2024年12月11日 (内测)<br>2024年12月12日 (公测)
+ | previous_major_version=[[0.11.0]]
+ | previous_minor_version=[[0.11.0.3]]
+ | next_minor_version=
+ | next_major_version=
+}}
+0.11.1.0版本称为“冬日戏谑”更新，是于2024年12月12日发布的小型更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-wintersjestupdate ''Winter’s Jest - Phasmophobia 0.11.1.0''. 12 December 2024.]</ref><ref group="note">Official Kinetic Games Partners were given early access keys on 11 December 2024.</ref>本次主要更新圣诞节活动。
+
+译者注：0.11版本后新增翻译为外包，不代表原译者翻译观点
+
+==新增内容==
+*新增圣诞节活动：冬日戏谑
+*猎人成就添加到活动板
+
+==改动==
+*可在主菜单导航现在可以在菜单之间循环
+**例如：玩家现在可以这样移动：“合约板 > 主菜单 > 商店 > 合约板 > 主菜单 > 商店 > 主菜单”等等
+
+==修复漏洞==
+;全平台
+*最常玩的地图统计数据现在显示正确的地图
+**''注意：这仅适用于此更改后玩的新地图''
+*修复几个导致游戏崩溃的问题。
+*现在可以重新绑定“全局按键说话”的按键
+*修复导致Edgefield死亡室中出现血月反射的问题
+*修复导致部分玩家季节活动倒计时错误的问题
+
+;PS5
+*视野渲染将不再导致屏幕抖动
+
+==已知问题==
+*导航到主菜单左侧会停留在未来的排行榜位置。
+*加载地图时，玩家屏幕两侧可能会出现白色方块
+
+==参考资料==
+{{Reflist}}
+==注释==
+{{Reflist|group="note"}}
+{{Versions}}
+[[Category:开发]]

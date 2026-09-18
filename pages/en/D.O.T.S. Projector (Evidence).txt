@@ -1,0 +1,117 @@
+# D.O.T.S. Projector (Evidence)
+# revid 24150  2026-07-21T09:51:10Z  by Darkhooper
+# 备注: added Deildegast
+# sha256 016978019817ac07f7553edfab1f005c8dce7b80c186f9e6b04c8daa096172f1  bytes 4947
+# 源: https://phasmophobia.fandom.com/api.php{{Evidence_Infobox
+ |title1=D.O.T.S Projector
+ |image1=[[File:DOTS090_animation_videocamera.gif]]
+ |detected_by=[[D.O.T.S Projector]]
+ |caption1=A ghostly sillhouette appearing on the video feed with Night Vision.
+}}{{Quote
+ |speaker=The Journal
+ |quote=A laser grid of light that can reveal the silhouette of a ghost.
+}}'''D.O.T.S Projector''' is a type of [[evidence]] in ''Phasmophobia'', used to determine which [[ghost]] is haunting a location. It is detected by placing a [[D.O.T.S. Projector]] in close proximity of a ghost, and allowing it to pass through it.
+
+==Mechanics==
+Ghosts with D.O.T.S evidence will occasionally enter a "D.O.T.S state", that lasts a maximum of 6 seconds, when trying to enter a [[roaming]] state. During the D.O.T.S state, a faint silhouette of the ghost will be visible only when it passes through a [[D.O.T.S. Projector]]'s laser grid. The ghost will also:
+*walk towards a random waypoint within the [[Ghost Room|favourite room]] if there is no player inside the investigation area
+*walk towards a random waypoint within 2 metres if there is a player inside the investigation area
+*walk towards the nearest player if there is one in the same room as it
+
+While the silhouettes are visible to the naked eye (unless the ghost is a [[Goryo]]), a [[Video Camera|video camera]] with night vision may allow for better visibility. This also means that D.O.T.S can be tracked simultaneously alongside [[Ghost Orb]]s.
+
+Dead players cannot see the D.O.T.S state by any means.
+
+===Ghost-specific abilities===
+*The [[Banshee]] has a 2/3 chance to walk towards its targeted player if they are inside the investigation area.
+*The [[Goryo]] will not enter a D.O.T.S state if there is a player in the same room as it, and its silhouette will not be visible to the naked eye.
+*If there is a player inside the investigation area, the Goryo will set a random waypoint within 1 metre instead of 2, and that waypoint must be within the favourite room.
+*The [[Phantom]] will physically disappear if a photo or a video of it is taken while in a D.O.T.S state.
+
+===Rewards===
+{{Main|Media}}
+The D.O.T.S silhouette can be photographed or video recorded, and will show up as '''D.O.T.S. Ghost''' in the [[journal]]. Both the photo and the video can reward up to $12 and 12 XP depending on the equipment tier and whether there is a Unique stamp. The photo will complete the "Capture a photo of the Ghost" [[Objectives|objective]] and the video will complete the "Capture a video of a Ghost" objective. Because of the nature of the D.O.T.S silhouette and the ghost's tendency to move toward the nearest player, the D.O.T.S Ghost video recording is exceedingly hard to get.
+
+==Potential ghosts==
+{| class="article-table"
+|[[Aswang]]
+|D.O.T.S. Projector
+|[[Freezing Temperatures]]
+|[[Ghost Writing]]
+|-
+|[[Banshee]]
+|D.O.T.S. Projector
+|[[Ghost Orb]]
+|[[Ultraviolet]]
+|-
+|[[Deildegast]]
+|D.O.T.S. Projector
+|[[EMF Level 5]]
+|[[Ghost Writing]]
+|-
+|[[Deogen]]
+|D.O.T.S. Projector
+|[[Ghost Writing]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Goryo]]
+|D.O.T.S. Projector
+|[[EMF Level 5]]
+|[[Ultraviolet]]
+|-
+|[[Obambo]]
+|D.O.T.S. Projector
+|[[Ghost Writing]]
+|[[Ultraviolet]]
+|-
+|[[Oni]]
+|D.O.T.S. Projector
+|[[EMF Level 5]]
+|[[Freezing Temperatures]]
+|-
+|[[Phantom]]
+|D.O.T.S. Projector
+|[[Spirit Box (Evidence)|Spirit Box]]
+|[[Ultraviolet]]
+|-
+|[[Raiju]]
+|D.O.T.S. Projector
+|[[EMF Level 5]]
+|[[Ghost Orb]]
+|-
+|[[Thaye]] 
+|D.O.T.S. Projector
+|[[Ghost Orb]]
+|[[Ghost Writing]]
+|-
+|[[Wraith]]
+|D.O.T.S. Projector
+|[[EMF Level 5]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Yokai]]
+|D.O.T.S. Projector
+|[[Ghost Orb]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Yurei]]
+|D.O.T.S. Projector
+|[[Freezing Temperatures]]
+|[[Ghost Orb]]
+|}
+
+==Tips==
+*A good way to see the D.O.T.S silhouette clearly is to have the room lights turned off and use a video camera with night vision on, then look either directly through the video camera screen or the computer. This will increase the silhouette's contrast against the background. Having two D.O.T.S Projectors placed can allow the silhouette to be visible for longer as it moves across the lighting radius.
+*Some visual effects such as freezing breath or Incense smoke will reflect the D.O.T.S Projector's light. Be careful to not confuse them with a D.O.T.S silhouette.
+*When two D.O.T.S fields overlap, the illuminated ghost may fail to be captured on camera and result in 'blank' photos. When this happens, turn one D.O.T.S. projector off or space them further apart.
+
+==Gallery==
+<gallery>
+File:DOTS090_T1_animation.gif|A ghost moving through a Tier 1 D.O.T.S Projector.
+File:DOTS090_animation_videocamera.gif|A ghost moving through a Tier 3 D.O.T.S Projector, seen via the truck's video feed.
+File:D.O.T.S - Avatar Frame.png|"D.O.T.S" Avatar Frame for Steam
+</gallery>
+{{Evidence nav}}
+[[Category:Evidence]]
+[[fr:Projecteur D.O.T.S. (Preuve)]]
+[[ru:Лазерный проектор (Улика)]]

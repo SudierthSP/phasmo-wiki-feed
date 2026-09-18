@@ -1,0 +1,30 @@
+# 0.12.1.0
+# revid 3740  2025-04-17T16:50:50Z  by Qsefthuopq
+# sha256 16061eb892158692f81c135a0aed92adba49abad196dd6062716a4efb7cbc705  bytes 1669
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version|image1=Cursed Hollow.png|official_name=Cursed Hollow|release_date=17 April 2025|previous_major_version=[[0.12.0.1]]|previous_minor_version=[[0.12.0.2]]|next_minor_version=|next_major_version=}}'''0.12.1.0'''名为'''诅咒山谷'''，发表于2025年4月17日。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-cursedhollow-update ''Phasmophobia Cursed Hollow - v0.12.1.0''. 17 April 2025.]</ref>本次主要更新''诅咒山谷''活动并修复一些漏洞。
+
+==新增内容==
+*新增[[特殊事件#复活节2025|''诅咒山谷'']]活动。
+
+==改动==
+*为所有手柄添加了右摇杆死区支持。
+
+==修复漏洞==
+*为枫林营地野餐桌增加额外碰撞体积，防止VR玩家卡住。
+*移除[[布莱斯代尔农舍]]卧室镜子后的安定点。
+*修复[[布莱斯代尔农舍]]更新后出现的多处鬼魂视线判定问题。
+*修复达到白银段位（天启难度）和80级时空白解锁弹窗错误显示的问题。
+*修复VR玩家被复活后无法与环境互动的问题。
+*修复备用端口选项无法切换的问题。
+*修复骨头可能生成在床上无法到达位置的问题。
+*修复鬼魂可以站在[[Ridgeview]]咖啡桌上的问题。
+*修复"速通！"周常挑战中生成4个十字架（应为2个）的问题。
+*修复猎杀期间鬼魂仍能关门的问题。
+*修复使用天气变更愿望后室外温度不变的问题。
+*修复携带开启状态的收音器离开地图后持续产生闷响的问题。
+*修复多个橱柜门可能从铰链脱落的问题。
+
+==已知问题==
+*活动期间玩家可能在部分地图遇到光照异常问题。
+== 参考资料 ==
+{{Reflist}}{{Versions}}

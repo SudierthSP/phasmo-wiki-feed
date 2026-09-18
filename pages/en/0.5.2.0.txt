@@ -1,0 +1,83 @@
+# 0.5.2.0
+# revid 23946  2026-06-28T21:40:22Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 8720f01c3a7a6b9275571c9c64685cc81b99ad1c04ed13eb33b55a88cf51179c  bytes 4071
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=10 February 2022
+ | previous_major_version=[[0.5.0]]
+ | previous_minor_version=[[0.5.1.2]]
+ | next_minor_version=[[0.5.2.1]]
+ | next_major_version=[[0.6.0]]
+}}'''0.5.2.0''' is an update to the game released on 10 February 2022.<ref>[https://store.steampowered.com/news/app/739630/view/5708878651027615740 Phasmophobia Balance Patch v0.5.2.0]</ref> The update makes several changes to ghost behaviours and fixes bugs.
+
+The update was temporarily reverted shortly after release due to an issue where the front door would not open. A fix was applied and the update re-released with no change to the version number.
+
+== Additions ==
+=== Equipment ===
+;[[Tarot Cards]]
+*''The High Priestess'' now revives the next player to die if no one is currently dead
+
+== Changes ==
+=== Equipment ===
+;[[Tarot Cards]]
+*Interactions forced from ''The Tower'' can now affect ghost writing books, D.O.T.S. projectors and doors
+
+;[[Voodoo Doll]]
+*Sanity drop when pushing a pin has been halved
+*Forced interactions now affect ghost writing books, D.O.T.S. projectors and doors
+
+=== Gameplay ===
+;[[Media|Photo Rewards]]
+*Subsequent ghost photos are no longer labelled if taken
+
+;General
+*Ghosts will no longer turn on lights before smashing them during [[ghost event]]s
+
+=== Ghosts ===
+{{Main|Ghost}}
+;[[Banshee]]
+*No longer has crucifix weakness
+*Now hunts based on target's sanity instead of average sanity
+*Now drains sanity of target player during singing ghost events
+*Now have a chance to wander towards their target while roaming
+
+;[[Demon]]
+*Sanity drop weakness replaced with Banshee's crucifix weakness
+
+;[[Hantu]]
+*Speed brackets have been changed
+
+;[[Poltergeist]]
+*Now drains sanity of all nearby players instead of just one player when using throw ability
+
+;[[Shade]]
+*Now has decreased ghost event chance at higher sanities
+
+== Bug fixes ==
+*Fixed a bug where the Voodoo Doll was only working for the host
+*Fixed a bug where the Ghost Writing evidence interaction was not showing on sound sensors or the parabolic microphone
+*Fixed a bug where solo players could use the Spirit Box and Ouija Board without pressing their voice key if 'push to talk' was enabled
+*Fixed a bug where the Hantu freezing breath would be visible when the ghost wasn't visible
+*Fixed a bug where the Banshee would not set a new target until the next hunt if the target disconnected
+*Fixed a bug where the Banshee was not changing target after killing a player in Nightmare
+*Fixed a bug where drawing 'The Tower' card at the same time a hunt starts would cancel it
+*Fixed a bug where the Ouija Board would not play a sound on the first letter movement
+*Fixed a bug where the ghost could not turn on and off lights when the host was dead
+*Fixed a bug where the other players photo camera screens would turn on when they walked out of the truck (this is intentional for performance reasons)
+*Fixed a bug where the ghost would sometimes think you still had a photo camera in your hand during a hunt if you dropped it
+*Fixed a bug where ghost's wouldn't notice you holding a photo camera during a hunt (if the host was in the truck when you grabbed it)
+*Fixed a bug where lightning only struck once during heavy rain
+*Fixed a bug where rain and snow effects would turn on and off when another player walked in and out of the truck
+*Fixed a bug where lights in several maps did not play sounds or particle effects when smashed by a ghost
+*Fixed a bug where asking to play "hide and seek" with the Ouija board would restart the hunt if one already started during the countdown
+*Fixed a bug where having equipment turned on in your inventory would speed up the Raiju during a hunt
+*Fixed an issue where you could spam light switches to force the Mare's ability
+*Fixed an issue where some blocked hiding spots in Bleasdale and Grafton were stopping you from interacting with certain objects
+*Potential fix for the ghost not always showing in ghost photos taken by other players
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.5.2.0]]
+[[ru:0.5.2.0]]

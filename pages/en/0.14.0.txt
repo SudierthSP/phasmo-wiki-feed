@@ -1,0 +1,45 @@
+# 0.14.0
+# revid 23896  2026-06-28T21:36:45Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 e084cc5577ed91fbf2c41fd9fd44987570399cd5c60a60013164d42ba6b4905f  bytes 2381
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | image1=Grafton Rework.jpg
+ | official_name=Grafton Rework
+ | release_date=12 August 2025
+ | previous_major_version=[[0.13.0]]
+ | previous_minor_version=[[0.13.1.1]]
+ | next_minor_version=[[0.14.0.1]]
+ | next_major_version=[[0.15.0]]
+}}'''0.14.0''', also known as the '''Grafton Rework''' update, is a major update released on 12 August 2025.<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-grafton-rework-outnow ''Grafton Farmhouse Rework - Phasmophobia v0.14.0.0'']</ref> It features an overhaul of [[Grafton Farmhouse]].
+
+==Additions==
+*'''Grafton Farmhouse:''' The Grafton Farmhouse location has received a complete visual overhaul with new assets, slight adjustments to the layout as well as new environment features such as weather being visible inside the location due to open walls/roofs and more;
+**Rethemed and resized rooms
+**A new top floor (attic) added to the map.
+**New interactions can be found throughout the map - happy exploring, Ghost Hunters.
+*With the addition of mannequins in Grafton Farmhouse that can be interacted with by the ghost, the mannequin found in Bleasdale Farmhouse is now also interactable.
+*Grafton Farmhouse and Bleasdale Farmhouse now have unique Key models in the Truck.
+*The new "Farmhouse Fieldwork" challenge has been added to the Event Board.
+**Ghost Hunters will be tasked with identifying ghosts in both Grafton Farmhouse and Bleasdale Farmhouse.
+
+==Changes==
+*Challenge mode for the week starting 11th August will be Do As I Command but for Grafton Farmhouse instead of Sunny Meadows.
+*Camping stoves are now turned on and off via the switch on the front of the stove, rather than the stove itself.
+
+==Fixes==
+*Fixed an issue that caused recording the Obake shapeshfiting was harder than intended.
+*Fixed an issue that prevented the ghost from being able to interact with hanging light bulbs in Farmhouse maps.
+*Slight performance improvements on Bleasdale Farmhouse.
+
+==Known Issues==
+*Mannequins in Grafton Farmhouse may spawn close to walls/objects, causing clipping.
+*If the player stands in a wardrobe, with the door fully open, visuals issues with the map may occur.
+*Uneven collision on the piano may cause the player to get stuck.
+*Items placed on beams above the front door in Grafton may become lost.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.14.0]]
+[[ru:0.14.0]]

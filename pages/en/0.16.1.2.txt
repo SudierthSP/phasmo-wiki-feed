@@ -1,0 +1,28 @@
+# 0.16.1.2
+# revid 23906  2026-06-28T21:37:29Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 df480c1daf0fc538b360ff55402097c81609212f8b89abafcb502e5ebde79c71  bytes 816
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| release_date=13 April 2026
+| previous_major_version=[[0.16.0]]
+| previous_minor_version=[[0.16.1.1]]
+| next_minor_version=
+| next_major_version=[[0.17.0]]
+}}'''0.16.1.2''' is a minor update released on 13 April 2026.<ref>[https://www.kineticgames.co.uk/news/phasmophobia-cursed-hollow-v01612 ''Phasmophobia - Cursed Hollow v0.16.1.2''. 13 April 2026.]</ref> It fixes map issues.
+
+==Fixes==
+*Fixed several issues on the below maps that caused issues with ghost traversal and bone spawn locations:
+**[[Camp Woodwind]]
+**[[Maple Lodge Campsite]]
+**[[Brownstone High School]]
+**[[Grafton Farmhouse]]
+**[[Sunny Meadows Mental Institution|Sunny Meadows]]
+**[[10 Ridgeview Court]]
+**[[13 Willow Street]]
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.16.1.2]]
+[[ru:0.16.1.2]]

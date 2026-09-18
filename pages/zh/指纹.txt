@@ -1,0 +1,5 @@
+# 指纹
+# revid 2971  2023-08-12T12:52:16Z  by Qsefthuopq
+# 备注: 重定向页面至[[紫外线]]
+# sha256 54d904e88aa9969875ce3175de237c994cfe379d2ef2adbd287b9d1ba4558361  bytes 23
+# 源: https://phasmophobia.fandom.com/zh/api.php#redirect [[紫外线]]

@@ -1,0 +1,121 @@
+# Player
+# revid 24464  2026-08-18T08:25:54Z  by Pikachufan2010
+# sha256 c6c10db3626660d65c58d58ebb2086de8b33f1050745523002050730064e76c3  bytes 7138
+# 源: https://phasmophobia.fandom.com/api.phpThe '''player''' is the main character being controlled in ''Phasmophobia''.
+
+==Carrying items==
+Non-VR players can carry up to 4 pieces of [[equipment]], including one special slot for [[Igniter|igniters]].<!-- Verify: VR players cannot open doors while holding items in both hands.-->
+
+==Movement==
+By default, the player {{Control|walks}} at 1.6 m/s, and can {{Control|sprint}} at 3 m/s for a maximum of 3 seconds. The sprint stamina regenerates at the same frequency as its depletion 2 seconds after the player stops sprinting. If the sprint stamina is completely depleted, the player must wait 5 seconds before being able to sprint again. Sprinting and player speed can be customised via custom [[difficulty]] settings. VR players also have the option of a "teleport circle" (point-and-trigger) which allows for moving a short distance at a time. The player's stamina does not decrease if the sprint key is held down without simultaneously pressing a movement key.<!-- VR players can use the teleport circle to bypass the cooldown.-->
+
+==Interaction==
+Players can {{Control|pick up}} or {{Control|interact}} with objects within 1.6 metres. They can grab [[door]]s within 3 metres.
+
+==Death==
+{{Main|Death}}
+A player dies if their collision box collides with the [[ghost]] (or a "kill area"), while there is line-of-sight. Once dead, they can only pick up items that are not considered equipment, and will see the world covered in a grey fog. Dead players can sprint infinitely.
+
+==Player model==
+On the player, there are six points, three on the head and three on the legs, that are used to determine whether the ghost has line-of-sight with the player during a [[hunt]]. These are anchored to the player's point-of-view, and not the actual model that is visible. If the ghost can see either all three points on the head or all three points on the legs, the ghost is considered to have line-of-sight with the player.
+
+Players can change between 12 characters available in the [[shop]]. Multiple players can select the same model in the same lobby.
+{| class="fandom-table" align="center"
+!Character Name
+!Model
+!Description
+|-
+|'''Amir Kelly'''
+|[[File:AmirKelly.png|200px]]
+|As a hacker who was most comfortable behind a computer screen, Amir was told to get a job and get a life. Somehow he's blundered into the former; the latter is still a work in progress.
+|-
+|'''Nic Karlsen'''
+|[[File:NicKarlsen.png|200px]]
+|A softspoken Professor of Parapsychology, whose beliefs were never taken seriously, has finally found a place where they are. The only thing that's stuck from his past is his nickname, 'Professor Spooky'... No, he did not choose it himself.
+|-
+|'''Vince Ravenhill'''
+|[[File:VinceRavenhill.png|200px]]
+|After being wrongly accused, Vince has finally made it out of prison and is looking for a second chance at life. GHD was one of the few places to offer him one. Miraculously, his golden-retriever personality survived life behind bars – but will it survive the paranormal?
+|-
+|'''Robin Byrne'''
+|[[File:RobinByrne.png|200px]]
+|One-part gifted kid, two-parts devil's advocate, Robin is cocky guy who actually has the smarts to back it up. He's currently trying to figure out what on earth to do with his life... By putting it on the line.
+|-
+|'''Bryce Noble'''
+|[[File:BryceNoble.png|200px]]
+|The unspoken leader of the group, Bryce is looking for any excuse to postpone his return to civilian life after forced 'retirement' from the army.
+|-
+|'''Dustin Park'''
+|[[File:DustinPark.png|200px]]
+|'You never take anything seriously!' is the constant complaint from Dustin's mom. Unfortunately, he's too unbothered to listen. Curiously though, this is the second time he's banked a high-stakes job... Perhaps he cares more than he'd admit?
+|-
+|'''Winona Fields'''
+|[[File:WinonaFields.png|200px]]
+|A sceptic to the core, Winnie will believe things when she sees them – and even then, she'll probably need extra proof. Now she's found a myth she can't debunk, and she can't decide whether this is freeing or terrifying.
+|-
+|'''Kira Calçada'''
+|[[File:KiraCalçada.png|200px]]
+|Whimsical and imaginative, Kira is used to being seen as unconventional. A lot of people think her head is in the clouds, but she's more perceptive than you'd think.
+|-
+|'''Grace Xu'''
+|[[File:GraceXu.png|200px]]
+|Grace – if that is in fact her real name – is a mystery. Even Evie, a Former Intelligence Agent, finds her hard to read. Rumors have it that she has a dark past; given how unphased she is by this job, it's likely she's seen far worse.
+|-
+|'''Evie Petrova'''
+|[[File:EviePetrova.png|200px]]
+|Fuelled by spite and determination, Evie is a force to be reckoned with. She believes whatever you do, you'd better do it well... And that includes ghost hunting. The closest thing to a 'responsible adult' you'll find in a workplace like this.
+|-
+|'''Meg Marrs'''
+|[[File:MegMarrs.png|200px]]
+|Meg and her friends used to run a fake ghost busting business – what some might call a scam, Meg saw as a 'placebo treatment'. When they discovered ghosts were actually real, all her friends freaked out and quit. Meg was the only one who saw it as a chance to double down.
+|-
+|'''Zara Doshi'''
+|[[File:ZaraDoshi.png|200px]]
+|'Bubbly' and 'Mortician' don't typically go together, but then again Zara isn't your average person. Compassionate towards both the dead and the living, Zara is here to make a difference.
+|}
+
+==Related difficulty settings==
+{{Main|Difficulty}}
+*'''Sprinting:''' The ability to sprint
+*'''Player speed (%):''' How quickly players move
+
+==Trivia==
+*The character models before [[0.17.0]] came from the pre-made characters collection of the Adobe Fuse character creation software. Being royalty-free, derivatives from those same character models can be found in many other Unity-based games.
+
+==Gallery==
+The character models before 0.17.0:
+<gallery captionalign="center" widths="185">
+Schnucki.jpg|A blond haired Caucasian male character wearing a bluish shirt
+Lookie.png|A brown-haired Hispanic female character wearing a dark shirt
+Measurie.jpg|A brown-haired Caucasian female character wearing a white shirt
+Talkie.jpg|A brown-haired Caucasian male character wearing a tan shirt
+Shortie.jpg|A black-haired Asian female character wearing a grey shirt
+Oldie.png|A brown-haired Caucasian male character wearing a brown sweater and dark shirt
+Luminari.png|A black-haired African female character wearing a dark shirt
+Bookie.png|A black-haired African male character wearing a dark sweater and white shirt
+</gallery>
+
+==History==
+{| class="fandom-table"
+! colspan="2" | Early Access
+|-
+! rowspan="2" |[[0.3.0]]
+|Increased the walking and sprint speed to 1.6 m/s and 3 m/s respectively.
+|-
+|Players can now sprint for only 3 seconds at a time.
+|-
+![[0.4.0]]
+|The player collision box now shortens when crouching.
+|-
+! rowspan="2" |[[0.6.0]]
+|Dead players can now sprint infinitely.
+|-
+|Added eyelashes to the player model.
+|-
+![[0.17.0]]
+|Added 12 new, higher quality character models (6 male, 6 female) with character bios, adjustable hair colour and more.
+|}
+
+[[Category:Gameplay]]
+[[fr:Joueur]]
+[[ru:Игрок]]

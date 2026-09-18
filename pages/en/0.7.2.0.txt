@@ -1,0 +1,61 @@
+# 0.7.2.0
+# revid 23973  2026-06-28T21:42:27Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 ed56cba812cbb795770a3cb21fb361cd911a339a325babc27c35baf4ba7535e2  bytes 3301
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version|
+ | release_date=4 November 2022
+ | previous_major_version=[[0.7.0]]
+ | previous_minor_version=[[0.7.1.5]]
+ | next_minor_version=[[0.7.3.0]]
+ | next_major_version=[[0.8.0]]
+}}'''0.7.2.0''' is a minor update released on 4 November 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3435710744921094844 Apocalypse | Update v0.7.2.0]</ref> This update removes the Halloween challenge, adds the option to opt out of analytics, and fixes bugs.
+
+== Additions ==
+* Added a button in the journal to see the Unity privacy policy as well as a button to opt out of Analytics, opting out is permanent
+* Added Catalan language support for text and voice recognition
+
+== Changes ==
+* The bone will now spawn anywhere the ghost can walk to prevent it getting into unreachable locations
+* The Halloween event has now been removed and the trophy can no longer be completed
+
+== Bug fixes ==
+;General
+* Player map icons now work in Camp Woodwind
+* When loading into a game, you will now be forced to the loading screen
+* Locker in Bleasdale will no longer always be blocked
+* If you fall out of the map in Camp Woodwind you will now always be teleported back into the map
+* The ghost writing book will no longer count as an electronic
+* Leaving training through the journal will no longer give you an error screen
+* The "Complete objectives in" text will now have a space between it and the map name
+* The “Cursed Possessions” journal title will no longer go on two lines in some languages
+* The animation of the alarm clock will now work correctly
+* The banshee will now set a new target after the target dies and when you draw a hanged man
+* Fuse box sounds no longer play twice when used
+* Fires should no longer fail when flickering
+* Post game tabs now highlight to show you which tab is currently open
+* Potential fix for save files corrupting when the game crashes
+* Banshees will no longer attempt to walk outside if their target is outside
+* Fixed an issue which caused the ghost to navigate too often outside of its favourite room as well as making the ghost orb spawn outside of the room
+* Fixed safe spots and areas you could get stuck across several maps
+* The haunted mirror will no longer turn on if your inventory is full and you attempt to grab it
+* VR players can now teleport onto the debris on Sunny Meadows with teleport locomotion
+* Fixed an issue where tall VR players would collide with an object near the main menu board
+* Fixed the floating talk button in VR
+* Grabbing the VR journal or VR walkie talkie with both hands at the same time will no longer make it very large
+* The VR UI pointer will no longer clip through the journal, when the shop tv is behind it
+* The VR walkie talkie will no longer stay on if you drop it while using it
+* Doors will no longer change size when grabbed by a VR player
+* VR Players will now drop all items when they die or disconnect
+* You can no longer grab VR players belt equipment
+
+;[[Sunny Meadows Mental Institution]]
+* The ghost will no longer stop interacting if it tries to knock on a fallen down door 
+* The washing machine animation now works more than once 
+* The washing machine doors are now synced in multiplayer
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.7.2.0]]
+[[ru:0.7.2.0]]

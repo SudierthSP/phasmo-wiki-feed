@@ -1,0 +1,391 @@
+# 通灵盒
+# revid 4141  2026-05-12T19:26:41Z  by FavoriteStarling422
+# 备注: /* 目前有大概率出現無法麥克風無法收音的問題 */
+# sha256 1b4ff9fd6fe5ffc20795787d64fef2fd180420d1c459ebd45e1199dcdff6f096  bytes 10214
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+ | tier i img=SpiritBox090 T1.png
+ | tier ii img=SpiritBox090 T2.png
+ | tier iii img=SpiritBox090 T3.png
+
+ | price=50
+ | maxamount=2
+ | uses=
+ | starter=是
+ | tier i level=
+ | tier ii level=27
+ | tier iii level=54
+
+ | tier i description=一台老式的FM/AM收音机。它小巧紧凑，但音质不是很好。
+ | tier i purpose=打开这个通灵盒时，它会开始扫描不同的无线电频率。确保站在超自然活动附近，关闭该房间的任何灯光，并提出问题。<br>如果鬼听到问题，通灵盒会闪烁红光；如果闪烁白光，那就是鬼回应了。<br>试试问“你在哪？”或“你友善吗？”。请注意，鬼的回应可能不会让你喜欢。
+ | tier i ability=+ 范围（米）：3<br>- 音频质量：低<br>-回复速度：低<br>-电子设备
+ | tier ii description=P-SB7T通灵盒专门用于与未知之物沟通。背光屏幕方便在黑暗中使用。
+ | tier ii purpose=这款更现代化的通灵盒配备了更高质量的扬声器，扫描频率更加高效，因此鬼魂更容易回应。<br>如果鬼听到提问，屏幕上会闪烁黑色的X，如果得到回应，鬼魂图标会闪烁。
+ | tier ii ability=+ 范围（米）：4<br>+ 音频质量：中<br>+ 回复速度：中<br>+ 显示屏幕<br>- 电子设备
+ | tier iii description=SB11-Z是一款更大的通灵盒，能够同时扫描两个频率通道。
+ | tier iii purpose=开启后，这款通灵盒会同时扫描两个频率的无线电信号，增加在提问后捕捉回应的几率。它还配备了内置的噪音滤波器，减少静电声。<br>如果鬼听到问题但没有回应，RESPONSE指示灯会闪烁红光。如果有回应，指示灯会发出声音而闪烁白光。
+ | tier iii ability=+ 范围（米）：5<br>+ 音频质量：高<br>+回复速度：高<br>-电子设备
+}}''"'''''当你用通灵盒提问时，只有某些鬼魂会回应。用通灵盒时请关灯。'''''"''
+
+通灵盒是一件用于寻找通灵盒证据的[[装备]]。它会不断循环无线电频率并发出白噪声，以此来与鬼魂交流。
+
+==用法==
+为获得通灵盒回应，你需要：
+
+*在调查区域内，[[枫林营地]]地图需要进入木门，其他地图需要进入房屋。
+*鬼魂在玩家附近，为通灵盒的起效范围之内。
+*关闭房间光源（除了装备发出的光，比如手电筒、紫外线灯光、火光、运动传感器和点阵投影仪）。其它房间的光源可以开启，不需要关房门。
+*要求单人回应的鬼魂只在房间里有一个人时才会回应。并不表示说只会回应团队中的其中一个人。
+
+语音输入方式设定为按键说话或切换时，按局部通话按键会让麦克风图标发亮，显示游戏在聆听：
+*一级：麦克风指示亮红光
+*二级：显示屏幕左上角麦克风图标闪烁黑色
+*三级：MIC INPUT 指示灯发亮
+这不一定代表游戏听的到玩家。语音输入模式为语音激活时，发亮则显示游戏听得到玩家的语音。
+
+如果游戏成功辨识语句，通灵盒会有以下结果：
+*一级：鬼魂图标旁闪烁红光表示鬼听到问题但没回应，闪烁白光表示有回应
+*二级：闪烁黑色的 X 表示鬼听到问题但没回应，闪烁黑色的鬼魂图标表示有回应
+*三级：RESPONSE 指示灯闪烁红光表示鬼听到问题但没回应，闪烁白光表示有回应
+回应几率根据通灵盒等级提升。除了通灵盒显示以外，也会听到鬼魂回应。
+
+没回应的原因可能有：未满足以上的要求、运气不好、鬼魂没通灵盒证据。
+
+站在在扔地上的已开启通灵盒附近提问也能获得回应。如果游戏未检测到任何麦克风输入，玩家在附近按局部通话或使用语音感测模式时，通灵盒每 10 秒随机自动提问。 
+
+作为一件初始装备，每次游戏都会提供 1 个免费的通灵盒。
+
+作为一件电子设备，鬼魂现身或猎杀时会将 10 米内的通灵盒闪烁。
+
+*即使现身或猎杀时，也能得到回应，但通灵盒上的显示可能不准确，需要依靠听力确认。猎杀时也是很危险的动作。
+
+在鬼魂猎杀时 7.5 米内手持开着的通灵盒会吸引鬼魂。
+
+推荐找到鬼魂房间后尽快使用通灵盒，以降低猎杀风险。
+
+[[雾影]]在玩家的 1 米内时，有 33% 几率以沉重的呼吸声回复。<ref>[https://www.youtube.com/watch?v=Zm2w4X-TU2c ''Phasmophobia Deogen new spirit box sound!'' from Shuee 01 (on YouTube)]</ref>
+
+==可能的鬼魂==
+{| class="article-table"
+|+
+|[[梦魇]]
+|通灵盒
+|[[灵球]]
+|[[鬼魂笔迹]]
+|-
+|[[幻影]]
+|通灵盒
+|[[点阵投影仪]]
+|[[指纹]]
+|-
+|[[骚灵]]
+|通灵盒
+|[[指纹]]
+|[[鬼魂笔迹]]
+|-
+|[[魂魄]]
+|通灵盒
+|[[EMF 5级]]
+|[[鬼魂笔迹]]
+|-
+|[[魅影]]
+|通灵盒
+|[[点阵投影仪]]
+|[[EMF 5级]]
+|-
+|[[妖怪]]
+|通灵盒
+|[[点阵投影仪]]
+|[[灵球]]
+|-
+|[[孪魂]]
+|通灵盒
+|[[EMF 5级]]
+|[[刺骨寒温]]
+|-
+|[[拟魂]]
+|通灵盒
+|[[指纹]]
+|[[刺骨寒温]]
+|-
+|[[怨灵]]
+|通灵盒
+|[[灵球]]
+|[[刺骨寒温]]
+|-
+|[[雾影]]
+|通灵盒
+|[[点阵投影仪]]
+|[[鬼魂笔迹]]
+|}
+
+==问题类型==
+你可以询问三种类型的问题：
+
+*攻击性
+*位置
+*年龄
+
+攻击性问题通常会得到凶残的回应。<br>位置问题可得到鬼魂是否在房间内的信息。<br>年龄问题会得到鬼魂年龄信息（鬼魂模型是随机的，不受年龄影响）。
+
+语句可在[https://phasmophobia-matrix.com/zh-CN/ Matrix网站]查看。
+===攻击性问题===
+{| class="fandom-table"
+|What do you want?
+|你想要什么？
+|-
+|Why are you here?
+|你为什么在这？
+|-
+|Do you want to hurt us?
+|你想伤害我们吗？
+|-
+|Are you angry?
+|你生气吗？
+|-
+|Do you want us here?
+|你要我们在这里吗？
+|-
+|Shall we leave?
+|我们要离开吗？
+|-
+|Should we leave?
+|我们该离开吗？
+|-
+|Do you want us to leave?
+|你想让我们离开吗？
+|-
+|What should we do?
+|我们应该做什么？
+|-
+| Can we help?
+|我们可以帮你吗？
+|-
+|Is anything wrong?
+|有什么问题吗？
+|-
+| Are you friendly?
+|你友善吗？
+|}
+
+'''回应'''
+{| class="fandom-table"
+!回复分类
+!数量
+!例子
+|-
+|攻击
+|6
+|
+*...getting '''attacked''' has left a...
+*...an '''attack''' was...
+|-
+|死亡
+|7
+|
+*...in a tragic '''death'''...
+*...person '''died''', and...
+*...playing with '''death'''...
+|-
+|怨恨
+|6
+|
+*...act of '''hate''' reverberated...
+*...possible '''hate''' crime...
+|-
+|受伤
+|6
+|
+*left '''hurt''' after a destruct...
+*...'''injured''' in a...
+|-
+|杀
+|6
+|
+*...active '''killing'''...
+*...tragic '''killing''', a...
+|}
+
+===位置问题===
+你得到的回应与鬼魂位置有关，这取决于你离鬼多远，是否在相同或相邻房间。
+{| class="fandom-table"
+|Where are you?
+|你在哪里？
+|-
+|Are you close?
+|你在附近吗？
+|-
+| Can you show yourself?
+|你能现身吗？
+|-
+| Give us a sign.
+|给我们个信号。
+|-
+|Let us know you are here.
+|让我们知道你在这里。
+|-
+|Show yourself.
+|现身吧。
+|-
+|Can you talk?
+|你现在方便说话吗？
+|-
+|Speak to us.
+|和我们说话。
+|-
+|Are you here?
+|你在这里吗？
+|-
+|Are you with us?
+|你和我们在一起吗？
+|-
+|Anybody with us?
+|有人和我们在一起吗？
+|-
+|Is anyone here?
+|有人在吗？
+|-
+|Anybody in the room?
+|房间里有人吗？
+|-
+|Anybody here?
+|有人在吗？
+|-
+|Is there a spirit here?
+|这里有鬼魂吗？
+|-
+|Is there a Ghost here?
+|这里有鬼吗？
+|-
+|What is your location?
+|你在什么位置？
+|}
+
+'''回应'''
+{| class="fandom-table"
+!距离
+!回复分类
+!数量
+!例子
+|-
+| rowspan="2" |3米内
+|附近
+|6
+|
+*...a '''close''' encounter...
+*...were '''close''' to an abandoned...
+*...in a '''close'''-knit community...
+|-
+|后面
+|6
+|
+*...from '''behind''', unsuspectingly...
+*...from '''behind''', leaving...
+|-
+| rowspan="2" |3 - 5米内
+|远离（away）
+|6
+|
+*...I was taken '''away''', then...
+|-
+|远处（far）
+|7
+|
+*...the '''far'''-reaching...
+*...found '''far''' from their home...
+*...'''far''' and wide...
+|}
+
+===年龄问题===
+提示：鬼魂模型与年龄无关。
+{| class="fandom-table"
+|How old are you?
+|你多大了？
+|-
+|How young are you?
+|你有多年轻？
+|-
+|What is your age?
+|你几岁？
+|-
+|When were you born?
+|你是什​​么时候出生的？
+|-
+|Are you a child?
+|你是小孩吗？
+|-
+|Are you old?
+|你是老人吗？
+|-
+|Are you young?
+|你是年轻人吗？
+|}
+
+'''回应'''
+{| class="fandom-table"
+!回复分类
+!数量
+!例子
+|-
+|老
+|6
+|
+*...an '''elderly''' invidivual...
+*...an '''elderly''' victim...
+*...an '''elderly''' resident...
+|-
+|少
+|6
+|
+*...Of a '''young''' individual...
+*...When a '''young''' assailant...
+|}
+
+==='''其它'''===
+由于游戏的语音识别系统不完善，部分识别的句子可能会误解为完整的问题。问鬼无关的问题并不可靠。<br>
+以下部分内容仅为英文玩梗。<br>
+'''攻击性''' 
+
+*"Are you French?"
+*"Are you hungry?"
+*"What do you want to eat?"
+*"Do you want to build a snowman?"
+*"Do you want to watch Spongebob?"
+
+'''位置'''
+
+*"Are you [https://en.wikipedia.org/wiki/Casper_the_Friendly_Ghost Casper]?"
+*"Yourself?"
+
+'''年龄'''
+
+*"Are you bored?"
+
+==已知漏洞==
+
+=== 目前有大概率出現無法麥克風無法收音的問題 ===
+收音系統異常將會大幅影響遊玩體驗，例：通靈盒、通靈板以及猴爪....等等
+
+收音異常之狀態包含但不僅限於：
+
+* 完全無法識別麥克風
+* 大廳內正常收音，遊戲內完全無法收音或是收音異常
+
+由於Phasmophobia 的語音系統初始化很脆弱，進而導致上述問題的存在，此BUG已存在多年尚未改善，嘗試修復可能會造成更嚴重之收音問題。
+
+==逸闻轶事==
+* 通灵盒回复语音为官方恐鬼症内容创造者（Content Creators）的台词录音。
+
+==画廊==
+<gallery>
+File:Spirit box new model.png|thumb|新版通灵盒模型
+File:Spirit box level 3 tease.png|thumb|名为"SB_level_3_tease"的另一个通灵盒模型
+File:Spirit Box Responce.png|鬼回复时显示的图标
+</gallery>
+==参考资料==
+{{Reflist}}
+
+{{Evidence nav}}
+{{EquipmentNav}}
+[[Category:装备]]
+[[Category:初始装备]]
+[[en:Spirit_Box]]

@@ -1,0 +1,27 @@
+# 0.9.0.2
+# revid 18212  2024-06-19T01:30:04Z  by Justf0cus420
+# sha256 3dc87a16b316507d651790a414ab377f715fb3e3170e49651888051e82696251  bytes 1119
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=20 August 2023
+  | previous_major_version=[[0.9.0]]
+  | previous_minor_version=[[0.9.0.1]]
+  | next_minor_version=[[0.9.0.3]]
+|next_major_version=[[0.10.0]]}}'''0.9.0.2''' is a patch released on 20 August 2023.<ref>[https://store.steampowered.com/news/app/739630/view/3655287211045440641?l=english ''Ascension | Hotfix v0.9.0.2''. 20 August 2023 (on Steam).]</ref> It fixes some issues from the release of 0.9.0.1.
+==Changes==
+
+* Save files will now be backed up more often
+
+==Fixes==
+
+* If you have a corrupt save file you will no longer get stuck on initializing and will now revert to your cloud backup
+* Non hosts will no longer crash when a player leaves the game
+* When you play this update for the first time you should no longer have a low legacy level on your legacy badge
+
+To clear up some confusion with legacy badge, your badge can currently only be seen in multiplayer by another player on your character. This will change in a future update when we add new character models.
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.9.0.2]]
+[[ru:0.9.0.2]]

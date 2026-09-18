@@ -1,0 +1,85 @@
+# Head Gear
+# revid 21395  2025-07-04T17:34:08Z  by Darkhooper
+# 备注: tier 2 and 3 unlock levels
+# sha256 12855e1acb9cd18963bf465c1c5f380196b8c58b662f43ac61394c3cffdc14a2  bytes 6028
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=HeadGear090_T1.png
+ | tier ii img=HeadGear090_T2.png
+ | tier iii img=HeadGear090_T3.png
+
+ | price=$60
+ | maxamount=4
+ | uses=1
+ | starter=No
+ | tier i level=13
+ | tier ii level=42
+ | tier iii level=80
+
+ | tier i description=A GhostPro camera mounted to a set of head straps, not the most fashionable, but it’s useful.
+ | tier i purpose=Strapping this small camera to your head allows your teammates to watch a live video feed of your view from the safety of the truck, great for multitasking and catching things that you may miss!<br><br>To toggle the device on and off, hold the Special keybind for a couple of seconds.
+ | tier i ability=<span style="color: #008000;">Image Quality: Medium<br>Paranormal Interference: Low<br>Head Slot</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier ii description=The straps are stronger, and the camera has been replaced with a small LED flashlight
+ | tier ii purpose=A small head-mounted flashlight that doesn’t take up an inventory slot. The only downside being the light isn’t overly bright or wide.<br>You can toggle it on and off by holding the Special keybind for a short period.
+ | tier ii ability=<span style="color: #008000;">Intensity: Medium<br>Head Slot<br>Spotlight</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier iii description=Used by the military, these goggles allow you to see things the naked eye can’t.
+ | tier iii purpose=A pair of Night Vision goggles, allowing you to see in the dark without the need for a flashlight.<br>Be warned though, your vision may get distorted if within range of an active ghost, rendering the goggles useless.<br><br>To toggle the device on and off, hold the Special keybind for a couple of seconds.
+ | tier iii ability=<span style="color: #008000;">Paranormal Interference: High<br>Head Slot<br>Night Vision</span><br><span style="color: #ff0000;">Electronic</span>
+}}
+
+The '''Head Gear''' is a type of [[equipment]] in Phasmophobia. Its specific function varies based on its equipment tier, though generally it improves the ability to investigate without a [[Flashlight]].
+
+==Usage==
+{{Control|Picking up}} a head gear will put it on the player's head. The head gear can be toggled on or off by holding the {{Control|Special}} key for a couple of seconds. It can be {{Control|placed}} back at any time. Worn Head Gear does not take up an inventory slot. The camera's display moves relative to the direction that the player's model is facing.   
+
+Activated Head Gear will attract the ghost during [[hunt]]s, similar to other electronic equipment.   
+
+==Mechanics==
+===Tier I===
+Tier I Head Gear is the '''Head Mounted Camera'''. When activated, it functionally serves as a portable [[Video Camera]], and can be used to help teams track each other and to see [[Ghost Orb]]s. Although useless when playing alone, they can be handy in a team with an observer in the [[Truck]].
+
+Like with regular video cameras, Head Mounted Cameras can switch between visual and night-vision modes at the [[Computer]], and can be used to detect Ghost Orbs when in night vision mode. They are also handy for monitoring players who have to be alone to get [[ghost]] responses, such as when using a [[Spirit Box]], and are very useful for guiding players around larger maps, especially in the dark, since the player in the truck can see with night vision mode even if all the lights in the location are out, as well as having access to the [[Site Map]].
+
+When the player equips the Tier I Head Gear, the player can see a big box-like object above the field of view. If it is activated, a red indicator light will start to blink.
+
+===Tier II===
+Tier II Head Gear is the '''Head Lamp'''. When activated, it provides a light source emanating from the player's head, with comparable power and illumination to the Tier I Flashlight. 
+
+The Tier II Head Gear is not visible in the player's field of view unless the player starts to sprint. Even while sprinting, the player can hardly see a part of it.
+
+===Tier III===
+Tier III Head Gear is the '''Night Vision Goggles.''' When activated, it brightens visibility substantially, painting the player's view light green and allowing them to see in the dark, at the expense of added film grain, lowered render scale, and a slight fish-eye effect, altogether reducing the player's ability to see as far as they could have, and clearly.
+
+The display through Tier III Head Gear is a filter through normal vision, rather than a proper separate display as seen in a [[Video Camera]] in night-vision mode; an active [[UV Light]] will project a definite purple light, when through the video camera's night vision it would be white like from a (visible light spectrum) Flashlight, and Ghost Orbs cannot be seen through just the view provided by the goggles.
+
+The Tier III Head Gear filters out red lights. This makes [[EMF Level 5]] on a Tier II [[EMF Reader]] appear identical to EMF 4, or the [[Spirit Box]]'s red lights to not be visible.
+
+When the player equips the Tier III Head Gear, the player can see a big goggle-like object above the field of view.
+
+==Trivia==
+*The Tier I Head Gear appears to be closely modeled on a GoPro Hero 4 Silver Edition.
+*The Tier III Head Gear is likely modeled after the real life Sightmark SM15070 "Ghost Hunter" Night Vision Goggles.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+! rowspan="2" |[[0.9.0]] 
+|Head Mounted Cameras were renamed to Head Gear.
+|-
+|The Head Gear now has 3 tiers.
+|-
+! rowspan="3" |[[0.10.0]]
+|A customizable keybinding has been added to the Controls page for turning on and off Head Gear.
+|-
+|Turning Head Gear I on and off will now play different sounds to help know which state the equipment is in.
+|-
+|While within range of a ghost event or hunting ghost:
+* Tier III will now have visual interference
+* All tiers will now play a new sound
+|-
+|}<br>
+
+{{Equipment nav}}
+[[Category:Equipment]]
+[[fr:Équipement de tête]]
+[[ru:Крепление на голову]]

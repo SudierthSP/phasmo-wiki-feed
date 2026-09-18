@@ -1,0 +1,511 @@
+# 挑战模式
+# revid 3728  2025-02-09T12:25:31Z  by Skaijie
+# sha256 a4888a3ea51cef3fbb46ae5a666941ca329ef1607a3542b940731d6b951dd5ca  bytes 34869
+# 源: https://phasmophobia.fandom.com/zh/api.php'''挑战模式'''是[[0.8.1.0]]新增的模式。玩家可参与官方制定的[[难度]]，通常以专家难度作为基础而调整设定和装备。玩家无需自带装备，所以[[死亡]]并没有任何货币危险，以便玩家可尝试各种游戏策略。
+
+挑战模式的奖励调整数默认设定为 1x，无论挑战有多难。[[每日和每周任务|每周任务]]包括在指定地图完成挑战，每周完成这个任务可获得 $5，000 和 5，000 XP。挑战模式可在任何地图游玩，但只有在指定地图游玩才能完成每周任务。
+
+[[阳光牧场精神病院]]的每周任务不能在限制区版的地图完成任务，反之亦然。
+
+目前共有 26 种挑战模式，每周星期一 00：00 （UTC）刷新。于{{CURRENTYEAR}}年{{CURRENTMONTHNAME}}{{CURRENTDAY}}日（UTC），挑战是{{CurrentChallenge}}。
+==挑战==
+{| class="fandom-table" 
+!号
+!挑战
+!描述
+!与专家模式的差距
+!地图
+|-
+|1
+|黑灯瞎火
+|准备好蜡烛，无法打开所有灯光！
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*[[电闸]]损坏
+*手电筒：关
+*开局敞开的[[门]]：高
+*[[八音盒]]
+
+*[[装备]]：
+**提供：[[File:Med090 T1.png|30px|link=理智药]] [[File:Igniter090 T2.png|30px|link=点火器]] [[File:FireLight090 T1.png|30px|link=火光]] [[File:Incense090 T1.png|30px|link=熏香]] [[File:Salt090 T1.png|30px|link=盐]] [[File:Crucifix090 T1.png|30px|link=十字架]] [[File:EMF090 T2.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T2.png|30px|link=相机]] [[File:SpiritBox090 T2.png|30px|link=通灵盒]] [[File:Thermometer090 T2.png|30px|link=温度计]] [[File:UV090 T1.png|30px|link=紫外线灯光]] [[File:WritingBook090 T2.png|30px|link=鬼魂笔记]] [[File:DOTS090 T2.png|30px|link=点阵投影仪]] [[File:VideoCamera090 T1.png|30px|link=摄像机]]
+**<u>缺失</u>： [[运动传感器]]、[[收音器]]、[[声音传感器]]、1 台相机、[[手电筒]]、[[三脚架]]
+|[[坦格活德街房屋]]
+|-
+|2
+|极速狂魔
+|空气中肯定有坏东西，导致人人疯狂！
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*[[玩家]]移速：150%
+*[[鬼魂]]移速：150%
+*鬼魂变更[[鬼魂房间]]几率：高
+*活动率：高
+*[[鬼魂事件]]率：高
+*开局敞开的门：高
+*[[猴爪]]
+
+*装备：
+**提供：[[File:HeadGear090 T1.png|30px|link=头戴设备]] [[File:Med090 T1.png|30px|link=理智药]] [[File:FireLight090 T1.png|30px|link=火光]] [[File:Parabolic090 T2.png|30px|link=收音器]] [[File:Incense090 T1.png|30px|link=熏香]] [[File:Salt090 T1.png|30px|link=盐]] [[File:十字架阶段.gif|30px|link=十字架]] [[File:SoundSensor090 T1.png|30px|link=声音传感器]] [[File:EMF090 T2.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T2.png|30px|link=相机]] [[File:SpiritBox090 T2.png|30px|link=通灵盒]] [[File:Thermometer090 T2.png|30px|link=温度计]] [[File:UV090 T2.png|30px|link=紫外线灯光]] [[File:WritingBook090 T2.png|30px|link=鬼魂笔记]] [[File:DOTS090 T2.png|30px|link=点阵投影仪]] [[File:Flash090 T2.png|30px|link=手电筒]] [[File:VideoCamera090 T2.png|30px|link=摄像机]] [[File:Tripod090 T1.png|30px|link=三脚架]]
+**<u>缺失</u>： 点火器、运动传感器
+
+|[[枫林营地]]
+|-
+|3
+|仅限侦探
+|这只鬼不会给出任何证据，考验你的侦查能力！
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*零证据
+*[[猎杀]]时间：中
+*游荡频率：中
+*变更鬼魂房间几率：中
+*活动率：中
+*[[通灵板]]
+
+*装备：
+**提供：[[File:HeadGear090 T2.png|30px|link=头戴设备]] [[File:Med090 T1.png|30px|link=理智药]] [[File:Igniter090 T1.png|30px|link=点火器]] [[File:MotionSensor090 T1.png|30px|link=运动传感器]] [[File:FireLight090 T1.png|30px|link=火光]] [[File:Parabolic090 T1.png|30px|link=收音器]] [[File:Incense090 T1.png|30px|link=熏香]] [[File:Salt090 T1.png|30px|link=盐]] [[File:Crucifix090 T1.png|30px|link=十字架]] [[File:SoundSensor090 T1.png|30px|link=声音传感器]] [[File:EMF090 T1.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T1.png|30px|link=相机]] [[File:SpiritBox090 T1.png|30px|link=通灵盒]] [[File:Thermometer090 T1.png|30px|link=温度计]] [[File:UV090 T2.png|30px|link=紫外线灯光]] [[File:WritingBook090 T1.png|30px|link=鬼魂笔记]] [[File:DOTS090 T1.png|30px|link=点阵投影仪]] [[File:Flash090 T1.png|30px|link=手电筒]] [[File:VideoCamera090 T1.png|30px|link=摄像机]] [[File:Tripod090 T1.png|30px|link=三脚架]]
+
+|[[埃奇菲尔德街房屋]]
+|-
+|4
+|捉迷藏：捉鬼
+|有个非常安静的鬼魂藏在某处，你能找到它吗？
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*无被动[[理智]]消耗
+*[[理智药]]恢复 35% 理智
+*友善的鬼
+*开局敞开的门：无
+*无躲藏点
+*游荡频率：中
+*鬼魂不能换鬼魂房间
+*鬼魂事件频率：低
+*无[[诅咒之物]]
+
+*装备：
+**提供：[[File:HeadGear090 T3.png|30px|link=头戴设备]] [[File:Med090 T3.png|30px|link=理智药]] [[File:Igniter090 T3.png|30px|link=点火器]] [[File:MotionSensor090 T3.png|30px|link=运动传感器]] [[File:FireLight090 T3.png|30px|link=火光]] [[File:Parabolic090 T1.png|30px|link=收音器]] [[File:Salt090 T3.png|30px|link=盐]] [[File:SoundSensor090 T2.png|30px|link=声音传感器]] [[File:EMF090 T2.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T3.png|30px|link=相机]] [[File:SpiritBox090 T2.png|30px|link=通灵盒]] [[File:Thermometer090 T3.png|30px|link=温度计]] [[File:UV090 T3.png|30px|link=紫外线灯光]] [[File:WritingBook090 T2.png|30px|link=鬼魂笔记]] [[File:DOTS090 T3.png|30px|link=点阵投影仪]] [[File:Flash090 T3.png|30px|link=手电筒]] [[File:VideoCamera090 T3.png|30px|link=摄像机]] [[File:Tripod090 T2.png|30px|link=三脚架]]
+**<u>缺失</u>： 熏香、十字架
+
+|[[褐石中学]]
+|-
+|5
+|躲猫猫：躲藏
+|这只鬼想玩游戏，最好赶快躲起来！
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*0% 初始理智
+*理智药不恢复理智
+*150% 被动理智消耗
+*所有躲藏点开放
+*1 分钟部署时间
+*5 秒猎杀徘徊期
+*击杀延长猎杀：高
+*游荡频率：低
+*鬼魂不能换鬼魂房间
+*活动率：高
+*鬼魂事件率：高
+*开局敞开的门：低
+*无诅咒之物
+
+*装备：
+**提供：[[File:Med090 T1.png|30px|link=理智药]] [[File:Igniter090 T2.png|30px|link=点火器]] [[File:MotionSensor090 T1.png|30px|link=运动传感器]] [[File:FireLight090 T3.png|30px|link=火光]] [[File:Incense090 T1.png|30px|link=熏香]] [[File:Salt090 T1.png|30px|link=盐]] [[File:十字架阶段.gif|30px|link=十字架]] [[File:SoundSensor090 T1.png|30px|link=声音传感器]] [[File:EMF090 T2.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T1.png|30px|link=相机]] [[File:SpiritBox090 T2.png|30px|link=通灵盒]] [[File:Thermometer090 T2.png|30px|link=温度计]] [[File:UV090 T2.png|30px|link=紫外线灯光]] [[File:WritingBook090 T2.png|30px|link=鬼魂笔记]] [[File:DOTS090 T2.png|30px|link=点阵投影仪]] [[File:Flash090 T2.png|30px|link=手电筒]] [[File:VideoCamera090 T1.png|30px|link=摄像机]] [[File:Tripod090 T1.png|30px|link=三脚架]]
+**<u>缺失</u>： 头戴设备、收音器
+
+|[[希望角灯塔]]
+|-
+|6
+|刺骨寒温
+|寒风凛冽，万物肃杀，人鬼皆慢
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*理智药恢复 100% 理智
+*玩家移速：75%
+*鬼魂移速：75%
+*猎杀时间：中
+*活动率：中
+*开局敞开的门：高
+*电闸损坏
+*降雪[[天气]]
+*无诅咒之物
+
+*装备：
+**提供：[[File:HeadGear090 T1.png|30px|link=头戴设备]] [[File:Med090 T3.png|30px|link=理智药]] [[File:MotionSensor090 T1.png|30px|link=运动传感器]] [[File:Parabolic090 T1.png|30px|link=收音器]] [[File:Salt090 T1.png|30px|link=盐]] [[File:十字架阶段.gif|30px|link=十字架]] [[File:SoundSensor090 T1.png|30px|link=声音传感器]] [[File:EMF090 T2.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T1.png|30px|link=相机]] [[File:SpiritBox090 T2.png|30px|link=通灵盒]] [[File:Thermometer090 T3.png|30px|link=温度计]] [[File:UV090 T2.png|30px|link=紫外线灯光]] [[File:WritingBook090 T2.png|30px|link=鬼魂笔记]] [[File:DOTS090 T2.png|30px|link=点阵投影仪]] [[File:Flash090 T2.png|30px|link=手电筒]] [[File:VideoCamera090 T2.png|30px|link=摄像机]] [[File:Tripod090 T1.png|30px|link=三脚架]]
+**<u>缺失</u>： 点火器、火光、熏香
+
+|[[林风营地]]
+|-
+|7
+|服从命令
+|你必须强迫鬼给出证据，幸好我们找到了一些额外物品来帮助你。
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*100% 被动理智消耗
+*理智药恢复 50% 理智
+*猎杀时间：低
+*2 秒猎杀徘徊期
+*鬼魂事件频率：低
+*开局敞开的门：高
+*所有租诅咒之物
+
+*装备：
+**提供：[[File:HeadGear090 T3.png|30px|link=头戴设备]] [[File:Med090 T3.png|30px|link=理智药]] [[File:Igniter090 T3.png|30px|link=点火器]] [[File:MotionSensor090 T3.png|30px|link=运动传感器]] [[File:FireLight090 T3.png|30px|link=火光]] [[File:Parabolic090 T3.png|30px|link=收音器]] [[File:Incense090 T3.png|30px|link=熏香]] [[File:Salt090 T3.png|30px|link=盐]] [[File:Crucifix090 T3.png|30px|link=十字架]] [[File:SoundSensor090 T3.png|30px|link=声音传感器]] [[File:EMF090 T3.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T3.png|30px|link=相机]] [[File:SpiritBox090 T3.png|30px|link=通灵盒]] [[File:Thermometer090 T3.png|30px|link=温度计]] [[File:UV090 T3.png|30px|link=紫外线灯光]] [[File:WritingBook090 T3.png|30px|link=鬼魂笔记]] [[File:DOTS090 T3.png|30px|link=点阵投影仪]] [[File:Flash090 T3.png|30px|link=手电筒]] [[File:VideoCamera090 T3.png|30px|link=摄像机]] [[File:Tripod090 T3.png|30px|link=三脚架]]
+
+|[[阳光牧场精神病院]]
+|-
+|8
+|龟兔赛跑：兔
+|全力以赴吧，感觉这个鬼特别弱。
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*玩家移速：125%
+*鬼魂移速：50%
+*开局敞开的门：高
+
+*装备：
+**提供：[[File:HeadGear090 T1.png|30px|link=头戴设备]] [[File:Med090 T1.png|30px|link=理智药]] [[File:Igniter090 T1.png|30px|link=点火器]] [[File:MotionSensor090 T1.png|30px|link=运动传感器]] [[File:FireLight090 T1.png|30px|link=火光]] [[File:Parabolic090 T1.png|30px|link=收音器]] [[File:Incense090 T1.png|30px|link=熏香]] [[File:Salt090 T1.png|30px|link=盐]] [[File:Crucifix090 T1.png|30px|link=十字架]] [[File:SoundSensor090 T1.png|30px|link=声音传感器]] [[File:EMF090 T1.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T1.png|30px|link=相机]] [[File:SpiritBox090 T1.png|30px|link=通灵盒]] [[File:Thermometer090 T1.png|30px|link=温度计]] [[File:UV090 T2.png|30px|link=紫外线灯光]] [[File:WritingBook090 T1.png|30px|link=鬼魂笔记]] [[File:DOTS090 T1.png|30px|link=点阵投影仪]] [[File:Flash090 T1.png|30px|link=手电筒]] [[File:VideoCamera090 T1.png|30px|link=摄像机]] [[File:Tripod090 T1.png|30px|link=三脚架]]
+
+|[[布莱斯代尔农舍]]
+|-
+|9
+|龟兔赛跑：龟
+|上周的工作让你感到些许疲惫，更糟的是，鬼来劲了！
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*玩家移速：75%
+*鬼魂移速：150%
+*猎杀时间：低
+*击杀延长猎杀：高
+*鬼魂变更鬼魂房间几率：高
+*活动率：高
+*开局敞开的门：高
+
+*装备：
+**提供：[[File:HeadGear090 T2.png|30px|link=头戴设备]] [[File:Med090 T2.png|30px|link=理智药]] [[File:Igniter090 T2.png|30px|link=点火器]] [[File:MotionSensor090 T2.png|30px|link=运动传感器]] [[File:FireLight090 T2.png|30px|link=火光]] [[File:Parabolic090 T2.png|30px|link=收音器]] [[File:Incense090 T2.png|30px|link=熏香]] [[File:Salt090 T2.png|30px|link=盐]] [[File:十字架阶段.gif|30px|link=十字架]] [[File:SoundSensor090 T2.png|30px|link=声音传感器]] [[File:EMF090 T2.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T2.png|30px|link=相机]] [[File:SpiritBox090 T2.png|30px|link=通灵盒]] [[File:Thermometer090 T2.png|30px|link=温度计]] [[File:UV090 T1.png|30px|link=紫外线灯光]] [[File:WritingBook090 T2.png|30px|link=鬼魂笔记]] [[File:DOTS090 T2.png|30px|link=点阵投影仪]] [[File:Flash090 T2.png|30px|link=手电筒]] [[File:VideoCamera090 T2.png|30px|link=摄像机]] [[File:Tripod090 T2.png|30px|link=三脚架]]
+**<u>缺失</u>： 2 个火光
+
+|[[格拉夫顿农舍]]
+|-
+|10
+|雷厉风行
+|无处躲藏，没有理智，即刻出发！
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*玩家移速：125%
+*鬼魂移速：125%
+*0% 初始理智
+*理智药恢复 0% 理智
+*无躲藏点
+*开局敞开的门：高
+*[[理智显示屏]]损坏
+*电闸损坏
+
+*装备：
+**提供：[[File:HeadGear090 T1.png|30px|link=头戴设备]] [[File:Med090 T1.png|30px|link=理智药]] [[File:Igniter090 T1.png|30px|link=点火器]] [[File:MotionSensor090 T1.png|30px|link=运动传感器]] [[File:FireLight090 T1.png|30px|link=火光]] [[File:Parabolic090 T1.png|30px|link=收音器]] [[File:Salt090 T1.png|30px|link=盐]] [[File:SoundSensor090 T1.png|30px|link=声音传感器]] [[File:EMF090 T1.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T1.png|30px|link=相机]] [[File:SpiritBox090 T1.png|30px|link=通灵盒]] [[File:Thermometer090 T1.png|30px|link=温度计]] [[File:UV090 T2.png|30px|link=紫外线灯光]] [[File:WritingBook090 T1.png|30px|link=鬼魂笔记]] [[File:DOTS090 T1.png|30px|link=点阵投影仪]] [[File:Flash090 T1.png|30px|link=手电筒]] [[File:VideoCamera090 T1.png|30px|link=摄像机]] [[File:Tripod090 T1.png|30px|link=三脚架]]
+**<u>缺失</u>： 熏香、十字架
+
+|[[监狱]]
+|-
+|11
+|理智危机
+|理智匮乏，没有醒脑丸或灯光，需谨慎再三，方能找出恶鬼。
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*给出的证据：2
+*75% 初始理智
+*理智药恢复 0% 理智
+*2 秒猎杀徘徊期
+*击杀延长猎杀：低
+*鬼魂事件频率：低
+*开局敞开的门：高
+*[[理智显示屏]]损坏
+*电闸损坏
+*[[塔罗牌]]和[[巫毒娃娃]]
+
+*装备：
+**提供：[[File:HeadGear090 T1.png|30px|link=头戴设备]] [[File:Med090 T1.png|30px|link=理智药]] [[File:Igniter090 T1.png|30px|link=点火器]] [[File:MotionSensor090 T1.png|30px|link=运动传感器]] [[File:FireLight090 T2.png|30px|link=火光]] [[File:Parabolic090 T1.png|30px|link=收音器]] [[File:Salt090 T1.png|30px|link=盐]] [[File:Crucifix090 T1.png|30px|link=十字架]] [[File:SoundSensor090 T1.png|30px|link=声音传感器]] [[File:EMF090 T1.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T1.png|30px|link=相机]] [[File:SpiritBox090 T1.png|30px|link=通灵盒]] [[File:Thermometer090 T1.png|30px|link=温度计]] [[File:UV090 T1.png|30px|link=紫外线灯光]] [[File:WritingBook090 T1.png|30px|link=鬼魂笔记]] [[File:DOTS090 T2.png|30px|link=点阵投影仪]] [[File:Flash090 T2.png|30px|link=手电筒]] [[File:VideoCamera090 T1.png|30px|link=摄像机]] [[File:Tripod090 T1.png|30px|link=三脚架]]
+**<u>缺失</u>： 3 理智药、熏香、1 十字架
+
+|[[里奇维尤路房屋]]
+|-
+|12
+|速通！
+|也许你可以开始计时，看看能多快探明鬼魂类型
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*玩家移速：150%
+*开局敞开的门：无
+*躲藏点：低
+*游荡频率：低
+*鬼魂不能换鬼魂房间
+*活动率：高
+*鬼魂事件率：高
+*开局电闸打开
+*所有诅咒之物
+
+*装备：
+**提供：[[File:HeadGear090 T3.png|30px|link=头戴设备]] [[File:Med090 T3.png|30px|link=理智药]] [[File:Igniter090 T3.png|30px|link=点火器]] [[File:MotionSensor090 T3.png|30px|link=运动传感器]] [[File:FireLight090 T3.png|30px|link=火光]] [[File:Parabolic090 T3.png|30px|link=收音器]] [[File:Incense090 T3.png|30px|link=熏香]] [[File:Salt090 T3.png|30px|link=盐]] [[File:Crucifix090 T3.png|30px|link=十字架]] [[File:SoundSensor090 T3.png|30px|link=声音传感器]] [[File:EMF090 T3.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T3.png|30px|link=相机]] [[File:SpiritBox090 T3.png|30px|link=通灵盒]] [[File:Thermometer090 T3.png|30px|link=温度计]] [[File:UV090 T3.png|30px|link=紫外线灯光]] [[File:WritingBook090 T3.png|30px|link=鬼魂笔记]] [[File:DOTS090 T3.png|30px|link=点阵投影仪]] [[File:Flash090 T3.png|30px|link=手电筒]] [[File:VideoCamera090 T3.png|30px|link=摄像机]] [[File:Tripod090 T3.png|30px|link=三脚架]]
+
+|[[坦格活德街房屋]]
+|-
+|13
+|适者生存
+|没有药丸，没有理智，没有证据，举步维艰！
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*零证据
+*0% 初始理智
+*理智药恢复 0% 理智
+*5 秒猎杀徘徊期
+*所有躲藏点开放
+*击杀延长猎杀：高
+*游荡频率：中
+*鬼魂不能换鬼魂房间
+*活动率：高
+*鬼魂事件率：高
+*开局敞开的门：高
+*开局电闸打开
+*猴爪
+
+*装备：
+**提供：[[File:HeadGear090 T1.png|30px|link=头戴设备]] [[File:Med090 T3.png|30px|link=理智药]] [[File:Igniter090 T2.png|30px|link=点火器]] [[File:MotionSensor090 T2.png|30px|link=运动传感器]] [[File:FireLight090 T1.png|30px|link=火光]] [[File:Parabolic090 T2.png|30px|link=收音器]] [[File:Incense090 T1.png|30px|link=熏香]] [[File:Salt090 T1.png|30px|link=盐]] [[File:Crucifix090 T1.png|30px|link=十字架]] [[File:SoundSensor090 T1.png|30px|link=声音传感器]] [[File:EMF090 T3.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T2.png|30px|link=相机]] [[File:SpiritBox090 T1.png|30px|link=通灵盒]] [[File:Flash090 T2.png|30px|link=手电筒]]
+**<u>缺失</u>： 2 理智药、温度计、紫外线灯光、鬼魂笔记、点阵投影仪、摄像机、三脚架
+
+|[[埃奇菲尔德街房屋]]
+|-
+|14
+|原始
+|恐怕所有电子设备都短路了，只能另辟蹊径。
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*100% 被动理智消耗
+*理智药恢复 40% 理智
+*5 分钟部署时间
+*开局敞开的门：无
+*所有躲藏点开放
+*5 秒猎杀徘徊期
+*猎杀时间：低
+*游荡频率：中
+*鬼魂不能换鬼魂房间
+*活动率：高
+*鬼魂事件频率：低
+*电闸损坏
+*通灵板
+
+*装备：
+**提供：[[File:Igniter090 T1.png|30px|link=点火器]] [[File:FireLight090 T2.png|30px|link=火光]] [[File:Incense090 T1.png|30px|link=熏香]] [[File:Salt090 T2.png|30px|link=盐]] [[File:Crucifix090 T1.png|30px|link=十字架]] [[File:Thermometer090 T1.png|30px|link=温度计]] [[File:UV090 T1.png|30px|link=紫外线灯光]] [[File:WritingBook090 T3.png|30px|link=鬼魂笔记]]
+**<u>缺失</u>： 头戴设备、理智药、运动传感器、收音器、声音传感器、EMF读取仪、相机、通灵盒、点阵投影仪、手电筒、摄像机、三脚架
+
+|[[里奇维尤路房屋]]
+|-
+|15
+|不堪一击
+|没有任何防备进行调查，要小心行事。
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*无躲藏点
+*开局敞开的门：高
+*巫毒娃娃
+
+*装备：
+**提供：[[File:HeadGear090 T1.png|30px|link=头戴设备]] [[File:Igniter090 T1.png|30px|link=点火器]] [[File:MotionSensor090 T1.png|30px|link=运动传感器]] [[File:FireLight090 T1.png|30px|link=火光]] [[File:Parabolic090 T1.png|30px|link=收音器]] [[File:Salt090 T1.png|30px|link=盐]] [[File:SoundSensor090 T1.png|30px|link=声音传感器]] [[File:EMF090 T1.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T1.png|30px|link=相机]] [[File:SpiritBox090 T1.png|30px|link=通灵盒]] [[File:Thermometer090 T1.png|30px|link=温度计]] [[File:UV090 T2.png|30px|link=紫外线灯光]] [[File:WritingBook090 T1.png|30px|link=鬼魂笔记]] [[File:DOTS090 T1.png|30px|link=点阵投影仪]] [[File:Flash090 T1.png|30px|link=手电筒]] [[File:VideoCamera090 T1.png|30px|link=摄像机]] [[File:Tripod090 T1.png|30px|link=三脚架]]
+**<u>缺失</u>： 理智药、2 个火光、熏香、十字架
+
+|[[柳树街房屋]]
+|-
+|16
+|货物丢失
+|我们这周未收到全部设备，因此车上可能会缺点东西！
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*开局敞开的门：高
+
+*装备：
+**提供：[[File:HeadGear090 T1.png|30px|link=头戴设备]] [[File:Med090 T1.png|30px|link=理智药]] [[File:Igniter090 T1.png|30px|link=点火器]] [[File:MotionSensor090 T1.png|30px|link=运动传感器]] [[File:FireLight090 T1.png|30px|link=火光]] [[File:Parabolic090 T1.png|30px|link=收音器]] [[File:Incense090 T1.png|30px|link=熏香]] [[File:Salt090 T1.png|30px|link=盐]] [[File:Crucifix090 T1.png|30px|link=十字架]] [[File:SoundSensor090 T1.png|30px|link=声音传感器]] [[File:EMF090 T1.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T1.png|30px|link=相机]] [[File:SpiritBox090 T1.png|30px|link=通灵盒]] [[File:Thermometer090 T1.png|30px|link=温度计]] [[File:UV090 T2.png|30px|link=紫外线灯光]] [[File:WritingBook090 T1.png|30px|link=鬼魂笔记]] [[File:DOTS090 T1.png|30px|link=点阵投影仪]] [[File:Flash090 T1.png|30px|link=手电筒]] [[File:VideoCamera090 T1.png|30px|link=摄像机]] [[File:Tripod090 T1.png|30px|link=三脚架]]
+**<u>缺失</u>： 每样东西只提供 1 个
+
+|[[褐石中学]]
+|-
+|17
+|只有音频
+|我们设法弄到了几个额外的音频装备。你得仔细听听。
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*100% 被动理智消耗
+*理智药恢复 40% 理智
+*5 分钟部署时间
+*开局敞开的门：无
+*所有躲藏点开放
+*猎杀时间：低
+*游荡频率：中
+*鬼魂不能换鬼魂房间
+*鬼魂事件频率：低
+*电闸损坏
+*无诅咒之物
+
+*装备：
+**提供：[[File:HeadGear090 T1.png|30px|link=头戴设备]] [[File:Igniter090 T1.png|30px|link=点火器]] [[File:MotionSensor090 T2.png|30px|link=运动传感器]] [[File:FireLight090 T2.png|30px|link=火光]] [[File:Parabolic090 T3.png|30px|link=收音器]] [[File:SoundSensor090 T3.png|30px|link=声音传感器]] [[File:PhotoCamera090 T1.png|30px|link=相机]] [[File:SpiritBox090 T3.png|30px|link=通灵盒]] [[File:WritingBook090 T2.png|30px|link=鬼魂笔记]] [[File:DOTS090 T2.png|30px|link=点阵投影仪]] [[File:Flash090 T2.png|30px|link=手电筒]]
+**<u>缺失</u>： 理智药、2 火光、熏香、盐、十字架、EMF读取仪、温度计、紫外线灯光、摄像机、三脚架
+
+|[[阳光牧场精神病院]]
+|-
+|18
+|科技狂
+|我们把那些老东西都扔掉了，这份合约与科技有关！
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*开局敞开的门：高
+*塔罗牌
+
+*装备：
+**提供：[[File:HeadGear090 T3.png|30px|link=头戴设备]] [[File:Med090 T3.png|30px|link=理智药]] [[File:MotionSensor090 T3.png|30px|link=运动传感器]] [[File:Parabolic090 T3.png|30px|link=收音器]] [[File:SoundSensor090 T3.png|30px|link=声音传感器]] [[File:EMF090 T3.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T3.png|30px|link=相机]] [[File:SpiritBox090 T3.png|30px|link=通灵盒]] [[File:Thermometer090 T3.png|30px|link=温度计]] [[File:UV090 T3.png|30px|link=紫外线灯光]] [[File:DOTS090 T3.png|30px|link=点阵投影仪]] [[File:Flash090 T3.png|30px|link=手电筒]] [[File:VideoCamera090 T3.png|30px|link=摄像机]] [[File:Tripod090 T3.png|30px|link=三脚架]]
+**<u>缺失</u>： 点火器、火光、熏香、盐、十字架、鬼魂笔记
+
+|[[布莱斯代尔农舍]]
+|-
+|19
+|无凭证据
+|这些鬼真不想帮你，但我们相信你能胜任这份工作。
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*零证据
+*理智药恢复 5% 理智
+*躲藏点：低
+*2 秒猎杀徘徊期
+*击杀延长猎杀：低
+*变更鬼魂房间几率：中
+*鬼魂事件率：高
+*开局敞开的门：高
+*显示电闸位置：关
+*[[闹鬼魔镜]]
+
+*装备：
+**提供：[[File:HeadGear090 T1.png|30px|link=头戴设备]] [[File:Med090 T2.png|30px|link=理智药]] [[File:Igniter090 T2.png|30px|link=点火器]] [[File:MotionSensor090 T2.png|30px|link=运动传感器]] [[File:FireLight090 T2.png|30px|link=火光]] [[File:Parabolic090 T1.png|30px|link=收音器]] [[File:Incense090 T2.png|30px|link=熏香]] [[File:Salt090 T2.png|30px|link=盐]] [[File:十字架阶段.gif|30px|link=十字架]] [[File:SoundSensor090 T2.png|30px|link=声音传感器]] [[File:EMF090 T2.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T2.png|30px|link=相机]] [[File:SpiritBox090 T2.png|30px|link=通灵盒]] [[File:Thermometer090 T2.png|30px|link=温度计]] [[File:UV090 T1.png|30px|link=紫外线灯光]] [[File:WritingBook090 T2.png|30px|link=鬼魂笔记]] [[File:DOTS090 T2.png|30px|link=点阵投影仪]] [[File:Flash090 T2.png|30px|link=手电筒]] [[File:VideoCamera090 T2.png|30px|link=摄像机]] [[File:Tripod090 T2.png|30px|link=三脚架]]
+
+|[[格拉夫顿农舍]]
+|-
+|20
+|未日将至
+|最难的挑战，但移速正常，祝你好运。
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*零证据
+*0% 初始理智
+*理智药恢复 0% 理智
+*无躲藏点
+*猎杀徘徊期：无
+*鬼魂移速：150%
+*击杀延长猎杀：高
+*鬼魂变更鬼魂房间几率：高
+*鬼魂事件频率：低
+*开局敞开的门：高
+*理智显示屏损坏
+*活动强度显示屏损坏
+*电闸损坏
+*手电筒：关
+*暴雨天气
+*无诅咒之物
+
+*装备：
+**提供：[[File:HeadGear090 T3.png|30px|link=头戴设备]] [[File:Med090 T3.png|30px|link=理智药]] [[File:Igniter090 T3.png|30px|link=点火器]] [[File:MotionSensor090 T3.png|30px|link=运动传感器]] [[File:FireLight090 T3.png|30px|link=火光]] [[File:Parabolic090 T3.png|30px|link=收音器]] [[File:Incense090 T3.png|30px|link=熏香]] [[File:Salt090 T3.png|30px|link=盐]] [[File:Crucifix090 T3.png|30px|link=十字架]] [[File:SoundSensor090 T3.png|30px|link=声音传感器]] [[File:EMF090 T3.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T3.png|30px|link=相机]] [[File:SpiritBox090 T3.png|30px|link=通灵盒]] [[File:Thermometer090 T3.png|30px|link=温度计]] [[File:UV090 T3.png|30px|link=紫外线灯光]] [[File:WritingBook090 T3.png|30px|link=鬼魂笔记]] [[File:DOTS090 T3.png|30px|link=点阵投影仪]] [[File:Flash090 T3.png|30px|link=手电筒]] [[File:VideoCamera090 T3.png|30px|link=摄像机]] [[File:Tripod090 T3.png|30px|link=三脚架]]
+
+|[[阳光牧场精神病院#限制区|阳光牧场（限止区）]]
+|-
+|21
+|徐图缓进
+|这个鬼或许行动迟缓，但它很愤怒，保持警惕！
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*0% 初始理智
+*理智药恢复 0% 理智
+*无躲藏点
+*1 秒猎杀徘徊期
+*鬼魂移速：50%
+*暴雨天气
+*开局敞开的门：高
+*无诅咒之物
+
+*装备：
+**提供：[[File:HeadGear090 T1.png|30px|link=头戴设备]] [[File:Med090 T1.png|30px|link=理智药]] [[File:Igniter090 T1.png|30px|link=点火器]] [[File:MotionSensor090 T1.png|30px|link=运动传感器]] [[File:FireLight090 T1.png|30px|link=火光]] [[File:Parabolic090 T1.png|30px|link=收音器]] [[File:Incense090 T1.png|30px|link=熏香]] [[File:Salt090 T1.png|30px|link=盐]] [[File:Crucifix090 T1.png|30px|link=十字架]] [[File:SoundSensor090 T1.png|30px|link=声音传感器]] [[File:EMF090 T1.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T1.png|30px|link=相机]] [[File:SpiritBox090 T1.png|30px|link=通灵盒]] [[File:Thermometer090 T1.png|30px|link=温度计]] [[File:UV090 T2.png|30px|link=紫外线灯光]] [[File:WritingBook090 T1.png|30px|link=鬼魂笔记]] [[File:DOTS090 T1.png|30px|link=点阵投影仪]] [[File:Flash090 T1.png|30px|link=手电筒]] [[File:VideoCamera090 T1.png|30px|link=摄像机]] [[File:Tripod090 T1.png|30px|link=三脚架]]
+
+|[[林风营地]]
+|-
+|22
+|超自然狗仔队
+|你拥有各种相机，灯光和收音设备。找出鬼魂类型！
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*150% 被动理智消耗
+*理智药恢复 35% 理智
+*2 分钟部署时间
+*躲藏点：高
+*4 秒猎杀徘徊期
+*猎杀时间：中
+*游荡频率：中
+*鬼魂不能换鬼魂房间
+*活动率：中
+*开局敞开的门：低
+*猴爪
+
+*装备：
+**提供：[[File:HeadGear090 T2.png|30px|link=头戴设备]] [[File:Igniter090 T3.png|30px|link=点火器]] [[File:MotionSensor090 T3.png|30px|link=运动传感器]] [[File:FireLight090 T3.png|30px|link=火光]] [[File:Parabolic090 T2.png|30px|link=收音器]] [[File:SoundSensor090 T2.png|30px|link=声音传感器]] [[File:PhotoCamera090 T3.png|30px|link=相机]] [[File:SpiritBox090 T2.png|30px|link=通灵盒]] [[File:UV090 T3.png|30px|link=紫外线灯光]] [[File:WritingBook090 T1.png|30px|link=鬼魂笔记]] [[File:DOTS090 T1.png|30px|link=点阵投影仪]] [[File:Flash090 T3.png|30px|link=手电筒]] [[File:VideoCamera090 T3.png|30px|link=摄像机]] [[File:Tripod090 T3.png|30px|link=三脚架]]
+**<u>缺失</u>： 理智药、熏香、盐、十字架、EMF读取仪、温度计
+
+|[[希望角灯塔]]
+|-
+|23
+|躲猫猫：极难
+|这个鬼想玩游戏，你最好快躲起来。
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*0% 初始理智
+*理智药恢复 0% 理智
+*100% 被动理智消耗
+*1 分钟部署时间
+*躲藏点：低
+*5 秒猎杀徘徊期
+*鬼魂移速：150%
+*击杀延长猎杀：高
+*游荡频率：低
+*鬼魂变更鬼魂房间几率：高
+*活动率：中
+*鬼魂事件频率：低
+*开局敞开的门：高
+*开局电闸打开
+*手电筒：关
+*猴爪
+
+*装备：
+**提供：[[File:HeadGear090 T1.png|30px|link=头戴设备]] [[File:Igniter090 T1.png|30px|link=点火器]] [[File:MotionSensor090 T1.png|30px|link=运动传感器]] [[File:FireLight090 T1.png|30px|link=火光]] [[File:Parabolic090 T1.png|30px|link=收音器]] [[File:Salt090 T1.png|30px|link=盐]] [[File:十字架阶段.gif|30px|link=十字架]] [[File:SoundSensor090 T1.png|30px|link=声音传感器]] [[File:EMF090 T2.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T2.png|30px|link=相机]] [[File:SpiritBox090 T2.png|30px|link=通灵盒]] [[File:Thermometer090 T2.png|30px|link=温度计]] [[File:WritingBook090 T1.png|30px|link=鬼魂笔记]] [[File:DOTS090 T2.png|30px|link=点阵投影仪]] [[File:VideoCamera090 T1.png|30px|link=摄像机]] [[File:Tripod090 T2.png|30px|link=三脚架]]
+**<u>缺失</u>： 理智药、熏香、紫外线灯光、手电筒
+
+|[[林风营地]]
+|-
+|24
+|暗夜微光
+|一些设备坏了，希望这个够你看清周围。
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*开局敞开的门：高
+*电闸损坏
+
+*装备：
+**提供：[[File:HeadGear090 T1.png|30px|link=头戴设备]] [[File:Med090 T1.png|30px|link=理智药]] [[File:Igniter090 T1.png|30px|link=点火器]] [[File:Parabolic090 T1.png|30px|link=收音器]] [[File:Incense090 T1.png|30px|link=熏香]] [[File:Salt090 T1.png|30px|link=盐]] [[File:Crucifix090 T1.png|30px|link=十字架]] [[File:SoundSensor090 T1.png|30px|link=声音传感器]] [[File:EMF090 T1.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T1.png|30px|link=相机]] [[File:SpiritBox090 T1.png|30px|link=通灵盒]] [[File:Thermometer090 T1.png|30px|link=温度计]] [[File:UV090 T1.png|30px|link=紫外线灯光]] [[File:WritingBook090 T1.png|30px|link=鬼魂笔记]] [[File:DOTS090 T1.png|30px|link=点阵投影仪]]
+**<u>缺失</u>： 运动传感器、火光、手电筒、摄像机、三脚架
+
+|[[埃奇菲尔德街房屋]]
+|-
+|25
+|似曾相识
+|这个鬼是不是很眼熟？
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*奔跑：关
+*开局敞开的门：无
+*鬼魂移速：75%
+*无躲藏点
+*4 秒猎杀徘徊期
+*游荡频率：中
+*鬼魂不能换鬼魂房间
+*显示电闸位置：关
+*小雨天气
+*通灵板
+
+*装备：
+**提供：[[File:HeadGear090 T1.png|30px|link=头戴设备]] [[File:Med090 T2.png|30px|link=理智药]] [[File:Igniter090 T2.png|30px|link=点火器]] [[File:MotionSensor090 T1.png|30px|link=运动传感器]] [[File:FireLight090 T1.png|30px|link=火光]] [[File:Parabolic090 T1.png|30px|link=收音器]] [[File:Incense090 T2.png|30px|link=熏香]] [[File:Salt090 T1.png|30px|link=盐]] [[File:十字架阶段.gif|30px|link=十字架]] [[File:SoundSensor090 T1.png|30px|link=声音传感器]] [[File:EMF090 T2.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T2.png|30px|link=相机]] [[File:SpiritBox090 T2.png|30px|link=通灵盒]] [[File:Thermometer090 T2.png|30px|link=温度计]] [[File:UV090 T2.png|30px|link=紫外线灯光]] [[File:UV090 T1.png|30px|link=紫外线灯光]]  [[File:WritingBook090 T2.png|30px|link=鬼魂笔记]] [[File:Flash090 T1.png|30px|link=手电筒]] [[File:VideoCamera090 T1.png|30px|link=摄像机]] [[File:Tripod090 T1.png|30px|link=三脚架]]
+**<u>缺失</u>： 2 点火器、1 盐、点阵投影仪
+
+|[[坦格活德街房屋]]
+|-
+|26
+|找到你了！
+|这个鬼会立即追赶你，快跑！
+|<div class="mw-collapsible mw-collapsed" data-expandtext="显示" data-collapsetext="隐藏"><br>
+*0% 初始理智
+*理智药恢复 0% 理智
+*玩家移速：150%
+*1 秒猎杀徘徊期
+*开局敞开的门：高
+*无诅咒之物
+
+*装备：
+**提供：[[File:HeadGear090 T1.png|30px|link=头戴设备]] [[File:Med090 T1.png|30px|link=理智药]] [[File:Igniter090 T1.png|30px|link=点火器]] [[File:MotionSensor090 T1.png|30px|link=运动传感器]] [[File:FireLight090 T1.png|30px|link=火光]] [[File:Parabolic090 T1.png|30px|link=收音器]] [[File:Incense090 T1.png|30px|link=熏香]] [[File:Salt090 T1.png|30px|link=盐]] [[File:Crucifix090 T1.png|30px|link=十字架]] [[File:SoundSensor090 T1.png|30px|link=声音传感器]] [[File:EMF090 T1.png|30px|link=EMF读取仪]] [[File:PhotoCamera090 T1.png|30px|link=相机]] [[File:SpiritBox090 T1.png|30px|link=通灵盒]] [[File:Thermometer090 T1.png|30px|link=温度计]] [[File:UV090 T2.png|30px|link=紫外线灯光]] [[File:WritingBook090 T1.png|30px|link=鬼魂笔记]] [[File:DOTS090 T1.png|30px|link=点阵投影仪]] [[File:Flash090 T1.png|30px|link=手电筒]] [[File:VideoCamera090 T1.png|30px|link=摄像机]] [[File:Tripod090 T1.png|30px|link=三脚架]]
+
+|[[褐石中学]]
+|}
+
+[[Category:游戏玩法]]

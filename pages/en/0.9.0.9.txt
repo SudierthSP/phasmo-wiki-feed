@@ -1,0 +1,54 @@
+# 0.9.0.9
+# revid 18219  2024-06-19T01:32:37Z  by Justf0cus420
+# sha256 ffceb1f0334d0341ee4d37b6900e692b9b3bdd586ed7478f082f08507c058499  bytes 3252
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=6 September 2023
+  | previous_major_version=[[0.9.0]]
+  | previous_minor_version=[[0.9.0.8]]
+  | next_minor_version=[[0.9.0.10]]
+|next_major_version=[[0.10.0]]}}'''0.9.0.9''' is a minor patch released on 6 September 2023.<ref>[https://store.steampowered.com/news/app/739630/view/3677806476779838414 ''Ascension | Hotfix v0.9.0.9''. 6 September 2023 (on Steam).]</ref> It contains several optimization changes, including a reworking of how passive [[Sanity]] drain works, and fixes bugs.
+
+==Changes==
+*Removed the 100% initialising text once VR has finished loading to allow for a smoother loading transition
+*Improved VR distance grab
+*Lowered the number of photos needed for the 3 star footstep weekly task
+*Increased VR players grab distance by 50%. This does not affect teleport grab
+*The sanity system has been replaced to increase cpu performance.
+**Sanity drain is no longer based on the light around
+**Sanity will now stop draining if the main room light is on
+**Large rooms with a lot of dark areas (e.g. Sunny Meadows Hallways) will drain 80% sanity of the sanity drain rate if the room light is on
+
+==Fixes==
+*Very significant CPU performance optimisations, especially in VR
+*You can now grab the Spirit Box T1 much easier in VR
+*Incense T3 now falls to the ground when dropped in VR
+*VR player’s vision will now fade in and out when loading to join or create a lobby
+*VR players can no longer toggle night vision goggles while holding them
+*The T2 Ghost Writing Book’s left-hand grab position is now correct
+*Tarot cards are now grabbable on PC after a VR player has used one
+*VR and PC players can no longer grab VR players’ items off their head
+*VR and PC players can no longer use VR players’ items on their head or belt
+*Obake footsteps can now be heard correctly during hunts
+*The Mare long roam trait will now work in prison cell blocks
+*Weekly Tasks will no longer be able to randomly choose training as a location requirement
+*VR players can no longer place Tripods on their belt
+*The Voodoo Doll is now floppy again!
+*DOTS 1 now has the [PLACEABLE] keyword in the shop
+*VR equipment highlights in the truck are now all correct
+*Removed depth of field and chromatic aberration from VR night vision goggle post processing
+*When a VR player puts head gear on, PC players will no longer see it or grab it at their feet
+*Map floor selector buttons should now work properly when selecting them in VR
+*Disturbed salt photos should not get in the way of other photos as much
+*You will no longer override night vision goggle post-processing settings when hitting apply in the journal, with the effect enabled
+*Swapping inventory items while placing an item then swapping back to it again, will no longer still display the placement highlight
+*Dirty water photos now work on all sinks
+*Fingerprints are now the correct size on the wooden poles in both campsites
+*The hunt will no longer sometimes start when all players are outside
+*Your sanity will no longer sometimes drain when you are outside
+*Changed the position of the guitar in the campfire circle on Camp Woodwind (not mentioned in Hotfix notes)
+
+==References==
+{{Reflist}}{{Versions}}
+[[Category:Development]]
+[[fr:0.9.0.9]]
+[[ru:0.9.0.9]]

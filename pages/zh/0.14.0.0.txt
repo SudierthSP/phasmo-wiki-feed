@@ -1,0 +1,44 @@
+# 0.14.0.0
+# revid 3815  2025-08-12T12:41:11Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version  | image1=Grafton Rework.png  | official_name=格拉夫顿重制  | release_date=2025年8月12日  | previous_major_version=[[0.13.0]]  | previous_minor_version=[[0.13.1.1]]  | next_minor_version=  | next_major_version= }} '''0.14.0版本'''，即'''格拉夫顿重制'''更新，是于2025年8月12日发布的大型更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-grafton-rework-outnow ''格拉夫顿农舍重制 - 恐鬼症 v0.14…”
+# sha256 2a6dd298d7d5423790bf0a63f574a4272ffb71e00618c064a469971276cca45b  bytes 1960
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+ | image1=Grafton Rework.png
+ | official_name=格拉夫顿重制
+ | release_date=2025年8月12日
+ | previous_major_version=[[0.13.0]]
+ | previous_minor_version=[[0.13.1.1]]
+ | next_minor_version=
+ | next_major_version=
+}}
+'''0.14.0版本'''，即'''格拉夫顿重制'''更新，是于2025年8月12日发布的大型更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-grafton-rework-outnow ''格拉夫顿农舍重制 - 恐鬼症 v0.14.0.0'']</ref> 该版本对[[格拉夫顿农舍]]进行了全面重制。
+
+
+==新增内容==
+*'''格拉夫顿农舍：''' 全面视觉重制地图，包含新资产、布局微调以及新增环境特征（如因破损的墙壁/屋顶可在室内观察到天气变化等）
+**房间主题与尺寸调整
+**新增顶层阁楼区域
+**地图各处新增可互动元素——祝各位猎鬼师探索愉快
+*随着格拉夫顿农舍新增可被鬼魂互动的人体模型，布莱斯代尔农舍内的人体模型现在也可互动
+*格拉夫顿农舍与布莱斯代尔农舍的卡车钥匙模型现已更新为独特样式
+*事件板新增“农舍田野调查”挑战任务
+**猎鬼师需在格拉夫顿农舍与布莱斯代尔农舍完成辨明鬼魂类型
+
+==改动==
+*8月11日当周的挑战模式更改为“听我指令”，但地图由精神病院替换为格拉夫顿农舍
+*露营炉开关方式改为通过炉体正面的按钮控制（原为直接点击炉体）
+
+==修复漏洞==
+*修复：幻妖形态变化难以被录像记录
+*修复：农舍地图中鬼魂无法与吊灯灯泡互动
+*布莱斯代尔农舍地图性能小幅优化
+==已知问题==
+*格拉夫顿农舍的人体模型可能生成在墙壁/物体附近导致穿模
+*若玩家站在完全打开的衣柜内，可能出现地图显示异常
+*钢琴碰撞体不平整可能导致玩家卡住
+*放置在格拉夫顿正门上方横梁的物品可能丢失
+
+==参考资料==
+{{Reflist}}
+{{VersionNav}}
+[[Category:开发]]

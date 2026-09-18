@@ -1,0 +1,65 @@
+# Paranormal Sound
+# revid 24275  2026-07-24T04:39:41Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 b896bb6a35abc8cb820b107ce2c7df60a3433862356040df85d84125ad72d743  bytes 3383
+# 源: https://phasmophobia.fandom.com/api.php'''Paranormal sounds''' are normally inaudible sounds occasionally emitted by the [[ghost]].
+
+==Mechanics==
+Upon loading into the [[truck]] at the start of a [[contract]], the game will start a timer with a random duration between 80 and 127 seconds, at the end of which a paranormal sound will be created at the approximate location of the ghost. A new timer will then start.
+
+When a paranormal sound is created, the [[Sound Recorder|sound recorder]] has a time frame of 15 seconds plus the duration of the sound to record it. The [[Parabolic Microphone|parabolic microphone]] will pick up the sound 15 seconds after it has been created or when the player is actively hearing it through the sound recorder. However, if the player records the sound with a sound recorder, they will be unable to hear it again through the parabolic microphone.
+
+The emitted sound itself is randomly chosen among a list of possible sounds depending on the ghost's gender.
+
+===Ghost-specific abilities===
+*The [[Banshee]] has a 33% chance to replace the paranormal sound with one of its unique screams.
+*The [[Moroi]] curses players who hear any paranormal sound through the parabolic microphone or record one with the sound recorder.
+*The [[Myling]] has a timer with a random duration between 64 and 127 seconds instead of 80 and 127 seconds.
+
+==List of paranormal sounds==
+===Paranormal Groaning===
+{| class="fandom-table"
+!Male sounds
+!Female sounds
+|-
+|[[File:ParaSound M Groaning 1.wav]]<br>[[File:ParaSound M Groaning 2.wav]]<br>[[File:ParaSound M Groaning 3.wav]]
+|[[File:ParaSound F Groaning 1.wav]]<br>[[File:ParaSound F Groaning 2.wav]]<br>[[File:ParaSound F Groaning 3.wav]]<br>[[File:ParaSound F Groaning 4.wav]]<br>
+|}
+
+===Paranormal Laughing===
+{| class="fandom-table"
+!Male sounds
+!Female sounds
+|-
+|[[File:ParaSound M Laughing 1.wav]]<br>[[File:ParaSound M Laughing 2.wav]]<br>[[File:ParaSound M Laughing 3.wav]]
+|[[File:ParaSound F Laughing 1.wav]]<br>[[File:ParaSound F Laughing 2.wav]]<br>[[File:ParaSound F Laughing 3.wav]]<br>[[File:ParaSound F Laughing 4.wav]]<br>[[File:ParaSound F Laughing 5.wav]]<br>[[File:ParaSound F Laughing 6.wav]]
+|}
+
+===Paranormal Talking===
+{| class="fandom-table"
+!Male sounds
+!Female sounds
+|-
+|[[File:ParaSound M Cold.wav]]<br>[[File:ParaSound M Get Out.wav]]<br>[[File:ParaSound M Help.wav]]<br>[[File:ParaSound M Lost.wav]]<br>[[File:ParaSound M Mutterings.wav]]<br>[[File:ParaSound M Watching You.wav]]
+|[[File:ParaSound F Cant Find Me.wav]]<br>[[File:ParaSound F Get Out 1.wav]]<br>[[File:ParaSound F Get Out 2.wav]]<br>[[File:ParaSound F Hey 1.wav]]<br>[[File:ParaSound F Hey 2.wav]]<br>[[File:ParaSound F Hey 3.wav]]<br>[[File:ParaSound F Mutterings 1.wav]]<br>[[File:ParaSound F Mutterings 2.wav]]<br>[[File:ParaSound F Mutterings 3.wav]]<br>[[File:ParaSound F So Hungry.wav]]<br>[[File:ParaSound F Why 1.wav]]<br>[[File:ParaSound F Why 2.wav]]
+|}
+
+===Paranormal Whisper===
+{| class="fandom-table"
+!Male sounds
+!Female sounds
+|-
+|[[File:ParaSound M Whisper 1.wav]]<br>[[File:ParaSound M Whisper 2.wav]]<br>[[File:ParaSound M Whisper 3.wav]]<br>[[File:ParaSound M Whisper 4.wav]]
+|[[File:ParaSound F Shhh.wav]]
+|}
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.13.0]]
+|Replaced whispers by new sounds divided in 4 categories.
+|}
+[[ru:Паранормальные звуки]]
+[[Category:Gameplay]]
+[[fr:Son paranormal]]

@@ -1,0 +1,260 @@
+# 第三方工具
+# revid 3756  2025-06-22T05:15:55Z  by SABRECAR
+# 备注: /* 证据与地图工具 */
+# sha256 de21e1dcf68c146f4f8dcb421002962fa4857ac744fd62e2b7b5c25a00ad6617  bytes 8009
+# 源: https://phasmophobia.fandom.com/zh/api.php
+本页面提供一系列'''第三方工具'''，可供您在''恐鬼症''调查过程中辅助使用。
+
+请注意，此清单主要包含不修改游戏文件的外部网页或程序。根据''恐鬼症''<nowiki/>最终用户许可协议（EULA），擅自修改游戏属于违规行为，可能导致游戏文件损坏，并影响其他玩家的体验。
+
+
+== 证据与地图工具 ==
+<small>''最后更新：2022年9月28日。请注意，网页的更新状态与其信息时效性并无必然关联''</small>
+
+<small>'''''免责声明'''： 本页面所列信息及工具（包括''恐鬼症''Wiki整体内容）均未获得''恐鬼症'游戏开发者或官方Discord服务器管理团队的认可与支持。恐鬼症Wiki不对这些工具所提供的内容承担任何责任。</small>
+
+{| class="article-table sortable wikitable" style="text-align: center"
+!名称
+!功能特性
+!可用平台
+!链接
+!最后版本
+!作者
+|-
+|Phasmophobia Therapy
+|主要证据, 次要证据, 地图
+|Android
+|[https://play.google.com/store/apps/details?id=com.creatoroad.phasmophobiatherapy Google Play]
+|[[0.6.2.0|0.6.2]]
+| --LGhost--#2440 (Discord Tag)
+|-
+|Phasmophobia Evidence Calculator
+|主要证据, 通灵词库
+|网页 (移动端适配)
+|[https://tsybulska.github.io/assets/projects/phasmophobia-calculator/index.html 网页]
+|[[0.6.2.0|0.6.2]]
+|Olena Tsybulska
+|-
+|Phasmophobia Ghost Helper
+|主要证据, 软件
+|Windows, Mac, Linux
+|[https://github.com/DeathTech154/PhasmophobiaGhostHelper/releases 网页]
+|[[0.3.0|0.3]]
+|DeathTech154
+|-
+|Phasmophobia Tool
+|主要证据, 奖励计算器
+|网页 (移动端适配)
+|[https://abluescarab.github.io/phasmophobia-tool/ 网页]
+|[[0.3.0|0.3]]
+|abluescarab
+|-
+|Phasmophobia Evidence Checklist
+|主要证据, 鬼魂计数器
+|网页 (移动端适配)
+|[https://cannonsloan.github.io/phasmoChecklist/src/index.html 网页]
+|[[0.6.0|0.6]]<ref group="note" name="partial">没有将灵球列为拟魂的证据类型，因此可能会显示不正确的鬼魂</ref>
+|cannonsloan
+|-
+|Phasmophobia Evidence Assistant
+|主要证据
+|网页 (移动端适配)
+|[https://codazed.gitlab.io/phasmotoolkit/ 网页]
+|[[0.6.2.0|0.6.2]]
+|Codazed
+|-
+|Phasmopicker Mission Planner
+|主要证据, 次要证据, 目標, 多端同步, 通灵词库
+|网页 (移动端适配)
+|[https://dzybaty.github.io/phasmopicker/ 网页]
+|[[0.6.2.0|0.6.2]]
+|dzybaty
+|-
+|Phasmophobia Companion
+|主要证据, 次要证据
+|网页
+|[https://edielemoine.github.io/phasmophobia/ 网页]
+|[[0.6.2.0|0.6.2]]
+|edielemoine
+|-
+|Phasmofinder
+|主要证据, 次要证据
+|网页 (移动端适配)
+|[https://kylecorry.com/phasmophobia-helper/ 网页]
+|[[0.6.0|0.6]]
+|Kyle Corry
+|-
+|Rhino's Phasmophobia Ghost Tracker
+|主要证据, 次要证据
+|网页
+|[https://lemon-field-0b94c1010.azurestaticapps.net/ 网页]
+|[[0.3.0|0.3]]
+|SubstantialBluejay
+|-
+|PhasmoCalc
+|主要证据, 次要证据, 鬼魂计数器, 噩梦模式
+|网页 (移动端适配)
+|[https://phasmocalc.com/ 网页]<br>[https://discord.gg/9DBc38r29r Discord]
+|[[0.6.2.0|0.6.2]]
+|Genzzry
+|-
+|PhasmoFinder
+|主要证据, 次要证据, 目標, 通灵词库, 地图
+|网页 (移动端适配)
+|[https://phasmofinder.vercel.app/ 网页]
+|[[0.6.2.0|0.6.2]]
+|Eduardo Reveles, Fantismal (地图)
+|-
+|Phasmojournal
+|主要证据, 次要证据, 目標, 多端同步
+|网页
+|[https://phasmo.lotai.xyz/ 网页]<br>[https://discord.com/invite/qU9ykuKNNk Discord]
+|[[0.6.2.0|0.6.2]]
+|sexnine#6969 (Discord tag)
+|-
+|Phasmophobia Ghost Tool
+|主要证据, 次要证据, 通灵词库
+|网页 (移动端适配)
+|[https://phasmo.vercel.app/ 网页]
+|[[0.3.0|0.3]]
+|Jasperonius
+|-
+|Phasmophobia Ghost Journal
+|主要证据, 次要证据, 事件概率
+|网页 (移动端适配)
+|[https://phasmophobia-journal.web.app/ 网页]
+|[[0.6.0|0.6]]<ref group="note" name="partial" />
+|phasmophilia
+|-
+|Phasmophobia Matrix
+|主要证据, 次要证据, 通灵词库, 地图, 多端同步, 计时功能
+|网页 (移动端适配)
+|[https://phasmophobia-matrix.com/ 网页]<br>[https://discord.gg/wFJzd7a2FA Discord]
+|[[0.6.2.0|0.6.2]]
+|StreamR#1107 (Discord tag)
+|-
+|Phasmophobia Evidence Tracker
+|主要证据, 次要证据
+|网页
+|[https://phasmophobiatracker.site/ 网页]
+|[[0.6.2.0|0.6.2]]<ref group="note" name="partial" />
+|cohen1992
+|-
+|Phasmophobia Randomizer
+|挑战模式生成系统<!--, 主要证据, 次要证据-->
+|网页
+|[https://phasmo-randomizer.site/ 网页]<br>[https://discord.gg/5ft7rEkRUP Discord]
+|[[0.6.0|0.6]]
+|tristantheb
+|-
+|Phasmo.site
+|主要证据, 次要证据, 目標
+|网页 (移动端适配)
+|[https://phasmo.site/ 网页]
+|[[0.6.2.0|0.6.2]]
+|zuffdaddy
+|-
+|Phasmophobia Assistant
+|主要证据, 次要证据
+|网页 (移动端适配)
+|[https://phass.netlify.app/ 网页]
+|[[0.6.2.0|0.6.2]]
+|Pirela Carlos
+|-
+|Phasmophobia Evidence Tracker
+|主要证据, 次要证据
+|网页
+|[https://phastracker.vercel.app/ 网页]
+|[[0.4.0|0.4]]
+|lolPants
+|-
+|Ghost ID
+|主要证据, 次要证据, 目標, 计时功能
+|网页 (移动端适配)
+|[https://thelunararmy.gitlab.io/react-phasmo-ghostid/ 网页]
+|[[0.6.0|0.6]]<ref group="note" name="partial" />
+|thelunararmy
+|-
+|Phasmophobia CheatSheet
+|主要证据, 次要证据, 通灵词库
+|网页
+|[https://un0btanium.github.io/phasmophobia-cheatsheet/ 网页]
+|[[0.6.2.0|0.6.2]]
+|unobtanium
+|-
+|Phasmophobia Maps
+|地图
+|网页 (移动端适配)
+|[https://phasmo.karotte.org/?mtm_campaign=网页&mtm_source=fandom 网页]
+|[[0.6.2.0|0.6.2]]
+|moehrenfeld (and friends)
+|-
+|Phasmophobia Maps (Map Genie)
+|地图
+|网页
+|[https://mapgenie.io/phasmophobia 网页]
+|[[0.3.0|0.3]]
+|Map Genie
+|-
+|Phasmophobia Evidence Tracker (StreamElements Widget)
+|主要证据, 目標, 悬浮软件
+|Stream Overlay
+|[https://github.com/GlitchedMythos/se-widgets/tree/main/phasmophobia_evidence_tracker 网页]
+|[[0.6.2.0|0.6.2]]
+|GlitchedMythos
+|-
+|Phasmo-Journal
+|主要证据, 次要证据, 地图
+|网页
+|[https://phasmo.peace-dev.de/ 网页]
+|[[0.6.2.0|0.6.2]]
+|
+|-
+|Nightmare Evidence Tracker
+|主要证据, 次要证据, 计时功能
+|HTML file
+|[https://drive.google.com/file/d/1gEGTGZPlnyQTXMGr0cCDd4D0TfTq_9Wo/view?usp=sharing HTML file]
+|[[0.6.0|0.6]] 
+|Blossom
+|-
+|Phasmophobia Ghost Finder
+|主要证据, 次要证据, 计时功能, 地图
+|网页 (移动端适配)
+|[https://sirjimmothy.github.io/phasmo/ 网页]
+|[[0.7.0|0.7]]
+|SirJimmothy
+|}
+
+;功能说明
+*<small>'''移动端适配:''' 该网页已针对手机端进行优化.</small>
+*<small>'''主要证据:''' 列出各类鬼魂的核心判定证据.</small>
+*<small>'''次要证据:''' 列出辅助识别鬼魂的特征要素.</small>
+*<small>'''多端同步:''' 支持自动同步多个游戏会话.</small>
+*<small>'''通灵词库:''' 收录[[通灵板]]与[[通灵盒]]的有效提问词条.</small>
+*<small>'''鬼魂计数器:''' 记录你找到的鬼魂总数.</small>
+*<small>'''地图:''' 提供各关卡详细地图资讯.</small>
+*<small>'''目標:''' 列出玩家可以完成的[[任务板|目標]] .</small>
+*<small>'''事件概率:''' 列出鬼魂对每条待发现证据做出反应的概率.</small>
+*<small>'''计时功能:''' 内置计时工具.</small>
+*<small>'''噩梦模式:''' 适配噩梦难度证据规则.</small>
+*<small>'''软件:''' 可在游戏界面上层运行的覆盖式应用.</small>
+
+==视觉增强功能==
+请注意：修改模组违反''恐鬼症''<nowiki/>最终用户许可协议（EULA），可能导致游戏文件损坏并影响其他玩家体验。
+目前仅允许使用 ReShade 程序，因为该程序技术上不会修改游戏文件。但使用此程序的风险由您自行承担，开发者及Wiki团队概不负责.
+{| class="fandom-table"
+!名称
+!描述
+!链接
+!作者
+|-
+|ReShade
+|ReShade是一款通用型后处理注入工具，适用于各类游戏及视频软件，主要功能包括：景深效果、色彩校正、其他实时画面增强等功能.
+|[https://reshade.me/ 网页]
+|crosire
+|}
+
+==Notes==
+{{Reflist|group="note"}}
+[[Category:Third-party tools]]
+[[en:Third-party_tools]]

@@ -1,0 +1,44 @@
+# 0.12.1.0
+# revid 23889  2026-06-28T21:36:15Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 5a04bdd87fc29cbba8ad7d4561c0f01de03dc7fd94fd730a84e6735c0b2d8740  bytes 2161
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| image1=Cursed Hollow.png
+| release_date=17 April 2025
+| official_name=Cursed Hollow
+| previous_major_version=[[0.12.0.1]]
+| previous_minor_version=[[0.12.0.2]]
+| next_minor_version=[[0.12.1.1]]
+| next_major_version=[[0.13.0]]
+}}'''0.12.1.0''', also known as the '''Cursed Hollow''' update, is a minor update released on 17 April 2025.<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-cursedhollow-update ''Phasmophobia Cursed Hollow - v0.12.1.0''. 17 April 2025.]</ref> It introduces the ''Cursed Hollow'' event, and fixes some bugs.
+
+==Additions==
+*Added the ''Cursed Hollow'' [[Special events#Easter 2025|event]].
+
+==Changes==
+*Implemented right stick deadzone support for all gamepads.
+
+==Fixes==
+*Added extra collision to some Maple Lodge Campsite picnic benches, to avoid VR players getting stuck.
+*Removed a safe spot behind the Bleasdale bedroom mirror.
+*Fixed several issues related to ghost line of sight introduced with the Bleasdale Farmhouse update.
+*Fixed an issue that would cause a blank unlock pop-up to display when reaching silver Apocolypse and level 80.
+*Fixed an issue that would prevent VR players from interacting with anything after being revived.
+*Fixed an issue that would prevent the alternate ports option from toggling on/off.
+*Fixed an issue that would cause bones to spawn in unreachable spots on beds.
+*Fixed an issue that would allows ghosts to stand on the coffee table in 10 Ridgeview Court.
+*Fixed an issue that caused 4 Crucifixes to spawn in the ‘Speedrun!’ Weekly Challenge, instead of the expected 2.
+*Fixed an issue that would allow ghosts to close doors during hunts.
+*Fixed an issue that would cause the outside temperature to remain the same after using the weather change wish.
+*Fixed an issue that would cause a persistent muffled sound when leaving a map with an active parabolic microphone.
+*Fixed an issue that could cause several cabinet doors to be pulled away from their hinges.
+
+==Known Issues==
+*Players may encounter lighting issues across various maps during the event period.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.12.1.0]]
+[[ru:0.12.1.0]]

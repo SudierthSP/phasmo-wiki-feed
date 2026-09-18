@@ -1,0 +1,295 @@
+# Guides/Identifying ghosts
+# revid 24656  2026-09-13T19:49:02Z  by Darkhooper
+# 备注: deogen
+# sha256 e049a7c4a4eb2243d0b6b47f8f6cb1c01ce52c62ea9857ce758dd4f49072be1c  bytes 16144
+# 源: https://phasmophobia.fandom.com/api.phpThis guide will teach you how to identify ghosts in ''Phasmophobia''.<!--thoughts on grouping by behaviour instead of (or in addition to) ghost? also todo: add images-->
+
+==Using evidences==
+The standard way of identifying a ghost is by collecting [[evidence]]. The list below presents a brief overview on how to collect evidences; more information may be found in their respective pages.
+
+===[[D.O.T.S. Projector (Evidence)|D.O.T.S Projector]]===
+A silhouette will appear when the ghost enters a "D.O.T.S state". Do not mistake your own breath for D.O.T.S.
+
+===[[EMF Level 5]]===
+When the ghost interacts with a door or object, take an [[EMF Reader|EMF reader]] and check for any EMF level 5 readings at that spot. If the ghost has EMF Level 5 as one of its evidences, there is a 33% chance for that interaction to show level 5 instead of level 2 or 3. You can also use a [[Ouija Board]] to check for EMF level 5 by repeatedly asking questions with a reader nearby. Note that electronic interference during hunts or ghost events will never result in a reading of level 5, though it ''can'' be obtained if the ghost leaves EMF 5 on an object and moves far enough during a hunt.
+
+===[[Ultraviolet]]===
+When a ghost interacts with a door, light switch, or window, take a [[UV Light]] and shine it around the object it interacted with. On some maps, the ghost can leave fingerprints on many more objects, including string light poles, cooler boxes, tent windows, and more. Be aware that each fingerprint will only last 2 minutes (or 1 minute on Insanity difficulty) before disappearing, and some could last for much shorter if the ghost is an Obake. Alternatively, the ghost can leave footprints behind after stepping in [[salt]]. Take heed that the ghost may leave no footprint if it decides to stop moving after stepping in salt.
+
+===[[Freezing Temperatures]]===
+Freezing Temperatures can be confirmed using the [[thermometer]] with a reading of {{Temperature|0.9}} or less. It is recommended to wait for the reading to go below {{Temperature|0}} on a Tier I thermometer due to its inaccuracy. The player's cold breath does not count as Freezing Temperatures.
+
+===[[Ghost Orb]]===
+Ghost Orbs can be viewed via [[Video Camera|video cameras]] and appear as a small dot that glides around slowly, flashing in and out of existence. Unless the [[ghost room]] changes on higher difficulties, they will remain in the same room, but will move around the room from time to time. Take care in observing them in snow or foggy weather; snow will never go upwards while Ghost Orbs may move in any direction, while fog may make it harder to see.
+
+===[[Ghost Writing]]===
+Ghost Writing works similar to the D.O.T.S. Projector in that the player simply waits for it appear.
+
+===[[Spirit Box (Evidence)|Spirit Box]]===
+When asking questions using the Spirit Box, ensure that the lights are off in the room, have only the questioner in the room if the ghost is stated to respond only to people who are alone (or on Professional difficulties and higher), and ask multiple times per room to improve accuracy. The ghost must be within the Spirit Box's range. Doing this only after the ghost has been located is usually less tedious. [[Motion Sensor]]s can help pinpointing the ghost's exact location.
+
+==Using traits==
+If the ghost refuses to give certain evidence, and when some pieces of evidence are hidden, observing the ghost's abilities and traits may be advantageous in finding out the ghost type. Certain ghosts will exhibit traits and behavior exclusive to their type, such as Mares interacting with lights more often, or Onis being more active and causing more ghost events. However, some of these traits are also subject to the game's random nature, and may or may not manifest itself because of this.
+
+===General tips===
+It is generally best practice to compare the "tests" that can be performed, and first conduct those that are more objective, or easier to observe. For example, when given a choice between Mare and Revenant, it is usually easier to check the ghost's speed during a hunt, as the Revenant's slow wander or fast chase speed can identify it immediately, instead of looking for abilities from the Mare like instant light-switching or light-shattering ghost events, as these are more prone to error due to the game's random nature. In addition, certain behaviours that the ghost exhibits any time in the contract may allow for instant identification or elimination, such as the Obake's six-fingered handprints or the Oni's inability to produce a mist form ghost event.
+
+Since the rate of ghost footsteps is tied to its speed, listening to the rate of footsteps will be useful in eliminating or confirming ghosts.
+
+===Narrowing ghosts to one with specific traits===
+The following section is for ways to identify or eliminate ghosts via specific traits and behaviours. A full list of ''mechanics'' of each ghost can be found in their respective pages.
+
+{| class="fandom-table"
+!Ghost
+!Unique identifiers or anti-tells
+!Other possible identifiers
+|-
+![[Aswang]]
+|
+*Base speed of 1.53 m/s
+*Line-of-sight acceleration to maximum speed over 8.67 seconds instead of 13
+*Hunt ends if reaches player inside an official [[Hiding Spots|hiding spot]]
+|
+*Can move during the grace period
+|-
+![[Banshee]]
+| 
+*Cannot be male
+*Targets a single player, ignoring all other players (if target is inside)
+*Target loses 15% sanity instead of 10% if colliding with ghost during a singing ghost event
+*Chance of emitting a scream via [[Parabolic Microphone]]
+|
+*Prefers singing ghost events
+*Frequently travels to target outside of hunts; use motion sensors to check
+*Hunts based on target's sanity instead of average sanity
+|-
+![[Dayan]]
+|
+*Cannot be male
+*Fixed speed of 2.25 m/s or 1.2 m/s, respectively when the closest player within 10 metres is moving or is standing still, standard speed otherwise
+|
+*Hunt sanity threshold of 65% or 45%, respectively when the closest player within 10 metres is moving or is standing still, 50% otherwise
+|-
+![[Deildegast]]
+|
+*Fixed speed of 3.0 m/s, decreased by 0.1 m/s for each item the player has interacted with before the hunt, until a minimum speed of 0.4 m/s
+|
+|-
+![[Demon]]
+|
+*Minimum hunt cooldown of 20 seconds instead of 25 seconds
+*Cleansing prevents hunts for 60 seconds instead of 90 seconds
+|
+*Effective [[crucifix]] range is 50% larger
+*Hunt sanity threshold of 70%, with rare chance to hunt at any sanity
+|-
+![[Deogen]]
+|
+*Has guaranteed [[Spirit Box (Evidence)|Spirit Box]] when at least 1 type of evidence is available
+*Always knows the location of all players, and speed is based on distance to currently targeted player (3 m/s when further than 5.32 metres, 0.4 m/s when closer than 2.42 metres)
+*More visible during hunts
+*Chance of emitting breathing via Spirit Box
+|
+*Hunt sanity threshold of 40%
+|-
+![[Gallu]]
+|
+*Cannot disturb salt piles while in enraged state
+*Respectively while in normal, enraged, or weakened state:
+**Base speed of 1.7 m/s, 1.955 m/s, or 1.36 m/s
+**Incense blinds for 5 seconds, 4 seconds, or 6 seconds
+**Effective crucifix range is normal, reduced by 2 metres, or increased by 1 metre
+|
+*Hunt sanity threshold of 50%, 60%, or 40%, respectively while in normal, enraged, or weakened state
+|-
+![[Goryo]]
+|
+*Has guaranteed [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]] when at least 1 type of evidence is available
+*D.O.T.S. silhouette only visible through a [[Video Camera|video camera]], and while no players are in the ghost's current room
+*Cannot change favourite room
+|
+*Cannot perform long roams; ghost activity is relatively confined to favourite room and immediate vicinity
+|-
+![[Hantu]]
+|
+*Has guaranteed [[Freezing Temperatures]] when at least 1 type of evidence is available
+*Fixed speed based on current room's temperature; slowest at 1.4 m/s when above {{Temperature|15}}, fastest at 2.7 m/s below {{Temperature|0}}
+*Emits freezing breath during a hunt if fuse box is turned off
+*Cannot turn on the fuse box
+|
+*Twice as likely to turn off the fuse box compared to other ghosts
+|-
+![[Jinn]]
+|
+*Fixed speed of 2.5 m/s if three conditions are met, standard speed otherwise
+*Occasionally drains sanity of a nearby player by 25%, leaving an EMF reading at the fuse box
+*Cannot turn off the fuse box directly, but can still overload it if too many lights are turned on
+|
+|-
+![[Kormos]]
+|
+*Cannot perform mist form and chasing ghost events
+*Cannot see the player unless they move within 5 metres
+*Can detect the player's footstep sounds
+*Base speed of 1.7 m/s, multiplied by 1.3 if the player is detected further than 5 metres away
+|
+*Hunt sanity threshold of 70% if a player sprints in the same room, 50% otherwise
+|-
+![[Mare]]
+|
+*Cannot turn individual lights on (except motion activated lights)
+*Chance of turning a nearby light off immediately if a player turns it on
+**Any ghost can do this ''by chance''
+|
+*Prefers light-shattering ghost events
+*More likely to perform long roams when lights are on
+*Hunt sanity threshold of 40% or 60%, respectively when lights are on or off
+**Applies even if fuse box is off/broken
+|-
+![[Moroi]]
+|
+*Has guaranteed [[Spirit Box (Evidence)|Spirit Box]] when at least 1 type of evidence is available
+*A cursed player has double passive sanity drain, and lights no longer stop it
+*Base speed based on current average sanity; slowest at 1.5 m/s above 45% sanity, fastest at 2.25 m/s below 5% sanity
+*Incense blinds the Moroi for 50% longer
+|
+|-
+![[Myling]]
+|
+*Footsteps and vocalisations can only be heard within 12 metres instead of 20
+*Can produce two paranormal sounds on the Parabolic Microphone or the Sound Recorder within 80 seconds
+|
+|-
+![[Obake]]
+|
+*Has guaranteed [[Ultraviolet]] when at least 1 type of evidence is available
+*Chance to leave unique fingerprint pattern
+*Chance to ''not'' leave fingerprints when interacting with a valid surface (for standard difficulties)
+*Occasional ability to halve the remaining duration of existing fingerprints on the map
+*Can appear as a different [[ghost model]] for a flicker during a hunt
+|
+|-
+![[Obambo]]
+|
+*Base speed of 1.955 m/s or 1.445 m/s, respectively while in aggressive or calm state
+*Hunt duration is decreased by 20% when started in aggressive state
+|
+*Hunt sanity threshold of 65% or 10%, respectively while in aggressive or calm state
+|-
+![[Oni]]
+|
+*Cannot perform mist form ghost events
+*More visible during hunts
+*Double sanity drain during a ghost event if it collides with a player (20% instead of 10%)
+|
+*Prefers full form instead of shadow/translucent form during ghost events
+|-
+![[Onryo]]
+|
+*Cannot light fire sources
+*Will blow out and override a flame's individual timer when attempting a hunt near it
+*Can attempt a hunt after blowing out 3 flames
+|
+*Hunt sanity threshold of 40% when near flames, 60% otherwise
+|-
+![[Phantom]]
+|
+*Taking a photo/video of a Phantom will make it become invisible for that specific instance that it appears
+**Ghost photo/video will have no interference, and the ghost will not be visible. Note that this can occur for any ghost if the photo/video is taken exactly at the end of the ghost event/hunt, and the photo/video can also have no interference if taken from another floor
+*More invisible during hunts
+*Can travel to a random player, leaving an EMF reading at head level
+|
+|-
+![[Poltergeist]]
+|
+*Can throw multiple items at the same time, even when the lights are on
+*During a hunt, has a 100% chance to throw a nearby item every 0.5 seconds, instead of 50%
+|
+*Tends to throw objects more frequently than other ghosts in general
+*Can throw items much further than other ghosts (up to twice as far)
+|-
+![[Raiju]]
+|
+*Fixed speed of 2.5 m/s if at least one piece of active electronic equipment nearby, standard speed otherwise
+*Electronic interference range during ghost events or hunts is 15 metres instead of 10 metres
+|
+*Hunt sanity threshold of 65% if at least one piece of active electronic equipment nearby, 50% otherwise
+|-
+![[Revenant]]
+|
+*During a hunt, moves at 1 m/s if no player detected. If a player is detected or when moving to last known player location, moves at 3 m/s
+|
+|-
+![[Shade]]
+|
+*Cannot perform interactions, ghost events, or hunts if at least one player is in the same room as the ghost
+*If summoned by a [[Summoning Circle]], a [[Music Box]], or a [[Monkey Paw]], has a chance of appearing as a shadow instead of a full form during the ghost event phase
+|
+*Above 50% average sanity, increasing sanity means decreasing chance of ghost events
+*Prefers mist form ghost events
+*Prefers shadow form instead of full/translucent form during ghost events
+*Hunt sanity threshold of 35%
+|-
+![[Spirit]]
+|
+*Cleansing prevents hunts for 180 seconds instead of 90 seconds
+|
+|-
+![[Thaye]]
+|
+*Fixed speed based on "age" parameter; 2.75 m/s at youngest and 1 m/s at oldest
+|
+*Age parameter also affects activity and hunt sanity threshold:
+**Twice as active compared to standard ghost when youngest, half as active compared to standard ghost when oldest
+**Hunt sanity threshold of 75% at youngest, 15% at oldest
+|-
+![[The Mimic]]
+|
+*Ghost Orbs as "secondary evidence" in addition to main evidence types; this means that they will always be present, even on 0-evidence difficulties
+*Randomly mimics another ghost, along with all its abilities and behaviour. Will change every 30 seconds to 2 minutes, but not during hunts
+|
+|-
+![[The Twins]]
+|
+*Has two separate interaction ranges. Occasionally, will interact with the environment almost simultaneously (within 1 second) using these two ranges; noticing two interactions occurring in very quick succession at two separate locations can indicate The Twins
+*Base speed of 1.5 m/s if hunt starts from where the ghost actually is, 1.9 m/s if it starts from the location where the large-range interaction occurred
+|
+*Noticing interactions far away from the favourite room (especially on larger maps) could indicate The Twins
+*Crucifixes only work from the ghost's actual position, so "Fast Twin" hunts can appear to begin directly on top of a crucifix
+|-
+![[Wraith]]
+|
+*Cannot disturb salt piles
+*Can teleport to a random player, leaving an EMF reading at feet level
+|
+|-
+![[Yokai]]
+|
+*Can only sense player voices/held electronics within 2.5 metres
+|
+*Increased ghost activity if players are talking near the ghost
+*Hunt sanity threshold of 80% if players are talking in the same room as the ghost, 50% otherwise
+|-
+![[Yurei]]
+|
+*Occasionally drains sanity of all nearby players by 15% and closes a door smoothly
+**The exit door can be affected by this ability, making this ghost the only one that can interact with it outside of ghost events and hunts
+*Cannot slightly move doors outside of hunts
+|
+*Cannot roam out of favourite room for 90 seconds if cleansed
+|}
+
+==Other tips==
+===Elimination by negatives===
+If you can be sure that the ghost will not provide a particular piece of evidence, you can eliminate all ghosts that have that piece of evidence. This also works on Nightmare difficulty, but requires two negatives instead; for example, if you can be sure that the ghost will not give both Ultraviolet and Freezing Temperatures, then you can eliminate four ghosts: Demon, Hantu, Jinn, and The Mimic. Conclusively eliminating evidence may be trickier for chance-related evidence like EMF Level 5, for example. This strategy is more useful if you are unable to easily find evidence in the first place.
+
+===Speed-altering defensive equipment===
+Some higher-tier defensive equipment, such as Tier III Salt and Tier II and III Incense, can temporarily reduce or even halt the ghost's movement entirely, potentially masking the unique movement behavior of several ghost types. Past being mindful of these attributes, if the ghost needs to be identified through its speed or movement, using lower tier defensive items that do not affect the ghost's movement can be considered, although this will require giving up the significant power of these higher tier items.
+
+==See also==
+*[[Ghost#Evidence]]
+*[[Ghost#Ghost types]]
+
+[[ru:Руководства/Определение типа призрака]]
+[[Category:Guides]]
+[[fr:Guides/Identifier les entités]]

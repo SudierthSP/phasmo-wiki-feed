@@ -1,0 +1,253 @@
+# 0.10.0
+# revid 23875  2026-06-28T21:35:05Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 f7159f5b1cad05184ea09edc611cb2f9b5a60f9d484525586c5524c6584ba908  bytes 14684
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | image1=Phas eventide (2).png
+ | official_name=Eventide
+ | release_date=24 June 2024 (Official Partners early access)<br>25 June 2024 (public release)
+ | previous_major_version=[[0.9.0]]
+ | previous_minor_version=[[0.9.6.1]]
+ | next_minor_version=[[0.10.0.1]]
+ | next_major_version=[[0.11.0]]
+}}'''0.10.0''', also known as the '''Eventide''' update, is a major update released on 25 June 2024.<ref>[https://store.steampowered.com/news/app/739630/view/6086132471878577638 The next update, console, merch and more... 18 June 2024 (on Steam).]</ref><ref>[https://store.steampowered.com/news/app/739630/view/6215608421522854557 ''Eventide | Major Update v0.10.0.0'', 25 June 2024 (on Steam).]</ref><ref group="note">Official Kinetic Games Partners were given early access keys on 24 June 2024.</ref> It features the addition of the Point Hope map, changes to progression, optimization improvements, and more.
+
+==Additions==
+===Maps===
+*Added [[Point Hope]]
+**A new location featuring 10 floors, 12 rooms, and a unique layout which will challenge players in new ways
+**Unlocks at level 15
+
+===Miscellaneous===
+*New ID Card badges can now be unlocked:
+**'''Lighthouse Keeper''': Correctly identify the ghost on Point Hope 50 times on any difficulty
+**'''Apocalypse bronze''': Correctly identify the ghost, take a ghost photo and complete all objectives on Sunny Meadows with a difficulty multiplier of 6 or higher
+**'''Apocalypse silver''': Correctly identify the ghost, take a ghost photo and complete all objectives on Sunny Meadows with a difficulty multiplier of 10 or higher
+**'''Apocalypse gold''': Correctly identify the ghost, take a ghost photo and complete all objectives on Sunny Meadows with a difficulty multiplier of 15
+*Players can now carry an Igniter in addition to 3 other items (''Note: Non-VR players can only carry one Igniter at a time, similar to flashlights'')
+**Igniters now have their own slot in the VR belt (When placing a tier 1 igniter in this slot, you won't be able to remove it again, until all matches have been drawn)
+*Unlocking a new reward that is not tied to levelling up will now show a popup on the mission summary screen
+*Ghost Writing Books now play new sounds when closed
+*Added Kate and Catherine to possible ghost first names
+*Ghosts can now leave single fingerprints on all small lamps and TV remotes in all locations
+
+==Changes==
+===Gameplay===
+;Player levelling and rewards
+*The required EXP to level from 1-100 has been reduced by around 10%, making levelling faster
+*Players can now level up to 9999 for each prestige
+*The required experience needed to level up between 999 and 9999 will increase every level
+*Increased rewards for correctly identifying the ghost in medium and large locations
+**Medium: from $125 to $150
+**Large: from $150 to $200
+
+===Maps===
+*[[Sunny Meadows Mental Institution#Sunny Meadows Mental Institution - Restricted|Sunny Meadows Restricted]] is now categorized as a medium location
+
+===Training===
+*Lowered the temperature of Training to make the Freezing Temperatures section much faster to progress
+*Reduced the amount of equipment to 1 in each room
+*You now have to get EMF 5 to get past the EMF room
+*Props will now get thrown more frequently in the EMF room
+*Replaced the glowstick with the UV torch (as per the Tier changes below)
+*In the Ghost Orb section, players will now need to be more accurate with the video camera to avoid accidently completing the objective without seeing the Ghost Orb
+
+===Equipment===
+;[[D.O.T.S. Projector]]
+*Tier I's light range has been increased
+*Tier III's scanning effect can now be paused by interacting with it while it is rotating
+
+;[[EMF Reader]]
+*Tier I's needle will no longer flicker near or past the 5 value during events and hunts, to stop confusion with evidence
+*Tier III's EMF5 reading now plays a unique sound
+
+;[[Firelight]]
+*Increased the visible light intensity and range for both Tier I and II
+*Tier I duration increased from 3mins to 5mins
+*Tier II duration increased from 5mins to 10mins
+*Firelights and Igniters will now be extinguished accurately in heavy rain. For example, they will no longer be extinguished under house porches and inside small tents
+
+;[[Head Gear]]
+*A customizable keybinding has been added to the Controls page for turning on and off Head Gear
+*Turning Head Gear I on and off will now play different sounds to help know which state the equipment is in
+*While within range of a ghost event or hunting ghost:
+**Tier III will now have visual interference
+**All Tiers will now play a new sound
+
+;[[Parabolic Microphone]]
+*Tier I's red light will now flicker when a sound is detected
+*Tier III can now receive sounds 1 floor above or below the player using it, with new UI to show which floor the sound is coming from
+*You now have to hold Parabolic Microphones to turn them on or off
+
+;[[Sanity Medication]]
+*Tier I restoration time has decreased to 20s, from 30s
+*Tier II restoration time has decreased to 10s, from 20s
+*Tier III will now instantly refill your sprint endurance in addition to keeping it full for 10s
+
+;[[Sound Sensor]]
+*Mute buttons have been added to each Sound sensor's Truck UI
+
+;[[Spirit Box]]
+*Small environment lights such as lamps must now also be turned off to receive a response
+*You must now hold the Spirit box to use it with text-based voice recognition
+
+;[[Thermometer]]
+*Holding down the USE button while holding a Thermometer II or III will now continuously update, instead of having to restart after each reading
+*Tier I now has randomization to make it consistent with the other Tiers
+*Tier II Hold time has been reduced to 2.5s from 3s
+*Tier III randomization has been reduced to make it more accurate
+
+;[[Tripod]]
+*Tripod I knockdown chance increased from 20%, to 30%
+*Tripod II knockdown chance increased from 10%, to 20%
+
+;[[UV Light]]
+*Tier I and II have been swapped for better progression during levelling
+
+;[[Video Camera]]
+*Ghosts will now throw Video Cameras more consistently
+
+;General
+*You can no longer swap inventory slots while taking a photo
+*Removed flashlights from Hide and Seek Extreme as they were disabled from settings
+*"Deja Vu" weekly now has UV T1 instead of T2 to keep it a flashlight
+*Glow in the dark weekly now has T2 instead of T1 to keep it a glowstick
+*Asking the Ouija Board bone location questions will now drain 20% sanity, down from 50%, due to bone rewards not being included in the reward multiplier
+*Lighting the Summoning Circle candle will now instantly end the setup phase
+
+===Ghosts===
+*Non-Ghost Writing ghosts now close the book after throwing it
+*Ghosts can no longer interact with already knocked-down paintings
+*Shades can no longer blow out fire sources or write in Ghost Writing books if there are any players in the room, to keep their strength consistent
+*Improved the ghost's ability to interact with closed doors
+*Improved Banshee AI targeting when they stalk a player
+*"I wish to see the ghost" will now limit your vision after the ghost event instead of before, to allow you to see the ghost
+*Increased the sanity drain on one of the ghost events to match other events
+
+===Environment===
+*"Paranormal Paparazzi" and "Hide and Seek: Hide" weekly challenges now take place in Point Hope
+*Drastically improved the Sunrise visuals
+*Turning on several light switches in a room, but not all, will now drain sanity at a reduced rate, instead of the full 'sanity drain speed'
+*Props that don't move when hit with another prop will no longer play an additional impact sound
+*Adjusted all weather's distant fog color for better blending with the horizon
+*Removed Point Hope teasers from all maps and lobby
+*Optimised assets across all maps
+*Lowered resolution for light cookies (flashlight light shapes etc) but increased resolution for sky light shadows
+*Moved the green bowl in Edgefield living room to help with the lamp interaction and new fingerprints
+*The Tanglewood utility room door can now be closed correctly by the ghost
+*Medium tent windows now have correct collision on both sides
+
+===General===
+;Optimization
+*Improved the performance of several areas of the game, which will result in fewer stutters, higher FPS, and quicker loading times, especially on low-end machines. The following have received the biggest adjustments:
+**Photo and video cameras
+**Shadows
+**The weather and sky effects
+**UI
+**Physics
+**Audio
+**Reflections
+**Textures and shaders are now streamed to the GPU to significantly reduce VRAM and RAM usage
+**Tent door's cloth system has been completely overhauled to increase performance
+
+;Audio
+*Adjusted audio effects to help identify if sounds are above or below you
+**Sounds that are one floor above are bass-boosted and muffled
+**Sounds that are one floor below will be more muffled and quiet
+**Sounds that are two floors above you or below will have more extreme effects and volume reduction
+*The heartbeat sound will no longer be altered by reverb or other audio effects
+*Audio levels for the ambient room tone and Ouija Board have been remastered to bring them in line with other sounds
+*Reduced the volume for the writing sound for Ghost Writing Book III
+
+;UI
+*Difficulty, Money and Prestige level-up popups have received new images
+*Improved color accuracy of several UI components
+*Increased the width of the scrollbars in the Shop to make it easier for VR players
+*Several ID card titles have been renamed and shortened
+*Changed "Interaction amount" to "Activity level" in custom settings to better reflect what it does
+
+==Fixes==
+;Player
+*Player movement will no longer be affected by held equipment
+*Stamina recovery will correctly now start even if you are still holding down the sprint button but not moving
+*There is no longer a visual glitch when rapidly equipping and unequipping the Head Gear as one of the player models
+*You can now change your sprint mode while in a game, in VR
+*Fixed several areas where VR teleport movement could not teleport to
+*Changing your sprint mode to "hold" from "toggle" on PC, while sprint is toggled on, will no longer keep you sprinting, without pressing the sprint button
+*Removed sprinting FOV increase due to a graphical issue
+
+;Ghosts
+*Hanging Paintings thrown by the ghost will no longer fall through the floor
+*The ghost and bone can no longer get stuck in several locations
+*Yurei can now use their ability on doors that are open at the start of the game
+*Demon and Banshee attempting to use their ability, but failing, will no longer add to the "abilities used" stat
+*Ghosts will no longer keep throwing the same object over and over, and will instead choose more varied items within it's interaction range
+*"Hide and seek extreme" now correctly has 3 evidence instead of only 2
+*Ghost event player detection will no longer include dead players if they didn't move after dying
+
+;Equipment
+*Motion Sensor II and III detection sounds can now be heard consistently
+*Parabolic Microphone II now displays the correct volume values
+*You can no longer get readings on the Parabolic microphone when in the truck
+*DOTS I and UV Light II's light will no longer stop emitting when placed in some areas
+*Changing the Sound Sensor size in the truck now only changes the area of effect UI instead of the equipment UI
+*The Parabolic microphone will no longer pick up sounds when in the truck
+*EMF reader I will now point the needle closer to the EMF value, instead of including the EMF values above and below it
+*You can no longer take multiple photos of the same EMF interaction by using your inventory to refresh the EMF spot
+*Head Gear II will no longer be detected by the ghost when on if flashlights are disabled in custom settings
+*An active Parabolic Microphone will no longer muffle your audio when picked up, while holding another item
+*All Sound Sensor Tiers and Firelight Tier II are now more stable when placed in VR
+*You can no longer light other people's Incense by physically moving a fire source into it
+*VR players can now consistently place a Video Camera on a Tripod that is still attached to the Truck wall
+*The Ouija board will no longer break when saying goodbye with 0 sanity
+*Crucifix III will now be fully used for all players after it prevents a Cursed Hunt
+*Extinguished matches will no longer light other objects
+*You no longer need to swap hands between each Tarot Card draw in VR
+*Grabbing/swapping props or equipment in VR will no longer set the wrong hand position and rotation
+*Igniters can no longer be used if another player fully used up the fuel
+*Tripod III placement highlight is now visible when first placed
+*UI for text voice recognition will no longer get stuck if another player grabs the Ouija Board while you are using it
+*All Motion and Sound Sensor map icons are now accurately sized on all maps
+
+;Environment
+*The player and ghost will now correctly be detected when moving between different rooms and floors, this will make evidence gathering more consistent
+*Sunny Meadows reverb sound effects will no longer turn off while moving around in certain rooms
+*Maple Lodge Cabin window fingerprints will be visible again
+*Removed several locations where the ghost could get out of bounds in Sunny Meadows
+*Removed a spot where the ghost could get stuck behind the generator in Camp Woodwind
+*The camping chair next to the lovers' bench on Woodwind is no longer white
+*All overhead tarps on Maple Campsite now have rain sounds
+*Reduced visibility of geometry seams where you can see skybox in Sunny Meadows
+*Keys collected will now have the correct name in the Journal
+*Window rain will no longer make things black when viewed from certain angles
+*All Brownstone High School windows and doors now have the correct fingerprint material
+*You can no longer place equipment in the gap under the cabin
+*Lights will no longer turn on if you turn them off during a flicker
+*Added skybox blockers to multiple areas to stop tiny gaps in geometry that show the sky:
+**Tanglewood
+**Edgefield
+**Ridgeview
+**Willow
+
+;Sound
+*Impact sounds will no longer play multiple times at once
+
+;UI
+*Skipping the animation when you level up more than once will no longer skip the previous levels' unlock popups
+*Challenge map names will now be correct
+*You can no longer complete the ghost photo objective when there is no space for photos in the journal
+
+==Known Issues==
+*Deogen pathing can be inconsistent during hunts on Point Hope
+*Small items can occasionally fall through walls and floors in Point Hope
+*Interactions can sometimes repeat multiple times
+*MSAA will cause visual artifacts while dead
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.10.0]]
+[[ru:0.10.0]]

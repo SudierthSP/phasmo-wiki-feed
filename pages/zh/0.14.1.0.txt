@@ -1,0 +1,27 @@
+# 0.14.1.0
+# revid 3899  2025-09-15T15:04:28Z  by Qsefthuopq
+# sha256 1336681131739917721a9b34f42842721389abb33ac3b447d39f878f88538d3d  bytes 1094
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+| release_date=2025年9月15日
+| previous_major_version=[[0.14.0.0]]
+| previous_minor_version=[[0.14.0.1]]
+| next_minor_version=
+| next_major_version=
+}}'''0.14.1.0'''是2025年9月15日发布的一个小更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-01410 Phasmophobia 5周年纪念v0.14.1.0 ]2025年9月15日。</ref>本次更新五周年庆典活动。
+
+==新增内容==
+*'''五周年庆典'''：为纪念恐鬼症五周年，主大厅现已装点各式生日装饰。
+
+*'''周年奖励'''：9月15日至9月21日期间，所有玩家将获得“双倍经验和金钱”！汇报界面会显示“5周年- x2”。
+
+*'''周年登录奖励'''：活动期间登录即可领取专属周年纪念徽章——感谢您陪伴恐鬼症走过的五年时光
+
+==修复漏洞==
+* Twitch掉宝弹窗现在显示连接的Twitch帐户的用户名，使其更容易确认玩家的帐户正确链接。
+
+* 新增Twitch掉宝弹窗断连按钮，玩家可直接通过弹窗解绑账户，操作更便捷。
+
+==参考资料==
+{{Reflist}}
+{{VersionNav}}
+[[Category:开发]]

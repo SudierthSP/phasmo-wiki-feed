@@ -1,0 +1,333 @@
+# Point Hope
+# revid 24857  2026-09-18T04:09:36Z  by Darkhooper
+# 备注: more rooms allowing short roams to another floor
+# sha256 07d8b8858c18b50fd5fd6e56936803e1aa28c5a520ba9ecdd907a05c93507df7  bytes 15381
+# 源: https://phasmophobia.fandom.com/api.php{{Location
+|img=PointHope Top.png
+|imgcaption=A view from the top of the lighthouse.
+|mapsize=Medium
+|unlocklevel=15
+|floors=10
+|rooms=16 (Total)
+*10F: 1
+*9F: 2
+*8F: 1
+*7F: 2
+*6F: 2
+*5F: 2
+*4F: 1
+*3F: 1
+*2F: 1
+*1F: 3
+*12 possible ghost rooms
+|exits=1
+|faucets=3
+|videofeeds=1
+|keys=Main Door Key, Lantern Cabinet Key
+|img rooms=Rooms Point Hope.png
+|img sanity=Sanity Point Hope.png
+|img temperatures=Temperatures Point Hope.png
+}}
+{{Quote
+|speaker=Loading blurb
+|quote=A young family recently moved into this long-dormant lighthouse, but it was already home to something else.
+}}'''Point Hope''' is a medium [[map]] in ''Phasmophobia''. It is a ten-story lighthouse, totaling sixteen rooms. It has a cramped, narrow, linear environment, with spiral staircases and circular rooms, providing a unique challenge to investigators, as sole avenues of escape can be cut off by a wandering [[Ghost]].
+
+==Structure==
+Point Hope consists of an extended ground floor underneath an additional nine, roughly evenly-sized rooms that each count as a separate floor. It has two bathrooms, one smaller one on the first floor and a much larger one that dominates the fifth floor, and two bedrooms, a master bedroom on the sixth floor and a child's bedroom directly above on the seventh floor. The top floor opens out to a balcony that overlooks the surrounding environment.
+
+===Layout tips===
+*Point Hope is defined by its very linear structure: there is only ever one route to getting to a different area of the map.
+*The circular Balcony on the top floor has two doors that lead out to it, but the door that has a view of the sea below has a much shorter path to the stairwell that heads back down to Lantern Room Bottom.
+*Balcony is considered on the same floor as Lantern Room Bottom despite being visually on the same floor as Lantern Room Top. This is likely an oversight from the developers when they split Lantern Room into two rooms in [[0.10.1.0]].
+
+The following rooms cannot be chosen as the [[Ghost Room|favourite room]]:
+*Bathroom Hallway
+*Master Bedroom Hallway
+*Child Bedroom Hallway
+*Balcony
+
+The following rooms don't have any [[light]]s and hence don't prevent passive [[sanity]] drain:
+*Lantern Room Top
+*Balcony
+
+The following rooms allow short [[Roaming|roams]] to another floor to be completed:
+<div style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+*Entry Hallway
+*Kitchen
+*Dining Room
+*Games Room
+*Bathroom Hallway
+*Bathroom
+*Master Bedroom Hallway
+*Master Bedroom
+*Child Bedroom Hallway
+*Child Bedroom
+*Maintenance Room
+*Lantern Room Bottom
+*Lantern Room Top
+*Balcony
+</div>
+
+Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
+{| class="article-table"
+!Parameter
+!None
+!Low
+!Medium
+!High
+|-
+!Number
+|0
+|2
+|4
+|6
+|}
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 11 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Entry Hallway
+|[[File:PH Entry Hallway unavailable.png|200px]]
+|[[File:PH Entry Hallway available.png|200px]]
+|-
+|Entry Bathroom
+|[[File:PH Entry Bathroom unavailable.png|200px]]
+|[[File:PH Entry Bathroom available.png|200px]]
+|-
+|Living Room
+|[[File:PH Living Room 1 unavailable.png|200px]]
+|[[File:PH Living Room 1 available.png|200px]]
+|-
+|Living Room
+|[[File:PH Living Room 2 unavailable.png|200px]]
+|[[File:PH Living Room 2 available.png|200px]]
+|-
+|Living Room
+|[[File:PH Living Room 3 unavailable.png|200px]]
+|[[File:PH Living Room 3 available.png|200px]]
+|-
+|Kitchen
+|[[File:PH Kitchen unavailable.png|200px]]
+|[[File:PH Kitchen available.png|200px]]
+|-
+|Dining Room
+|[[File:PH Dining Room unavailable.png|200px]]
+|[[File:PH Dining Room available.png|200px]]
+|-
+|Master Bedroom
+|[[File:PH Master Bedroom unavailable.png|200px]]
+|[[File:PH Master Bedroom available.png|200px]]
+|-
+|Child Bedroom
+|[[File:PH Child Bedroom unavailable.png|200px]]
+|[[File:PH Child Bedroom available.png|200px]]
+|-
+|Maintenance Room
+|[[File:PH Maintenance Room unavailable.png|200px]]
+|[[File:PH Maintenance Room available.png|200px]]
+|-
+|Lantern Room Bottom
+|[[File:PH Lantern Bottom unavailable.png|200px]]
+|[[File:PH Lantern Bottom available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|11
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|8
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|7
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|5
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+==Point Hope - Restricted==
+{{Location
+|title=Point Hope Restricted
+|img=PH Restricted.png
+|imgcaption=A view inside the dining room with the staircase leading to the upper floors blocked off.
+|mapsize=Small
+|floors=3
+|unlocklevel=15
+|rooms=5 (Total)
+*3F: 1
+*2F: 1
+*1F: 3
+|exits=1
+|faucets=2
+|videofeeds=1
+|keys=Main Door Key
+|img rooms=Rooms PH Restricted.png
+|img sanity=Sanity PH Restricted.png
+|img temperatures=Temperatures PH Restricted.png
+}}
+The restricted version of the map can be selected independently of the main location, and is considered a small map. In the Restricted version, only the bottom portion of the map up to the dining room (totalling 3 floors) are able to be accessed, with furniture blocking the staircase up to the games room and the rest of the map. The [[Cursed Possession]] spawn locations from the floors above have been relocated to the accessible portion of the map.
+
+===Layout tips===
+The following rooms allow short [[Roaming|roams]] to another floor to be completed:
+*Entry Hallway
+*Kitchen
+*Dining Room
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 7 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Entry Hallway
+|[[File:PH Entry Hallway unavailable.png|200px]]
+|[[File:PH Entry Hallway available.png|200px]]
+|-
+|Entry Bathroom
+|[[File:PH Entry Bathroom unavailable.png|200px]]
+|[[File:PH Entry Bathroom available.png|200px]]
+|-
+|Living Room
+|[[File:PH Living Room 1 unavailable.png|200px]]
+|[[File:PH Living Room 1 available.png|200px]]
+|-
+|Living Room
+|[[File:PH Living Room 2 unavailable.png|200px]]
+|[[File:PH Living Room 2 available.png|200px]]
+|-
+|Living Room
+|[[File:PH Living Room 3 unavailable.png|200px]]
+|[[File:PH Living Room 3 available.png|200px]]
+|-
+|Kitchen
+|[[File:PH Kitchen unavailable.png|200px]]
+|[[File:PH Kitchen available.png|200px]]
+|-
+|Dining Room
+|[[File:PHR Dining Room unavailable.png|200px]]
+|[[File:PHR Dining Room available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|7
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|5
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|3
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|1
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+==Bone locations==
+Bones spawn randomly, but will only spawn in areas that a ghost can also walk on, within a room that can be chosen as a [[Ghost Room|favourite room]]. Additionally, the bone cannot spawn in '''Lantern Room Top'''.
+
+==Cursed possession locations==
+<tabber>
+|-|Regular=
+<gallery>
+File:PH-Cards.png|The [[Tarot Cards]] spawn on the table between two couches in the Living Room.
+File:PH-Mirror.png|The [[Haunted Mirror]] spawns besides a cupboard in the Dining Room.
+File:PH-Ouija.png|The [[Ouija Board]] spawns on a shelf in the Games Room.
+File:PH-Circle.png|The [[Summoning Circle]] spawns on the Bathroom floor.
+File:PH-Box.png|The [[Music Box]] spawns on the vanity table in the Master Bedroom.
+File:PH-Doll.png|The [[Voodoo Doll]] spawns on a wooden chest of drawers in the Child Bedroom.
+File:PH-Paw.png|The [[Monkey Paw]] spawns on the desk with the wooden horse in the Maintenance Room.
+</gallery>
+
+|-|Restricted=
+<gallery>
+File:PHR-Cards-Paw.png|The [[Tarot Cards]] and the [[Monkey Paw]] spawn on the table between two couches in the Living Room.
+File:PHR-Doll.png|The [[Voodoo Doll]] spawns on a chest below the stairs in the Living Room.
+File:PHR-Circle.png|The [[Summoning Circle]] spawns on the Kitchen floor.
+File:PHR-Box.png|The [[Music Box]] spawns on the sideboard in the Dining Room.
+File:PHR-Ouija.png|The [[Ouija Board]] spawns under the ottoman in the Dining Room.
+File:PHR-Mirror.png|The [[Haunted Mirror]] spawns besides a cupboard in the Dining Room.
+</gallery>
+</tabber>
+
+==Tips==
+*A single match in a box can be found in the Games Room on the fireplace. While usually irrelevant, it is useful to know where it is in case the player makes a mistake such as bringing in [[Incense]] or a [[Firelight]] without taking an [[Igniter]].
+*Due to its linear layout, it can take extremely long to get from the entrance to a higher floor room such as the Lantern Room Top; coupled with a relatively fast sanity drain and a lower maximum number of lights that can be turned on due to its medium classification, this map can be deceptively difficult if the ghost selects a higher floor as its favourite room.
+**Extensive use of Firelights, and keeping on the hallway lights of floors on the way to points of interest such as the [[Ghost Room]] and [[Fuse Box]] (or, in the case of a ghost located towards the top of the building, about six or seven, in order to leave margin for a light source to be turned on, either accidentally by a player or by the ghost, without tripping the breaker), is strongly advised to help preserve sanity.
+*During a [[hunt]], moving between floors can be very dangerous, especially if the location of the ghost room isn't known, both due to the map's linear structure and because the ghost's vocalizations will be muffled when it's on different floors. It is best to make note of which floors have available hiding spots, and which ones can be moved to without having to pass through where the ghost is likely to be on the way there. However, due to the lack of sight lines up and down the stairwells, escaping the ghost during a chase is quite feasible, as line-of-sight can be quickly broken simply by heading up or down a flight of stairs.
+*Some floors feature a large, solid pillar at the centre of them, which can be circled around and used to [[Guides/Surviving a hunt#Looping the ghost|loop]] the ghost. These are best used to regenerate stamina and break line-of-sight to facilitate running up or down stairs.
+*While the first floor has by far the highest density of hiding spots among all floors on the map (just under half of the map's hiding spots are located either in the living room or the entrance rooms), hiding on that floor can be risky, especially if the ghost is also on the ground floor. Likely due to a bug, ghosts can and will enter the hiding spots unprovoked (both during and outside of hunts) - it is advised for players to have Incense ready if the ghost is roaming around a lot nearby.
+
+==Easter Egg: Ferryman of the Drowned==
+Point Hope contains an easter egg that gives the "Ferryman of the Drowned" [[ID Card]] after leaving through the [[truck]] when triggered.
+
+In order to trigger the easter egg, the player will need at least one working [[UV Light|UV light]] ready and complete the following steps on any difficulty:
+#First, the player needs to throw three different balls in the pool table in the Games Room in any of the holes in a certain order indicated by the coloured paintings near the stairs. The order is the following: green ball, blue ball, and orange ball (found next to the dark red one). After the balls have been holed in, the key to the lantern cabinet will drop at the ball exit.
+#The lantern cabinet in Lantern Room Bottom can now be unlocked. However, a cogwheel is missing inside. The latter can be found in the Maintenance Room which is the room below and the player can find it leaning against a shelf to the right of the lockers. The player needs to pick it up and {{Control|place}} it into the cabinet.
+#Once the cogwheel has been inserted, the lighthouse's lantern will now blink periodically instead of having a continuous lighting. The player now needs to ring the large bell next to the entrance three times which will make a fire-like noise in the distance of the map.
+#The player must now head back to the very top of the lighthouse, go to the balcony, and look towards the island where a cave entrance with the letters "UV" will be visible with a bright fire.
+#Finally, the player will have to shine the UV light against the large lantern until the lantern's light turns purple.
+
+Only one player in a game has to complete this as everyone in the lobby will receive the reward, regardless of who actually completed it.
+
+==Trivia==
+*This map has been teased throughout the development of the game. Many hints included newspapers in the [[truck]] referencing to three keepers who disappeared, a lighthouse being added to [[Maple Lodge Campsite]] in [[0.6.0]], [[Rune]]s added in [[0.8.1.0]] teasing the name "Point Hope" when deciphered, and a map added in [[0.9.1.0]] on the wall in Maple Lodge Campsite's reception building designating the lighthouse as being the "Point Hope Lighthouse". The map was unintentionally confirmed on the 10th of December 2023, when the weekly task "Complete Objectives on [Map Name]" required it to be done on Point Hope. On the 3rd of January 2024, a development preview was released, officially revealing Point Hope as well as providing two screenshots of the interior.<ref>https://store.steampowered.com/news/app/739630/view/3883856311504002774</ref>
+*Two [https://www.ikea.com/gb/en/p/blahaj-soft-toy-baby-shark-20540663/ Blåhaj] plushies can be found in the Child Bedroom.
+*From left to right, the [https://www.discoverboating.com/sites/default/files/inline-images/nautical-flag-meanings.png maritime signal flags] in the Child Bedroom spell out "GET OUT".
+*The commemorative plaque at the front door states that the lighthouse was constructed in the "Province of Massachusetts"<ref>The correct official name for the state is the "Commonwealth of Massachusetts".</ref> in 1802, making Point Hope the first map to be connected to a tangible, real-world location.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.10.0]]
+|Added Point Hope.
+|-
+! rowspan="2" |[[0.10.1.0]]
+|The lantern room has been split into different ghost rooms to avoid confusion and fix sensor placement:
+*Lantern room top
+*Lantern room bottom
+|-
+|The fuse box on Point Hope will now only spawn in the entry house, kitchen, games room, and master bedroom floors.
+|-
+![[0.12.0.1]]
+|Point Hope is now classed as a medium map.
+|-
+![[0.19.0]]
+|Added Point Hope Restricted.
+|}
+
+==References==
+{{Reflist}}
+{{Loc nav}}
+[[Category:Maps]]
+[[fr:Point Hope]]
+[[ru:Point Hope]]
+[[Category:Medium Map]]

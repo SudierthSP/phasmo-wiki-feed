@@ -1,0 +1,41 @@
+# 0.7.0.1
+# revid 23964  2026-06-28T21:41:41Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 c7f44a312c7445e7ce058a0cfc8bb01128535817a0c09f50e1fa0a68bf5ddd63  bytes 1875
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=28 September 2022
+  | previous_major_version=[[0.7.0]]
+  | next_minor_version=[[0.7.0.2]]
+  | next_major_version=[[0.8.0]]
+}}The '''0.7.0.1''' update is a minor update to the game released on 28 September 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3303977270395339018 ''Apocalypse | Hotfix v0.7.0.1'' (on Steam)]</ref> This update includes temporarily removal of the reset save button on the journal and bug fixes.
+
+==Changes==
+===General===
+*Temporarily removed the reset save button until a warning gets added
+
+==Bug fixes==
+*You will no longer get a grey eye in VR when smooth monitor view is enabled
+*You will no longer be given free items
+*VR players can now click the server buttons to join games
+*Player volumes will no longer reset back to 100
+*The heartbeat sound will now stop playing when you die
+*Server version is now displayed on the main menu
+*You can now select Arabic as a language filter
+*Thai player names will now be readable
+*Japanese and Arabic are now much more readable
+*Death amount stat will no longer count other players dying
+*You can no longer progress challenges or get a reward when exiting training
+*You will no longer get stuck on the error screen after receiving an error
+*Performance improvements to Non-VR across all maps to hopefully fix the stuttering
+*The journal player card report button can no longer be clicked if you have reported that player within the last 24 hours
+*Sunny Meadows East and west foul linen rooms are now named correctly
+*The old alarm clock animation will now play for the correct length
+*Sunny Meadows courtyard steps are no longer black
+*Sunny Meadows fallen doors will now make sounds when walked on, collide with items, and can have fingerprints left on them
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.7.0.1]]
+[[ru:0.7.0.1]]

@@ -1,0 +1,71 @@
+# Tripod
+# revid 22139  2025-10-30T19:51:38Z  by Darkhooper
+# 备注: moving Trivia to Video Camera page
+# sha256 5212e860fb9f840feb9dca1b6f8ea806e235c89333d6b6f44b593676248a777c  bytes 4117
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=Tripod090_T1.png
+ | tier ii img=Tripod090_T2.png
+ | tier iii img=Tripod090_T3.png
+
+ | price=$25
+ | maxamount=4
+ | uses=
+ | starter=No
+ | tier i level=9
+ | tier ii level=34
+ | tier iii level=60
+
+ | tier i description=Cheap and cheerful, it’s just about standing on its own. Better watch it doesn’t fall over.
+ | tier i purpose=Attach a Video Camera to this Tripod by Placing it on top. You can then carry the Tripod and Place it in locations that may not have a good surface for viewing paranormal activity.<br>Ghosts may interfere with your placed cameras and attempt to knock them over, make sure to reset them back up if they are pushed to the floor.
+ | tier i ability=<span style="color: #008000;">Stability: Low<br>Placeable</span>
+ | tier ii description=It’s much more modern, clean, and sturdy. It’s even got an electronic motor attached!
+ | tier ii purpose=This Tripod has been upgraded with a rotational motor. While viewing the Video Camera’s view from the truck, you can use the on-screen controls to rotate the tripod motor, giving you a new angle.
+ | tier ii ability=<span style="color: #008000;">Stability: Medium<br>Placeable<br>Rotation Control</span>
+ | tier iii description=Reinforced metal legs with extendable legs, perfect for carrying around larger profile cameras.
+ | tier iii purpose=Like its previous versions, this Tripod is similar except much sturdier, those pesky ghosts should knock it over much less frequently.
+ | tier iii ability=<span style="color: #008000;">Stability: High<br>Placeable<br>Rotation Control</span>
+}}
+'''Tripods''' are used to mount [[Video Camera|video cameras]], essentially acting as a portable surface for them.
+
+==Usage==
+Picking up a video camera and {{Control|placing}} it on top of the tripod will mount the camera on the tripod. Carrying the tripod afterwards will bring the camera along as well, so the player does not need to carry both an empty tripod and an unmounted video camera. The video camera can be removed from the tripod by {{Control|grabbing}} it.
+
+A tripod can be placed by {{Control|dropping}} it, making it drop below the player in the direction they are facing. Tripods can also be placed via the {{Control|Secondary Use}} key; holding this key will show a translucent outline of its placement, which can be adjusted by moving the mouse left or right. Tripods are bulky items, and thus take up your hand slot while carrying it; they cannot be stored in your inventory, and switching to another item or hand while carrying a tripod will automatically drop the tripod. Additionally, tripods will hinder player movements when walked through, forcing player to more carefully chose where to place them.
+
+The tripod will allow players to position video cameras in places where no suitable surface is available, and will also reduce the likeliness of the ghost knocking over the camera than if it was placed down on its own. The stability of the tripod against ghost tampering will depend on its tier. 
+
+Additionally, Tier II and III tripods have a motorized mount, allowing to rotate the camera left or right by using the arrows in the bottom right corner of the [[computer]] in the [[truck]].
+
+==Strategies==
+*The rotation feature of the Tier II and III tripods may allow players to observe the entirety of the room with a single camera, allowing to more easily find Ghost orbs or track the ghost during a hunt.
+
+==Trivia==
+*The [[Kinetic Games]] logo can be spotted on the back side of the tier III tripod.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!19 June 2020
+|Tripods are now level-locked.
+|-
+!17 September 2020
+|Tripods can no longer be placed on the VR inventory belt.
+|-
+! colspan="2" |Early Access
+|-
+![[0.7.0]]
+|Tripods can now be rotated or placed.
+|-
+! rowspan="2" |[[0.9.0]]
+|Divided into three upgrade tiers.
+|-
+|Ghosts can now knock over tripods.
+|-
+![[0.10.0]]
+|Tripod I knockdown chance increased from 20% to 30 % and Tripod II knockdown chance increased from 10% to 20%
+|}
+{{Equipment nav}}
+[[Category:Equipment]]
+[[fr:Trépied]]
+[[ru:Штатив]]

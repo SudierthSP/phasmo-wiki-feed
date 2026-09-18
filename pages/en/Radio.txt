@@ -1,0 +1,17 @@
+# Radio
+# revid 24357  2026-07-29T21:50:36Z  by Darkhooper
+# 备注: willow's radio is not bugged
+# sha256 ba1072129ee38e49311274bec56f719a15b85c736fea2c0a7257e23f9a4ff037  bytes 758
+# 源: https://phasmophobia.fandom.com/api.php[[File:Edgefield Radio.png|thumb|A clock radio in [[42 Edgefield Road]].]]
+'''Radios''' are devices that can be found on several maps which the [[ghost]] can interact with.
+
+==Mechanics==
+The player and the ghost can {{Control|interact}} with radios to toggle a distorted music. They will still function even if the [[fuse box]] is turned off.
+
+===Rewards===
+{{Main|Media}}
+Filming a radio being toggled by the ghost will yield a '''Distorted Music''' video in the journal, rewarding up to $7 and 7 XP, depending on the tier of the [[Video Camera]] and whether there is a Unique stamp. A '''Distorted Music''' sound may also be recorded with a [[Sound Recorder]] for the same reward.
+{{MapFeatureNav}}
+[[ru:Радио]]
+[[Category:Map Features]]
+[[fr:Radio]]

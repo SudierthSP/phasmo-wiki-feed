@@ -1,0 +1,51 @@
+# 0.6.0.1
+# revid 23949  2026-06-28T21:40:36Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 944662ffb1e14b9602cd56d851fa1a47d640bfea6cbf82519ba457770c4497db  bytes 2127
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=7 April 2022
+  | previous_major_version=[[0.6.0]]
+  | next_major_version=[[0.7.0]]
+  | next_minor_version=[[0.6.1.0]]
+}}The '''0.6.0.1''' update is a minor update to the game released on 7 April 2022.<ref>https://store.steampowered.com/news/app/739630/view/3178986531405793572</ref> This update reverts a change to [[Sanity Pills]] and fixes bugs.
+
+== Additions ==
+=== Gameplay ===
+;Map adjustments
+*[[Maple Lodge Campsite]]: Added Velcro to the small tent doors to aid grabbing in VR
+
+;General
+*Added up and down scroll arrows to the item store for VR to replace the scroll bar
+**Other scroll bars will be replaced in another update
+== Changes ==
+
+=== Equipment ===
+;[[Photo Camera]]
+*Now has a cooldown of 1 second instead of 3 seconds
+
+;[[Sanity Pills]]
+*No longer gets removed from inventory when being consumed
+
+== Bug fixes ==
+*Fixed a bug where you couldn't place DOTS Projectors and Motion Sensors on walls
+*Fixed a bug where some of the controls image during training was misaligned
+*Fixed a bug where text in some languages in the truck were overlapping
+*Fixed the splash screen text overlapping in some languages
+*Fixed a bug where the Edgefield Garage light bled upstairs
+*Fixed a bug where the glowstick rendered incorrectly from far away
+*Fixed a bug where having toggle mute on would mute you by default
+*Fixed a VR bug where some items were rotated wrong when held
+*Fixed a VR bug where the belt would disable when you died, making it impossible to use the Journal
+*Fixed a VR bug where you couldn't pick up the bone with Teleport Grab enabled
+*Fixed several cabinets and doors so that you can't rip them off of their hinges in VR
+*Fixed a VR bug where several cabinet and door highlight circles were in the incorrect position
+*Fixed a VR bug where the DOTS Project ghost would show on the smooth spectator camera
+*Fixed a VR bug where push to talk and toggle mute wasn't working on most headsets
+*Fixed a VR bug where you couldn't teleport onto most floors with teleport movement
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.6.0.1]]
+[[ru:0.6.0.1]]

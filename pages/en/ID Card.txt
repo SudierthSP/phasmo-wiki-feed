@@ -1,0 +1,871 @@
+# ID Card
+# revid 24327  2026-07-25T06:46:43Z  by Darkhooper
+# sha256 4877bde93f437ef026bb98d26e89972dd0e0a40e73d60e6ae4a131e62a3cacbe  bytes 23650
+# 源: https://phasmophobia.fandom.com/api.phpThe ID Card is a cosmetic that shows the player's in-game progress.
+
+==Features==
+The ID card shows the name of the player, the platform they're playing on (Steam, PlayStation, or Xbox), their [[experience|level]], the player's badge, and their selected character model. For the player's own ID card, the bar shows the amount of experience needed to level up. When looking at other players' ID cards, the bar is used to adjust their [[voice chat]] volume. By default, the volume is set to 50%.
+
+===Roles===
+By default, players are assigned the ''Intern'' role. Different roles can be obtained through the prestige system, holiday events, contributing to the development of the game, being a Kinetic Games Partner, or through community-related events. Players that obtain a new role will also obtain a new badge and card background that the role is linked to. The background must be displayed on a player's card to display the role.
+
+==Badges==
+===Prestige Badges===
+Prestige Badges will also be displayed on the left shoulder of the player's jacket, below the [[Legacy Badge]].
+{| class="article-table" style="text-align:center"
+!rowspan="2"|Role
+!colspan="2"|Badge
+!colspan="2"|Unlock Requirement
+|-
+!Default
+!Animated
+!Default
+!Animated
+|-
+|Recruit
+|[[File:Prestige 1 Badge.png|50px]]
+|[[File:Prestige 11 Badge.gif|50px]]
+|Reach Prestige 1
+|Reach Prestige 11
+|-
+|Investigator
+|[[File:Prestige 2 Badge.png|50px]]
+|[[File:Prestige 12 Badge.gif|50px]]
+|Reach Prestige 2
+|Reach Prestige 12
+|-
+|Pvt. Investigator
+|[[File:Prestige 3 Badge.png|50px]]
+|[[File:Prestige 13 Badge.gif|50px]]
+|Reach Prestige 3
+|Reach Prestige 13
+|-
+|Detective
+|[[File:Prestige 4 Badge.png|50px]]
+|[[File:Prestige 14 Badge.gif|50px]]
+|Reach Prestige 4
+|Reach Prestige 14
+|-
+|Technician
+|[[File:Prestige 5 Badge.png|50px]]
+|[[File:Prestige 15 Badge.gif|50px]]
+|Reach Prestige 5
+|Reach Prestige 15
+|-
+|Specialist
+|[[File:Prestige 6 Badge.png|50px]]
+|[[File:Prestige 16 Badge.gif|50px]]
+|Reach Prestige 6
+|Reach Prestige 16
+|-
+|Analyst
+|[[File:Prestige 7 Badge.png|50px]]
+|[[File:Prestige 17 Badge.gif|50px]]
+|Reach Prestige 7
+|Reach Prestige 17
+|-
+|Agent
+|[[File:Prestige 8 Badge.png|50px]]
+|[[File:Prestige 18 Badge.gif|50px]]
+|Reach Prestige 8
+|Reach Prestige 18
+|-
+|Operator
+|[[File:Prestige 9 Badge.png|50px]]
+|[[File:Prestige 19 Badge.gif|50px]]
+|Reach Prestige 9
+|Reach Prestige 19
+|-
+|Commissioner
+|[[File:Prestige 10 Badge.png|50px]]
+|[[File:Prestige 20 Badge.gif|50px]]
+|Reach Prestige 10
+|Reach Prestige 20
+|}
+
+===Special Badges===
+Special badges are assigned to certain members of the community either through manual addition by the developers or through in-game events. These badges will display in the right hand spot if no Prestige Badge is chosen, or left of the Prestige Badge when both are visible.
+====General====
+{| class="article-table" style="text-align:center"
+!rowspan="2"|Role
+!rowspan="2"|Badge
+!colspan="2"|Unlock Requirement
+|-
+!Default
+!Animated
+|-
+|Director
+|[[File:Director Badge.png|50px]]
+|[[Kinetic Games]] member
+| -
+|-
+|Officer
+|[[File:Officer Badge.png|50px]]
+|''Phasmophobia'' Discord staff member
+| -
+|-
+|Reporter
+|[[File:Reporter Badge.png|50px]]
+|Official Kinetic Games Partner
+| -
+|-
+|Medium
+|[[File:Medium Badge.png|50px]]
+|Translator
+| -
+|-
+|VIP
+|[[File:VIP Badge.png|50px]]
+|[[Contests and giveaways|Content creator giveaway]] winner
+| -
+|-
+|Artist
+|[[File:Artist Badge.png|50px]]
+|[[Contests and giveaways|Art contest]] winner
+| -
+|-
+|AHA Advocate
+|[[File:AHA Advocate Badge.png|50px]]
+|colspan="2"|Participate in the American Heart Association fundraising stream as a Kinetic Games Partner in June 2025
+|}
+
+====Challenges/Achievements====
+{| class="article-table" style="text-align:center"
+!rowspan="2"|Role
+!rowspan="2"|Badge
+!colspan="2"|Unlock Requirement
+|-
+!Default
+!Animated
+|-
+|Lighthouse Keeper
+|[[File:Lighthouse Keeper Badge.png|50px]]
+|Complete the 'Lighthouse Keeper' challenge on the [[Event Board]]
+| -
+|-
+|Ranger
+|[[File:Ranger Badge.png|50px]]
+|Complete the 'Ranger Challenge' challenge on the Event Board
+| -
+|-
+|Inmate
+|[[File:Inmate Badge.png|50px]]
+|Complete the 'Sunny Meadows Survival' challenge on the Event Board
+| -
+|-
+|Farmhand
+|[[File:Farmhand Badge.png|50px]]
+|Complete the 'Farmhouse Fieldwork' challenge on the Event Board
+| -
+|-
+|Nomad
+|[[File:Nomad Badge.png|50px]]
+|Complete the 'Nell's Diner Discovery' challenge on the Event Board
+| -
+|-
+|Suburbanite
+|[[File:Suburbanite Badge.png|50px]]
+|Complete the 'Entangled Terror' challenge on the Event Board
+| -
+|-
+|Sun Seeker
+|[[File:Sun Seeker Badge.png|50px]]
+|Complete the 'Artist's Retreat' challenge on the Event Board
+| -
+|-
+|Moneybags
+|[[File:Moneybags Badge.png|50px]]
+|Spend $100,000
+| -
+|-
+|Apocalypse Adept
+|[[File:Apocalypse Adept Badge.png|50px]]
+| -
+|Complete [[Apocalypse Challenge]] I
+|-
+|Apocalypse Master
+|[[File:Apocalypse Master Badge.png|50px]]
+| -
+|Complete Apocalypse Challenge II
+|-
+|Apocalypse Legend
+|[[File:Apocalypse Legend Badge.png|50px]]
+| -
+|Complete Apocalypse Challenge III
+|-
+|Completionist
+|[[File:Completionist Badge.png|50px]]
+| -
+|Complete all [[Achievements/Trophies]]
+|}
+
+====Easter Eggs====
+{| class="article-table" style="text-align:center"
+!rowspan="2"|Role
+!rowspan="2"|Badge
+!colspan="2"|Unlock Requirement
+|-
+!Default
+!Animated
+|-
+|Ferryman of the Drowned
+|[[File:Ferryman of the Drowned Badge.png|50px]]
+| -
+|Complete [[Point Hope]]'s easter egg
+|-
+|Ghost in the Machine
+|[[File:Ghost in the Machine Badge.png|50px]]
+| -
+|Complete [[Nell's Diner]]'s easter egg
+|}
+
+====Special events====
+{| class="article-table" style="text-align:center"
+!rowspan="2"|Role
+!rowspan="2"|Badge
+!colspan="2"|Unlock Requirement
+|-
+!Default
+!Animated
+|-
+|Holiday Haunter
+|[[File:Holiday Haunter Badge.png|50px]]
+|Complete all objectives from [[Special events#Holiday 2022|Holiday 2022]]
+| -
+|-
+|Egg Hunter
+|[[File:Egg Hunter Badge.png|50px]]
+|Complete all objectives from [[Special events#Easter 2023|Easter 2023]]
+| -
+|-
+|Witch of the Lodge
+|[[File:Witch of the Lodge Badge.png|50px]]
+|Complete all objectives from [[Special events#Halloween 2023|Halloween 2023]]
+| -
+|-
+|Snowman Slayer
+|[[File:Snowman Slayer Badge.png|50px]]
+|Complete all objectives from [[Special events#Holiday 2023|Holiday 2023]]
+| -
+|-
+|Forest Spirit
+|[[File:Forest Spirit Badge.png|50px]]
+|Complete all objectives from [[Special events#Easter 2024|Easter 2024]]
+| -
+|-
+|Summoner
+|[[File:Summoner Badge.png|50px]]
+|Complete Community Goal #1 during [[Special events#Halloween 2024|Halloween 2024]]
+|Complete Community Goal #2 during Halloween 2024
+|-
+|Winter's Patron
+|[[File:Winters Patron Badge.png|50px]]
+|Complete Community Goal #1 during [[Special events#Holiday 2024|Holiday 2024]]
+|Complete Community Goal #2 during Holiday 2024
+|-
+|Hero of the Hollow
+|[[File:Hero of the Hollow Badge.png|50px]]
+|Complete Community Goal #1 during [[Special events#Easter 2025|Easter 2025]]
+|Complete Personal Goal #1 during Easter 2025
+|-
+|Veteran
+|[[File:Veteran Badge.png|50px]]
+|Log into ''Phasmophobia'' between 15 September 2025 and 21 September 2025
+|Watch a ''Phasmophobia'' stream for 2 hours between 15 September 2025 and 21 September 2025<br>'''(Twitch Drop)'''
+|-
+|Child of the Cult
+|[[File:Child of the Cult Badge.png|50px]]
+|Complete Community Goal #1 during [[Special events#Halloween 2025|Halloween 2025]]
+|Complete Personal Goal #1 during Halloween 2025
+|-
+|Toy Soldier
+|[[File:Toy Soldier Badge.png|50px]]
+|Complete Community Goal #1 during [[Special events#Holiday 2025|Holiday 2025]]
+|Complete Personal Goal #1 during Holiday 2025
+|-
+|Pathfinder
+|[[File:Pathfinder Badge.png|50px]]
+|Complete Community Goal #1 during [[Special events#Easter 2026|Easter 2026]]
+|Complete Community Goal #2 during Easter 2026
+|-
+|Writer
+|[[File:Writer Badge.png|50px]]
+|colspan="2"|Log into ''Phasmophobia'' during the [[Special events#Phasmophobia x Alan Wake II|Phasmophobia by Alan Wake]] event
+|-
+|The Manifestation
+|[[File:The Manifestation Badge.png|50px]]
+|colspan="2"|Complete the Community Goal during the Phasmophobia by Alan Wake event
+|}
+
+====Twitch Drops====
+{| class="article-table" style="text-align:center"
+!rowspan="2"|Role
+!rowspan="2"|Badge
+!colspan="2"|Unlock Requirement
+|-
+!Default
+!Animated
+|-
+|Stream Sentinel
+|[[File:Stream Sentinel Badge.png|50px]]
+|Watch a ''Phasmophobia'' stream for 2 hours between 1 July 2025 and 15 July 2025
+|Watch a Kinetic Games Partner stream for 2 hours between 24 June 2025 and 1 July 2025
+|-
+|Reaper
+|[[File:Reaper Badge.png|50px]]
+|Watch a ''Phasmophobia'' stream for 2 hours between 12 August 2025 and 26 August 2025
+|Watch a Kinetic Games Partner stream for 1 hour between 7 August 2025 and 9 August 2025
+|-
+|Subscriber
+|[[File:Subscriber Badge.png|50px]]
+| -
+|Watch a ''Phasmophobia'' stream from TwitchCon for 1 hour between 17 October 2025 and 18 October 2025 or for 30 minutes on 19 October 2025
+|-
+|Sweet Tooth
+|[[File:Sweet Tooth Badge.png|50px]]
+|Watch a ''Phasmophobia'' stream for 2 hours between 18 November 2025 and 25 November 2025
+|Watch a Kinetic Games Partner stream for 2 hours between 11 November 2025 and 18 November 2025
+|-
+|The Hunted
+|[[File:The Hunted Badge.png|50px]]
+|Watch a ''Phasmophobia'' stream for 2 hours between 10 March 2026 and 17 March 2026
+|Watch a Kinetic Games Partner stream for 2 hours between 3 March 2026 and 10 March 2026
+|-
+|Astronomer
+|[[File:Astronomer Badge.png|50px]]
+| -
+|Watch the Galaxies Showcase or a co-streamer for 20 minutes on 16 April 2026
+|-
+|Seer
+|[[File:Seer Badge.png|50px]]
+|Watch a ''Phasmophobia'' stream for 2 hours between 19 May 2026 and 26 May 2026
+|Watch a Kinetic Games Partner stream for 2 hours between 19 May 2026 and 26 May 2026
+|-
+|Cool Cat
+|[[File:Cool Cat Badge.png|50px]]
+|Watch a ''Phasmophobia'' stream for 2 hours between 21 July 2026 and 28 July 2026
+|Watch a Kinetic Games Partner stream for 2 hours between 21 July 2026 and 28 July 2026
+|}
+
+==Backgrounds==
+===Prestige===
+{| class="article-table" style="text-align:center"
+!rowspan="2"|Role
+!colspan="2"|Background
+!colspan="2"|Unlock Requirement
+|-
+!Default
+!Animated
+!Default
+!Animated
+|-
+|Intern
+|[[File:Prestige-0-id-card.png|220px]]
+| -
+|colspan="2"|-
+|-
+|Recruit
+|[[File:Prestige-1-id-card.png|220px]]
+|[[File:Prestige-11-foil-id-card.gif|220px]]
+|Reach Prestige 1
+|Reach Prestige 11
+|-
+|Investigator
+|[[File:Prestige-2-id-card.png|220px]]
+|[[File:Prestige-12-foil-id-card.gif|220px]]
+|Reach Prestige 2
+|Reach Prestige 12
+|-
+|Pvt. Investigator
+|[[File:Prestige-3-id-card.png|220px]]
+|[[File:Prestige-13-foil-id-card.gif|220px]]
+|Reach Prestige 3
+|Reach Prestige 13
+|-
+|Detective
+|[[File:Prestige-4-id-card.png|220px]]
+|[[File:Prestige-14-foil-id-card.gif|220px]]
+|Reach Prestige 4
+|Reach Prestige 14
+|-
+|Technician
+|[[File:Prestige-5-id-card.png|220px]]
+|[[File:Prestige-15-foil-id-card.gif|220px]]
+|Reach Prestige 5
+|Reach Prestige 15
+|-
+|Specialist
+|[[File:Prestige-6-id-card.png|220px]]
+|[[File:Prestige-16-foil-id-card.gif|220px]]
+|Reach Prestige 6
+|Reach Prestige 16
+|-
+|Analyst
+|[[File:Prestige-7-id-card.png|220px]]
+|[[File:Prestige-17-foil-id-card.gif|220px]]
+|Reach Prestige 7
+|Reach Prestige 17
+|-
+|Agent
+|[[File:Prestige-8-id-card.png|220px]]
+|[[File:Prestige-18-foil-id-card.gif|220px]]
+|Reach Prestige 8
+|Reach Prestige 18
+|-
+|Operator
+|[[File:Prestige-9-id-card.png|220px]]
+|[[File:Prestige-19-foil-id-card.gif|220px]]
+|Reach Prestige 9
+|Reach Prestige 19
+|-
+|Commissioner
+|[[File:Prestige-10-id-card.png|220px]]
+|[[File:Prestige-20-foil-id-card.gif|220px]]
+|Reach Prestige 10
+|Reach Prestige 20
+|}
+
+===General===
+{| class="article-table" style="text-align:center"
+!rowspan="2"|Role
+!colspan="2"|Background
+!colspan="2"|Unlock Requirement
+|-
+!Default
+!Animated
+!Default
+!Animated
+|-
+|Director
+|[[File:Director-id-card.png|220px]]
+| -
+|Kinetic Games member
+| -
+|-
+|Officer
+|[[File:Officer-id-card.png|220px]]
+| -
+|''Phasmophobia'' Discord staff member
+| -
+|-
+|Reporter
+|[[File:Reporter-id-card.png|220px]]
+| -
+|Official Kinetic Games Partner
+| -
+|-
+|Medium
+|[[File:Medium-id-card.png|220px]]
+| -
+|Translator
+| -
+|-
+|VIP
+|[[File:Vip-id-card.png|220px]]
+| -
+|[[Contests and giveaways|Content creator giveaway]] winner
+| -
+|-
+|Artist
+|[[File:Artist-id-card.png|220px]]
+| -
+|[[Contests and giveaways|Art contest]] winner
+| -
+|-
+|AHA Advocate
+|[[File:aha-advocate-id-card.png|220px]]
+|''to be added''
+|colspan="2"|Participate in the American Heart Association fundraising stream as a Kinetic Games Partner in June 2025
+|}
+
+===Challenges/Achievements===
+{| class="article-table" style="text-align:center"
+!rowspan="2"|Role
+!colspan="2"|Background
+!colspan="2"|Unlock Requirement
+|-
+!Default
+!Animated
+!Default
+!Animated
+|-
+|Lighthouse Keeper
+|[[File:Lighthouse-keeper-id-card.png|220px]]
+| -
+|Complete the 'Lighthouse Keeper' challenge on the Event Board
+| -
+|-
+|Ranger
+|[[File:Ranger-id-card.png|220px]]
+| -
+|Complete the 'Ranger Challenge' challenge on the Event Board
+| -
+|-
+|Inmate
+|[[File:Inmate-id-card.png|220px]]
+| -
+|Complete the 'Sunny Meadows Survival' challenge on the Event Board
+| -
+|-
+|Farmhand
+|[[File:Farmhand-id-card.png|220px]]
+| -
+|Complete the 'Farmhouse Fieldwork' challenge on the Event Board
+| -
+|-
+|Nomad
+|[[File:Nomad-id-card.png|220px]]
+| -
+|Complete the 'Nell's Diner Discovery' challenge on the Event Board
+| -
+|-
+|Suburbanite
+|[[File:Suburbanite-id-card.png|220px]]
+| -
+|Complete the 'Entangled Terror' challenge on the Event Board
+| -
+|-
+|Sun Seeker
+|[[File:Sun-seeker-id-card.png|220px]]
+| -
+|Complete the 'Artist's Retreat' challenge on the Event Board
+| -
+|-
+|Moneybags
+|[[File:Moneybags-id-card.png|220px]]
+| -
+|Spend $100,000
+| -
+|-
+|Apocalypse Adept
+| -
+|[[File:Apocalypse adept-foil-id-card.gif|220px]]
+| -
+|Complete Apocalypse Challenge I
+|-
+|Apocalypse Master
+| -
+|[[File:Apocalypse master-foil-id-card.gif|220px]]
+| -
+|Complete Apocalypse Challenge II
+|-
+|Apocalypse Legend
+| -
+|[[File:Apocalypse legend-foil-id-card.gif|220px]]
+| -
+|Complete Apocalypse Challenge III
+|-
+|Completionist
+| -
+|[[File:Completionist-foil-id-card.gif|220px]]
+| -
+|Complete all Achievements/Trophies
+|}
+
+===Easter Eggs===
+{| class="article-table" style="text-align:center"
+!rowspan="2"|Role
+!colspan="2"|Background
+!colspan="2"|Unlock Requirement
+|-
+!Default
+!Animated
+!Default
+!Animated
+|-
+|Ferryman of the Drowned
+| -
+|[[File:Ferryman-of-the-drowned-foil-id-card.gif|220px]]
+| -
+|Complete Point Hope's easter egg
+|-
+|Ghost in the Machine
+| -
+|[[File:Ghost-in-the-machine-foil-id-card.gif|220px]]
+| -
+|Complete Nell's Diner's easter egg
+|}
+
+===Special events===
+{| class="article-table" style="text-align:center"
+!rowspan="2"|Role
+!colspan="2"|Background
+!colspan="2"|Unlock Requirement
+|-
+!Default
+!Animated
+!Default
+!Animated
+|-
+|Holiday Haunter
+|[[File:Holiday-haunter-id-card.png|220px]]
+| -
+|Complete all objectives from Holiday 2022
+| -
+|-
+|Egg Hunter
+|[[File:Egg-hunter-id-card.png|220px]]
+| -
+|Complete all objectives from Easter 2023
+| -
+|-
+|Witch of the Lodge
+|[[File:Witch-of-the-lodge-id-card.png|220px]]
+| -
+|Complete all objectives from Halloween 2023
+| -
+|-
+|Snowman Slayer
+|[[File:Snowman-slayer-id-card.png|220px]]
+| -
+|Complete all objectives from Holiday 2023
+| -
+|-
+|Forest Spirit
+|[[File:Forest-spirit-id-card.png|220px]]
+| -
+|Complete all objectives from Easter 2024
+| -
+|-
+|Summoner
+|[[File:Summoner-id-card.png|220px]]
+|[[File:Summoner-foil-id-card.gif|220px]]
+|Complete Community Goal #1 during Halloween 2024
+|Complete Community Goal #2 during Halloween 2024
+|-
+|Winter's Patron
+|[[File:Winters-patron-id-card.png|220px]]
+|[[File:Winters-patron-foil-id-card.gif|220px]]
+|Complete Community Goal #1 during Holiday 2024
+|Complete Community Goal #2 during Holiday 2024
+|-
+|Hero of the Hollow
+|[[File:Hero-of-the-hollow-id-card.png|220px]]
+|[[File:Hero-of-the-hollow-foil-id-card.gif|220px]]
+|Complete Community Goal #1 during Easter 2025
+|Complete Personal Goal #1 during Easter 2025
+|-
+|Veteran
+|[[File:Veteran-id-card.png|220px]]
+|[[File:Veteran-foil-id-card.gif|220px]]
+|Log into ''Phasmophobia'' between 15 September 2025 and 21 September 2025
+|Watch a ''Phasmophobia'' stream for 2 hours between 15 September 2025 and 21 September 2025<br>'''(Twitch Drop)'''
+|-
+|Child of the Cult
+|[[File:Child-of-the-cult-id-card.png|220px]]
+|[[File:Child-of-the-cult-foil-id-card.gif|220px]]
+|Complete Community Goal #1 during Halloween 2025
+|Complete Personal Goal #1 during Halloween 2025
+|-
+|Toy Soldier
+|[[File:Toy-soldier-id-card.png|220px]]
+|[[File:Toy-soldier-foil-id-card.gif|220px]]
+|Complete Community Goal #1 during Holiday 2025
+|Complete Personal Goal #1 during Holiday 2025
+|-
+|Pathfinder
+|[[File:Pathfinder-id-card.png|220px]]
+|[[File:Pathfinder-foil-id-card.gif|220px]]
+|Complete Community Goal #1 during Easter 2026
+|Complete Community Goal #2 during Easter 2026
+|-
+|Writer
+|[[File:Writer-id-card.png|220px]]
+|[[File:Writer-foil-id-card.gif|220px]]
+|colspan="2"|Log into ''Phasmophobia'' during the Phasmophobia by Alan Wake event
+|-
+|The Manifestation
+|[[File:The-manifestation-id-card.png|220px]]
+|[[File:The-manifestation-foil-id-card.gif|220px]]
+|colspan="2"|Complete the Community Goal during the Phasmophobia by Alan Wake event
+|}
+
+===Twitch Drops===
+{| class="article-table" style="text-align:center"
+!rowspan="2"|Role
+!colspan="2"|Background
+!colspan="2"|Unlock Requirement
+|-
+!Default
+!Animated
+!Default
+!Animated
+|-
+|Stream Sentinel
+|[[File:Stream-sentinel-id-card.png|220px]]
+|[[File:Stream-sentinel-foil-id-card.gif|220px]]
+|Watch a ''Phasmophobia'' stream for 2 hours between 1 July 2025 and 15 July 2025
+|Watch a Kinetic Games Partner stream for 2 hours between 24 June 2025 and 1 July 2025
+|-
+|Reaper
+|[[File:Reaper-id-card.png|220px]]
+|[[File:Reaper-foil-id-card.gif|220px]]
+|Watch a ''Phasmophobia'' stream for 2 hours between 12 August 2025 and 26 August 2025
+|Watch a Kinetic Games Partner stream for 1 hour between 7 August 2025 and 9 August 2025
+|-
+|Subscriber
+| -
+|[[File:Subscriber-foil-id-card.gif|220px]]
+| -
+|Watch a ''Phasmophobia'' stream from TwitchCon for 1 hour between 17 October 2025 and 18 October 2025 or for 30 minutes on 19 October 2025
+|-
+|Sweet Tooth
+|[[File:Sweet-tooth-id-card.png|220px]]
+|[[File:Sweet-tooth-foil-id-card.gif|220px]]
+|Watch a ''Phasmophobia'' stream for 2 hours between 18 November 2025 and 25 November 2025
+|Watch a Kinetic Games Partner stream for 2 hours between 11 November 2025 and 18 November 2025
+|-
+|The Hunted
+|[[File:The-hunted-id-card.png|220px]]
+|[[File:The-hunted-foil-id-card.gif|220px]]
+|Watch a ''Phasmophobia'' stream for 2 hours between 10 March 2026 and 17 March 2026
+|Watch a Kinetic Games Partner stream for 2 hours between 3 March 2026 and 10 March 2026
+|-
+|Astronomer
+| -
+|[[File:Astronomer-foil-id-card.gif|220px]]
+| -
+|Watch the Galaxies Showcase or a co-streamer for 20 minutes on 16 April 2026
+|-
+|Seer
+|[[File:Seer-id-card.png|220px]]
+|[[File:Seer-foil-id-card.gif|220px]]
+|Watch a ''Phasmophobia'' stream for 2 hours between 19 May 2026 and 26 May 2026
+|Watch a Kinetic Games Partner stream for 2 hours between 19 May 2026 and 26 May 2026
+|-
+|Cool Cat
+|[[File:Cool-cat-id-card.png|220px]]
+|[[File:Cool-cat-foil-id-card.gif|220px]]
+|Watch a ''Phasmophobia'' stream for 2 hours between 21 July 2026 and 28 July 2026
+|Watch a Kinetic Games Partner stream for 2 hours between 21 July 2026 and 28 July 2026
+|}
+
+==Gallery==
+<gallery>
+File:Idcard 0.7.png|220px|Prestige 0 ID Card with old background
+File:Prestige1.png|220px|Prestige 1 ID Card with old background
+File:Prestige2.png|220px|Prestige 2 ID Card with old background
+File:Prestige3.png|220px|Prestige 3 ID Card with old background
+File:Prestige4.png|220px|Prestige 4 ID Card with old background
+File:Prestige5.png|220px|Prestige 5 ID Card with old background
+File:Prestige6.png|220px|Prestige 6 ID Card with old background
+File:Prestige7.png|220px|Prestige 7 ID Card with old background
+File:Prestige8.png|220px|Prestige 8 ID Card with old background
+File:Prestige9.png|220px|Prestige 9 ID Card with old background
+File:Prestige10.png|220px|Prestige 10 ID Card with old background
+File:Prestige11.gif|220px|Prestige 11 ID Card with old background
+File:Prestige12.gif|220px|Prestige 12 ID Card with old background
+File:Prestige13.gif|220px|Prestige 13 ID Card with old background
+File:Prestige14.gif|220px|Prestige 14 ID Card with old background
+File:Prestige15.gif|220px|Prestige 15 ID Card with old background
+File:Prestige16.gif|220px|Prestige 16 ID Card with old background
+File:Prestige17.gif|220px|Prestige 17 ID Card with old background
+File:Prestige18.gif|220px|Prestige 18 ID Card with old background
+File:Prestige19.gif|220px|Prestige 19 ID Card with old background
+File:Prestige20.gif|220px|Prestige 20 ID Card with old background
+File:Ghost Huntin' Holiday 22 ID Card.jpg|220px|Holiday '22 ID Card with old background
+File:Ghost Huntin' Easter 23 ID Card.png|220px|Easter '23 ID Card with old background
+File:Ghost Huntin' Halloween 23 ID Card.png|220px|Halloween '23 ID Card with old background
+File:Ghost Huntin' Holiday 23 ID Card.png|220px|Holiday '23 ID Card with old background
+File:Ghost Huntin' Artist ID Card.png|220px|Artist ID card with old badge
+File:Ghost Huntin' VIP ID Card.jpg|220px|VIP ID Card with old badge
+File:Ghost Huntin' Medium ID Card.png|220px|Medium ID Card with old background
+File:Ghost Huntin' Reporter ID Card.png|220px|Reporter ID Card with old background
+File:Ghost Huntin' Officer ID Card.png|220px|Officer ID Card with old background
+File:Ghost Huntin' Director ID Card.png|220px|Director ID Card with old badge
+File:Ghost Huntin' Director ID Card -New.png|220px|Director ID Card with old background
+</gallery>
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.7.0]]
+|Added player ID cards.
+|-
+![[0.8.0]]
+|Added the Holiday '22 badge.
+|-
+![[0.8.0.2]]
+|The Intern badge now has a visible button to change the badge.
+|-
+![[0.8.1.4]]
+|Added the Easter '23 badge.
+|-
+! rowspan="2" |[[0.9.0]]
+|Added Prestige badges.
+|-
+|Added platform-specific icons to the player cards.
+|-
+![[0.9.1.0]]
+|Added the Halloween '23 badge.
+|-
+! rowspan="2" |[[0.9.3.0]]
+|Added the Holiday '23 badge.
+|-
+|Replaced Director badge.
+|-
+! rowspan="8" |[[0.9.6.0]]
+|Added the Easter '24 badge.
+|-
+|All badges now have a unique background when using that badge’s ID theme.
+|- 
+|Prestiges 11-20 have animated backgrounds to match their badges.
+|-
+|Several colors have been adjusted.
+|-
+|VIP and Artist have received new Badge designs.
+|-
+|Volume slider colors are now the same as the EXP bar colors.
+|-
+|The middle lines of the ID card have been removed to make space for the new background designs (funds / ready status).
+|-
+|A ready sticker will now appear on the player ID card when that player is ready.
+|-
+! rowspan="2" |[[0.10.0]]
+|Added Apocalypse Adept, Apocalypse Master, Apocalypse Legend, Ferryman of the Drowned, and Lighthouse Keeper roles.
+|-
+|Renamed and shortened some ID card names.
+|-
+![[0.11.0]]
+|Added Summoner, Ranger, and Inmate roles.
+|-
+![[0.11.1.0]]
+|Added Winter's Patron and Completionist roles.
+|-
+![[0.12.1.0]]
+|Added Hero of the Hollow role.
+|-
+![[0.13.0]]
+|Added Stream Sentinel role.
+|-
+![[0.14.0]]
+|Added Reaper and Farmhand roles.
+|-
+![[0.14.1.0]]
+|Added Veteran role.
+|-
+![[0.14.2.0]]
+|Added Child of the Cult and Subscriber roles.
+|-
+![[0.15.0]]
+|Added Sweet Tooth, Ghost in the Machine, Nomad, and Moneybags roles.
+|-
+![[0.15.1.0]]
+|Added Toy Soldier role.
+|-
+![[0.16.0]]
+|Added The Hunted and Suburbanite roles.
+|-
+![[0.16.1.0]]
+|Added Pathfinder and Astronomer roles.
+|-
+![[0.17.1.0]]
+|Added Writer, The Manifestation, and Seer roles.
+|-
+![[0.18.0]]
+|Added Sun Seeker and Cool Cat roles.
+|}
+[[Category:Gameplay]]
+[[fr:Carte d'identité]]
+[[ru:Идентификационная карта]]

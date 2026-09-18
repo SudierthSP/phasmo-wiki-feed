@@ -1,0 +1,5 @@
+# 希望角
+# revid 3428  2024-06-25T14:08:47Z  by Qsefthuopq
+# 备注: 重定向页面至[[希望角灯塔]]
+# sha256 409ffe81054b6f1ff92d7c34fc531c43543ed524f913a92f200472611c6c6e39  bytes 29
+# 源: https://phasmophobia.fandom.com/zh/api.php#redirect [[希望角灯塔]]

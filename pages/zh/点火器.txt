@@ -1,0 +1,46 @@
+# 点火器
+# revid 3447  2024-07-06T08:37:39Z  by HaMilon The Sweet melon
+# 备注: /* 二级 */
+# sha256 3c5797c49d27f83b15b37dbdb7aa5e280347df940e271677603ac11b4d18e7a3  bytes 2141
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+ | tier i img=Igniter090_T1.png
+ | tier ii img=Igniter090_T2.png
+ | tier iii img=Igniter090_T3.png
+
+ | price=$10
+ | maxamount=4
+ | uses=详见以下
+ | starter=否
+ | tier i level=12
+ | tier ii level=41
+ | tier iii level=57
+
+ | tier i description=猎鬼部门独有的'''火柴盒'''，上面有个小小的幽灵吉祥物。真可爱！
+ | tier i purpose=这些火柴非常适合点燃火光和熏香，但请记住，只有十次使用机会，很快就会用完！<br>它们还可以用作小型光源，小心烫伤手指。
+ | tier i ability=+ 持续时间（秒）：10<br>+ 使用次数：10<br>- 消耗品
+ | tier ii description=匕克'''打火机'''；小巧便携，方便易用！
+ | tier ii purpose=一款燃气打火机。比火柴提供更多光亮，并且持续时间更长。<br>你可以在使用时看到内部液体逐渐减少，请确保在关键时刻还有足够的剩余！
+ | tier ii ability=+ 持续时间（分）：5<br>- 消耗品
+ | tier iii description=自发布以来，芝豹'''打火机'''就成为了军方的标配，现在也成为了鬼魂调查员的必备工具。
+ | tier iii purpose=只要不浪费，这款打火机足够你在整场合约期间使用！<br>它提供的光线更明亮且范围更广，非常适合在黑暗中遭遇袭击时逃生。
+ | tier iii ability=+ 持续时间（分）：10<br>+ 防水
+}}'''点火器'''用于点[[熏香]]、[[火光]]、[[召唤阵]]、萤火。
+
+== 用法 ==
+手持点火器，瞄准火光、熏香、召唤阵蜡烛、营火默认按 F 可点燃物品。背包里有打火机时按 F 也可以直接点燃手中可燃物。
+
+丢下点火器会熄灭火焰。鬼魂在 5 米内也可吹灭火焰。
+
+作为消耗品，一级和二级点火器被使用后需要在装备商店购买补充。
+
+=== 一级 ===
+一级点火器为火柴。每根火柴会持续10秒，之后会自动熄灭。火柴盒共有10根火柴可使用。
+
+=== 二级 ===
+二级点火器有5分钟的使用时间。之后燃料将被用完并无法继续使用点火器。
+
+=== 三级 ===
+三级点火器可无限使用。
+
+{{EquipmentNav}}
+[[Category:物品]]

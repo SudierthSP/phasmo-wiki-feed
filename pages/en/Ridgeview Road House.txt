@@ -1,0 +1,5 @@
+# Ridgeview Road House
+# revid 12706  2022-09-30T12:35:58Z  by Skaijie
+# 备注: Skaijie moved page [[Ridgeview Road House]] to [[10 Ridgeview Court]]
+# sha256 dfdf98004dc1b56a438e092074e713007e0f7b993c6623accce2eb4983a325f6  bytes 32
+# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[10 Ridgeview Court]]

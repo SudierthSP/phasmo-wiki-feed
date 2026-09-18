@@ -1,0 +1,64 @@
+# 0.6.1.2
+# revid 23952  2026-06-28T21:40:49Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 6657760c3ee5cba2d368e56f1d648e0c1555fc12c4c719d9bd5f48a121774068  bytes 2649
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=13 April 2022
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.1.1]]
+  | next_major_version=[[0.7.0]]
+  | next_minor_version=[[0.6.1.3]]
+}}The '''0.6.1.2''' update is a minor update to the game released on 13 April 2022.<ref>https://store.steampowered.com/news/app/739630/view/3178987160556362387</ref> This update makes adjustments to several maps andd fixes bugs.
+
+== Changes ==
+=== Evidences and ghost traces ===
+;[[Fingerprints]]
+*One of the light switch patterns changed to avoid confusion with [[Obake]] fingerprint
+
+;[[Dirty Water]]
+*Texture changed to be more obvious
+
+=== Gameplay ===
+==== Map adjustments ====
+;[[Edgefield Street House]]
+*Basement door flipped
+*Site map rotated to be consistent with other maps
+
+;[[Willow Street House]]
+*Basement stairwell door and bathroom door flipped
+*All doors changed to same material
+*Kitchen layout slightly redesigned
+
+=== VR ===
+*Crouch button on VIVE now 'up' on trackpad
+**To prevent issue where the player would have to turn to crouch
+*Teleport beam visual and blink fade improved
+
+== Bug fixes ==
+*Potential fix for light leaks in Tanglewood
+*Potential fix for Ridgeview FPS drops
+*Fixed a bug where the Music Box would spawn floating in the air if a hiding spot was hidden in Grafton
+*Fixed a bug where the truck monitors’ font had missing characters in some languages
+*Fixed a bug where hiding spots weren't always being blocked correctly
+*Fixed a bug where the new Obake light switch fingerprint was still hard to see
+*Fixed a bug where the basement lights in Tanglewood would reflect in the dining room patio doors
+*Fixed Tanglewood basement door safe spot
+*Fixed the Bleasdale attic safe spot behind the chest
+*Fixed a bug where a door in Willow that was opening through the wall slightly
+*Fixed a bug where the Flashlight emission would be on when the light was turned off
+*Fixed a bug where you couldn’t see PC players after they revived
+*Fixed a bug where the Ridgeview Boy's Bedroom window didn't have any collision
+*Fixed a bug where the player colours of the sanity bars and map icons weren't consistent
+*VR:
+**Fixed a bug where you would start outside the truck if you weren’t in the centre of your play space
+**Fixed a bug where you had to grab objects twice in multiplayer if you were not the last person to grab the object
+**Fixed a bug where teleport stamina was not working as intended
+**Fixed a bug where you didn’t have infinite sprint in teleport mode
+**Fixed a bug where you could grab doors when you were dead
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.6.1.2]]
+[[ru:0.6.1.2]]

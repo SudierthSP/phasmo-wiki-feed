@@ -1,0 +1,81 @@
+# Main Page
+# revid 4291  2026-08-29T07:07:05Z  by Fanta1109
+# sha256 33e7ae81c3146c04b5d76ade2dc156a45e6953c003cc4fce754bd42f368a5d38  bytes 5451
+# 源: https://phasmophobia.fandom.com/zh/api.php<mainpage-leftcolumn-start />
+<div style="text-align:center; padding: 10px 0;">
+  <div style="font-size: 15px; font-family: 'October Crow';">歡迎來到</div>
+  <div style="font-size: 45px; font-family: 'October Crow'; font-weight: bold; line-height: 1.1; margin: 5px 0;">恐鬼症百科全書</div>
+  <div style="font-size: 15px; font-family: 'October Crow'; color: #ccc;">非官方的恐鬼症百科全書</div>
+</div>
+
+<hr />
+
+<div style="text-align:center;">
+<gallery type="slider">
+File:670.png|開啟你的探索之旅...|link=坦格伍德街房屋|linktext=拜訪這棟位於寧靜社區中的住宅...誰能料到會出事？了解更多 >
+File:6702.png||精神病院|link=阳光牧场精神病院|linktext=你敢探索這座廢棄精神病院的秘密嗎？
+</gallery>
+</div>
+
+<br />
+
+<div style="text-align:left; line-height: 1.6; font-size: 1.05em; padding: 0 10px;">
+[[恐鬼症]] 是由 [[Kinetic Games]] 開發的一款 4 人在線合作心理恐怖遊戲。您和您的超自然研究隊成員將進入充滿超自然活動的[[地图|鬧鬼地點]]，並盡量收集更多的[[证据|證據]]。您將使用驅鬼[[装备|設備]]搜尋並記錄證據，以便賣給專門的幽靈驅除隊伍。
+</div>
+
+<hr />
+
+{| class="hoverimage" align="center" style="margin: 0 auto; text-align: center;"
+| style="padding: 5px;" |<div class="button123">[[File:MainPageGhosts.png|center|130px|link=鬼魂]]<div style="margin-top: 6px; font-family: 'October Crow'; font-size: 16px;">[[鬼魂|鬼魂]]</div></div>
+| style="padding: 5px;" |<div class="button123">[[File:MainPageEquipment.png|center|130px|link=装备]]<div style="margin-top: 6px; font-family: 'October Crow'; font-size: 16px;">[[装备|裝備]]</div></div>
+| style="padding: 5px;" |<div class="button123">[[File:MainPageMaps.png|center|130px|link=地图]]<div style="margin-top: 6px; font-family: 'October Crow'; font-size: 16px;">[[地图|地圖]]</div></div>
+| style="padding: 5px;" |<div class="button123">[[File:MainPageEvidence.png|center|130px|link=证据]]<div style="margin-top: 6px; font-family: 'October Crow'; font-size: 16px;">[[证据|證據]]</div></div>
+| style="padding: 5px;" |<div class="button123">[[File:MainPageSanity.png|center|130px|link=理智]]<div style="margin-top: 6px; font-family: 'October Crow'; font-size: 16px;">[[理智|理智]]</div></div>
+|}
+
+<mainpage-endcolumn />
+<mainpage-rightcolumn-start />
+<div style="max-width: 220px; margin: 0 auto;">
+{| align="center" style="width: 100%; text-align: center;"
+| style="padding: 2px 0;" |<span class="wds-button" style="width: 100%; border-radius: 2rem; background-color:#1B2838; border: none; box-sizing: border-box; padding: 4px 8px;"><div>[[File:steam.png|16px|link=]]&nbsp;[https://store.steampowered.com/app/739630/Phasmophobia/ <span style="color:white; font-size:11px; text-transform: none; font-weight: bold;">前往 Steam 購買</span>]</div></span>
+|-
+| style="padding: 2px 0;" |<span class="wds-button" style="width: 100%; border-radius: 2rem; background-color:#00439C; border: none; box-sizing: border-box; padding: 4px 8px;"><div>[[File:ps.png|16px|link=]]&nbsp;[https://store.playstation.com/concept/10005673 <span style="color:white; font-size:11px; text-transform: none; font-weight: bold;">PlayStation 商店</span>]</div></span>
+|-
+| style="padding: 2px 0;" |<span class="wds-button" style="width: 100%; border-radius: 2rem; background-color:#054B16; border: none; box-sizing: border-box; padding: 4px 8px;"><div>[[File:xb.png|16px|link=]]&nbsp;[https://www.xbox.com/games/store/-/9N6D60SBZN05 <span style="color:white; font-size:11px; text-transform: none; font-weight: bold;">前往 Xbox 商店</span>]</div></span>
+|-
+| style="padding: 2px 0;" |<span class="wds-button" style="width: 100%; border-radius: 2rem; background-color:#5665F2; border: none; box-sizing: border-box; padding: 4px 8px;"><div>[[File:dc.png|16px|link=]]&nbsp;[https://discord.gg/phasmophobia <span style="color:white; font-size:11px; text-transform: none; font-weight: bold;">加入官方 Discord</span>]</div></span>
+|}
+
+<hr />
+
+{| align="center" style="margin: 0 auto; text-align: center;"
+| rowspan="2" style="font-weight: bold; padding-right: 6px; font-size: 12px; vertical-align: middle;" | 其他社群
+| style="padding: 2px;" |[[File:x.png|22px|link=https://x.com/PlayPhasmo]]
+| style="padding: 2px;" |[[File:ig.png|22px|link=https://www.instagram.com/playphasmo]]
+| style="padding: 2px;" |[[File:redit.png|22px|link=https://www.reddit.com/r/PhasmophobiaGame]]
+|-
+| style="padding: 2px;" |[[File:di.png|22px|link=https://www.tiktok.com/@playphasmo]]
+| style="padding: 2px;" |[[File:thread.png|22px|link=https://www.threads.net/@playphasmo]]
+| style="padding: 2px;" |[[File:beter.png|22px|link=https://bsky.app/profile/playphasmo.bsky.social]]
+|}
+
+<hr />
+
+<div style="background-color: #111; border: 1px solid #333; padding: 10px; text-align: center; margin: 8px 0;">
+  <div style="font-size: 1.1em; font-weight: bold; margin-bottom: 4px;">你知道嗎...</div>
+  <div style="color: #aaa; font-size: 0.85em;">...拍攝<span style="color: #8ab4f8;">屍體照片</span>不會影響保險賠償金？</div>
+</div>
+
+<hr />
+
+<div style="text-align:center; font-size:12px; line-height:1.5;">
+'''本百科共有'''<br>
+• '''{{NUMBEROFARTICLES}}''' 篇文章<br>
+• '''{{NUMBEROFEDITS}}''' 次編輯<br>
+• '''{{NUMBEROFFILES}}''' 個檔案
+</div>
+</div>
+
+<mainpage-endcolumn />
+
+[[Category:恐鬼症百科]]

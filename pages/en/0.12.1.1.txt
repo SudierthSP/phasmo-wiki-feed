@@ -1,0 +1,36 @@
+# 0.12.1.1
+# revid 23890  2026-06-28T21:36:19Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 f6c13b10ee86f70afe9d27cb700229dfed9365bf689885f000bb1761f29ce4c0  bytes 1790
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| release_date=1 May 2025
+| previous_major_version=[[0.12.0.1]]
+| previous_minor_version=[[0.12.1.0]]
+| next_minor_version=[[0.12.1.2]]
+| next_major_version=[[0.13.0]]
+}}'''0.12.1.1''' is a minor hotfix released on 1 May 2025.<ref>[https://www.kineticgames.co.uk/blog/cursedhollow-hotfix ''Phasmophobia Cursed Hollow - Hotfix v0.12.1.1''. 1 May 2025.]</ref> It fixes several issues with the Cursed Hollow event.
+
+==Changes==
+*You can no longer "place" equipment on Jackalope nest eggs, which is now consistent with the nest itself.
+*Obake ghost model can now shape shift during seasonal events where the model is replaced with an event ghost model.
+
+==Fixes==
+*Fixed an issue that caused no audio to play when opening the Cursed Hollow leaflet in the warehouse.
+*Fixed an issue that caused the player’s vote tape to not return to its original point after deselecting a map.
+*Fixed an issue that prevented the lobby volume not adjusting when using the slider in Audio settings.
+*Fixed an issue that caused different daily and weekly challenges to appear from player to player as well as rotational maps.
+*Fixed an issue that caused inconsistencies with DOTS T2 when the ghost and Forest Minions were too close to the player.
+*Fixed an issue that removed textures from Point Hope’s terrain.
+*Fixed an issue introduced with the gamepad deadzone change that caused changes to player’s sensitivity settings.
+*Fixed an issue that prevented the ghost from killing a player when playing in VR.
+*Fixed an issue that gave the incorrect name to the Cursed Hollow event badge.
+
+==Known Issues==
+*Players may encounter lighting issues across various maps during the event period.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.12.1.1]]
+[[ru:0.12.1.1]]

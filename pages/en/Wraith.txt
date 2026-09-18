@@ -1,0 +1,100 @@
+# Wraith
+# revid 23023  2026-03-30T15:03:13Z  by Darkhooper
+# 备注: replaced Evidence list template
+# sha256 e2bebb8851cd6ceea40da5d3c7341a6a2ee69278dee43e9d9be7d9bf7d647468  bytes 6477
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Wraith Discovered.jpg
+ |strength= 
+ |abiliti(es)= *Can teleport to a random player, becoming active near them, outside of ghost events and hunts
+ |weakness(es)= *Never steps in salt
+ |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
+ |Evidence2=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
+ |Evidence3=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
+}}{{Quote
+ |quote=Wraiths are one of the most dangerous ghosts you will find. It is also the only known ghost that has the ability of flight and has sometimes been known to travel through walls.
+ |speaker=The Journal
+}}The '''Wraith''' is a type of [[ghost]] in ''Phasmophobia''. Wraiths are best known for their purported ability to "fly" and "walk through walls", actually referencing to them not stepping on a [[Salt|salt pile]] and their ability to teleport to players randomly.
+
+==Behaviour==
+===Activity===
+The Wraith will never step in a [[salt]] pile, and therefore will never disturb them. This includes Tier III Salt during [[Hunt|hunts]], rendering it ineffective against one.
+
+===Ability===
+When the Wraith is not hunting, it has a chance to teleport to a random player, generating an [[EMF]] Level 2 reading at the location where it teleported to, at the level of the targeted player's feet, with a 33% chance for this to be an [[EMF Level 5]] reading instead. The Wraith will resume normal behaviour after teleporting.
+
+===Miscellaneous===
+Wraiths ''cannot'' and ''do not'':
+*Float off the ground, whether during hunts or manifestations. A Wraith cannot be identified by looking at its ghost model.
+*See through physical objects such as walls and doors.
+*Walk quietly; Wraiths will emit footstep noises at the same volume as most other ghosts.
+*Walk through walls, even during hunts; they can only walk through doors (which ''all'' other ghosts are also able to do).
+*Actively avoid moving over salt; they do not try to path around salt piles, and will simply ignore any piles entirely.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]] [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] [[EMF Level 5]]
+|[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: '''Wraiths''' almost never touch the ground, meaning it can't be tracked by footsteps.''
+
+''Weakness: '''Wraiths''' are afraid of Salt and will actively avoid it.''
+
+==Strategies==
+===Identification===
+====Salt test====
+The Wraith will never step in or disturb a salt pile. If you've had undisturbed salt in the ghost's room for a prolonged period of time, then it could be a Wraith. This can be used to identify a Wraith deterministically: either during a fake hunt [[Ghost Event|ghost event]], when it appears in D.O.T.S, or during a real hunt, place salt in front of where the ghost is about to step. If it does not disturb the salt pile despite passing directly through it, then it is a Wraith. Note that a [[Gallu]] can also pass through a salt pile without disturbing it if it is enraged.
+
+Placing salt in the center of the [[Summoning Circle]] and then summoning the ghost is a good way to spot a Wraith.
+
+Alternatively, one could place a line of salt across a tight access route where the ghost is highly likely to pass through (e.g. a doorway for/in the ghost's room), then place a motion sensor or two on the doorway. If the ghost passes through the motion sensor(s) but never steps in the salt, then it is likely a Wraith. Note that the salt should be tightly packed enough (but not wasteful) such that a ghost that passes through is otherwise virtually guaranteed to step on the salt. Tier II or tier III salt makes this work easier since they are placed in a long pile.
+
+====Teleportation====
+The Wraith's teleporting behaviour may give rise to otherwise odd behaviour, such as:
+*Interactions happening far away from the favourite room and near where a player currently is (or recently was)
+*Seemingly random EMF level 2 or 5 readings which could not have been caused by any interaction, especially far away from the favourite room
+
+The [[Banshee]] and [[Phantom]] can also roam/walk (but not teleport) to a player, while [[The Twins]] can interact with objects far away, and of these other culprits only the Phantom can create these apparently random EMF readings when moving to a player, but it will never leave EMF level 5 readings as it does not have that as evidence and the EMF reading will be located at head level; a random EMF level 5 reading or a random EMF level 2 reading at ground level most certainly indicates a Wraith. Meanwhile, having the ''roaming frequency'' setting on Medium or High may induce similar behaviour. If desired, one could use motion sensors to see where the ghost actually is (moving) when it performs such an interaction.
+
+===Hunt===
+Although the Wraith teleporting does not by itself trigger a chance to hunt, it could possibly hunt from the location it teleported to if it meets normal hunt requirements. This makes being almost anywhere within the investigation area dangerous once average sanity is low enough; avoid being caught off guard by the Wraith starting a hunt nearby.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!18 March 2020
+|Wraiths now require Freezing Temperatures instead of Dirty Water as one of its evidences.
+|-
+!22 March 2020
+|Wraiths no longer leave footsteps when hunting.
+|-
+!23 March 2020
+|Wraiths will now emit footstep noises when hunting, but not footprints.
+|-
+!25 March 2020
+|Wraiths can now leave footprints by stepping on a salt pile.
+|-
+! colspan="2" |Early Access
+|-
+!22 September 2020
+|Wraiths no longer interact with salt piles during hunts.
+|-
+!22 September 2020<br>(Part 2)
+|Wraiths no longer leave footprints after stepping on a salt pile. They instead have a higher activity limit.
+|-
+![[0.3.0]]
+|Prior to 0.3.0, the evidence was [[Spirit Box]], [[Ultraviolet|Fingerprints]], and [[Freezing Temperatures]].
+|-
+![[0.8.0]]
+|Wraiths no longer step in salt altogether
+|}<br>
+{{GhostNav}}
+[[ru:Мираж]]
+[[fr:Spectre]]
+[[Category:Ghosts]]

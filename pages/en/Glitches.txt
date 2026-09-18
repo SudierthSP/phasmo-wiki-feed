@@ -1,0 +1,108 @@
+# Glitches
+# revid 24292  2026-07-24T04:42:19Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 93241bdd86f7b3d464cc522db08fea26eb4e3fb57db0b54b64bab30d9673d504  bytes 9641
+# 源: https://phasmophobia.fandom.com/api.php<big>'''This page is not an official list of bugs.'''</big>
+<blockquote>This Wiki is not moderated by, nor affiliated with, the official ''Phasmophobia'' developers or its volunteer staff in the official ''Discord'' server. This page should '''not''' be used to report bugs. Any bugs you encounter [https://discord.com/invite/phasmophobia should be reported on the ''Discord'' server], instead of here. Bugs may be fixed without notice. Additionally, this page is updated very sporadically, meaning anything written here has a very good chance of being out-of-date. As such, <u>this page should not be used as a reference</u>, but instead as a novelty.</blockquote>
+
+This page lists several '''glitches''' or bugs that can be found in-game.
+
+== Acknowledged bugs ==
+This is an informal list of bugs that have either been currently designated as "known" under the pinned comments of the [https://discord.com/channels/435431947963990026/771393372542730272 #bug-reports] channel of the official ''Discord'' server, or have a Known Issue tag to the relevant bug report.
+
+* If a player loads into a lobby while holding an item, it will appear floating
+* Hunts occasionally occur without anyone being in the house
+* Summoning circle candles can be rapidly lit to bypass the candles being blown out at 0 sanity
+* Bones occasionally spawn in inaccessible/difficult-to-reach areas
+* Players may not see items in the truck if someone loads in improperly
+* Lighting may appear warped in certain places
+* Some language fonts have white blocking around the letters
+* DOTS may not render correctly
+* Player hair can disappear in the fog or when viewed through the paramic
+* Sunny Meadows boilers cannot be lit
+* Prison monitors are very bright
+* Placing items (such as DOTS) may teleport it back to the truck
+* Items and props can spawn in the wrong place, and will bug the player's inventory when picked up
+* Multiple players can grab the same item at the same time, resulting in the item doubling or being unusable
+* Hands may fall when grabbing equipment in certain cases
+* Global Chat occasionally cuts out
+* Audio may muffle incorrectly between floors, when dying or being resurrected with High Priestess/Monkey Paw
+* Dead bodies may occasionally be invisible to some players
+* The map may disappear through doorways (portals)
+* There are places where the player can get stuck/be invincible
+* The player may get killed through the stairs in 42 Edgefield Road
+* Ghosts can get stuck behind certain furniture
+* The Deogen can kill through walls
+* The ghost may not hunt when all the Voodoo Doll pins are pulled at once
+* Journal case number may not match the paramic's
+* Video cameras may desync in position if a non-host player placed it
+* The ghost may not register moving between floors correctly, resulting in electronics not flickering
+* Airball event may not move to the player correctly
+* The mannequin being teleported in Edgefield may cause it to teleport into a hiding spot filled with boxes
+* Photos of the ghost can be duplicated if two players take it at exactly the same time
+* When loading back into the lobby, the difficulty will show as challenge mode while the host has not exit the debriefing screen
+* Using a text interface may soft lock the game if another player runs away with the equipment
+* Photos of certain things do not count under rugs
+* Lights may flicker infinitely after certain events/hunts
+* An extra character may sometimes appear in the lobby/map
+* Dying with the black fog effect via the Monkey Paw will cause it to persist for the rest of the round
+* Muting between the lobby and maps is not synced
+* Raindrops cannot be seen in certain cases
+* When ambient occlusion is turned off, odd reflections will appear
+* The ghost's footsteps and sounds may be inconsistent
+* Ghosts may remain invisible and not produce any footsteps if they started hunting while in D.O.T.S state
+
+== Informal bugs ==
+<blockquote>''This is not an exhaustive list.''</blockquote>
+
+This is a list of bugs that have not been routinely acknowledged by the developers or ''Discord'' staff, though they may still be aware of the bugs.
+
+*Opening one tent door may sometimes open another tent door instead
+*A player's model may remain if they disconnect while finishing loading into the contract
+*[[Sound Monitor]] is sometimes desynced between players
+*Upon starting a contract, the exit door might be missing, allowing players to walk in without unlocking the door and thus keeping the ghost's AI into a "standby" state. Triggering a cursed hunt using a [[Cursed Possession|cursed possession]] will "activate" the ghost should this glitch happen.
+*Some props, cabinet doors or drawers might spawn floating outside the building
+*One blue bed model's LoS collider is too tall
+*The ghost sometimes spawns at the entrance room/wrong room at the start of the contract
+
+=== "Low to ground strategy" ===
+The low to ground strategy is a maneuver that can be performed by VR [[player]]s in an attempt to avoid being killed during a [[hunt]]. It was fixed in the 0.26 update on 6 March 2021. A similar bug reoccurred in the [[VR Overhaul Update]].
+
+To perform this maneuver, the player had to lie on their stomach or back as low to the ground as possible. A [[ghost]] successfully kills their target player when hunting by colliding with them, but reducing the character's size also reduces the chance of collision. In this case, the character's hitbox (an arbitrary shape that the game uses to determine whether the player is colliding with things) shortens and possibly descends into the floor, meaning that the ghost cannot touch it, and thus could not kill the player.
+
+Doing this could help the player get photographic evidence of the ghost by pointing a photo camera upwards and taking pictures, without risk of death.
+
+Youtuber ''hudzell'' released a [https://youtu.be/K3j5FQ7R-N4 video] demonstrating this strategy in October 2020, adding during the video that players might not need to crouch too low to perform it.
+
+Players using this trick would find their vision possibly restricted from being prone (unless they lie on their back), and they may also find the experience physically uncomfortable. Also, moving too close to some objects may cause the player to go out of bounds, teleporting them back outside the house or in the truck.<ref>[https://youtu.be/K3j5FQ7R-N4?t=455 ''Tanglewood Street House | VR | Professional SOLO Demon | Phasmophobia'' | hudzell | YouTube].</ref>
+
+Obviously, Non-VR players cannot use this strategy, as they do not have the ability to lay down.
+
+== Notorious bugs ==
+Below is a list of patched glitches that were either peculiarly game-breaking and/or gained significant notoriety in the community.
+
+=== Door physics ===
+In the past, door physics were notoriously janky and prone to many glitches. The most common was the ability to push into doors and tear them off their hinges into awkward angles. This did not, however, "jam" doors or prevent them from being closed/locked by the ghost, as they would reset to their normal position as soon as they were interacted with again. Door physics could also be exploited to traverse walls or cieilings, allowing players to go out of bounds or exit the investigation area during a hunt. For a short time after the early access Steam release, kitchen cupboard doors shared the same physics properties as passageway doors, allowing for certain exploits such as climbing on countertops, out of the ghost's reach. 
+
+=== "Show us" ===
+During a brief period, saying the phrase "show us" would always force the ghost to perform an interaction no matter what. A widely-exploited side effect of this glitch was that it would immediately cancel ongoing hunts. This glitch became widely notorious at the time for its absurd power. 
+
+=== Hantu super speed ===
+In version [[0.7.1.4]], a glitch was introduced causing the Hantu's ability of accelerating in cold rooms to increase the speed value exponentially. This led to astonishingly high speeds up to approximately 19 m/s, breaking the ghost's pathfinding and making hunts absurdly difficult to survive.
+
+== Not bugs ==
+The following behaviours, although they may seem unexpected, are features working as designed/won't be fixed:
+* Maps are an ugly red and black when eye adaption is turned on, caused by an incompatible graphics card
+* Losing consumable items even when not dying (such as [[salt]] and [[Sanity Medication|sanity medication]])
+* Seeing freezing breath with non-freezing ghosts. Since [[0.9.0]], freezing breath occurs whenever temperatures drop below 5°C (41°F).
+* The Goryo changing favorite room after using the "I wish for sanity" wish on the Monkey Paw.
+* UV flashlights not working when flashlights are disabled in the custom difficulty settings.
+* Summoning Circle candles extinguishing right after lighting them when at 0% sanity.
+* Crucifixes being used while inside the truck. Although very unexpected (usually occuring on [[42 Edgefield Road]] due to the proximity of the truck to the house), this is simply due to the range-based functionality of the crucifix.
+* Labeled photos with no visible subject in the frame. Photos are intentionally not synched over with other players for performance reasons, therefore it is possible that photos taken by other players may appear incongruent in the journal.
+* Not being able to take photos of some interactions like opened doors or thrown objects. Since [[0.13.0]], photos of certain subjects have been removed, and must now instead be recorded using a [[Video Camera]].
+
+== References ==
+{{Reflist}}
+[[ru:Ошибки и сбои]]
+[[Category:Gameplay]]

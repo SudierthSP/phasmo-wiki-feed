@@ -1,0 +1,19 @@
+# 0.17.1.3
+# revid 4161  2026-05-21T17:30:26Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version | release_date=2026年5月19日 | previous_major_version=[[0.17.0]] | previous_minor_version=[[0.17.1.2]] | next_minor_version= | next_major_version= }}'''0.17.1.3'''是发布于2026年5月19日的小型热修复补丁，。<ref>[https://www.kineticgames.co.uk/news/phasmophobia-hotfix-v01713 《Phasmophobia》 - 热修复补丁 v0.17.1.3。2026年5月19日。]</ref> 本次更新修复了一个崩溃问题。  ==修复漏洞== * 修复：加载…”
+# sha256 da018f948471b03b648491c8dbb47ae5fcc8c9f4e7c43ca72c898f30bfc305a0  bytes 560
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+| release_date=2026年5月19日
+| previous_major_version=[[0.17.0]]
+| previous_minor_version=[[0.17.1.2]]
+| next_minor_version=
+| next_major_version=
+}}'''0.17.1.3'''是发布于2026年5月19日的小型热修复补丁，。<ref>[https://www.kineticgames.co.uk/news/phasmophobia-hotfix-v01713 《Phasmophobia》 - 热修复补丁 v0.17.1.3。2026年5月19日。]</ref> 本次更新修复了一个崩溃问题。
+
+==修复漏洞==
+* 修复：加载进入活动地图时崩溃。
+
+==参考文献==
+{{Reflist}}
+{{VersionNav}}
+[[Category:开发]]

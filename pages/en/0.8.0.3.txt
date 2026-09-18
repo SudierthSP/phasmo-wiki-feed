@@ -1,0 +1,57 @@
+# 0.8.0.3
+# revid 23978  2026-06-28T21:42:58Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 cd69c40c1ad9cc41b860ec985e01ca4c6d55f11f87445bc8daf0aab529a17684  bytes 1884
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=20 December 2022
+ | previous_major_version=[[0.8.0]]
+ | previous_minor_version=[[0.8.0.2]]
+ | next_minor_version=[[0.8.0.4]]
+ | next_major_version=[[0.9.0]]
+}}'''0.8.0.3''' is a minor hotfix released on 20 December 2022.<ref>[https://store.steampowered.com/news/app/739630/view/6331529188469231692 ''Tempest | Hotfix v0.8.0.3''. 20 December 2022 (on Steam).]</ref> The update was re-released shortly after to fix an issue with overlapping UI.
+
+== Changes ==
+=== Difficulty ===
+* Custom Reward Multipliers will now have a maximum cap of x15
+** Actual cap will be displayed with the actual multiplier beside it in brackets
+* Incorrectly identifying the ghost type will round down your multiplier to the next default difficult
+** E.g. 5x > 4x or 3.7x > 3x
+
+=== Equipment ===
+;[[Ouija Board]]
+* Increased sanity drain for certain questions
+** Ghost location: 40% to 50%
+** Bone location: 20% to 50%
+
+;[[Haunted Mirror]]
+* Will now drain minimum of 20% sanity per use
+
+;[[Smudge Sticks]]
+* Will now visually animate much more accurately with the timing of their gameplay effect
+* Improved smoke effect
+
+=== Gameplay ===
+* Adjusted player freezing breath visuals to no longer block your view when walking too close to it
+* Adjusted several inconsistent text capitalizations in English 
+* Rebaked Sunny Meadows
+
+== Bug fixes ==
+* Removed several sky light leaks in the following locations:
+** Willow
+** Tanglewood
+** Edgefield
+** Ridgeview
+** Grafton
+** Sunny Meadows
+* The DOTS and death room ghost will no longer be the wrong ghost model
+* The reset save button will now work
+* Sanity will now stop draining when you are in a lit area
+* Snow will no longer fall inside the Bleasdale attic
+* Willow front room window fingerprints will now be photographable
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.8.0.3]]
+[[ru:0.8.0.3]]

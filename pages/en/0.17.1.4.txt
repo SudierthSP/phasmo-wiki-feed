@@ -1,0 +1,37 @@
+# 0.17.1.4
+# revid 24128  2026-07-20T11:32:28Z  by Darkhooper
+# 备注: next major version
+# sha256 7762ea223a907e16f320ddd79b8c807f3b2f6cf9eb33749398ada13c7dcde2ff  bytes 1847
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| release_date=2 June 2026
+| previous_major_version=[[0.17.0]]
+| previous_minor_version=[[0.17.1.3]]
+| next_minor_version=[[0.17.1.5]]
+| next_major_version=[[0.18.0]]
+}}'''0.17.1.4''' is a minor update released on 2 June 2026.<ref>[https://kineticgames.co.uk/news/phasmophobia-v01714-patch-notes ''Phasmophobia v0.17.1.4 - Patch Notes''. 2 June 2026.]</ref> It fixes several known issues.
+
+==Additions==
+*The VR belt has been reimplemented following player feedback. Players will now also be able to switch between having their Journal and Walkie Talkie on the belt or their shoulder.
+**The VR belt will only be visible locally, players who are looking at a VR player will see the equipment on their body instead.
+
+==Changes==
+*The line of sight ghost speed accelerations implemented in the Player Character Update have been reverted to their original state.
+
+==Fixes==
+*Fixed an issue that caused players to become softlocked when using the Spirit Box before interacting with the Truck’s CCTV.
+*Fixed an issue that allowed the Kormos to kill players through floors.
+*Fixed an issue that allowed the Kormos to kill players outside.
+*Fixed an issue that caused the Tier 3 Firelight to not work correctly if placed while lit.
+*Fixed an issue where player jackets would appear incorrectly when loading into a Multiplayer lobby.
+*Fixed an issue where pressing ‘Join’ in Multiplayer without having a code entered would cause issues creating lobbies, and remove audio from the game.
+*Fixed an issue where VR players were unable to use Text Input for the Spirit Box, Monkey Paw and Ouija Board.
+
+==Known Issues==
+*Players across all platforms are experiencing issues with voice recognition/voice chat. A fix is being investigated.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.17.1.4]]
+[[ru:0.17.1.4]]

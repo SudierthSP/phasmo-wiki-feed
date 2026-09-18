@@ -1,0 +1,163 @@
+# Guides/Surviving a hunt
+# revid 24261  2026-07-24T04:37:31Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 020b7eed40101efb5bb160975fd736fb644bef871060ca3a007cd5939dd32442  bytes 19401
+# 源: https://phasmophobia.fandom.com/api.phpThis [[Guides|guide]] demonstrates how to '''survive a ghost's hunting phase''' in ''Phasmophobia'', as well as necessary information to do so.
+
+During regular gameplay, and not taking into account the use of certain [[cursed possession]]s, the [[hunt]] is the only mechanic in which a ghost can [[death|kill]] players one at a time by colliding with them. No items can end a hunt, although lit [[Incense]] can disorient ghosts for some time. Thus, in order to survive, players are required to either hide from, try to outrun, or loop the ghost for as long as they can until the hunt ends.
+
+==Identifying the start of a hunt==
+Hunts are not always easy to tell apart from other manifestation ghost events (especially by newer players). The following is a list of indicators that are unique to hunts, manifestation [[ghost event]]s, or shared between both:
+{| class="fandom-table"
+!Indicator 
+!Hunt
+!Event (manifestation)
+|-
+|[[Exit Door]]s
+|Will audibly and physically lock and/or close, depending on whether the door was (re)opened prior
+|May close (not lock) for singing/chasing event that occurs in the same room as said exit door
+|-
+|[[Door]]s
+|No interaction
+|Singing/chasing event: All doors in the room where the event occured will close<br>All other events: No interaction
+|-
+|Lights 
+|Will stay in same position and cannot be toggled until hunt ends<br />Will dim or flicker on ghost approach<br />Will immediately turn off as the hunt ends
+|Will either turn off at the start of the event, or have a small chance to either turn red, or shatter then break as the event ends<br />Cannot be toggled in the room where the event occured (only red-light/light shattering events)<br />Can be toggled in all rooms for all other events
+|-
+|[[Ghost Model]] appearance
+|Always full model
+|May appear as a full model, shadow, or semi-transparent
+|-
+|Model phasing (blinking)
+|Will be invisible during the grace period, then start phasing as it hunts
+|Will immediately and always be visible for the duration of the event, and never phase
+|-
+|Speed
+|Will move at several various speeds depending on its type and situation; see [[Hunt#Ghost speeds]]
+|Either remain stationary, or chase a player at 1.7 m/s for a short while before disappearing (chasing duration may vary)
+|-
+|Footsteps
+|Always heard upon beginning to move
+|Only heard for chasing events
+|-
+|Vocalisations
+|Same vocalisation for every hunt in the same [[contract]]
+|In addition to ''any'' regular vocalisations, female ghosts can use "Ring Around the Rosie" tune while male can produce a low-tone two notes during singing events
+|-
+|Electronic interference/[[Voice chat|global chat]] static
+| colspan="2" |Will flicker within 10 metres of the ghost (15 metres for [[Raiju]]) on the same floor
+|-
+|Heartbeats
+| colspan="2" |Plays within 10 metres of the ghost and having "heartbeat line-of-sight (LoS)"
+|}<br>Keep in mind that unless a cursed hunt is initiated, ghosts cannot hunt for a certain duration (90 seconds for most ghosts) after being smudged.
+
+==Surviving a hunt==
+There are many strategies for surviving a hunt. Some of these may involve riskier tactics, while others may require cooperation between players. Often, using multiple strategies will help to achieve the highest chance of survival.
+
+===Knowing the map's layout===
+It is ideal to get a good sense of the layout of all maps, including good hiding places, potential dead-ends, and routes for you to escape. Map layouts range from the near-symmetry of [[Brownstone High School]] and [[Sunny Meadows Mental Institution|Sunny Meadows]], to the organic layout of [[Maple Lodge Campsite]], to the tighter environments of [[42 Edgefield Road]] and [[6 Tanglewood Drive]]. Knowing the symmetry of the map may improve your understanding of the layout.
+
+===Hunt prevention===
+Preventing hunts from occurring in the first place is a very dependable way to reduce the risk of dying.
+
+;[[Incense]]
+*Smudging the ghost will prevent hunts for the next 90 seconds (60 seconds for [[Demon]] and 180 seconds for [[Spirit]]). This applies even when the ghost is smudged during a hunt, though the ongoing hunt will ''not'' end. It may be preferable to smudge just as a hunt is about to end (if you are far away from the favorite room), or just before the hunt cooldown is over.
+*Note that if an existing hunt prevention cooldown from a previous Incense is still ongoing, using a new Incense will ''not'' restart the timer.
+
+;[[Crucifix]]
+*In some cases, it may be more ideal to place a crucifix along the escape route near the favorite room, so that the ghost does not initiate a hunt from there. Make use of the visible crucifix radius to cover a larger area.
+
+;[[Sanity]]
+*If you start with 100% sanity, almost all ghosts cannot hunt immediately unless you use a cursed possession. By turning on lights, holding lit candles, avoiding ghost events, and taking [[Sanity Pills]] as needed, you can keep sanity well above the threshold for most ghosts for a longer time. If you start at lower sanity, these strategies may decrease in usefulness.
+
+Though hunts are dangerous, in some cases it may be necessary for them to happen for the players to identify the ghost or complete objectives.
+
+===Communicating hunts===
+When a hunt starts, there is usually a short grace period before the ghost can actually detect or kill players. Communicating to other players that a hunt has started can help them to get a head start on the ghost and be more likely to survive.
+
+As players that are far enough from the ghost can still use global chat, they can communicate that a hunt has started if they realize so. Some clues include all the exit doors locking, the activity level displayed in the truck reaching 10, and light switches becoming unusable. Note that some of these may also be caused by ghost events or other factors.
+
+===Running away===
+Once a hunt starts, try to figure out where exactly the ghost will spawn. The only indicators of where the ghost will be are electronic interference and its hunting noise, so a stereo audio setup is recommended. Depending on where the ghost begins, decide which hiding spots are feasible and begin to move.
+
+*Try not to hide near the area where the ghost could spawn; otherwise, hiding near the ghost could mean it detecting you quickly, then looking around your last seen location first. However, if you can reach a decent hiding spot before the ghost can detect players, then don't be afraid to hide near the ghost; as long as you are hidden in time, it does not matter whether the ghost is nearby or far away.
+*If the ghost spawns just outside the room you're in, try to get to the safest spot against an adjacent wall, so your line of sight can be broken by at least another corner.
+*Use the sprint ability strategically, as it will only allow the player to run for 3 seconds before having a 5 second cooldown, limiting the player to walking. It can either be used whenever a hunt starts to gain a head start on the ghost to quickly reach a hiding location or to quickly break line of sight if the ghost happens to spot the player.
+*Most ghosts speed up with continued line-of-sight. Hence, refrain from running in a straight line from the ghost; use corners or objects to your advantage instead. If you happen to run into a long hallway or a corridor, always consider pointers to break line of sight such as doors or stairs. Generally, using two line-of-sight blockers in quick succession (e.g. by turning corners and closing doors) before entering a hiding spot is a great way to shake off the ghost effectively.
+*Once you know the route, turn off your electronic equipment as soon as possible. Having lit firelights, igniters, or Tier II UV lights does not attract the ghost and can safely be used in case you still need to see.
+*If the ghost had the chance to spot you or a teammate, it will "camp" around that location for a little, before moving to a new random area. Make sure you are always moving towards the hiding spot and be very attentive to its hunting sounds. The [[Myling]]'s vocalizations are audible only from a shorter distance, while some vocalizations can be very soft.
+*Some ghosts (e.g. [[Revenant]], [[Hantu]]) have different speed abilities that may allow them to catch up even quicker. This is important to note if the ghost's location is relatively free of obstructions, making it harder to break line-of-sight with the ghost and enabling it to continue chasing at high speeds.
+
+===Hiding===
+While searching for the ghost or afterwards, players should identify accessible [[Hiding Spots|hiding spots]] around the map. Hiding spots may sometimes be inaccessible, forcing players to take potentially riskier routes to escape the ghost during a hunt. 
+
+Note that some object/furniture hiding spots are not "official" hiding spots, and hence will never be blocked off. In addition, there may be certain locations which may act as decent hiding spots, even without furniture. So there are usually more "hiding spots" available than listed, depending on the risk you can take.
+
+If the ghost is a [[Deogen]], however, hiding is pointless and may cause the player to get cornered and killed as it always knows where all players are during a hunt.
+
+;Official hiding spots
+Players should prioritize official hiding spots such as closets, lockers, small tents, etc., as these are usually the safest spots.
+
+;Furniture
+Generally, recommended hiding spots based on furniture can often be located in a dead end, such that the ghost will rarely path all the way to that area, and the only line-of-sight to the player is from the area ''right'' beside the hiding spot.
+
+As a general rule of thumb, if the furniture covers the player to at least the horizontal ''eye level'', it should be a viable hiding spot. Players may need to crouch where the furniture is not tall enough to fully cover them otherwise (e.g. kitchen tables/islands). Generally, furniture elements with no or small collision hitboxes such as potted plants or the bushes on [[Maple Lodge Campsite]] will not hide the player from the ghost.
+
+;Room
+If all else fails, simply hiding in a room is the last resort. It is best to choose smaller and dead-end rooms. The pathable area is small, meaning that the ghost is less likely to choose that room to enter. On smaller maps, this is risky as the ghost simply has to walk into the room you're hiding in to kill you. This strategy is marginally more useful on larger maps, such as [[Sunny Meadows Mental Institution|Sunny Meadows]]; The vast number of rooms and area the ghost can choose to cover creates a significantly smaller chance for it to find you. 
+
+As the ghost can detect nearby players hiding behind open doors, you must remember to close the door if you are hiding in a small room.
+
+;Glitched spots
+Some maps have spots where it is impossible for the ghost to kill a player, even when the ghost is fully aware of the player being there. This generally occurs in places where the ghost is either unable to collide with the player, or cannot achieve line-of-sight. Some of these spots may require additional actions by the player to remain safe. Users of these spots should take note that they can be patched in any update, and cannot be relied on indefinitely.
+
+===Being far away===
+On the largest maps such as Sunny Meadows and [[Brownstone High School]], simply staying far enough away from the ghost is a relatively safe way to avoid death. In the same vein that a ghost is extremely unlikely to wander to a faraway location by chance, it will also tend to wander relatively near its starting location (e.g. in a wing of Sunny Meadows) during a hunt, and is unlikely to find players in an extremely far location as long as the latter are somewhat hidden and cannot be spotted from afar. In extreme cases, it may even be possible for an entire hunt to start and end without players realizing a hunt had even occurred.
+
+===Lighting [[Incense]] near the ghost===
+Using Incense near a ghost will cause it to ignore all players for 5 seconds. This gives the player time to escape and move to a different location to hide if needed. Beware that the ghost can still wander in the same direction as an escaping player, making it lock back onto them if it can see them.
+
+*Preferably, you should be able to reach a hiding spot by the time the Incense runs out. Avoid sprinting before you have even lit the Incense to keep the sprint for later.
+*Remember that each Incense can only be used once and will only blind the ghost once. Trying to light it again won't work and keeping it in your hand after it has burnt out is pointless.
+*The [[Moroi]] is smudged for 7.5 seconds instead of 5, giving players more time to move to a hiding spot.
+*If you are not the host of the current lobby or have a slow connection, try to light the Incense slightly earlier than you comfortably would, as significant lag on the player's end may cause the ghost to be registered as killing them before the Incense is actually lit.
+
+As long as the Incense is burned near the ghost, its effects will be applied regardless of the player who burned it, allowing players to effectively save each other. For example, if a player is hiding and another player is chased by a ghost nearby, the hidden player can light an Incense to disorient the ghost, and allow the escaping player to hide in the hiding spot without compromising it.
+
+===Looping the ghost===
+Some locations have furniture or walls that are located in such a way that players can loop around while the ghost is chasing them, such as [[Grafton Farmhouse]], where one can loop between the Dining Room, the Kitchen, and the Foyer, or around the kitchen islands in various houses. Looping takes advantage of the shape of the furniture or structure continually breaking line-of-sight, reducing the [[Hunt#Ghost speeds|ghost's acceleration]]. Generally, most looping is done around kitchen islands, and players usually crouch to slow the rate at which the ghost gains speed. Players looking for more intense gameplay may loop the ghost until the end of the hunt, but partial looping can also be used to run to a safer place or bide time. Looping can also be used to save other players, especially in Nightmare and Insanity difficulty if the ghost is chasing players towards a dead end. 
+
+If the player plans on looping, keep the lights in the room turned on to aid visibility. Looping will generally involve the ghost reversing direction; players should keep a lookout for when it does so. Looping is generally more dangerous if the ghost is a Phantom, has a speed advantage, or is a crawling ghost, and players may need to listen for the ghost's precise location or abandon looping altogether. If the player performing the strategy is confident, they may try to take pictures of the ghost while looping, though this usually requires the player to continually have line-of-sight with the ghost, making it accelerate. Crouching while looping the ghost can drastically reduce its time with line-of-sight to you, therefor also drastically reducing how quickly it accelerates. An Incense is ''highly'' recommended in case the ghost catches up with the player.
+
+*The [[Deogen]], [[Hantu]] and [[Thaye]] become slower than even the player's walking speed under certain conditions, and do not speed up with line-of-sight; looping these ghosts is generally much safer, and in the case of the Deogen, is essential for surviving against it.
+
+Tier III [[Salt]] may come particularly handy to loop a ghost, since it has the ability to slow down a hunting ghost for 2 seconds (this will not reset the line of sight acceleration, however). Placing lines at regular intervals may allow the player to loop a ghost for possibly the entire hunt.
+
+===Turning off, throwing, and/or swapping electronic equipment===
+As any active electronic equipment held in the hand, including flashlights (even when on the shoulder), will attract the ghost within 7.5 meters, players should turn these off or swap them to another inventory slot ''before'' entering their hiding place, or preferably as early into the hunt as possible. Note that the default flashlight with a very weak light (that cannot be removed from the shoulder) will not attract the ghost.
+*Ghosts will move to the last known location of a detected electronic, even if it was turned off after. Do ''not'' turn off electronics in the hiding spot - do so well before entering the spot.
+*In particular, any worn [[Head Gear]] should be turned off as soon as possible, as they require a short moment of holding the Special key to turn off, so if the ghost wanders nearby, it may already be too late.
+*Always assume that attracting the ghost is instantaneous; electronic equipment that is turned on then very quickly turned off can still be detected if the ghost is within range.
+*For the [[Yokai]], this range is 2.5 metres.
+
+A [[Raiju]] will gain speed almost equal to that of a Revenant if nearby electronic equipment is active, even when thrown on the floor, so swapping electronics into the inventory, or turning them off before throwing them, is important to prevent it from gaining strength.
+
+===Staying quiet===
+The ghost is able to hear players using any form of voice chat within 9 meters; a ghost which hears a player will immediately go to their location and attempt to kill them if they are present. For the [[Yokai]], this range is also 2.5 meters. On smaller maps, it is especially important to keep quiet, as the ghost will more often be within range to hear you if you speak.
+
+Using push-to-talk can be useful if one has sufficient background noise that may inadvertently alert the ghost. If your cat's meow is loud enough, the ghost knows!
+
+==Recognizing the end of a hunt==
+When a hunt ends, the ghost will disappear and be teleported back to its room, hunting sounds will cease, and all lights will turn off and be toggleable again. If hiding away from the ghost, try toggling a light source to see if it turns on, audibly clicks, or physically changes (e.g. light switches flicking up and down). If the player is near an [[Exit Door|exit door]], they may also try opening it; successfully opening an exit door means the hunt is over. If a player kill ends the hunt, hearing a player die also means that the hunt has ended, however unfortunate this may be.
+
+==Other tips==
+*Listen for vocalizations and footsteps that the ghost makes to determine its location. Similarly, all electronic equipment can give players a general idea of the ghost's whereabouts during a hunt.
+**Keeping exit doors open provides an good indicator for a hunt starting, due to the obvious closing and locking sound the door makes upon a hunt start.
+*Whether a player is standing or crouching, they will walk and sprint at the same speed. The same is true whether the player is running forwards or backwards, left or right, or even running backwards while crouched. Crouching can be useful for wayfinding in the dark.
+*In theory, if all players manage to get outside of the investigation area during a hunt, the hunt ''will'' end prematurely.
+**The only legitimate method of doing so is by using the [[Monkey Paw]]. The paw can be used to unlock all exit doors even ''during'' a hunt (or if they were locked due to another reason).
+
+[[ru:Руководства/Выживание во время охоты]]
+[[Category:Guides]]
+[[fr:Guides/Survivre à une chasse]]

@@ -1,0 +1,21 @@
+# 0.9.4.3
+# revid 24000  2026-06-28T21:44:51Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 5b805a7ba451554d025f8892b058bc246102188397a677b4f9a0f4ce860ce4d3  bytes 604
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=15 February 2024
+ | previous_major_version=[[0.9.0]]
+ | previous_minor_version=[[0.9.4.2]]
+ | next_minor_version=[[0.9.5.0]]
+ | next_major_version=[[0.10.0]]
+}}'''0.9.4.3''' is a minor hotfix released on 15 February 2024.<ref>[https://store.steampowered.com/news/app/739630/view/7664633371959728876 ''Ascension | Hotfix v0.9.4.3''. 15 February 2024 (on Steam).]</ref>
+
+== Fixes==
+*You will no longer get a black screen if you had an error before the 0.9.4.2 patch
+
+== References==
+{{Reflist}}<br><br>
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.9.4.3]]
+[[ru:0.9.4.3]]

@@ -1,0 +1,16 @@
+# Sink
+# revid 22906  2026-03-05T00:19:27Z  by Netshado
+# 备注: Changed non-functional sink on tanglewood from garage to utility room.
+# sha256 294e80d22ca9b6ee77673cc548303f55383784dcf7a257e44134fd10a73f0caf  bytes 897
+# 源: https://phasmophobia.fandom.com/api.php[[File:BathroomSink.png|thumb|A bathroom sink full of water.]]
+[[File:KitchenSink.png|thumb|A kitchen sink.]]
+'''Sinks''' can be found in various places such as kitchens, toilets and bathrooms on any map. They can be turned on or off by both the player and the ghost.
+
+==Mechanics==
+When the ghost interacts with a sink, it will fill the basin with [[Dirty Water|dirty water]], giving out an [[EMF]] 2 reading (with a 33% chance of being [[EMF Level 5|EMF 5]] for the relevant ghosts).
+
+Be mindful that most but not all sinks are functional sinks. One can verify if a sink is functional by {{Control|interacting}} with the tap. If the player cannot turn on the tap for clean water, the ghost cannot use it for dirty water either. An example of a non-functional sink is in the utility room of [[6 Tanglewood Drive]].
+{{MapFeatureNav}}
+[[Category:Map Features]]
+[[fr:Évier]]
+[[ru:Раковина]]

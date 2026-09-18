@@ -1,0 +1,162 @@
+# Weather
+# revid 24460  2026-08-17T00:43:18Z  by Darkhooper
+# 备注: lightning strike cooldown on Heavy Rain
+# sha256 cf542383ab3dac6fdc23e4ed69b47ff094c037d2b5937014b8d40f252f852333  bytes 6235
+# 源: https://phasmophobia.fandom.com/api.php{{Quote
+ |Each time you start a contract, the location will have different weather, adding new layers of gameplay and making each contract feel unique. Change in temperature will make finding the ghost's location more difficult, rain or wind will impair your hearing, and a thick fog will reduce visibility.
+ |Phasmophobia Nightmare Update Announcement
+ |sourcelink=https://store.steampowered.com/news/app/739630/view/4624626247919023465
+}}'''Weather''' is a mechanic intended to enhance gameplay and affect temperatures within the [[map]].
+
+==Mechanics==
+There are currently eight types of weather. Seven among which one will be randomly chosen per game with equal chance, and an additional eighth type that has a 2% chance to replace the chosen weather. Depending on what weather type is present, players may experience auditory and visual obstructions.
+
+Weather is grouped into four groups of [[temperature]]s. From warmest to coldest:
+*Sunrise
+*Clear, Fog, Blood Moon
+*Light Rain, Heavy Rain, Windy
+*Snow
+
+This can affect how the player finds the ghost; warmer weather means that the average room temperature where the ghost is will be slightly higher than in colder weather.
+
+The effects of weather are suppressed while indoors: noise disruption (save for the occasional roar of thunder) is quieted, and the visual effects of fog and precipitation do not make their way inside. However, weather can play a major part in [[Camp Woodwind]] and [[Maple Lodge Campsite]], precisely as these maps are mainly played outside.
+
+==Sunrise==
+[[File:Sunrise MapleLodge.png|400px|thumb|[[Maple Lodge Campsite]] with Sunrise weather.]]
+The sun is rising on the horizon (it does not actually move), casting golden rays onto the map, which may improve illumination in certain areas. The deep blue sky is untainted by clouds.
+
+'''Illumination:''' High
+
+'''Vision:''' High
+
+'''Noise disruption:''' Low
+
+'''Temperature:''' {{Temperature|10}} - {{Temperature|16}}
+
+==Clear==
+[[File:Clear weather.png|400px|thumb|[[Nell's Diner]] with Clear weather.]]
+The "standard" weather type, and adds no additional features to gameplay. Surroundings are quite dim, and the sky is almost pitch black.
+
+'''Illumination:''' Poor
+
+'''Vision:''' High
+
+'''Noise disruption:''' Low
+
+'''Temperature:''' {{Temperature|8}} - {{Temperature|13}}
+
+==Fog==
+[[File:Fog weather.png|400px|thumb|[[Camp Woodwind]] with Fog weather.]]
+The map is covered in a thick mist, obscuring visibility. The fog dissipates inside buildings, but outdoor fog can be a hindrance to seeing with night vision outdoors through a video feed.
+
+'''Illumination:''' Modest
+
+'''Vision''': Poor
+
+'''Noise disruption:''' Low
+
+'''Temperature:''' {{Temperature|8}} - {{Temperature|13}}
+
+==Blood Moon==
+[[File:Blood Moon weather.png|400px|thumb|[[Sunny Meadows Mental Institution|Sunny Meadows]] with Blood Moon weather.]]
+This weather provides a red sky and a light rain. The [[ghost]] becomes 15% faster during [[hunt]]s, the passive [[sanity]] drain rate is increased by 100%, the [[Ghost Event|ghost event]] rate is increased, and the [[contract]] payout is increased by 10%.
+
+Changing the weather using a [[Monkey Paw]] will not remove the Blood Moon's gameplay effects but does remove the visual rain.
+
+'''Illumination:''' Modest
+
+'''Vision''': High
+
+'''Noise disruption:''' Medium
+
+'''Temperature:''' {{Temperature|8}} - {{Temperature|13}}
+
+==Light Rain==
+[[File:Light Rain.png|400px|thumb|[[Prison]] with Light Rain weather.]]
+This weather type adds a modest rainfall, which generates some extra noise. Flames are not affected by the rain.
+
+'''Illumination:''' Modest
+
+'''Vision:''' High
+
+'''Noise disruption:''' Medium
+
+'''Temperature:''' {{Temperature|5}} - {{Temperature|8}}
+
+==Heavy Rain==
+[[File:Heavy Rain.png|400px|thumb|[[Grafton Farmhouse]] with Heavy Rain weather.]]
+The rainfall and thunder causes loud noise, and the map is shrouded by darkness. There is a lightning strike every 30-99 seconds.
+
+Non-tier III [[igniter]]s and [[firelight]]s cannot be lit in the rain. When an igniter or firelight affected by the rain is lit inside and brought outside, it will be extinguished immediately.
+
+Players cannot light the campfire in [[Maple Lodge Campsite]] or [[Camp Woodwind]] with this weather. The objective 'Get the Ghost to blow out a Firelight' can be difficult on these maps if the [[Ghost Room|favourite room]] is outside and tier III firelights are not available.
+
+'''Illumination:''' Poor
+
+'''Vision:''' Modest
+
+'''Noise disruption:''' High
+
+'''Temperature:''' {{Temperature|5}} - {{Temperature|8}}
+
+==Windy==
+[[File:Windy weather.png|400px|thumb|[[6 Tanglewood Drive]] with Windy weather.]]
+This weather type makes surrounding trees emit loud noise. The wind makes leaves rustle, making it a fairly loud weather type. Clouds overhead drift by quickly, but other than these, this weather type would appear similar to Clear.
+
+'''Illumination:''' Poor
+
+'''Vision:''' High
+
+'''Noise disruption:''' Medium
+
+'''Temperature:''' {{Temperature|5}} - {{Temperature|8}}
+
+==Snow==
+[[File:Snow weather.png|400px|thumb|[[Bleasdale Farmhouse]] with Snow weather.]]
+Frequent snowflakes will fall from the sky, though snow will not accumulate on the ground. A light mist lingers around the map. The low ambient temperature will cause for freezing breath to appear all throughout the map, potentially masking one of the main tells of the [[Ghost Room]].
+
+'''Illumination:''' Modest
+
+'''Vision:''' Modest
+
+'''Noise Disruption:''' Low
+
+'''Temperature:''' {{Temperature|3}} - {{Temperature|5}}
+
+==Related difficulty settings==
+*'''Weather:''' Set the weather in the location
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!2 February 2020
+|Jinns can no longer manipulate the weather.
+|-
+!?
+|Weather is now limited to rain on Tanglewood Street House.
+|-
+! colspan="2" |Early Access
+|-
+! rowspan="2" |[[0.4.0]]
+|Added 6 types of weather.
+|-
+|Tanglewood Street House is no longer always raining.
+|-
+![[0.4.1.0]]
+|Updated the visuals for Heavy Rain.
+|-
+![[0.5.1.0]]
+|Temporarily removed Fog weather.
+|-
+! rowspan="2" |[[0.8.0]]
+|Readded Fog weather.
+|-
+|Added Sunrise weather.
+|-
+![[0.11.0]]
+|Added Blood Moon weather.
+|}
+[[Category:Gameplay]]
+[[fr:Météo]]
+[[ru:Погода]]

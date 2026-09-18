@@ -1,0 +1,95 @@
+# Kormos
+# revid 24586  2026-08-28T23:52:37Z  by Darkhooper
+# 备注: added killing range numbers from Hunt page
+# sha256 dfd21ea0b7ed6d7d301db55f203210ff5218c4e7598640fb3bdac7fd4706a5b1  bytes 7032
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=
+ |strength=*Higher hunt sanity threshold when nearby players sprint outside hunts.
+*Can detect a player's footsteps from far away during a hunt.
+ |weakness(es)=*Nearly blind and cannot see still players or from afar.
+ |Evidence1=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
+ |Evidence2=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
+ |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
+}}{{Quote
+ |quote=Translating to the one who 'does not see', the Kormos is blind but uses its heightened hearing to hunt down victims.
+ |speaker=The Journal
+}}The '''Kormos''' is a type of [[ghost]] in ''Phasmophobia''. It is a visually blind ghost that is is able to detect players by listening to their footsteps.
+
+==Behavior==
+===Activity===
+The Kormos cannot perform [[Ghost Event#Mist Form|mist form]] and [[Ghost Event#Chasing|chasing]] [[Ghost Event|ghost events]].
+
+===Hunt===
+The Kormos has a [[hunt]] [[sanity]] threshold of 50% by default. It is increased to 70% if a player sprints in the same room as it.
+
+By default, the Kormos does not have line-of-sight. It can only achieve it if the player moves within 5 metres of it with no obstacles (e.g. furniture, walls). When having no line-of-sight, it can still kill players by simply colliding with them by chance. Due to this, its killing range is decreased; players die instantly when within 0.5 metres of the Kormos (as opposed to 1.1 metres with other ghosts) and after a delay of 1 second when within 0.6 metres of the Kormos (as opposed to 1.5 metres with other ghosts).
+
+Contrary to other ghosts, the Kormos can update its detection waypoint before reaching the previous one, after a timer of 5-10 seconds.
+
+The Kormos has a base speed of 1.7 m/s. Its current speed is multiplied by 1.3 if it travels to a detection waypoint while having no line-of-sight.
+
+====Sound Detection====
+Additionally to the detection from voice and electronics, the Kormos has a heightened hearing that allows it to detect footsteps sounds emitted by nearby players. Other types of sounds such as the player's breathing or an object throw do not count. The game stores only one sound per player.
+
+Every second starting from the beginning of the hunt, excluding the grace period and an [[Incense]]'s blinding effect, the Kormos will use a "hearing pulse" that first clears a list of detected sounds before checking again for recently emitted footstep sounds. The check is successful if a sound (lasting approximately 0.2-0.4 seconds) overlaps with the hearing pulse. A sound will however be ignored if it has been emitted outside of the ranges listed in the table below, if the sound is not located on the same floor as the ghost, or if the pathing distance between the ghost and the sound's location is strictly greater than 1.5 times the range. Valid sounds are added to the list of detected sounds.
+{| class="fandom-table"
+!Priority
+!Player movement
+!Detection range
+|-
+|Highest
+|Sprinting
+|30 metres
+|-
+|
+|Walking while standing
+|15 metres
+|-
+|Lowest
+|Walking while crouched
+|10 metres
+|}
+<br>If the Kormos was not already travelling to a detection waypoint or LoS waypoint, it will read the list of detected sounds and select the one with the highest priority, or the nearest if there are multiple of the same priority. A timer of 5-10 seconds will then start and a detection waypoint will be placed on the player's exact location, continuously updating until the next hearing pulse.
+
+If the list of detected sounds contains a sound after the timer expires or after the Kormos reaches the detection waypoint, it will set a new detection waypoint at the sound's location rather than the player's exact location then restart the timer. Otherwise, it will simply return to a wandering phase (after reaching the detection waypoint if it hasn't reached it yet).
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]] [[Ghost Orb]]
+|[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
+|[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]] [[Ultraviolet]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: '''Kormos''' have incredibly strong hearing.''
+
+''Weakness: '''Kormos''' are nearly blind.''
+
+==Strategies==
+As the Kormos can detect players through footstep sounds, moving should be avoided during hunts. If the player needs to move, walking while crouched should be the preferred way of moving, as the ghost would then only detect footstep sounds within 10 metres instead of 15 if walking while standing and 30 if sprinting, whether crouched or not. Note that it cannot hear between floors, so if the ghost is on a different floor, then you are free to move around as much as you want.
+
+The player does not need to use [[Hiding Spots|hiding spots]] to survive against a Kormos. As the latter is nearly blind and cannot see players who are not moving, staying still allows the player to be relatively safe. Make sure to not be standing in areas where the ghost is likely to be nearby, as the Kormos only needs to collide with the player to kill them. In that sense, staying still in a corner of the map drastically lowers the chances of dying.
+
+===Identification===
+The Kormos is one of three ghosts (the others being the [[Hantu]] and [[Onryo]]) for which you can collect all three pieces of evidence without excluding [[The Mimic]]. Therefore, before concluding you're dealing with a Kormos, confirm it by using the above methods and/or checking whether the ghost gives [[Freezing Temperatures]]. If it does, you have The Mimic instead.
+
+One way to identify the Kormos is by standing still in an open area during a hunt. If the ghost does not move straight to the player where a standard ghost would normally achieve line-of-sight, then it could be a Kormos. Ensure that it is not a [[Banshee]] by having all players use this strategy at the same time, or simply by moving to see if the ghost can detect footstep sounds.
+
+==Trivia==
+*Kormoses are blind malign spirits in the Turkic folklore who have escaped the underworld by promise of good will. However, once back into the mortal realm, a kormos can either do beneficial deeds and be granted access to Eden, or otherwise, continue its malign nature and be returned to Tamag, or hell. "''Görmöz''" means "without sight" in modern Turkish.
+*With accumulated pseudo-line-of-sight acceleration from the player being within 5 metres of the ghost followed by the speed multiplier from being over 5 metres away, the Kormos can achieve a top speed of 3.65 m/s, making it just barely the second-fastest ghost in the game behind the [[Moroi]] at full speed (3.71 m/s).
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.17.1.0]]
+|Added Kormos.
+|}
+[[ru:Кормос]]
+[[fr:Kormos]]
+[[Category:Ghosts]]
+{{GhostNav}}

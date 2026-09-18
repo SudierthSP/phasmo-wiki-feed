@@ -1,0 +1,56 @@
+# 0.15.1.0
+# revid 23902  2026-06-28T21:37:11Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 bcbde66396d5e76e0262a5ca27398737090895ac3b0d168358b71e342a494caf  bytes 3195
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| image1=0.15.1.0.jpg
+| release_date=16 December 2025
+| previous_major_version=[[0.15.0]]
+| previous_minor_version=
+| next_minor_version=
+| next_major_version=[[0.16.0]]
+}}'''0.15.1.0''' is a minor update released on 16 December 2025.<ref>[https://www.kineticgames.co.uk/news/phasmophobia-winters-jest-v01510 ''Phasmophobia - Winter’s Jest v0.15.1.0''. 16 December 2025.]</ref> This update reintroduces the Winter's Jest event and adds three new ghosts.
+
+==Additions==
+*'''Winter's Jest:''' Phasmophobia's annual winter event has begun, and with it comes the return of Krampus. Look out for this limited-time ghost model across any of the event maps during Winter's Jest. For more details on what to expect from the event, head to our announcement blog.
+*'''Double XP & Rewards:''' For the first week of Winter's Jest (16th - 23rd, 12PM GMT), players will be able to earn Double XP and money from all investigations.
+
+===Ghosts===
+*Added [[Dayan]].
+*Added [[Gallu]].
+*Added [[Obambo]].
+
+==Changes==
+*Banshee will now only present as female (names and ghost models).
+**Krampus is now defined as male and will only present as so (names and ghost models).
+*Ghost types are now sorted alphabetically in the Journal. (English language only)
+*Nell's Diner now unlocks for players at Level 5.
+*Lowered RAM usage across all maps.
+*Dead players will no longer be rewarded ghost identification event points.
+
+==Fixes==
+*Fixed an issue that caused cabinet trophy titles not being translated correctly.
+*Fixed an issue in the break room of Nell's Diner that prevented VR players from teleporting.
+*Fixed an issue that caused object interactions in Nell's Diner despite the power being off (i.e. Arcade Machine, ATM)
+*Fixed an issue that prevented the Ouija Board from responding with numbers.
+*Fixed an issue that disabled sound from the Nell's Diner TV.
+*Fixed an issue that caused Obake fingerprints being left by all ghosts, and fingerprints not being visible on some doors in Nell's Diner.
+*Fixed an issue that would cause the player to become stuck in the police car outside of Nell's Diner.
+*Fixed an issue that prevented players from assigning new colors for players or cursors.
+*Fixed an issue that could cause the ghost to spawn on the roof of Nell's Diner.
+*Fixed an "issue" that caused the eggs in Nell's Diner to look not-egg like.
+*Fixed an issue that prevented VR players from teleporting on to certain areas of Nell's Diner.
+*Fixed an issue that displayed Japanese text on the Nell's Diner leaflet as too small to read.
+*Fixed an issue that caused Steam Deck voice chat to not work correctly at the start of a contract.
+*Fixed an issue that would cause players to disconnect when viewing the CCTV screen when multiple cameras were active. (If this is still encountered, please report via our Help Centre)
+*Various other fixes and improvements.
+
+==Known Issues==
+*Players may be missing badges and cabinet trophies upon loading Phasmophobia after downloading the update. If this is encountered, load in to a contract and exit back to the menu. This should solve this issue.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.15.1.0]]
+[[ru:0.15.1.0]]

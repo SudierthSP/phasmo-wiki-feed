@@ -1,0 +1,40 @@
+# Dirty Water
+# revid 24245  2026-07-24T04:34:56Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 98d14b1af6a42d424f4c4e33bfe465e35d32d5acc36b692d67a8961d7d769baa  bytes 2637
+# 源: https://phasmophobia.fandom.com/api.php{{Item_Template
+ |img=Dirty water 0.6.1.2.png
+ |imgcaption=A bathroom sink filled with dirty water
+ |description=
+}}'''Dirty water''' is murky brown water that appears in [[sink]]s, triggered by a [[ghost]]. This can be useful as an indicator for the ghost's general location.
+
+==Mechanics==
+[[File:Dirty Water School.png|thumb|Multiple sinks filled with dirty water in [[Brownstone High School]]]]
+If a ghost interacts with a nearby sink, it will cause the sink to start filling with brown-coloured water, or turn the water brown if a player had already activated the sink prior. An [[EMF]] level 2 emission will spawn on the sink's location, with a 33% chance for this to be [[EMF Level 5]] instead if it is one of the ghost's evidences.
+
+Whether the sink has been activated before does not affect the ghost's ability to form dirty water. The sink cannot be emptied or cleaned once it has started filling with water, whether plain or dirty.
+
+===Rewards===
+{{Main|Media}}
+Taking a photo of dirty water or filming the faucet being opened by the ghost will yield a photo or a video labelled as '''Dirty Water''', and reward up to $7 and 7 XP, depending on the equipment tier and whether there is a Unique stamp. A dirty water photo can only be obtained once per sink, but dirty water videos can be obtained for multiple interactions on the same sink.
+
+==Tips==
+===Reliability===
+As dirty water requires the ghost to be physically near a sink and interact with it, obtaining dirty water tends to be unreliable; in most maps, only a few rooms or small parts of the map have sinks. Clearing the room of interactable items will increase the chance of the ghost interacting with the sink.
+
+Depending on where the ghost is and the [[difficulty]] settings, it may not be worth it to wait for dirty water to appear.
+
+===Interacting with the faucet===
+It is advised to turn off the sink after the player is done filling it, in order to hear it turn on again should the ghost interact with it.
+
+==Trivia==
+*Capturing a photo of dirty water was once a possible optional objective. This was later removed because of the unreliability in completing this objective.
+*In the promotional video on Steam for the game, the investigator turns on a sink and dirty water comes out. He tells his friend on the walkie, and his friend responds "That means we're dealing with a Spirit or a Wraith." This was changed before the game was made available on Steam and dirty water currently does not serve as evidence for any particular ghost type.
+
+==See also==
+*[[Photo Camera]]
+*[[Objectives]]
+
+[[ru:Грязная вода]]
+[[Category:Objectives]]
+[[fr:Eau sale]]

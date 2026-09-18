@@ -1,0 +1,103 @@
+# 鬼魂笔迹
+# revid 3746  2025-06-20T03:49:18Z  by Khalaris Farraeal
+# sha256 a11d33ccbe35a300e8026946875d37e4813bad26886b9b4be8550883cfe7f7d3  bytes 3210
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Evidence_Infobox
+ |image1=OpenBook_Patterns.gif
+ |detected_by=[[鬼魂笔记]]
+}}''"除了通灵盒之外，超自然现象研究者还会用纸和笔与鬼魂交流。后来他们发现只有特定类型的鬼魂才会写字。"''
+
+'''鬼魂笔迹'''是一件用于探测鬼魂类型的[[证据]]。可使用[[鬼魂笔记]]得出该证据。
+
+== 运作方式 ==
+如果鬼魂笔迹是鬼魂的一件证据，那么它每 45-90 秒有几率尝试使用鬼魂笔记。鬼魂要在鬼魂笔记的范围内才能使用，笔记等级越高，成功几率也越高。
+
+此时会触发 EMF 2级信号，如果鬼魂有 [[EMF 5级]]证据，那有 25% 几率是触发 EMF 5级信号。
+
+=== 拍照奖励 ===
+根据拍摄距离的不同，鬼魂笔迹照片可以获得高达 $5 和 5XP 的拍照奖励。鬼魂笔迹出现的 20 秒内也能再拍一张互动照片，可获得高达 $5 和 5XP。每本鬼魂笔迹只能拍一次，但互动可每人拍一次。
+
+如果鬼魂笔记未有笔迹，而鬼魂有鬼魂笔迹证据，鬼魂丢笔记时会强制出现笔迹。
+
+目前共有六种鬼魂笔迹，每种笔迹生成的概率的都一样。
+
+如果鬼魂房间里有多本笔记，鬼可能会留下不同的笔迹。
+
+== 可能的鬼魂 ==
+{| class="article-table"
+|+
+|[[恶魔]]
+|鬼魂笔迹
+|[[指纹]]
+|[[刺骨寒温]]
+|-
+|[[雾影]]
+|鬼魂笔迹
+|[[点阵投影仪]]
+|[[通灵盒]]
+|-
+|[[梦魇]]
+|鬼魂笔迹
+|[[灵球]]
+|[[通灵盒]]
+|-
+|[[魔洛伊]]
+|鬼魂笔迹
+|[[刺骨寒温]]
+|[[通灵盒]]
+|-
+|[[鬼婴]]
+|鬼魂笔迹
+|[[EMF 5级]]
+|[[指纹]]
+|-
+|[[骚灵]]
+|鬼魂笔迹
+|[[指纹]]
+|[[通灵盒]]
+|-
+|[[亡魂]]
+|鬼魂笔迹
+|[[刺骨寒温]]
+|[[灵球]]
+|-
+|[[暗影]]
+|鬼魂笔迹
+|[[EMF 5级]]
+|[[刺骨寒温]]
+|-
+|[[魂魄]]
+|鬼魂笔迹
+|[[EMF 5级]]
+|[[通灵盒]]
+|-
+|[[刹耶]]
+|鬼魂笔迹
+|[[灵球]]
+|[[点阵投影仪]]
+|}
+
+== 笔迹样式 ==
+;一级
+<gallery>
+T1BookWriting1.png|疯狂画画
+T1BookWriting2.png|求助            HELP ME, PLEASE  
+T1BookWriting3.png|一言为定              （无法识别）with you, then me come play. Forever, Forever. 和你（无法识别），然后我会来找你玩，永远在一起，直到永远。  
+</gallery>
+;二级
+<gallery>
+OpenBook_Writing1_Render.png|寻求帮助 1        I‘m （无法识别），please help me. It hurts. Someone please come save me NOW. 我是（无法识别），请帮帮我，我很痛苦。来人'''<u><big>现在</big></u>'''就救救我吧！   
+OpenBook_Writing2_Render.png|鬼画符
+OpenBook_Writing3_Render.png|寻求帮助 2       I’ve been here so long. Now it HURTS. Please help me（无法识别） 我在这里逗留太久了。 现在我<big>'''<u>很痛苦</u>'''</big>！ 请（无法识别，推测为立即）帮帮我！
+OpenBook_Writing4_Render.png|无法辨认
+OpenBook_Writing5_Render.png|日下逃跑
+OpenBook_Writing6_Render.png|精神错乱 支离破碎           出现"Run" "Help" "See"等文字 还有“look, I'm hurting”和“behind you”等。 
+</gallery>
+;三级
+<gallery>
+T3BookWriting1.png|666
+T3BookWriting2.png|倒五芒星仪式
+T3BookWriting3.png|倒五芒星和六芒星法阵
+</gallery>
+{{EvidenceNav}}
+{{EquipmentNav}}
+[[Category:证据]]

@@ -1,0 +1,17 @@
+# Contract
+# revid 21225  2025-06-27T16:58:50Z  by Darkhooper
+# 备注: new files
+# sha256 dfa39f0f51188816529a64bc55dd2ce10c7559be9023a840fca3cda269d97c01  bytes 1263
+# 源: https://phasmophobia.fandom.com/api.php[[File:MapSelection.png|thumb|The map selection board.]]
+[[File:PostGameStatistics.png|thumb|Post-game statistics]]
+A '''contract''', also known as a  '''job''' or '''investigation''', forms the core component of the game. The player who created the lobby will have the option to choose a [[difficulty]]. All players can vote on the [[map]] to be played. Not all players have to vote to begin the contract. If there are multiple maps voted on, the map with the most votes wins. If two maps both have the most votes, either map will have an equal chance of being chosen. If the Random option and at least one other map is selected, the selection will automatically narrow down to the remaining map(s) instead of randomisation.
+
+Once a map is selected, each player may ready up, allowing the host of the lobby to begin the contract. 
+
+Once a contract is completed and the truck is closed up, the player(s) will automatically be returned to the lobby. The rewards earned for the contract will be listed, followed by any level-up and unlocks, and the statistics of the contract.
+
+If the player leaves the contract without completing it, they will be returned to the main lobby without earning any rewards.
+
+[[Category:Gameplay]]
+[[fr:Contrat]]
+[[ru:Контракт]]

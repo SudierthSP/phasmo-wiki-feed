@@ -1,0 +1,44 @@
+# Watch
+# revid 24374  2026-08-01T07:14:12Z  by Darkhooper
+# 备注: added Trivia section
+# sha256 60ae15efb7c1c27a70a42625b15104441dba77a710aa29d238ac5e72e8b6afa6  bytes 1894
+# 源: https://phasmophobia.fandom.com/api.php{{Item Template
+|img=WatchModel.png
+}}
+The '''watch''' is a permanent piece of equipment mainly used to monitor players' [[sanity]].
+
+==Mechanics==
+The watch is worn on the player's left wrist. It can be inspected at any time during the investigation by holding the {{Control|Inspect Watch}} button. In VR, the player can simply raise their left hand to view the watch.
+
+It is not considered as an electronic equipment and therefore cannot attract the [[ghost]] during [[hunt]]s.
+
+===Sanity bar===
+[[File:WatchOnWrist.png|thumb|A player looking at their watch.]]
+On the watch's screen, an outer colored circle indicates the [[sanity]] level of all players, with the used color matching the color set in the [[options]]. The color turns grey counterclockwise the more the player loses sanity. When a player [[Death|dies]], their respective color turns darker.
+
+On [[difficulty|difficulties]] where the [[Sanity Monitor]] is broken, the circle is also disabled.
+
+===Timer===
+In the middle of the watch's screen, a timer indicates the elapsed time since an [[Exit Door|exit door]] has been opened for the first time of the [[contract]]. This can help players to keep track of [[incense]] timers, [[Fire Source|fire source]] timers, etc.
+
+===Voice chat===
+A microphone icon can be seen below the timer when the player uses '''Push-to-talk''' or '''Toggle''' [[voice chat]] modes. It is greyed out if the player's microphone is currently muted, and white if activated by holding/pressing the {{Control|local chat}} button.
+
+==Trivia==
+*The watch cannot display hours. As such, if the contract reaches the hour mark, the watch will loop back to 00:00.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.17.0]]
+|Added Watch.
+|-
+![[0.18.0]]
+|Added a keybind to be able to inspect the Watch at any time.
+|}<br>
+
+{{EquipmentNav}}
+[[Category:Equipment]]
+[[fr:Montre]]
+[[ru:Часы]]

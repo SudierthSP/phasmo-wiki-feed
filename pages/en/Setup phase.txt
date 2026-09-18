@@ -1,0 +1,5 @@
+# Setup phase
+# revid 10435  2022-03-22T11:42:30Z  by Skaijie
+# 备注: Redirected page to [[Setup Phase]]
+# sha256 528986c5f41c621e581f807fe65320a672f9f415c11b949e81c02b259282ee38  bytes 25
+# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Setup Phase]]

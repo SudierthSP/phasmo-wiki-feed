@@ -1,0 +1,24 @@
+# 0.6.1.6
+# revid 23956  2026-06-28T21:41:06Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 a30a9ab6e2fe1d89e83662524a9349df327f322c8c543992505cd14edd6a753c  bytes 746
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=23 April 2022
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.1.5]]
+  | next_major_version=[[0.7.0]]
+  | next_minor_version=[[0.6.1.7]]
+}}The '''0.6.1.6''' update is a minor update to the game released on 23 April 2022.<ref>https://store.steampowered.com/news/app/739630/view/3174484195247569716</ref> This update fixes bugs.
+
+== Bug fixes ==
+*Candle and lighter flames will now render on top of all objects
+*Sink water splashes ripples will now render on top of sink water
+*Dirty water will now render its murky texture correctly
+*Your sprint stamina will now drain correctly on the main menu
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.6.1.6]]
+[[ru:0.6.1.6]]

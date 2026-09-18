@@ -1,0 +1,153 @@
+# Ghost Room
+# revid 24634  2026-09-12T16:43:48Z  by Darkhooper
+# 备注: dataminers found actual chances for fav room changes / added disallowed fav rooms on new Restricted maps
+# sha256 04af4ed30b0aa2fde5db9281d2cc795d41f791b445c799b4e757d95aa8bf93ba  bytes 7835
+# 源: https://phasmophobia.fandom.com/api.phpA '''ghost room''', officially referred to as the '''favourite room''', is a specific [[Map#Rooms|room]] in a [[map]] that the ghost will "prefer", or base specific actions upon. Those can be limited to whole rooms of a building but can also include hallways, enclosed areas, campsite tents, etc. [[Ghost]]s may leave their room while [[hunt]]ing or simply being more active due to a player's decreasing [[sanity]], but in general, their [[activity]] will be localised to the favourite room and its immediate surroundings.
+
+Finding the favourite room in itself is not an [[Objectives|objective]], but it simplifies the task of identifying the type of ghost correctly and allows players to record [[media]] more quickly. Depending on the [[difficulty]], the ghost can decide to change its favourite room during the [[contract]]. The favourite room plays a lesser role once the type of ghost has been identified correctly and will usually serve as a reference for player activity during hunts.
+
+==Mechanics==
+===Favourite room===
+Whenever a map is loaded in, one room in the area will be randomly selected as the favourite room. The favourite room is relevant for the following behaviours:
+*The ghost will teleport to the favourite room at the end of every hunt and when a [[crucifix]] has successfully prevented a hunt.
+*The ghost can roam back to the favourite room.
+*[[Ghost Orb]]s, if the ghost has it as [[evidence]], will be present in the favourite room.
+**Though [[The Mimic]] doesn't have Ghost Orb among its types of evidence, it will still provide it as its weakness.
+*The [[Haunted Mirror]] will show a view of the favourite room.
+*''The Hermit'' [[Tarot Cards|tarot card]] and the "I wish to trap the ghost" wish from the [[Monkey Paw]] will teleport the ghost to the favourite room and temporarily trap it there.
+*The [[Yurei]] will be sent back to the favourite room and stay within it for 90 seconds after being affected with [[Incense]] outside of a hunt.
+
+===Favourite room state===
+Through the [[activity]] check, the ghost can enter the favourite room state, which simply makes it place a waypoint within the favourite room and move to that location.
+
+===Ghost's current location/room===
+As an invisible entity by default, ghosts can perform [[roaming]] simply to walk around. This can include roaming to another room; this does ''not'' change the favourite room. The following behaviours relate to where the ghost actually is:
+*Ghosts will [[Interaction|interact]] with objects in a certain radius around itself.
+*Ghosts always start a hunt from its current position (except for [[The Twins]] in some cases).
+*Ghosts can initiate [[ghost event]]s (naturally) if the player is within a certain range of the ghost.
+*For evidence to either be created ''and/or'' obtained, the ghost must be nearby (other than Ghost Orbs).
+*[[Ouija Board]] responses always give the ghost's current room, not the favourite one.
+Generally, ghosts will spend most of their time in the favourite room and will not roam far off. Still, they may move far away from their room if they have an ability that allows them to do so (the [[Wraith]]'s teleport ability, the [[Banshee]]'s roaming ability, and the [[Phantom]]'s travel ability), or perform a ghost event on a player that is somewhat far from the ghost room (but not too far). These instances are technically not a "roaming phase", but the ghost may roam after performing these actions.
+
+===Changing favourite rooms===
+Three criteria are used to determine whether the favourite room will change. Suppose the ghost performs a "long roam" and ends up in a room that is not its current favourite. In that case, the ghost will perform a chance roll based on the ''Changing favourite room'' [[difficulty]] setting:
+*'''None (Amateur, Intermediate):''' 0%
+*'''Low (Professional):''' 34%
+*'''Medium (Nightmare):''' 67%
+*'''High (Insanity):''' 100%
+If the chance above succeeds, a second chance roll is performed on the complement of the average [[sanity]] (or insanity); for example, an average sanity of 80% has a 20% chance of succeeding. If both chances are successful, the favourite room will change to the ghost's current room.
+
+The [[Goryo]] cannot change its favourite room by itself, even with the "Changing favourite room" parameter set to High. Using a specific [[Monkey Paw]] wish can force it to change the favourite room once.
+
+===Disallowed favourite rooms===
+Some maps have rooms such as corridors or hallways which ''cannot'' be chosen as the favourite room. The ghost can still roam into these rooms, provide evidence in these rooms, interact with items in or around the room, and spawn in these rooms during hunts or manifestations, but Ghost Orbs cannot be present in these rooms, the ghost will always fail its favourite room change roll if it ends up in one after a long roam, and it will not teleport to these rooms after a hunt.<ref>https://discord.com/channels/435431947963990026/765596827537244200/906221726554267678</ref>
+
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+!colspan="2"|List of disallowed favourite rooms
+|-
+! colspan="2" |Small maps
+|-
+![[Nell's Diner]]
+|
+*Foyer
+|-
+![[Prison#Prison - Restricted|Prison Restricted]]
+|
+*Main Hallway
+*Office Hallway
+|-
+!colspan="2"|Medium maps
+|-
+![[Bleasdale Farmhouse]]
+|
+*Attic Hallway
+|-
+![[Point Hope]]
+|
+*Bathroom Hallway
+*Master Bedroom Hallway
+*Child Bedroom Hallway
+*Balcony
+|-
+![[Maple Lodge Campsite]]
+|
+*Campsite A
+*Campsite B
+*North East Path
+|-
+![[Prison]]
+|
+*Main Hallway
+*Office Hallway
+|-
+![[Brownstone High School#Brownstone High School - Restricted|Brownstone High School Restricted]]
+|
+*First Floor Main Corridor
+*First Floor Left Corridor
+*First Floor Right Corridor
+*Second Floor Main Corridor
+*Second Floor Left Corridor
+*Second Floor Right Corridor
+|-
+![[Sunny Meadows Mental Institution#Sunny Meadows Mental Institution - Restricted|Sunny Meadows Restricted]]
+|
+*Padded Room 1
+*Padded Room 2
+*Connecting Corridor
+*Basement West Corridor
+*Basement East Corridor
+*Courtyard Corridor
+*Male Wing
+*Female Wing
+*Hospital Wing
+*Restricted Area
+*Left Entrance Stairwell
+|-
+!colspan="2"|Large maps
+|-
+![[Brownstone High School]]
+|
+*First Floor Main Corridor
+*First Floor Left Corridor
+*First Floor Right Corridor
+*Second Floor Main Corridor
+*Second Floor Left Corridor
+*Second Floor Right Corridor
+|-
+![[Sunny Meadows Mental Institution|Sunny Meadows]]
+|
+*Foyer
+*Padded Room 1
+*Padded Room 2
+*Connecting Corridor
+*Basement West Corridor
+*Basement East Corridor
+*Courtyard Corridor
+*Male Wing
+*Female Wing
+*Hospital Wing
+*Restricted Area
+*Left Entrance Stairwell
+*Right Entrance Stairwell
+*West Stairwell
+*East Stairwell
+|}
+<br>In multiplayer, there is a bug where if the ghost roams into a room that cannot be chosen as a favourite room, the game considers the ghost to still be in the previous room it was in instead of its actual current room. This leads to the [[Ouija Board]] indicating the wrong current room, [[light]]s not preventing the ghost from throwing items, and the [[Shade]] being able to hunt while a player is in the same room.
+
+==Tips==
+*As the favorite room or the current location of the ghost can be a corridor, hallway, or large room, there may be difficulties for the players especially when it comes to the accurate use of [[equipment]] such as crucifixes and [[Incense]].
+*Rooms on small maps containing stairways (i.e, basements in most houses, the Foyer on Ridgeview, etc.) will always include said stairway when chosen as a favourite room.
+
+==See also==
+*[[Map#Segmentation|Map (Segmentation)]]
+*[[Guides/Locating the ghost]]
+*[[Third-party tools#Evidence and map tools]]
+
+==References==
+{{Reflist}}
+{{MapFeatureNav}}
+[[Category:Evidence]]
+[[Category:Map Features]]
+[[fr:Pièce hantée]]
+[[ru:Место обитания]]<!--
+[[zh:鬼魂房间]]-->

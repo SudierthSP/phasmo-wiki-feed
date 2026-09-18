@@ -1,0 +1,66 @@
+# 埃奇菲尔德街房屋
+# revid 2840  2023-03-11T04:17:54Z  by Skaijie
+# sha256 216bfa915c558019d9dc5a1d47dd96ddfe578b0c6220cd178c0ecacea028805a  bytes 2955
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+|img=Edgefield Street House.jpg
+|imgcaption=房屋外观
+|teamsize=2
+|mapsize=小型
+|floors=3
+|rooms=19（总）
+*7 (1F)
+*11 (2F)
+*1 (B)
+|exits=1
+|faucets=7
+|videofeeds=1
+|keys=出口门钥匙、车钥匙
+}}'''埃奇菲尔德路42号'''（英：'''42 Edgefield Road'''）是恐鬼症里的一张[[地图]]。这是一栋'''六室六卫'''的双层住宅，还有一个小车库和一个地下室。埃奇菲尔德是一个拥挤、幽闭恐怖的环境，并且它逼仄的走廊常让玩家难以看到过去的同伴调查员。尽管如此，这里有充足的躲藏点以供度过 [[猎杀]]，因为藏身的房间经常只有几步远。
+
+== 结构 ==
+埃奇菲尔德街房屋包括六间卧室、六间浴室、一个车库和一个地下室，以及其他房间。它还包括一只在婴儿房的泰迪熊。
+
+=== 结构提示 ===
+* 地下室的整体算一个房间。
+* 二楼每间的卧室包括卧室本身和相邻浴室。
+
+详见 [https://www.phasmophobia-matrix.com/zh-CN/maps/edgefield Phasmophobia Matrix] 可仔细研究地图结构。
+
+=== 关键躲藏点与技巧 ===
+在这间房子内有6个衣柜、2组储物柜和几个自然躲藏点。根据难度，有些衣柜、储物柜和自然躲藏点会装满物品，使玩家无法躲在里面。 
+* 业余: 无
+* 中级: 最多 6 个
+* 专家: 最多 7 个
+* 噩梦: 最多 8 个
+* 三人游戏: 多 1 个可躲的躲藏点
+* 四人游戏: 多 2 个可躲的躲藏点
+
+自定义难度躲藏点设为无不会有躲藏点，无论多人游戏是否。 
+
+== 骨头位置 ==
+[[骨头证据|骨头]]生成点相当随机，但通常偏房间的中间。
+
+;示例
+<div class="mw-collapsible-content"><gallery widths="185">
+Bone edgefield utility 埃奇菲尔德洗衣间骨头.png|洗衣间地毯里的骨头，小型骨头可能更容易错过
+Bone edgefield smallbluebedroom 埃奇菲尔德小蓝房骨头.png|小蓝房的骨头
+</gallery></div>
+
+== [[诅咒之物]]位置 ==
+<div class="mw-collapsible-content"><gallery widths="185">
+Hauntedmirror edgefield hallway 埃奇菲尔德走廊镜子.png|门厅往二楼楼梯附近的[[闹鬼魔镜]]
+Musicbox edgefield livingroom 埃奇菲尔德客厅八音盒.png|客厅桌子上的[[八音盒]]
+Ouija edgefield utility 埃奇菲尔德洗衣间通灵板.png|洗衣间铁架下的[[通灵板]]
+Summoningcircle edgefield basement 埃奇菲尔德地下室召唤阵.png|地下室的[[召唤阵]]
+Tarotcards edgefield hallway 埃奇菲尔德走廊塔罗牌.png|门厅入口处桌上的[[塔罗牌]]
+Voodoodoll edgefield largebluebedroom 埃奇菲尔德大蓝房巫毒娃娃.png|大蓝房床上的[[巫毒娃娃]]
+埃奇菲尔德猴爪.jpg|婴儿房的[[猴爪]]
+</gallery></div>
+
+== 逸闻轶事 ==
+* 紫色房间厕所曾经未提供水槽，那么使用厕所的人要怎么洗手呢?
+* 曾经有一个游戏漏洞，对门口外的垃圾桶拍照会获得尸体照。
+
+{{Loc nav}}
+[[Category:地图]]
+[[Category:小型地图]]

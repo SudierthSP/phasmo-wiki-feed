@@ -1,0 +1,169 @@
+# Objectives
+# revid 24267  2026-07-24T04:38:27Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 4fbd874a9d07fe3e2722cee4b5b538bea1ebba024ac853f8a51e21e48de5c10b  bytes 9646
+# 源: https://phasmophobia.fandom.com/api.phpPlayers are assigned (optional) '''objectives''' during their investigations. Each [[contract]] has 4 objectives, one of which is always "Find the correct ghost type", and the other three are randomly chosen.
+
+Objectives are displayed on the [[Objective Board|objective board]] and in the [[journal]] (except for "Find the correct ghost type"). The objectives provided are entirely optional, even ignored altogether (forfeiting [[experience]] and [[money|cash]] rewards from them), and can be done in any order. Some of them cannot be completed with only starter [[equipment]].
+
+==List of objectives==
+{| class="article-table"
+!Objective description!!Condition for completion!!Recommended strategy!!Notes!!Reward (both $ and XP)
+|-
+|Find the correct [[ghost]] type
+|The correct ghost type is selected in the journal at the end of the contract.
+|See [[Guides/Identifying ghosts]]
+|
+*'''<u>This is the default objective and is always present.</u>'''
+*This will only complete once the contract ends.
+*Completion of this objective is not shared; the player must select the correct ghost for themselves for the objective to count.
+|100 (small map)<br>150 (medium map)<br>200 (large map)
+|-
+|Capture a Photo of any successful reading on an [[EMF Reader]]
+|Capture a photo of the EMF Reader while it is at level 2 or higher.
+|After finding the ghost's general area, wait for it to interact with or throw an object, then check for an EMF reading on the object using the reader and capture a photo of the reader.
+|
+*The EMF Reader malfunctioning during hunts or ghost events also counts. This might be a bug.
+|25
+|-
+|Capture a photo of the ghost
+|A photo of the ghost is taken with a [[Photo Camera]] when it manifests during [[ghost event]]s or [[hunt]]s, or as a [[D.O.T.S Projector (Evidence)|D.O.T.S. silhouette]].
+|Take a photo of the ghost during a ghost event, which can be easily forced with the [[Monkey Paw]], the [[Music Box]], or the [[Summoning Circle]].
+|
+*During a hunt, the ghost will flicker in and out of view, making it more difficult to take a picture of versus a manifestation.
+*There is an occasional issue with ghost photos not registering during hunts even when the ghost is clearly in the picture; this is especially true on stairs.
+*It is not possible to complete this objective if the journal's photo slots are full.
+*This will stay completed even if the photo is then deleted.
+|25
+|-
+|Capture a video of a Ghost
+|Record a video of the ghost with a [[Video Camera]] when it manifests during [[ghost event]]s or [[hunt]]s, or as a [[D.O.T.S Projector (Evidence)|D.O.T.S. silhouette]]. This can be via a handheld camera or the video feed in the truck. The video should save to the journal for it to count.
+|Since any activity video-recorded will automatically be saved to the journal, doing this during a hunt is considerably easier compared to capturing a photo, though still risky.
+|
+*It is currently possible to complete this objective even if the journal's video slots are full. This is likely a bug.
+*This will stay completed even if the video is then deleted.
+|25
+|-
+|Capture 3 unique photos with a Photo Camera
+|Three [[Media#Photo evidence|photos]] with a Unique stamp are captured.
+|Take a photo of the [[Bone Evidence|bone]], an [[EMF]] signal on the [[EMF Reader]], and the [[cursed possession]].
+|
+|25
+|-
+|Capture 3 unique videos with a Video Camera
+|Three [[Media#Video evidence|videos]] with a Unique stamp are captured.
+|Record a video of a [[salt]] pile being disturbed, a [[Motion Sensor]] being triggered, and a [[door]] being moved.
+|
+|25
+|-
+|Capture 2 unique paranormal sounds with a Sound Recorder
+|Two [[Media#Sound evidence|paranormal sounds]] with a Unique stamp are captured.
+|Record the sound of a [[crucifix]] burning and a [[firelight]] being blown out.
+|
+|25
+|-
+|Detect a ghost presence with a [[Motion Sensor]]
+|The ghost triggers a placed Motion Sensor.
+|Place motion sensors into doorways or hallways the ghost might roam through and in the ghost's [[ghost room|favourite room]] or its general area.
+|
+*This objective can be completed during a hunt.
+*Ghosts will not trigger motion sensors being placed too high from their [[ghost model]].
+|25
+|-
+|Prevent the ghost from hunting with a [[Crucifix]]
+|The ghost attempts a hunt within range of a crucifix.
+|Follow the ghost around (either by tracking its audio readings with a [[Parabolic Microphone]] or with [[Motion Sensor]]s/[[salt]]) with a crucifix held in-hand. This is especially useful if the ghost roams a lot or is located in rooms where two crucifixes may not cover the entire area that it can wander within.
+|
+*For a [[Demon]], the effective crucifix range is increased by 50% for each tier (e.g. from 3 to 4.5 meters with Tier I).
+*Attempting to trigger a [[hunt]] using [[Cursed possession|cursed possessions]] to force the ghost into using the crucifix will only work with an unused Tier III crucifix. 
+|25
+|-
+|Have a member of your team witness a Ghost event
+|A ghost event has been triggered.
+|Use [[cursed possession]]s such as [[Tarot Cards]], the [[Music Box]], the [[Summoning Circle]] or the [[Monkey Paw]] to force a ghost event to occur. Otherwise, lower the average sanity to increase the chance of ghost events naturally occuring, and use Incense to prevent the ghost from hunting and allow more time for a ghost event to occur.
+|
+|25
+|-
+|Cleanse the area near the ghost using [[Incense]]
+|An Incense is lit near the ghost with an [[igniter]] or a [[firelight]].
+|Light an Incense near the ghost during a ghost event or a hunt.
+|
+*This objective can also be completed outside of a ghost event and a hunt but the ghost's location is less accurate.
+*It is possible to complete this objective and "Repel the Ghost with Incense while it's chasing someone" at the same time during a hunt.
+|30
+|-
+|Repel the Ghost with Incense while it's chasing someone
+|The ghost is stunned by Incense while having line-of-sight with at least one player.<ref group="note">Currently, this does not require line-of-sight; the ghost only needs to be travelling to where the player was last detected in the hunt. This might be a bug.</ref>
+|Wait at choke points like the end of a hallway/stairwell, wait for the ghost to approach, and light the Incense.
+|
+*The ghost must ''see'' a player for the objective to count.
+*It is not necessary for the player or the ghost to be in the favourite room, so consider waiting at a location of your choosing where you can more easily break line-of-sight with the ghost to escape or hide.
+*It is possible to complete this objective and "Cleanse the area near the ghost using Incense" at the same time during a hunt.
+|30
+|-
+|Get the Ghost to blow out a [[Firelight]]
+|The ghost blows a Firelight.
+|Place multiple lit firelights in the ghost's favourite room or general area.
+|
+*Non-equipment fire sources such as fireplaces, campfires, and candles, do not count for this objective.
+*This objective may be very difficult to achieve when playing on outdoors maps ([[Maple Lodge Campsite]], [[Camp Woodwind]]) with Heavy Rain unless the team has access to a Tier III Firelight.
+|30
+|-
+|Have a member of the team escape the Ghost during a Hunt
+|All players inside the location survive a hunt in which at least one player has been in line-of-sight with the ghost.
+|Wait at choke points like the end of a hallway/stairwell, wait for the ghost to approach, and light an Incense before reaching a hiding spot.
+|
+*The ghost must ''see'' a player for the objective to count.
+*Incense is not required for this objective.
+|25
+|-
+|Get an average [[sanity]] below 25%
+|The displayed average sanity reads 25% or below at least once.
+|Use various cursed possessions such as the [[Ouija Board]] or the [[Summoning Circle]] to lose sanity in a timely manner.
+|
+|25
+|-
+|Detect a paranormal sound with a [[Parabolic Microphone]]
+|A paranormal sound (groaning, laughing, talking, whisper, [[Banshee]]'s scream) is picked by a held parabolic microphone.
+|Stand a short distance outside the favourite room and point in its direction, or point towards the ghost's location instead if you know where it is (e.g. during a ghost event or a hunt).
+|
+|25
+|}
+
+==Removed objectives ==
+*Take a photo of [[Dirty Water]]: removed due to the very low probability of this specific event happening during a game.
+*Get a [[temperature]] below 10°C with a [[Thermometer]]: removed due to the changes made to the temperature mechanic.
+*Detect Ghost footsteps with a parabolic mic during a hunt: this objective was limited to some beta test versions.
+*Get a Ghost to walk through Salt: this was removed due to changes made to the [[Wraith]].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.26.8.1]]
+|Removed the Dirty Water and temperature objectives.
+|-
+![[0.27.4.2]]
+|Added ''Get the Ghost to blow out a Candle'', ''Have a member of your team escape the Ghost during a hunt'', ''Repel the Ghost with a smudge stick while it's chasing someone'', and ''Get an average sanity below 25%''.
+|-
+![[0.7.0]]
+|Added ''Detect a paranormal sound with a Parabolic Microphone''.
+|-
+![[0.8.0]]
+|Removed ''Get a Ghost to walk through Salt''.
+|-
+![[0.12.0.1]]
+|"Get a ghost to blow out a firelight" objective now only counts for player equipment (Firelight T1, T2, T3)
+|-
+![[0.13.0]]
+|Added ''Capture 3 unique photos with a Photo Camera'', ''Capture 3 unique videos with a Video Camera'', ''Capture 2 unique paranormal sounds with a Sound Recorder'', and ''Capture a video of the Ghost''.
+|}
+
+==See also==
+*[[Daily and Weekly Tasks]]
+
+==Notes==
+{{Reflist|group="note"}}
+[[ru:Список задач]]
+[[Category:Objectives]]
+[[fr:Objectifs]]

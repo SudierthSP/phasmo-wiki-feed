@@ -1,0 +1,53 @@
+# Ability
+# revid 24368  2026-07-31T23:45:27Z  by HollyleafYT
+# 备注: /* Mechanics */
+# sha256 78f5c360c479656c216e2a5c1ff77e72130aa4519ef6372e5d6c80172e8a084e  bytes 1798
+# 源: https://phasmophobia.fandom.com/api.phpThe '''ability''' state is a state that allows the [[ghost]] to perform further actions.
+
+==Mechanics==
+After the ghost enters this state through the [[activity]] check, it will be able to choose one of the following three actions:
+*Interact with the [[fuse box]]
+*Use its ability proper (such as the [[Phantom]]'s travel ability or the [[Demon]]'s hunt ability)
+*Perform a [[ghost event]]
+
+If the ghost is trapped due to ''The Hermit'' [[Tarot Cards|tarot card]] or the [[Monkey Paw]]'s 'trap wish', or if the ghost is a [[Shade]] and there is a player in the same room as it, it will enter the [[Ghost Room|favourite room]] state instead of continuing in the ability state.
+
+While in the ability state, the ghost will roll an integer between 0 and 11. If the ghost is a [[Thaye]], it will instead roll a float between 0.0 and 12.0 multiplied by its activity modifier (between 0.5 and 2 depending on its age), rounded down to the nearest integer.
+
+Depending on the [[difficulty]] settings, the rolled number will get one reroll:
+*If ''Event frequency'' is Low and the number is ≥ 7
+*If ''Event frequency'' is High and the number is ≤ 6
+There is an additional reroll if the [[weather]] is Blood Moon and if the number is ≤ 6
+
+Here is a list of possible outcomes depending on the final rolled number:
+{| class="article-table"
+!Number
+!Other conditions
+!Outcome
+|-
+|0
+| -
+|The ghost interacts with the fuse box
+|-
+|1 to 4
+| -
+|The ghost uses its ability proper
+|-
+|rowspan=2|5
+|The ghost is a [[Hantu]]
+|The ghost interacts with the fuse box
+|-
+| -
+|rowspan=2|The ghost performs a ghost event
+|-
+|≥ 6
+| -
+|}
+
+==Related difficulty settings==
+*'''Activity level:''' Low/Medium/High
+*'''Event frequency:''' Low/Medium/High
+
+[[ru:Способность]]
+[[Category:Ghost State]]
+[[fr:Capacité]]

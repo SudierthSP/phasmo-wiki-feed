@@ -1,0 +1,78 @@
+# The Twins
+# revid 23225  2026-04-18T20:10:26Z  by Darkhooper
+# 备注: interaction boxes / interaction range during hunt
+# sha256 c1e0527c5e7dc14dcf4cf54657f3d4afff5313ea05d018bc58b3e0e3393cea23  bytes 7200
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=The Twins Discovered.jpg
+ |strength=*Can hunt from a different place than expected
+ |abiliti(es)=*Differing speeds depending on which twin hunts
+ |weakness(es)=*Can interact with the environment simultaneously
+ |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
+ |Evidence2=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
+ |Evidence3=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
+}}{{Quote
+ |quote=These ghosts have been reported to mimic each other's actions. They alternate their attacks to confuse their prey.
+ |speaker=The Journal
+}}'''The Twins''' is a type of [[ghost]] in ''Phasmophobia''. They are known for existing as a "pair", with both Twins able to interact with the environment and start [[hunt]]s "separately". 
+
+==Behaviour==
+Despite its name and accompanying flavor text, mechanically, The Twins is simply one ghost. This means there is no "decoy twin" to:
+*Set off [[Motion Sensor|motion sensors]] or step in [[salt]]
+*Produce evidence of [[Freezing Temperatures]] (or even affect temperatures to begin with) or [[Spirit Box]]
+*Perform [[ghost event]]s or [[hunt]]s at the same time
+
+===Ability===
+When The Twins tries to [[Interaction|interact]], one of the following occurs:
+*50% chance of performing one interaction within the normal range
+**up to 2.12 metres (3m × 3m × 2m box) on small and medium [[map]]s, and up to 4.24 metres (6m × 6m × 4m box) on large maps
+*30% chance of performing one interaction within a larger range
+**up to 8.48 metres (12m × 12m × 4m box) on small and medium maps, and up to 16.97 metres (24m × 24m × 4m box) on large maps
+*20% chance of performing its ability, which produces two interactions, one in each range, in a timespan of 1 or 2 seconds.
+All such interactions follow the standard 1/3 (33%) chance of producing [[EMF Level 5]] instead of 2 or 3, regardless of which range was used to perform the interaction.
+
+===Hunt===
+As The Twins is only one ghost, two hunts cannot occur simultaneously, and it will follow the standard 25-second cooldown between hunts.
+
+When The Twins attempts to initiate a hunt, it will first perform a [[crucifix]] check at its current location ''before'' choosing to have a slow or a fast base speed, with each having a 50% chance. If choosing to be slow, the hunt will begin at its current location; if choosing to be fast, it will teleport close to the area where it last interacted with the large range and will hunt from there.<ref name="twins" group="note">There is currently a bug that prevents The Twins from teleporting to the large range's interaction's location. It can still choose to be fast but it will then spawn at its current location.</ref> If a cursed hunt is triggered, The Twins will always hunt from the current location, but it still has a 50% chance of selecting either base speed. Regardless of where The Twins hunts from, it will follow standard hunting rules.
+
+The Twins' base speed is 1.7 m/s with a fixed modifier of ±0.2 m/s depending on if it chose the slow (effective 1.5 m/s) or the fast (effective 1.9 m/s) speed. This means that at full line-of-sight acceleration, The Twins will respectively reach 2.605 m/s and 3.005 m/s instead of 2.475 m/s and 3.135 m/s.
+
+The interaction range used by The Twins during a hunt is the last one it used before starting a hunt.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] [[EMF Level 5]]
+|[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]] [[Freezing Temperatures]]
+|[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
+|}</center>
+
+== Strengths and weaknesses ==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: Either '''Twin''' can be angered and initiate an attack on their prey.''
+
+''Weakness: '''The Twins''' will often interact with the environment at the same time.''
+
+==Strategies==
+The Twins' primary strength is its ability to misdirect: its core ability can very easily conjure red herring interactions at parts of the map far from the [[Ghost Room|favourite room]] where it would give [[evidence]], misleading hunters and delaying their efforts to identify it. This can be especially troublesome on larger maps like [[Sunny Meadows Mental Institution]] when trying to locate the favourite room. However, these misleading interactions can be used against it: as the ghost is not physically in the room where these long-ranged interactions occur, any indication of the ghost past EMF Level 5 cannot be obtained in the area. Using a [[thermometer]] and noting a lack of Freezing Temperatures (or, at the very least, notable temperature drops) where ghost activity is noted, failing to receive [[Spirit Box]] responses in rooms near where interactions occurred, or not being able to detect it with [[Motion Sensor|Motion Sensors]]/[[Salt]] are strong signs of the antics of The Twins trying to cause trouble. One can identify The Twins by spotting back-to-back interactions with less than 2 seconds of delay, as other ghosts need at least 2 seconds before performing another interaction.
+
+Noticing a subtle change in base speed from one hunt to another might indicate that the player is dealing with The Twins. Be sure to avoid confounding factors such as line-of-sight acceleration, or a few other ghosts which may also change base speeds between hunts. Both Twins also have a slightly different speed than the normal base speed of 1.7 m/s, which allows particularly experienced hunters to identify it from one hunt simply by noticing said difference; players should be careful of relying too much on this method though, as a few other ghosts can have a similar base speed, most notably a [[Moroi]] which has a speed of 1.915 m/s between 20% and 25% average sanity, nearly indistinguishable from The Twins' 1.9 m/s.
+
+Due to The Twins having two possibilities in regards to angles of attack for any given hunt, it is recommended to plan for the event that The Twins approaches from a planned escape route, such as through use of [[Incense]]. Additionally, as The Twins checks for a crucifix in its current location before teleporting to the location of its last large range interaction if it decides to be fast during the hunt,<ref name="twins" group="note"/> this can lead the ghost to begin a hunt directly on top of a crucifix, something no other ghost can do (outside of a [[Hunt#Cursed hunts|cursed hunt]]). Identifying hiding spots in the ghost room may also come in handy (if there is one available), as players can simply hide inside the ghost room if The Twins hunts from outside the room.
+
+Noticing objects being thrown or doors being moved far away from the ghost during a hunt definitively confirms The Twins, as it can have a larger interaction range during one.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.4.0]]
+|Added The Twins.
+|}
+==Notes==
+{{Reflist|group="note"}}
+{{Ghost nav}}
+[[Category:Ghosts]]
+[[fr:Les Jumeaux]]
+[[ru:Близнецы]]

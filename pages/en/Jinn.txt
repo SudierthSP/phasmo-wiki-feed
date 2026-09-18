@@ -1,0 +1,110 @@
+# Jinn
+# revid 24354  2026-07-29T06:07:10Z  by SuccessfulBee430
+# sha256 d4c59bcb390c076f00b274189873855f56ad40b46f4952a9e4afce6f3dd1512b  bytes 7635
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Jinn Discovered.jpg
+ |abiliti(es)=*Occasionally attempts to zap the sanity of nearby players
+ |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
+ |Evidence2=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
+ |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
+ |strength=*Gets a speed boost when chasing a player that is far away
+ |weakness(es)=*Cannot use any of its abilities when the fuse box is off
+*Cannot turn off the fuse box
+}}{{Quote
+ |quote=A Jinn is a territorial ghost that will attack when threatened. It has also been known to be able to travel at significant speed.
+ |speaker=The Journal
+}}The '''Jinn''' is a type of [[ghost]] in ''Phasmophobia''. The Jinn can be empowered by an active [[Fuse Box]] to quickly close in on targets that it is chasing during a [[Hunt]].
+
+==Behavior==
+===Activity===
+The Jinn cannot directly turn off the fuse box. However, it can still indirectly turn off the fuse box by turning too many [[light]]s on and overloading it.
+
+===Ability===
+When the Jinn uses its [[ability]], it first checks if the fuse box is on. If it is, it will check if there are players in the same room as it or within 3 metres<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1110770012077170759 ''"...you need to be near the jinn for it to do it's ability"'' Shuee, Moderator (on Discord). 24 May 2023.]</ref> after a delay of 5 seconds. If this second check is successful, it will choose the first player in the list (established by the order the players joined the lobby) among players in range (i.e. same room or within 3 metres) and drain their [[sanity]] by 25%.<ref group="note">There is a bug where dead players can be chosen for this ability.</ref> This in turn creates an EMF 2 or 5 reading at the fuse box.
+
+===Hunt===
+[[File:Jinn raiju hunt ghost speed 0.11.0.3.png|thumb|300px|Example graph of Jinn's ghost speed during a hunt]]
+During a [[hunt]], if all of the following three criteria are satisfied:
+*The fuse box is turned on
+*The Jinn has line-of-sight with a player it is targeting
+*The Jinn is further than 3 metres from that player
+Then its speed will be fixed at 2.5 m/s while the criteria are met. Otherwise, it will obey [[Hunt#Ghost_speeds|standard ghost speeds]] with one particularity: while it is travelling at the fixed 2.5 m/s speed, the speed increase from continuous line-of-sight adds in the background, and will be applied once one criteria is no longer satisfied.
+
+Whether there are lights turned on or not does not affect the Jinn's abilities.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] [[EMF Level 5]]
+|[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]] [[Freezing Temperatures]]
+|[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]] [[Ultraviolet]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: A '''Jinn''' will travel at a faster speed if its victim is far away.''
+
+''Weakness: Turning off the location's power source will prevent the '''Jinn''' from using its ability.''
+
+==Strategies==
+Turning off the location's breaker will prevent the Jinn from using any of its abilities. However, this will render the map's electrical lights inactive, leading to players' sanity draining as a consequence of being in the dark more often. Players will need to decide if preventing the Jinn from using its abilities is worth dealing with more frequent hunts as a result of lower average sanity, though this loss can be mitigated by holding lit [[candle]]s to reduce passive sanity drain.
+
+===Identification===
+There are two ways to identify a Jinn, both methods with the breaker turned on:
+*Wait for a hunt at the end of a long room or corridor, standing far away from where the ghost is expected to enter the room, and with line-of-sight all the way through. Listen for its footsteps and observe its speed before and after it sees the player. If it instantly gains speed to chase the player, then it is likely a Jinn; use [[Incense]] if needed.
+**Be careful not to mistake this with a [[Revenant]]; while they both exhibit the same behaviour (instant speed-up upon spotting a player), a Revenant's speed change will be much more drastic.
+*Leave an EMF reader at the fuse box while the fuse box is on; if it picks up a reading but the fuse box never turned off, then it is very likely the Jinn using its ability, barring any other items that could have caused the reading (such as the fuse box door itself). Likewise, if a player's sanity drops by 25% at once, then it is likely a Jinn.
+
+Keep in mind that a fuse box turning off on its own does ''not'' rule out a Jinn, as they can still indirectly turn off fuse boxes by turning on too many lights and causing the fuse box to trip. If a fuse box trips, all light switches will also turn off, which can be used to distinguish from a ghost manually turning the fuse box off, which leaves light switches untouched.
+
+In custom difficulties with the fuse box broken, or if it is broken with the [[Monkey Paw]]'s "I wish for activity" wish, a Jinn becomes impossible to identify through behavior, and thus can only be identified with evidence; in 0 evidence runs in particular, this makes a Jinn almost completely impossible to identify, as the only way to identify a Jinn under these conditions is to painstakingly rule out ''every'' other ghost type - depending on the room the ghost is in, this sometimes can become impossible.
+
+==Trivia==
+*Jinns are derived from Arabic mythology, but similar descriptions can be found in earlier Mesopotamian culture. The later spread of Islamic theology established their popularity and prominence in the world. They are a type of spirit/being created before mankind out of smoke-free fire. Usually invisible, they can take shape in many forms including serpents, winged beings, giants, insects, or humanoids. Jinns are not undead, and they live, eat, age, and have children like humans. Like mankind, they were made to worship God, and they are neither innately good nor innately evil.
+*There is a popular myth claiming the Jinn will interact with electronics more often rather than other interactions; this is not true. The Jinn has an equal chance of interacting with anything nearby.
+
+==History==
+{| class="wikitable"
+! colspan="2" |Early Access Alpha
+|-
+!2 February 2020
+|Changed the Jinn's ability from affecting the weather to running if its target is also running.
+|-
+!7 March 2020
+|Increased the Jinn's running speed.
+|-
+!10 August 2020
+|Jinns no longer turn the fuse box off.
+|-
+!24 August 2020
+|Changed the Jinn's ability to having a faster speed when far away from its target.
+|-
+! colspan="2" |Early Access
+|-
+![[0.3.0]]
+|Prior to 0.3.0, the evidence was [[EMF Level 5]], [[Spirit Box]], and [[Ghost Orb]].
+|-
+! rowspan="2" |[[0.5.0]]
+|Increased the Jinn's chasing speed to 2.5 m/s.
+|-
+|Decreased the slowdown gap to 3 metres.
+|-
+![[0.6.2.0]]
+|When using its ability, the Jinn will now leave [[EMF]] on the [[Fuse Box|fuse box]] rather than its current place.
+|-
+! rowspan="2" |[[0.7.0]]
+|Ability will now apply if the player is in the same room as the ghost, or within 3 metres.
+|-
+|The EMF will now be generated at the fuse box when anyone's sanity is drained, instead of just the host.
+|}
+
+==References==
+{{Reflist}}
+== Notes==
+{{Reflist|group="note"}}
+{{Ghost nav}}
+[[ru:Джинн]]
+[[fr:Djinn]]
+[[de:Dschinn]]
+[[Category:Ghosts]]

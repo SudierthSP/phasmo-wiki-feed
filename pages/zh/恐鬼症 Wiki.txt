@@ -1,0 +1,103 @@
+# 恐鬼症 Wiki
+# revid 3908  2025-09-23T16:52:03Z  by Qsefthuopq
+# sha256 1a345077b5ede73df1819bdc00f1d4959ed2599b0a0e338977b0f86f8f27485b  bytes 3423
+# 源: https://phasmophobia.fandom.com/zh/api.php<mainpage-leftcolumn-start /><mainpage-endcolumn /><mainpage-leftcolumn-start /><mainpage-endcolumn /><center><span style="font-family:October Crow; font-size:75px"><small>欢迎来到恐鬼症中文维基！</small></span></center>本维基翻译并改编自[https://phasmophobia.fandom.com/wiki/Main_Page 英文Phasmophobia WIKI]{{Header|维基}} 本维基介绍的是游戏 《'''[[恐鬼症|恐鬼症]]'''》。
+在开始编辑之前，请先阅读[https://community.fandom.com/zh/wiki/%E7%A4%BE%E5%8C%BA%E4%B8%AD%E5%BF%83:%E7%A4%BE%E5%8C%BA%E4%BD%BF%E7%94%A8%E5%85%AC%E7%BA%A6 社区使用公约]。
+
+待翻译页面点击[[Special:链入页面/Template:待翻译|此处]]查看。
+<mainpage-rightcolumn-start /><mainpage-endcolumn />
+<br />
+
+===汉化修正/字体替换补丁===
+由于约一年前0.11版本游戏开发者放弃社区翻译，后续翻译质量不佳，故推出原译者汉化修正补丁
+https://www.bilibili.com/opus/1114411767018029057
+
+----版本更新日志
+{{Versions}}
+
+
+
+
+----{{Header|游戏介绍}}
+<center><span style="font-family:Garamond; font-size:36px">''灵异现象频发……''</span>
+<br />
+<mainpage-rightcolumn-start />
+{{Frame|
+{{Header|购买游戏}}
+<center>
+{{GetGame}}
+</center>
+<center>
+{{Header|推特}}
+</center>
+{{DevTwitter}}
+}}
+<mainpage-endcolumn />
+
+
+'''[[恐鬼症]]是一款由'''[https://kineticgames.co.uk/ Kinetic Games]开发的独立多人合作恐怖游戏。本游戏在2020年9月18日开启抢先体验，支持PC和VR。最多支持4名玩家 一同前往[[地点|闹鬼场所]]调查灵异现象。
+
+与[[鬼魂]]互动，体验惊心动魄的游戏时刻。在安全的[[厢式货车]]上用[[摄像系统|闭路电视摄像头]]和[[运动传感器]]观察鬼魂，或进入闹鬼之地，探测[[鬼魂活动]]。
+
+
+
+
+{{Hide|标题=旧闻
+|内容=
+
+[[0.5.1.0]]<br>
+[[0.5.0.2]]<br>
+[[0.5.0.1]]<br>
+北京时间2021年12月11日凌晨12点00分已更新<br>
+[[file:cr10.png|720px]]<br>
+[[圣诞节更新]]<br>
+==2021.11==
+版本更新：
+[[0.4.1.2]]<br>
+[[0.4.1.1]]<br>
+[[0.4.1.0]]<br>
+新增通灵板语句见[https://phasmophobia-matrix.com/zh-CN/ Matrix - 语句]
+
+
+后续更新预告：<br>
+本周（已鸽到下周）
+*  营地的指纹会出现在更多地方（木椅、保温箱、木桩、小帐篷）
+*  指纹保证会出现
+*  指纹显示时间从1分钟增至2分钟
+*  降低业余和中级难度躲藏点数量
+*  降低鬼魂房间变动几率，添加鬼魂换房冷却时间
+*  调整灵球和雾气视觉效果，降低寻找难度
+*  天气性能优化
+*  增加噩梦难度下通灵板生成率
+
+
+下次小更新
+* 更新大多数鬼魂的特征，让鬼魂更加独特 （猜测：实装梦魇幻觉、幻妖变人等）
+* 鬼魂使用能力更少依赖理智
+
+2021.10.25
+
+详见[[万圣节更新]]
+
+概要：
+
+*更新4种新鬼：[[雷魂]]、[[孪魂]]、[[幻妖]]、[[怨灵]]
+*更新1张新地图：[[枫林营地|营地]]
+*新增噩梦难度以及对现有难度进行调整
+*新建一些地图物件
+
+[[File:Phasmophobia_Halloween_Cover.png|thumb|left|720px]]
+}}
+
+
+{{Header|导航}}
+<center>
+[[鬼魂]] · [[鬼魂活动]] · [[猎杀]] · [[证据]] · [[地图]] · [[:Category:装备|装备]]<br>
+[[音频]] · [[谣言与谬误]] 
+
+__NOTOC__
+__NOEDITSECTION__
+
+----{{Header|声明}}
+维基由玩家根据经验撰写，未必完全准确。部分内容可能会因为版本的更替而失效。
+[[Category:索引| ]]

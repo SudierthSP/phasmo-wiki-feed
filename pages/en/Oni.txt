@@ -1,0 +1,108 @@
+# Oni
+# revid 24610  2026-09-05T05:16:45Z  by Darkhooper
+# 备注: added flickering gifs
+# sha256 13f25f7df5b3506fc890d4920a25c84063697bf30d43b775c17bdadfc717160d  bytes 5617
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |title=Oni
+ |image1=Oni Discovered.jpg
+ |strength= *More active when people are nearby
+ |weakness(es)= *Cannot produce mist form ghost events
+*Model remains visible for longer periods when hunting
+ |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
+ |Evidence2=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
+ |Evidence3=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
+}}{{Quote
+ |quote=Onis love to scare their victims as much as possible before attacking. They are often seen in their physical form, guarding their place of death.
+ |speaker=The Journal
+}}The '''Oni''' is a type of [[ghost]] in ''Phasmophobia''. It is much more active when players are grouped together, and has also been described as being extremely strong.
+
+==Behaviour==
+===Activity===
+When there is at least one player within 6 metres or in the same room as the Oni, its [[activity]] will increase by 30.
+
+When performing a [[ghost event]], the Oni:
+*Cannot perform the [[Ghost Event#Mist Form|mist form]] event, which involves a physical ball of fog moving towards the player, usually disappearing with a hiss sound upon collision. Note that chasing events can similarly cause a hiss.
+*Has a 40% chance of performing the [[Ghost Event#Chasing|chasing]] event instead of 20% for other ghosts. This chance is increased to 60% when drawing ''The Devil'' [[Tarot Cards|tarot card]].
+*Has a 2/3 chance to appear in its full form when manifesting instead of a shadow or translucent form.
+*Will have double the sanity drain of other ghosts when colliding with the target player in a ghost event (so 20% instead of 10%).
+
+===Hunt===
+During a [[hunt]], the Oni [[Hunt#Ghost flickering|flickers]] and is visible for longer compared to most other ghosts:
+{| class="fandom-table"
+!Ghost
+!Baseline timers (s)
+!Visibility timers (s)
+!Visibility rate during hunt
+!Example
+|-
+|Standard
+|0.60 / 0.46 / 1.00 / 0.82 / 0.30 / 0.48 / 0.70 / 0.82 / 0.45 / 0.36
+|0.22 / 0.18 / 0.08 / 0.28 / 0.20 / 0.16 / 0.25 / 0.18 / 0.22 / 0.10
+|30.7% - 33.2%
+|[[File:Flickering Standard.gif|50px]]
+|-
+|Oni
+|0.45 / 0.40 / 0.55 / 0.60 / 0.32 / 0.48 / 0.40 / 0.55 / 0.50 / 0.30
+|0.28 / 0.50 / 0.46 / 0.32 / 0.26 / 0.40 / 0.34 / 0.47 / 0.30 / 0.49 / 0.24 / 0.45 / 0.34
+|55.3% - 63%
+|[[File:Flickering Oni.gif|50px]]
+|}
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]] [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] [[EMF Level 5]]
+|[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]] [[Freezing Temperatures]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: '''Oni''' are more active whilst people are nearby and will drain their sanity faster when manifesting.''
+
+''Weakness: '''Oni''' disappear less often while hunting their prey.''
+
+==Strategies==
+With increased activity in general, the Oni may more readily give up evidence to players, which can make for generous and swift investigations if an Oni is quick to reveal the necessary evidence.
+
+Since the Oni cannot perform the mist form ghost event, an Oni can be ruled out if the ghost performs such an event. It must be emphasised that the Oni ''can'' hiss as part of a chasing event. A way to differentiate the chasing event is that you will hear the (random) ghost vocalisation and footsteps, and doors in the room will usually close (if any). Also, there are four hiss sounds that a mist form event cannot do; only one hiss sound is shared by mist form and chasing events.
+
+While not a particularly aggressive ghost, as the Oni is more likely to trigger ghost events against hunters, it may more rapidly bring the team down to hunt sanity threshold, especially when factoring in its doubled sanity reduction when colliding with players during ghost events. Depending on the circumstances, [[Sanity Medication]] can be used to counteract this loss, or defensive items like [[Incense]] can be brought in sooner.
+
+==Trivia==
+*In Japanese folklore, an Oni (鬼) is a kind of demonic ogre or troll, and can be seen as a type of [[Yokai]]. They are usually portrayed as hulking figures with horns on their heads, sharp claws and tusks, an odd skin tone such as red, green, or blue, and carrying large iron clubs. In ''Phasmophobia'', Oni do not reflect these depictions or their Japanese origin, and simply uses possible form of American ghost in both appearance and name due to sharing models and a naming pool with other ghost types.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!August 5, 2020<br>(Part 2)
+|Added Oni.
+|-
+! colspan="2" |Early Access
+|-
+![[0.3.0]]
+|Prior to 0.3.0, the evidence was [[EMF Level 5]], [[Spirit Box]], and [[Ghost Writing]].
+|-
+!rowspan="3" |[[0.5.0]]
+|Oni can no longer perform "ghost mist" ghost events.
+|-
+|Increased the average activity rate for Oni.
+|-
+|Oni now have a higher chance of showing in a full form if it manifests.
+|-
+![[0.6.2.0]]
+|The bugged airball that appears on certain maps will no longer appear if the ghost is an Oni.
+|-
+!rowspan="3"|[[0.7.0]]
+|The Oni's throw ability has been moved to the Poltergeist.
+|-
+|Onis will now double the sanity drain of normal ghosts during ghost events.
+|-
+|Increased the duration for the Oni to be visible during hunts. 
+|}
+{{Ghost nav}}
+[[Category:Ghosts]]
+[[fr:Oni]]
+[[ru:Они]]

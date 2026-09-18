@@ -1,0 +1,124 @@
+# Mare
+# revid 23811  2026-06-03T13:36:54Z  by Darkhooper
+# sha256 4b8ebad11787c2d13d3d92edd070abc28ee77ceb09bd868ef7b1456ace63b366  bytes 10623
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Mare Discovered.jpg
+ |strength=*Hunts at a higher sanity threshold in an unlit room
+ |abiliti(es)=*Turns off lights and breaks lightbulbs more often
+*May turn off a light immediately after a player turns one on
+*Wanders more often when lights are on
+ |weakness(es)=*Hunts at a lower sanity threshold in a lit room
+ |Evidence1=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
+ |Evidence2=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]
+ |Evidence3=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
+}}{{Quote
+ |quote=A Mare is the source of all nightmares, making it most powerful in the dark.
+ |speaker=The Journal
+}}The '''Mare''' is a type of [[ghost]] in ''Phasmophobia''. The Mare has a distaste for light and will be enhanced in the dark. 
+
+==Behaviour==
+===Activity===
+Mares cannot interact with [[light]]s to turn them on, and they are more likely to choose turning off lights as an [[interaction]]. They also cannot perform the light flickering interaction (the one that specifically leaves an EMF reading at a light switch as opposed to the "atmospheric" light flickering).
+
+The Mare does not have any affinity with computer monitors, televisions, [[Bleasdale Farmhouse]]'s motion activated lights, and the [[fuse box]], and can turn them on or off like most other ghosts.<ref group="note" name="tv_computer">This seems to be bugged for computer monitors and televisions, and the Mare still can't turn them on.</ref> The Mare also does not have any affinity with fire sources and can still light them up.
+
+When performing a [[Ghost Event|ghost event]], the Mare has a 11.11% chance of choosing the [[Ghost Event#Standing|light-shattering event]] instead of 6.67% for other ghosts.
+
+When the lights are on in its current room, the Mare's long [[Roaming|roam]] chances are set to 50%.
+
+Contrary to most other ghosts, the Mare is able to perform long roams while its current room is not the [[Ghost Room|favourite room]], provided it is lit.
+
+===Ability===
+If a player turns on a light (excluding TVs and computers) that is within 4 metres of a Mare, it has a 1/7 chance of turning the light off almost instantly, with a maximum delay of 1 second. Each light has a cooldown per player of 10 seconds after it has been turned on or off, and the Mare cannot perform its ability on a light that has an active cooldown.<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1140934389262467173 ''"mare do light switch test..."'' Shuee, ''Phasmophobia'' Discord Moderator. 15 August 2023 (on Discord).]</ref><ref>[https://discord.com/channels/435431947963990026/765596827537244200/1238656421525065879 ''"10 seconds between flips either way"'' Shuee, Kinetic Games Lead QA. 11 May 2024 (on Discord).]</ref> The Mare can use this ability even if the fuse box is turned off or broken,<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1204265035971432588 ''"works even if breaker is off or broken"'' Shuee, ''Phasmophobia'' Discord Moderator. 6 February 2024 (on Discord).]</ref> but not if the light is shattered.<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1298545473921220670 ''"No."'' Shuee, Kinetic Games Lead QA. 23 October 2024 (on Discord).]</ref> The ability also works during a ghost event.
+
+===Hunt===
+A Mare has a modified [[hunt]] sanity threshold depending on whether the room it is currently in is lit. If the lights are turned off, the hunt sanity threshold is increased to 60%, and if the lights are turned on, the threshold is decreased to 40%. This applies even if the fuse box is turned off or broken, but not if the room's lights are destroyed. Other sources of light, such as brought-in equipment and [[Firelight]]s, do not affect this threshold.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]] [[Ghost Orb]]
+|[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]] [[Ghost Writing]]
+|[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: A '''Mare''' will have an increased chance to attack in the dark.''
+
+''Weakness: Turning the lights on around the '''Mare''' will lower its chance to attack.''
+
+==Strategies==
+Players should be cautious when using the [[Spirit Box]] or looking for [[Ghost Orb]]s to verify the ghost's current location or [[ghost room|favourite room]], as the Mare is more likely to hunt when the lights in its room are off, potentially catching players dangerously close to the Mare when it begins to hunt.
+
+Once a Mare is identified, there are two ways to counteract it:
+*Leave the lights in its favourite room and neighbouring rooms turned on. This will lower its hunt sanity threshold.
+*Once the sanity threshold is below 40%, the Mare will be able to hunt regardless of whether the lights are on or not. Hence, it may be wise to leave the lights in its favourite room turned off. This way, the Mare is less likely to wander away, and will be more likely to hunt in that room, making it less dangerous than a case where the Mare is constantly roaming into other rooms (and possibly changing its favourite room).
+
+In both cases, keeping a player near the light switches can help to counteract the Mare's ability if they are turned off by the ghost or from an electrical overload.
+
+Whether the lights are turned on or off do not affect the Mare's chance of performing a light-shattering ghost event. Where possible, avoid staying in rooms where you ''want'' the lights turned on, so that the Mare is less likely to shatter them.
+
+===Identification===
+The Mare is generally one of the more difficult ghosts to identify based on behaviour, though one can look for the following:
+*The ability to turn a light back off the moment a player turns it on: try to pause a few seconds between turning the lights on.
+**When the ghost manifests itself during a ghost event, try turning nearby lights on. As ghosts can't normally interact with lights ''during'' [[Ghost Event#Manifestation|manifestation ghost events]], if a light is turned off ''during'' one (and not at the beginning or at the end), it definitively confirms the Mare's ability being used.
+*A preference for light-shattering ghost events.
+*A ghost that hunts slightly earlier in the dark or slightly later in the light, though this is not very reliable.
+*If you tend to keep the lights near the ghost turned on, and you find the ghost frequently wandering into rooms that players have not entered, and changing favourite rooms frequently on Professional difficulty or higher, then the ghost could be a Mare.
+
+A ghost turning on the light directly eliminates the possibility of it being a Mare. On the other hand, ''any'' ghost may choose to never turn on a light throughout the entire game, so this negative should not be used to confirm the ghost type. In fact, any ghost may turn off a light immediately after you turn it on purely by chance. Additionally, some ghost events turn the lights off at their beginning or at their end; this does not count as a Mare's ability.
+
+When seeing lights flickering outside of ghost events and hunts, if an EMF reading happens to be created at a light switch, it is not a Mare.
+
+==Trivia==
+*In 0.3.1.0's [[Journal]] overhaul, the Mare's description was incorrectly changed to an old version where Mares caused hallucinations that dropped a person's sanity, which could be stopped by toggling one's flashlight. This feature was replaced with the current light-based hunt sanity threshold before early access release. Hallucinations that are not tied to one ghost will be added in a future update as part of the "Horror 2.0" overhaul.
+*The Mare is based on the Scandinavian and Germanic mythological creature "Mara". The Mare in mythology was not technically a spirit but rather a normal woman that transformed at night due to a curse applied by circumstances of her birth. This curse applied to a man would instead create a Werewolf. The Mara would enter peoples homes at night and then place themself on their victims chest, making them paralyzed and giving them a feeling of suffocation. She was also responsible for nightmares and gave name to that phenomenon; Night'''mare''' in English and '''Mar'''dröm in Swedish. She also had a tendency to attack livestock making them exhausted and sickly. A sign that a Mare was active was that humans and animals attacked by her tended to get strange tangles and knots in their hair or fur. To drive off a Mare, one had to find its "mare tree" which was a specific tree the Mare had bound itself to, and could be identified by its tangled twigs (in reality, this is a phenomenon called "Witch's broom", and is caused by phytoplasmas). A twig from that tree, placed in the bed of the sufferer, would drive away the Mare. The Mare is usually depicted as a pale, gaunt woman with claw-like hands, long tangled hair and pale orb-like eyes. This of course does not apply to ''Phasmophobia''; the ghost may take any appearance, including being male.
+
+==History==
+{| class="wikitable"
+|+
+! colspan="2" |Early Access Alpha
+|-
+!18 March 2020
+|Spirit Box is now required as one of the evidences instead of EMF 5.
+|-
+!7 August 2020
+|Looking at a Mare will now lower sanity and at a rate slightly faster than other ghosts.<ref group="note">This feature appears to have been removed.</ref>
+|-
+!17 August 2020
+|Changed the Mare's ability from causing hallucinations to being able to hunt in the dark at higher sanity levels and in light at lower sanity levels.
+|-
+! colspan="2" |Early Access
+|-
+![[0.2.11.0]]
+|Mares can no longer turn lights on.
+|-
+![[0.3.0]]
+|Prior to 0.3.0, the evidence was [[Spirit Box]], [[Ghost Orb]], and [[Freezing Temperatures]].
+|-
+![[0.3.1.0]]
+|An incorrect description of the Mare describing its old ability was added. This was reverted in a same-version hotfix.
+|-
+! rowspan="4" |[[0.5.0]]
+|Mares now have an ability to turn off lights immediately if a player turns them on.
+|-
+|Mares now prefer turning off lights as an interaction.
+|-
+|Mares now wander more if the lights are on.
+|-
+|Mares now prefer light bulb-breaking ghost events.
+|-
+![[0.9.0]]
+|Mares will no longer count keyboards and TV remotes as light sources.<ref group="note" name="tv_computer" />
+|}
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{Ghost nav}}
+[[ru:Мара]]
+[[fr:Cauchemar]]
+[[Category:Ghosts]]

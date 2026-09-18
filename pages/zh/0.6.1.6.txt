@@ -1,0 +1,24 @@
+# 0.6.1.6
+# revid 1921  2022-04-23T17:48:50Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version   | release_date=2022年4月23日   | previous_major_version=[[0.6.0]]   | previous_minor_version=[[0.6.1.5]]   | next_major_version=   | next_mino…”
+# sha256 6eb1a82d19de54c1401385b08407cfd201f31f911cfdfcabc8f7536a4cf4b82d  bytes 662
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | release_date=2022年4月23日
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.1.5]]
+  | next_major_version=
+  | next_minor_version=
+}}
+'''0.6.1.6'''是发布于2022年4月23日的小型更新。<ref>https://store.steampowered.com/news/app/739630/view/3174484195247569716</ref> 
+本次更新修复了一些漏洞。下次更新会有内容更新。
+
+== 修复漏洞 ==
+*蜡烛和打火机火光现在会渲染在所有物体顶部
+*水槽溅水效果现在会渲染在水面顶部
+*修正脏水渲染材质
+*现在在大厅内会正常地消耗奔跑体力
+
+==参考资料==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

@@ -1,0 +1,68 @@
+# Spirit Box
+# revid 24504  2026-08-26T00:34:22Z  by Darkhooper
+# sha256 b6d6c3c35b561b7d56fb7e945e95422a863e2fd654a978eb54cf2935bdb89972  bytes 5993
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=SpiritBox090_T1.png
+ | tier ii img=SpiritBox090_T2.png
+ | tier iii img=SpiritBox090_T3.png
+
+ | price=$50
+ | maxamount=2
+ | uses=
+ | starter=Yes
+ | tier i level=0
+ | tier ii level=23
+ | tier iii level=46
+
+ | tier i description=An old FM/AM radio. It's small and compact, but the speaker isn't the best quality.
+ | tier i purpose=When turning this Spirit Box on, it will begin to scan through different radio frequencies. Make sure to stand near to any paranormal activity, turn off any lights in that room, and ask some questions in the hope of a response.<br>If the question has been heard, a red light will flash on the Spirit Box, if it flashes white, you've got a response.<br>Try asking "Where are you?" or "Are you friendly?". Be warned, you may not like the answer you receive.
+ | tier i ability=<span style="color: #008000;">Audio Quality: Low<br>Response Rate: Low<br>Range (m): 3</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier ii description=The P-SB7T Spirit Box is built solely for conversations with the unknown. The backlit screen helps investigations in the dark.
+ | tier ii purpose=This more modern Spirit Box has a higher-quality speaker and is much more efficient at scanning through frequencies, making paranormal responses easier to deciper.<br>If a question has been heard, a black X will flash on the screen, if you get a response, the small ghost icon will flash instead.
+ | tier ii ability=<span style="color: #008000;">Audio Quality: Medium<br>Response Rate: Medium<br>Range (m): 4<br>Display Screen</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier iii description=The SB11-Z is a much larger Spirit Box, capable of scanning two frequency channels at the same time.
+ | tier iii purpose=When turned on, this Spirit Box scans both frequencies of radio at the same time, increasing the chance of picking up a paranormal response when asking questions. It also has a built-in noise filter, to reduce the amount of static you hear between interactions.<br>If a question is heard and no response is given, the RESPONSE LEDs will flash red. If a reply is given, the LEDs will flash white in time with the sound.
+ | tier iii ability=<span style="color: #008000;">Audio Quality: High<br>Response Rate: High<br>Range (m): 5</span><br><span style="color: #ff0000;">Electronic</span>
+}}
+The '''Spirit Box''' is a piece of [[equipment]] used to find [[Spirit Box (Evidence)|Spirit Box evidence]]. It creates white noise by constantly cycling through various radio frequencies, which allows the [[ghost]] to communicate with players.
+
+==Usage==
+The Spirit Box can be turned on by {{Control|interacting}} with it if the player is not holding it, or {{Control|toggling}} it directly while holding it, and will emit a constant static noise while active. The Spirit Box is considered an electronic equipment. When interfered with, all the LEDs/icons will flicker rapidly. During a hunt, holding an active Spirit Box within 7.5 meters of a ghost on the same floor will attract it to the player.
+
+The microphone LED/icon will indicate whether or not the Spirit Box is listening (when ''Push To Talk'' or ''Toggle'' is used), or receiving microphone input (when ''Voice Activation'' is used).
+
+===Questioning===
+[[File:Spirit Box text UI.jpg|right|thumb|300px|The Spirit Box's textual UI.]]
+There are three ways to probe for a response via the Spirit Box:
+*If using voice chat, the Spirit Box will recognize any valid question asked by the player.
+*If using the text-based UI, the UI will appear upon turning on the Spirit Box. Players can then click to select one of 3 questions. The player can exit the UI by turning off the Spirit Box.
+*If the player selects "Voice", "System Voice", or "None" as the voice recognition method, having voice chat active (by holding the push-to-talk button or selecting Voice Activation) will enable the Spirit Box to automatically "ping" a question every 10 seconds.
+
+If nothing happens upon asking a question, it is possible the game did not recognize any valid phrase, or the player's voice recognition is not working properly. Note that the microphone LED/icon shows whether the game is picking up the player's microphone only if the player's voice chat option is set to ''Voice Activation''. When using "System Voice", this does not necessarily mean that the system is working properly.
+
+===Evidence===
+{{Main|Spirit Box (Evidence)}}
+==Tips==
+*It is recommended that the Spirit Box be used early on in the investigation as soon as the presumed [[ghost room|favorite room]] has been found, as using it effectively requires a player to remain alone in the dark with the ghost for several seconds, thus considerably reducing their sanity and allowing a potential [[hunt]] to start. This is especially true for higher [[difficulty|difficulties]].
+*As the Spirit Box emits a constant static when turned on, it may interfere with the ability to hear ghost activities properly, and the ghost can also interrupt players talking normally if the game interprets a phrase as a question; Turning it off is recommended when not in use.
+
+==Trivia==
+*In real life, a spirit box scans through various radio frequencies to pick up potential sounds that may have come from a ghost, mostly through pareidolia of various different audio clips being strung together to sound like proper phrases or prudent responses to questions. 
+*Using the spirit box by itself does not increase ghost activity or [[interaction]]s, but saying recognized phrases (whether with or without the spirit box) near the ghost can provide a small boost to the rate of interactions.
+*The tier 3 Spirit Box text does not show on VR.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.3.0]]
+|Changed the Spirit Box model.
+|-
+![[0.9.0]]
+|Added Tier I and Tier III Spirit Boxes.
+|}<br>
+{{EquipmentNav}}
+[[Category:Equipment]]
+[[Category:Starter Equipment]]
+[[fr:Spirit Box]]
+[[ru:Радиоприёмник]]

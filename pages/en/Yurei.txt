@@ -1,0 +1,98 @@
+# Yurei
+# revid 24593  2026-09-03T00:15:45Z  by Darkhooper
+# 备注: re-added locker doors bug note (with video proof)
+# sha256 a2125cfc650be6ec1b255c353ebeeae15d594bd7b6b7979243d6dda23b9bf11d  bytes 7877
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Yurei Discovered.jpg
+ |abiliti(es)=*May randomly shut a door and deduct nearby players' sanity
+ |weakness(es)=*Will be temporarily confined to its room after smudging
+ |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
+ |Evidence2=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
+ |Evidence3=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
+}}{{Quote
+ |quote=A Yurei is a ghost that has returned to the physical world, usually for the purpose of revenge or hatred.
+ |speaker=The Journal
+}}The '''Yurei''' is a type of [[ghost]] in ''Phasmophobia''. Although it does not have any implicit bonuses to its ability to [[hunt]], its main distinction is its ability to quickly drain [[sanity]]: if players are careless, it may become aggressive quicker than anticipated. 
+
+==Behaviour==
+===Activity===
+When [[Incense]] is used on the Yurei, in addition to preventing hunts and temporarily increasing [[activity]], every [[roaming]] state will be replaced by a [[ghost room|favourite room]] state for 90 seconds<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1241836234834313247 ''"It was changed quite a while ago to match the smudge timer..."'' Shuee, Lead QA (on Discord). 19 May 2024]</ref>, which also prevents the ghost from entering a [[D.O.T.S Projector (Evidence)|D.O.T.S state]].
+
+When [[Interaction|interacting]] with a [[door]], the Yurei applies a greater force than other ghosts:
+*When opening or closing a hinged door, it will use a force of 0.6N instead of a 0.01N-0.05N for other ghosts.
+*When opening or closing a sliding door, it will use a force of 26N instead of 1N-2N for other ghosts.
+*When opening or closing a tent door, it will use a force of 10N instead of 0.5N-0.7N for other ghosts.
+*When opening or closing a hinged/sliding door with a creaking sound, it will always use an amplitude of 1 instead of 0.2-1 for other ghosts.
+In practice, this means the Yurei cannot slightly move doors and can only either close them completely, or open them completely.<ref>[https://www.twitch.tv/cjdxn/clip/CaringCreativeFiddleheadsBloodTrail-m5n1N4k4YRxOhyYY cjdxn confirming Yurei can be eliminated if the door moves a little bit (on Twitch). 26 June 2025.]</ref><ref group="note">There is a bug where the Yurei doesn't open/close locker doors completely, as shown in [https://youtu.be/-Hz-xW8W0hU this video].</ref> During hunts, this does not apply and the Yurei can move doors slightly like any other ghost.
+
+Outside of its ability, the Yurei doesn't have an increased chance to interact with doors.<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1203726497509150800 ''"yurei doesn't have increased chance to touch doors..."'' Shuee, Moderator (on Discord). 4 February 2024.]</ref>
+
+===Ability===
+When choosing to use its ability, the Yurei will first check if its current room has an opened door. Doors that count for this ability are mostly room doors, as well as [[Exit Door|exit doors]], large tent doors on campsites, Dining Room cabinet doors and Living Room/Games Room fireplace doors on [[Point Hope]], and washing machine doors and Morgue doors on [[Sunny Meadows Mental Institution|Sunny Meadows]]. Hiding spot doors, however, do not count.<ref group="note">Due to bugs, some doors are not "linked" to certain rooms even if they are connecting, so the Yurei cannot use its ability in rooms without "linked" doors. In general, one can verify which doors are connected to which rooms by using the [[Monkey Paw]]'s trap wish.</ref>
+
+If the check is successful, the following is caused:
+*All players within 7.5 metres of the ghost will have their sanity decreased by 15%. Players outside the investigation area will not be affected by the sanity drain.
+*The ghost will randomly select one opened door in the room and close it fully in a smooth way (as opposed to a strong slam) without any creaking sound. This in turn produces an [[EMF]] 2 [[interaction]] on that door.
+**Large tent doors will not fully close.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]] [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]] [[Freezing Temperatures]]
+|[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]] [[Ghost Orb]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: '''Yureis''' have been known to have a stronger effect on people's sanity.''
+
+''Weakness: Smudging the '''Yurei's''' place of death will trap it temporarily, reducing how much it wanders.''
+
+==Strategies ==
+Keeping doors open at a 45° angle near the ghost will help one to observe how it interacts with doors. Outside of hunts, a ghost not opening or closing a door fully will immediately rule out the Yurei. Keep in mind that all ghosts can open and close doors completely in a smooth way; a door closing completely from a completely opened state does not guarantee it was a Yurei's ability.
+
+If the Yurei refrains from using its ability, one can look out for its weakness with [[Incense]] once its favourite room is found: use it on the ghost, then set up [[Motion Sensor]]s at the room's doorways. If the ghost passes through the sensors and exits the room (without having performed a ghost event to do so) or enters a D.O.T.S state within 90 seconds of it being affected by the Incense, then it is not a Yurei. In the case where the ghost performs a ghost event outside the favourite room, the Yurei can be eliminated if the ghost roams away from the favourite room after the end of the event.
+
+==Trivia==
+*''Yūrei'' (meaning "dim spirit" or "faint spirit") is a general term for ghosts or spirits in Japanese. ''Yūrei'' can be motivated by a wide range of emotions relating to their death (or last thought when dying) that can range from benevolent (caring for children, handing out sweets, etc.) to malevolent (getting revenge, making others suffer, etc.). ''Yūrei'' contain a range of sub categories of ghosts including ''Onryō'' and ''Goryō''. The appearance of a ''Yūrei'' can vary just as much as its purpose, some are indistinguishable from normal people while others can resemble horrific monsters.
+*The Yurei, though regarded as having a "stronger effect on people's sanity", does ''not'' increase the passive sanity drain of players, nor does it have an increased drain from pseudo-line of sight like with the [[Phantom]]. Furthermore, the [[Jinn]]'s ability to drain 25% sanity rather than the Yurei's meager 15% while the Jinn has other abilities ironically makes the Yurei weak when juxtaposed to other ghosts.
+*The Yurei's ability can drain sanity from dead players, making them having less sanity than before their death if they get revived.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!5 August 2020
+|Added Yurei.
+|-
+! colspan="2" |Early Access
+|-
+![[0.2.11.0]]
+|Added the Yurei's ability to drain sanity of nearby players.
+|-
+![[0.3.0]]
+|Prior to 0.3.0, the evidence was [[Ghost Orb]], [[Ghost Writing]], and [[Freezing Temperatures]].
+|-
+![[0.5.0]]
+|Doors near the Yurei will now close when it uses its sanity drain ability.
+|-
+![[0.5.1.0]]
+|Only one door will now close instead of multiple when the sanity drain ability is used.
+|-
+![[0.6.2.0]]
+|Players outside the investigation area will no longer be affected by the Yurei's sanity ability.
+|-
+![[0.8.0]]
+|The Yurei can no longer use its ability if it is in a room that does not have a door.
+|}
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{Ghost nav}}
+[[ru:Юрэй]]
+[[fr:Yurei]]
+[[Category:Ghosts]]

@@ -1,0 +1,219 @@
+# 0.9.0
+# revid 23992  2026-06-28T21:44:03Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 6bc22a2575145b44a2df625e9e571910646a4d6ce7022af3109758a99673f54a  bytes 13590
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | image1=0.9.png
+  | official_name=Ascension
+  | release_date=17 August 2023
+  |planned_release_date=
+  | previous_major_version=[[0.8.0]]
+  | previous_minor_version=[[0.8.1.7]]
+  | next_minor_version=[[0.9.0.1]]
+  | next_major_version=[[0.10.0]]
+}}'''0.9.0,''' also known as the '''Ascension''' update, is a major update that released on 17 August 2023.<ref group="ref">https://store.steampowered.com/news/app/739630/view/5440963918826751014?l=english</ref> The update centers around an overhaul of the progression system, including a reset of existing player levels, money, and equipment, a new tiered system of equipment and evidences, leveling prestiges, and an overhaul of rewards, among other changes.
+
+==Additions and Changes ==
+===Progression=== 
+*A new leveling system has been added, with new rates of progression, new unlocks, and a prestige system.
+**For this system to function, all current players have been reset to Prestige 1, level 1, this way you can continue to play with your unlocked difficulties and locations. New players will start at Prestige 0, level 1. 
+
+*Upon launching the game for the first time after updating, you will be presented with a new screen to choose a unique badge with options based on your pre-update level. Once saved, this is un-editable so choose carefully!
+
+===Equipment===
+*Each equipment item now has 3 tiers, increasing our Equipment count from 22 to 60! Tiers cost a large sum of money to unlock, but each tier will cost the same to bring into a contract.
+**To upgrade a piece of equipment, reach the required level, go to the shop and press on any item’s UI tile on the screen, then hit upgrade!
+*Several names have been replaced to accommodate changes or for the new upgrade tiers, so that the word covers a broader spectrum:
+**Fingerprints (evidence) -> Ultraviolet
+**Footsteps (photos and descriptions) -> Footprints
+**Candles and Lantern -> Firelight
+**Matchbox and Lighters -> Igniter
+**Smudge Sticks and Censer -> Incense
+**Camcorders and Movie Camera -> Video Camera
+**Glow sticks and UV torches -> UV Light
+**Sanity Drink, Pills and Shot -> Sanity Medication
+**Head Mounted Camera, Flashlight and Goggles -> Head Gear
+**Weak or Strong flashlights -> Flashlight
+
+====[[D.O.T.S Projector (Evidence)]]====
+
+*You will no longer get duplicate DOTS ghosts, or DOTS triggering during events, hunts or other interactions
+*Ghosts with DOTS evidence can now enter a short “DOTS state”; where they are temporarily visible with infrared light, during this time they will wander towards the nearest player before disappearing (if the player is in the same room)
+*DOTS Ghost photos now count as normal ghost photos
+
+====[[Firelight]]s and [[Igniter]]s====
+
+*You can now turn off Firelights by pressing the Use button again while holding it
+*Firelights now have a duration for their effects, and no longer stop the sanity drain completely, with different amounts of sanity benefits per tier
+
+====[[Parabolic Microphone]]==== 
+
+*When using a Parabolic microphone, you will now clearly hear all sounds you are aiming towards, within range, while all other sounds will be muffled
+
+====[[Incense]]====
+
+*The interval in which the ghost checks if an Incense is active, is now much smaller, making repelling the ghost much more consistent
+*Using Incense during another Incense's effect will now reset the timer instead of doing nothing
+
+====[[Salt]] and [[Ultraviolet]]==== 
+
+*Salt will now only reveal footprints if the ghost has Ultraviolet evidence
+*UV prints must now be charged by being shined on with a UV light to take a successful photo
+*Footprints will be affected by ghost traits similar to Fingerprints
+*Glowsticks can now be used again after they dim to shake and revitalize the light they produce
+
+====[[Thermometer]]s and [[Freezing Temperatures|Temperatures]]====
+
+*Thermometers are now counted as a starter item alongside the other evidence items
+*The cold breath effect will now show at 5 degrees Celsius and below.
+* You must now use a Thermometer to find freezing temperatures at 0 Celsius (32 Fahrenheit) or below
+*To receive a room temperature reading you must now hold the “Use” button for a short period (Tiers II and III only)
+*Room temperatures will now be much more consistent between players
+**Freezing ghosts can lower the temperature to -10C, non-freezing ghosts can lower to 1C
+**Temperatures will now drop at 1/3 the current speed, if the temperature is below the minimum weather temperature
+
+====[[Tripod]]s and [[Video Camera]]s====
+
+*Max amount reduced to 4
+*Ghosts can now throw video cameras like other items
+*Ghosts can now rarely knock over tripods
+
+====Consumables====
+Some items are now consumable! This means that if you use an item during a contract, marked as “consumable” in the shop, you will have to purchase it again when you leave.
+
+Disabling "lose items" in Custom Difficulty will not consume items (rewards are still set to 0x)
+
+*[[Crucifix]]: All tiers
+* Firelight: I and II
+*Igniter: All tiers
+*Incense: I and II
+*Salt: All tiers
+*Sanity Medication: All tiers
+
+==== Photo System==== 
+
+*Added a new photo camera system which takes into consideration the distance and view angle of the evidence. This will significantly change the quality of photos.
+* Evidence in photos will now need to be closer and centralized to get a higher quality reward.
+
+=== Rewards===
+Several rewards have had their values adjusted to feel more rewarding and encourage the completion of objectives 
+
+*Rewards for all objectives, tasks and the weekly challenge have been increased drastically
+*Any experience earned will now give you the same amount in dollars
+*Rewards for collecting the bone will no longer be affected by the reward multiplier
+
+===Training ===
+The Training mission has been replaced with a brand-new experience, to access it press the training button on the main menu.
+
+This version of Training is set in a custom-built warehouse, with different rooms to show the player how to use each item of Evidence equipment, as well as give tips and tricks on how to play the game in a controlled environment.
+
+===Gamepad 2.0===
+
+*Added gamepad UI button controls for the Journal, voice recognition text and the main menu screen
+* Replaced gamepad UI navigation with a virtual on-screen cursor
+
+===Blocking Players===
+You can now block other players. Blocking another player will keep them permanently muted until you unblock them.
+
+To block or unblock a player, press the block button on either their player card or on the recent players page. You can also unblock players by going to the ‘Blocked Players’ tab in the ‘Pause Menu’.
+
+=== Miscellaneous ===
+
+*Upgraded the Unity engine for many performance improvements
+*Swapped from the Forward to Forward+ renderer. With this, turning on multiple lights should no longer reduce your performance drastically
+*Added a help (?) button above the equipment list to explain the new icons to the player
+*Clicking on any Equipment panel in the SHOP or LOADOUT pages will now open a new window displaying new information and buttons for Upgrading
+*A small Tier button has been added to the top left of each equipment item in the Shop, which you can click to quickly cycle through unlocked Upgrades
+*New gameplay Descriptions and Lore notes have been added to all equipment, viewable on the Upgrade screen
+*You can now set a loadout to Auto-Buy! This will refill any missing items when finishing a mission, but only you have the money to buy all the missing items
+*Added range indicators while placing to all Ghost-Writing Books and Motion Sensor III
+*Added platform-specific icons to the player cards and recent player's page
+*Player voices will now be affected by audio effects such as the Sunny Meadows hallway reverb
+*Added gamepad UI button controls for the Journal, voice recognition text and the main menu screen
+*Added a fade to the VR head collision
+*When the game loads into a map or the main menu it will now always be a smooth fade for VR and NonVR
+*The ghost will now leave EMF when blowing out a candle
+*Several equipment items can now be turned on and off by pressing use when aiming at them while they are placed
+* Added support for the Quest Pro
+* Added support for the Vive Focus 3
+* (Undocumented) Brownstone High School is now classified as a Large map.
+
+==General==
+
+*The in-game voice system has been replaced with Photon Voice
+*Replaced and added several new sounds for equipment
+*Moved the camera view for the Head Mounted Camera so that it’s slightly easier to watch other player’s view
+*Crucifixes will now have an extra 50% range (per Tier) against Demons
+*Incense will now have an extra 50% duration (per Tier) against Moroi
+*Rebaked lighting in all locations, main menu and training
+*Increased the height of the Equipment List panel in the lobby
+* Increased the penalty for choosing a Monkey Paw in Custom games
+*“I wish to see the ghost” will no longer teleport the ghost in front of you, instead it will reveal it where the ghost is, in its current position
+*Turning off "Flashlights" in Custom difficulty will now turn off all types of flashlights (DOTS I, UV II etc)
+*Updated all equipment loadouts for Weekly Challenges to accommodate Tiers, some are harder some are easier!
+*Reduced the chance for a ghost to interact with a door as it was overpowering other interactions
+* Moved the Tarot Cards in the Collection cabinet so you can see them all at once on all aspect ratios
+*Candles found inside contracts can still be lit, but are no longer grabbable and do not provide any sanity-altering effects
+*The “Take a Ghost photo” objective will no longer count if you take a ghost photo when your journal is already full
+*Light range has been reduced and will no longer cast shadows to save performance
+*Improved the performance of the fountain in Sunny Meadows
+*Removed distortion for VR Parabolic microphone glass
+*Improved support for new HTC VR headsets
+* Replaced Turkish font to make it more readable
+*VR Smooth Monitor View has been renamed to Social Screen Mode
+*Several candles in the Sunny Meadows chapel have been adjusted 
+**Light range has been reduced and will no longer cast shadows to save performance
+** The fallen Candelabras will now start off, and cannot be re-lit
+
+==Fixes ==
+
+*Players should no longer reach the maximum light count, resulting in lights not casting any visible light e.g. basement floor being black / DOTS not showing on walls
+*The weekly timer will now display the minutes and seconds left when there are less than 24 hours left
+*Thaye will now have the correct interaction rate
+*EMF interactions can no longer cause incorrect collisions with objects
+* Players will no longer change their order between the lobby, truck and journal
+*Fixed a common crash when initializing VR
+*You can no longer repel the ghost for another player with an unlimited range (e.g. lighting a smudge in the truck)
+*Thaye will no longer age when only a dead player is nearby
+*Thaye will now do fewer ghost events as it ages instead of more
+*Yokai will now have increased hunt chance and activity for all talking players instead of just the host
+*Tanglewood basement audio effects will now change when they should
+*Tanglewood basement room bounds are now accurate
+*Mare will no longer count keyboards and TV Remotes as light sources
+*The ghost can no longer get stuck at the back of the Woodwind games tent
+*The Sunny Meadows camera icons will now show on the correct floor
+*The setup timer will now be set to 0 after using the Ouija Board
+*The ghost mist event will now move towards you instead of above you
+*The Monkey Paw can now be grabbed while the Sunny Meadows Chapel cross is on fire
+*Items during contracts will no longer break if you are holding an item in the main menu before loading
+*Numbers in player names will no longer be translated when using Arabic
+*Several items will no longer push you around while held and you are crouched
+*Fixed a crash on low-end hardware that caused quality settings to be set too early
+* Due to the new Voice System, issues with desynced voice chat, voice delays and poor voice audio quality are now significantly improved
+*The VR Loading fade will now be completely black
+*You can no longer walk through the bushes in Willow
+*Ghosts can no longer spawn / travel to unintended locations in High School
+*Mimics will no longer always have cold breath if they had previously mimicked a Hantu
+*Lighting the summoning circle will no longer turn the lights on in the room the ghost was previously in
+*Moonlight will no longer be visible in the Sunny Meadows basement: Restricted Wing
+*The Photo Camera can now be detected by the ghost during a hunt when a non-host is holding it
+*The High Priestess Tarot Card will now correctly work in single player
+
+== Known Issues==
+
+*Players sometimes do not leave the lobby correctly and are still visible, causing a bug where you have to restart
+*Changing your keybindings won't currently change the sticky notes in the new Training mode
+*Some shiny surface reflections (such as the truck floor) will flicker on and off when viewed from a particular angle
+* Enabling MSAA will cause white outlines to appear around certain surfaces
+**Workaround: Use FXAA or SMAA
+* VR placement highlight is incorrectly aligned in the truck and belt in most cases (actual placement position is correct)
+*VR Head gear can be toggled on/off when grabbed
+*Some equipment and fingerprint photos may be inconsistent
+
+==References==
+{{Reflist|group="ref"}}
+
+{{Versions}}
+[[Category:Development]]
+[[fr:0.9.0]]
+[[ru:0.9.0]]

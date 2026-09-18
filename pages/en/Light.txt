@@ -1,0 +1,41 @@
+# Light
+# revid 24273  2026-07-24T04:39:22Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 4285751e44a73c56709a34fbd5b9d83593dc3856a51c87fbbba7ac92ad48c7c0  bytes 3790
+# 源: https://phasmophobia.fandom.com/api.php[[File:Ceiling Light.png|thumb|A ceiling light in [[6 Tanglewood Drive]].]]
+[[File:Bedside Lamp.png|thumb|A bedside lamp in [[13 Willow Street]].]]
+'''Lights''' are a map feature that facilitate navigation across the investigation area as well as providing a way to mitigate [[sanity]] drain.
+
+==Mechanics==
+There are several elements counting as lights: ceiling lights, lamps, TVs, and computers. When the [[fuse box]] is on, players can toggle these on or off by {{Control|interacting}} with their respective switch: a wall switch for ceiling lights, the lamp itself for lamps, a TV remote for TVs, and the keyboard for computers. If the TV remote is held, players will instead need to press the {{Control|Primary Use}} button.
+
+[[ru:Освещение]]
+[[File:Light interaction.png|thumb|Tree diagram of light interaction.]]
+[[Ghost]]s can also [[Interaction|interact]] with the switch in two ways:
+*75% chance (100% for [[Mare]]) to toggle the switch, and leave [[Ultraviolet#Fingerprints|fingerprints]] on it if [[Ultraviolet]] is among their types of evidence. If the switch was off, the ghost has a 50% chance (0% for Mare) to successfully turn it on
+**It is a 100% chance to turn on the light instead of 50% if the [[Voodoo Doll]] forces the ghost to interact with a switch on off state.
+*25% chance to make the switch's lights flicker
+**The Mare is unable to perform this specific interaction.
+Both of these interactions create an [[EMF]] Level 2 reading (33% chance to be an [[EMF Level 5]] reading instead for applicable ghosts) on the switch.
+
+Lights in the player's current room will turn off at the start of a [[ghost event]]. There are two exceptions: the lights will turn off at the end of the event if it is a red-light event, and the lights will flicker before shattering if it is a light-shattering event. For all ghost events, ghosts will never leave EMF readings on the light switches.
+
+During a [[hunt]], ghosts will make lights flicker within 10 metres on the same floor, and light switches cannot be toggled and will turn off at the end of the hunt. All switches also turn off when the fuse box trips.
+
+===Atmospheric flickering===
+When a light switch is turned on, an initial timer of 60-200 seconds is set for that specific switch. At the end of that timer, if the ghost is within 8 metres on the same floor of the switch, all of its lights will flicker. If that fails, another timer of 20-40 seconds will be set and the lights will flicker at the end of it if the player's individual [[sanity]] is below 50%, regardless of the ghost's location. When a light has successfully flickered, this loop restarts from the initial timer.
+
+A light flickering due to low sanity is only "imaginary" as other players cannot see that phenomenon.
+
+The atmospheric flickering will never leave EMF readings on the switch.
+
+===Affecting sanity===
+{{Main|Sanity}}
+When all the main lights in a room are turned on, the passive sanity drain will stop for players standing in that room. The passive sanity drain is reduced to 80% of its normal rate instead if not all the main lights are on, or if the room is considered to be large (e.g. most hallways in [[Sunny Meadows Mental Institution|Sunny Meadows]]).
+
+===Rewards===
+{{Main|Media}}
+Filming a light switch being toggled by the ghost will yield a '''Lights Switched''' video in the journal, rewarding up to $7 and 7 XP, depending on the tier of the [[video camera]] and whether there is a Unique stamp. Two other videos, rewarding up to $12 and 12 XP, can be captured from lights: a '''Light Exploded''' video upon capturing lights exploding, and a '''Light Flickering''' video upon capturing lights flickering (whether atmospheric or during an event) outside of hunts.
+{{MapFeatureNav}}
+[[Category:Map Features]]
+[[fr:Lumière]]

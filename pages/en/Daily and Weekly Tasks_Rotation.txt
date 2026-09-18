@@ -1,0 +1,203 @@
+# Daily and Weekly Tasks/Rotation
+# revid 24251  2026-07-24T04:35:55Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 abe1c7b4b25ad8191de80a7eff93f287dba8984f4907a4d74ae7a4f696d0dc6a  bytes 11179
+# 源: https://phasmophobia.fandom.com/api.phpThe '''daily and weekly tasks''' given to the player are predetermined instead of being completely random. There are 31 predetermined groups of 4 daily tasks, and 52 predetermined groups of 4 weekly tasks. These groups are in a fixed order determined by the calendar.
+
+{| class="article-table"
+!colspan="2"|As of {{CURRENTDAY}} {{CURRENTMONTHNAME}} {{CURRENTYEAR}} (UTC)
+|-
+!Current daily tasks (group {{CURRENTDAY}})
+!Current weekly tasks (group {{CURRENTWEEK}})
+|-
+|{{CurrentDailyTasks}}
+|{{CurrentWeeklyTasks}}
+|-
+|colspan="2"|Note: During [[special events]], the first daily task and the first weekly task are replaced by the "Contribute event points" task.
+|}
+
+==Daily tasks==
+In the following table, all 31 combinations of daily tasks can be found.
+{| class="wikitable sortable" style="text-align:center"
+! class="unsortable" |Daily group →<br>Daily task ↓
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!11
+!12
+!13
+!14
+!15
+!16
+!17
+!18
+!19
+!20
+!21
+!22
+!23
+!24
+!25
+!26
+!27
+!28
+!29
+!30
+!31
+|-
+!Discover the Ghost type
+| colspan="31" style="background:green" |X
+|-
+!Buy an item in the store
+|style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||
+|-
+!Capture a unique ghost photo
+|||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||
+|-
+!Complete Objectives
+|||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||
+|-
+!Earn $100 from capturing media
+|||||||style="background:green"|X||||||||||style="background:green"|X||||||||||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||||style="background:green"|X||||||
+|-
+!Find the bone
+|||||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||||style="background:green"|X
+|-
+!Get a ghost to walk through Salt
+|style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X
+|-
+!Get a Ouija Board response
+|||||||||||||||style="background:green"|X||||||||||style="background:green"|X||||||||||||||||||style="background:green"|X||||||||||style="background:green"|X||||||||
+|-
+!Get a Spirit Box response
+|||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X
+|-
+!Play a medium map
+|||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||||style="background:green"|X||
+|-
+!Play Contracts
+|style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||||style="background:green"|X||||
+|-
+!Play with another investigator
+|||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||
+|-
+!Reach 0 sanity
+|||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||
+|-
+!Survive with only the starter items
+|||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||
+|}
+
+==Weekly tasks==
+In the following table, all 52 combinations of weekly tasks can be found.
+{| class="wikitable sortable" style="text-align:center"
+! class="unsortable" |Weekly group →<br>Weekly task ↓
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!11
+!12
+!13
+!14
+!15
+!16
+!17
+!18
+!19
+!20
+!21
+!22
+!23
+!24
+!25
+!26
+!27
+!28
+!29
+!30
+!31
+!32
+!33
+!34
+!35
+!36
+!37
+!38
+!39
+!40
+!41
+!42
+!43
+!44
+!45
+!46
+!47
+!48
+!49
+!50
+!51
+!52
+|-
+!Capture unique ghost media
+|||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||||||||||||||||style="background:green"|X|||||||||||||||
+|-
+!Capture unique media
+|||||||||style="background:green"|X||||||||||||||||||||||||||||||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X|||||||
+|-
+!Capture unique UV photos
+|||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||||||||||style="background:green"|X||||||||||||||||||||style="background:green"|X||||||||||||||||||||||||||||style="background:green"|X|||||
+|-
+!Collect bones
+|||||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||||style="background:green"|X||||||||style="background:green"|X||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||style="background:green"|X||style="background:green"|X|||||
+|-
+!Complete Daily Tasks
+|||||style="background:green"|X||||||||||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||||||||||style="background:green"|X||
+|-
+!Complete objectives in ''[map name]''
+|||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X|||||||||
+|-
+!Correctly find the ghost type
+|||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X
+|-
+!Detect the ghost with a Motion Sensor
+|style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||
+|-
+!Detect sounds with a Sound Sensor
+|||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X|||||
+|-
+!Earn Perfect Investigation Bonuses on Nightmare or harder
+|||||||||||style="background:green"|X||||||||||||||style="background:green"|X||||||||||||||||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||||||||||style="background:green"|X|||||||||||
+|-
+!Hear paranormal sounds with a Parabolic Microphone
+|||||style="background:green"|X||||||style="background:green"|X||||||||style="background:green"|X||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X||||||||||||||style="background:green"|X||||||style="background:green"|X|||||||||||||
+|-
+!Prevent hunts with a crucifix
+|||||||style="background:green"|X||||||||style="background:green"|X||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||style="background:green"|X||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||||style="background:green"|X||
+|-
+!Survive hunts
+|||||||||style="background:green"|X||||||||||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||||style="background:green"|X||||||||style="background:green"|X||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||style="background:green"|X||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X
+|-
+!Use Cursed Possessions
+|style="background:green"|X||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||style="background:green"|X||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||||style="background:green"|X||||||||style="background:green"|X||||||||||style="background:green"|X||||||||||style="background:green"|X||||||||style="background:green"|X|||||||||
+|-
+!Complete Challenge Mode in ''[map name]''
+| colspan="52" data-sort-value="15" style="background:green" |X
+|}
+
+[[ru:Ежедневные и еженедельные задания/Ротация]]
+[[Category:Objectives]]
+[[fr:Tâches quotidiennes et hebdomadaires/Rotation]]

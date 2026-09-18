@@ -1,0 +1,27 @@
+# 0.6.1.7
+# revid 1930  2022-04-28T09:29:32Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version   | release_date=2022年4月28日   | previous_major_version=[[0.6.0]]   | previous_minor_version=[[0.6.1.6]]   | next_major_version=   | next_mino…”
+# sha256 84cd50a8a554adfda006907682975ca7de995c05a47e97d632e91a5b476f1b9c  bytes 860
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | release_date=2022年4月28日
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.1.6]]
+  | next_major_version=
+  | next_minor_version=
+}}
+'''0.6.1.7'''是发布于2022年4月28日的小型更新。<ref>https://store.steampowered.com/news/app/739630/view/3174484827447383795</ref> 
+本次更新主要修复漏洞。
+
+== 修复漏洞 ==
+*营地一些物体上的指纹大小错误
+*鬼不再会在猎杀时卡在中型帐篷附近
+*屋内蜡烛现在能正常使用
+*鬼不再会在事件和猎杀时以错误的动画卡住
+*修正帐篷窗户材质
+*房主在暴雨天气下走到室外时，其他玩家手持的蜡烛和打火机不再会熄灭
+*安装了SteamVR并以非VR模式游玩不再根据SteamVR待机设置自动关闭游戏（默认10分钟）
+
+==参考资料==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

@@ -1,0 +1,127 @@
+# Onryo
+# revid 24595  2026-09-03T00:57:40Z  by Darkhooper
+# 备注: retested this bug and it has been fixed
+# sha256 5a8acc18b2def34bcfec2e4fe0035b9493acde58756826726725d892f4e7ef38  bytes 9397
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Onryo Discovered.jpg
+ |strength= *Can sometimes hunt at any sanity after blowing out a flame
+*Blows out fiery objects (candles, campfire) more often with more dead people
+ |weakness(es)= *Presence of flames prevents the ghost from hunting
+ |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
+ |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
+ |Evidence3=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
+}}{{Quote
+ |quote=The Onryo is often referred to as "The Wrathful Spirit". It steals souls from dying victims' bodies to seek revenge. This ghost has been known to fear any form of fire, and will do anything to be far from it.
+ |speaker=The Journal
+}}The '''Onryo''' is a type of [[ghost]] in Phasmophobia. The Onryo is noted to be wary of fire; however, when the fires go out, beware its vengeance, for an Onryo may decide to [[hunt]] once there are no flames keeping it at bay.
+
+==Behaviour==
+===Activity===
+The Onryo's flame blowing frequency increases the more dead players there are:
+{| class="fandom-table"
+!Number of dead players
+!Chance of blowing out the flame
+!Chance of blowing out the tier II [[firelight]]
+!Cooldown before the Onryo can attempt to blow out the flame after lighting (not first lighting)
+|-
+|0
+|66.67%
+|96.3%
+|20 - 80 seconds
+|-
+|1
+|75%
+|98.43%
+|20 - 60 seconds
+|-
+|2
+|80%
+|99.2%
+|20 - 40 seconds
+|-
+|3
+|83.33%
+|99.54%
+|20 seconds
+|}<br>The Onryo cannot light any [[Fire Source|fire sources]] (fireplaces, campfires, and candles) naturally,<ref>[https://www.twitch.tv/cjdxn/clip/NimbleBreakablePiePunchTrees-RWzBuo6EVr80RJ_4 cjdxn confirming Onryos cannot light fire sources (on Twitch).]</ref> but can be forced into doing so with a [[Voodoo Doll]].
+
+Contrary to the [[journal]]'s description, flames do not make the Onryo more likely to leave a room.<ref>https://youtu.be/orMdTJvdOVM?t=2288</ref>
+
+===Ability===
+The Onryo checks a counter of flame blowouts each time it exits the [[Ghost#Behavior|idle state]]. If the counter is greater than or equal to 3, and provided there is currently no hunt cooldown and no [[incense]]'s cleansing effect, the Onryo will use its ability, which resets the blowout counter to 0 before initiating a hunt regardless of current average [[sanity]]. This hunt can be blocked by the [[setup phase]] still being active, a [[crucifix]], or another flame.
+*A flame preventing a hunt or blown out during a hunt will still increase the counter by 1.
+*If the counter reaches 3 during a hunt or an incense's cleansing effect, it will instantly reset to 0 and cancel the Onryo's ability.
+
+===Hunt===
+The Onryo has a hunt sanity threshold of 60% by default. When it is within 4 metres of a flame, this threshold is decreased to 40%.<ref>[https://www.twitch.tv/cjdxn/clip/JollyObliviousAlpacaHotPokket-Bs0RE-e6DcLtcagZ cjdxn confirming Onryos have a hunt threshold of 40% when near fire sources, 26 June 2025 (on Twitch).]</ref>
+
+If the Onryo attempts a hunt within 4 metres<ref>[https://www.reddit.com/r/PhasmophobiaGame/comments/rua7fk/onryos_hidden_ability_candlecrucifix_behavior/hr8bm3i/ ''"...Candle blow out (to stop a hunt) is 4m not 3m..." cjdxn4, Developer (on Reddit). 4 January 2022.]</ref> of any type of flame (e.g. firelight, [[igniter]], campfire, etc.), it will blow out the flame instead, and the hunt will fail. This does not restart the hunt cooldown timer, unlike a crucifix. If both a crucifix and a flame are within range, the flame will take priority over the crucifix for preventing the hunt.
+*The Onryo's hunt attempts also override a flame's individual cooldowns, making it capable of blowing out a firelight within 30 seconds of its first lighting, or within 20 seconds of its subsequent lightings. Note that a tier III firelight's current cooldown is paused if it is turned off by the player or an Onryo's hunt attempt.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]] [[Freezing Temperatures]]
+|[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]] [[Ghost Orb]]
+|[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: Extinguishing a flame can cause an '''Onryo''' to attack.''
+
+''Weakness: When threatened, this ghost will be less likely to hunt.''
+
+==Strategies==
+The Onryo's aversion to fire, while a powerful tool against it, does come with risks of its own. However, with sufficient firelights and diligent relighting of them whenever they're extinguished, the Onryo may be kept from hunting indefinitely, which may also serve as identification for the ghost on reduced evidences difficulties. On the other hand, only having one lit firelight within range of it increases the risk of it hunting as a result of blowing it out if said firelight is being re-lit, or other flame sources are being activated nearby. The latter is even riskier if one or more players have died, as the Onryo will blow out firelights in increasing frequency. Players should consider whether having flames lit near the ghost is worth it to prevent hunts, or if they should be disregarded outright and simply play around the Onryo's heightened hunt threshold.
+
+===Identification===
+;Flame priority
+Place one crucifix in the ghost's area and a firelight directly on top, or place two crucifixes in the ghost's area and multiple firelights spread out and covering the crucifixes' ranges.
+*Note that this is less reliable with Tier II or III crucifixes as they have a range that is greater than or equal to the flame range.
+
+When sanity is deemed low enough, keep the firelights lit in a timely manner.
+*If the crucifix is burned without the firelights going out first, then it is not an Onryo.
+*If the ghost seems to not hunt with multiple firelights active, or hunts in an area where no firelights are lit, then it may be an Onryo.
+
+;Hunt prevention
+Due to the Onryo's hunt prevention mechanics, having a flame blown out within 30 seconds of its first lighting, or within 20 seconds of its subsequent lightings (or an igniter's first lighting), confirms an Onryo. This also makes the Onryo the only ghost that can blow out a tier I igniter's match, which only lasts 10 seconds. Keep in mind that tier III firelights pause the current cooldown if they are turned off by a player or an Onryo's hunt attempt.
+
+;Blowout counter
+Players can keep track of the number of flames the ghost blows out, and observe whether the ghost tries to hunt when the blowout counter reaches 3. Provided there is no ongoing hunt and no ongoing incense's cleansing effect, if the ghost does not try to hunt, it is not an Onryo. If the ghost tries to hunt, then it may be (but not definitively) an Onryo.
+*Keep in mind that the Onryo must first exit an idle state outside of a hunt cooldown and an incense's cleansing effect before being able to use its ability. This means that there can be a delay between the third blowout and the ability being used.
+**For example, if the Onryo blows out the third flame while it is performing a [[Ghost Event|ghost event]], the ability will only be triggered after the end of an idle state following the end of that ghost event, which can take more than 20 seconds.
+**Since the blowout counter resets after the ability is used, the counter can still increase above 3 before the Onryo exits the idle state. This can make the Onryo use its ability after the fourth/fifth/nth blowout instead of the third blowout.
+
+;General
+In [[Sunny Meadows Mental Institution|Sunny Meadows]], several lit candles can be found in the chapel, which ghosts can blow out. If the ghost is located there and hunts very early (and is otherwise not a Demon), then it may be an Onryo.
+
+The Onryo can be ruled out if the ghost lights up a fire source such as a fireplace, a campfire, or a candle.
+
+The Onryo is one of three ghosts (the others being the [[Hantu]] and [[Kormos]]) for which you can collect all three pieces of evidence without excluding [[The Mimic]]. Therefore, before concluding you're dealing with an Onryo, confirm it using the methods mentioned above and/or check whether the ghost leaves [[Ultraviolet]] evidence. If it does, you have The Mimic instead.
+
+==Trivia==
+*In Japanese mythology, ''Onryō'' (怨霊, meaning 'vengeful spirit') are the spirits of people who died bearing some form of hatred for the living. Unlike the game version, they could cause fires and had no specific weakness to it. 
+*Onryō have been popularised in modern times by the J-Horror genre with TV, films, and books series such as Ju-On (The Grudge) and Ringu (Ring). 
+*Goryō are normally catagorised under Onryō in most Japanese texts since they are spirits that seek some form of vengence against the living.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.4.0]]
+|Added Onryo.
+|-
+! rowspan="2" |[[0.9.4.1]]
+|Smudge Sticks now block the Onryo's hunt ability
+|-
+|If the Onryo is hunting and blows out a third candle, it will now cancel the Onryo hunt ability and no longer start a hunt after that hunt ends
+|}
+
+==References==
+{{Reflist}}
+{{Ghost nav}}
+[[ru:Онрё]]
+[[fr:Onryo]]
+[[Category:Ghosts]]

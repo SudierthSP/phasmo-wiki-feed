@@ -1,0 +1,90 @@
+# 相机
+# revid 4012  2025-11-08T04:14:18Z  by CangMingSW
+# sha256 dc600c1f7837b56319d3b54972c93f5fbbae33c94b4b073eec12285b2b820384  bytes 4066
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+ | tier i img=PhotoCamera090_T1.png
+ | tier ii img=PhotoCamera090_T2.png
+ | tier iii img=PhotoCamera090_T3.png
+
+ | price=$40
+ | maxamount=3
+ | uses=
+ | starter=否
+ | tier i level=2
+ | tier ii level=23
+ | tier iii level=55
+
+ | tier i description=一台老旧的怕立得相机，布满灰尘和划痕。需要等待照片打印出来后才能再拍下一张。
+ | tier i purpose=你可以使用这台相机拍摄任何证据。它只会在拍照时干扰鬼魂，所以在决定拍照时要小心。<br>有关拍照的更多信息，请查看手册中的“照片”部分。
+ | tier i ability=<span style="color: #008000;">拍照冷却：高</span>
+ | tier ii description=锁尼GhostShot是一款小巧便携、简单易用的数码相机，非常适合在黑暗中拍摄令人恐慌的鬼照片。
+ | tier ii purpose=使用这款数码照相机，可以更快地拍摄证据和超自然鬼魂的照片。
+ | tier ii ability=<span style="color: #008000;">拍照冷却：中<br>显示屏幕<br>超自然干扰：中</span><br><span style="color: #ff0000;">电子设备</span>
+ | tier iii description=这是锁尼最好的单镜反光相机之一，配备了更宽的镜头、更高的图像质量以及更快的处理能力。
+ | tier iii purpose=这款顶级相机拍摄间隔最短，可以快速获取证据。<br>此外，它经过改装，不太容易受到超自然鬼魂在显现过程中对屏幕造成的干扰。
+ | tier iii ability=<span style="color: #008000;">拍照冷却：低<br>显示屏幕<br>超自然干扰：中</span><br><span style="color: #ff0000;">电子设备</span>
+}}'''相机'''是一件用于拍证据的[[装备]]，以获得奖励，和完成[[目标]]和[[每日和每周任务]]。
+
+== 用法 ==
+相机会在你离开车后自动开机。每台相机可无限次拍照，但有冷却时间：
+*一级：3 秒
+*二级：2 秒
+*三级：1 秒
+
+当鬼魂在[[鬼魂事件]]或[[猎杀]]现身时，二级和三级相机屏幕和任何照片会受到干扰。受到干扰的照片在检测到目标的情况下还是会被认为合格的照片。
+
+二、三级相机为电子设备，鬼魂现身或猎杀时会将 10 米内的二级和三级相机闪烁。在鬼魂猎杀时 7.5 米内手持相机会吸引鬼魂。
+
+一级相机只在拍照的时刻作为电子设备。否则鬼魂通常不会理一级相机。（如果在拍照后的 2.13 秒内将相机收在身上，那么它会保持“电池设备”的状态，直到玩家再用它拍照。
+
+=== 拍照奖励 ===
+{{Main|媒体}}
+拍摄照片可以获得额外奖励，不同的照片获得的奖励不同。每种照片的第一张认定为独特照片，一张独特照片的最高奖励为 $15 / 15 XP。重复的照片只会提供独特照片奖励的 20% 。
+
+如果[[手册]]内没有可用的照片槽位（可以容纳整个团队的 5 张照片），则任何进一步的拍摄都不会获得任何收益。
+
+根据奖励倍数，有若干次删除捕获到的媒体的机会。在多人游戏中，删除照片需要大多数玩家的一致投票，由手册的“媒体”选项卡上的红色图标表示。
+
+==目标==
+{{Main|目标}}
+* '''捕获鬼魂照片'''
+
+==提示==
+*玩家的相片并没有同步，个人的照片角度会与其他人不一样。
+
+==画廊==
+<div class="mw-collapsible-content"><gallery widths="185">
+Journal photo 0.5.1.0.png|相簿的各种照片证据
+</gallery></div>
+
+== 趣闻轶事 ==
+*实际相机模型为：
+**一级：宝丽来 OneStep 600 Flash
+**二级：索尼 W800 数码相机
+**三级：索尼 ILCE-7RM5（α7RV） 相机身 + 索尼 SEL2470GM2（24-70 f/2.8 GM2） 镜头
+
+== 历史 ==
+{| class="fandom-table"
+! colspan="2" |Early Access (Steam)
+|-
+![[0.3.0]]
+|更新相机模型
+|-
+![[0.6.0]]
+|更新冷却从 3 秒降至 1 秒
+|-
+! rowspan="3" | [[0.9.0]]
+|添加一级和三级相机（现有相机变为二级）
+|-
+|相机可以无限使用
+|-
+|相机不再是默认装备
+|}
+
+== 参阅 ==
+*[[鬼魂事件]]
+
+{{EquipmentNav}}
+[[Category:装备]]
+[[Category:初始装备]]
+[[en:Photo_Camera]]

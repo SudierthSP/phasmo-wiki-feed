@@ -1,0 +1,20 @@
+# 0.6.3.1
+# revid 2169  2022-07-16T16:42:12Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version   | release_date=2022年7月16日   | previous_major_version=[[0.6.0]]   | previous_minor_version=[[0.6.3.0]]   | next_major_version=   | next_minor_version= }}'''0.6.3.1'''是发布于2022年7月16日的小型感谢。<ref>[https://store.steampowered.com/news/app/739630/view/3409804887896492490 Truck Overhaul | Hotfix v0.6.3.1 (on Steam)]</ref>本次更新修复了一些语音识别的问题。  == 修复漏洞 == * 西班牙语现在能正…”
+# sha256 6f5bee6fca39b623f0a0b3d08a597f6b0ecdb835d4c97fb3897038d3dd803f03  bytes 621
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | release_date=2022年7月16日
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.3.0]]
+  | next_major_version=
+  | next_minor_version=
+}}'''0.6.3.1'''是发布于2022年7月16日的小型感谢。<ref>[https://store.steampowered.com/news/app/739630/view/3409804887896492490 Truck Overhaul | Hotfix v0.6.3.1 (on Steam)]</ref>本次更新修复了一些语音识别的问题。
+
+== 修复漏洞 ==
+* 西班牙语现在能正常使用Windows的语音识别
+* 巴西葡萄牙语现在能无法使用Windows的语音识别
+
+==参考资料==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

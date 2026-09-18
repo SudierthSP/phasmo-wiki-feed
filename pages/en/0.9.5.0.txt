@@ -1,0 +1,80 @@
+# 0.9.5.0
+# revid 24001  2026-06-28T21:44:56Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 e176e35ffbdb36da9fe3988de53eee1f85ecebee53bf1ac0ad020a5b47f1aeaa  bytes 3589
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox_Version
+|title1=0.9.5.0
+|image1=Phasmophobia 0.9.5.0.png
+|official_name=Shop Overhaul
+|release_date=21 February 2024 (Content Creator early access)<br>22 February 2024 (public release)
+|previous_major_version=[[0.9.0]]
+|previous_minor_version=[[0.9.4.3]]
+|next_minor_version=[[0.9.6.0]]
+|next_major_version=[[0.10.0]]}}'''0.9.5.0''', also known as the '''Shop Overhaul''' update, is a minor update released on 22 February 2024.<ref>[https://store.steampowered.com/news/app/739630/view/7664633371976230660 ''Ascension - Shop Overhaul | Minor Update v0.9.5.0''. 22 February 2024 (on Steam)]</ref><ref group="note">Official Content Creators (Kinetic Games Partners) were given early access one day before the public release.</ref> This update features a major shop rework, as well as the addition of cursor customisation.
+
+==Shop Overhaul==
+*3 separate pages for more intuitive usage
+*Easy buy options for controller
+*Renamable loadouts
+*Player-specific colours for supplied equipment
+*Quick shortcuts to navigate between screens to unlock equipment
+*Full tutorial for each page
+*Shortcuts for gamepad users
+
+==Additions==
+;Accessibility
+*You can now customize each player's colour for many areas in the game:
+**Main menu stickers
+**Shop interface
+**Sanity screen in the truck
+*You can now customize your cursor:
+**Shape
+**Colour
+**Opacity
+**Size
+**Additional options when highlighting objects
+*''Note: VR players can only adjust their highlight cursors colour and opacity''
+
+==Changes==
+*You can no longer receive a photo of a DOTS ghost while it's not inside a DOTS Projector's light
+*You can now rotate the Sound Sensor III whilst placing it
+*Greatly improved the DOTS Ghost AI navigation, this will result in more consistent evidence across the board
+*Reduced the brightness of the Journal
+*Reduced the volume of various sounds
+
+==Fixes==
+;General
+*Improved the AI pathing for the Phantom and Wraith abilities
+*Ouija board will now break if you do not have enough sanity to use it instead of answering a question then breaking
+*The shop screensaver will no longer appear and disappear when walking into/away from the shop screen in non-VR
+*Fixed a ghost AI navigation issue on the Tanglewood living room
+*DOTS Ghost AI navigation will now correctly if you are in the same room as the ghost
+*Ghosts can now correctly interact with all telephones
+*The grandfather clock ghost interaction now works correctly
+*The sound sensor "offline" text is now translated for non-English languages
+*You can now swap to the 'Blocked Players' page using the gamepad shoulder buttons
+*The Sunny Meadows Apocalypse sticker will now show during single player
+*You can no longer back out of the menu with a gamepad while the Journal is open
+*You can no longer use the Main Menu left and right UI arrows while the Journal is open
+*The Haunted Mirror will now correctly break straight away if you do not have enough sanity (20%)
+*Gamepad 'Local push to talk' rebind tape is now the correct image
+
+;VR
+*VR players can now prestige
+*Sound sensor III can now have its shape changed in VR
+*Motion sensor II can now have its shape changed in VR (while placed)
+*Up and down arrows now work in the VR journal
+*You can swap between hold and toggle grab types again in VR
+*You can now drop the Sound Sensor III in VR
+*Fixed a lag spike when a VR player joins the game
+*The VR Journal sounds can no longer be heard from far away
+*Spirit Box 3 VR text voice recognition now works
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.9.5.0]]
+[[ru:0.9.5.0]]

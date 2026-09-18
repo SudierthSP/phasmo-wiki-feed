@@ -1,0 +1,5 @@
+# V0.7
+# revid 2337  2022-09-08T11:13:39Z  by Qsefthuopq
+# 备注: 重定向页面至[[0.7.0]]
+# sha256 b88c09006edb74f8159ce0582a2d0e6de6e1fa32bf25bc852b257e7e74e438ac  bytes 19
+# 源: https://phasmophobia.fandom.com/zh/api.php#redirect [[0.7.0]]

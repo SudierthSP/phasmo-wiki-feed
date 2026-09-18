@@ -1,0 +1,48 @@
+# 0.10.0.1
+# revid 23876  2026-06-28T21:35:10Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 167a4f99c47a11905a9046ed0fee78c1dd1322fb07498c526bcb17b11879be41  bytes 2450
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=5 July 2024
+ | previous_major_version=[[0.10.0]]
+ | previous_minor_version=
+ | next_minor_version=[[0.10.1.0]]
+ | next_major_version=[[0.11.0]]
+}}'''0.10.0.1''' is a minor update released on 5 July 2024.<ref>[https://store.steampowered.com/news/app/739630/view/4250916799074854139 ''Eventide | Hotfix v0.10.0.1''. 5 July 2024 (On Steam).]</ref> This update contains some bug fixes.
+
+==Changes==
+*Moved the Point Hope games room fire gate to stop an unintended hiding spot
+*"Lights out" weekly challenge now has UV Tier II instead of Tier I
+
+==Fixes==
+*Fixed several safe spots
+*Spray paint cans now have impact sounds
+*You will no longer crash if you have an event badge set if you fail to connect to the unity servers
+*Badges will no longer show the unlock popup again if you have already unlocked them
+*The tutorial can no longer be chosen as the challenge map
+*If you failed to receive your apocalypse badges, you will now receive them after your next game
+*The TV in the Point Hope living room will no longer be required to be on to negate sanity drain
+*You can now pick up the parrot in VR on Point Hope
+*Placing a sound sensor in the closet in the Point Hope living room will now register as the correct room
+*You can now place sensors consistently on the blue rug in the Point Hope living room
+*The chess pieces in Point Hope now have the correct visuals when placing them
+*Players can no longer get stuck inside buckets
+*Sounds are now audible on the correct floors in Bleasdale
+*Bleasdale hiding spots will now be blocked correctly
+*Bleasdale sound sensors, breaker, CCTV camera and player icons will now be set to the correct floor
+*Removed Tanglewood's Point Hope riddle
+*Photo cameras no longer break when the journal is full, these photos are not counted towards objectives
+*Taking a photo of a phantom when the journal is full will now make it disappear
+*Firelight III interaction photo will now work
+*Igniters and Firelights will no longer blow out in heavy rain in the entry house and maintenance room of Point Hope
+*The wood burners in Point Hope will no longer blow out in heavy rain
+*Tapping the flashlight button will no longer sometimes fail to do anything
+*Tabbing out will no longer turn off other players thermometers
+*When reviving, players will now return to 4 equipment slots, instead of 3
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.10.0.1]]
+[[ru:0.10.0.1]]

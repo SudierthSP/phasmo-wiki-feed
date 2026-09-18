@@ -1,0 +1,53 @@
+# 0.6.1.4
+# revid 23954  2026-06-28T21:40:57Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 3b8f6c13c8ad7191935f371a76683ce4445445675bdf588c2ba13946a343ae95  bytes 1795
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=20 April 2022
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.1.3]]
+  | next_major_version=[[0.7.0]]
+  | next_minor_version=[[0.6.1.5]]
+}}The '''0.6.1.4''' update is a minor update to the game released on 20 April 2022.<ref>https://store.steampowered.com/news/app/739630/view/3174484195236412354</ref> This update removes the event for Easter, adjusts several maps, and fixes bugs.
+
+== Changes ==
+=== Easter egg hunt ===
+*Removed as event has ended
+
+=== Evidence ===
+;[[Fingerprints]]
+*Can now be left on locker doors
+*Optimised mesh
+
+=== Map adjustments ===
+;[[Maple Lodge Campsite]]
+*Added a cooler box hiding spot outside the cabin
+*Optimisations to lower RAM usage
+
+;[[Tanglewood Street House]]
+*Basement hiding spot adjusted to be more consistent
+
+=== General ===
+*VR voice toggle button changed to the right controller
+**Controls screen will be updated in the next patch
+*Improve ease of grabbing journal and walkie talkie in VR
+*Small tent doors are now easier to grab
+
+== Bug fixes ==
+*Cornhole boards in Maple Lodge Campsite will now render correctly from a distance
+*You can now grab the wooden doors in Prison in VR
+*The candle flame will now render correctly
+*Fixed inconsistencies in the journal UI
+*Removed the visual artefact on the fairy light posts
+*Dirty water will no longer be overly dark
+*The keyboard in Willow will now have the correct texture
+*Video options' text will no longer clip in the main menu; when using languages other than English
+*Other VR players can no longer hover items of your belt which caused your belt highlight to activate
+*The VR UI indicator for Prison cell doors will now line up with your hand
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.6.1.4]]
+[[ru:0.6.1.4]]

@@ -1,0 +1,44 @@
+# 0.7.1.5
+# revid 23972  2026-06-28T21:42:23Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 1c981d6c5ee7209a0df6f3c68b0b1ae2fbfd2f1962c337e1337db067d110002d  bytes 2307
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=26 October 2022
+  | previous_major_version=[[0.7.0]]
+  | previous_minor_version=[[0.7.1.4]]
+  | next_minor_version=[[0.7.2.0]]
+ | next_major_version=[[0.8.0]]
+}}'''0.7.1.5''' is a minor hotfix to the game released on 26 October 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3363652502321533462 Halloween '22! | Hotfix v0.7.1.5 (on Steam)]</ref>
+
+== Bug fixes ==
+* Hantu will no longer get exponentially faster if they enter a room between 3 and 6 Celsius
+* Moved a candy bucket in the upstairs bathroom on Ridgeview so VR players can reach it
+* Objects will no longer desync when a player leaves the game
+* Players will now disappear when they leave the game
+* You no longer get more rewards when skipping the reward animation in some cases
+* The challenge “Complete objectives in” will now show the map name after the value has changed
+* After the reward screen, you will correctly see your new level and experience in the lobby
+* Leaving a lobby through the journal will now remove your equipment from the lobby
+* You can no longer light a smudge stick you aren’t holding, with an unlit lighter
+* Applying a server browser filter now resets your page back to 1
+* Weekly challenges will now display the progress correctly after a reset
+* After the next reset, the weekly challenge “Complete an objective in random” will no longer be able to select the “random” map
+* Photos are now much more accurate at detecting ghosts
+* The Mare light switch ability stat will now sync between all players
+* The volume will no longer spike when leaving a game
+* The training “Are You Sure?” UI will now disappear after clicking yes
+* The lobby radio voice will no longer spike in volume when joining a game
+* You can now light smudge sticks that you haven’t grabbed
+* Equipment will no longer spawn before everyone has loaded in if a player leaves or disconnects during loading
+* You can now light non-grabbed smudge sticks with a candle
+* VR players can now change other player volumes
+* VR players can now place sensors
+* The report button is now clickable in the VR Journal
+* The player cards in the VR journal will no longer clip into the journal
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.7.1.5]]
+[[ru:0.7.1.5]]

@@ -1,0 +1,68 @@
+# Spirit
+# revid 23120  2026-04-11T22:37:11Z  by Darkhooper
+# 备注: Reverted edit by [[Special:Contributions/Khxlamity|Khxlamity]] ([[User talk:Khxlamity|talk]]) to last revision by [[User:Darkhooper|Darkhooper]]
+# sha256 74a6ae963ca2d727adbf63722887e1e4f171a20ee24b681b74ea9ceb71f91fb4  bytes 4564
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Spirit Discovered.jpg
+ |weakness(es)=Incense prevents hunts for longer (double duration)
+ |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
+ |Evidence2=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]
+ |Evidence3=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
+}}{{Quote
+ |quote=Spirits are very common ghosts. They are very powerful, but passive, only attacking when they need to. They defend their place of death to the utmost degree, killing anyone that is caught overstaying their welcome.
+ |speaker=The Journal
+}}The '''Spirit''' is a type of [[ghost]] in ''Phasmophobia.'' They are unique among other ghost types for not having any distinctive strengths. 
+
+==Behaviour==
+===Activity===
+When [[Incense]] is used near a Spirit, it will not be able to initiate a [[hunt]] for 180 seconds instead of 90 seconds with most other ghosts. Like other ghosts, this will not prevent [[Hunt#Cursed hunts|cursed hunts]]. This delay ''will'' also apply if the Spirit was smudged during a hunt.
+
+Spirits have no other special behaviour.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] [[EMF Level 5]]
+|[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]] [[Ghost Writing]]
+|[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Weakness: A '''Spirit''' can be temporarily stopped by burning Incense near them.''
+
+==Strategies==
+With no special powers, and a harsher reaction to Incense, Spirits serve as a baseline to measure other ghosts against. With their behavior not being especially unique amongst the ghosts, its overall lack of defining traits can confuse investigators; therefore, unless clear [[evidence]] is established, a Spirit can be easily mistaken for another entity.
+
+The main (and usually only) way to test for a Spirit without using evidence is to lower the average sanity to below 50%, and smudge the ghost while it is hunting; if it hunts again before the three minutes is up, it is not a Spirit. If it hunts only after three minutes, it is very likely (though not conclusively) a Spirit. Note that if it hunts within the first minute of the smudge stick being used, then the smudge stick did not work, and the player should attempt to smudge it again. In [[difficulty|difficulties]] with the [[Sanity Monitor]] disabled, players should wait for a hunt or a burnt [[crucifix]] to confirm that the average sanity is low enough, and avoid activities that could increase the average sanity and stop the ghost from hunting.
+
+A more reliable way to test for Spirit is using incense near the ghost, start a timer and wait for around 160-170 seconds and then use incense near the ghost again. Using [[Motion Sensor|motion sensors]] can be helpful to determine the position of the ghost. Due to the incense's cleansing effect not being re-applied if a current one is ongoing, two scenarios can happen:
+*If the ghost hunts within the next 60 seconds of the second incense, the ghost is a Spirit.
+*If the ghost hunts after 60 seconds but before 90, it is still likely to be a Spirit, but it may also be a [[Demon]] instead, though this is not likely to be an issue, as a Demon will most likely initiate a hunt before the second incense is even used, ruling out the Spirit.
+
+==Trivia==
+*Although the journal says that the Spirit is the most common ghost, all ghost types actually have the same chance of getting selected by the game.
+**Perhaps this description was thought to mean that the Spirit is the "basic" ghost type other types were based upon in the process of development.
+*The Spirit is automatically selected at the start of each contract by default.
+**This is possibly a remnant from before [[0.15.1.0]], when the journal was not sorted alphabetically and the Spirit was the first ghost in the list.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!13 March 2020
+|Spirit now requires Fingerprints instead of Bug as one of its evidences.
+|-
+!10 September 2020
+|Spirits can now be prevented from hunting for 3 minutes when a Smudge Stick is used.
+|-
+! colspan="2" |Early Access
+|-
+![[0.3.0]]
+|Prior to 0.3.0, the evidence was [[Spirit Box]], [[Fingerprints]], and [[Ghost Writing]].
+|}
+{{Ghost nav}}
+[[Category:Ghosts]]
+[[fr:Esprit]]
+[[ru:Дух]]

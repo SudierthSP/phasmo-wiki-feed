@@ -1,0 +1,170 @@
+# Bleasdale Farmhouse
+# revid 24902  2026-09-18T16:57:39Z  by Darkhooper
+# 备注: changed page layout
+# sha256 c4e8d685122971e11034950b61603e07ec7e71239d4085bb3aa350d5fb77b7f5  bytes 6092
+# 源: https://phasmophobia.fandom.com/api.php{{Location
+|img=Bleasdalereworked.png
+|imgcaption=The front of the farmhouse.
+|mapsize=Medium
+|unlocklevel=4
+|floors=3
+|rooms=21 (Total)
+*3F: 2
+*2F: 8
+*1F: 11
+*20 possible ghost rooms
+|exits=2
+|faucets=7
+|videofeeds=3
+|keys=Main Door Key
+|img rooms=Rooms Bleasdale.png
+|img sanity=Sanity Bleasdale.png
+|img temperatures=Temperatures Bleasdale.png
+}}
+{{Quote|speaker=Loading blurb|quote=A beautiful traditional house in the woods. It's a shame nobody was around to hear the residents running for their lives.}}
+Bleasdale Farmhouse is a medium [[map]] in ''Phasmophobia'', and one of the two Farmhouse variants, alongside [[Grafton Farmhouse]]. With two well-defined main floors, and a spacious attic, Bleasdale can feel quite big, but still plenty manageable for a small team.
+
+==Structure==
+Bleasdale Farmhouse has three floors, including an attic. Rooms consist of two bedrooms, three bathrooms, an office, two hallways, and outdoors areas, among others.
+
+===Layout tips===
+*The investigation area includes both the house itself, as well as its backyard and the garden.
+*There are motion-triggered lights around the outside of the house, which can be triggered not only by players, but also the ghost. These lights still count towards the light limit rule and the [[Spirit Box]].
+*The bead curtain separating the Attic Space from the Attic Bedroom will move when players, dead or alive, or the ghost passes through.
+*For Attic Space and Garden, the small lantern also needs to be turned on in addition to the main light to completely prevent passive sanity drain in these rooms.
+
+The following rooms cannot be chosen as a [[Ghost Room|favourite room]]:
+*Attic Hallway
+
+Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
+{| class="article-table"
+!Parameter
+!None
+!Low
+!Medium
+!High
+|-
+!Number
+|0
+|2
+|3
+|4
+|}
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 9 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Foyer
+|[[File:Bleasdale Foyer unavailable.png|200px]]
+|[[File:Bleasdale Foyer available.png|200px]]
+|-
+|Utility Room
+|[[File:Bleasdale Utility unavailable.png|200px]]
+|[[File:Bleasdale Utility available.png|200px]]
+|-
+|Upstairs Hallway
+|[[File:Bleasdale Upstairs Hallway unavailable.png|200px]]
+|[[File:Bleasdale Upstairs Hallway available.png|200px]]
+|-
+|Master Bedroom
+|[[File:Bleasdale Master Bedroom unavailable.png|200px]]
+|[[File:Bleasdale Master Bedroom available.png|200px]]
+|-
+|Study
+|[[File:Bleasdale Study unavailable.png|200px]]
+|[[File:Bleasdale Study available.png|200px]]
+|-
+|Attic Space
+|[[File:Bleasdale Attic Space unavailable.png|200px]]
+|[[File:Bleasdale Attic Space available.png|200px]]
+|-
+|Attic Bedroom
+|[[File:Bleasdale Attic Bedroom unavailable.png|200px]]
+|[[File:Bleasdale Attic Bedroom available.png|200px]]
+|-
+|Garden
+|[[File:Bleasdale Garden unavailable.png|200px]]
+|[[File:Bleasdale Garden available.png|200px]]
+|-
+|Side Path
+|[[File:Bleasdale Side Path unavailable.png|200px]]
+|[[File:Bleasdale Side Path available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|9
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|8
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|6
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|5
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+[[Guides/Surviving_a_hunt#Looping_the_ghost|Looping]] the ghost may be performed around the display cases in Trophy Room, the table in Dining Room, or the couches in Living Room, among other places.
+
+==Bone locations==
+Bones spawn randomly, but will only spawn in areas that a ghost can also walk on, within a room that can be chosen as a [[Ghost Room|favourite room]].
+
+==Cursed possession locations==
+<gallery>
+Bleasdalereworked board.png|The [[Ouija Board]] spawns next to one of the couch in the Living Room.
+Bleasdalereworked doll.png|The [[Voodoo Doll]] spawns in front of the bed in the Master Bedroom.
+Bleasdalereworked mirror.png|The [[Haunted Mirror]] spawns by one of the cabinet in the Trophy Room.
+Bleasdalereworked circle.png|The [[Summoning Circle]] spawns in the Utility Room.
+Bleasdalereworked cards.png|The [[Tarot Cards]] spawn on the table in the Attic Bedroom.
+Bleasdalereworked box.png|The [[Music Box]] spawns on the shelf in the Tea Room.
+Bleasdalereworked paw.png|The [[Monkey Paw]] spawns on a bookshelf in the Study.
+</gallery>
+
+==Gallery==
+<gallery>
+ElderwoodPalaceLodge.png|Bleasdale Farmhouse as ''Elderwood Palace Lodge'' during the Phasmophobia by Alan Wake event.
+</gallery>
+
+==Trivia==
+*A small spider can sometimes spawn inside the house at different locations: in the stairs in Attic Hallway, in the corner near the open suitcase in Attic Space, in the corner behind the broken cupboard in Attic Space, and above the display cases in Attic Bedroom. When a player approaches the spider, the latter will flee before disappearing. The spider's name is "Lilith" as revealed by a photo below a broken display case in Attic Bedroom.
+*A wolf can sometimes be heard through the [[Parabolic Microphone]] on this map.
+*A matchbox containing a singular match can be found in the Study.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!28 July 2020
+|Added Bleasdale Farmhouse.
+|-
+!1 August 2020
+|Added invisible walls around the attic stairs.
+|-
+! colspan="2" |Early Access
+|-
+! rowspan="2" |[[0.12.0.1]]
+|Overhauled with a new layout, new visual assets, new environmental features, etc.
+|-
+|Bleasdale Farmhouse is now classed as a medium map.
+|}<br>
+{{MapNav}}
+[[Category:Maps]]
+[[Category:Medium Map]]
+[[fr:Bleasdale Farmhouse]]
+[[ru:Bleasdale Farmhouse]]

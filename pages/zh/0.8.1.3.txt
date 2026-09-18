@@ -1,0 +1,27 @@
+# 0.8.1.3
+# revid 2942  2023-04-02T18:27:09Z  by Qsefthuopq
+# sha256 fbd5ea707b27b1a1f49fb52e0ac349e1f83c146c4e9d47a8305d945888a27d5b  bytes 959
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+ | release_date=2023年3月14日
+ | previous_major_version=[[0.8.0]]
+ | previous_minor_version=[[0.8.1.2]]
+ | next_minor_version=
+ | next_major_version=[[0.9.0]]
+}}'''0.8.1.3'''是发布于2023年3月14日的小型热修复更新。<ref>[https://store.steampowered.com/news/app/739630/view/3666531626483831585 ''Tempest | Hotfix v0.8.1.3''. 14 March 2023 (on Steam).]</ref>
+
+== 改动 ==
+* 随机自定义难度现在同时随机诅咒之物
+
+== 修复漏洞 ==
+* 阿拉伯语玩家名现在能正常从右往左显示
+* 修复损坏的理智显示器上显示的unicode字符导致的内存溢出问题
+* 取下摄像机的三脚架不再会给雷魂加速
+* 速通挑战会给予所有7种诅咒之物，而不是6种
+* 优化数据统计界面的文本大小
+* 修复使用Vosk语言识别离开游戏导致的崩溃
+* 每周挑战现在会在周日重置，不再是周六
+
+== 参考资料 ==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

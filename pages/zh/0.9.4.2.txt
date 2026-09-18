@@ -1,0 +1,15 @@
+# 0.9.4.2
+# revid 3403  2024-02-16T07:13:24Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version   | release_date=2024年2月16日   | previous_major_version=[[0.9.0]]   | previous_minor_version=[[0.9.4.1]]   | next_minor_version= }} ==新增== * 为符合欧盟数字服务法案，添加了Unity游戏服务通知系统  ==参考资料== {{Reflist}}{{Versions}}”
+# sha256 757e423e40661472764cb21258d3f3bd5ddd2e9bcc23c0b7dcf456c394a1c607  bytes 284
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | release_date=2024年2月16日
+  | previous_major_version=[[0.9.0]]
+  | previous_minor_version=[[0.9.4.1]]
+  | next_minor_version=
+}}
+==新增==
+* 为符合欧盟数字服务法案，添加了Unity游戏服务通知系统
+
+==参考资料==
+{{Reflist}}{{Versions}}

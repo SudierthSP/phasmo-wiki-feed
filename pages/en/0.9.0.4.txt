@@ -1,0 +1,39 @@
+# 0.9.0.4
+# revid 18214  2024-06-19T01:30:37Z  by Justf0cus420
+# sha256 15826e9a2a7580641515b4892f6d6ea2c3e5440fe136a37c26f9ae70d19221c1  bytes 1702
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=21 August 2023
+  | previous_major_version=[[0.9.0]]
+  | previous_minor_version=[[0.9.0.3]]
+  | next_minor_version=[[0.9.0.5]]
+|next_major_version=[[0.10.0]]}}'''0.9.0.4''' is a minor patch released on 21 August 2023.<ref>[https://store.steampowered.com/news/app/739630/view/3655287211050521690?l=english ''Ascension | Hotfix v0.9.0.4''. 21 August 2023 (on Steam).]</ref> It fixes bugs, rebalances photo ranges for stars, and adds a pair of new inclusions. 
+==Additions==
+
+*A commemorative plaque has been added to the Lobby allowing you to see your Legacy Badge
+*Added new sounds for radios in houses and campsites
+
+==Changes==
+
+*3 star photos are now easier to get instead of 2 star
+*Increased the range for a 3 star ghost photo
+*Firelights 1 and 2’s light sources are now brighter than igniters
+
+==Fixes==
+
+*Moved the guitar in the blue room in Tanglewood so you can take EMF photos if the ghost uses it
+*UV light tier 1 and 3 will no longer roll forever when dropped
+*You can now take fingerprint photos on the Willow glass doors
+*Cursed item photos are now more reliable
+*Cursed item noises will now appear on the parabolic microphone
+*You will no longer lose your items when dropped into a salt line
+*CCTV monitor will no longer break when swapping between cameras on tier 1 tripods
+*You can now take a photo of a fingerprint, in the same location as a previous fingerprint, which already had its photo taken
+*Taking photos of dead bodies should now be easier
+*Lowered texture resolution of several textures to lower RAM usage
+*Video Cameras now work in multiplayer
+
+==References==
+{{Reflist}}{{Versions}}
+[[Category:Development]]
+[[fr:0.9.0.4]]
+[[ru:0.9.0.4]]

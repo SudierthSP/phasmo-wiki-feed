@@ -1,0 +1,111 @@
+# Poltergeist
+# revid 24435  2026-08-07T20:59:29Z  by Quietust
+# 备注: /* Identification */ ...so people don't assume that "prop" means "anything the ghost can interact with"
+# sha256 540178b5ca4cd25003d73191985e9feffd68d37e03014814c12a8c127d41367b  bytes 7823
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Poltergeist Discovered.jpg
+ |strength=*Sanity decrease stacks up during multithrow interactions
+ |abiliti(es)=*Can throw multiple objects at once
+*Can throw a single object farther than other types
+ |weakness(es)=*Ineffective in empty rooms with no throwables
+ |Evidence1=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]
+ |Evidence2=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
+ |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
+}}{{Quote
+ |quote=One of the most famous ghosts, the Poltergeist. Known to manipulate objects around it to spread fear into its victims.
+ |speaker=The Journal
+}}The '''Poltergeist''' is a type of [[ghost]] in ''Phasmophobia''. It is known for its constant disturbance of the environment around it, throwing items around with great force. 
+
+==Behaviour==
+===Activity===
+When interacting with a [[prop]], the Poltergeist has a 20% chance to throw it. If this chance fails or if the prop cannot be thrown, it will enter the [[Ghost Room|favourite room]] state. This means it is unable to ignite [[Fire Source|fire sources]], trigger the [[car]] alarm, teleport [[toy]]s, move [[mannequin]]s, etc.<ref group="note">The Poltergeist also cannot throw the [[Ghost Writing Book]] when the [[Ghost Writing]] evidence is hidden, though this is likely a bug.</ref>
+
+During a [[hunt]], the Poltergeist will always throw an item (if any nearby) every 0.5 seconds, instead of only having a 50% chance to do so.
+
+The Poltergeist's throwing power is of 2 - 6 horizontally and 3 - 6 vertically, while it is respectively of 1 - 3 and 1 - 5 for other ghosts.
+
+===Ability===
+The Poltergeist will occasionally use an ability that makes it throw all items within its [[interaction]] range at once, creating an [[EMF]] level 2 reading at the level of the ghost's head (the thrown items themselves generate EMF 3). This will decrease the [[sanity]] of all players in the same room as the ghost by 2% per item thrown. The Poltergeist can use this ability even while the lights in its current room are on, and even if there are no items nearby.
+
+<center><gallery>
+File:Poltergeist Throw 1.gif|Direct throw variant
+File:Poltergeist Throw 2.gif|Levitation then throw variant
+File:Poltergeist Throw 3.gif|Levitation then drop variant
+File:Poltergeist Throw 4.gif|Levitation then throw towards player variant
+</gallery></center>
+
+The levitation through this ability lasts between 1 - 3 seconds instead of 0.5 - 2 seconds with normal levitations.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]] [[Ghost Writing]]
+|[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
+|[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]] [[Ultraviolet]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: '''Poltergeists''' can throw multiple objects at once, and with great force.''
+
+''Weakness: With nothing to throw, '''Poltergeists''' become powerless.''
+
+==Strategies==
+===Identification===
+Since the Poltergeist can only interact with [[prop]]s by throwing them, witnessing the ghost knocking on a window, triggering a [[car]] alarm, lighting up a [[Fire Source|fire source]], producing [[Dirty Water|dirty water]], turning on a [[radio]], etc., directly eliminates the Poltergeist.
+
+Taking advantage of the Poltergeist's abilities, one can scatter multiple objects around in its room. If one object is seen being flung with force across the room, or multiple objects are thrown at once, then it is probably a Poltergeist. Note that there is some overlap of how hard regular ghosts can throw and how hard a Poltergeist can throw; this trait is harder to discern in small rooms.
+*It is generally better to build multiple small piles spread out rather than one large pile; if the Poltergeist is not near the pile, it will not affect the pile at all.
+
+It's important to be prudent when suspecting a Poltergeist, and not simply immediately guess it from inconclusive behavior; while it is generally active in regards to throwing items, the largely random nature of interactions can cause other ghosts to toss items frequently.
+*Remember to turn ''off'' the lights to increase activity if attempting to identify it from its normal item throws.
+*Conversely, turning on lights may help with noticing its ability, as a Poltergeist can use it to throw items even when lights are on, while other ghosts cannot throw items in lit rooms; noticing items getting thrown in lit rooms, especially multiple at once, is a strong indicator of a Poltergeist. With that being said however, certain factors may cause red herrings when observing for this phenomenon, especially if only one object is affected:
+**Due to the range-based mechanic of ghost interactions, ghosts are technically capable of throwing objects through walls. This means that any ghost in a dark room can throw an item in an adjacent lit room if it is within its interaction range. Players should consider this and verify the ghost's current location before jumping to conclusions.
+**Make sure that the affected object came from a lit room, and was not thrown in from a neighboring unlit room. This is particularly important in rooms with no clear physical boundaries, such as the exterior areas of [[Camp Woodwind]].
+
+The Poltergeist can also be identified during a hunt. By scattering multiple objects in the investigation area, one can witness the ghost's throwing strength and frequency. Witnessing a throw every 0.5 seconds may indicate a Poltergeist, and it will also throw items with a much stronger force, usually throwing items at high speeds across entire rooms or even between rooms; in Camp Woodwind for example, it is capable of throwing items near the entrance directly into the truck!
+
+==Trivia==
+*A poltergeist is a type of ghost known for causing physical disturbances, such as loud noises and objects being moved or destroyed. Although claims of supernaturally-caused disturbances date back to the 1st century, references to poltergeists specifically became more common in the early 1600s. The word ''poltergeist'' comes from the German language words ''poltern'' ("to make sound" and "to rumble") and ''Geist'' ("ghost" and "spirit"), and the term itself translates as "noisy ghost", "rumble-ghost" or a "loud spirit". A synonym coined by René Sudre is ''thorybism'', from Greek ''thorybein'' ("to make noise or uproar; throw into confusion").<ref>https://en.wikipedia.org/wiki/Poltergeist</ref>
+*The Poltergeist's ability can drain sanity from dead players, making them having less sanity than before their death if they get revived.
+
+==History==
+{| class="wikitable"
+|+
+! colspan="2" |Early Access Alpha
+|-
+!13 March 2020
+|Replaced Bug evidence with [[Ghost Orb|Ghost Particle]].
+|-
+!14 April 2020
+|Poltergeists now have a chance to throw objects with more force than other ghost types.
+|-
+! colspan="2" |Early Access
+|-
+![[0.3.0]]
+|Prior to 0.3.0, the evidence was [[Spirit Box]], [[Fingerprints]], and [[Ghost Orb]].
+|-
+![[0.5.2.0]]
+|Poltergeist’s ability will now reduce the sanity of all nearby players instead of just one player.
+|-
+!rowspan = "2"|[[0.7.0]]
+|The Oni's throw ability has been moved to the Poltergeist.
+|-
+|The Poltergeist now has an increased rate of interacting with objects during a hunt.
+|-
+![[0.9.4.0]]
+|Ghost writing books can no longer be thrown by a poltergeist ability
+|-
+![[0.18.0]]
+|Poltergeists can now only throw when interacting with props.
+|}
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{Ghost nav}}
+[[ru:Полтергейст]]
+[[fr:Poltergeist]]
+[[Category:Ghosts]]

@@ -1,0 +1,176 @@
+# Guides/Locating the ghost
+# revid 24661  2026-09-13T22:11:17Z  by Darkhooper
+# sha256 531ef18391967971031d3df50736e7dd3b32bb178e4ba327422400db4a9a059d  bytes 21402
+# 源: https://phasmophobia.fandom.com/api.phpThis [[Guides|guide]] will teach you how to '''locate the ghost''' in ''Phasmophobia''.
+
+Depending on the [[ghost]] type, the difficulty level as well as direct player activity determining where the ghost currently is on a map can be a tedious task, especially on larger maps. Identifying the ghost's location correctly can save a lot of time (and lives) while identifying its nature.
+
+Certain items can help players trap the ghost in its room and prevent it from initialising hunts for a period of time.
+
+==Location methods==
+Generally, the location of a ghost can be split into three categories:
+* [[Ghost room|Favourite room]]
+* Ghost's current room
+* Ghost's current location
+It is important to know the distinction between the ghost's '''favourite''' room (a.k.a. "ghost room") and its ''current'' room. The favourite room is a specific room in the map where the ghost teleports back to after every [[hunt]], as well as where [[Ghost Orb]]s will appear. On the other hand, the ghost's current room is where the ghost physically is, and does ''not'' have to be the favourite room.
+
+Generally, identifying both the favourite room and the ghost's current location will aid the investigation. The setting up of equipment will mostly be centred around the favourite room. Depending on the room size, you may need to watch out for the ghost moving favourite rooms (only on difficulties where this can occur, e.g. Professional, Nightmare, and Insanity), and place your equipment accordingly. This will mostly occur in small or tight rooms like bathrooms and hallways of houses.
+
+Some of these tips may be useful for the initial finding of the ghost, while some are better used later into the investigation.
+
+==By interactions==
+In most cases, ghosts can [[interaction|interact]] with items that are up to 2.12 metres away (4.24 metres on large maps) of its current position. The exceptions (relevant for this section) are:
+* All ghosts can turn on/off the [[fuse box]] remotely.
+* [[The Twins]] can interact with objects up to 8.48 metres away (16.97 metres on large maps) when it uses its ability, which may result in red herrings.
+* The [[Yurei]] can interact with a random opened door in its current room to close it (not necessarily within the interaction range) when it uses its [[sanity]] drain ability.
+
+Generally, interactions occur at a varying rate of approximately 1 - 3 per minute, which may depend on the ghost type. Interactions can help to pinpoint the ghost's current location, though not necessarily its current room (since ghosts can interact through walls) or favourite room.
+
+===Visual and audio clues===
+One way to identify interactions is to silently walk around and look carefully for sounds produced by the ghost or objects being out of place. For example:
+
+====Visual and audio====
+*Doors being unexpectedly opened or closed, or seen being moved without anyone nearby. The sound produced by a ghost when touching a door is distinct from the sound that players cause
+*A faucet (i.e. [[Dirty Water]]) or shower running
+*An item being thrown or hitting the floor/being out of place, like food utensils or paintings being on the floor
+*Car alarms, televisions, or computers being turned on
+*Light switches being turned on/off, or being unexpectedly turned on
+*Fans rumbling
+*A piano key being pressed
+*A rocking chair rocking
+*[[Sunny Meadows Mental Institution|Sunny Meadows]] - Crosses found hung on walls being turned upside down
+*Sunny Meadows - Metronomes being turned on
+*Sunny Meadows - Alarm clocks being turned on
+
+====Audio only====
+*Phones ringing
+*Radios (not player walkie-talkies) being turned on
+*[[Toy|Teddy bears]] giggling
+*Window knocks
+*Guitars being strummed
+
+====Visual only====
+*Mannequins being rotated or teleported; the location where the mannequin was teleported ''from'' is where the ghost was
+*Teddy bear head being turned
+*Teddy bear/bunny/ball being teleported
+
+===[[EMF Reader]]===
+Generally, most out-of-place objects will be obvious enough to identify, but some may be easier to miss. In this case, carrying an EMF reader will help to identify the exact object that was thrown recently. All interactions generate an [[EMF]] reading that lasts 20 seconds, so once you hear or see something, use the reader to identify which item it was.
+
+==Temperature==
+Using a [[thermometer]] can be useful in locating the ghost. Ghosts lower the [[temperature]] of the room that they are currently in to a certain point, regardless of whether they are inside or outside.
+
+===Temperature ranges===
+Ghosts cool down the room that they are currently occupying. When a room is at its '''coldest''', the temperature reading range on the thermometer will be as follows:
+* Ghosts with [[Freezing Temperatures]] as evidence: {{Temperature|-10|-10|0|3}}
+* Ghosts without Freezing Temperatures as evidence: {{Temperature|1|1|0|3}}
+
+At the start of the game, all rooms (including the ghost's current room) start at either the maximum possible temperature (if the [[fuse box]] starts on and the room is considered indoors), or at the [[weather]]'s ambient temperature.
+
+As thermometers only have a fluctuation upwards, reading a temperature below the starting temperature (either maximum or ambient depending on the factors above) means that the ghost has spent some time in that specific room. Turning the fuse box on will warm up indoors areas, which can help in distinguishing rooms where the ghost has been from rooms where it has not been.
+
+Temperatures slowly rise if the ghost is not present in a room. Do not assume that the ghost is still in a room just because it is cold, as it may take a few minutes after the ghost leaves a room for it to no longer be cold.
+
+Some maps have special mechanics to keep in mind:
+*Lighting the campfire on [[Camp Woodwind]] will warm up the Campfire room even if the ghost is in that room.
+*Turning on the fuse box on [[Nell's Diner]] will cool down the Cooler Room even if the ghost is not in that room.
+
+==Using [[Cursed possession|cursed possessions]]==
+;[[Haunted Mirror]]
+Using a haunted mirror will show the interior of the favourite room. The danger of using a haunted mirror is the rapid [[sanity]] drain, and once the user's sanity reaches zero, a [[Hunt#Cursed hunt|cursed hunt]] will be initiated. The haunted mirror is best used very early into the game, allowing players to setup equipment early.
+
+;[[Music Box]]
+Activating a music box will cause the ghost to sing along with the tune, and the ghost's singing will be louder the closer you are to it. Players can then listen closely for the direction where the singing is coming from. While its singing can only be heard if the music box is within 20 metres of it, the music box will otherwise function globally. Players should weigh finding the ghost against prematurely starting a hunt or capitalizing on the triggered ghost event, especially on smaller maps where ghost is more likely to be nearby.
+
+;[[Ouija Board]]
+If spawned, a Ouija Board can be used to ask questions about the ghost's location such:
+*"Where are you?"
+*"What is your room?"
+*"What is your favorite room?"
+
+The Ouija Board will always reply with the ghost's ''current'' room and ''not'' the favourite room, no matter how the question is phrased. The name of the room that it gives is sometimes obvious (e.g. "Kitchen", "Foyer") but other times, the name of an unfamiliar room can be only determined by placing [[Sound Sensor|sound sensors]] in each room and referring to the name listed on the [[Sound Monitor]]. As the ghost may have moved to a different room by the time the player figures out the answer and makes their way to the room, answers should only be interpreted as a general direction and not a pin-point indication.
+
+Note that location questions will deduct a whopping 50% sanity from the player who asked it. If the player does not have enough sanity to "pay" for the question, the Ouija Board will break and trigger a [[Hunt#Cursed hunt|cursed hunt]]. Therefore, it is recommended that the player asks early into the game when sanity is generally still high.
+
+;[[Voodoo Doll]]
+The voodoo doll can be used to force the ghost to perform an interaction, which can be found as described in the earlier section. Note that each pin inserted deducts 5% of sanity from the user, while pushing the heart pin (or having not enough sanity) will deduct 10% of their sanity ''and'' start a cursed hunt.
+
+;[[Tarot Cards]]
+Several cards may help to identify the ghost's current location or favourite room:
+*''The Tower'' tarot card will double the rate of ghost activity for the next 20 seconds.
+*''The Hermit'' will trap the ghost in its favourite room for 90 seconds, but will not prevent ghost events or hunts; if it hunts from a certain room within the specified duration, then that will be the favourite room. However, manifestation ghost events will still teleport the ghost, ignoring the card's effects.
+* If your risk tolerance is high, pulling a ''Death'' card can help to identify where the ghost was when it started its hunt.
+
+Most other possible cards are less useful in terms of finding where the ghost is, or even detrimental to the player, and hence usage of these cards should be carefully considered.
+
+*The ''The Devil'' card will trigger a [[ghost event]], however, it will do so by teleporting the ghost to the nearest player (for manifestation events). The location of the ghost event therefore does ''not'' necessarily indicate the favourite room or ghost's location.
+
+;[[Monkey Paw]]
+A few wishes from the Monkey Paw can be used to assist in locating the ghost, with an added complication for the specific wish used:
+*"I wish to trap the ghost" will lock the ghost in its favourite room, and prevent it from doing anything for 60.5 seconds. This is not very useful in singleplayer, as all doors in the room where the wish was called upon will also lock, trapping the wisher, but in multiplayer, the rest of the team can simply walk around and find whichever other room is locked down to find the ghost's location. Alternatively, if the map has a room that can be exited without going through a door, the wish can be used there in singleplayer without trapping the wisher. This should be done with a degree of haste, however, as after the end of this duration, the ghost will begin a hunt. The player calling on this wish should also have Incense handy in case they end up getting locked in ''with'' the ghost.
+*"I wish for activity" will double the rate of ''all'' ghost activity, including interactions, events, roaming, and abilities, for two minutes. However, the fuse box will permanently break, and exit doors will be locked for two minutes.
+*"I wish to be sane", past its effects on sanity, will force the ghost to change favourite rooms to a random one. While this is a hindrance in most cases, it can be useful on larger maps where the ghost is in a very distant room (such as the Kitchen and its side rooms in [[Sunny Meadows Mental Institution|Sunny Meadows]]) or an extremely large room (such as the Basketball Court in [[Brownstone High School]]) both of which can hinder investigations greatly, and forcing it to pick a new one is desirable, especially if sanity has dropped to the point where the ghost is chain-hunting and preventing further investigation.
+
+==Other equipment and evidences==
+;[[Ghost Orb]]
+The live video feed on a [[Video Camera|video camera]] allows a player to find ghost orbs on the spot by carrying a video camera and watching the video feed. If a ghost orb appears inside a room, that room is guaranteed to be the favourite room. Ghost orbs are generated when all players have loaded in, making it also possible to view them with a [[Video Feed|CCTV camera]] on larger maps even before any exit doors have been unlocked, if the camera happens to have a view of the favourite room.
+
+On [[Difficulty|difficulties]] where the favourite room can change, periodically verifying the location of ghost orbs helps players to determine whether the favourite room has changed, signalling the time to move equipment. Note that Ghost Orbs is not always one of the ghost's evidences (or is hidden as an evidence), so be careful not to assume that the ghost is not in a particular room if there are no ghost orbs.
+
+;[[Parabolic Microphone]]
+Using a parabolic microphone (also known as a paramic) may help to narrow down the ghost's location. It has a detection range of 20 or 30 metres forward (depending on its tier), and can detect any sound caused by the ghost, including footsteps, whispers, and interactions with the environment. Keep in mind that the paramic also reads sounds that could be caused by a player, such as doors being closed or objects being thrown. Spirit box static, and ambient sounds on a few maps, will also be read by the paramic.
+
+==After finding the ghost (room)==
+;[[Motion Sensor]]
+Motion sensors can be used to track the ghost's movement, which can be useful to look for roaming patterns that can help setting up equipment more efficiently or locate the ghost's current position. Be aware of other players (including dead ones) that will also trigger motion sensors.
+
+;[[Incense]]
+The "Cleanse the area near the ghost with Incense" objective completes when the incense's effect applies within 3 to 5 metres of a ghost (depending on its tier). After the ghost has already been located, this may be useful in verifying that the ghost is still nearby, and for a Yurei, will also help to limit its movement to its favourite room in the 90 seconds following the cleansing. If this objective does not complete after using the incense, it may mean that the ghost is not near enough, and has moved away to another location (though this may still be within the room).
+
+;[[Sound Sensor]]
+As sound sensors are limited by range, one can use them to see if the ghost is still in its room. Like the parabolic microphone, sound sensors can detect sounds through walls within its coverage area and provide feedback to the truck of the sum of all sounds detected, allowing players to monitor activity from the safety of the truck and verify its location. Sound sensors are used most efficiently by covering the favourite room and its immediate area. Note that just like the parabolic microphone, sound sensors can also pick up some player-made sounds.
+
+;[[Spirit Box]]
+If the ghost has Spirit Box as one of its evidence, you can use this to identify its general location. The ghost will only respond through the spirit box if the player asking questions is in the same room as it and within a certain range. Thus, the spirit box can help to identify the ghost's current room and its approximate location.
+
+Although the spirit box can identify both the ghost's current room and its approximate location, using the spirit box and continuously walking from room to room may be a noisy and tiring task. Hence, the spirit box is generally used only after the room has already been found and its evidence has been confirmed.
+
+==Other tips==
+===Preserving sanity===
+Often, it is ideal to preserve the overall team sanity so that there is enough time to collect evidence before the ghost hunts, if needed. This happens by preventing ''passive'' sanity drain:
+*On suburban house maps, the simplest way is to turn on lights in frequented areas and in rooms that you are currently standing in (unless you are looking for certain evidence like Ghost Orbs and Spirit Box). The downside to this (before the ghost has been found) is that ghosts that are currently in lit rooms cannot throw items (EMF 3), though they can still perform interactions that cause EMF 2. In addition, this is less helpful or downright useless in most other maps, since light sources are generally too "dim" to slow sanity drain on average.
+*On larger maps or in general, another way is to continuously hold a lit [[firelight]], and an [[igniter]] offhand if needed; this will slow the passive sanity drain down, and will theoretically grant a longer time to find the ghost. However, this will limit one's ability to carry other items; balance this against evidence collection and objective completion. A decent compromise is to set lit firelights in the ghost room and along the path that the player needs to take to get to the ghost room, but this in turn can cause their fuel to burn out rapidly (if the player does not have tier III firelights) without fully utilizing their sanity drain reduction, and leave the player with no firelights when they need the effect later on.
+
+===Hunts===
+When a hunt ends, the ghost will be teleported to the favourite room. If interactions occur in a certain room shortly after a hunt ends, then that may be the favourite room (or nearby), especially if it is "chain-hunting" and hence returning to its favourite room more often.
+
+You may also pay attention to the ghost's starting point to narrow down the favourite room; the location where a hunt begins is usually in/near the favourite room, as hunts always start from the ghost's current location, except for [[The Twins]]. Keep in mind that the [[Wraith]], the [[Banshee]], and the [[Phantom]] have special movement abilities which may lead to hunts starting far away from the favourite room. If the player has a particularly high risk tolerance and/or confidence in their skills, simply triggering a cursed hunt can be a fair method of locating the ghost.
+
+===Hunt interactions===
+During a hunt, ghosts will throw items at fairly frequent intervals, as well as interact with doors along the way. If you find an abnormal number of doors open (especially with the 'Doors starting open' [[difficulty]] option set to None) or items thrown on the floor, then the ghost is likely to have walked through the area while hunting. Note that ghosts can choose not to open doors or throw items, or there were simply no props near the ghost for it to do so.
+
+===Increasing the chance of being given a clue===
+Saying recognised phrases such as "give us a sign" has a chance of causing the ghost to perform an interaction, though the player must be in the same room as the ghost, and there is a 10 second cooldown on this chance being triggered. This means that walking around repeatedly saying trigger phrases may be more detrimental as opposed to listening carefully for any interactions the ghost performs naturally. Simply talking near a [[Yokai]] will also increase its activity and its hunt sanity threshold. Note that no phrase can "force" the ghost to perform particular types of interactions.
+
+===Avoiding red herrings or errors===
+In any difficulty, the ghost is just as likely to wander around and cause disturbance outside the favourite room. In Professional, Nightmare, and Insanity difficulties, the favourite room itself may change. In either case, other than when detecting Ghost Orbs, placing and using equipment in both the suspected favourite room and surrounding areas where the ghost may wander will help to reduce hassle in moving equipment between rooms.
+
+===Dead players===
+If a player died before the ghost could be found, they may produce various red herrings from beyond the grave, whether it be of malicious intent or purely accidental. Dead players will trigger motion sensors just like the ghost, which may significantly misdirect or confuse remaining players of the whereabouts of the ghost, though a motion sensor getting frequently triggered is usually a sign of a dead player. Additionally, dead players often have the habit of throwing/moving the props around the map to pass time, which can sometimes be mistaken for ghost [[interaction]]s.
+
+Noticing regular items being dropped or piled, or thrown directly at alive players in a humorous manner is the sign of a dead player interacting and not a ghost. Moreover, objects being displaced by dead players will never emit noise or give out EMF readings.
+
+===Sounds===
+Some maps have "ambient" sounds that play randomly at random locations. These ambient sounds are not produced by the ghost, although they may initially be confused for ghost sounds. Examples include: the little "cling" sounds that are often heard in Prison, branches cracking in Maple Lodge Campsite, the distant screams heard on [[Sunny Meadows Mental Institution]], and the creaking and settling of floors on most house maps. These are produced randomly by the map itself, and the ghost does not create them and do not help in locating it. In contrast, the sound of a cell door opening or closing is ''not'' an ambient sound and can ''only'' be caused by either the ghost or a player opening or closing a cell door.
+
+During bad weather (e.g. heavy rain), one may mistake ambient sounds for ghost activities such as window knocks; use an EMF reader to verify whether the ghost actually knocked a window.
+
+===[[The Mimic]]===
+The Mimic can copy ''any'' ghost type, including the Twins. While being that type, it can mislead and confuse players even further, letting them to believe that the favourite room was not identified correctly. Always be on the lookout for orbs; having a video camera in the general area of manifestations is crucial for knowing both what type of ghost it is and where it(s favourite room) currently is.
+
+==See also==
+*[[Guides/Identifying ghosts|Identifying ghosts]]
+
+[[ru:Руководства/Определение места обитания призрака]]
+[[Category:Guides]]
+[[fr:Guides/Localiser l'entité]]

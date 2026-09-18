@@ -1,0 +1,102 @@
+# Fuse Box
+# revid 24259  2026-07-24T04:37:13Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 90e297fe42dd16142da82106771b4edb219c5345626eb6028b2796f20e2ef138  bytes 5110
+# 源: https://phasmophobia.fandom.com/api.php{{Item Template
+|img=Fusebox 0.7 small.png
+|imgcaption=A fuse box in the garage of [[42 Edgefield Road]].
+}}The '''fuse box''', '''breaker''', or '''generator''' is found on [[map]]s and may be turned on or off to power the lights. Ghosts can also [[interaction|interact]] with the fuse box.
+
+==Mechanics==
+Each map will always have one fuse box that will spawn in one of multiple rooms. The location of the fuse box is indicated on the [[Site Map]], except on Nightmare and Insanity [[difficulty|difficulties]] where it is not indicated. The fuse box model differs depending on the type of map.
+
+At the beginning of the game, the fuse box is turned on by default in Amateur difficulty and turned off by default in all other [[Difficulty|difficulties]]. This can additionally be changed to Broken by using the 'Fuse box at start of contract' setting for [[Difficulty/Custom|Custom difficulties]], where sparks will fly out of the fuse box, and it cannot be toggled on. Using the [[Monkey Paw]]'s 'activity' wish will also break the fuse box.
+
+The player can turn on and off the fuse box by:
+*Opening the cover, then clicking the small switch (Small houses & Farmhouses)
+*Clicking on the red box ([[Prison]] and [[Brownstone High School]])
+*Clicking on the generator (Campsites)
+*Clicking on the lever ([[Sunny Meadows Mental Institution]])
+
+The fuse box affects the following electrical equipment:
+*All light switches/sources (including lamps and lanterns)
+*Televisions
+*Computers
+*(Other environmental details or lighting)
+
+A direct interaction with the fuse box, whether it be by the ghost or a player, does not change the state of any electrical equipment (light switches will remain in their on/off state).
+
+The fuse box can support a maximum number of lights, depending on map size:
+*Small maps: 9
+*Medium maps: 8
+*Large maps: 7
+This refers to the number of light sources that can be turned on, regardless of their type and their number of bulbs. If the number of light sources turned on is greater than the map's limit, the fuse box will instantly turn off, and all lights will be reset to the off position.
+
+[[Temperature]] is affected by the fuse box's state. When it is on, the temperature within indoor areas will slowly rise to {{Temperature|20}}. When it is off, the temperature will slowly drop to the ambient temperature, which depends on the [[weather]]. Outdoor temperatures are not affected.
+
+===Ghost interactions===
+The ghost has a chance of interacting with the fuse box remotely through the [[Ability|ability state]], which will generate an [[EMF]] Level 2 reading at the fuse box, with a 33% chance for this to be [[EMF Level 5]] for ghosts with this evidence. The interaction will turn off the fuse box if it was on, and has a 20% chance to succeed in turning it on if it was off.
+
+Where applicable, ghosts can also interact with the fuse box's door. The ghost must be nearby for this to happen.
+
+Some ghosts have special interactions or abilities concerning the fuse box:
+*The [[Jinn]] will never turn off the fuse box directly (but it can still trip). If the fuse box is on, the Jinn can:
+**Chase players in line-of-sight further than 3 metres at a fixed speed of 2.5 m/s
+**Occasionally use a special ability to drain the sanity of a nearby player by 25%
+*The [[Hantu]] cannot turn on the fuse box and has a doubled chance of turning it off.
+**If it is hunting while the fuse box is off or broken, it will emit freezing breath near its ghost model's head.
+
+===Related custom difficulty options===
+*'''Fuse box at start of contract:''' Broken/Off/On
+*'''Fuse box visible on map:''' Off/On (option only shows if 'Fuse box at start of contract' is not set to Broken)
+
+==Gallery==
+<gallery orientation="Square">
+Maple_generator_on_0.4.0.png|The generator for Maple Lodge Campsite.
+Fusebox legacy.png|A fuse box in Brownstone High School.
+Fusebox sunnymeadows.png|The fuse box for Sunny Meadows.
+</gallery>
+
+==Trivia==
+*The limit on the number of lights was added mainly to prevent low framerates, rather than hindering the player's investigation.<ref>[https://discord.com/channels/435431947963990026/661365069006897154/667862190275166238 ''Phasmophobia'' changelog on Discord]</ref>
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!30 January 2020
+|Halved the chance of ghosts turning off the fuse box.
+|-
+!12 March 2020
+|Increased the chance of ghosts turning off the fuse box.
+|-
+!20 March 2020
+|Moved the Asylum's fuse box to near the top floor middle elevator.
+|-
+!27 May 2020
+|The fuse box is now displayed on the Site Map.
+|-
+!27 June 2020
+|The fuse box now has a random spawn location.
+|-
+!30 June 2020
+|Decreased the chance of ghosts turning off the fuse box.
+|-
+! colspan="2" |Early Access
+|-
+![[0.4.0]]
+|The fuse box now has two separate lights to indicate its power state.
+|-
+![[0.7.0]]
+|Added two new fuse box models for small maps and Sunny Meadows.
+|-
+![[0.8.0]]
+|The fuse box no longer affects radios.
+|}
+
+==References==
+{{reflist}}
+{{MapFeatureNav}}
+[[ru:Источник электропитания]]
+[[Category:Map Features]]
+[[fr:Disjoncteur]]

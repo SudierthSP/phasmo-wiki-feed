@@ -1,0 +1,17 @@
+# 0.12.1.2
+# revid 3744  2025-05-11T16:34:33Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version|release_date=2025.5.9|previous_major_version=[[0.12.0.1]]|previous_minor_version=[[0.12.1.1]]|next_minor_version=|next_major_version=}}'''0.12.1.2'''是发表于2025.5.9的小型热修复更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-hotfix-v01212 ''Phasmophobia Hotfix v0.12.1.2''. 9 May 2025.]</ref>本次更新主要修复诅咒山谷活动的一些问题。  == 修复漏洞 ==  * 修复活动结束后玩家陈列柜中的诅…”
+# sha256 381779ed9267c3f4941a413be02211c4b29cc0a2f4bbe5773cc3db262a654d1a  bytes 932
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version|release_date=2025.5.9|previous_major_version=[[0.12.0.1]]|previous_minor_version=[[0.12.1.1]]|next_minor_version=|next_major_version=}}'''0.12.1.2'''是发表于2025.5.9的小型热修复更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-hotfix-v01212 ''Phasmophobia Hotfix v0.12.1.2''. 9 May 2025.]</ref>本次更新主要修复诅咒山谷活动的一些问题。
+
+== 修复漏洞 ==
+
+* 修复活动结束后玩家陈列柜中的诅咒山谷奖杯显示异常的问题。
+* 修复诅咒山谷三级奖杯动画效果显示错误的问题。
+* 修复部分诅咒山谷装饰物异常出现在[[林风营地]]的问题。
+* 修复林风营地地图中部分树木渲染异常的视觉问题。
+* 修复[[坦格活德街房屋]]和[[希望角灯塔]]地图中反射效果异常的问题。
+* 修复主菜单界面异常反射在奖杯陈列柜中的问题。
+
+== 参考资料 ==
+{{Reflist}}{{Versions}}

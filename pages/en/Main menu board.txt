@@ -1,0 +1,50 @@
+# Main menu board
+# revid 24011  2026-06-28T21:45:53Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 75d110505ca4ac6818f97b8c2c2e04ea1f765e8ef01d15657d578011e226cfcc  bytes 2476
+# 源: https://phasmophobia.fandom.com/api.php[[File:MainMenuBoard.png|300px|right]]
+The '''main menu board''' allows the player to select different game modes (singleplayer/multiplayer lobbies or [[training]]), access [[options]] and view credits. It also shows the given player's [[ID Card]] as well as available [[Daily and Weekly Tasks]].
+
+In the bottom left corner of the board, the player's Unity ID is shown.
+
+===Loading screen tips===
+<!--This whole section should be moved to "Guides/Loading screen tips" or something, it has 0 connection to the main menu board-->
+While loading into the map, the loading screen displays a random tip about gameplay:
+{| class="fandom-table" 
+!Tip
+!Remarks
+|-
+|Be careful of the dark, the Ghost can sense you 
+|The ghost's vision remains the same throughout the game. However, the player's vision is reduced to 1 meter if there is no source of light. This tip most likely encourages players to never take advantage of darkness (particularly during [[hunt]]s).
+|-
+|Don't stay in the dark too long
+| rowspan="2" |Staying in any unlit area drains [[sanity]], even if the player has its own source of light. The only exception to this are [[candle]]s. The lower the sanity, the more likely a ghost is to manifest itself or start hunting.
+|-
+|Keep your sanity high by staying in the light 
+|-
+|Ghosts have been known to stalk their victims in the dark
+| rowspan="2" |Light does not affect general ghost behaviour other than their likeliness to perform [[interaction]]s. Some ghosts do have a special ability that allows them to "stalk" the player but the lighting does not affect this.
+|-
+|Ghosts have been known to target those who stay in the light too long
+|-
+|Listen for distant sounds
+|
+|-
+|Read your Journal by pressing [J] for more information
+|
+|-
+|Running isn't always the best option
+| Some ghosts move faster than the player can run even without any customizeable buffs; for example, it is impossible to outrun a [[Moroi]] at its maximum speed.
+|-
+|Use the truck screens to help locate the ghost 
+|
+|-
+|Use your equipment to locate the ghost and find evidence
+|
+|-
+|Watch what you are saying, the Ghosts are listening 
+|Ghosts can detect players talking if their voice chat is active, while the [[Yokai]] has a higher hunt sanity threshold if players are talking near it. In addition, saying recognised phrases near all ghosts has a chance of causing them to perform an [[interaction]].
+|}
+[[Category:Gameplay]]
+[[fr:Tableau du menu principal]]
+[[ru:Главное меню]]

@@ -1,0 +1,100 @@
+# 0.4.1.0
+# revid 23937  2026-06-28T21:39:43Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 07f01b693a99ff5c9226ce8176bc4c022dbe02200ba56eb7578abb9e34604f3a  bytes 4758
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=2 November 2021
+ | previous_major_version=[[0.4.0]]
+ | next_minor_version=[[0.4.1.1]]
+ | next_major_version=[[0.5.0]]
+}}The '''0.4.1.0''' update is a minor update released on 2 November 2021. It adds several functionality changes to the Ouija Board, and fixes bugs.<ref>https://store.steampowered.com/news/app/739630/view/3060752450167367025</ref> A same-version hotfix was later released to fix an issue with the Ouija Board.<ref>https://store.steampowered.com/news/app/739630/view/3060752450187174449</ref>
+
+== Additions ==
+
+=== Gameplay ===
+*More photos have been added
+*Ghosts changing preferred room is now tied to sanity
+
+;[[Weather]]
+*New visuals for Heavy Rain
+
+== Changes ==
+
+=== Equipment ===
+;[[Ouija Board]]
+*An Ouija Board spawn is now guaranteed on Nightmare difficulty
+*You can now ask the Ouija board what your sanity is in different ways
+**Combining these responses can give you a very good idea of your sanity
+**Asking about your sanity will only drain your sanity a very small amount
+*Less useful Ouija Board questions now drain your sanity much less
+*Some Ouija Board spawn points have been moved to avoid clipping with hiding place blockers
+
+=== Evidences ===
+*Fingerprints now have 100% chance to spawn instead of 75%
+*Fingerprints now last 2 minutes before fading out
+
+=== Gameplay ===
+*Ghosts now have a maximum range for changing preferred rooms
+*The amount of hiding blockers has been adjusted in all locations and difficulties
+*Fog colour, Night vision, and Ghost Orbs have been adjusted to help gameplay visibility during foggy weather
+*Optimised all weather conditions for better performance
+*Increased interaction rate for ghosts on Nightmare difficulty to match Professional difficulty
+*The clock ticking and white noise sounds now loop seamlessly
+*Ghost events will no longer stop if you leave the room or get too far away from the ghost
+
+=== Ghosts ===
+;[[Goryo]]
+*Will now always give DOTS evidence on [[Difficulty#Nightmare|Nightmare]] difficulty
+
+;[[Obake]]
+*Will now always give Fingerprints evidence on Nightmare difficulty
+*Strength has been adjusted to accommodate the fingerprints changes
+
+;General
+*Ghosts now have a much lower chance to change preferred rooms on Professional and Nightmare
+*Lowered the chance for ghosts to wander long distances
+
+=== Maps ===
+;[[Maple Lodge Campsite]]
+*New shortcut from the entrance area to the campfire area
+*Fingerprints can now be left on small tents, picnic benches, cooler boxes, wooden posts and log seating in Maple Lodge Campsite
+*Camping lights, fairy lights and the campfire light have been adjusted to stop sanity drain like other lights
+*Optimised trees and other foliage for better performance
+*In VR, you will no longer grab the tent door when attempting to grab a nearby prop
+
+;[[Prison]]
+*Weather can now come through the grated ceilings in the cell blocks
+
+== Bug fixes ==
+=== From versions released before 0.4.1.0 ===
+*Fixed several issues with tent collision
+*Fixed several safe spots on Maple Lodge Campsite
+*Fixed several spots where the player could get stuck on Maple Lodge Campsite
+*Fixed a safe spot under the bed in the nursery on Edgefield Street House
+*Fixed a bug where the Raiju's weakness wasn't working correctly
+*Fixed a bug where you could teleport into the Tanglewood house through the yellow barricades
+*Fixed a bug where placing a sound sensor on the floor wouldn't show it on the map
+*Fixed a bug where placing a sound sensor on the floor wouldn't allow it to function correctly
+*Fixed a bug where dropping the candle could initiate a hunt from an Onryo
+*Fixed a bug where the ghost would be completely invisible instead of only casting shadows
+*Fixed a bug where other players microphone volume would reset when returning to the lobby
+*Fixed a bug where certain light switches wouldn't give fingerprints photo evidence
+*Fixed a bug where several showers weren't interactable
+*Fixed a bug where some showers had two shower heads
+*Fixed a bug where several bones wouldn't give bone photo evidence
+*Fixed a bug where asking the Ouija Board multiple questions would make answers overlap
+*Fixed a bug when dropping the Ouija Board in VR would stop it falling to the ground
+*Fixed a bug where hiding spots could still be blocked on Amateur
+*Fixed a bug where lights wouldn't reset their brightness after flickering
+*Fixed a bug where players could talk on the walkie-talkie when near a hunting ghost
+*Fixed a bug where ghosts could change preferred rooms to one on the opposite side of the location
+
+=== From 0.4.1.0 (as fixed in hotfix) ===
+*Fixed a bug where your sanity would drop to 0 when using the Ouija Board
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.4.1.0]]
+[[ru:0.4.1.0]]

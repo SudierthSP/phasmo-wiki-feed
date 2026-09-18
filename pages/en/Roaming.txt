@@ -1,0 +1,46 @@
+# Roaming
+# revid 24660  2026-09-13T22:09:14Z  by Darkhooper
+# 备注: trap wish traps for 60.5 seconds
+# sha256 5a5e893cdabb5739a32417996ed4c25d193c12e9d8e6be54e4fd485265b4716a  bytes 2502
+# 源: https://phasmophobia.fandom.com/api.phpThe '''roaming''' is a core mechanic in ''Phasmophobia''. It is one of the states the [[ghost]] can choose to make the investigation harder by being more unpredictable. In this state, it essentially moves to another spot within the [[map]].
+
+==Mechanics==
+When the ghost enters a roaming state, it will first have a 1/3 chance (2/3 chance for [[Goryo]]) to enter a [[D.O.T.S. Projector (Evidence)|D.O.T.S state]] instead of the actual roaming state if it has D.O.T.S. Projector as evidence. If it does enter the actual roaming state, it will choose to either perform a short or a long roam. The chance of each is based on the "Roaming frequency" difficulty setting:
+{| class="fandom-table"
+!Roaming frequency
+!Chance for short roam
+!Chance for long roam
+|-
+|Low
+|91%
+|9%
+|-
+|Medium
+|81%
+|19%
+|-
+|High
+|71%
+|29%
+|}
+<br>After having chosen which type of roam it will perform, the ghost will pick a random waypoint within a spherical area. That sphere has a radius of 3 metres for short roams, and a random radius between 5 and 11 metres for long roams.
+
+The ghost then checks the pathing distance to that waypoint and the roam will succeed only if the pathing distance is less or equal than 150% of the direct distance, else it will pick another waypoint and retry.<ref>[https://clips.twitch.tv/InventivePlausibleGiraffeTakeNRG-BwqV8FU99njdrNUY ''How ghosts roam.'' Clipped from cjdxn (on Twitch). 10 July 2022.]</ref>
+
+The short roam will also fail if the waypoint is located on another floor unless the ghost's current room allows it to roam to another floor (e.g. single-room basement/attic, some rooms on [[Point Hope]], Cabin Bedroom on [[Maple Lodge Campsite]]). The long roam will also fail if the ghost is not in its [[Ghost Room|favourite room]]. Both types of roam will fail if the waypoint is located two or more floors away from the favourite room.
+
+===Cursed possessions===
+When "The Hermit" [[Tarot Cards|tarot card]] is drawn or when the [[Monkey Paw]]'s "I wish to trap the ghost" wish is used, every roaming state will be replaced by a [[Ghost Room|favourite room]] state for 90 seconds and 60.5 seconds, respectively.
+
+==Tips==
+*When [[sanity]] is high, ghosts are more likely to enter the roaming state as they are less likely to perform [[interaction]]s, [[Ghost Event|ghost events]], or abilities, and vice versa.
+
+==Related difficulty settings==
+*'''Roaming frequency:''' Low/Medium/High
+
+==References==
+{{Reflist}}
+
+[[ru:Блуждание]]
+[[Category:Ghost State]]
+[[fr:Errance]]

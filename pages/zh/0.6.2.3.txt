@@ -1,0 +1,31 @@
+# 0.6.2.3
+# revid 3757  2025-06-22T06:13:13Z  by SABRECAR
+# sha256 c0624b14a947f6d94657163a10bbf18159c59bf0c4dc478cd91ae73a5e156280  bytes 1190
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | release_date=2022年7月11日
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.2.2]]
+  | next_major_version=[[0.7.0]]
+  | next_minor_version=[[0.6.3.0]]
+}}'''0.6.2.3''' 本次小规模更新于2022年7月11日发布<ref>[https://store.steampowered.com/news/app/739630/view/3334369135256365302 Truck Overhaul | Hotfix v0.6.2.3 (on Steam)]</ref> 主要调整了圣木机制并修复多项漏洞.
+
+== 改动 ==
+*圣木机制调整：其他玩家不再能点燃你手持的圣木
+
+== 修复漏洞 ==
+* 非房主玩家拍摄[[幻影]]照片时，幻影将正确消失
+* 修复快速移动的[[鬼魂]]在狩猎时脚步声中断的问题
+* VR玩家现在可听到卡车脚步声
+* VR玩家在未连接服务器时可正常抓取物体
+* 统一所有通灵盒的音效类型
+* 修复鬼魂在某些地面行走没有脚步声的问题
+* 优化鬼魂检测门后玩家的逻辑
+* 鬼魂不再会连续多次远距离游荡
+* 修正枫林营地监控电脑的数值显示
+* [[温度计]]现在可正确显示篝火温度
+* 其他玩家点燃篝火时将同步提升所有玩家的室内温度
+
+==参考资料==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

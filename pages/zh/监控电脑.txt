@@ -1,0 +1,17 @@
+# 监控电脑
+# revid 2681  2022-12-31T08:12:45Z  by Skaijie
+# sha256 fe7ee4940cffcf91449f369fc3062655e26fe244742d2ef09426092615f2d342  bytes 677
+# 源: https://phasmophobia.fandom.com/zh/api.php[[File:ComputerCamera.png|right|frameless|299x299px|链接=Special:FilePath/ComputerCamera.png]]
+电脑是货车上的一件装备。它可以检测灵球和点阵投影仪。
+
+电脑可查看地图上所有摄像头，包括[[摄像机]]、[[头戴式摄像机]]和地图自带的[[摄像系统]]。左击鼠标切换摄像头，左击键盘切换夜视。光源会影响夜视效果，包括手电筒、天花灯和蜡烛。
+
+==逸闻轶事==
+
+*在 0.29.0 版本之前，电脑的键盘少了个"H"按键。<ref>[[:File:ComputerCamera.png|File:ComputerCamera.png]]</ref>
+
+==参阅==
+{{Reflist}}
+{{EquipmentNav}}
+[[Category:货车装备]]
+{{DEFAULTSORT:Surveillance Computer}}

@@ -1,0 +1,23 @@
+# 0.11.0.3
+# revid 4061  2025-12-26T09:42:16Z  by CangMingSW
+# sha256 65041ce0fcc7df63fceba97b572956d7f3dec0503759a7a4259686f1c6e6f478  bytes 776
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+ | release_date=2024年11月21日
+ | previous_major_version=[[0.11.0]]
+ | previous_minor_version=[[0.11.0.2]]
+ | next_minor_version=
+ | next_major_version=
+}}'''0.11.0.3'''是发布于2024年11月21日的小型热更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-v01103 ''Phasmophobia Hotfix v011.0.3''. 21 November 2024.]</ref>
+==改动==
+*增加使用PlayStation VR2时的所有纹理分辨率，让游戏体验更加丝滑。
+==修复==
+;Xbox Series
+*修复遇到“Bad Username”消息阻止玩家加入多人联机的问题。
+;Xbox Series/PlayStation
+*修复在[[希望角灯塔]]游玩时导致游戏崩溃的问题。
+;全平台
+*优化在[[希望角灯塔]]的内存占用
+==参考资料==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

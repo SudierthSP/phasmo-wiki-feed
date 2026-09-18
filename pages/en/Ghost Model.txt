@@ -1,0 +1,79 @@
+# Ghost Model
+# revid 24260  2026-07-24T04:37:22Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 55b753b9858d0fc517a801b8158a38f08701e31eca48487b754c4c29d3057667  bytes 3696
+# 源: https://phasmophobia.fandom.com/api.phpGhost model is the appearance of a [[ghost]]. There are currently seven male and four female ghost models in ''Phasmophobia'', totalling 11 different ghost models. Each model can also appear as a shadowy or translucent version of itself during [[ghost event]]s.
+
+While no singular ghost model is tied to a type of ghost, the [[Banshee]] and the [[Dayan]] are always female and can only use female ghost models, allowing players to rule them out if the ghost appears with a male model.
+
+The model of the ghost may conflict with information gathered from the [[Spirit Box]] and [[Ouija Board]]; ghosts labeled as "old" may have one of the models that one would equate to a child, for example.
+
+==Male models==
+<gallery mode="packed">
+File:2.png
+File:Ghost Male Greybeard.png
+File:4.png
+File:3.png
+File:Ghost Male Nerd.png
+File:Ghost Male Sofia.png
+File:Ghost Male Butcher.png
+</gallery>
+
+==Female models==
+<gallery mode="packed">
+File:Ghost Argyro.png
+File:Ghost CreepyGirl.png
+File:Ghost OldCrone.png
+File:Ghost RingGirlUPDATED.png|This ghost model is semi-officially called Patient 07.
+</gallery>
+
+==Postures==
+The child and "Patient 07" models have multiple postures that they can switch into during a [[contract]]. In addition to the standing posture, both of these models can be crawling, and bent over backwards for the "Patient 07" model.
+<gallery mode="packed">
+File:Crawling.png|Child model crawling
+File:Crawling Girl.png|Patient 07 model crawling
+File:Bent Over Backwards.png|Patient 07 model being bent over backwards
+</gallery>
+
+==Themed event models==
+{{See also|Special events}}
+For Christmas 2021, one of the ghost models was given a temporary Santa Claus garb, accompanied by ringing bells as footstep sounds. During Christmas 2022, the ghost would also transform into this model after eating the cookies.
+
+For Halloween 2022, various ghost models wore a jack-o-lantern on their head.
+
+On April Fools' 2023, all ghosts had a bigger head.
+
+For Christmas 2023, the ghost would transform into a snowman after all dancing snowmen of the map were destroyed. Its footsteps were accompanied by ringing bells.
+
+For Easter 2024, the ghost on [[Camp Woodwind]] would become a Forest Spirit after all five of its minions are photographed. The Forest Spirit came back for Easter 2025 and would appear on maps featuring the ''Cursed Hollow'' event.
+
+For the ''Winter's Jest'' event, ghosts on specific maps used a special Krampus model. This model is considered male.
+
+During the Phasmophobia by Alan Wake event, the ghost had a cultist model, wearing a raincoat and a deer mask.
+
+<gallery mode="packed">
+File:Santa Ghost.png|The Santa Claus ghost
+File:Big head small head.jpg|A ghost with a big head
+File:Snowman Ghost.png|The Snowman ghost
+File:Forest Spirit.png|The Forest Spirit ghost
+File:Krampus Ghost.png|The Krampus ghost
+File:Cultist Ghost.png|The Cultist ghost
+</gallery>
+
+==Trivia==
+*Some models are from the Unity Asset Store, more specifically [https://assetstore.unity.com/packages/3d/characters/zombie-collection-166488 this pack], with each of them having a dedicated name also being used in the game files.
+*A Patient 07 plushie was [https://www.makeship.com/products/patient-07-plushie available as official merchandise] for a limited time, until 31 October 2024 (UK time).
+*A Forest Spirit figure was [https://youtooz.com/products/forest-spirit available as official merchandise] for a limited time, until 5 May 2026 (UK time).
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+!rowspan="2" |[[0.6.0]]
+|Updated Patient 07's model.
+|-
+|Added more animations for Patient 07.
+|}
+[[ru:Модель призрака]]
+[[Category:Ghosts]]
+[[fr:Modèle d'entité]]

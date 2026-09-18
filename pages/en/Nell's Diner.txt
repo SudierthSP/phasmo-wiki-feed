@@ -1,0 +1,112 @@
+# Nell's Diner
+# revid 24642  2026-09-12T17:17:35Z  by Darkhooper
+# sha256 ccd5adaf00c004c80ce2767c7a02a1e526718bd3d109dd67731ed78caf6cf229  bytes 4857
+# 源: https://phasmophobia.fandom.com/api.php{{Location
+|img=Nell's Diner.png
+|imgcaption=The front of the diner.
+|mapsize=Small
+|unlocklevel=5
+|floors=1
+|rooms=14 (Total)
+*13 possible ghost rooms
+|exits=2
+|faucets=10
+|videofeeds=3
+|keys=Main Door Key
+|img rooms=Rooms Nells Diner.png
+|img sanity=Sanity Nells Diner.png
+|img temperatures=Temperatures Nells Diner.png
+}}
+{{Quote
+|speaker=Loading blurb
+|quote=A cozy diner in the middle of nowhere. What happened here?
+}}'''Nell's Diner''' is a small [[map]] in ''Phasmophobia''.
+
+It is similar in size to [[6 Tanglewood Drive]] and is unlocked at level 5.
+
+==Structure==
+Nell's Diner is a one-story diner with a spacious dining area, three bathrooms, rooms for the staff, a kitchen, and a cold room.
+
+===Layout tips===
+*The [[fuse box]] cools the Cooler Room down to {{Temperature|1}} instead of heating it.
+*The Foyer cannot be chosen as a [[Ghost Room|favourite room]].
+*The Foyer doesn't have any light to prevent passive [[sanity]] drain.
+
+See [[Third-party tools]] for a list of detailed map viewers that players may use.
+
+===Key hiding spots and strategies===
+There are 4 "sanctioned" [[Hiding Spots|hiding spots]] in Nell's Diner:
+*'''Storage''', behind food cart
+*'''Cooler Room''', behind food cart
+*'''Hallway''', behind blue vending machine
+*'''Break Room''', lockers
+
+Depending on the difficulty, some of these hiding spots may be blocked by the presence of bulky items or their concealing elements removed:
+*'''Amateur:''' None
+*'''Intermediate:''' None
+*'''Professional:''' 1
+*'''Nightmare/Insanity:''' 2
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+<small>''Additional hiding spots on multiplayer is overridden when "Number of hiding places" is set to None''</small>
+
+[[Guides/Surviving a hunt#Looping the ghost|Looping]] the ghost may be performed around the kitchen island, the dining area, or the counter.
+
+==Bone locations==
+Bones spawn randomly, but will only spawn in areas that a ghost can also walk on, within a room that can be chosen as a [[Ghost Room|favourite room]].
+
+;Examples
+
+==Cursed possession locations==
+<gallery>
+NellsDiner-Circle.png|The [[Summoning Circle]] spawns in the Men's Bathroom.
+NellsDiner-Ouija.png|The [[Ouija Board]] spawns in the Janitors Closet.
+NellsDiner-Box.png|The [[Music Box]] spawns in the Manager's Office.
+NellsDiner-Mirror.png|The [[Haunted Mirror]] spawns in the Break Room.
+NellsDiner-Tarot.png|The [[Tarot Cards]] spawn in the Counter Area.
+NellsDiner-Voodoo.png|The [[Voodoo Doll]] spawns in the Dining Area.
+NellsDiner-Paw.png|The [[Monkey Paw]] spawns in the Kitchen.
+</gallery>
+
+==Easter Egg: Ghost in the Machine==
+Nell's Diner contains an easter egg that gives the "Ghost in the Machine" [[ID Card]] after leaving through the [[truck]] when triggered.
+
+The easter egg is triggered by completing the following steps on any difficulty:
+#Shine a [[UV Light|UV light]] on the reminder post-it note in the Manager's Office. This will give you three arrows: Down, Up, Right.
+#Find the code outside, in three locations, each corresponding to an arrow (4 is in the Dining Area on the wall to the left upon first entry. It is being pointed to by the road sign angling down. 1 is underneath the neon sign by the road, pointed to by an upwards arrow. 5 can be found in the dumpster area, pointed to by a graffiti arrow pointing right).
+#Open the safe in the Manager's Office, under the desk, with the code.
+#Take the debit card inside to the ATM in Hallway and {{Control|place}} it in the card slot.
+#Pick up the dollar bill and buy a soda from the red Mr. Sprinkle vending machine to the left of the ATM by placing it in the insert slot.
+#Pick up the coin that drops from the machine upon buying a drink.
+#Place the coin in the Lair of the Unliving arcade machine, located in the Break Room.
+
+Only one player in a game has to complete this as everyone in the lobby will receive the reward, regardless of who actually completed it.
+
+==Gallery==
+<gallery>
+OhDeerDiner.png|Nell's Diner as ''Oh Deer Diner'' during the Phasmophobia by Alan Wake event.
+</gallery>
+
+==Trivia==
+*Lore-wise, Nell's Diner is located in Tucson, Arizona.
+*There are tumbleweeds that roll along the road outside the diner periodically every 50 seconds.
+*The Nell's Diner sign flickers the word "Die".
+*There is a movie poster titled ''Demon Dog,'' which is in reference to a pre-release concept of the game.
+**The feature consisted of a demon dog chasing you after death, which if you succeeded in out-running resulted in the player being revived.
+*There are several ghost name references hidden throughout the map.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.15.0]]
+|Added Nell's Diner.
+|-
+![[0.15.1.0]]
+|Nell's Diner now unlocks for players at Level 5.
+|}<br>
+{{Loc nav}}
+[[Category:Maps]]
+[[Category:Small Map]]
+[[fr:Nell's Diner]]
+[[ru:Nell's Diner]]

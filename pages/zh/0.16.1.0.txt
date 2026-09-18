@@ -1,0 +1,35 @@
+# 0.16.1.0
+# revid 4117  2026-04-01T15:26:27Z  by Qsefthuopq
+# sha256 d6effd30843b24f5ec2ac57d59f7a0d061611281ade976506a3fa616a04911c6  bytes 1717
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+| image1=0.16.1.0.png
+| release_date=2026年3月30日（官方合作伙伴抢先体验）<br>2026年3月31日（公开发布）
+| previous_major_version=[[0.16.0]]
+| previous_minor_version=
+| next_minor_version=[[0.16.1.1]]
+| next_major_version=
+}}'''0.16.1.0''' 是发布于2026年3月31日的小型更新。<ref>[https://www.kineticgames.co.uk/news/phasmophobia-cursed-hollow-v01610 ''Phasmophobia - Cursed Hollow v0.16.1.0''. 2026年3月31日.]</ref><ref group="注记">Kinetic Games官方合作伙伴于2026年3月30日获得了抢先体验密钥。</ref>本次更新复刻了[[特殊活动#2026年复活节|诅咒之谷活动]]。
+
+==新增内容==
+*'''诅咒之谷：''' 完成合约、可选目标等，可为社区和个人目标赚取积分。每天，合约板上会指定不同的地点参与活动。
+*'''双倍经验与奖励：''' 在活动的第一周（3月31日至4月7日），玩家将从合约中获得双倍经验与奖励。
+*'''诅咒之谷奖励：''' 完成目标后，玩家将获得活动专属奖励，例如开拓者身法卡与徽章，包含静态与动态两种版本。
+
+==改动==
+*揭示“幸运”森灵时，鬼魂速度降低10%。该效果可叠加。
+*揭示“不幸”森灵时，鬼魂速度提高10%。该效果可叠加。
+
+==修复==
+*仓库中的诅咒之谷祭坛现在会在社区和玩家达成特定目标后正确变形。
+*修复了在Tanglewood 6因血月天气导致雨声无音频的问题。
+*修复了在Tanglewood 6指纹显示尺寸错误的问题。
+*各种其他错误修复与改进。
+
+==已知问题==
+*森灵的跳跃声音过大。
+==参考资料==
+{{Reflist}}
+==注释==
+{{Reflist|group="note"}}
+{{VersionNav}}
+[[Category:开发]]

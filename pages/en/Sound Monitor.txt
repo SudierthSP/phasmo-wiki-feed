@@ -1,0 +1,16 @@
+# Sound Monitor
+# revid 23414  2026-05-06T17:39:01Z  by Darkhooper
+# 备注: added EquipmentNav template
+# sha256 70f810ef07c52f19081eeb877efe2e8e83ec47fe6f7fbaa63e83d310dbd0a73a  bytes 1345
+# 源: https://phasmophobia.fandom.com/api.php<!--TODO: replace image with new display-->[[File:Sound monitor 0.6.png|alt=A Sound Sensor picking up noise from the utility room of Tanglewood Street House.|thumb|The monitor showing sound picked up by a sound sensor placed in a Utility room.]]
+The '''Sound Monitor''' is a screen in the [[Truck]] labelled "Sound Sensors". The screen will list up to 4 separate [[sound sensor]]s in a horizontal bar graph format. When placing sound sensors inside a playable area, it will label the sensor on the sound monitor according to in which area it was placed. Sound sensors pick up the sound level in an area around it, indicated by the associated orange graphic of their radius on the [[Site Map]]. 
+
+Sounds picked up on the sensors will show as a yellow bar indicated in percentage, depending on the volume of the noise detected, and it will play a live audio feed into the Truck, potentially allowing for [[Evidence]] such as [[EMF Level 5]] and [[Ghost Writing]] without having to be inside the building.
+
+0.1 dB picked up on a [[Parabolic Microphone]] is equivalent to 1% on the Sound Monitor.
+
+Using sound sensors and keeping an eye on the sound monitor can be useful in finding the ghost's location early.
+{{EquipmentNav}}
+[[Category:Truck Equipment]]
+[[fr:Moniteur des Capteurs sonores]]
+[[ru:Монитор звуковых датчиков]]

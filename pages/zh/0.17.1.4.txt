@@ -1,0 +1,34 @@
+# 0.17.1.4
+# revid 4166  2026-06-04T11:57:39Z  by Qsefthuopq
+# sha256 9d35dc8c553a9b8cae8b1161c890fb4dd0a33686ba09cbc7c39b782fa67f2a5a  bytes 1462
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+| release_date=2026年6月2日
+| previous_major_version=[[0.17.0]]
+| previous_minor_version=[[0.17.1.3]]
+| next_minor_version=[[0.17.1.5]]
+| next_major_version=
+}}'''0.17.1.4'''是发布于2026年6月2日的小型更新。<ref>[https://kineticgames.co.uk/news/phasmophobia-v01714-patch-notes ''Phasmophobia v0.17.1.4 - 更新补丁说明''. 2026年6月2日.]</ref>本次更新修复了几个已知问题。
+
+== 新增 ==
+*根据玩家反馈，重新实现了VR腰带。现在玩家还可以选择将手册和对讲机放在腰带上或肩膀上。
+**VR腰带将仅在本地可见，看着VR玩家的其他玩家将看到装备显示在其身体上。
+
+== 改动 ==
+*在玩家角色更新版本中实现的视线内鬼魂速度加速已恢复至旧版。
+
+== 修复漏洞 ==
+*修复：导致玩家在与卡车的监控互动之前使用通灵盒时会卡死
+*修复：盲灵透过楼层杀死玩家
+*修复：盲灵在室外杀死玩家
+*修复：3级火光如果在点燃状态下放置就无法正常生效
+*修复：玩家夹克在加载进入多人游戏大厅时显示不正确
+*修复：在多人游戏中未输入代码就按下“加入”会导致创建大厅出现问题，并移除游戏音频
+*修复：VR玩家无法使用文本输入来操作通灵盒、猴爪和通灵板
+
+== 已知问题 ==
+*所有平台的玩家都遇到了语音识别/语音聊天的问题。
+
+== 参考资料 ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:开发]]

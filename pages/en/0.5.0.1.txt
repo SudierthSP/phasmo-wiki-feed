@@ -1,0 +1,23 @@
+# 0.5.0.1
+# revid 23941  2026-06-28T21:40:00Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 cf586c9f31105319f57ebe66e7027e9568916ec550157a244e64e7e61baa2f03  bytes 815
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=10 December 2021
+ | previous_major_version=[[0.5.0]]
+ | next_minor_version=[[0.5.0.2]]
+ | next_major_version=[[0.6.0]]
+}}'''0.5.0.1''' is a minor update to the game released on 10 December 2021.<ref>https://store.steampowered.com/news/app/739630/view/3099036942813472786</ref> The update includes bug fixes.
+
+== Bug fixes ==
+*Fixed a bug where the Mimic had a 20% chance to spawn. It is now double the chance of other ghosts
+*Fixed a bug where you couldn’t take a photo of the Maple lamp post fingerprints
+*Fixed a bug where the Cursed Possessions breaking would increase the hunt duration significantly in multiplayer
+*Fixed a bug where VR players couldn’t see other VR players
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.5.0.1]]
+[[ru:0.5.0.1]]

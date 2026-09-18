@@ -1,0 +1,18 @@
+# Ball
+# revid 24255  2026-07-24T04:36:35Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 2d7e628e9281125fa7b362df0b133cf1f97a44a62e59ccdd2e90415af8d05b5a  bytes 803
+# 源: https://phasmophobia.fandom.com/api.php[[File:Balls.png|320x180px|thumb|Various balls on [[Maple Lodge Campsite]].]]
+'''Balls''' are [[prop]]s found in some [[map]]s.
+
+==Mechanics==
+Balls can be {{Control|picked up}} and {{Control|thrown}} by players, and interacted with by [[ghost]]s. Some balls may have bouncy physics such as basketballs or footballs.
+
+When a ghost [[Interaction|interacts]] with a ball, following standard interaction rules, it will throw it. If the ball is a basketball or a volleyball, it also has a chance to teleport it somewhere else in the investigation area. Both instances will create an [[EMF]] Level 2 reading on the ball, with a 33% chance of it being [[EMF Level 5]] instead if the ghost has this evidence.
+
+==See also==
+*[[Basketball]]
+{{MapFeatureNav}}
+[[ru:Мяч]]
+[[Category:Map Features]]
+[[fr:Ballon]]

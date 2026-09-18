@@ -1,0 +1,63 @@
+# Deildegast
+# revid 24662  2026-09-13T22:23:41Z  by Darkhooper
+# 备注: new tell! Doors starting open parameter is changed when the ghost is Deildegast
+# sha256 c7a6f5da11074a2cc1492ebadfd56c2402923f561e801f473e63131b842147ed  bytes 4761
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=
+ |strength=Moves at a faster speed at the start of a contract.
+ |weakness(es)=Becomes slower each time players interact with/move items.
+ |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
+ |Evidence2=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]
+ |Evidence3=[[File:DOTS_projector_sprite.png|24x24px|alt=|link=D.O.T.S. Projector (Evidence)]]
+}}{{Quote
+ |quote=Having tampered with other peoples' property in life, in death the Deildegast is doomed to fixate on anything misplaced.
+ |speaker=The Journal
+}}The '''Deildegast''' is a type of [[ghost]] in ''Phasmophobia''. It is a fast ghost that becomes slower overtime as items are moved.
+
+==Behaviour==
+===Activity===
+The Deildegast is less likely to [[Interaction|interact]] with [[door]]s and [[light]] switches compared to other ghosts (each having a 10% chance instead of the 25% chance for a standard ghost). When interacting with a [[prop]], it has a 85% chance to succeed instead of 100% for a regular ghost. If this chance fails, the Deildegast will enter the [[Ghost Room|favourite room]] state instead.
+
+===Hunt===
+The Deildegast has a fixed speed with no line-of-sight acceleration that depends on the number of unique [[prop]]s {{Control|interacted}} with or {{Control|picked up}} by players (including [[Death|dead]] players) outside of hunts. This includes throwable items, [[light]] switches, the [[fuse box]], [[Sink|taps]], etc., but not [[Cursed Possession|cursed possessions]], [[door]]s nor [[equipment]]. By default, it has a speed of 3.0 m/s which decreases by 0.1 m/s for each moved object until a minimum of 0.4 m/s. The speed is reset at 3.0 m/s after the end of a [[hunt]] or after a [[crucifix]] has burned.
+
+===Miscellaneous===
+The ''Doors starting open'' [[difficulty]] parameter is lowered by one option when the ghost is a Deildegast. For example, if the difficulty sets that parameter on "High", the actual parameter will be "Medium".
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] [[EMF Level 5]]
+|[[File:ClosedBook_Render.png|24x24px|alt=|link=Ghost Writing]] [[Ghost Writing]]
+|[[File:DOTS_projector_sprite.png|24x24px|alt=|link=D.O.T.S. Projector (Evidence)]] [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: At the beginning of an investigation, the '''Deildegast''' has an upper hand.''
+
+''Weakness: '''Deildegasts''' can be slowed down, by both the living and the dead.''
+
+==Strategies==
+If a Deildegast is an option, it is worth interacting with multiple unique items before a hunt to reduce its hunting speed to a manageable level. After interacting with 9 items, the Deildegast will reach 2.1 m/s, slower than the player's average speed (2.125 m/s), the standard ghost speed of 1.7 m/s is reached after interacting with 13 items, and the Deildegast's minimum speed of 0.4 m/s is reached after interacting with 26 items. Any additional items over 26 have no effect. Therefore, interacting with ~15 items between hunt attempts is recommended to bring the ghost's speed down enough to be easily manageable by most players.
+
+The potential test for a Deildegast can be done at the same time as testing for a [[Poltergeist]] since both require item displacement. However, it is important to remember that the Deildegast's speed resets after each hunt, so as many as possible interactions should always be performed in between hunts. Also, be wary of burned crucifixes as they will reset the item counter.
+
+A Deildegast is the only ghost where dead players can directly assist in the investigation, as their interactions also count for slowing it down; if you died against one, then start throwing some items around in your afterlife!
+
+==Trivia==
+*A deildegast (from ''deilde'' "merestone" or "landmark" and ''gast'' "ghost") in Norwegian folklore is a type of malevolent entity of an individual who, during lifetime, used to displace stones marking the boundary of a property in their favor, therefore robbing his or her neighbors of their land. After death, the deildegast is forced to haunt the area where such stones were displaced and put them back in the original spots in order to pass on to the afterlife. This would, however, be impossible as the stones would always slip. The in-game comparison to moved items refers to this ghost's obligation to look for displaced items, therefore lowering its speed.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.18.0]]
+|Added Deildegast.
+|}
+
+{{GhostNav}}
+[[Category:Ghosts]]
+[[fr:Deildegast]]
+[[ru:Дейльдегаст]]

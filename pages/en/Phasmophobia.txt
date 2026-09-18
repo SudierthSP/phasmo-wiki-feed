@@ -1,0 +1,65 @@
+# Phasmophobia
+# revid 24205  2026-07-21T21:21:11Z  by Darkhooper
+# 备注: Nintendo Switch 2 release date
+# sha256 16bbad213b52d7ab74a43f213a494b11f941b1c8a8b199a2a64510dc285d3039  bytes 5007
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox VG
+ |image=Phasmophobia_Logo.png
+ |caption=
+ |developer=[[Kinetic Games]]
+ |publisher=Kinetic Games
+ |engine=
+ |platform=
+*[[File:Windows.png|20px]] Windows 10/11 (VR Support)
+*[[File:SteamDeck.png|20px]] Steam Deck
+*[[File:PlayStation Logo.png|20px]] PlayStation 5 (PlayStation VR2 Support)
+*[[File:Xbox Logo.png|20px]] Xbox Series X/S
+ |available={{GetGame}}
+ |released=
+'''Steam'''
+*18 September 2020<br><small>(early access)</small>
+'''PS5, Xbox Series X/S'''
+*29 October 2024<br><small>(early access)</small>
+'''Nintendo Switch 2'''
+*2027
+ |price=19.99 <sup>USD</sup><br>19.50 <sup>EUR</sup><br>16.75 <sup>GBP</sup><br>25.99 <sup>CAD</sup>
+ |version={{CurrentVersion}}
+}}{{Quote
+ |quote=Paranormal activity is on the rise and it's up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.
+ |speaker=Game description on the Steam store page
+ |sourcelink=https://store.steampowered.com/app/739630/Phasmophobia/
+}}'''''Phasmophobia''''' is a psychological horror game developed and published by [[Kinetic Games]]. It became available in early access in September 2020 on Steam. In the game, one to four players take on the role of ghost hunters who work to complete a contract where they must identify the type of ghost haunting a designated site and complete other optional objectives.
+
+==Gameplay==
+Players can choose to play alone or with up to three other players, the latter by creating or joining a server lobby. The host selects a [[difficulty]] level while any player can vote for a [[map|location]] and add [[equipment]]. The host can then start the [[contract]] when all players are ready.
+
+For each contract, the player is tasked to identify the [[ghost]] type, and three [[Objectives|optional objectives]] are also assigned. To do this, the player must conduct an investigation, using their equipment to locate the [[ghost room]] and find various forms of [[evidence]]. This evidence must be recorded in the [[journal]], which contains information about the different types of ghosts. Players can also use the characteristics of the different types of ghosts as recorded in the journal to identify the ghost.
+
+To complete other objectives, players may use equipment they have brought with them or items found on site. Some objectives depend on the ghost's activity, and the player can increase that activity by saying certain key phrases or the ghost's name. While the player is in the investigation area, their [[sanity]] gradually decreases, depending on their surroundings and certain activities that occur. As the player's sanity decreases, the ghost is more likely to initiate a [[hunt]], where it will pursue players and attempt to kill them. During a hunt, [[exit door]]s will lock, forcing players to hide or escape the ghost for the duration of the hunt. A combination of equipment and strategies will be needed to stay alive.
+
+Players can leave whether or not the objectives have been met. After closing the [[truck]] door with all players alive inside, the contract will end and players will be rewarded with [[money]] and [[experience]] based on the completion of objectives and secondary evidence collected. These rewards can be used to purchase or unlock equipment and progress in the game.
+
+==Availability==
+Phasmophobia can be purchased on the [https://store.steampowered.com/app/739630/Phasmophobia/ Steam Store], the [https://www.xbox.com/en-US/games/store/phasmophobia-game-preview/9N6D60SBZN05/0010 Xbox Store], and the [https://store.playstation.com/en-us/concept/10005673 PlayStation Store]. Officially, Phasmophobia supports Windows 10/11 and the Steam Deck. Unofficially, the game can also be played on Mac or Linux devices through other methods, or on Windows 7/8.
+
+Phasmophobia is compatible with any VR headset that supports [https://en.wikipedia.org/wiki/OpenXR OpenXR], such as Valve Index, HTC Vive and Oculus Rift. The game can also be played on Meta Quest via Air Link or Oculus Link. On PlayStation 5, it is compatible with PlayStation VR2.
+
+==Controls==
+{{Main|Controls}}
+==Gallery==
+<gallery widths="185">
+File:Tanglewood hallway.png
+File:School hallway.png
+File:Sunnymeadows corridor basement.jpg
+File:Shop 0.9.5.png
+File:Flickering 0.7.jpg
+File:Phastock.png
+</gallery>
+
+==Trivia==
+*The word "phasmophobia" means fear of apparitions (as opposed to "phantasmophobia" which is the fear of real ghosts), but in modern usage it is most often used to refer to ghosts in general; the game was originally called Spectrophobia. Phasmophobia is considered the first early access ghost hunting game (previously and still sometimes lumped into the "survival horror" genre) that allowed direct communication with the AI via a microphone, and also the first game of its kind to use VR.
+*There is an unrelated game with a similar name called ''Phasmophobia: Hall of Specters 3D'', which released in 2016.
+
+[[Category:Phasmophobia]]
+[[de:Phasmophobia]]
+[[fr:Phasmophobia]]
+[[ru:Phasmophobia]]

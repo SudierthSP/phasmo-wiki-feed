@@ -1,0 +1,46 @@
+# 0.12.1.1
+# revid 3743  2025-05-01T14:55:38Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version  | release_date=2025.5.1  | previous_major_version=[[0.12.0.1]]  | previous_minor_version=[[0.12.1.0]]  | next_minor_version=  | next_major_version=  }}'''0.12.1.1'''是发布于2025年5月1日的小型热修复更新。<ref>[https://www.kineticgames.co.uk/blog/cursedhollow-hotfix ''Phasmophobia Cursed Hollow - Hotfix v0.12.1.1''. 1 May 2025.]</ref>本次更新主要修复一些诅咒山谷活动的问题。    ==改动== * 现在无法在鹿…”
+# sha256 503504962a1fd210ed356e47379259900441a06227289d6e210f7f7ff9280777  bytes 1424
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+
+| release_date=2025.5.1
+
+| previous_major_version=[[0.12.0.1]]
+
+| previous_minor_version=[[0.12.1.0]]
+
+| next_minor_version=
+
+| next_major_version=
+
+}}'''0.12.1.1'''是发布于2025年5月1日的小型热修复更新。<ref>[https://www.kineticgames.co.uk/blog/cursedhollow-hotfix ''Phasmophobia Cursed Hollow - Hotfix v0.12.1.1''. 1 May 2025.]</ref>本次更新主要修复一些诅咒山谷活动的问题。
+
+
+
+==改动==
+* 现在无法在鹿角兔巢穴蛋上放置装备，与巢穴本体行为保持一致
+* 幻妖模型现可在季节活动期间进行形态变换，届时将替换为节日鬼魂模型
+
+==修复==
+* 修复在大厅打开诅咒山谷传单时无音效播放的问题
+* 修复取消选择地图后玩家投票条无法归位的问题
+* 修复在音频设置中滑动音量条时，大厅音量不实时调整的问题
+* 修复每日/每周挑战与轮换地图在不同玩家间显示不一致的问题
+* 修复当鬼魂与森林仆从过于接近玩家时2级点阵投影仪时，系统出现异常的问题
+* 修复[[希望角]]地形贴图丢失的问题
+* 修复手柄死区调整导致玩家灵敏度设置异常的问题
+* 修复VR模式下鬼魂无法击杀玩家的致命漏洞
+* 修复诅咒山谷活动徽章名称显示错误的问题
+
+==已知问题==
+* 活动期间部分地图可能出现光照异常
+
+
+==参考资料==
+
+{{Reflist}}
+
+{{Versions}}
+
+[[Category:开发]]

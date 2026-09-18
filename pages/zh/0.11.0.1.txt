@@ -1,0 +1,44 @@
+# 0.11.0.1
+# revid 3997  2025-10-22T11:46:13Z  by CangMingSW
+# 备注: 分类
+# sha256 9775cbfbd64e5f9bbb76c1ddb851ac692ce3e6fb8e9e017402ff2e21b6c5d825  bytes 1211
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+ | image1=Crimson Eye.png
+ | official_name=绯红之眼
+ | release_date=2024年11月2日
+ | previous_major_version=[[0.11.0]]
+ | previous_minor_version=
+ | next_minor_version=
+ | next_major_version=
+}}
+
+==== 改动 ====
+
+* PS5：使用PSVR2时，降低雾气密度，从而提高能见度
+* 无法再将鼠标左键或Xbox A/PlayStation X重新绑定到其他键位，这是为了防止无法使用用户界面。
+
+==== 修复漏洞 ====
+全平台：
+
+* 修复图腾在每场游戏中会按玩家人数倍增的问题。
+* 修复多人游戏中图腾生成过多的问题。
+* 修复玩家在多个地点卡住的问题。
+* 修复VR中抓取门时不再震动并发出巨大噪音的问题。
+* 修复在开启平滑转向时，VR玩家无法同时移动和转向的问题。
+* 修复VR玩家在行走时撞到物体会反弹的问题。
+* 修复VR玩家打开日志时某些手柄按键输入失效的问题。
+
+Xbox:
+
+* 修复玩家无法获得“他们来了”成就的问题。
+
+PS5/PSVR2:
+
+* 修复PS VR2注视点渲染在主菜单上产生重影效果的问题。
+* 修复PS5丢弃1级三脚架后跟随玩家的问题。
+
+==参考资料==
+{{Reflist}}
+{{Versions}}
+
+[[Category:开发]]

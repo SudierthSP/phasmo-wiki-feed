@@ -1,0 +1,250 @@
+# Maple Lodge Campsite
+# revid 24829  2026-09-18T02:37:57Z  by Darkhooper
+# sha256 e8f17ac32c5759c04466bbcef67ec8bc58182046db843e3f20633ae5128adaf3  bytes 11514
+# 源: https://phasmophobia.fandom.com/api.php{{Location
+|img=maple-rework-main-shot.png
+|imgcaption=View from within the primary campsite area.
+|mapsize=Medium
+|unlocklevel=13
+|floors=3
+|rooms=28 (Total)
+*3F: 2
+*2F: 3
+*1F: 23
+*25 possible ghost rooms
+|exits=1
+|faucets=5
+|videofeeds=2
+|keys=Front Door Key, Cabin Key
+|img rooms=Rooms Maple Lodge.png
+|img sanity=Sanity Maple Lodge.png
+|img temperatures=Temperatures Maple Lodge.png
+}}
+{{Quote
+|quote=This outdoor retreat was evacuated due to some campfire stories coming to life.
+|speaker=Loading blurb
+}}
+'''Maple Lodge Campsite''' is a [[map]] in ''[[Phasmophobia]]''. It is the game's second medium map, and the first predominantly outdoors location. The map is a spacious campsite with multiple tents divided into two distinct campgrounds, as well as a restroom building, staff-only storage area, reception building, and a two-story cabin next to a lake.
+
+Its organic layout creates a stark contrast to the geometric and more familiar mechanics of the "traditional" indoors maps. Even more experienced players might find themselves lost and confused, as otherwise simple things such as finding the [[ghost room]] or locating [[fingerprints]] might not be as intuitive, and require more proactive search. However, the significant amount of segmented forking paths leads to plenty of different routes for getting to different parts of the map, which a cunning investigator can leverage to evade an aggressive [[Ghost|ghost]].
+
+Additionally, being mainly outdoors, [[weather]] plays a major factor during investigations on Maple Lodge. The temperature outside the cabin and reception building cannot be raised even by turning on the power; heavy rain will prevent the usage of candles and other open flames; while strong winds might hinder the hearing of sound cues such as items being thrown or the ghost's vocalizations while it is [[Hunt|hunting]].
+
+==Structure==
+===Layout tips===
+*The [[key]] to the cabin can be found under the mat near its door.
+*The cabin's front doors cannot be unlocked during a hunt. However, once unlocked, these doors will never lock again, as opposed to [[Exit Door|exit doors]].
+*Reception Building is not considered on the same floor as the campsite ground and is actually on the same floor as the cabin's first floor.
+
+The following rooms cannot be chosen as a [[Ghost Room|favourite room]]:
+*Campsite A
+*Campsite B
+*North East Path
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room lights being on:
+*Campsite A
+*Cleaning Closet
+
+The following rooms have no main room lights and hence no means of sanity drain prevention:
+*Campfire A
+*Campfire B
+
+The following rooms allow short [[Roaming|roams]] to another floor to be completed:
+*Cabin Bedroom
+
+Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
+{| class="article-table"
+!Parameter
+!None
+!Low
+!Medium
+!High
+|-
+!Number
+|0
+|2
+|4
+|5
+|}
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 15 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Entrance
+|[[File:MLC Entrance unavailable.png|200px]]
+|[[File:MLC Entrance available.png|200px]]
+|-
+|Campsite A
+|[[File:MLC Campsite A 1 unavailable.png|200px]]
+|[[File:MLC Campsite A 1 available.png|200px]]
+|-
+|Campsite A
+|[[File:MLC Campsite A 2 unavailable.png|200px]]
+|[[File:MLC Campsite A 2 available.png|200px]]
+|-
+|Campsite A
+|[[File:MLC Campsite A 3 unavailable.png|200px]]
+|[[File:MLC Campsite A 3 available.png|200px]]
+|-
+|Campsite A
+|[[File:MLC Campsite A 4 unavailable.png|200px]]
+|[[File:MLC Campsite A 4 available.png|200px]]
+|-
+|Campsite A
+|[[File:MLC Campsite A 5 unavailable.png|200px]]
+|[[File:MLC Campsite A 5 available.png|200px]]
+|-
+|Staff Storage Area
+|[[File:MLC Staff Storage 1 unavailable.png|200px]]
+|[[File:MLC Staff Storage 1 available.png|200px]]
+|-
+|Staff Storage Area
+|[[File:MLC Staff Storage 2 unavailable.png|200px]]
+|[[File:MLC Staff Storage 2 available.png|200px]]
+|-
+|Campsite B
+|[[File:MLC Campsite B 1 unavailable.png|200px]]
+|[[File:MLC Campsite B 1 available.png|200px]]
+|-
+|Campsite B
+|[[File:MLC Campsite B 2 unavailable.png|200px]]
+|[[File:MLC Campsite B 2 available.png|200px]]
+|-
+|Campsite B
+|[[File:MLC Campsite B 3 unavailable.png|200px]]
+|[[File:MLC Campsite B 3 available.png|200px]]
+|-
+|Campsite B
+|[[File:MLC Campsite B 4 unavailable.png|200px]]
+|[[File:MLC Campsite B 4 available.png|200px]]
+|-
+|North East Path
+|[[File:MLC North East Path unavailable.png|200px]]
+|[[File:MLC North East Path available.png|200px]]
+|-
+|Picnic Area
+|[[File:MLC Picnic unavailable.png|200px]]
+|[[File:MLC Picnic available.png|200px]]
+|-
+|Cabin Bedroom
+|[[File:MLC Cabin Bedroom unavailable.png|200px]]
+|[[File:MLC Cabin Bedroom available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|15
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|11
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|8
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|4
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+There are a few places to loop the ghost during a hunt such as the picnic tables or around a large portion of the map going across Reception Building, Campsite B, and Staff Storage Area.
+
+The toilet stalls inside the restroom buildings serve as a decent hiding spot, as the ghost will rarely wander into the stall themselves unless the player attracts its attention. Keep the door of your cubicle held shut in case the ghost happens to wander in and attempt to open it, which would allow for it to spot you if it happens to see you in its peripheral vision while it is moving through that side of the restrooms.
+
+Unlike regular doors, the tent flaps ''will not'' block line of sight with the ghost if they are not fully closed, even if the player holds them up so it completely hides their model.
+
+The ghost cannot see players on the cabin's balcony from the Picnic Area, even when they are not crouched.<ref>[https://youtu.be/6VvpCgiiQ3I?si=7f4FOwlJx15HjXyk&t=10 A line of sight test on the balcony (on YouTube). 7 March 2024.]</ref> The ghost also cannot see players that are far enough on the pier if it is on the cabin porch or in the section behind the cabin. This happens due to an invisible wall on the pier that begins after the first pole. If a player hides behind the chair at the far end of the pier, this serves as a decent hiding spot, as the chair breaks line of sight and the ghost needs to roam all the way down to the far end of the pier to see a player there.<ref>[https://youtu.be/EjZXwlemsyg A line of sight test on the pier (on YouTube). 12 March 2024.]</ref>
+
+===General tips===
+*The campfires can be lit using a [[firelight]] or [[igniter]].
+*In addition to existing "common" surfaces, fingerprints can also appear on the following items and surfaces:
+**Interior edges around tent door flaps
+**On tent windows
+**At the base of lanterns
+**On the string light poles and their switches
+**On picnic benches
+**On small tents
+**On the log seating
+
+;Examples of fingerprints
+<gallery>
+File:Tent door fingerprint.png|Fingerprints on an interior edge around a tent door flap.
+File:Tent window fingerprints.png|Fingerprints on a tent window.
+File:Maple-Fingies-Pole.png|Fingerprints on a light pole.
+File:Picnic bench fingerprints.png|Fingerprints on a picnic bench.
+File:Maple-Fingies-Coolerbox.png|Fingerprints on cooler boxes.
+File:Maple-Fingies-Lamp.png|Fingerprints on the base of a lantern.
+</gallery>
+
+==Bone locations==
+Bones spawn randomly, but will only spawn in areas that a ghost can also walk on, within a room that can be chosen as a [[Ghost Room|favourite room]].
+
+==Cursed possession locations==
+<gallery>
+File:maple-rework-board.png|The [[Ouija Board]] spawns on the shelf in the Cleaning Closet.
+File:maple-rework-mirror.png|The [[Haunted Mirror]] spawns in the Reception Building.
+File:maple-rework-musicbox.png|The [[Music Box]] spawns seated on a cut log in Campfire B.
+File:maple-rework-doll.png|The [[Voodoo Doll]] spawns leaning against a log in Campfire A.
+File:maple-rework-tarot-cards.png|The [[Tarot Cards]] spawn in the Picnic Area, atop a table with poker cards scattered all over it.
+File:maple-rework-circle.png|The [[Summoning Circle]] spawns in the Cabin Kitchen.
+File:maple-rework-paw.png|The [[Monkey Paw]] spawns on a barrel in the Staff Storage Area.
+</gallery>
+
+==Easter eggs==
+There are a few hidden Easter Eggs which can be found on the map:
+*'''Jason Voorhees Mask''' - Walking out to the edge of the pier will make a mask of Jason Voorhees float to the surface.
+*'''Slenderman''' - Slenderman has a one-third chance per game to spawn on the outskirts of the map. He can be seen near the truck, behind the Twig Doll easter egg in Campsite A, behind the small purple tent in Campsite B, near the Tarot Cards location in Picnic Area, or floating above water behind the cabin.
+*'''Blair Witch Twig Doll''' - At the fence by the Campfire A, a Twig Doll is hanging, which is a reference to the Blair Witch Project stick figures.
+*'''Corpse''' - A dead body can be found under the cabin.
+*'''The Ring''' - When either the television in the cabin or the fuse box is turned on and later turned off, there is a chance for a phone also in the cabin to ring.
+*'''Point Hope''' - Standing on the pier (same area near the Jason Voorhees Mask) if one looks to the left side of the lake above the tree line there is a lighthouse in the distance. This was added in the [[0.6.0]] update, and was later shown to be [[Point Hope]].
+
+==Gallery==
+<gallery>
+Winter Fairy Lights.png|Winter themed fairy/string lights during the 2021 Christmas event.
+Maple Lodge Geography.png|A map of the surrondings of Maple Lodge Campsite.
+</gallery>
+
+==Trivia==
+*The map's name 'Maple' came from developer cjdxn's cat's name called 'Mayple'.
+*Some rooms need their small lamps to be turned on additionally to the main room lights to fully prevent the sanity drain. These rooms are Entrance, Staff Storage Area, Storage Tent 1, Campsite B, Picnic Area, Cabin Living Room, and Cabin Bedroom.
+*Maple Lodge Campsite is the only map that has lights that prevent sanity drain for multiple rooms: the light switches in both Female Toilets (the one in the bathroom, not the one on the pole) and Male Toilets count for their respective room, as well as for Cleaning Closet.
+*Contrary to [[Camp Woodwind]], Maple Lodge Campsite's campfires don't heat the room they are in when lit. This is likely a bug.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.4.0]]
+|Added the Maple Lodge Campsite map.
+|-
+![[0.4.1.0]]
+|A new path has been created from the entrance to the campfire area.
+|-
+![[0.6.2.0]]
+|The campfire now raises the temperature of the area around it when lit.
+|-
+![[0.9.1.0]]
+|Complete layout revamp, featuring a new reception building, two separate campsite areas, new assets and areas, more hiding spots and greatly improved performance.
+|}
+
+==References==
+{{Reflist}}
+{{MapNav}}
+[[Category:Maps]]
+[[Category:Medium Map]]
+[[fr:Maple Lodge Campsite]]
+[[ru:Maple Lodge Campsite]]

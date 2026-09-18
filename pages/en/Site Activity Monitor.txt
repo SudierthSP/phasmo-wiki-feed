@@ -1,0 +1,35 @@
+# Site Activity Monitor
+# revid 23413  2026-05-06T17:38:27Z  by Darkhooper
+# 备注: removed empty History section
+# sha256 e3b1f5903ee0b945eabff22f9794470eaaf06f44e5aa37a1732251a2d1dd8705  bytes 3812
+# 源: https://phasmophobia.fandom.com/api.php[[File:Site activity monitor 0.6.png|thumb|The Site Activity Monitor showing the presence of activity from the ghost.]]
+The '''Site Activity Monitor''' is the fourth monitor on the wall of the [[Truck]], which shows the current activity ranging from 0 to 10, roughly matching the readings of an [[EMF Reader]]. A low reading may indicate little to no recent activity, while a high reading may mean high levels of ghost activity. 
+
+On Nightmare and Insanity [[difficulty|difficulties]], the Site Activity Monitor is damaged and gives random readings, causing it to be useless and preventing players from discerning ghost activity by using it.
+
+==Mechanics==
+The Site Activity Monitor shows an aggregate of all [[EMF]] spots ("strength") in the map over the last 60 seconds. The current strength is read at t = 0. For each interaction that results in an EMF reading, the level of activity shown on the monitor will increase by that corresponding level of EMF, plus an additional integer modifier between -2 and 0 per interaction. <!-- to test: is there a modifier that adds a delay ~1s to each interaction? -->
+
+*For example, a single EMF Level 3 interaction that occurred 30 seconds ago, modified by -1 on the monitor, will show up as a horizontal line of strength 2 between 11 - 30 seconds.
+
+Higher levels usually indicate that more interactions or certain high-level activities recently took place.
+
+During a hunt, the activity level will always be 10. However, having an activity level of 10 does not necessarily indicate that a hunt is ongoing or is about to occur; the ghost could have manifested, or simply interacted with multiple objects at once or in quick succession. Though the Site Activity Monitor only goes up to 10, the actual total amount of EMF at any one time may exceed 10. Similarly, an activity level of 0 usually, but does not always mean no activity; the ghost could have performed an EMF 2 interaction that was adjusted to show as level 0 on the monitor.
+
+==Tips==
+[[File:Tab twins.png|thumb|250px|A slope that does not have a continuous gradient may indicate a double interaction.]]
+Some observations from the activity monitor ''could'' help in identification of the ghost.
+*A jump of 4 or 5 levels on the monitor may mean, among other things, that an [[EMF Level 5]] interaction has occurred.
+*[[The Twins]]'s ability involves two interactions almost at the same time; usually 1 second apart. Seeing a negative slope (left-to-right, may or may not be differentiable) stretching across 2 seconds (width of 1 box) could indicate, among other things, this ability being used.
+
+It is important to note that such observations are only '''potential''' indicators, and not foolproof; other events may also cause the same observations and therefore look like the above has happened. It may be appropriate to treat its usage as science; multiple observances of such indicators could more strongly '''suggest''' (but not '''confirm''') the conclusions. Some "false positives" could include:
+
+*A ghost event can show an activity increase of anywhere from +2 to +10 (including +4/+5), depending on the fluctuation applied and whether the event caused nearby doors to close.
+*Similarly, the Poltergeist's multi-throw ability can show up as any amount of activity, depending on the number of items thrown.
+*Using various cursed possessions to perform a [[ghost event]] or [[interaction]] could, other than showing up as any activity level, also cause a gradient that looks like a double interaction.
+*When a hunt ends, the activity level will drop, which can look the same as an EMF 5 or a double interaction due to the ghost interacting during the hunt.
+{{Equipment nav}}
+[[Category:Truck Equipment]]
+[[fr:Moniteur d'activité]]
+[[ru:Монитор активности]]
+[[zh:活动强度显示屏]]

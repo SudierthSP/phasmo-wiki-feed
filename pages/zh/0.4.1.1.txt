@@ -1,0 +1,24 @@
+# 0.4.1.1
+# revid 1430  2021-11-05T08:43:08Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version   | official_name=噩梦平衡补丁   | release_date=2021年11月5日   | previous_major_version=[[万圣节更新]]   | previous_minor_version=…”
+# sha256 0181e4aaf4790d25a63e1ad063aac65432621157f2af6e9b3cda14b0695666bd  bytes 765
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | official_name=噩梦平衡补丁
+  | release_date=2021年11月5日
+  | previous_major_version=[[万圣节更新]]
+  | previous_minor_version=[[0.4.1.0]]
+  | next_major_version=
+  | next_minor_version=
+}}
+==修复==
+* 一些通灵板理智问题消耗过多理智
+* 在多人联机时通灵板问题给予不同玩家不同回应
+* 鬼魂猎杀检测最后看见玩家位置时不会杀死玩家
+* 雪天效果未正常生效
+* 也许修复逃脱猎杀任务有时不算完成的问题
+* 加载游戏后玩家音量值错误
+* 在营地地图里，没有指纹时也会拍到指纹照片
+* 鬼魂有时候认为非房主玩家躲在衣柜并远距离前往衣柜杀死玩家
+==变更==
+* 未翻译语句现在默认为英语
+[[Category:开发]]

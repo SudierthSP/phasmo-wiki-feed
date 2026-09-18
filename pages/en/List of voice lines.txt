@@ -1,0 +1,108 @@
+# List of voice lines
+# revid 24009  2026-06-28T21:45:45Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 750ed717bffa0702222a949561762230b1c75040156ddc03f9d9af26dbf4af29  bytes 6219
+# 源: https://phasmophobia.fandom.com/api.phpThis is a '''list of voice lines''' used in ''Phasmophobia''.
+
+== General voice lines ==
+=== First Time ===
+Upon loading in for the first time on a new device, you will be greeted with an End User License Agreement and a voice line.
+* First day, huh? Well, I've already got some jobs ready for you. Don't worry, I'll be helping you out as much as I can from this side.
+
+=== Training ===
+* Welcome to your first day at Ghost Huntin' Distribution. Read the whiteboard to get started.
+* Head to the door to the next section.
+* Good job.
+* Well done.
+* Nice work.
+* Move to the next room.
+* Something's not quite right. You better hide, quickly!
+* That was a close one. Congratulations on completing your training! You can exit through the truck by interacting with the keypad.
+
+=== Main menu ===
+These lines are used when loading into the main menu, after leaving a [[lobby]], and after completing a [[contract]].
+* Welcome back! I've got some jobs ready for you.
+* Welcome back! I've prepared some jobs for you.
+* Welcome back! There's some jobs ready for you.
+
+=== Multiplayer selection ===
+These lines are used when loading into the server selection screen.
+* I've gathered a list of other hunters asking for help.
+* Looks like there are others out there in need of help.
+
+If there are no servers currently available in the region, the following lines are used instead:
+* Doesn't look like anyone else is in need of help.
+* Unfortunately, it looks like you're on your own.
+
+=== Loading into the truck ===
+After all players have loaded into the map, information is given in two parts: instructions to set up, and any additional information that the instructor has. The voice lines are randomly selected and do not indicate what the ghost will actually do, whether it is aggressive, or whether there is a [[cursed possession]]; the latter is determined by the difficulty.
+
+==== Arrival ====
+*Alright, we're here. Take a look at the equipment, and prepare accordingly before starting the investigation. <s>I've also written some notes on the whiteboard if you need them.</s>
+*We've arrived. Check the equipment, and get set up before investigating<s>, and remember to check the whiteboard for help</s>.
+
+==== Additional intel ====
+; Original voice lines
+* Got the intel, looks like this is going to be a tough one. We've had reports of violence, and it looks like they left in a hurry.
+* I've got a report that suggests a possible ghost sighting.
+* I've got nothing else to report unfortunately.
+* New intel: reports of light switching. Possibly harmless, but be careful out there.
+* No report this time. Be careful, you're going in blind.
+* Nothing to report, but it looks like whoever was here left in a hurry.
+* There's been no reports of violence or sightings, but please remain careful.
+* We've had no reports of violence, but keep an eye out.
+
+; Added in [[0.5.0]]
+* The ghost here seems to be linked to a cursed object. Go and take a closer look, maybe using it will help your investigation.
+* There’ve been new reports of a cursed object nearby. This must be the reason that the ghost was summoned here. Take a look, you may be able to use it to your advantage.
+* Whoever was here must have summoned the ghost with a cursed object. Investigate it, but be careful. We don't know what it's capable of.
+
+=== Key ===
+If any player leaves the truck before the house [[key]] has been collected, the instructor will remind the players to collect it:
+* I managed to get a copy of the key. I've left it on the desk for you.
+* The owner left us a key. It's ready on the desk for you.
+
+=== Prestige ===
+When the player reaches level 100:
+* We want to offer you a special kind of promotion.
+* If you'd like to progress, you can now prestige.
+* We'd like to offer you a promotion. Let us know if you'd like to progress further.
+* Fancy moving up in the world? A prestige is now available.
+
+After prestiging:
+* Congratulations recruit, and welcome to the team. (Prestige I)
+* Well done! Now get investigating, investigator. (Prestige II)
+* A private investigator already? Nice work! (Prestige III)
+* Elementary! Nice work, detective! (Prestige IV)
+* Technically, this isn't a promotion. But it ''is'' a new title. (Prestige V)
+* Oh! You've accepted it already! Congratulations! (Prestige VI)
+* We've noticed you've got a keen eye for this ghost hunting business. Keep it up! (Prestige VII)
+* Agent! I must have skipped that one. (Prestige VIII)
+* Now you're a smooth operator. (Prestige IX)
+* You've made it to commissioner. You're nearly the boss of me!...Nearly. (Prestige X)
+* Congrats on another promotion. Great work! (Prestige XI)
+* Here at Ghost Huntin' Distribution, we would like to thank you for your continued service. (Prestige XII)
+* The third time's a charm. (Prestige XIII)
+* Commissioner 4. Nice work! (Prestige XIV)
+* Consistent work as always. Well done! (Prestige XV)
+* You really are dedicated to the business. Congrats again! (Prestige XVI)
+* Impressive. Really Impressive. Welcome to Commissioner 7! (Prestige XVII)
+* Ready for another promotion. Congratulations! (Prestige XVIII)
+* You've never ceased to amaze us. Nice work! (Prestige XIX)
+* I think you might be the longest standing ghost hunter I've ever seen. We've promoted you to the highest rank available: Commissioner 10. Well done! (Prestige XX)
+
+== Spirit Box voice lines ==
+''<small>This section is incomplete.</small>''
+
+Official Content Creators read short scripts that were then edited for use as [[Spirit Box]] responses:
+
+* In a tragic turn of events, an '''elderly''' individual was left '''hurt''' after a distressing incident that occurred '''close''' to a bustling neighbourhood. The community is now grappling with the unsettling proximity of the incident, highlighting the need for increased vigilance and safety measures.
+
+== Trivia ==
+* The person voicing the general lines is Christian H. Miles and was hired off fiverr, a platform for freelance services.<ref>[https://discord.com/channels/435431947963990026/765596827537244200/933387336018972732 Shuee on radio guy's name (on Discord)]</ref>
+
+== References ==
+{{Reflist}}
+[[Category:Gameplay]]
+[[fr:Liste de lignes vocales]]
+[[ru:Список голосовых реплик]]

@@ -1,0 +1,70 @@
+# 0.3.1.0
+# revid 23933  2026-06-28T21:39:26Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 c9037ba290eefe2c31e210e28bfcada3314d0b628e8452ea7314df199fe497e9  bytes 2918
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | official_name=Anniversary
+  | release_date=September 18th, 2021
+  | previous_major_version=[[0.3.0]]
+  | previous_minor_version=[[0.3.0.5]]
+  | next_major_version=[[0.4.0]]
+  | next_minor_version=[[0.3.1.1]]
+}}The '''0.3.1.0''' update, also known as the '''Anniversary''' update, is a minor update to the game released on 18 September 2021, in celebration of the game's one-year anniversary on Steam.<ref>https://store.steampowered.com/news/app/739630/view/4972526782644554623</ref> A hotfix carrying the same version number was released later on the same day to fix some issues.<ref>https://store.steampowered.com/news/app/739630/view/4972526782645080171</ref>
+
+== Additions ==
+
+=== Lobby ===
+* New temporary decorations for anniversary update
+* 10 new music tracks by Rik4k
+
+=== Ghosts ===
+* A few new sounds for ghosts
+
+=== General ===
+* New Singleplayer mode for offline play
+* New fonts for several languages that had missing characters
+
+== Changes ==
+=== Gameplay ===
+* Ghost orbs will now periodically change position within the ghost room
+* Sillhouettes of the ghost in the [[D.O.T.S. Projector]] can no longer be seen by dead players
+* Failing a contract will no longer give the player $10 and instead give insurance based on difficulty
+* Failing a contract will now show what the ghost type was
+
+=== Journal ===
+{{main|Journal}}
+* Journal redesigned for easier use and navigation
+* Evidence can be selected or striked off individually
+* Pause menu is now integrated into the journal
+* Most settings can now be changed through the journal in-game
+
+=== General ===
+* VR mute button has been changed to the pause button for all controllers and the controller will vibrate when being toggled
+
+== Bug Fixes ==
+
+=== From versions released before 0.3.1.0 ===
+
+* Fixed a memory leak on the main menu when using a controller
+* Fixed an exploit where you could glitch your head inside something to make the ghost not see you
+* Fixed several safe spots where you could stand on something and the ghost couldn't reach you
+* Bleasdale: Fixed a bug where the temperature would rarely drop in the attic
+* Bleasdale: Fixed a bug where the hunting equipment effects didn't always work in the attic
+* Fixed a bug where the ghost whisper paranormal sound was staying active on the parabolic microphone
+
+=== From 0.3.1.0 (as fixed in hotfix) ===
+
+* Fixed an issue where the Mare description was wrong
+* Fixed missing characters in Traditional Chinese
+* Fixed text formatting for Japanese
+* Fixed a bug where the push to talk button was setting the opposite option in the journal
+* Fixed a bug where toggling head bob would move the camera
+* Fixed a bug where pressing apply in the game settings would make your equipment be held in the wrong position
+* Fixed a bug where hands were not receiving any lighting
+
+== References ==
+{{reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.3.1.0]]
+[[ru:0.3.1.0]]

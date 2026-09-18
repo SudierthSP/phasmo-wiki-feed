@@ -1,0 +1,5 @@
+# Cursed Possessions Update
+# revid 9890  2022-01-26T16:12:59Z  by Skaijie
+# 备注: Redirected page to [[0.5.0]]
+# sha256 585c0af01daab2f2aa1599b47b0534244358936538995418c2dd04c08fd81005  bytes 19
+# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[0.5.0]]

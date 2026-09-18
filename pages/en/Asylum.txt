@@ -1,0 +1,123 @@
+# Asylum
+# revid 24649  2026-09-12T19:09:55Z  by Darkhooper
+# sha256 637bc3b5cc1a6b20564e6f731ca6a571e71296c087bf2d03b3026655954382cf  bytes 6395
+# 源: https://phasmophobia.fandom.com/api.php{{Location
+|img=Asylum Reception.png
+|imgcaption=The reception area of the Asylum.
+|mapsize=Large
+|unlocklevel=5
+|floors=2
+|rooms=119 (Total)
+*1F: 80
+*B: 39
+*111 possible ghost rooms
+|exits=1
+|faucets=43
+|videofeeds=15
+|keys=Main Door Key
+|img rooms=Rooms Asylum.png
+}}{{Quote
+|quote=Decades have passed since this building has seen anything more than paranormal inhabitants within its walls. That is until your team arrives to investigate the threat of a malicious spirit.
+|speaker=The Journal
+}}'''Asylum''' was the first large [[map]] to be added in the game. Its labyrinthine architecture, paired with its endless hallways and corridors, made for an intimidating venture, and even the most experienced paranormal investigator may find themselves getting lost. This map was replaced with [[Sunny Meadows Mental Institution]].
+
+==Structure==
+The Asylum had 119 labeled rooms, the most on any map, while subdividing these into smaller, individual rooms would result in over 200 rooms. A large proportion of these are bedrooms, with other rooms such as a dentist room, conference rooms, canteens, barbers, storages, and more.
+
+This map's [[weather]] was always set to Clear Skies.
+
+===Layout tips===
+*All bedrooms are labeled starting with "''Size'' Bedroom ''#''", where ''Size'' is "Two", "Four" or "Six" and represents the number of beds in that bedroom, while ''#'' identifies the specific bedroom (e.g., the second four-bed room would be called Four Bedroom 2). Only the left/right wings of the first floor have bedrooms. The bedrooms fully occupy both outer rows of each wing (one row on the same side as the [[truck]] and the other on the opposite side).
+**"Two Bedroom #" rooms are the smallest bedrooms nearest to the middle of the building. Each of the 4 rows of bedrooms has a room called "Two Bedroom #".
+**"Four Bedroom ##" rooms are all on the ''same'' side of the map as the truck (at the bottom of the wings in the site map diagram).
+**"Six Bedroom ##" rooms are all on the ''opposite'' side of the map as the truck (at the top of the wings in the site map diagram).
+**There are no rooms in the map whose names begin with "One", "Three", or "Five".
+*The 4 rooms named "Day Room ''#''" are all found on the first floor.
+*Because the map used to be rotated 180 degrees, all rooms with "Right" and "Left" labels are currently oppositely labeled.
+*All hallways and stairways cannot be chosen as a [[ghost room]], meaning that players do not have to check for [[Ghost Orb]]s in these rooms. The rooms named Telephones and Lobby can still be ghost rooms.
+
+See [[Third-party tools]] for a list of detailed map viewers that players may use.
+
+===Key hiding spots and strategies===
+There are 2 sets of lockers in Asylum. These are always free to hide in, even on Nightmare [[difficulty]]. Players usually hide behind furniture or in rooms due to the lack of lockers. Alternatively, you can also hide in the bathroom stalls or in storage as a last resort.
+
+Due to Asylum being a large map, it is likely for ghosts to hunt from relatively far away in regards to the player's location, so the two would rarely meet before the actual ghost room is found (during multiplayer, these odds are increased by the number of players). However, it also makes the hunt much more dangerous when you have a ghost on your tail: due to large straight hallways, most ghosts can eventually gain on players, so getting cornered by a ghost becomes more likely. Ghosts such as the [[Yokai]] therefore are both harder to find and easy to escape from, but are still very dangerous in the open. Be wary of the ghost's general location when scouting for other objectives (like the [[Bone Evidence]]) or even just traversing the map in general, as telling that a hunt has started is much harder while the map's layout requires a different hiding strategy.
+
+==Bone locations==
+<blockquote>''Please note that the white bone model is no longer used.</blockquote>
+Bones generally spawn randomly, though there is a slight bias for them to spawn closer to the middle of a room. Due to the large size of the Asylum map, it is usually best left to chance for players to find a bone or to make use of the [[Ouija Board]], instead of attempting to search every room for it.
+
+;Examples
+<gallery>
+File:BoneAsylum1.jpg|Basement Floor, Lounge 2, Left side of left corridor, three rooms down.
+Bone in Asylum, First Floor, Back Right Side, Six Bedroom 6. From afar. 3.jpg|A bone in one of the bedrooms.
+Bone in Asylum, Top Floor, Right Corridor, Toilet 10. On the ground. 1.jpg|Top Floor, Right Corridor, Toilet 10. On the ground.
+Bone asylum staircase.png|A ribcage midway on a staircase.
+</gallery>
+
+==Cursed possession locations==
+All cursed possessions would spawn in the Lobby.
+
+==Easter eggs==
+*In [[0.6.0]], several scribbles that could be revealed using a [[UV Flashlight]] or [[glowstick]] were added in Six Bedroom 7, including tally marks counting up to 1080 and messages teasing the then-upcoming [[Sunny Meadows Mental Institution]].
+<blockquote>''I have to leave<br>Somewhere new<br>I don't belong here<br>I'll go soon<br>To get better, I hope<br>I found a new home<br>Sunny Meadows<br>Sounds nice, a place to heal''</blockquote>
+
+==Trivia==
+*There is a single [[mannequin]] in the Asylum.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!?
+|Asylum is in a preview mode with no investigations possible.
+|-
+!29 January 2020
+|Asylum can now be investigated.
+|-
+!6 February 2020
+|Added new footstep and reverberation effects.
+|-
+!9 February 2020
+|Improved footstep realism.
+|-
+!20 March 2020<br>(Part 3)
+|Moved the fuse box to a room near the top floor middle elevator.
+|-
+!24 March 2020<br>(Part 2)
+|Sanity Pills are now a recommended item.
+|-
+! rowspan="2" |1 April 2020
+|Decreased the light limit from 10 to 8.
+|-
+|Changed the glass material on the metal Asylum doors.
+|-
+!1 April 2020<br>(Part 2)
+|Improved the lighting range of small ceiling lights.
+|-
+!13 May 2020
+|Improved the lighting range of lights.
+|-
+!25 May 2020
+|Added the first floor site map to the van.
+|-
+!26 May 2020
+|Added the basement floor site map to the van.
+|-
+!26 August 2020<br>(Part 4)
+|Moved the exit doors closer to the van.
+|-
+! colspan="2" |Early Access (Steam)
+|-
+![[0.6.0]]
+|Added an easter egg.
+|-
+![[0.7.0]]
+|Removed Asylum.
+|}
+
+{{Loc nav}}
+[[Category:Maps]]
+[[Category:Large Map]]
+[[fr:Asylum]]
+[[ru:Asylum]]

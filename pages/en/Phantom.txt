@@ -1,0 +1,115 @@
+# Phantom
+# revid 24609  2026-09-05T05:14:31Z  by Darkhooper
+# 备注: added flickering gifs
+# sha256 0c4afd4e4e6a9bae3994c5ca2b0b4f9d03cac7a6f9e024eaf272c8b955b6562d  bytes 9377
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |title=Phantom
+ |image1=Phantom Discovered.jpg
+ |strength= *Seeing the ghost nearby during manifestations and hunts drains more sanity
+*Remains invisible for longer periods when hunting
+ |abiliti(es)= *Occasionally roams to a random player
+ |weakness(es)= *Capturing a photo/video of the Phantom renders it temporarily invisible
+ |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
+ |Evidence2=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
+ |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
+}}{{Quote
+ |quote=A Phantom is a ghost that can possess the living, inducing fear into those around it. They are most commonly summoned from [[Ouija Board]]s.
+ |speaker=The Journal
+}}The '''Phantom''' is a type of [[ghost]] in ''Phasmophobia''. It is known to drain the sanity of those that have sight of it during a manifestation.
+
+==Behavior==
+===Activity===
+[[File:Phantom photo weakness.mp4|300px|right|A Phantom disappears immediately upon taking a photo.]]
+When capturing a photo/video of a Phantom, whether it be in its full form, translucent form, shadow form, or [[D.O.T.S Projector (Evidence)|D.O.T.S state]], the ghost will physically disappear (but remain in its previous state, e.g. a [[ghost event]]) once the capture is successful, and the resulting [[media]] will contain no visible ghost and no interference.<ref group="note">This is currently bugged for Translucent Ghost, Shadow Ghost, D.O.T.S. Ghost, and Hunting Ghost videos where the Phantom will not be invisible on them.</ref>
+*If the photo/video was taken during a ghost event, electronic equipment will also cease to malfunction and the player's heartbeats will stop playing.
+*If the photo/video was taken during a [[hunt]], the ghost will briefly disappear before continuing to physically flash in and out.
+
+Being within 10 metres of a Phantom while in pseudo line-of-sight (where heartbeats play) reduces the player's [[sanity]] by 0.5%/s. This only applies during ghost events and hunts, and is separate from passive sanity drain. This does not apply during ghost events if the Phantom was made invisible by taking a picture.
+
+===Ability===
+The Phantom has an ability where it will choose a random player inside the investigation area and travel to a spot within 5 metres of their location (as opposed to a regular roam).<ref>[https://discord.com/channels/435431947963990026/765596827537244200/983855532542668810 ''"only phantoms and banshees walk to the target..."'' Shuee, Community Helper (on Discord). 7 June 2022.]</ref> This will create an [[EMF]] Level 2 reading at the location where the roam ended, at the level of the targeted player's head when uncrouched. This ability does not use the [[roaming]] state and can bypass the 30-second limit of a ghost state.
+
+===Hunt===
+During a hunt, the Phantom [[Hunt#Ghost flickering|flickers]] and is invisible for longer compared to most other ghosts:
+{| class="fandom-table"
+!Ghost
+!Baseline timers (s)
+!Visibility timers (s)
+!Visibility rate during hunt
+!Example
+|-
+|Standard
+|0.60 / 0.46 / 1.00 / 0.82 / 0.30 / 0.48 / 0.70 / 0.82 / 0.45 / 0.36
+| rowspan=2 |0.22 / 0.18 / 0.08 / 0.28 / 0.20 / 0.16 / 0.25 / 0.18 / 0.22 / 0.10
+|30.7% - 33.2%
+|[[File:Flickering Standard.gif|50px]]
+|-
+|Phantom
+|1.87 / 1.20 / 1.60 / 1.80 / 1.28 / 1.70 / 1.42 / 2.00 / 1.50 / 1.10
+|11.5% - 14%
+|[[File:Flickering Phantom.gif|50px]]
+|}
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]] [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]
+|[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
+|[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]] [[Ultraviolet]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: Looking at a '''Phantom''' will drop your sanity considerably faster.''
+
+''Weakness: Taking a photo of the '''Phantom''' will make it temporarily disappear.''
+
+==Strategies==
+===Identification===
+A good way to identify a Phantom is to observe whether the ghost is invisible for longer intervals on average during hunts (more than 1 second); this will usually indicate a Phantom.
+
+Taking a photo of a Phantom is also a fair indicator; the Phantom will not be visible in the photo, and there will be no interference pattern on the photo. If the photo was taken during D.O.T.S or a ghost event, the ghost will also disappear from view. This can be done when the ghost appears in D.O.T.S, when it manifests during a ghost event, or during a hunt; Generally D.O.T.S will be the most reliable, as the ghost is visible less frequently during hunts making photos difficult (and observing its blinking behavior is already enough to identify a Phantom anyways), and ghost events can be quite rare. However, note that on reduced evidence difficulties, a Phantom is ''not'' guaranteed to have D.O.T.S as one of its evidence.
+*Note that occasionally, desync may cause the same effect if the picture is taken right at the end of the ghost event, ''even if'' the ghost is not a Phantom. This may make this semi-unreliable; checking with other players about whether the photo is completely clear may help you to arrive at a conclusion (though it is not definite).
+*This could also happen at the very end of a hunt.
+*This is better to do with a [[Summoning Circle]] or [[Music Box]], since the "ghost event grace period" is generally fixed or predictable.
+*Taking photos of any ghost from a different floor will not produce interference, though for all other ghosts the ghost will still be visible.
+*Taking a photo of a Goryo during its D.O.T.S state will also produce no interference, and the ghost to be invisible on the picture.
+
+The Phantom's sanity-draining ability could be used to identify it, though this is rarely the main strategy used, as its sanity drain is gradual and not as dramatic as e.g. a Moroi or Jinn's sanity drain, and the player must discern normal sanity drain due to darkness/other factors, from the actual sanity drain caused by a Phantom.
+
+If activity (interactions or hunts) is noted in a room far away from its existing favourite room, and a player has recently been in that far-away room, then the ghosts could be narrowed down to a few ghosts, one of these being the Phantom. Note that some [[ghost event]]s or custom [[difficulty]] settings make it normal for any ghost to move far away in this manner. On the other hand, this is more reliable on big maps, since ghost activity for a generic ghost is more likely to be confined to a small area relative to the map size.
+
+When it roams to a player, it will leave an EMF level 2 reading where the roam ended, and if the player notices such a reading appearing out of nowhere when there has been no interactions and/or the player is far from the ghost room, then it could be a Phantom. Keep in mind that Wraiths also exhibit this behavior; confirm that it is not a Wraith by placing Salt nearby or by checking whether the EMF reading is located at head level or at ground level using a Tier 3 [[EMF Reader]]. Also make sure that it is not a [[Poltergeist]] as the EMF 2 of its ability will also be emitted at head level.
+
+===Survival===
+Since the Phantom is visible much less frequently during hunts, it will be harder to track, and players may die as a result of not knowing exactly where it is in time. Specifically, it will be much harder (and not recommended) to loop the ghost, while blinding it using [[Incense]] must be treated with caution: stand at the end of a suitably long hallway, and smudge slightly earlier than one would normally do to avoid being caught off guard. Tracking the ghost by its hunting noises is also a considerable strategy when dealing with a Phantom.
+
+==Trivia==
+*Etymology-wise, Phantom pulls from as early as Greece with the word ''φάντασμα,'' or ''phantasma'', which stands for an apparition or a ghost. It could also be translated to something that is not real in general, like a dream or an illusion.<ref>[https://en.wiktionary.org/wiki/%CF%86%CE%AC%CE%BD%CF%84%CE%B1%CF%83%CE%BC%CE%B1#Ancient_Greek Wikitionary etymology]</ref> As such, phantoms in most tales typically elaborate more on the concept of being an illusion version of something that already exists. The Phantom could be said to be a dream ghost.
+*Contrary to the [[journal]]'s description, the [[Ouija Board]] is not related to the Phantom in any way gameplay-wise; contracts where the cursed possession is Ouija Board do not have a higher chance of the ghost being a Phantom and vice versa, and it has no relation to a Phantom's ability to wander to players.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!6 March 2020
+|Increased the amount of time during which Phantoms are invisible during hunts.
+|-
+!7 August 2020
+|Visible Phantoms now drain sanity if the player is within line-of-sight nearby.
+|-
+! colspan="2" |Early Access
+|-
+![[0.3.0]]
+|Prior to 0.3.0, the evidence was [[EMF Level 5]], [[Ghost Orb]], and [[Freezing Temperatures]].
+|}
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{Ghost nav}}
+[[ru:Фантом]]
+[[fr:Fantôme]]
+[[Category:Ghosts]]

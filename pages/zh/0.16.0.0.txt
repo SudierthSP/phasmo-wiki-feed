@@ -1,0 +1,27 @@
+# 0.16.0.0
+# revid 4084  2026-03-04T11:51:10Z  by Qsefthuopq
+# sha256 6b53fd850d883b40f89b178e3bd48b29de0310c748c9edc839775b18103e7a5c  bytes 1288
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version|image1=|release_date=2026.3.4|previous_major_version=|previous_minor_version=|next_minor_version=|next_major_version=}}
+0.16.0.0是发布于2026.3.3的大型更新，本次更新完全重制6 Tanglewood Drive地图。
+==新增内容==
+
+* '''6 Tanglewood Drive：'''以全新的资产、物体和互动完全重制地图
+** 房间: 虽然游戏对地下室、厨房等房间布局进行了大幅调整，以优化玩法体验和关卡动线，但唐格尔伍德路6号的其他部分仍保留了整体设计。没错，那个土豆还在。全新的“纠缠之惧”挑战已加入活动面板。
+** 保留厨房的土豆彩蛋
+* 新的纠缠之惧活动已添加到活动板
+
+'''修复漏洞'''
+* 修复多个漏洞并优化游戏
+
+'''已知问题'''
+
+''每次更新，我们都将同步公布已知问题清单，这些内容团队已知晓并正在排查中，可能会通过热修复或后续更新解决。以下是6 Tanglewood Drive存在的问题：''
+
+* 杂物间水槽无法互动
+* 部分区域/物品在关灯状态下显示异常发光
+* 休息区电视遥控器上的紫外线指纹尺寸远超预期
+* 血月期间玩家可能听不到雨声音效
+* 多人模式下门厅躲藏点的门可能出现显示错误
+== 参考资料 ==
+{{Reflist}}
+{{VersionNav}}

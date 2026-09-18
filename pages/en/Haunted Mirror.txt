@@ -1,0 +1,60 @@
+# Haunted Mirror
+# revid 21290  2025-06-29T21:51:11Z  by Darkhooper
+# 备注: you cannot have a Duplicate photo for this item
+# sha256 3e61cb55df40a30d26fde56e584a36f7df649f04a0797b8d2c55776ef7a481a4  bytes 3366
+# 源: https://phasmophobia.fandom.com/api.php{{Item_Template
+|img=Cursed Mirror.jpg
+|imgcaption=
+|uses=
+|description=
+}}{{Quote|speaker=Objective Board|quote=This mirror made me feel...weird.}}
+The '''Haunted Mirror''' is a [[Cursed Possession|cursed possession]] that can be used to locate the ghost's [[ghost room|favorite room]].
+
+==Mechanics==
+[[File:Mirror usage.gif|thumb|200px|The mirror showing the ghost room]]
+[[File:Cursed Mirror Cracked.jpg|alt=|thumb|243x243px|A broken haunted mirror]]
+A haunted mirror has a 1 in 7 chance per contract of being chosen as the cursed possession that will spawn on a default [[difficulty]], with one specific spawn location per map. 
+
+===Activation and usage===
+The mirror can be {{Control|toggled}} while inside the investigation area. It will be automatically deactivated when brought outside.
+
+When activated, the haunted mirror will show a view of the [[ghost room|favorite room]] as a sweeping panorama from the center of the room, allowing players to locate the room by cross-reference. This view is a live feed of the room, so any lights turned on, items moved, and equipment or players present in the room will be visible. The only exception is the player's own model.
+
+The mirror also gives a faint glow to see into the favorite room, which all players, including the user, can see, even outside of the mirror. This can help confirm rooms, as well as help other players know where the favorite room is.
+
+Each usage of the haunted mirror, which includes the animation of raising but not of lowering the mirror, will decrease [[sanity]] at a rate of 7.5% per second, or by 20%, whichever is higher. This means that using the mirror for less than ~2.67 seconds will still drain at least 20% sanity.
+
+The mirror will crack visually and audibly, triggering a [[Hunt#Cursed hunts|cursed hunt]] if:
+*The user's sanity reaches 0% while looking into the mirror
+*A player activates the mirror while below 20% sanity
+
+Once broken, the mirror automatically lowers and cannot be used for the rest of the investigation.
+
+===Rewards===
+{{Main|Media}}
+Taking a photo of a haunted mirror, cracked or not, will yield a photo labelled as '''Haunted Mirror''', and reward up to $7 and 7 XP, depending on the tier of the [[Photo Camera]].
+
+==Tips==
+*On maps such as [[Brownstone High School]] where many rooms look very similar, it may be hard to confirm the favorite room; players can place some equipment in the room they suspect to be the favorite room, and see if said equipment is visible in the mirror. Alternatively, players can also memorize small details such as the position and placement of windows, or the tile color, before searching that room.
+*If the "Eye Adaption" option is on, the player's vision will be significantly darkened for a short while after lowering down the mirror. Turn this option off if it becomes troublesome.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.5.0]]
+|Added Haunted Mirror as a cursed possession.
+|-
+![[0.5.0.2]]
+|The mirror's view into the favourite room will now keep rotating instead of resetting on every use.
+|-
+![[0.8.0.3]]
+|The mirror now drains at least 20% sanity per use.
+|-
+![[0.9.5.0]]
+|The Haunted Mirror will now correctly break straight away if you do not have enough sanity (20%).
+|}<br>
+{{EquipmentNav}}
+[[Category:Item]]
+[[fr:Miroir hanté]]
+[[ru:Зачарованное зеркало]]

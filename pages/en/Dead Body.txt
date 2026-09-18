@@ -1,0 +1,23 @@
+# Dead Body
+# revid 24246  2026-07-24T04:35:08Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 a5e5949286cb90edd65a77825fea9354fe9d6612312a4a8d73fc11c7c14e5803  bytes 1358
+# 源: https://phasmophobia.fandom.com/api.php[[ru:Труп]]
+[[File:DeadBodyPrison.png|300px|thumb|A dead body in Admin Hallway on Prison]]
+A '''dead body''' is the corpse of a player that was [[death|killed]] by the [[ghost]] during a [[hunt]], drew ''The Hanged Man'' [[Tarot Cards|tarot card]] or died from the negative effect of the revival wish from the [[Monkey Paw|monkey paw]]. It will remain at that player's place of death until the end of the game or their resurrection.
+
+==Mechanics==
+During the process of death, the player who died will levitate with their hands reaching their neck, before having it snapped and dropping dead.
+
+The player can be revived by drawing [[Tarot Cards|tarot cards]], via the ''The High Priestess'' card, or using the [[Monkey Paw]]'s revival wish (which also has a 50% chance to simultaneously kill the wisher).
+
+===Rewards===
+{{Main|Media}}
+Taking a photo of a dead body or filming the [[death]] of a player will respectively yield a '''Dead Body''' photo rewarding up to $7 and 7 XP, and a '''Dead Body''' video rewarding up to $12 and 12 XP, depending on the equipment tier and whether there is a Unique stamp.
+
+==Trivia==
+*Taking a photo of the dead body does not affect the dead player's insurance.
+*There used to be a bug where taking a photo of the bin outside [[42 Edgefield Road]] would count as a dead body photo.
+
+[[Category:Gameplay]]
+[[fr:Cadavre]]

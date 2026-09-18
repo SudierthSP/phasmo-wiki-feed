@@ -1,0 +1,68 @@
+# Flashlight
+# revid 23423  2026-05-10T02:34:54Z  by Darkhooper
+# sha256 730f8eac52b2895627b39a68a0e2940413097821ee4769fd4b2cb6711ddf2627  bytes 3332
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=Flash090_T1.png
+ | tier ii img=Flash090_T2.png
+ | tier iii img=Flash090_T3.png
+
+ | price=$30
+ | maxamount=4
+ | uses=
+ | starter=Yes
+ | tier i level=
+ | tier ii level=18
+ | tier iii level=34
+
+ | tier i description=Passed down through generations, we’re surprised it’s still working.
+ | tier i purpose=A retro metallic flashlight, which provides a small amount of light, just enough to get around.
+ | tier i ability=<span style="color: #008000;">Intensity: Low<br>Spotlight: Narrow</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier ii description=It’s compact and lightweight, featuring a back button for a more tactical grip.
+ | tier ii purpose=This flashlight emits a much brighter beam of light.
+ | tier ii ability=<span style="color: #008000;">Intensity: Medium<br>Spotlight: Narrow</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier iii description=A much larger flashlight, it even has a carry handle!
+ | tier iii purpose=Projecting a much wider cone of light, this flashlight is perfect for large rooms and open spaces.
+ | tier iii ability=<span style="color: #008000;">Intensity: High<br>Spotlight: Wide</span><br><span style="color: #ff0000;">Electronic</span>
+}}The '''flashlight''' is an essential piece of [[equipment]] that is used to illuminate the area, usually in front of the player.
+
+==Usage==
+{{Control|Toggling}} on an equipped flashlight will provide a small conical range of light to improve visibility of the environment. The flashlight is always held in the player's left hand and can be {{Control|dropped}} if the right hand is empty. When the right hand is not empty, the flashlight can be turned on or off by pressing the {{Control|Special}} key.
+
+VR players can carry multiple flashlights at the same time while non-VR players can't.
+
+Up to 4 flashlights can be brought on a single [[contract]]. One flashlight is always provided per contract as a starter equipment.
+
+During a [[hunt]], a flashlight will rapidly flicker if a ghost is within 10 metres (15 metres if it is a [[Raiju]]) and on the same floor. Like other electronic equipment, carrying a lit flashlight within 7.5 metres of the ghost during a hunt on the same floor will attract it.
+
+==Tips==
+*Extra flashlights can be dropped within dark areas of the map to provide illumination that remains unaffected by the state of the [[fuse box]] (though is subject to electronic interference during a hunt). This may be helpful if a [[ghost]] tampers with the lights and/or [[fuse box]] frequently.
+
+==Gallery==
+<gallery>
+File:Phasmophobia flashlight old vs new.png|thumb|Pre-[[0.3.0]] flashlight vs its subsequent updated model
+File:Flashlight tier comparison.png|thumb|Comparison of the 3 tiers of flashlights on [[6 Tanglewood Drive]]
+</gallery>
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+!rowspan="2" |[[0.3.0]]
+|Changed the flashlight model.
+|-
+|Changed the light color to yellowish.
+|-
+![[0.9.0]]
+|The Flashlight now has 3 tiers.
+|-
+![[0.9.3.0]]
+|Flashlight III Upgrade now costs $3000 (up from $2500).
+|-
+![[0.17.0]]
+|Flashlights will now be held in the player’s left hand, and can be dropped when the right hand is empty.
+|}<br>
+{{Equipment nav}}
+[[Category:Equipment]]
+[[Category:Starter Equipment]]
+[[fr:Lampe de poche]]
+[[ru:Фонарик]]

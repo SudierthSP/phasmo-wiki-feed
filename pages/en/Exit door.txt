@@ -1,0 +1,5 @@
+# Exit door
+# revid 10121  2022-02-11T03:18:54Z  by Skaijie
+# 备注: Changed redirect target from [[Exit Doors]] to [[Exit Door]]
+# sha256 b1e4545168c6be09a90ee7002d5152460d08fa14ff09b569f483720877bd3a46  bytes 23
+# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Exit Door]]

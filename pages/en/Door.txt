@@ -1,0 +1,89 @@
+# Door
+# revid 24666  2026-09-15T04:26:32Z  by Darkhooper
+# 备注: Added subsection on how many doors start open
+# sha256 9d99a0da89d901d61f9c8a77030434871a4d754e9c5d34ec5df5215eefe4fc0b  bytes 6304
+# 源: https://phasmophobia.fandom.com/api.php'''Doors''' are map elements that play an important role in ''Phasmophobia''. They are crucial to the game's mechanics and provide help during investigations.
+
+==Types of doors==
+All [[map]]s contain doors of some sort. There are three types of doors in the game: hiding spot (locker/closet/small tent flap), passageway (room/hallway/stall/cell) and [[exit door|exit/entrance]]. Each of them serves a different purpose. 
+
+Non-VR [[player]]s can use the {{Control|Interact}} button on a door and move their view in a sweeping manner to open or close the door. VR players can aim for the door to do so. VR players cannot move doors with a non-empty hand.
+
+===Hiding spot doors===
+Like the name implies, these doors serve to protect hidden players. Both [[player]]s and [[ghost]]s have to manipulate hiding spot doors in order to open or close them. Ghosts will usually not enter hiding spots when [[hunt]]ing because they don't need to: a ghost can reach out and [[death|kill]] the player just as these doors are in open position. Therefore, the challenge for the players is to keep these doors closed for as much as possible and as long as they remain hidden.
+
+===Passageway doors===
+Passageway doors will usually (but not always) delimit a room/area and serve as sight blockers. Unlike players, ghosts can phase through passageway doors, both during and outside of hunts. However, just like with hiding spot doors, ghosts cannot see through passageway doors. The only exception to that is the [[Deogen]], who can set waypoints to the closest player's location, disregarding sight rules.
+
+===Exit doors===
+Exit doors can be locked or unlocked by players or the game itself. They separate the "investigation area" from the safe sections of the maps, trapping the ghost inside its confines, and additionally trapping players inside the investigation area during hunts. Ghosts cannot normally interact with this type of doors.
+
+The cabin doors on [[Maple Lodge Campsite]] or the wing doors in [[Sunny Meadows Mental Institution|Sunny Meadows]] are not exit doors, though they can be locked and are instead passageway doors.
+
+==Gameplay mechanics==
+===Doors starting open===
+Depending on the [[difficulty]] and the [[map]] size, a certain amount of doors among valid doors will be open or ajar at the start of the [[contract]]:
+{| class="fandom-table"
+! rowspan="2" |Map Size
+! colspan="4" |''Doors starting open'' parameter
+|-
+!None
+!Low
+!Medium
+!High
+|-
+!Small
+|0%
+|20% (1/5)
+|33% (1/3)
+|50% (1/2)
+|-
+!Medium/Large
+|0%
+|5% (1/20)
+|10% (1/10)
+|15% (15/100)
+|}
+<br>Valid doors are not necessarily doors that the ghost can interact with. For example, the mailbox door on [[13 Willow Street]] is a valid door despite being outside the investigation area. Exit doors also count as valid doors despite the ghost not being able to interact with them normally. Likewise, doors that the ghost can interact with are not necessarily valid doors. For example, the kitchen doors on [[6 Tanglewood Drive]] are not valid doors. Hiding spot doors can be valid doors on some maps (e.g. Edgefield and Ridgeview) but not on others (e.g. Tanglewood and Grafton).
+
+After the game calculates how many doors will be opened, rounded up to the nearest integer, it will open that number of randomly chosen valid doors (excluding exit doors).
+
+===Door interaction===
+When [[Interaction|interacting]] with a door, ghosts have a 85% chance to shake the door (when not a tent door) before the actual interaction in one of the three following ways:
+*<u>Opening or closing</u> (70% chance)
+**For hinged doors, a force between 0.01N and 0.05N will be applied.
+***The Yurei will use a force of 0.6N.
+**For sliding doors, a force between 1N and 2N will be applied.
+***The Yurei will use a force of 26N.
+**For tent doors, a force between 0.5N and 0.7N will be applied.
+***The Yurei will use a force of 10N.
+*<u>Opening or closing with a creaking sound</u> (15% chance)
+**If the door was in a closed state, this will open it. If the door was in an opened state, it will be a 50/50 chance between opening or closing.
+**For hinged doors and sliding doors, the movement will have an amplitude between 0.2 and 1 (1 means the door will fully open/close from a fully closed/opened state).
+***The [[Yurei]] will always use an amplitude of 1.
+**For tent doors, a force between 0.1N and 0.2N will be applied instead.
+*<u>Strong slam</u> (15% chance)
+**For tent doors, a force of 10N will be applied instead of closing them.
+
+Ghosts cannot interact with doors that are being held by a player. There are two exceptions, both during a [[hunt]]:
+*Ghosts will forcefully open a hiding spot door if a player has been detected inside a closet/locker.
+*Ghosts will forcefully close a passageway door if a player has been detected near an opened one.
+
+During certain [[ghost event]]s, all passageway doors in the room/area (including the exit door, if applicable) will strongly slam shut without shaking beforehand. Though this creates [[EMF]] readings on affected doors, [[Ultraviolet|fingerprints]] will not be left on them.
+
+When a hunt begins, all exit doors and certain wing doors in Sunny Meadows will close and lock for the duration of the hunt. This is not considered as an interaction.
+
+===Rewards===
+{{Main|Media}}
+Recording a moving door with a [[Video Camera]] will create a '''Door Moved''' video in the [[Journal]], rewarding up to $7 and 7 XP. The video evidence is valid as soon as the door starts rattling. If the ghost has [[Ultraviolet]] evidence, the ghost has a chance to leave fingerprints on the door. In this case, players may reveal the fingerprints using a [[UV Light]] before snapping a quick photo labelled '''Fingerprints'''. 
+
+==Related difficulty settings==
+{{Main|Difficulty}}
+*'''Doors starting open:''' How many doors are randomly moved at the start of the contract
+
+==Trivia==
+*Players used to be able to pull most doors off of their hinges by walking into them from a certain angle. While it did not prevent the ghost from opening or closing them, this glitch could be abused in order to go through walls or go out of bounds, such as going onto the roof of 6 Tanglewood Drive by using the locker doors in the garage. This has been fixed in [[0.11.0]].
+{{MapFeatureNav}}
+[[Category:Map Features]]
+[[fr:Porte]]
+[[ru:Двери]]

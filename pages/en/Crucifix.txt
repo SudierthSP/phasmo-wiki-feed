@@ -1,0 +1,142 @@
+# Crucifix
+# revid 24416  2026-08-04T01:36:40Z  by Darkhooper
+# 备注: changed file
+# sha256 959cee767d04721ff1a1a8650900a5458dcd314c848982b74b1a280a592f19de  bytes 7625
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=Crucifix090_T1.png
+ | tier ii img=Crucifix090_T2.png
+ | tier iii img=Crucifix090_T3.png
+
+ | price=$30
+ | maxamount=2
+ | uses=Depends
+ | starter=No
+ | tier i level=7
+ | tier ii level=34
+ | tier iii level=80
+
+ | tier i description=Just two scraps of wood tied together. The shape alone seems to be enough to ward off some paranormal entities.
+ | tier i purpose=This crucifix can be held or placed to stop the ghost from initiating a single attack.<br>Make sure to keep it placed near any activity you may find.
+ | tier i ability=<span style="color: #008000;">Range (m): 3<br>Uses: 1<br>Placeable</span><br><span style="color: #ff0000;">Consumable</span>
+ | tier ii description=Upgraded from wood to cast iron, this cross provides a much more reliable defence.
+ | tier ii purpose=A metal crucifix that can be used to block two attacks, with a larger range.<br>Remember to keep it in close proximity to any activity you come across.
+ | tier ii ability=<span style="color: #008000;">Range (m): 4<br>Uses: 2<br>Placeable</span><br><span style="color: #ff0000;">Consumable</span>
+ | tier iii description=This ornate crucifix has been adorned with gold and silver linings. These intricate designs have been proven to increase defense against other worldly beings.
+ | tier iii purpose=This crucifix has an even larger range than its previous version. Additionally, an unused crucifix can prevent a cursed hunt, consuming both uses.
+ | tier iii ability=<span style="color: #008000;">Range (m): 5<br>Uses: 2<br>Prevents one cursed hunt<br>Placeable</span><br><span style="color: #ff0000;">Consumable</span>
+}}
+The '''crucifix''' is a buyable item that is used to prevent [[ghost]]s from [[hunt]]ing.
+
+==Mechanics==
+[[File:T1CrucifixRange.png|200px|thumb|right|The tier I crucifix's effective range shown while placing it.]]
+A crucifix can be held in the player's hand, {{Control|thrown}}, or {{Control|placed}}; the crucifix works in all three situations. Holding the placing button will show the default effective range for the crucifix; this is a translucent sphere with a radius depending on its tier level (even if the ghost has a different effective range):
+*Tier I: 3 metres
+*Tier II: 4 metres
+*Tier III: 5 metres
+
+When the ghost attempts to initiate a hunt within the crucifix's range, the hunt will fail to begin, and a charge will be used. More precisely, the hunt fails if both the ghost's feet ''and'' the ghost's head (located 1.5 metres above the floor) are within the range. The ghost is then teleported back to its [[Ghost Room|favourite room]].
+
+Each time a crucifix successfully prevents a hunt, an [[EMF]] Level 2 reading is created, with a 33% chance for this to be [[EMF Level 5]] if it is one of the ghost's types of [[evidence]]. The ghost must also wait a minimum of 25 seconds (20 seconds for a [[Demon]]) before being able to attempt other hunts.
+
+For the [[Demon]], the crucifix's effective range is increased by 50% for each tier:
+*Tier I: 4.5 metres
+*Tier II: 6 metres
+*Tier III: 7.5 metres
+
+For the [[Gallu]], the crucifix's effective range is decreased by 2 metres while in its "enraged" state, and increased by 1 metre while in its "weakened" state.
+
+The Tier I crucifix only has one charge, while tier II and tier III both have two charges. Each time it blocks a hunt attempt, a burning effect will appear, and the crucifix will glow visually before cooling down. On first use, one arm of the crucifix will disappear. On second use, more parts of the crucifix will disappear. After the crucifix is completely burnt, the crucifix will be useless and have no further effect on the ghost.
+
+If a player-held crucifix successfully prevents a hunt attempt, it will automatically be thrown on the ground.
+
+The crucifix will ''not'' work if:
+*The ghost is not within the specified range (even if the crucifix is located in the favourite room)
+*The ghost and the crucifix are not considered on the same floor
+*A cursed possession is used to initiate a [[Hunt#Cursed_hunts|cursed hunt]] (except for an unused tier III crucifix, which can be used to stop a cursed hunt at the cost of ''both'' its charges)
+*A hunt has already started/is in progress
+
+The crucifix range is not limited by any obstacle such as walls and doors. This includes exterior walls, which means that it is possible for crucifixes to be used outside provided the ghost is within its range inside the investigation area. [[42 Edgefield Road]] is a good example of this, where a ghost near the front of the house, even upstairs, could possibly use up a crucifix still hanging on the truck wall.
+
+===Rewards===
+{{Main|Media}}
+Taking a [[photo]] of a crucifix that has been used once or twice will yield a '''Burned Crucifix''' photo, filming a crucifix while it is burning will yield a '''Burned Crucifix''' video, and recording the sound of a crucifix while it is burning will yield a '''Burned Crucifix''' sound. These pieces of media respectively reward up to $7 and 7 XP, $12 and 12 XP, and $7 and 7 XP, depending on the equipment tier and whether there is a Unique stamp.
+
+==Tips==
+Although the crucifix works while held in-hand, it is strongly advised to place the crucifix on the ground, as this will free the player to do other objectives or hold onto more useful equipment during the investigation.
+
+==Trivia==
+*Because it has no [https://en.wikipedia.org/wiki/Crucifix corpus] (figure of the crucified Christ), the in-game item is not a true crucifix but rather just a regular cross.
+*Crucifixes have an internal timer. If they are put in the inventory (i.e. not held in hand), the timer is reset. When the ghost tries to hunt within range of multiple crucifixes, it will burn the one with the greater time.
+
+==Objectives==
+{| class="article-table"
+!Objective
+!Actual requirements
+|-
+|Prevent the ghost from hunting with a Crucifix
+|The ghost attempts a hunt within range of a crucifix
+|}
+
+==Gallery==
+<gallery orientation="Square">
+Crucifix used once 0.8.1.gif|A fresh tier II crucifix blocking its first hunt attempt.
+Crucifix stages 0.8.1.gif|The stages of tier II crucifix.
+</gallery>
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+! rowspan="2" |3 July 2020
+|The crucifix is no longer used up when preventing a hunt.
+|-
+|Increased the crucifix's price from $25 to $30.
+|-
+!26 August 2020<br>(Part 2)
+|Increased the crucifix's range by 1 metre for all ghosts.
+|-
+! colspan="2" |Early Access
+|-
+![[0.174]]
+|The crucifix is now consumable, with 2 uses.
+|-
+!29 September 2020
+|Decreased the crucifix's range by 1 metre for all ghosts.
+|-
+![[0.27.4.2]]
+|The crucifix now has models for each use instead of disappearing on its final use.
+|-
+![[0.28.6.5]]
+|Crucifixes now cause a 5 second delay before the ghost can attempt to initiate another hunt.
+|-
+![[0.3.0]]
+|Changed the crucifix model.
+|-
+! rowspan="2"|[[0.7.0]]
+|A successful block of a hunt attempt will now create an EMF 2 reading.
+|-
+|Used crucifixes can now be photographed.
+|-
+! rowspan="2" |[[0.8.0]]
+|Crucifixes can now be placed.
+|-
+|The crucifix's range can now be previewed.
+|-
+! rowspan="2" |[[0.8.1.0]]
+|Successful uses of the crucifix now causes the ghost to wait 25 seconds before hunting again (20 for a Demon).
+|-
+|Added new textures, effects, and sounds when the crucifix is used.
+|-
+! rowspan="2" |[[0.9.0]]
+|Added Tier I and Tier III crucifixes.
+|-
+|The original crucifix model is now Tier II and range reduced to 4 meters.
+|-
+![[0.13.0]]
+|The Crucifix now visually "cools down" after successfully preventing a hunt.
+|}
+
+{{EquipmentNav}}
+[[Category:Equipment]]
+[[fr:Crucifix]]
+[[ru:Распятие]]

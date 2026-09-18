@@ -1,0 +1,171 @@
+# 42 Edgefield Road
+# revid 24921  2026-09-18T17:08:30Z  by Darkhooper
+# 备注: changed page layout
+# sha256 86aaf4e1033f7eb948a365dab33d2aace2ab0170f38c705a941366592abe5b44  bytes 6746
+# 源: https://phasmophobia.fandom.com/api.php{{Location
+|img=Edgefield first floor hallway.png
+|imgcaption=A view from the first floor hallway.
+|mapsize=Small
+|unlocklevel=2
+|floors=3
+|rooms=16 (Total)
+*2F: 8
+*1F: 7
+*B: 1
+|exits=1
+|faucets=4
+|videofeeds=1
+|keys=Front Door Key, Car Key
+|img rooms=Rooms Edgefield.png
+|img sanity=Sanity Edgefield.png
+|img temperatures=Temperatures Edgefield.png
+}}
+{{Quote
+|speaker=Loading blurb
+|quote=This cozy house turned into something much more than a home for the living.
+}}'''42 Edgefield Road''' (or simply '''Edgefield''') is a small [[map]] in ''Phasmophobia''. It is a two story, six-bedroom house with a basement, with a congested, claustrophobic environment. Despite the thin hallways, there are plenty of hiding spaces during a [[hunt]], as a room to hide in is always a few paces away.
+
+Its tight hallways can often make it difficult to see past fellow investigators, and a team member may be encouraged to set up [[Video Camera]]s and observe key investigative details from the [[truck]].
+
+==Structure==
+Edgefield contains six bedrooms (including a nursery), six toilets, a dining room, a garage, and a basement, among other rooms.
+
+===Layout tips===
+*Both the basement hallway and the storage room separated by a door is considered a single "Basement" room.
+*For every bedroom on the second floor, the game considers both the room with the bed and the attached bathroom, if any, to be a single room.
+*There is a bug where the computer in Small Blue Bedroom needs to be turned on to prevent passive sanity drain in that room.
+
+The following rooms allow short [[Roaming|roams]] to another floor to be completed:
+*Basement
+
+Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
+{| class="article-table"
+!Parameter
+!None
+!Low
+!Medium
+!High
+|-
+!Number
+|0
+|7
+|11
+|16
+|}
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 9 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Utility
+|[[File:Edgefield Utility unavailable.png|200px]]
+|[[File:Edgefield Utility available.png|200px]]
+|-
+|Garage
+|[[File:Edgefield Garage unavailable.png|200px]]
+|[[File:Edgefield Garage available.png|200px]]
+|-
+|Upstairs Hallway
+|[[File:Edgefield Upstairs Hallway 1 unavailable.png|200px]]
+|[[File:Edgefield Upstairs Hallway 1 available.png|200px]]
+|-
+|Upstairs Hallway
+|[[File:Edgefield Upstairs Hallway 2 unavailable.png|200px]]
+|[[File:Edgefield Upstairs Hallway 2 available.png|200px]]
+|-
+|Small Blue Bedroom
+|[[File:Edgefield Small Blue Bedroom unavailable.png|200px]]
+|[[File:Edgefield Small Blue Bedroom available.png|200px]]
+|-
+|Large Blue Bedroom
+|[[File:Edgefield Large Blue Bedroom unavailable.png|200px]]
+|[[File:Edgefield Large Blue Bedroom available.png|200px]]
+|-
+|Master Bedroom
+|[[File:Edgefield Master Bedroom 1 unavailable.png|200px]]
+|[[File:Edgefield Master Bedroom 1 available.png|200px]]
+|-
+|Master Bedroom
+|[[File:Edgefield Master Bedroom 2 unavailable.png|200px]]
+|[[File:Edgefield Master Bedroom 2 available.png|200px]]
+|-
+|Basement
+|[[File:Edgefield Basement unavailable.png|200px]]
+|[[File:Edgefield Basement available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|9
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|6
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|4
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|2
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+Several more unofficial furniture-based hiding spots are available. While they are more risky, they will never be blocked unlike official hiding spots, and can still provide decent hiding in most cases. Examples include:
+*'''Hallway''', behind a cupboard at the rear end of the hallway
+*'''Living Room''', behind the bookshelf. It will block line-of-sight from the doorway, but it can be very risky if the ghost enters the living room.
+*'''Basement''', behind the shelves in the storage room
+
+[[Guides/Surviving a hunt#Looping%20the%20ghost|Looping]] the ghost is only possible around the living room couch, but the latter doesn't block line of sight. Using tier III [[Salt]] can be useful to slow down the ghost if one wants to test for certain ghosts (especially [[Poltergeist]] and [[Obake]]).
+
+==Bone locations==
+Bones spawn randomly, but will only spawn in areas that a ghost can also walk on. Additionally, the bone cannot spawn in '''Hallway'''.
+
+==Cursed Possession locations==
+<div class="mw-collapsible-content"><gallery widths="185">
+Hauntedmirror edgefield hallway.png|The [[Haunted Mirror]] spawns in front of the stairs leading up to the second floor in the Hallway.
+Musicbox edgefield livingroom.png|The [[Music Box]] spawns on the table with a lamp in the Living Room.
+Ouija edgefield utility.png|The [[Ouija Board]] spawns under a metal rack in the Utility.
+Summoningcircle edgefield basement.png|The [[Summoning Circle]] spawns in the segmented room of the Basement.
+Tarotcards edgefield hallway.png|The [[Tarot Cards]] spawn on the table at the front of the Foyer.
+Voodoodoll edgefield largebluebedroom.png|The [[Voodoo Doll]] spawns on the bed in the Large Blue Bedroom.
+Monkeypaw edgefield.jpeg|The [[Monkey Paw]] spawns in the Nursery on top of the blue dresser.
+</gallery></div>
+
+==Trivia==
+*Before the Purple Bedroom's toilet had a sink, it was up to the toilet user to decide how to wash their hands, if at all.
+*There used to be a bug where taking a photo of the trash can at the front of the house resulted in a Dead Body photo.
+*Since the [[truck]] is parked rather close to the house, tier II and III [[crucifix]]es might get used while they are still hanging in the truck if the ghost is in the Master Bedroom, as their range will reach into the house. If the ghost is a [[Demon]], this might even happen with a tier I crucifix.
+*The assets used for this map can be found [https://assetstore.unity.com/packages/3d/environments/urban/hq-residential-house-48976 here].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!19 March 2020
+|Split the basement into two rooms mechanic-wise.
+|-
+!?
+|Converted the basement back into a single room.
+|-
+! colspan="2" |Early Access
+|-
+![[0.7.0]]
+|Renamed Edgefield Street House to 42 Edgefield Road.
+|}<br>
+{{MapNav}}
+[[Category:Maps]]
+[[Category:Small Map]]
+[[fr:42 Edgefield Road]]
+[[ru:42 Edgefield Road]]

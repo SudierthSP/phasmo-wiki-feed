@@ -1,0 +1,96 @@
+# D.O.T.S. Projector
+# revid 22987  2026-03-29T21:02:46Z  by Darkhooper
+# 备注: moved info to DOTS Evidence page
+# sha256 099f48afb66d8e0498ebccbce6fd6e011328b97b7c8593e27333dcc77da2f8b5  bytes 5953
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=DOTS090_T1.png
+ | tier ii img=DOTS090_T2.png
+ | tier iii img=DOTS090_T3.png
+
+ | price=$65
+ | maxamount=2
+ | uses=
+ | starter=Yes
+ | tier i level=
+ | tier ii level=27
+ | tier iii level=49
+
+ | tier i description=A small laser pen that projects small beams of light into the environment.
+ | tier i purpose=A handheld projector that can be used while moving.<br>Use it near ghost activity and scan for a physical form that may appear!
+ | tier i ability=<span style="color: #008000;">Range (m): 5<br>Spotlight: Narrow<br>Placeable</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier ii description=This infrared motion sensor was adapted heavily to project light. It’s small and compact and can stick to most surfaces.
+ | tier ii purpose=This small projector emits a medium sized sphere of light. Place it on the floor for the best coverage of small to medium-sized rooms.
+ | tier ii ability=<span style="color: #008000;">Range (m): 2.5<br>Area Light<br>Placeable</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier iii description=A motorized projector with three lenses for a wide coverage of light.
+ | tier iii purpose=For the best coverage, place this projector on a wall or upright surface, stand nearby, and watch as it scans the environment.<br>To increase coverage even more, place two projectors opposite each other to fill entire rooms with infrared light!
+ | tier iii ability=<span style="color: #008000;">Range (m): 7<br>Spotlight: Wide<br>Placeable<br>Scanning</span><br><span style="color: #ff0000;">Electronic</span>
+}}The '''D.O.T.S Projector''' is a piece of electronic [[Equipment#Starter Equipment|starter equipment]], as well as a type of [[evidence]], that can be used to reveal the ghost's movement.
+
+==Usage==
+The D.O.T.S Projector can be {{Control|placed}} on a wall or floor similar to a [[Motion Sensor|motion sensor]]. It emits a matrix of bright green laser points in a small area from the projector. Tier I D.O.T.S Projector additionally can be held and {{Control|toggled}} to create a cone of D.O.T.S light where it is pointed. The Tier I D.O.T.S Projector will not work if [[Flashlight]]s are turned off in [[Difficulty#Custom|custom difficulty]] settings.
+
+Though the D.O.T.S Projector is an electronic equipment, only the Tier I D.O.T.S. Projector when activated and held will attract the ghost to the player during a [[hunt]], and they are otherwise safe to hold onto.
+
+===Evidence===
+{{Main|D.O.T.S. Projector (Evidence)}}
+==Tips==
+*If the favourite room is small, consider placing the D.O.T.S Projector in a neighbouring room to aid visibility.
+*The Projector emits a substantial amount of light when placed. Investigators can use them for illumination, especially with a spare Projector or when D.O.T.S evidence can be safely crossed off. Note that the D.O.T.S projector light does not mitigate sanity drain.
+*The Tier II and III D.O.T.S Projectors can be placed on some ceilings in a few maps, which may allow the light to cover a room with much more consistency. This is especially useful for the tier III projector, whose sweeping motions and cone-shaped light area can cause the ghost to potentially leave its light prematurely depending on the ghost's and the projector's movement.
+*The green light emitted may obscure nearby [[Ultraviolet#Fingerprints|fingerprints]] or [[Ultraviolet#Footprints|footprints]]; look carefully or remove the projector when checking for ultraviolet evidence.
+*The tier III D.O.T.S Projector emits a constant motor whirring sound when active, which can both be quite annoying and interfere with the player's hearing when trying to listen for ghost activity. If you press {{Control|Interact}} when pointing at the projector, it will ''stop'' in its current position, allowing it to operate in complete silence at the cost of covering a smaller area; interacting again will turn it off completely, and interacting a third time will turn it back on again.
+
+==Trivia==
+*D.O.T.S stands for "Detector Of The Supernatural".
+*The D.O.T.S Projector is inspired by the XBOX Kinect scene in the film ''Paranormal Activity 4''.<ref>[https://discord.com/channels/435431947963990026/754891077374443592/932065910800400445 ''"I came up with DOTS based on the XBOX kinect scene from Paranormal activity film"''. cjdxn, Lead Artist (on Discord). 16 January 2022.]</ref>
+*The D.O.T.S Projector as referenced in game forgets to add an extra "." as in D.O.T.S.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.3.0]]
+|Added D.O.T.S Projector.
+|-
+![[0.3.0.1]]
+|Increased the interaction rate with the D.O.T.S Projector.
+|-
+![[0.3.0.2]]
+|The ghost will now move through the DOTS Projector at different speeds each time.
+|-
+! rowspan="2" |[[0.3.0.3]]
+|D.O.T.S Projectors now emit sounds randomly rather than when the ghost interacts with it.
+|-
+| D.O.T.S Projectors no longer produce an EMF reading.
+|-
+![[0.3.1.0]]
+|Dead players can no longer see D.O.T.S Projector figures.
+|-
+! rowspan="4" |[[0.9.0]]
+|The D.O.T.S. Projector now has 3 tiers.
+|-
+|Ghosts with DOTS evidence can now enter a short “DOTS state”; where they are temporarily visible with infrared light, during this time they will wander towards the nearest player before disappearing (if the player is in the same room).
+|-
+|You will no longer get duplicate DOTS ghosts, or DOTS triggering during events, hunts or other interactions, as DOTS.
+|-
+|DOTS Ghost photos now count as normal ghost photos.
+|-
+![[0.9.0.1]]
+|DOTS T1 is now placeable on most surfaces like Firelights.
+|-
+![[0.9.3.0]]
+|Lowered the volume of DOTS Projector III.
+|-
+! rowspan="2"|[[0.10.0]]
+|Increased the light range for tier I.
+|-
+|Tier III's scanning effect can now be paused by interacting with it while it is rotating.
+|}
+
+==References==
+{{Reflist}}
+{{Equipment nav}}
+[[Category:Equipment]]
+[[Category:Evidence]]
+[[fr:Projecteur D.O.T.S.]]
+[[ru:Лазерный проектор]]

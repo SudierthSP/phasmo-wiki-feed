@@ -1,0 +1,30 @@
+# Fire Source
+# revid 24533  2026-08-26T17:32:31Z  by Darkhooper
+# 备注: 0.19 bug
+# sha256 5f1db5dd62eb8552b13060152d23e6328e7d9d6a586589ec6b0cc180f8933178  bytes 2242
+# 源: https://phasmophobia.fandom.com/api.php[[File:Edgefield Candle.png|thumb|A candle in [[42 Edgefield Road]].]]
+[[File:Woodwind Campfire.png|thumb|A campfire in [[Camp Woodwind]].]]
+[[File:Point Hope Fireplace.png|thumb|A fireplace in [[Point Hope]].]]
+'''Fire sources''' are a map feature which the [[ghost]] can interact with.
+
+==Mechanics==
+Fire sources can be found at specific spots on several maps. Players can light these fire sources by using the {{Control|Secondary Use}} button while having a lit [[igniter]] or [[firelight]] in hand.<ref group="note">There is currently a bug where lighting a fire source using a firelight will make it visually lit only for the player who lit it.</ref>
+
+When a ghost [[Interaction|interacts]] with a fire source, it can either light it up or blow it out. In both cases, an [[EMF]] 2 reading (or [[EMF Level 5]]) will be created at the fire source. The [[Onryo]] cannot light fire sources, and no ghost can light the [[Summoning Circle]]'s candles.
+
+When a fire source is lit up for the first time, there will be a 30-second cooldown before the ghost can attempt to blow it out. If the ghost did not blow out the fire source at the end of a cooldown, or if the fire source is not lit for the first time, a new cooldown is set with a random duration between 20 and 80 seconds. The Onryo is the only ghost that can bypass these cooldowns due to its hunt prevention mechanics.
+
+Ghosts have a 66.67% (2/3) chance to blow out a lit fire source provided they are within 5 meters and the cooldown is over.
+
+Lit fire sources cannot be turned off by players, and will never self-extinguish (except for the Summoning Circle's candles, which instantly self-extinguish if the player lights them up while having less than 16% sanity).
+
+===Rewards===
+{{Main|Media}}
+Three pieces of media can be recorded with fire sources: a '''Fire Interaction''' video when a fire source is lit by the ghost, and a '''Fire Extinguish''' video and a '''Fire Extinguish''' sound when a fire source is blown out by the ghost. All of these can reward up to $7 and 7 XP, depending on the equipment tier and whether there is a Unique stamp.
+
+==Notes==
+{{Reflist|group="note"}}
+{{MapFeatureNav}}
+[[ru:Источник огня]]
+[[Category:Map Features]]
+[[fr:Source de feu]]

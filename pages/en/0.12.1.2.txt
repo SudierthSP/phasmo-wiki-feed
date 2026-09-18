@@ -1,0 +1,26 @@
+# 0.12.1.2
+# revid 23891  2026-06-28T21:36:23Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 70b57396111220bd1be7aefa821700dbe90ace8cab260191e4a14c9db09b28fd  bytes 1093
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| release_date=9 May 2025
+| previous_major_version=[[0.12.0.1]]
+| previous_minor_version=[[0.12.1.1]]
+| next_minor_version=
+| next_major_version=[[0.13.0]]
+}}'''0.12.1.2''' is a minor hotfix released on 9 May 2025.<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-hotfix-v01212 ''Phasmophobia Hotfix v0.12.1.2''. 9 May 2025.]</ref> It fixes issues following the end of the Cursed Hollow event.
+
+==Fixes==
+*Fixed an issue that caused the Cursed Hollow trophy to not display properly in players’ cabinets after the event had ended.
+*Fixed an issue that caused the animations on the Tier 3 Cursed Hollow trophy to not display correctly.
+*Fixed an issue that caused some Cursed Hollow decorations to appear in Camp Woodwind.
+*Fixed a visual issue in Camp Woodwind that caused some trees to not render properly.
+*Fixed an issue that was causing incorrect reflections in Tanglewood and Point Hope.
+*Fixed an issue that caused the Menu to be reflected in the trophy cabinets.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.12.1.2]]
+[[ru:0.12.1.2]]

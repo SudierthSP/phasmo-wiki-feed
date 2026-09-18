@@ -1,0 +1,37 @@
+# 0.15.0
+# revid 23901  2026-06-28T21:37:07Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 a77183f8003aae3b71c4ed901de224d86aedb25967f9c2fa8402773d693ff465  bytes 2344
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| image1=0.15.0.jpg
+| official_name=Nell's Diner
+| release_date=10 November 2025 (Official Partners early access)<br>11 November 2025 (public release)
+| previous_major_version=[[0.14.0]]
+| previous_minor_version=[[0.14.2.1]]
+| next_minor_version=[[0.15.1.0]]
+| next_major_version=[[0.16.0]]
+}}'''0.15.0''', also known as the '''Nell's Diner''' update, is a major update released on 11 November 2025.<ref>[https://www.kineticgames.co.uk/news/phasmophobia---nells-diner-v01500 ''Phasmophobia - Nell’s Diner v0.15.0.0''. 11 November 2025.]</ref><ref group="note">Official Kinetic Games Partners were given early access keys on 10 October 2025.</ref> A Steam-exclusive hotfix carrying the same version number was released on 20 November 2025 to fix a crash.<ref>[https://www.kineticgames.co.uk/news/phasmophobia---hotfix-steam-only ''Phasmophobia - Hotfix (STEAM ONLY)''. 20 November 2025.]</ref> This update adds a new small map.
+
+==Additions==
+*'''[[Nell's Diner]]:''' Nell's Diner is the newest map of Phasmophobia. Similar in size to 6 Tanglewood Drive, but much denser with a wide array of new interactable objects for both players and ghosts. Consisting of 14 rooms total, with 13 possible ghost rooms - including a walk-in freezer room - there's plenty for Ghost Hunters to discover.
+*'''Moneybags:''' We've added the new Moneybags ID Card & Badge with this update. This'll unlock once the player has earned the ‘Break the Bank’ achievement.
+**If you have already earned the achievement, this ID Card will unlock upon spending at least $1 in the in game shop and completing your first contract after downloading the update.
+
+==Fixes==
+===From versions released before 0.15.0===
+*Fixed an issue that caused no audio to play when a light is shattered during a ghost event.
+*Fixed an issue that caused Ghost Orbs to go through walls in to other rooms.
+*Fixed an issue that caused the Crucifix to fall under the map if placed inside an object.
+**In order to fix this, Crucifixes can no longer be placed inside an object.
+
+===From 0.15.0 (as fixed in hotfix)===
+*Fixed an issue affecting some players with integrated graphics cards that would cause crashes when loading in to Nell’s Diner.
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.15.0]]
+[[ru:0.15.0]]

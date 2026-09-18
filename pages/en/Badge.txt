@@ -1,0 +1,5 @@
+# Badge
+# revid 21643  2025-08-12T17:28:40Z  by Darkhooper
+# 备注: created redirect page
+# sha256 6f8896bac3736e4365c0d20062b9bc6aa08919551ba0e5350024348fe99d92d6  bytes 21
+# 源: https://phasmophobia.fandom.com/api.php#redirect [[ID Card]]

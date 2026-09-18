@@ -1,0 +1,107 @@
+# 幻妖
+# revid 4085  2026-03-07T08:46:12Z  by CangMingSW
+# sha256 80e66f09b9440fe8623083da7d76c5715b18b76c547c46f12caacff4c8d4e86e  bytes 7175
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+  |image1=发现幻妖.jpg
+  |strength=*它與環境互動時很少留下痕跡
+  |abiliti(es)=*留下的指紋會更快消失
+  |weakness(es)=*有時它會變形，這是證明其類型的最佳證據
+  |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF 5级|link=EMF 5级]]
+  |Evidence2=[[File:Fingerprints_3.png|24x24px|alt=紫外线|link=紫外线]]
+  |Evidence3=[[File:GhostOrb_Sprite.png|24x24px|alt=灵球|link=灵球]]
+}}{{Quote
+ |幻妖是一種可怕的變形鬼，它有多種形態。它會變幻為人形吸引獵物。
+ |手冊
+}}'''幻妖'''(Obake)是恐鬼症中的一種鬼魂。它們的主要能力是創造獨特指紋。
+
+==行為==
+=== 能力 ===
+[[File:幻妖六指.png|80px|thumbnail|六指指紋]]
+[[File:幻妖二指.png|80px|thumbnail|兩指指紋]]
+[[File:幻妖五指.png|80px|thumbnail|五指指紋]]
+幻妖每次与有效表面交互时，它只有 75% 的几率留下[[紫外线#指纹|指纹]]，而不是通常的 100%。踩盐后，它每一步也只有 75% 的几率留下[[紫外线#脚印|脚印]]，而不是通常的 100%。当判定失败时不会产生脚步声。在多人游戏中，由于缺失的脚印在玩家之间不会同步，这可能会导致每个玩家的脚印数量和脚步声有所不同。
+
+此外，在留下指紋時，有六分之一（約 16.7%）的機率留下獨特的指紋：
+
+* 六指手印，而不是通常的五指。
+* 電燈開關、電視遙控器上有兩個指紋而不是一個。
+* 鍵盤和監獄牢房門上的五個指紋而不是四個。
+
+幻妖偶尔会使用一种能力，将地图上所有现有指纹的剩余时间减少一半。这种能力可以快速连续多次触发，使指纹实例有可能在消失之前仅持续几秒钟。
+
+=== 獵殺 ===
+獵殺時，幻妖每次閃爍現身有機率暫時變換鬼魂模型。
+
+* 下次閃爍會回歸原型。
+* 幻妖只會以同一個性別變形模型。
+* 死亡的玩家看不見此能力。
+
+變身會在第12、27、39、54、62、80、105、120、132次的閃爍發生（排列為第一次閃爍開始）。
+
+* 這表示說，幻妖第一次變形會是獵殺開始的 6-7 秒後發生。
+* 如果獵殺提前結束（比如所有玩家在[[地圖#調查區域|調查區域]]外，或鬼魂殺死玩家），那麼鬼魂可能因為還沒閃爍 12 次就無法在獵殺中變形。
+
+幻妖變形時有固定的[[鬼魂模型]]次序。[[合約]]的第一次變形都會根據以下的次序循環。變形為自己的原本模型時大概可看到它重置模型。
+
+在完成合约后的数据统计中，[[紫外线]]消失和幽灵变形都将计入“使用能力”的次数。
+
+{| class="fandom-table" style="text-align:center"
+!男性鬼魂
+!女性鬼魂
+|-
+|[[File:Ghost Male Butcher.png|142px]] → [[File:2.png|89px]] → [[File:Ghost Male Greybeard.png|59px]] → [[File:Ghost Male Sofia.png|50px]] → [[File:Ghost Male Nerd.png|50px]] → [[File:4.png|50px]] → [[File:3.png|50px]]
+|[[File:Ghost CreepyGirl.png|54px]] → [[File:Ghost OldCrone.png|100px]] → [[File:Ghost RingGirlUPDATED.png|80px]] → [[File:Ghost Argyro.png|53px]]
+|}<br>如果鬼魂模型是坎普斯（2024年聖誕節特殊模型），那麼這個變形能力不能發生。
+
+觸發"假獵殺"鬼魂事件時，幻妖有幾率"跳過"腳步聲，這可用來判斷幻妖。著很有可能是遊戲錯誤。
+
+變形及減少指紋持續時間的能力都會算在合約統計的能力使用次數。
+
+==特徵和弱點==
+特徵：它與環境互動時很少留下痕跡。
+
+弱點：有時它會變形，這是證明其類型的最佳證據。（特殊指紋）
+
+==证据==
+{{Evidence list|EMF 5级|紫外线|灵球}}限制證據的難度下（1、2 證據，如噩夢難度），幻妖必定會提供指紋作為證據之一，如果沒有獲得指紋證據，可以排除幻妖。
+
+==對策==
+<!--If the ghost touches a surface and leaves no fingerprints, then later leaves fingerprints on another surface, or vice versa, this usually points to the ghost being an Obake.
+
+If an Obake is suspected, checking a touched surface with a [[UV Light]] each time it interacts with a door or the like is prudent to spotting the Obake's special fingerprints, both to maximize the chances of spotting them and to note any instances of them rapidly disappearing. Note that getting normal fingerprints, even several times repeatedly, does not rule out an Obake outright.
+
+Although the Obake has a 75% chance to leave Ultraviolet evidence, due to probability, it is possible for the Obake to always leave fingerprints on surfaces that it touches much like any other ghost with Ultraviolet. It's also possible for an Obake to interact with nearby doors frequently enough that it can effectively "mask" an instance where it does not leave fingerprints during one interaction by instead providing them in a separate interaction moments later, as well as conceal its ability to quickly decay its fingerprints.
+
+If you are on a zero-evidence run, the Obake will never produce fingerprints nor footprints, and hence can only be identified spotting its shapeshifting power during a hunt. Strong looping skills are very favorable in order to maintain sight on it for extended periods of time to catch it changing models during a flicker. Use of [[Incense]] or Tier III [[Salt]] can make the task significantly easier in that regard.
+
+Note that there are [[difficulty]] settings that can change the default chance of a fingerprint being left on a surface, as well as the decay timer. Keep this in mind when playing on such custom difficulties.
+-->[[File:Obake-six-fingers.png|thumbnail|alt=六指指纹|只有幻妖有六指指纹]]
+如果鬼魂與一個表面互動卻沒有留下指紋，但在另一個表面互動時有留下指紋，那麼幻妖的可能性很高。
+* 要確定幻妖真的是動了那個表面，不要誤判鬼魂沒留下指紋。
+
+由於幻妖可以留下正常指紋或特殊指紋，因此看到正常指紋並不能排除幻妖。
+
+如果懷疑鬼魂是幻妖，盡快使用紫外線手電筒或螢光棒反覆確認，因為幻妖留下的指紋會更快消失。
+
+獵殺時，可在安全的地方觀察鬼魂是否閃爍變形，或使用聖木讓鬼魂暫時無視玩家。
+* 其它方法包括在屋子內溜鬼魂，或在多人遊戲使用攝像機觀看。
+
+==逸聞軼事==
+*在日本民間傳說裡，Obake (お化け)有時稱作 "Bakemono" (化け物)，是一種妖怪。從字面意義上解釋，它的意思是會變化的東西。這些單詞通常翻譯為“鬼魂”（其實遊戲裡的大部分鬼直譯都是鬼魂），但它們通常是活物，且有變形的能力。Obake 有時也是幽靈的同義詞——逝者的靈魂。
+**若以英語翻譯 Obake 只會翻譯為「鬼」，但以日語翻譯時會有明確的名稱「化け狐 (Bake Kitsune，狐妖)」。
+**在中文裡翻譯為幻妖，幻取其變化之意，妖取其妖怪之屬。
+==歷史==
+{| class="fandom-table"
+! colspan="2" |搶先體驗 (Steam)
+|-
+![[0.4.0]]
+|新增幻妖
+|-
+![[0.4.1.0]]
+|留下指紋的機率從 50% 提高到 75%
+|-
+![[0.8.0]]
+|獵殺閃爍時有機率暫時變形
+|}
+{{GhostNav}}
+[[Category:鬼魂]]

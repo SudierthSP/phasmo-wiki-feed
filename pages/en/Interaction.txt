@@ -1,0 +1,72 @@
+# Interaction
+# revid 24462  2026-08-18T02:58:17Z  by Darkhooper
+# sha256 88f525cb3dce6433016a6612a6ba19461a8fab9ebc18619c7617f6597ffd0eee  bytes 2873
+# 源: https://phasmophobia.fandom.com/api.phpAn '''interaction''' is a core mechanic in ''Phasmophobia''. It is an occurrence of the [[ghost]] affecting its environment and items within it, and is one of the key parts of [[Activity|ghost activity]]. Although not [[evidence]] in and of itself, it both helps players to find certain pieces of evidence, and allows them to gather [[Media|rewards]] by recording it.
+
+[[Ghost Event|Ghost events]] and [[hunt]]s do not count as interactions in and of themselves.
+
+==Mechanics==
+Through the [[activity]] check, ghosts can enter the interaction state.
+
+Most ghosts can interact with items located within a box<ref>[https://www.twitch.tv/eblavender/clip/SarcasticSullenGorillaM4xHeh-4SPmVXUd6n69tWoH Lavender describing the interaction range as a box (on Twitch). 27 February 2025.]</ref> centered at 1 metre above their feet. This box rotates with the ghost's facing direction, making the effective range a cylinder with a radius of 2.12 meters on small and medium [[map]]s (3m × 3m × 2m box), and 4.24 meters on large maps (6m × 6m × 4m box). Ghosts can interact with objects through walls and through floors, provided these objects are within range.
+
+Each interaction causes an [[EMF]] 2 reading, or an EMF 3 reading in the case of a thrown object, emitted at the point of interaction for 20 seconds. If an object levitates, there is an additional EMF 3 that only lasts for the duration of levitation. If the ghost has [[EMF Level 5]] as one of its types of evidence, each individual reading has a 33% chance to be EMF 5 instead. When touching surfaces or switches, the relevant ghosts may also leave [[Ultraviolet#Fingerprints|fingerprints]] on them.
+
+Interactions can be forced by using a [[Voodoo Doll]].
+
+===Choosing interaction type===
+When multiple objects are within the ghost's interaction range, it will choose one to interact with based on the following chances:
+{| class="article-table"
+!Objects nearby
+!Door interaction
+!Light switch interaction
+!Prop interaction
+|-
+|Props only
+| -
+| -
+|100%
+|-
+|Doors and props
+|25%
+----30% if [[Deogen]] or [[Thaye]]
+----10% if [[Deildegast]]
+| -
+|75%
+----70% if Deogen or Thaye
+----90% if Deildegast
+|-
+|Light switches and props
+| -
+|25%
+----10% if Deildegast
+|75%
+----90% if Deildegast
+|-
+|Doors, light switches, and props
+|25%
+----30% if Deogen or Thaye
+----10% if Deildegast
+|18.75%
+----17.5% if Deogen or Thaye
+----9% if Deildegast
+|56.25%
+----52.5% if Deogen or Thaye
+----81% if Deildegast
+|}
+If the ghost selects the prop interaction while there is no prop nearby, it will return to the favourite room state.
+
+====Door interaction====
+{{Main|Door}}
+====Light switch interaction====
+{{Main|Light}}
+====Prop interaction====
+{{Main|Prop}}
+==Related difficulty settings==
+*'''Activity level:''' Low/Medium/High
+
+==References==
+{{Reflist}}
+[[Category:Ghost State]]
+[[fr:Interaction]]
+[[ru:Взаимодействие]]

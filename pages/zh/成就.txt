@@ -1,0 +1,260 @@
+# 成就
+# revid 3814  2025-08-12T04:26:20Z  by Mu shao
+# 备注: 成就 爱岗敬业 是完成10个周挑战，并非每日挑战； 成就 发现御灵 后面写的是发现雾影
+# sha256 0aa85651bc0e91e63b1501521518b128dc8842b2c7d093680978b38725d3b7e7  bytes 5390
+# 源: https://phasmophobia.fandom.com/zh/api.php以下为恐鬼症可获取的所有'''成就'''和'''奖杯'''。
+
+目前有 48 项普通普通成就和 6 项秘密成就，总共为 54 项成就。其中有 24 项为猜对鬼魂（并成功活下来）的成就。
+
+在 PlayStation 游戏机上完成所有成就将额外解锁多一项成就。
+
+除了与难度有关的成就以外，大部分成就都可在任何难度解锁。这包括 0 倍难度。
+
+==普通成就==
+{| class="fandom-table"
+!图标
+!成就
+!要求
+|-
+|[[File:No More Training Wheels.jpg|64x64px]]
+|卸下辅助轮
+|完成[[教程|训练教程]]
+|-
+|[[File:Rookie.jpg|64x64px]]
+|新手
+|完成 10 次[[合约]]
+|-
+|[[File:Professional.jpg|64x64px]]
+|猎鬼专家
+|完成 50 次[[合约]]
+|-
+|[[File:Boss.jpg|64x64px]]
+|老板
+|完成 100 次[[合约]]
+|-
+|[[File:Extra Mile.jpg|64x64px]]
+|加倍努力
+|完成50个可选目标
+|-
+|[[File:Dedicated.jpg|64x64px]]
+|敬业先锋
+|完成30项[[每日和每周任务|每日任务]]
+|-
+|[[File:Devoted.jpg|64x64px]]
+|爱岗敬业
+|完成10项每周任务
+|-
+|[[File:Challenger Approaching.jpg|64x64px]]
+|挑战来临
+|完成每周挑战模式
+|-
+|[[File:Rise to the Challenge.jpg|64x64px]]
+|接受挑战
+|完成每周挑战模式5次
+|-
+|[[File:Taking All Challenges.jpg|64x64px]]
+|接受所有挑战
+|完成每周挑战模式10次
+|-
+|[[File:Chump Change.jpg|64x64px]]
+|小钱
+|在商店内付款 $1
+|-
+|[[File:Fat Stack.jpg|64x64px]]
+|腰缠万贯
+|花费 $10,000
+|-
+|[[File:Cash Cow.jpg|64x64px]]
+|摇钱树
+|花费 $50,000
+|-
+|[[File:Break The Bank.jpg|64x64px]]
+|大肆挥霍
+|花费 $100,000
+|-
+|[[File:Bare Essentials.jpg|64x64px]]
+|捉鬼必备
+|解锁所有一级[[装备]]
+|-
+|[[File:Tools of the Trade.jpg|64x64px]]
+|行业工具
+|解锁所有二级装备
+|-
+|[[File:Fully Loaded.jpg|64x64px]]
+|全副武装
+|解锁所有三级装备
+|-
+|[[File:Director.jpg|64x64px]]
+|主管
+|创造[[难度#自定义|自定义难度]]
+|-
+|[[File:Bronze Hunter.jpg|64x64px]]
+|青铜猎鬼师
+|获得青铜[[天启挑战|天启]]奖杯
+|-
+|[[File:Silver Hunter.jpg|64x64px]]
+|白银猎鬼师
+|获得白银天启奖杯
+|-
+|[[File:Gold Hunter.jpg|64x64px]]
+|黄金猎鬼师
+|获得黄金天启奖杯
+|-
+|[[File:发现女妖.jpg|64x64px]]
+|发现女妖
+|首次成功探明女妖类型并存活
+|-
+|[[File:发现恶魔.jpg|64x64px]]
+|发现恶魔
+|首次成功探明恶魔类型并存活
+|-
+|[[File:发现雾影.jpg|64x64px]]
+|发现雾影
+|首次成功探明雾影类型并存活
+|-
+|[[File:发现御灵.jpg|64x64px]]
+|发现御灵
+|首次成功探明御灵类型并存活
+|-
+|[[File:发现寒魔.jpg|64x64px]]
+|发现寒魔
+|首次成功探明寒魔类型并存活
+|-
+|[[File:发现巨灵.jpg|64x64px]]
+|发现巨灵
+|首次成功探明巨灵类型并存活
+|-
+|[[File:发现梦魇.jpg|64x64px]]
+|发现梦魇
+|首次成功探明梦魇类型并存活
+|-
+|[[File:发现魔洛伊.jpg|64x64px]]
+|发现魔洛伊
+|首次成功探明魔洛伊类型并存活
+|-
+|[[File:发现鬼婴.jpg|64x64px]]
+|发现鬼婴
+|首次成功探明鬼婴类型并存活
+|-
+|[[File:发现幻妖.jpg|64x64px]]
+|发现幻妖
+|首次成功探明幻妖类型并存活
+|-
+|[[File:发现赤鬼.jpg|64x64px]]
+|发现赤鬼
+|首次成功探明赤鬼类型并存活
+|-
+|[[File:发现怨灵.jpg|64x64px]]
+|发现怨灵
+|首次成功探明怨灵类型并存活
+|-
+|[[File:发现幻影.jpg|64x64px]]
+|发现幻影
+|首次成功探明幻影类型并存活
+|-
+|[[File:发现骚灵.jpg|64x64px]]
+|发现骚灵
+|首次成功探明骚灵类型并存活
+|-
+|[[File:发现雷魂.jpg|64x64px]]
+|发现雷魂
+|首次成功探明雷魂类型并存活
+|-
+|[[File:发现亡魂.jpg|64x64px]]
+|发现亡魂
+|首次成功探明亡魂类型并存活
+|-
+|[[File:发现暗影.jpg|64x64px]]
+|发现暗影
+|首次成功探明暗影类型并存活
+|-
+|[[File:发现魂魄.jpg|64x64px]]
+|发现魂魄
+|首次成功探明魂魄类型并存活
+|-
+|[[File:发现刹耶.jpg|64x64px]]
+|发现刹耶
+|首次成功探明刹耶类型并存活
+|-
+|[[File:发现拟魂.jpg|64x64px]]
+|发现拟魂
+|首次成功探明拟魂类型并存活
+|-
+|[[File:发现孪魂.jpg|64x64px]]
+|发现孪魂
+|首次成功探明孪魂类型并存活
+|-
+|[[File:发现魅影.jpg|64x64px]]
+|发现魅影
+|首次成功探明魅影类型并存活
+|-
+|[[File:发现妖怪.jpg|64x64px]]
+|发现妖怪
+|首次成功探明妖怪类型并存活
+|-
+|[[File:发现幽灵.jpg|64x64px]]
+|发现幽灵
+|首次成功探明幽灵类型并存活
+|-
+|[[File:I.jpg|64x64px]]
+|I
+|到达I级声望
+|-
+|[[File:II.jpg|64x64px]]
+|II
+|到达II级声望
+|-
+|[[File:III.jpg|64x64px]]
+|III
+|到达III级声望
+|}
+
+==隐藏成就==
+{| class="fandom-table"
+!Icon
+!Name
+!Requirement
+|-
+|[[File:Work Experience.jpg|64x64px]]
+|工作经验
+|完成第一份合约
+|-
+|[[File:Flawless Execution.jpg|64x64px]]
+|完美执行
+|完成一次完美调查
+|-
+|[[File:Theyre here.jpg|64x64px]]
+|它在这
+|见证[[骚灵]]的能力
+|-
+|[[File:Escape Artist.jpg|64x64px]]
+|逃脱大师
+|逃离亡魂猎杀
+|-
+|[[File:The Bait.jpg|64x64px]]
+|诱饵
+|在多人联机时被女妖杀死
+|-
+|[[File:Doom Slayed.jpg|64x64px]]
+|恶魔屠戮
+|在第1分钟内被使用能力的恶魔杀死
+|}
+
+==PlayStation 独有==
+{| class="fandom-table"
+!图标
+!成就
+!要求
+|-
+|[[File:Paranormal Perfectionist.png|64x64px]]
+|Paranormal Perfectionist
+|获取所有奖杯
+|}
+
+==历史==
+{| class="fandom-table"
+! colspan="2" |抢先体验
+|-
+![[0.9.2.0]]
+|添加 Steam 成就
+|}

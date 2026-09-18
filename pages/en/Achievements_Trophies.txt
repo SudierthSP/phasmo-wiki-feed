@@ -1,0 +1,273 @@
+# Achievements/Trophies
+# revid 24485  2026-08-25T17:53:54Z  by Darkhooper
+# 备注: 0.19
+# sha256 358a9bbaf3444157e7a3a376401ef8cdc323e63e907f1ff7df68a563b9a3c773  bytes 7129
+# 源: https://phasmophobia.fandom.com/api.php[[ru:Достижения]]
+[[File:AchievementsTrophies.png|thumb|Some trophies in the lobby's display cases.]]
+This page lists all ''Phasmophobia'' '''achievements''' or '''trophies''' that can be obtained.
+
+There are currently 48 normal achievements, and 6 hidden achievements, for a total of 54 achievements, 24 of which are ghost specific achievements, which are obtained by successfully guessing the ghost and surviving. An additional trophy is rewarded upon obtaining all 54 trophies on PlayStation.
+
+Unless a difficulty is specifically required for one, all achievements can be obtained on any difficulty above 0x.
+
+Once an achievement is obtained, a corresponding trophy also appears in the [[lobby]]'s display cases.
+
+==List of Normal Achievements==
+<table-progress-tracking table-id="1" unique-column-index="2">
+{| class="fandom-table"
+!Icon
+!Name
+!Requirement
+|-
+|[[File:No More Training Wheels.jpg|64x64px]]
+|No More Training Wheels
+|Complete [[Training]]
+|-
+|[[File:Rookie.jpg|64x64px]]
+|Rookie
+|Complete 10 [[contract]]s
+|-
+|[[File:Professional.jpg|64x64px]]
+|Professional
+|Complete 50 contracts
+|-
+|[[File:Boss.jpg|64x64px]]
+|Boss
+|Complete 100 contracts
+|-
+|[[File:Extra Mile.jpg|64x64px]]
+|Extra Mile
+|Complete 50 optional [[objectives]]
+|-
+|[[File:Dedicated.jpg|64x64px]]
+|Dedicated
+|Complete 30 [[Daily and Weekly Tasks#Daily Tasks|daily tasks]]
+|-
+|[[File:Devoted.jpg|64x64px]]
+|Devoted
+|Complete 10 [[Daily and Weekly Tasks#Weekly Tasks|weekly tasks]]
+|-
+|[[File:Challenger Approaching.jpg|64x64px]]
+|Challenger Approaching
+|Complete a weekly [[Challenge Mode|challenge mode]]
+|-
+|[[File:Rise to the Challenge.jpg|64x64px]]
+|Rise to the Challenge
+|Complete the weekly challenge mode 5 times
+|-
+|[[File:Taking All Challenges.jpg|64x64px]]
+|Taking All Challenges
+|Complete the weekly challenge mode 10 times
+|-
+|[[File:Chump Change.jpg|64x64px]]
+|Chump Change
+|Spend $1
+|-
+|[[File:Fat Stack.jpg|64x64px]]
+|Fat Stack
+|Spend $10,000
+|-
+|[[File:Cash Cow.jpg|64x64px]]
+|Cash Cow
+|Spend $50,000
+|-
+|[[File:Break The Bank.jpg|64x64px]]
+|Break The Bank
+|Spend $100,000
+|-
+|[[File:Bare Essentials.jpg|64x64px]]
+|Bare Essentials
+|Unlock all tier one [[equipment]]
+|-
+|[[File:Tools of the Trade.jpg|64x64px]]
+|Tools of the Trade
+|Unlock all tier two equipment
+|-
+|[[File:Fully Loaded.jpg|64x64px]]
+|Fully Loaded
+|Unlock all tier three equipment
+|-
+|[[File:Director.jpg|64x64px]]
+|Director
+|Create a [[Difficulty#Custom|custom difficulty]]
+|-
+|[[File:Bronze Hunter.jpg|64x64px]]
+|Bronze Hunter
+|Obtain the Bronze [[Apocalypse Challenge|Apocalypse]] Trophy
+|-
+|[[File:Silver Hunter.jpg|64x64px]]
+|Silver Hunter
+|Obtain the Silver Apocalypse Trophy
+|-
+|[[File:Gold Hunter.jpg|64x64px]]
+|Gold Hunter
+|Obtain the Gold Apocalypse Trophy
+|-
+|[[File:Banshee Discovered.jpg|64x64px]]
+|Banshee Discovered
+|Successfully identify your first [[Banshee]] and survive
+|-
+|[[File:Demon Discovered.jpg|64x64px]]
+|Demon Discovered
+|Successfully identify your first [[Demon]] and survive
+|-
+|[[File:Deogen Discovered.jpg|64x64px]]
+|Deogen Discovered
+|Successfully identify your first [[Deogen]] and survive
+|-
+|[[File:Goryo Discovered.jpg|64x64px]]
+|Goryo Discovered
+|Successfully identify your first [[Goryo]] and survive
+|-
+|[[File:Hantu Discovered.jpg|64x64px]]
+|Hantu Discovered
+|Successfully identify your first [[Hantu]] and survive
+|-
+|[[File:Jinn Discovered.jpg|64x64px]]
+|Jinn Discovered
+|Successfully identify your first [[Jinn]] and survive
+|-
+|[[File:Mare Discovered.jpg|64x64px]]
+|Mare Discovered
+|Successfully identify your first [[Mare]] and survive
+|-
+|[[File:Moroi Discovered.jpg|64x64px]]
+|Moroi Discovered
+|Successfully identify your first [[Moroi]] and survive
+|-
+|[[File:Myling Discovered.jpg|64x64px]]
+|Myling Discovered
+|Successfully identify your first [[Myling]] and survive
+|-
+|[[File:Obake Discovered.jpg|64x64px]]
+|Obake Discovered
+|Successfully identify your first [[Obake]] and survive
+|-
+|[[File:Oni Discovered.jpg|64x64px]]
+|Oni Discovered
+|Successfully identify your first [[Oni]] and survive
+|-
+|[[File:Onryo Discovered.jpg|64x64px]]
+|Onryo Discovered
+|Successfully identify your first [[Onryo]] and survive
+|-
+|[[File:Phantom Discovered.jpg|64x64px]]
+|Phantom Discovered
+|Successfully identify your first [[Phantom]] and survive
+|-
+|[[File:Poltergeist Discovered.jpg|64x64px]]
+|Poltergeist Discovered
+|Successfully identify your first [[Poltergeist]] and survive
+|-
+|[[File:Raiju Discovered.jpg|64x64px]]
+|Raiju Discovered
+|Successfully identify your first [[Raiju]] and survive
+|-
+|[[File:Revenant Discovered.jpg|64x64px]]
+|Revenant Discovered
+|Successfully identify your first [[Revenant]] and survive
+|-
+|[[File:Shade Discovered.jpg|64x64px]]
+|Shade Discovered
+|Successfully identify your first [[Shade]] and survive
+|-
+|[[File:Spirit Discovered.jpg|64x64px]]
+|Spirit Discovered
+|Successfully identify your first [[Spirit]] and survive
+|-
+|[[File:Thaye Discovered.jpg|64x64px]]
+|Thaye Discovered
+|Successfully identify your first [[Thaye]] and survive
+|-
+|[[File:The Mimic Discovered.jpg|64x64px]]
+|The Mimic Discovered
+|Successfully identify [[The Mimic]] for the first time<ref group="note" name="note">Despite lacking "and survive" in the wording, this achievement still requires the player to survive.</ref>
+|-
+|[[File:The Twins Discovered.jpg|64x64px]]
+|The Twins Discovered
+|Successfully identify [[The Twins]] for the first time<ref group="note" name="note" />
+|-
+|[[File:Wraith Discovered.jpg|64x64px]]
+|Wraith Discovered
+|Successfully identify your first [[Wraith]] and survive
+|-
+|[[File:Yokai Discovered.jpg|64x64px]]
+|Yokai Discovered
+|Successfully identify your first [[Yokai]] and survive
+|-
+|[[File:Yurei Discovered.jpg|64x64px]]
+|Yurei Discovered
+|Successfully identify your first [[Yurei]] and survive
+|-
+|[[File:I.jpg|64x64px]]
+|I
+|Reach Prestige I
+|-
+|[[File:II.jpg|64x64px]]
+|II
+|Reach Prestige II
+|-
+|[[File:III.jpg|64x64px]]
+|III
+|Reach Prestige III
+|}
+</table-progress-tracking>
+
+==List of Hidden Achievements==
+<table-progress-tracking table-id="2" unique-column-index="2">
+{| class="fandom-table"
+!Icon
+!Name
+!Requirement
+|-
+|[[File:Work Experience.jpg|64x64px]]
+|Work Experience
+|Complete your first contract
+|-
+|[[File:Flawless Execution.jpg|64x64px]]
+|Flawless Execution
+|Complete a perfect investigation
+|-
+|[[File:Theyre here.jpg|64x64px]]
+|They're here
+|Witness a [[Poltergeist]] ability
+|-
+|[[File:Escape Artist.jpg|64x64px]]
+|Escape Artist
+|Escape a [[Revenant]]
+|-
+|[[File:The Bait.jpg|64x64px]]
+|The Bait
+|Get killed by a [[Banshee]] in multiplayer
+|-
+|[[File:Doom Slayed.jpg|64x64px]]
+|Doom Slayed
+|Get killed by a [[Demon]] ability within the first minute
+|}
+</table-progress-tracking>
+
+==PlayStation exclusive==
+<table-progress-tracking table-id="3" unique-column-index="2">
+{| class="fandom-table"
+!Icon
+!Name
+!Requirement
+|-
+|[[File:Paranormal Perfectionist.png|64x64px]]
+|Paranormal Perfectionist
+|Obtain all trophies
+|}
+</table-progress-tracking>
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.9.2.0]]
+|Added the first wave of Steam Achievements
+|}
+
+==Notes==
+{{Reflist|group="note"}}
+[[Category:Objectives]]
+[[fr:Succès/Trophées]]

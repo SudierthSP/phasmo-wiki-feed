@@ -1,0 +1,37 @@
+# 0.7.3.0
+# revid 23974  2026-06-28T21:42:32Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 042da26175456ca3245f958bb7afcefc02a268c00f50c8f0043c5a2572fb21d0  bytes 1736
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version|
+ | release_date=10 November 2022
+ | previous_major_version=[[0.7.0]]
+ | previous_minor_version=[[0.7.2.0]]
+ | next_major_version=[[0.8.0]]
+}}'''0.7.3.0''' is a minor update released on 10 November 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3387297759145809769 Apocalypse | Update v0.7.3.0]</ref> This update changes how save files are saved to the cloud and fixes bugs.
+
+== Additions ==
+* Added a new cloud backup for save files
+** Game will now attempt to revert to these files instead of a local backup if the save file corrupts
+
+== Bug fixes ==
+* The tripod will no longer count as an electronic if you place it
+* The money spent stat will no longer increase when you add equipment in the lobby
+* Ukrainian will now be abbreviated as UA instead of UK
+* The Banshee and Moroi ability used stat will now work
+* You can no longer kick the wrong player
+* House candles will now block an Onryo hunt and will blow out in heavy rain without having to put them into your inventory first
+* The haunted mirror will no longer count for the use cursed possessions challenge twice when using it
+* The Oni, Wraith and Yokai will now correctly change their activity based on their traits
+* The Goryo will now have half the chance to wander instead of double (for real this time)
+* The Moroi ability used stat will now count when other players are cursed
+* Other players equipment will now be removed from the lobby when they quit
+* The voodoo doll will no longer float when thrown
+* The bone will no longer spawn on the room above where it supposed to be
+* Light switch EMF photos will now be named correctly 
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.7.3.0]]
+[[ru:0.7.3.0]]

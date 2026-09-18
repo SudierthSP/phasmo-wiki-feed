@@ -1,0 +1,58 @@
+# Activity
+# revid 24240  2026-07-24T04:34:11Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 442173c8e14db63f78cc48fe855b01165b9a0fdcbc527c0966ed30878e72e831  bytes 3091
+# 源: https://phasmophobia.fandom.com/api.php'''Activity''' is a mechanic affecting how the [[ghost]] will interact with its environment, making it [[Interaction|move objects]], [[Roaming|roam]], use abilities, etc.
+
+==Mechanics==
+===Activity calculation===
+By default, the [[ghost]] starts with an activity level of 0 at 100% average [[sanity]]. The activity increases when the ''insanity'' increases. In other words, for each % of sanity lost, the activity increases by 1.
+
+Playing solo will increase the activity by 15.
+
+When the ghost is affected by [[Incense]], activity will increase by a random number between 20 and 29. This number decreases by 0.5 every second.
+
+Some ghosts have additional modifiers to the activity:
+*If a player is within 6 metres or in the same room as the [[Oni]], activity will increase by 30.
+*If a player uses [[voice chat]] in the same room as the [[Yokai]], activity will increase by 30.
+*At its youngest, the [[Thaye]]'s activity is multiplied by 2. This multiplier decreases each time it ages to a minimum of 0.5 at its oldest.
+*The [[Obambo]]'s activity is fixed at 90 in its calm state, and at 25 in its aggressive state.
+
+The activity level is capped at 100.
+
+===Actions===
+When the ghost fails the chance to [[hunt]] after exiting an idle state, it will perform an activity check based on the [[difficulty]]'s threshold:
+{| class="fandom-table"
+!Difficulty
+!Threshold
+|-
+|[[Difficulty#Amateur|Amateur]]<br>Activity level: ''High''
+|100
+|-
+|[[Difficulty#Intermediate|Intermediate]]<br>Activity level: ''Medium''
+|115
+|-
+|[[Difficulty#Professional|Professional]]<br>[[Difficulty#Nightmare|Nightmare]]<br>[[Difficulty#Insanity|Insanity]]<br>Activity level: ''Low''
+|130
+|}
+<br>If the [[weather]] is Blood Moon, the threshold will be decreased by 15. If the ghost is a [[Shade]], the threshold will be further multiplied by 1.5 and rounded down to the nearest integer.
+
+The check has a 50% chance to succeed if the activity calculated above is greater than or equal to a random number between 0 and the threshold minus 1. The chance to succeed is increased to 100% if ''The Tower'' [[Tarot Cards|tarot card]] has been drawn in the last 20 seconds or if the [[Monkey Paw]]'s 'activity wish' has been used in the last 2 minutes.
+
+If the check succeeds, the ghost will choose one of the following actions:
+*45.45% (5/11) chance to perform an [[interaction]]
+*36.36% (4/11) chance to enter an [[ability]] state, which makes it either interact with the [[Fuse Box|fuse box]], use its ability, or perform a [[Ghost Event|ghost event]]
+*18.18% (2/11) chance to enter a [[roaming]] state
+
+If the check fails, the ghost will choose one of the following actions:
+*66.67% (2/3) chance to either enter a [[Ghost Room|favourite room]] state (75% chance) or perform an interaction (25% chance)
+**83.33% (5/6) chance instead if the ghost is a [[Goryo]]
+*33.33% (1/3) chance to enter a roaming state
+**16.67% (1/6) chance instead if the ghost is a Goryo
+
+==Related difficulty settings==
+*'''Activity level:''' Low/Medium/High
+
+[[ru:Активность призраков]]
+[[Category:Ghost State]]
+[[fr:Activité]]

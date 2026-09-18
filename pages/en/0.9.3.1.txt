@@ -1,0 +1,23 @@
+# 0.9.3.1
+# revid 23996  2026-06-28T21:44:21Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 1316fce0ef7381f9444cbc6b11235323b7a5c7ef9e1e2fe8ede94acbbbdcee0e  bytes 746
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=25 December 2023
+ | previous_major_version=[[0.9.0]]
+ | previous_minor_version=[[0.9.3.0]]
+ | next_minor_version=[[0.9.4.0]]
+ | next_major_version=[[0.10.0]]
+}}'''0.9.3.1''' is a minor hotfix released on 25 December 2023.<ref>[https://store.steampowered.com/news/app/739630/view/3883856311473519110 ''Holiday 2023 | Hotfix v0.9.3.1''. 25 December 2023 (on Steam).]</ref>
+
+== Fixes ==
+* You will no longer get Point Hope as a weekly challenge map
+* Years with an extra week will no longer break the weekly challenge on the last week of the year
+* Fixed localisation issues with the Holiday event in some languages
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.9.3.1]]
+[[ru:0.9.3.1]]

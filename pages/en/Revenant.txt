@@ -1,0 +1,77 @@
+# Revenant
+# revid 23424  2026-05-10T20:27:26Z  by Darkhooper
+# sha256 dd30f6673dac9084588945edc8208a3ce93031cd45694dc9948b895c43022ed0  bytes 4973
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=Revenant Discovered.jpg
+ |strength=*Significant speed increase when chasing a player during hunts
+ |weakness(es)=*Roaming speed remains low or drops over time when no player is detected
+ |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
+ |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
+ |Evidence3=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]
+}}{{Quote
+ |quote=A Revenant is a violent ghost that will attack indiscriminately. Their speed can be deceiving, as they are slow while dormant; however, as soon as they hunt they can move incredibly fast.
+ |speaker=The Journal
+}}The '''Revenant''' is a type of [[ghost]] in ''Phasmophobia''. It is widely considered one of the most dangerous ghosts in the game, due to its ability to quickly catch up to players during a [[hunt]].
+
+==Behavior==
+===Hunt===
+Revenants have very noticeable speed change between roaming and chasing modes. When a Revenant is roaming, it will move at 1 m/s. However, as soon as it detects a player (either visually or through speech/electronics), it will begin to move at 3 m/s (nearly twice the base speed of most other ghosts) and sustains this speed until it reaches the spot where it last detected a player. When reverting to roaming mode, the Revenant's speed will slowly decrease over ~2.7 seconds (deceleration rate of 0.75 m/s²) back to its initial value of 1 m/s.
+
+Contrary to most other ghosts, the Revenant will not speed up with continuous line-of-sight.
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]] [[Freezing Temperatures]]
+|[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]] [[Ghost Orb]]
+|[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]] [[Ghost Writing]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: A '''Revenant''' will travel at a significantly faster speed when hunting their prey.''
+
+''Weakness: Hiding from the '''Revenant''' will cause it to move very slowly.''
+
+==Strategy==
+Due to the Revenant's power, it is ''critical'' to hide as soon as possible and the player must exercise extreme caution as to not give away their position during a hunt. A player will not be able to outrun a Revenant for long before it catches up to them. If you are caught running from a Revenant, items such as tier III [[Salt]] or [[Incense]] can slow it/ward it off for a few seconds, giving you enough time to create some distance between you and the ghost to hide from it. Tier III [[Sanity Medication]] is also a possibility, with the infinite sprint allowing you to match the Revenant's speed for 10 seconds to potentially run to safety.
+
+===Identification===
+While hiding, listen for the ghost's footsteps; if the footsteps are relatively few and far between while the ghost is nearby, then it is most likely a Revenant. Alternatively, if the player already has some sort of escape plan ready, simply letting the ghost detect the player and seeing if it gets a sudden, extremely significant speed boost is a simple way to figure out if it's a Revenant or not - just be mindful of confusing it for a [[Jinn]], which will also speed up suddenly when it sees a player (though a Jinn and Revenant should be easy to distinguish from their roaming speeds).
+
+==Trivia==
+*The word "Revenant" comes from French, originally formed from the verb ''revenir'' ("to return").
+*According to folklore, a Revenant is a corpse that has been revived from the dead to haunt the living. They originate across many regions and religions, including Old Irish Celtic and Norse mythology.
+*Many use the term "Revenant" interchangeably for "ghost" or "undead".<ref>https://en.wikipedia.org/wiki/Revenant</ref>
+*The Revenant is widely regarded as one of the most dangerous ghosts in the game, quite apart from its behaviour before [[0.8.0]] where it would ''only'' speed up when having a player in line-of-sight making them extremely easy to escape from by breaking line-of-sight, rather than speeding up to the player's last known location as well.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!7 March 2020
+|Added Revenant.
+|-
+!13 March 2020
+|Revenant now requires Fingerprints instead of Bug as one of its evidences.
+|-
+! colspan="2" |Early Access
+|-
+![[0.3.0]]
+|Prior to 0.3.0, the evidence was [[EMF Level 5]], [[Fingerprints]], and [[Ghost Writing]].
+|-
+!rowspan="3" |[[0.8.0]]
+|Revenants now gain speed boost simply by detecting a player.
+|- 
+|Revenants now sustain their chasing speed until they reach the last known player location.
+|-
+|Speed will now decrease at a rate of 0.75 m/s² after losing player instead of instantly.
+|}
+
+==References==
+{{Reflist}}
+{{GhostNav}}
+[[Category:Ghosts]]
+[[fr:Revenant]]
+[[ru:Ревенант]]

@@ -1,0 +1,29 @@
+# 0.14.0.1
+# revid 23897  2026-06-28T21:36:49Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 adbbe73368f518d0ee10218d0cc92a9a682774301580f17a422eb48cb4fd1226  bytes 1481
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| release_date=14 August 2025
+| previous_major_version=[[0.14.0]]
+| previous_minor_version=
+| next_minor_version=[[0.14.1.0]]
+| next_major_version=[[0.15.0]]
+}}'''0.14.0.1''' is a minor hotfix released on 14 August 2025.<ref>[https://store.steampowered.com/news/app/739630/view/603038612502610221 ''Phasmophobia Hotfix v0.14.0.1''. 14 August 2025 (on Steam).]</ref> It fixes bugs.
+
+==Fixes==
+*Fixed an issue that caused Twitch Drop rewards to only appear in-game after restarting and launching a lobby.
+*Fixed an issue on Xbox Series X/S that would cause the CCTV unit screen to go dark after placing multiple cameras in Grafton Farmhouse. This would then cause the player that placed these to disconnect.
+*Fixed an issue that caused mannequins to hover and clip through the environment after moving.
+*Fixed an issue that caused the player to become stuck in the downstairs bathroom in Grafton Farmhouse.
+*Fixed an issue that caused missing text when saving custom difficulties.
+*Fixed an issue that caused line-of-sight issues above the dining room table in Grafton Farmhouse.
+*Fixed several visual issues when a player was using hiding spots in Grafton Farmhouse.
+*Fixed an issue that would cause thrown items to become lost if thrown from the upstairs table in Grafton Farmhouse.
+*Fixed an issue that incorrectly classed distorted music Media as a Ghost Video.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.14.0.1]]
+[[ru:0.14.0.1]]

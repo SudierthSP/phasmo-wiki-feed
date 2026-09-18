@@ -1,0 +1,78 @@
+# EMF
+# revid 24243  2026-07-24T04:34:38Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 0523671af392a638dcfb5e5d51388614b0f2d46e655d10890014a9cf9f6f7826  bytes 3946
+# 源: https://phasmophobia.fandom.com/api.phpAn Electro-Magnetic Field (short: EMF) is emitted whenever the [[ghost]] interacts with its environment.
+
+EMF can be read by the [[EMF Reader]], allowing players to deduce the ghost's activities from the EMF Level indicated by the reader.
+
+==EMF emissions==
+When the ghost performs certain interactions or enters a certain state, it will generate an EMF reading at a certain location depending on the type of action performed.
+
+There are four types of EMF emissions: interaction, throwing, manifestations, and evidence.
+{| class="wikitable"
+|+
+! EMF Level !! Ghost Activity
+|-
+!1
+|None, default state
+|-
+!2
+|[[EMF#Level 2: Interaction|Interacting with an object]]<br>Using an ability
+|-
+!3
+|[[EMF#Level 3: Object throw|Throwing an object]]
+|-
+!4
+|[[EMF#Level 4: Manifestation|Manifestation]]
+|-
+!5
+|[[EMF#Level_5:_Evidence|Evidence]] (33% chance)
+|}
+
+===Level 1: Default State===
+EMF Level 1 is the default level indicated as soon as the [[EMF Reader]] is turned on. It has no further significance.
+
+===Level 2: Interaction===
+EMF Level 2 generally indicates that the ghost recently [[Interaction|interacted]] with an object in the surrounding environment:
+*Interacted with a [[door]] (including during ghost events)
+*Interacted with the [[fuse box]]
+*Interacted with a [[Ghost Writing Book]] (writing, not throwing)
+*Interacted with a [[light]] switch (outside of ghost events)
+*Interacted with an appliance or electronic device such as phones or [[radio]]s
+*Interacted with a [[sink]]
+*Interacted with a shower
+*Interacted with a rocking chair
+*Interacted with a painting
+*Knocked on a window
+*Replied to the [[Ouija Board]]
+*Teleported an object
+*Triggered a [[car]] alarm
+*Used a [[crucifix]]
+*Making the room's [[light]] flicker
+For the above interactions, the EMF reading will be tied to where the object is.
+
+The ghost blowing out a [[firelight]] will also give off EMF Level 2, though this does not count as a true interaction.
+
+EMF Level 2 can also indicate that any of the following ghosts used their ability:
+*[[Jinn]] (lowered sanity of nearby players; read from the fuse box)
+*[[Phantom]] (walking to player; read from the ghost's targeted location when it used its ability)
+*[[Poltergeist]] (multiple item throw; an EMF 3 reading will be created for each item thrown)
+*[[Wraith]] (teleporting to player; read from where the ghost teleported to when it used its ability)
+
+===Level 3: Object throw===
+EMF Level 3 indicates that a [[prop]] (including the [[Video Camera]] or a [[Ghost Writing Book]]) was recently thrown by the ghost or knocked a painting off of the wall. The EMF reading will be tied to where the object is.
+
+===Level 4: Manifestation===
+EMF Level 4 indicates that the ghost initiated a [[ghost event]], with the source of the reading fixed to where the ghost was when the ghost event started.
+
+An EMF level 4 reading is also created at the ghost's position where it started a [[hunt]]. This reading is usually not discovered, as the ghost's electronic disturbance generally masks it, but it can be detected if the ghost either moves far enough away or the hunt happens to end before the reading expires. 
+
+===Level 5: Evidence===
+Each EMF Level 2 or 3 occurrence from any source (except interference) has a 33% chance to show up as [[EMF Level 5|Level 5]] instead if the ghost has the evidence and it is not hidden. It does not necessarily indicate strong activity or immediate danger to the player.
+
+While [[hunt]]ing, the ghost will still produce EMF readings when it interacts with the environment (i.e. touching doors, throwing props), although the malfunctioning caused by its presence will usually prevent reading it. This means that EMF Level 5 readings can be observed if the ghost interacts with something, then moves far enough away for the EMF Reader to stop malfunctioning. While malfunctioning, the EMF Reader cannot show up as EMF Level 5.
+{{EvidenceNav}}
+[[ru:ЭМП]]
+[[Category:Evidence]]
+[[fr:EMF]]

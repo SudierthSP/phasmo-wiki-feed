@@ -1,0 +1,54 @@
+# 0.9.6.0
+# revid 24002  2026-06-28T21:45:00Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 288f0d3d6ce39fd3c17ae3dac9f600c54de1a735b28d72f112eb00bbb6250e4d  bytes 2769
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox_Version
+|image1=Phasmophobia 0.9.6.0.png
+|official_name=Easter 2024
+|release_date=26 March 2024
+|previous_major_version=[[0.9.0]]
+|previous_minor_version=[[0.9.5.0]]
+|next_minor_version=[[0.9.6.1]]
+|next_major_version=[[0.10.0]]}}'''0.9.6.0''', also known as the '''Easter 2024''' update, is a minor update released on 26 March 2024.<ref>[https://store.steampowered.com/news/app/739630/view/4138317929839634927 ''Easter 2024 | Update v0.9.6.0''. 26 March 2024 (on Steam)]</ref> This update adds the titular event as well as many fixes.
+
+==Additions==
+*The Easter 2024 event has begun, it will be around for 2 weeks, so get investigating and earn those exclusive rewards!
+**More information can be found in-game
+*ID cards have had a facelift!
+**All badges now have a unique background when using that badge’s ID theme
+**Prestiges 11-20 have animated backgrounds to match their badges
+**Several colors have been adjusted
+**VIP and Artist have received new Badge designs
+**Volume slider colors are now the same as the EXP bar colors
+*Headphones are now visible when listening through the parabolic microphone
+
+==Changes==
+*The middle lines of the ID card have been removed to make space for the new background designs (funds / ready status)
+*A ready sticker will now appear on the player ID card when that player is ready
+
+==Fixes==
+*Fixed several Lobby-Equipment desync issues between players
+*UI will no longer overlap when applying a locked difficulty
+*You can now complete the “Survive with starter items” daily challenge
+*You can now place a video camera on a tripod more than once in VR
+*Parabolic microphone III will now determine the direction of sounds properly in VR
+*EMF Reader III will now determine the direction of EMF spots based on your screen position (non-VR only)
+*Shop gamepad buttons no longer still activate when not focusing on shop
+*The VR cursor is now in the correct position when highlighting Thermometers
+*You now get insurance when you die in Amateur or Intermediate difficulty
+*Hovering over the corkboard in the truck no longer appears as interactable
+*The thermometer tiers now highlight correctly when hovering over them
+*Tier 1 upgrades are no longer locked in the inventory manager when you are at the required level
+*Ambient Occlusion will now correctly turn off when the setting is disabled
+*Firelights will no longer blow out as soon as they are turned on again after being blown out by the ghost
+
+==Known Issues==
+*One of the lobby effects after completing the event may not be visible in every lobby
+**Leaving the main lobby and rejoining may fix the visual, until you return from a contract where it will break again.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.9.6.0]]
+[[ru:0.9.6.0]]

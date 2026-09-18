@@ -1,0 +1,39 @@
+# 0.16.0
+# revid 23903  2026-06-28T21:37:15Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 8ef91c6514325979419bef9623d9421d08454bd6a3de61e98e886e001e363f31  bytes 1827
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| image1=0.16.0.jpg
+| official_name=Tanglewood Rework
+| release_date=2 March 2026 (Official Partners early access)<br>3 March 2026 (public release)
+| previous_major_version=[[0.15.0]]
+| previous_minor_version=[[0.15.1.0]]
+| next_minor_version=[[0.16.1.0]]
+| next_major_version=[[0.17.0]]
+}}'''0.16.0''', also known as the '''Tanglewood Rework''' update, is a major update released on 3 March 2026.<ref>[https://kineticgames.co.uk/news/6-tanglewood-drive-rework-phasmophobia-01600 ''6 Tanglewood Drive Rework - Phasmophobia v0.16.0.0''. 3 March 2026.]</ref><ref group="note">Official Kinetic Games Partners were given early access keys on 2 March 2026.</ref> This update features an overhaul of [[6 Tanglewood Drive]].
+
+==Additions==
+*'''6 Tanglewood Drive:''' This location has received a complete visual overhaul, with new assets, props and interactions for both the Ghost and the Player. 
+**Rooms: While more substantial changes have been made to the layout of rooms such as the basement and kitchen, to improve gameplay and level flow, the rest of 6 Tanglewood Drive retains its overall level design.
+**Yes, the potato remains.
+*The new ''Tanglewood Terror'' challenge has been added to the Event Board.
+
+==Fixes==
+*Various fixes and improvements
+
+==Known Issues==
+''The following apply only to 6 Tanglewood Drive.''
+*The utility room sink can't be interacted with.
+*Some areas / items may appear lit while the light is off.
+*UV finger print on the TV remote in the lounge can appear much larger than intended.
+*During a Blood Moon, the audio for the rain may not be heard by the player..
+*The doors to the hiding spot in the foyer may appear incorrectly when in multiplayer.
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.16.0]]
+[[ru:0.16.0]]

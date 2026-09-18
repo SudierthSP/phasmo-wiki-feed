@@ -1,0 +1,27 @@
+# 0.14.2.0
+# revid 3953  2025-10-10T04:59:17Z  by CangMingSW
+# sha256 54a556365e24290e338d25623ba7d36abe789356518f9b02e9cf4e4023f8719e  bytes 1227
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+| release_date=2025.10.9
+| previous_major_version=[[0.14.0.0]]
+| previous_minor_version=[[0.14.1.0]]
+| next_minor_version=
+| next_major_version=
+}}'''0.14.2.0'''是发布于2025.10.9的小型更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-crimson-eye-v01420 ''Phasmophobia - Crimson Eye v0.14.2.0''. 9 October 2025.]</ref>本次更新复刻绯红之眼活动。
+
+==新增内容==
+*'''绯红之眼'''恐鬼症万圣节活动再次复刻，本次活动期间，玩家能获得额外活动奖励，合作完成挑战
+*'''月之祭坛''' 游戏中的祭坛现在将显示为“可使用”，互动后便会消失。请记得在互动前拍照，这将计为一条独特的媒体！
+*活动奖杯与2024年活动奖杯相同，但现在完成个人目标后可以升级。“绯红之眼”奖杯在活动期间最多可升级三次，且进度将延续至下一次绯红之眼活动
+*为PS5、PS VR2和Xbox Series X/S版本的《恐鬼症》添加了游戏内活动的排行榜支持
+
+==改动==
+*如果关闭跨平台游玩，排行榜只显示相同平台的玩家。
+
+==修复漏洞==
+*修复各种视觉效果和性能问题。
+
+==参考资料==
+{{Reflist}}
+{{VersionNav}}
+[[Category:开发]]

@@ -1,0 +1,59 @@
+# 0.9.3.0
+# revid 23995  2026-06-28T21:44:16Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 d615776b73737f43226ba795007096f37fe8a839759f2e80052d2bf97782bda3  bytes 3039
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  |title1=0.9.3.0|image1=0.9.3.0-banner.png|official_name=Holiday 2023| release_date=11 December 2023
+  | previous_major_version=[[0.9.0]]
+  | previous_minor_version=[[0.9.2.0]]
+  | next_minor_version=[[0.9.3.1]]
+  | next_major_version=[[0.10.0]]
+}}'''0.9.3.0''', titled the '''Holiday 2023''' update, is a minor update released on 11 December 2023.<ref>[https://store.steampowered.com/news/app/739630/view/3881602608978168300 ''Holiday 2023 | Minor Update v0.9.3.0''. 11 December 2023 (on Steam).]</ref> It adds the titular event, fixes bugs, and makes a few minor changes.
+
+==Additions==
+*The Holiday 2023 event is now active! The event will last around 3 weeks
+**Instructions can be found on the main menu event button
+*An error message will now show if you fail to connect to Unity Gaming Services
+
+==Changes==
+*Updated the textures, audio, and effects for the Summoning Circle
+*Flashlight III Upgrade now costs $3000 (up from $2500)
+*As Spirit Box I range is only 3m, we've lowered the “far” Spirit Box response’s minimum distance to 2m, from 4m
+*Lowered the volume of DOTS Projector III
+
+==Fixes==
+*Several interaction photos will now work consistently:
+**Ghost-writing book [tier] II
+**Fairy lights poles
+**Beartraps
+**Light switches
+**Keyboards
+**Ouija board
+*Removed fog from the Truck in all locations
+*Removed the fog leak in Sunny Meadows male day room
+*Igniter III will now permanently extinguish after 10 minutes, as listed in the shop
+*Salt II is now consumable, as listed in the shop
+*Nightmare difficulty now unlocks at level 30 instead of level 29
+*Dead players will now receive the Investigation bonuses if earned in that contract
+*Sounds that loop should now always be audible from the start, and are more reliable
+*Pressing the ‘Special’ key binding (default: T) while you are holding a Flashlight will no longer play the toggle sound
+*The Ghost-writing book is now throwable by the ghost if the ghost does not give ghost-writing evidence
+*Film grain and chromatic aberration for night vision now respect user settings
+*The Custom difficulty icon in the server list now displays correctly
+*UV Flashlights can no longer charge fingerprints/footprints while Flashlights are set to disabled in the Difficulty settings
+*The ghost can no longer detect any type of Flashlight during hunts while Flashlights are disabled in the Difficulty settings
+*The Parabolic Microphone objective will no longer be completed if you are not holding it
+*Motion Sensor mini-map icons now turn green when a ghost walks through it
+*Motion Sensor II now toggles shapes correctly
+*You can no longer throw/place equipment through the Tanglewood glass sliding doors
+*Some walls no longer teleport items back to the truck incorrectly
+*Removed tree rendering issues next to the white tent in Maple Lodge Campsite
+*Potential fix for DOTS ghosts being invisible during hunts
+*Potential fix for crucifixes not preventing hunts
+==References==
+{{Reflist}}
+
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.9.3.0]]
+[[ru:0.9.3.0]]

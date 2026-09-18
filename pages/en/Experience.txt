@@ -1,0 +1,689 @@
+# Experience
+# revid 23866  2026-06-23T12:21:06Z  by Darkhooper
+# 备注: though the patch notes say 4,000, the actual max is 3,999 as evidenced by cheater lobbies
+# sha256 d81575721c6d9fab35887915edecc14c923d768200ae65d05dd265f865782d9e  bytes 8558
+# 源: https://phasmophobia.fandom.com/api.php'''Experience''' (or '''XP''') in ''Phasmophobia'' is used to unlock various [[equipment]] and [[difficulty|difficulties]].
+
+==Mechanics==
+Each player starts off at level 1 with 0 XP, and earns XP through finishing [[contract]]s. The experience required to level up increases progressively, and the level is capped at 9,999. Once level 100 has been reached, the player can choose to Prestige, which will wipe out their level, money, and equipment, in exchange for a new badge and title for the [[ID Card]]. The maximum Prestige level is 3,999.
+
+The ID Card lists the number of levels the player has and the amount of XP required to reach the next level. The amount of XP earned each contract is displayed on the debriefing screen.
+
+===Gaining experience===
+[[File:Level unlock 4.png|thumb|right|300px|A popup that appears when the player unlocks new content.]]
+Players may gain XP from the following sources:
+{| class="article-table"
+!Task completed
+!colspan="2"|XP rewarded
+|-
+|rowspan="3"|Ghost identification
+|Small map
+|100 XP
+|-
+|Medium map
+|150 XP
+|-
+|Large map
+|200 XP
+|-
+|Objectives 1 - 3
+|colspan="2"|25 - 30 XP per successful objective
+|-
+|[[Media]]
+|colspan="2"|Up to 231 XP
+|-
+|Investigation Bonus
+|colspan="2"|If the player identifies the correct ghost and escapes alive, XP = ''Ghost identification + Completed objectives''
+|-
+|Perfect Investigation Bonus
+|colspan="2"|50 XP on top of Investigation Bonus
+|-
+|rowspan="3"|[[Bone Evidence]]
+|Small map
+|25 XP
+|-
+|Medium map
+|35 XP
+|-
+|Large map
+|50 XP
+|-
+|Blood Moon [[weather]]
+|colspan="2"|+10%
+|}
+To get the additional Perfect Investigation Bonus of 50 XP, the player must identify the correct ghost, complete all 3 objectives, collect the [[Bone Evidence|bone]], and fill the journal with only unique media.
+
+The amount of experience gained from identifying the ghost, completing optional objectives, recorded media, and any investigation bonus(es) is then multiplied by the difficulty multiplier:
+*'''Amateur:''' 1x
+*'''Intermediate:''' 2x
+*'''Professional:''' 3x
+*'''Nightmare:''' 4x
+*'''Insanity:''' 6x
+*'''Custom:''' 0x - 15x depending on settings
+
+If the player does not identify the correct ghost on a custom difficulty, their rewards will be rounded down to the nearest default difficulty (e.g. from 7x to 6x, which is the Insanity multiplier). Difficulty multipliers below 1x are not affected.
+
+If the player is dead when the investigation ends, the difficulty multiplier is not applied if it is higher than 1x, and their experience gained is halved.
+
+If the resulting EXP is not an integer value, it is then rounded down to the nearest integer.
+
+===Level progression===
+Players will unlock more equipment, difficulty levels, and maps as they progress.
+
+Prestige level doesn't change the amount of EXP for level up.
+{| class="mw-collapsible mw-collapsed fandom-table"
+!colspan="4"|Level progression details
+|-
+!Level
+!XP to Next Level
+!Cumulative XP to Reach This Level 
+!Unlocks
+|-
+|1
+|100
+|0
+|
+|-
+|2
+|231
+|100
+|
+*[[10 Ridgeview Court]]
+*[[42 Edgefield Road]]
+*[[Photo Camera]] Tier 1
+|-
+|3
+|337
+|331
+|
+*[[Motion Sensor]] Tier 1
+|-
+|4
+|432
+|668
+|
+*[[Bleasdale Farmhouse]]
+*[[Grafton Farmhouse]]
+*[[Sound Recorder]] Tier 1
+|-
+|5
+|518
+|1,100
+|
+*[[Nell's Diner]]
+*[[Parabolic Microphone]] Tier 1
+|-
+|6
+|601
+|1,618
+|
+*[[13 Willow Street]]
+|-
+|7
+|678
+|2,219
+|
+*[[Crucifix]] Tier 1
+|-
+|8
+|753
+|2,897
+|
+*[[Brownstone High School]]
+*[[Salt]] Tier 1
+|-
+|9
+|825
+|3,650
+|
+*[[Tripod]] Tier 1
+|-
+|10
+|895
+|4,475
+|
+*[[Difficulty#Intermediate|Intermediate]] difficulty
+*[[Sound Sensor]] Tier 1
+|-
+|11
+|962
+|5,370
+|
+*[[Prison]]
+|-
+|12
+|1,029
+|6,332
+|
+*[[Firelight]] Tier 1
+*[[Igniter]] Tier 1
+|-
+|13
+|1,094
+|7,361
+|
+*[[Camp Woodwind]]
+*[[Maple Lodge Campsite]]
+*[[Head Gear]] Tier 1
+|-
+|14
+|1,156
+|8,455
+|
+*[[Incense]] Tier 1
+*[[Sanity Medication]] Tier 1
+|-
+|15
+|1,219
+|9,611
+|
+*[[Point Hope]]
+|-
+|16
+|1,279
+|10,830
+|
+|-
+|17
+|1,339
+|12,109
+|
+*[[Sunny Meadows Mental Institution]]/Restricted
+|-
+|18
+|1,398
+|13,448
+|
+*[[Flashlight]] Tier 2
+*[[EMF Reader]] Tier 2
+*[[UV Light]] Tier 2
+|-
+|19
+|1,456
+|14,846
+|
+|-
+|20
+|1,512
+|16,302
+|
+*[[Difficulty#Professional|Professional]] difficulty
+|-
+|21
+|1,569
+|17,814
+|
+|-
+|22
+|1,625
+|19,383
+|
+|-
+|23
+|1,679
+|21,008
+|
+*[[Ghost Writing Book]] Tier 2
+*[[Photo Camera]] Tier 2
+*[[Spirit Box]] Tier 2
+|-
+|24
+|1,734
+|22,687
+|
+|-
+|25
+|1,787
+|24,421
+|
+|-
+|26
+|1,840
+|26,208
+|
+|-
+|27
+|1,892
+|28,048
+|
+*[[D.O.T.S. Projector]] Tier 2
+*[[Video Camera]] Tier 2
+*[[Thermometer]] Tier 2
+|-
+|28
+|1,944
+|29,940
+|
+|-
+|29
+|1,996
+|31,884
+|
+|-
+|30
+|2,046
+|33,880
+|
+*[[Difficulty#Nightmare|Nightmare]] difficulty
+|-
+|31
+|2,097
+|35,926
+|
+|-
+|32
+|2,147
+|38,023
+|
+*[[Sound Sensor]] Tier 2
+*[[Parabolic Microphone]] Tier 2
+|-
+|33
+|2,197
+|40,170
+|
+|-
+|34
+|2,245
+|42,367
+|
+*[[Tripod]] Tier 2
+*[[Flashlight]] Tier 3
+*[[Crucifix]] Tier 2
+|-
+|35
+|2,295
+|44,612
+|
+|-
+|36
+|2,342
+|46,907
+|
+|-
+|37
+|2,391
+|49,249
+|
+*[[Igniter]] Tier 2
+*[[Incense]] Tier 2
+*[[Firelight]] Tier 2
+|-
+|38
+|2,438
+|51,640
+|
+|-
+|39
+|2,486
+|54,078
+|
+*[[Sanity Medication]] Tier 2
+*[[Sound Recorder]] Tier 2
+*[[Salt]] Tier 2
+|-
+|40
+|2,532
+|56,564
+|
+*[[Difficulty#Insanity|Insanity]] difficulty
+|-
+|41
+|2,579
+|59,096
+|
+|-
+|42
+|2,626
+|61,675
+|
+*[[Motion Sensor]] Tier 2
+*[[Head Gear]] Tier 2
+|-
+|43
+|2,672
+|64,301
+|
+|-
+|44
+|2,717
+|66,973
+|
+|-
+|45
+|2,763
+|69,690
+|
+|-
+|46
+|2,808
+|72,453
+|
+*[[EMF Reader]] Tier 3
+*[[Spirit Box]] Tier 3
+*[[UV Light]] Tier 3
+|-
+|47
+|2,853
+|75,261
+|
+|-
+|48
+|2,897
+|78,114
+|
+|-
+|49
+|2,942
+|81,011
+|
+*[[D.O.T.S. Projector]] Tier 3
+*[[Video Camera]] Tier 3
+|-
+|50
+|2,986
+|83,953
+|
+*[[Difficulty#Custom|Custom]] difficulty
+|-
+|51
+|3,030
+|86,939
+|
+|-
+|52
+|3,074
+|89,969
+|
+*[[Igniter]] Tier 3
+*[[Sound Sensor]] Tier 3
+|-
+|53
+|3,117
+|93,043
+|
+|-
+|54
+|3,161
+|96,160
+|
+|-
+|55
+|3,203
+|99,321
+|
+*[[Ghost Writing Book]] Tier 3
+*[[Photo Camera]] Tier 3
+|-
+|56
+|3,246
+|102,524
+|
+|-
+|57
+|3,289
+|105,770
+|
+|-
+|58
+|3,331
+|109,059
+|
+|-
+|59
+|3,374
+|112,390
+|
+|-
+|60
+|3,415
+|115,764
+|
+*[[Sound Recorder]] Tier 3
+*[[Tripod]] Tier 3
+|-
+|61
+|3,457
+|119,179
+|
+|-
+|62
+|3,499
+|122,636
+|
+|-
+|63
+|3,540
+|126,135
+|
+|-
+|64
+|3,582
+|129,675
+|
+|-
+|65
+|3,623
+|133,257
+|
+*[[Thermometer]] Tier 3
+*[[Salt]] Tier 3
+|-
+|66
+|3,663
+|136,880
+|
+|-
+|67
+|3,704
+|140,543
+|
+|-
+|68
+|3,745
+|144,247
+|
+|-
+|69
+|3,786
+|147,992
+|
+|-
+|70
+|3,825
+|151,778
+|
+*[[Parabolic Microphone]] Tier 3
+*[[Motion Sensor]] Tier 3
+|-
+|71
+|3,866
+|155,603
+|
+|-
+|72
+|3,905
+|159,469
+|
+|-
+|73
+|3,946
+|163,374
+|
+|-
+|74
+|3,985
+|167,320
+|
+|-
+|75
+|4,024
+|171,305
+|
+*[[Sanity Medication]] Tier 3
+*[[Firelight]] Tier 3
+|-
+|76
+|4,064
+|175,329
+|
+|-
+|77
+|4,104
+|179,393
+|
+|-
+|78
+|4,142
+|183,497
+|
+|-
+|79
+|4,181
+|187,639
+|
+|-
+|80
+|4,220
+|191,820
+|
+*[[Head Gear]] Tier 3
+*[[Incense]] Tier 3
+*[[Crucifix]] Tier 3
+|-
+|81
+|4,259
+|196,040
+|
+|-
+|82
+|4,297
+|200,299
+|
+|-
+|83
+|4,336
+|204,596
+|
+|-
+|84
+|4,374
+|208,932
+|
+|-
+|85
+|4,412
+|213,306
+|
+|-
+|86
+|4,450
+|217,718
+|
+|-
+|87
+|4,488
+|222,168
+|
+|-
+|88
+|4,526
+|226,656
+|
+|-
+|89
+|4,564
+|231,182
+|
+|-
+|90
+|4,601
+|235,746
+|
+|-
+|91
+|4,639
+|240,347
+|
+|-
+|92
+|4,676
+|244,986
+|
+|-
+|93
+|4,713
+|249,662
+|
+|-
+|94
+|4,751
+|254,375
+|
+|-
+|95
+|4,787
+|259,126
+|
+|-
+|96
+|4,825
+|263,913
+|
+|-
+|97
+|4,861
+|268,738
+|
+|-
+|98
+|4,898
+|273,599
+|
+|-
+|99
+|4,935
+|278,497
+|
+|-
+|100
+|4,971
+|283,432
+|
+* Prestige Opportunity<ref group="note">Lose all money, equipment and levels for an additional [[Shop#Quick-Loadouts|loadout slot]], a unique badge and title for your ID card and a new Patch for your arm.</ref>
+|-
+|...
+|4,971 at each level
+|...
+|
+|-
+|999
+|4,971
+|4,752,361
+|
+* Old highest level, new cap is 9,999
+|-
+|...
+|Increases each level
+|...
+|
+|-
+|9,999
+| -
+|710,882,510
+|
+* Can't gain more levels
+|}
+
+==Trivia==
+*The theoretical maximum experience you can gain in a single contract (excluding [[Daily and Weekly Tasks]]) is 14,261, by completing a perfect game against an [[Obake]] on the highest difficulty multiplier with Blood Moon weather on [[Map#Large|large maps]]. When additionally completing all the most rewarding daily and weekly tasks during a [[Special events|special event]] (only on the 2nd, 11th, and 25th of the month), the absolute maximum experience is 22,861.
+*It is possible to calculate each level's cumulative XP needed. With <math>x</math> being the targeted level:
+**If <math>x\leq100</math>, the formula used is <math>100(x-1)^{1.73}</math> rounded down.
+**If <math>101\leq x\leq999</math>, the formula used is <math>283432+4971(x-100)</math>.
+**If <math>x>999</math>, the formula used is <math>4468929+100(x-900)^{1.73}</math> rounded down.
+
+==Notes==
+{{Reflist|group="note"}}
+[[Category:Gameplay]]
+[[fr:Expérience]]
+[[ru:Опыт]]

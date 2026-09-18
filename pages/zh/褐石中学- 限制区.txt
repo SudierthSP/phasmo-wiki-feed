@@ -1,0 +1,156 @@
+# 褐石中学- 限制区
+# revid 4271  2026-08-26T13:05:15Z  by Fanta1109
+# 备注: /* 詛咒道具生成位置 */
+# sha256 4413d4167a6d72b0e91d41eed62b1ac8e3f89e6b2d79601d237b2da555bd5ac6  bytes 5507
+# 源: https://phasmophobia.fandom.com/zh/api.php==褐石中学 - 受限區域==
+此地圖的為褐石中学限制版本可以獨立於主要地點進行選擇，並被視為中型地圖。在一樓受限版本中，僅能進入門廳（[[詛咒之物]]生成處）以及隨機選取的下層前側四分之一區域（包含該變體對應的側門），另一側的側門則會被封鎖。在二樓受限版本中，正門永遠會被封鎖，僅提供一個側門可供出入（門外有照明燈標示）。下層僅能進入樓梯區域（詛咒道具在此生成，但[[召喚陣]]除外），以及隨機選取的上層前側四分之一區域，召喚陣則會生成於樓梯頂端的一側。
+
+{{#tag:tabber|
+一樓左側=
+{{Location
+|title=褐石中学 - 受限區域
+|img=BHSRestricted FFL.png
+|mapsize=中
+|floors=1
+|unlocklevel=8
+|rooms=12
+|exits=2
+|faucets=10
+|videofeeds=4
+|keys=Main Door Key
+|img rooms=Rooms BHS Restricted FFL.png
+|img sanity=Sanity BHS Restricted FFL.png
+|img temperatures=Temperatures BHS Restricted FFL.png
+}}
+===關鍵躲藏點與策略===
+在此變體的褐石中学受限區域中，共有 3 個「官方認可」的躲藏點：
+*'''12 號教室'''：抽屜櫃後方
+*'''樓下男廁'''：廁所隔間
+*'''樓下男教師廁所'''：廁所隔間
+
+根據難度的不同，其中一些躲藏點可能會被大型物品阻擋或失去遮蔽元素：
+*'''業餘：''' 無封鎖
+*'''中級：''' 封鎖 3 個
+*'''專業：''' 封鎖 3 個
+*'''噩夢/狂暴：''' 封鎖 3 個
+*3 人遊戲：+1 個可用躲藏點
+*4 人遊戲：+2 個可用躲藏點
+
+<small>''當「躲藏地點數量」設定為「無」時，多人在場增加的額外躲藏點將被覆蓋無效''</small>
+{{!}}-{{!}}
+一樓右側=
+{{Location
+|title=褐石中学 - 受限區域
+|img=BHSRestricted FFR.png
+|mapsize=中
+|floors=1
+|unlocklevel=8
+|rooms=12
+|exits=2
+|faucets=8
+|videofeeds=4
+|keys=Main Door Key
+|img rooms=Rooms BHS Restricted FFR.png
+|img sanity=Sanity BHS Restricted FFR.png
+|img temperatures=Temperatures BHS Restricted FFR.png
+}}
+===關鍵躲藏點與策略===
+在此變體的褐石中学受限區域中，共有 5 個「官方認可」的躲藏點：
+*'''圖書館'''：兩排書架之間的紙箱後方（僅限靠牆處沒有紙箱時）
+*'''6 號教室'''：抽屜櫃後方
+*'''8 號教室'''：抽屜櫃後方
+*'''樓下女廁'''：廁所隔間
+*'''樓下女教師廁所'''：廁所隔間
+
+根據難度的不同，其中一些躲藏點可能會被大型物品阻擋或失去遮蔽元素：
+*'''業餘：''' 無封鎖
+*'''中級：''' 封鎖 4 個
+*'''專業：''' 封鎖 5 個
+*'''噩夢/狂暴：''' 封鎖 5 個
+*3 人遊戲：+1 個可用躲藏點
+*4 人遊戲：+2 個可用躲藏點
+
+<small>''當「躲藏地點數量」設定為「無」時，多人在場增加的額外躲藏點將被覆蓋無效''</small>
+{{!}}-{{!}}
+二樓左側=
+{{Location
+|title=褐石中学 - 受限區域
+|img=BHSRestricted SFL.png
+|mapsize=中
+|floors=2
+|unlocklevel=8
+|rooms=13
+|exits=1
+|faucets=10
+|videofeeds=5
+|keys=Main Door Key
+|img rooms=Rooms BHS Restricted SFL.png
+|img sanity=Sanity BHS Restricted SFL.png
+|img temperatures=Temperatures BHS Restricted SFL.png
+}}
+===關鍵躲藏點與策略===
+在此變體的褐石中学受限區域中，共有 4 個「官方認可」的躲藏點：
+*'''20 號教室'''：抽屜櫃後方
+*'''33 號教室'''：抽屜櫃與書架之間
+*'''樓上男廁'''：廁所隔間
+*'''樓上男教師廁所'''：廁所隔間
+
+根據難度的不同，其中一些躲藏點可能會因失去遮蔽元素而被封鎖：
+*'''業餘：''' 無封鎖
+*'''中級：''' 封鎖 4 個
+*'''專業：''' 封鎖 4 個
+*'''噩夢/狂暴：''' 封鎖 4 個
+*3 人遊戲：+1 個可用躲藏點
+*4 人遊戲：+2 個可用躲藏點
+
+<small>''當「躲藏地點數量」設定為「無」時，多人在場增加的額外躲藏點將被覆蓋無效''</small>
+{{!}}-{{!}}
+二樓右側=
+{{Location
+|title=褐石中学 - 受限區域
+|img=BHLRestricted SFR.png
+|mapsize=中
+|floors=2
+|unlocklevel=8
+|rooms=13
+|exits=1
+|faucets=8
+|videofeeds=5
+|keys=Main Door Key
+|img rooms=Rooms BHS Restricted SFR.png
+|img sanity=Sanity BHS Restricted SFR.png
+|img temperatures=Temperatures BHS Restricted SFR.png
+}}
+===關鍵躲藏點與策略===
+在此變體的褐石中学受限區域中，共有 3 個「官方認可」的躲藏點：
+*'''27 號教室'''：倒塌的書架後方
+*'''樓上女廁'''：廁所隔間
+*'''樓上女教師廁所'''：廁所隔間
+
+根據難度的不同，其中一些躲藏點可能會被大型物品阻擋或失去遮蔽元素：
+*'''業餘：''' 無封鎖
+*'''中級：''' 封鎖 3 個
+*'''專業：''' 封鎖 3 個
+*'''噩夢/瘋狂：''' 封鎖 3 個
+*3 人遊戲：+1 個可用躲藏點
+*4 人遊戲：+2 個可用躲藏點
+
+<small>''當「躲藏地點數量」設定為「無」時，多人在場增加的額外躲藏點將被覆蓋無效''</small>
+}}
+
+
+==詛咒道具生成位置==
+===正門的詛咒之物與原版為同樣的地方 詳細參考[[褐石中学#诅咒之物位置|褐石中学詛咒道具位置]]===
+{{#tag:tabber|
+受限區域（左側）=
+<gallery>
+File:左側詛咒.png|七個詛咒道具中的六個生成於一樓主走廊樓梯前方的長椅上。
+File:左側招喚.png|[[召喚陣]]生成於二樓主走廊 21 號教室前方。
+</gallery>
+{{!}}-{{!}}
+受限區域（右側）=
+<gallery>
+File:右側詛咒.png|七個詛咒道具中的六個生成於一樓主走廊樓梯前方的長椅上。
+File:右側招喚.png|[[召喚陣]]生成於二樓主走廊 24 號教室前方。
+</gallery>
+}}

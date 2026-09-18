@@ -1,0 +1,44 @@
+# 0.16.1.0
+# revid 24459  2026-08-16T16:09:50Z  by Darkhooper
+# 备注: Undo revision [[Special:Diff/24458|24458]] by [[Special:Contributions/Darkhooper|Darkhooper]] ([[User talk:Darkhooper|talk]]) oops it was 0.16.1.1 that fixed it.
+# sha256 8ee8210c3ecd9ef41c1d6085badf9a44131780aebcee1d829b256405d5e27672  bytes 2405
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| image1=0.16.1.0.png
+| release_date=30 March 2026 (Official Partners early access)<br>31 March 2026 (public release)
+| previous_major_version=[[0.16.0]]
+| previous_minor_version=
+| next_minor_version=[[0.16.1.1]]
+| next_major_version=[[0.17.0]]
+}}'''0.16.1.0''' is a minor update released on 31 March 2026.<ref>[https://www.kineticgames.co.uk/news/phasmophobia-cursed-hollow-v01610 ''Phasmophobia - Cursed Hollow v0.16.1.0''. 31 March 2026.]</ref><ref group="note">Official Kinetic Games Partners were given early access keys on 30 March 2026.</ref> This update reintroduces the [[Special events#Easter 2026|Cursed Hollow event]].
+
+==Additions==
+*'''Cursed Hollow:''' Complete contracts, optional objectives and more to earn points towards both Community & Personal goals. Each day, a different selection of locations will be specified on the contract board to be a part of the event.
+*'''Double XP & Rewards:''' For the first week of the event (31st March - 7th April), players will receive double XP and rewards from their contracts.
+*'''Cursed Hollow Rewards:''' On completing the goals, players will be rewarded with event-specific rewards such as the Pathfinder ID Card & Badge, in both static and animated versions.
+
+==Changes==
+*When revealing a ‘lucky’ Forest Minion, the ghost speed will decrease by 10%. This is stackable.
+*When revealing an ‘unlucky’ Forest Minion, the ghost speed will increase by 10%. This is stackable.
+*The ghost can now interact with the 6 Tanglewood Drive train set horn.
+*Reduced the volume & frequency of the dog audio on 6 Tanglewood Drive.
+*Reduced the volume of the rain hitting the windows in 6 Tanglewood Drive.
+*Updated ghost interact sounds for doors, fridges, toilet, cupboards in 6 Tanglewood Drive.
+*Added new house ambient audio in 6 Tanglewood Drive.
+
+==Fixes==
+*The Cursed Hollow Altar in the warehouse will now transform correctly upon certain goals being achieved by the community and player.
+*Fixed an issue on 6 Tanglewood Drive that caused rain during Blood Moon weather to not have any audio.
+*Fixed an issue that caused fingerprints on 6 Tanglewood Drive to display at the wrong size.
+*Various other bug fixes and improvements.
+
+==Known Issues==
+*Forest Minion jumping sound is too loud.
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.16.1.0]]
+[[ru:0.16.1.0]]

@@ -1,0 +1,61 @@
+# Kinetic Games
+# revid 3662  2024-12-17T05:37:22Z  by Skaijie
+# sha256 695c405e86e43393a79d54933c39e5a929a6f361741ce610b03a55b24c0e3af1  bytes 2506
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Studio
+ |image1=KineticGames.png
+ |founded=2020<ref>https://www.kineticgames.co.uk/about-us</ref>
+ |founder=Dknighter
+ |website=[http://www.kineticgames.co.uk/ www.kineticgames.co.uk]
+ |links=<div class="button123" style="float:left">[[File:MediaBoxTwitter.png|30px|link=https://x.com/KineticGamesDev]]</div><div class="button123light" style="float:left">
+}}'''Kinetic Games''' 是一个新兴的独立游戏工作室。他们开发了4人在线合作恐怖游戏[[恐鬼症]]。
+
+==成员==
+于2024年12月，Kinetic Games有16名成员：
+*Dknighter - 主创
+*Lavender - 主程序员
+*Fydar - 高级开发者
+*Wolfe - 游戏制作者
+*cjdxn - 主美
+**Zec - 地图美术
+**Christina - 音效美术
+**Liuos - 环境美术
+**Louise - 环境美术
+**Skinner - 环境美术
+*Shuee - 主品保
+**AceXV - 品保
+**Kestrl - 品保
+*AT - 主销经理
+*Tom - 社交经理
+*Begla - 电邮支援
+
+==历史==
+===2018 - 2020===
+丹尼尔·奈特（Daniel Knight，外号 Dknighter）最早始于 2018 年开始制作 ''Spectrophobia'' 游戏。最早公开发布的更新公告为2019年12月的内测更新。于 2020年3月3日，游戏改名为 ''Phasmophobia''（恐鬼症），公司改名为 Kinetic Games. 公司之前的名称未明确。
+
+===2021===
+2021年中之前，外号为 Botsero 是恐鬼症的主要试员和创意策展者，虽然他没有正式加入公司。Botsero 已不再扮演这个角色。
+
+6月18日，奈特宣布公司将加入两位成员：科里·J·迪克森（Corey J. Dixon，外号 cjdxn）为主美、本杰明·拉文德（Benjamin Lavender）为高级开发者。迪克森与拉文德于7月正式加入 Kinetic Games。Lavender 之后改为主程序员。
+
+===2022===
+5月16日，Kinetic Games 宣布将杰克·斯金纳（Jack Skinner）以环境美术的身份加入公司。
+
+===2023===
+2023年9月再加入新的成员：Zec，原本为2D美术。他可能在更早一点已加入公司。
+
+===2024===
+这年是Kinetic Games扩展团队最多的一年：
+* 3月5日：Begla为电邮支援
+*5月12日：Shuee为主品保
+*4月2日：Louise Oliver（Louise）为环境美术、Christina为音效美术
+*6月3日：Louis Baker（Liuos）为环境美术
+*8月5日：Asim Tanvir（AT）为社交经理，10月14日改为主销经理
+*9月3日：Wolfe为游戏制作者
+*10月1日：AceXV为品保
+*10月14日：Tom Dent（Tom）为社交经理
+*12月2日：Fydar 为高级开发者
+*12月16日：Kestrl 为品保
+
+==参考资料==
+{{Reflist}}
+[[Category:恐鬼症]]

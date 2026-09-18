@@ -1,0 +1,92 @@
+# 0.8.0.6
+# revid 23981  2026-06-28T21:43:11Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 e4fb7d89d1d3699bf61b02d1df320d1c0d4af3fe8cedacdcfe2cf26de1cfc7c1  bytes 5519
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=7 January 2023
+ | previous_major_version=[[0.8.0]]
+ | previous_minor_version=[[0.8.0.5]]
+ | next_minor_version=[[0.8.0.7]]
+ | next_major_version=[[0.9.0]]
+}}'''0.8.0.6''' is a minor hotfix released on 7 January 2023.<ref>[https://store.steampowered.com/news/app/739630/view/3681162799765664834 ''Tempest | Hotfix v0.8.0.6''. 7 January 2023 (on Steam).]</ref> It is the first update to the game in 2023 and the last to feature the ''[[Special events#Holiday 2022|Holiday '22]]'' event. The hotfix was re-released to fix an issue with the Holiday event not working properly.
+
+== Additions ==
+* “Get the ghost to walk in salt” has been added as a daily challenge 
+* You can now change speaker modes between Mono, Stereo (default), Quad, Surround, 5.1 and 7.1 in the audio settings. Once changed, you must reload the main menu or load into a location 
+* Ghosts and players can now move the large metal trays in Sunny Meadows
+* Coal in Sunny Meadows now have new sounds when dropped or thrown
+
+== Changes ==
+* Improved sanity drain accuracy when in light and dark areas
+* You can no longer complete the Apocalypse challenge in multiplayer mode while solo or after other players leave
+* You can now place crucifixes in VR, so you can see the range indicator
+* While using text voice recognition, you can now click back and say “goodbye” to the Ouija board without waiting for the delay
+* While using text voice recognition, you can no longer activate the Ouija board while the spirit box is turned on
+* Moroi hunt speed will now change if you lose sanity during the hunt
+* Adjusted the light above the front door in Edgefield
+* Improved accuracy of reflections in the Edgefield hallway
+
+== Bug fixes ==
+; General
+* You will no longer get colour banding when FidelityFX is turned off
+* Rain will now work again on all maps
+* The bone will no longer spawn in unreachable locations
+* The thermometer will now show the correct temperature if you look into a different room and do not move your mouse
+* Tripods will no longer get stuck in some areas when dropping it
+* Swapping out equipment with Q whilst placing equipment, will no longer lock your movement
+* The Tanglewood outside light and Woodwind tree fairy lights will no longer keep flashing after a hunt has ended
+* You will now be able to move if you die when holding an activated spirit box with text voice recognition
+* Some journal buttons’ clickable areas are no longer overlapping, making them easier to click
+* Jumping to the ghost page in the journal, then navigating back, will no longer swap to negative journal page numbers
+* Leaf piles will no longer “pop” in detail when moving towards or away from them
+* Ghosts will no longer spawn inside of or on top of blue beds
+* You can no longer get stuck in the blue tent on Camp Woodwind behind the sleeping mats
+* Removed some light leaks in Prison and School
+* Blue privacy screens will no longer have weird gaps in them
+* The truck’s map buttons will no longer render on top of transparent objects such as candle flames
+* You can no longer add locked items to a lobby when using loadouts
+* Truck ramp texture is now affected by the anisotropic setting
+* Graphic settings now apply correctly
+* Cookies no longer count as multiple cookies when 2 or more people collect them at the same time
+* Rugs in Grafton Farmhouse will no longer have a grey texture under them
+* BHaptics (VR) will no longer keep playing, if they were active when you were dead
+* BHaptics room haptics (VR) will now stop when leaving the room, for example: a room with an active car alarm
+* You can now take a photo of the black keyboard interaction and fingerprints
+* Moved a bin that was clipping inside a wall in School
+* School’s paper clips will now have the correct material, and not be clipping with the desk they are on
+* Removed several areas of leaking fog in the following maps
+** Ridgeview
+** Tanglewood
+** Edgefield
+** Bleasdale
+** Grafton
+** School
+** Prison
+** Sunny Meadows
+
+; Sunny Meadows
+* Adjusted shader for privacy screens in Sunny Meadows
+* Several improvements have been made to the ghost’s walkable area
+* Newspapers, food baskets, cheese wheels, apples and potatoes now have colliders
+* Beds now have the correct colliders so objects will no longer get lost inside them
+* Added an invisible wall in West Foul Linen (room) to stop players getting stuck
+* Increased the size of colliders for hedges in the Courtyard (area) so objects will no longer get lost inside them
+* You can no longer throw items through the exterior window walls
+* Removed duplicated beds, wardrobes and other props when the hiding spot is blocked
+* You can no longer walk along the floor trim of the Courtyard to get pushed under the map
+* Cloth on beds will no longer be black on one side
+* The Female Day Room will no longer have floating books if the hiding spot is blocked
+* Potential fix for items teleporting from Hospital Room 3
+* You can no longer get stuck in [SM] Restricted (female wing only), between the bed and the blocking bookshelves
+* Added some clutter to block a safe spot in the blocked entrance stairwell
+* The fountain water shader will no longer have visual artifacts
+* Fog will no longer render through the beige privacy screens
+* The ghost can no longer walk through sinks or freezers in the Kitchen
+* Several fingerprints are now back in the correct place on doors 
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.8.0.6]]
+[[ru:0.8.0.6]]

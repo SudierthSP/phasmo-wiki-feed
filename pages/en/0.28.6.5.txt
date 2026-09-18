@@ -1,0 +1,83 @@
+# 0.28.6.5
+# revid 23923  2026-06-28T21:38:42Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 8cb461803764f0071ce1d9784703f25abfbfc2c2934cf0e86ab9d2f25859c905  bytes 4233
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=14 May 2021
+  | previous_major_version=[[0.27.4.2]]
+  | previous_minor_version=0.28.6.4 (Beta)
+  | next_minor_version=0.29.0 (Beta)
+  | next_major_version=[[0.29.6]]
+}}The '''0.28.6.5''' update was released on 14 May 2021.<ref>https://store.steampowered.com/news/app/739630/view/5427378936403126536</ref> This update changes several hunt mechanics and other features, and fixes bugs.
+
+== Changes ==
+
+=== Equipment ===
+{{main|Equipment}}
+;[[Crucifix]]
+*Now cause a 5 second delay in between each hunt attempt after it gets used by the ghost
+
+;[[Key]]s
+*Removed Garage and Basement keys as they served no purpose
+
+=== Gameplay ===
+*Non-VR area light will now light up the equipment in your hand which will allow you to see what you are holding in the dark
+
+=== Hunts ===
+{{main|Hunt}}
+*Ghosts no longer move during the grace period at the start of the hunt
+*Hunt grace period has been decreased from 8 seconds to 5 seconds
+*All ghosts except Revenants now accelerate if they see a player and decelerate after not finding the player
+*Ghosts now have a chance to slightly open both closet doors at the same time during a hunt
+*Ghosts now have a 50% chance to remember where it last saw a player during the last hunt and will search that area in the next hunt
+*Ghosts will now throw open a closet or locker if they know a player is inside or a player is talking inside
+*Furniture now blocks line of sight between players and the ghost
+
+=== Maps ===
+;[[Asylum]]
+*Increased the size of player icons on the truck map
+
+;[[Prison]] and [[Brownstone High School]]
+*Optimisations to significantly improve load times and fps
+
+;[[Bleasdale Farmhouse]]
+*Minor lighting changes to help with performance
+
+;[[Tanglewood Street House]]
+*The Garage room has been slightly changed to prevent some exploits
+
+=== General ===
+*Multiplayer related UI buttons (join, create etc.) on the main menu can no longer be clicked when still connecting to the server or a new region
+*Removed the footstep haptic effect with bHaptics
+
+== Bug Fixes ==
+
+=== From issues introduced before 0.28.6.5 ===
+*Fixed a bug where an Oni wouldn't throw objects faster than other ghosts including Poltergeists.
+*Fixed an issue where the amount of hunts stat would reset if the host disconnected.
+*Fixed an issue where you could hear the ghost footsteps from far away.
+*Fixed a bug where some rooms wouldn't start cold on Professional.
+*Fixed an issue where you could complete the EMF objective during a hunt.
+*Fixed a bug where the farm house outside foliage/ vegetation were being fully lit when any part of them were lit.
+*Improved how the equipment, keys and bone get spawned in to help prevent disconnects and crashes at the start of the game.
+*Fixed a bug where the equipment wouldn't spawn in if the host disconnected when loading.
+*LIV VR: Fixed a bug where the LIV spectator view could not see other players.
+*Fixed a bug where the game wouldn't end if all players glitched out of the truck when it was closing.
+*Fixed a bug where the ghost would keep chasing you after you used a smudge stick during a hunt if you broke line of sight.
+*Fixed a bug where the CCTV monitor would freeze if you placed a head mounted camera back on the holder while it was shown on the monitor.
+*Fixed a bug where the selected contract would get desynced if the host left and re-joined the lobby.
+*Fixed an issue where VR players doors would desync when the ghost or other players would grab the door they were grabbing.
+*Fixed a bug where you would sometimes not die when wearing a head mounted camera.
+*Fixed a bug where the ghost could see you through some closed lockers and closets.
+*Fixed a bug where Banshees wouldn't set a new target player after they killed their target.
+*Fixed several safe spots across all maps.
+*Fixed a bug where the ghost would think non hosts were in a different room if they stood against a wall while holding something.
+*Fixed a bug where door positions would sometimes desync in multiplayer if they got opened or closed too quickly.
+*Fixed a bug where VR players couldn't grab and take control of doors held by other players.
+
+== References ==
+{{reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.28.6.5]]
+[[ru:0.28.6.5]]

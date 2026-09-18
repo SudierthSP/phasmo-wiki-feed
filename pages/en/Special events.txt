@@ -1,0 +1,292 @@
+# Special events
+# revid 24017  2026-06-28T21:46:26Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 64f5356811b40cff1ce62a827373c4da5303ae053211073f9914fc1923e5ca89  bytes 21714
+# 源: https://phasmophobia.fandom.com/api.phpThis page lists '''special events''' that have occured within ''Phasmophobia''. Some events will give out trophies, which will be displayed in the [[lobby]].
+<!--
+==Halloween 2021==
+
+==Christmas 2021==
+-->
+==2022==
+===Easter 2022===
+During this event, each map had a fixed number of easter eggs spawn in fixed locations. Players could pick them up to collect them. Once all the eggs in the map had been collected, the sanity of all players would be restored to 100%.
+
+===Halloween 2022===
+[[File:Halloween 2022 Trophy.jpg|thumb|The Halloween 2022 Trophy.]]
+An interactive event was introduced for Halloween 2022. In this event, some maps would have a fixed number of carved pumpkins containing candies, similar to Easter 2022. These maps were indicated by a jack o' lantern symbol in the contract selection board. To complete each map, the player had to be on Nightmare difficulty (not a custom Nightmare preset) and do the following in order:
+*Collect all the candies.
+*After all the candies are collected, new carved pumpkins would spawn, requiring players to light them up with a [[lighter]].
+*Once both of these are done, the ghost will now show up with a pumpkin head for the remainder of the contract. The player(s) must then take a [[photo]] of the ghost. The photo does not have to be labelled nor be the first ghost photo as long as the ghost is technically in the photo.
+
+Each time a step was completed, a laughing sound would play. The player did not have to survive as long as all the steps were completed.
+
+If the map's [[weather]] was Heavy Rain, the player had to start a new contract, as some pumpkins were located outside and thus could not be lit.
+
+Completed maps would have a check mark on top of the pumpkin label. Once the activity had been done across all the maps containing the pumpkins, the player was rewarded with a pumpkin trophy. This event lasted from [[0.7.1.0]] until [[0.7.1.5]].
+
+Aside from this event, the [[lobby]] and the truck also had various decorations.
+
+===Holiday 2022===
+[[File:Christmas 2022 Trophy.jpg|thumb|The Holiday 2022 Trophy.]]
+During this event, the lobby was decorated with various Christmas decorations. A temporary challenge was also added. Similar to the Trick or Treat event, participating maps would feature a Holiday Sticker on the map selection board on Intermediate difficulty. The player was then required to visit all 7 maps and do the following on each map:
+
+#Collect 6 cookies to add them to a plate
+#Place the completed plate near the ghost
+#Wait for the ghost to eat the cookies; this will cause the player's vision to darken, and a hunt starts after their vision clears if they are in the investigation area. The ghost will now appear for the remainder of the contract with a Christmas garb as the one seen from Christmas 2021, and the [[weather]] will turn to snow.
+#Correctly identify the ghost and leave alive
+
+After completing all the maps, the player would receive a Holiday '22 Badge (for the [[ID Card]]) and Trophy. The maps could be done in either singleplayer or multiplayer. 
+
+This event was introduced with the ''Tempest'' update ([[0.8.0]]) and ended on 9 January 2023 ([[0.8.0.7]]).
+
+==2023==
+===April Fools 2023===
+On 1 April 2023, a same-version hotfix (0.8.1.3) was released to add some new features:
+[[File:Big head small head.jpg|thumb|A ghost with a big head.]]
+*Player and ghost model heads are now comically big
+*Most ghost vocalisations are now sped up and have a higher pitch
+*Other players now appear to T-pose by default
+**Consequently, all their photos are taken upside down
+*Ghosts will occasionally appear in T-pose (such as during certain ghost events or when producing a [[D.O.T.S Projector]] silhouette)
+
+This lasted the whole 24 hours of the day (UK timezone), and was reverted afterwards.
+
+===Easter 2023===
+[[File:Easter 2023 Trophy.png|thumb|The Easter 2023 Trophy.]]
+An event was introduced for Easter 2023. Similar to the Trick or Treat and the Holiday 2022 events, participating maps would feature an Easter Sticker on the map selection board. The player was required to visit all 7 small maps and do the following on each map:
+*Collect all the hidden Easter eggs.
+
+Once all eggs were collected, a laughing sound would play, indicating that the objective has been completed.
+
+Compared to other holiday challenges, this could be done on either singleplayer or multiplayer, on any difficulty (including custom difficulties of any multiplier, even 0x), and there was no need to find the ghost type or acquire a ghost photo. The player only needed to be alive the moment the last egg was picked up, and could be dead at any other time.
+
+After completing this objective on all maps, the player would receive an Easter '23 Badge (for the ID Card) and Trophy. 
+
+This event lasted from [[0.8.1.4]] until [[0.8.1.6]].
+
+===Halloween 2023===
+[[File:Halloween2023Trophy.png|thumb|The Halloween 2023 Trophy.]]
+[[File:Halloween_23_Cauldron.gif|thumb|Cauldron Visual Effect.]]
+An event was introduced for Halloween 2023. Similar to previous events, participating maps would feature a Pumpkin Sticker on the map selection board. The player could visit all 9 maps and do the following on each map:
+*Find the recipe ingredient note found in a pumpkin's mouth.
+
+Once the player knew the full recipe, they could proceed to add the ingredients to the cauldron found in [[Maple Lodge Campsite]] in order to complete the event. If all the proper ingredients were added, the sky would turn red and a special visual effect would play with ghosts shooting out of the cauldron to form a red skull in the sky.
+
+This could be done on either singleplayer or multiplayer, on any difficulty (including custom difficulties of any multiplier, even 0x), and there was no need to find the ghost type.
+
+After completing this event, the player would receive a Halloween '23 Badge (for the ID Card) and Trophy. 
+
+This event was introduced in [[0.9.1.0]] and lasted until [[0.9.2.0]].
+
+===Holiday 2023===
+[[File:Christmas2023Trophy.png|thumb|The Holiday 2023 Trophy.]]
+An event was introduced for Holiday 2023. During this event, 7 small maps would feature a Snowman Sticker while Sunny Meadows had a Snowball Gun Sticker on the map selection board. To complete the event, the player needed to do the following:
+
+*Find 3 mysterious parts on Sunny Meadows
+Once all parts were collected, a laughing sound would play, indicating that the objective has been completed, which would add a newly built device in the [[truck]].
+
+*Using a snowball gun, destroy all the dancing snowmen on the 7 maps featuring a Snowman Sticker
+Each time all the snowmen in a map were destroyed, the weather changed to Snow, and the ghost changed its model and initiated a hunt.
+
+After destroying the snowmen on all maps, the player would receive a Holiday '23 Badge (for the ID Card) and Trophy.
+
+This event could be done on either singleplayer or multiplayer, on any difficulty (including custom difficulties of any multiplier, even 0x), and there was no need to find the ghost type.
+
+This event was introduced in [[0.9.3.0]] and lasted until [[0.9.4.0]].
+
+==2024==
+===Easter 2024===
+[[File:Easter2024Trophy.png|thumb|The Easter 2024 Trophy.]]
+[[File:Easter_24_Lobby_Tree.gif|thumb|Lobby Tree Visual Effect.]]
+An event was introduced for Easter 2024. During this event, 5 maps would feature a Nest Sticker while Camp Woodwind had a Forest Spirit Sticker on the map selection board. To complete the event, the player needed to do the following:
+
+*Capture a photo of the Forest Spirit's minion on the 5 maps featuring a Nest Sticker
+**The Forest Spirit's minion can be found using the UV Light and the D.O.T.S. Projector
+*After taking a photo of all 5 minions, capture a photo of the ghost on Camp Woodwind and successfully identify it
+
+After completing these objectives, the player would receive an Easter '24 Badge (for the ID Card) and Trophy. The tree in the lobby would also display a glowing visual effect while the event was ongoing.
+
+This event could be done on either singleplayer or multiplayer, on any difficulty (including custom difficulties of any multiplier, even 0x), and there was no need to find the ghost type when doing the minions' part.
+
+This event was introduced in [[0.9.6.0]] and lasted until [[0.9.6.1]].
+
+===Halloween 2024===
+[[File:BloodMoonTrophy.png|thumb|The Blood Moon Trophy.]]
+The ''Crimson Eye'' event was introduced for Halloween 2024. In this event, the players were tasked to work together to achieve three community goals in order to get new ID cards, a trophy, and to permanently unlock the Blood Moon [[weather]] type.
+
+The three community goals were:
+*Identify ghosts correctly (10 Blood Moon points per ghost)
+*Complete optional objectives (2 Blood Moon points per objective)
+*Photograph any Totems you find (1 Blood Moon point per totem)
+
+When completing these goals on one of the four maps featuring the Blood Moon weather type ([[13 Willow Street]], [[42 Edgefield Road]], [[Grafton Farmhouse]], and [[Point Hope]]), players would add progression to a stage.
+
+Initially, the required Blood Moon points to complete each stage were 1 billion (stage 1), 1.5 billions (stage 2), and 2 billions (stage 3), but it was lowered twice: to 30 millions (stage 1), 40 millions (stage 2), and 50 millions (stage 3) on 30 October, and the requirement for the third stage was further reduced to 40 millions on 11 November.
+
+Once a stage was complete, players would start making progress in the next stage, and they needed to interact with the Blood Altar in the lobby to get a reward. The rewards for each stage were:
+*Stage 1: Summoner ID card
+*Stage 2: Upgraded Summoner ID card
+*Stage 3: Blood Moon Trophy and Blood Moon weather post event
+
+This event was introduced in [[0.11.0]] and lasted until 17 November 2024. It was originally planned to last until 13 November, but it was prolonged twice, on 11 November until 15 November, and again on 15 November after the event already ended, to ensure most players would get a chance to claim the rewards of the last stage.
+
+Kinetic Games shared the total amount of Blood Moon points collected and a leaderboard with the top 10 contributors on 15 November. 118,494,255 Blood Moon points were acquired by the whole playerbase with the top contributor contributing 13,104 points.
+
+===Holiday 2024===
+[[File:Winters jest trophy.png|thumb|The Winter's Jest Trophy.]]
+The ''Winter's Jest'' event was introduced for Holiday 2024. Similar to the ''Blood Moon'' event, players were tasked to work together to achieve a set of shared goals in order to receive rewards. However, for this event, there were some improvements, such as the introduction of personal daily and weekly tasks for the event, and improved scoring and rewards.
+
+The shared goals were:
+*Identify ghosts correctly (10 points per ghost with 1 additional point per difficulty multiplier)
+*Complete optional objectives (3 points per objective)
+*Open jack-in-the-boxes (2 points per box)
+
+When completing these goals on one of the four maps featuring festive decorations ([[Bleasdale Farmhouse]], [[6 Tanglewood Drive]], [[Maple Lodge Campsite]], and [[Point Hope]]), players would add progression to a stage.
+
+Once a stage of the overall community goal was completed, players were able to interact with the Event Altar to claim the stage's rewards. The rewards for each stage were:
+*Stage 1: Winter's Patron ID card
+*Stage 2: Upgraded Winter's Patron ID card
+*Stage 3: Winter's Jest Trophy
+
+This event was introduced in [[0.11.1.0]] and lasted until 31 December 2024.
+
+==2025==
+===Easter 2025===
+[[File:Cursed_Hollow_Trophy.png|thumb|The Cursed Hollow Trophy.]]
+[[File:CHTIII.gif|thumb|The fully upgraded Cursed Hollow Trophy.]]
+The ''Cursed Hollow'' event was introduced for Easter 2025. Similar to the ''Blood Moon'' and ''Winter's Jest'' events, players could achieve a set of community goals. This event also introduced personal goals and daily map rotations.
+
+On maps featuring the event, which have Heavy Rain as default [[weather]], players had to do the following to add progress to the community/personal goal:
+*Identify ghosts correctly (10 points per ghost with 1 additional point per difficulty multiplier)
+*Complete optional objectives (3 points per objective)
+*Find and reveal any forest minions (2 points per forest minion)
+
+Forest minions were revealed by shining a [[D.O.T.S. Projector]] at them, and they affected gameplay in one of several ways:
+*If the forest minion runs away, the player gains 5% sanity and the ghost's speed is decreased by 5%. This speed decrease does not stack and remains until the end of the contract.
+*If the forest minion jumps towards the player, the player loses 10% sanity and drops the item they are currently holding.
+*If the forest minion turns golden, a hunt is triggered (unless blocked by incense or the hunt cooldown). If this happens when the ghost is already hunting, the hunt will end immediately.
+
+Once a goal was completed, players would automatically receive the rewards upon login during the event window. The rewards for each goal were:
+*Community Goal 1: Hero of the Hollow ID Card
+*Community Goal 2: Upgradable Event Trophy
+*Personal Goal 1: Upgraded Hero of the Hollow ID Card
+*Personal Goal 2: Trophy Upgrade I
+*Personal Goal 3: Trophy Upgrade II
+*Personal Goal 4: Trophy Upgrade III
+
+A total of 3,600 event points was required to complete all 4 personal goals. The upgraded ID card was obtained after collecting 300 points, then 800 more points were required for the first trophy upgrade, 1,000 more points for the second, and 1,500 more points for the last one.
+
+This event was introduced in [[0.12.1.0]] and lasted until 8 May 2025.
+
+===5th Year Anniversary===
+A special event celebrating the game's fifth anniversary was introduced in [[0.14.1.0]] and lasted until 21 September 2025. Logging in during this event would reward the Veteran [[ID Card]], all contracts had double XP and money, and the weekly [[Challenge Mode|challenge]] was replaced by ''Deja Vu''.
+
+===Halloween 2025===
+[[File:Crimson Eye Trophy Upgrade 3.gif|thumb|The fully upgraded Crimson Eye Trophy.]]
+The ''Crimson Eye'' event was brought back for Halloween 2025. It was similar to the [[#Halloween 2024|Halloween 2024 event]] with minor adjustments.
+
+Players could add progress to the community/personal goal simply by playing contracts with [[Weather#Blood Moon|Blood Moon weather]]:
+*Identify ghosts correctly (10 points per ghost with 1 additional point per difficulty multiplier)
+*Complete optional objectives (3 points per objective)
+*Interact with any Totems you find (2 points per totem)
+Contracts with a difficulty multiplier below 1x would reward no points.
+
+Each day, a group of 4 maps among the following guaranteed Blood Moon weather: [[6 Tanglewood Drive]], [[Camp Woodwind]], [[Grafton Farmhouse]], [[Bleasdale Farmhouse]], [[Point Hope]], [[42 Edgefield Road]], and [[13 Willow Street]].
+
+Once a goal was completed, players would automatically receive the rewards upon login during the event window. The rewards for each goal were:
+*Community Goal 1: Child of the Cult ID Card
+*Community Goal 2: Upgradable Crimson Eye Trophy
+*Personal Goal 1: Animated Child of the Cult ID Card
+*Personal Goal 2: Trophy Upgrade I
+*Personal Goal 3: Trophy Upgrade II
+*Personal Goal 4: Trophy Upgrade III
+
+A total of 3,600 event points was required to complete all 4 personal goals. The upgraded ID card was obtained after collecting 300 points, then 800 more points were required for the first trophy upgrade, 1,000 more points for the second, and 1,500 more points for the last one.
+
+This event was introduced in [[0.14.2.0]] and lasted until 1 November 2025. It was originally planned to last until 31 October.
+
+===Holiday 2025===
+[[File:Winter's Jest Trophy Upgrade 3.gif|thumb|The fully upgraded Winter's Jest Trophy.]]
+The ''Winter's Jest'' event was brought back for Holiday 2025. It was similar to the [[#Holiday 2024|Holiday 2024 event]] with minor adjustments.
+
+Players could add progress to the community/personal goal by doing the following on event maps:
+*Identify ghosts correctly and survive (10 points per ghost with 1 additional point per difficulty multiplier)
+*Complete optional objectives (3 points per objective)
+*Open jack-in-the-boxes (2 points per box)
+*Drop items in Krampus' bag (10 points per completed list)
+Contracts with a difficulty multiplier below 1x would reward no points.
+
+When Krampus' list was completed, a small gift would also be rewarded, containing items that could only be used in that contract among either [[equipment]] of various tiers, cookies that restore [[sanity]] (working like the Tier 1 [[Sanity Medication]]), or the snowball gun from the [[#Holiday 2023|Holiday 2023 event]]. However, if an incorrect item was dropped in the bag, the list could no longer be completed, the small gift would reward coal, and the ghost would become 15% faster during hunts.
+
+Each day, four maps were chosen to host the event among: [[6 Tanglewood Drive]], [[10 Ridgeview Court]], [[13 Willow Street]], [[42 Edgefield Road]], [[Camp Woodwind]], [[Bleasdale Farmhouse]], [[Grafton Farmhouse]], [[Maple Lodge Campsite]], [[Point Hope]], and [[Nell's Diner]].
+
+Once a goal was completed, players would automatically receive the rewards upon login during the event window. The rewards for each goal were:
+*Community Goal 1: Toy Soldier ID Card
+*Community Goal 2: Upgradable Winter's Jest Trophy
+*Personal Goal 1: Animated Toy Soldier ID Card
+*Personal Goal 2: Trophy Upgrade I
+*Personal Goal 3: Trophy Upgrade II
+*Personal Goal 4: Trophy Upgrade III
+
+A total of 3,600 event points was required to complete all 4 personal goals. The upgraded ID card was obtained after collecting 300 points, then 800 more points were required for the first trophy upgrade, 1,000 more points for the second, and 1,500 more points for the last one.
+
+This event was introduced in [[0.15.1.0]] and lasted until 6 January 2026.
+
+==2026==
+===Easter 2026===
+The ''Cursed Hollow'' event was brought back for Easter 2026. It was similar to the [[#Easter 2025|Easter 2025 event]] with minor adjustments.
+
+Each day, a group of 4 maps among the following hosted the event: [[6 Tanglewood Drive]], [[13 Willow Street]], [[42 Edgefield Road]], [[10 Ridgeview Court]], [[Nell's Diner]], [[Grafton Farmhouse]], [[Bleasdale Farmhouse]], [[Camp Woodwind]], [[Maple Lodge Campsite]], and [[Point Hope]].
+
+On maps featuring the event, which have Heavy Rain as default [[weather]], players had to do the following to add progress to the community/personal goal:
+*Identify ghosts correctly (10 points per ghost with 1 additional point per difficulty multiplier)
+*Complete optional objectives (3 points per objective)
+*Find and reveal any forest minions (2 points per forest minion)
+Contracts with a difficulty multiplier below 1x would reward no points.
+
+Forest minions were revealed by shining a [[D.O.T.S. Projector]] at them, and they affected gameplay in one of several ways:
+*If the forest minion runs away, the player gains 10% sanity and the ghost's speed is decreased by a stackable 10%.
+*If the forest minion jumps towards the player, the player loses 10% sanity and the ghost's speed is increased by a stackable 10%.
+*If the forest minion turns golden, a hunt is triggered (unless blocked by incense or the hunt cooldown). If this happens when the ghost is already hunting, the hunt will end immediately.
+
+Once a goal was completed, players would automatically receive the rewards upon login during the event window. The rewards for each goal were:
+*Community Goal 1: Pathfinder ID Card
+*Community Goal 2: Animated Pathfinder ID Card
+*Personal Goal 1: Cursed Hollow Cosmetics
+*Personal Goal 2: Cursed Hollow Trophy
+*Personal Goal 3: Trophy Upgrade I
+*Personal Goal 4: Trophy Upgrade II
+*Personal Goal 5: Trophy Upgrade III
+
+A total of 3,500 event points was required to complete all 5 personal goals. The cosmetics were obtained after collecting 200 points, then 100 more points were required to unlock the trophy, 700 more points for its first upgrade, 1,000 more points for its second, and 1,500 more points for its last one.
+
+This event was introduced in [[0.16.1.0]] and lasted until 21 April 2026.
+
+===Phasmophobia x Alan Wake II===
+The 'Phasmophobia by Alan Wake' event was introduced in [[0.17.1.0]] and will last until 2 June 2026.
+
+In this time-limited event steming from a collaboration between Phasmophobia and Alan Wake 2, players have been tasked with various goals. [[Camp Woodwind]], [[Bleasdale Farmhouse]], [[Grafton Farmhouse]], and [[Nell's Diner]] were temporarily renamed '''Coffee World''', '''Elderwood Palace Lodge''', '''Cauldron Lake''', and '''Oh Deer Diner''', respectively. They also featured Heavy Rain weather.
+
+;Community Goal and Personal Goal #1
+On the four maps mentioned above, players have to do the following to add progress to these goals:
+*Identify ghosts correctly (10 points per ghost with 1 additional point per difficulty multiplier)
+*Complete optional objectives (3 points per objective)
+*Purge the shadows (2 points per shadow)
+Contracts with a difficulty multiplier below 1x would reward no points.
+
+A total of 300 points is required to complete the personal goal #1.
+
+;Personal Goal #2
+The personal goal #2 is completed by revealing all 68 words of power with a [[UV Light]] on the four maps mentioned above.
+
+;Personal Goal #3
+The personal goal #3 is completed by collecting all 13 dolls on the four maps mentioned above and by solving all 3 doll puzzles in the [[lobby]].
+
+==See also==
+*[[Contests and giveaways]]
+
+[[Category:Gameplay]]
+[[Category:Events]]
+[[fr:Événements spéciaux]]
+[[ru:Особые события и испытания]]

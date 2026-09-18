@@ -1,0 +1,161 @@
+# Camp Woodwind
+# revid 24972  2026-09-18T17:50:28Z  by Darkhooper
+# 备注: changed page layout
+# sha256 564db64ad58222fec3c7f31e1cbbae654bf960b938f8dcc410d4b7f2eae4b5e2  bytes 7209
+# 源: https://phasmophobia.fandom.com/api.php{{Location
+|img=Camp woodwind.png
+|imgcaption=A view from the campfire.
+|mapsize=Small
+|unlocklevel=13
+|floors=1
+|exits=1
+|faucets=2
+|videofeeds=1
+|keys=Front Door Key
+|rooms=11
+|img rooms=Rooms Camp Woodwind.png
+|img sanity=Sanity Camp Woodwind.png
+|img temperatures=Temperatures Camp Woodwind.png
+}}
+{{Quote
+|quote=This outdoor retreat was evacuated due to some campfire stories coming to life.
+|speaker=Loading blurb
+}}'''Camp Woodwind''' is a small [[map]] in ''Phasmophobia''. It very much resembles [[Maple Lodge Campsite]], but is much more compact in size, bearing only a handful of tents, a couple of bathrooms, and the central campfire. This map unlocks at player level 13.
+
+==Structure==
+Camp Woodwind is analogous with [[6 Tanglewood Drive]] for number of accessible areas (rooms vs. tents), but only possesses one open area pathway that can be circumnavigated around the main tent. This causes the map to feel almost unnervingly small and the [[ghost]] to be roaming very close to the entrance either way. 
+
+There are four tents, three clustered near the Picnic Area and one near the Bathroom, and a campfire. In addition, there is a shed-like area towards the back, referred to as "Lovers Bench". There is a game of backgammon near the farthest tent and an inaccessible lighted area which leads further into the forest.
+
+===Layout tips===
+When lit, the [[Fire Source|campfire]] does not affect [[sanity]] drain, but maintains the [[temperature]] in Campfire at {{Temperature|20}}, even if the ghost is in that room, provided the [[weather]] is not Snow.
+
+Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
+{| class="article-table"
+!Parameter
+!None
+!Low
+!Medium
+!High
+|-
+!Number
+|0
+|2
+|4
+|5
+|}
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 7 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Campfire
+|[[File:CWW Campfire unavailable.png|200px]]
+|[[File:CWW Campfire available.png|200px]]
+|-
+|Picnic Area
+|[[File:CWW Picnic 1 unavailable.png|200px]]
+|[[File:CWW Picnic 1 available.png|200px]]
+|-
+|Picnic Area
+|[[File:CWW Picnic 2 unavailable.png|200px]]
+|[[File:CWW Picnic 2 available.png|200px]]
+|-
+|Yellow Tent
+|[[File:CWW Yellow Tent unavailable.png|200px]]
+|[[File:CWW Yellow Tent available.png|200px]]
+|-
+|Kids' Area
+|[[File:CWW Kids Area 1 unavailable.png|200px]]
+|[[File:CWW Kids Area 1 available.png|200px]]
+|-
+|Kids' Area
+|[[File:CWW Kids Area 2 unavailable.png|200px]]
+|[[File:CWW Kids Area 2 available.png|200px]]
+|-
+|Food Tent
+|[[File:CWW Food Tent unavailable.png|200px]]
+|[[File:CWW Food Tent available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|7
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|5
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|3
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|2
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+Camp Woodwind is known for having many unreliable hiding spots, as ghosts frequently roam into some hiding spots, potentially killing players hiding there. These hiding spots are: Cooler boxes next to White Tent; the hiding spot behind the boxes in the Food Tent; and barrels next to the Games Tent. It is advised to hide in the small tents or use the furniture-based hiding spots next to the Blue Tent and/or in the Yellow Tent (if available) as ghosts roam less frequently in there. The Games Tent barrels are especially unreliable as the ghost can see the player through the small gaps between the barrels; if you must hide there, move as far back as possible and press yourself between the Games Tent and the barrel closest to it.
+
+[[Guides/Surviving a hunt#Looping the ghost|Looping]] is a strategy to consider for this map, as the entire map has one main circular path that will take you around the Blue Tent and across the Lovers Bench. One can also loop the ghost around the campfire but beware, ghosts can easily kill a player inside the campfire circle while they are outside of it. The log between the two doesn't affect the ghost's reach! The picnic tables near the entrance can also be used to loop the ghost. If you crouch at the short ends of them, it will also break line of sight.
+
+Another feasible strategy on Camp Woodwind consists of "strafing" the ghost. One such spot is the ring of log seating around the campfire; if the player is agile enough, it is possible to force the ghost to constantly reroute its shortest pathing towards the player by constantly moving back and forth at the opposite side of the ring.
+
+==Bone locations==
+Bones spawn randomly, but will only spawn in areas that a ghost can also walk on.
+
+;Examples
+<div class="mw-collapsible-content"><gallery widths="185">
+Bone ribcage woodwind.png|A ribcage in the white tent.
+Bone pelvis woodwind.png|A pelvis in the red tent.
+</gallery></div>
+
+==Cursed possession locations==
+<div class="mw-collapsible-content"><gallery widths="185">
+Woodwind Mirror.png|The [[Haunted Mirror]] spawns leaning on the tree with string lights near the Campfire.
+Woodwind MusicBox.png|The [[Music Box]] spawns in the Yellow Tent.
+Woodwind Ouija.png|The [[Ouija Board]] spawns inside the Games Tent.
+Woodwind Circle.png|The [[Summoning Circle]] spawns inside the Food Tent.
+Woodwind Tarot.png|The [[Tarot Cards]] spawn atop a picnic table in the Picnic Area.
+Woodwind Voodoo.png|The [[Voodoo Doll]] spawns out front of the small cyan tent next to the Red Tent.
+Woodwind MonkeyPaw.png|The [[Monkey Paw]] spawns on the left side of the Lovers Bench, next to the two marshmallow sticks.
+</gallery></div>
+
+==Easter eggs==
+[[File:Heart on toilet.jpg|right|thumb|The toilet heart easter egg, located on the top right of the tank.]]
+*'''Slenderman''' - Like on Maple Lodge Campsite, Slenderman has a chance of spawning on the outskirts of Camp Woodwind. He can be seen in the rocky area with fireflies toward the back of the map, in the crack between the white food tent and the bathroom, or near the truck on its left side.
+*'''Toilet Heart''' - A white heart can be seen on the toilets in the restroom building, which is a reference to the movie 'Saw'.
+*Several engravings can be found on the wall of the bathroom. These refer to the beta team.
+
+==Gallery==
+<gallery>
+CoffeeWorld.png|Camp Woodwind as ''Coffee World'' during the Phasmophobia by Alan Wake event.
+</gallery>
+
+==Trivia==
+*The map's name possibly came from a world-renowned sleep away summer camp called [https://en.wikipedia.org/wiki/Woodward_Camp Camp Woodward] that is located in Woodward, Pennsylvania, United States.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.7.0]]
+|Added Camp Woodwind.
+|}<br>
+
+{{MapNav}}
+[[Category:Maps]]
+[[fr:Camp Woodwind]]
+[[ru:Camp Woodwind]]
+[[Category:Small Map]]

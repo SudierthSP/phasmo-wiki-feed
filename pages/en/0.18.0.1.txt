@@ -1,0 +1,35 @@
+# 0.18.0.1
+# revid 24475  2026-08-25T15:08:01Z  by Darkhooper
+# 备注: next version
+# sha256 9c847bce362144f7ad264d7d1b18fb8c0de1dab4962c9c7988a1c127349262f9  bytes 2135
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| release_date=28 July 2026
+| previous_major_version=[[0.18.0]]
+| previous_minor_version=
+| next_minor_version=
+| next_major_version=[[0.19.0]]
+}}'''0.18.0.1''' is a minor update released on 28 July 2026.<ref>[https://www.kineticgames.co.uk/news/phasmophobia-v01801-patch-notes ''Phasmophobia v0.18.0.1 - Patch Notes''. 28 July 2026.]</ref> It fixes several issues. A hotfix carrying the same version was released on the same day to change how inventory slots work.<ref>[https://store.steampowered.com/news/app/739630/view/716785482215722305 ''Phasmophobia v0.18.0.1 - Hotfix''. 28 July 2026.]</ref>
+
+==Changes==
+*Items and Equipment will now be assigned a slot in the order they are picked up from 1-3. Flashlights will no longer be locked to 1. Igniters will default to 4.
+
+==Fixes==
+*Fixed an issue that would cause items to get stuck or fall through the floor when dropped in Multiplayer.
+*Fixed an issue that allowed Ghosts to be able to enter several hiding spots in 13 Willow Street.
+**''This also fixes similar issues in 6 Tanglewood Drive, 42 Edgefield Road and 10 Ridgeview Court.''
+*Fixed an issue that caused Photo Cameras to interfere with other player animations.
+*Fixed an issue that caused the Photo Camera’s Use animation to not play in Multiplayer.
+*Fixed an issue that caused the Photo Camera to take an extra photo when dropped while taking a photo.
+*Fixed an issue that caused the Photo Camera to take a photo if picked up by another player after being dropped while being used by the original player.
+*Fixed an issue that caused Twitch Drop reward ID Card & Badge cosmetics to be missing.
+*Fixed an issue that caused videos of a Hunting Ghost to not count towards the Apocalypse challenge.
+*Fixed an issue that caused the Incense to not appear as Used if the animation was cancelled by opening the Journal.
+*VR - Fixed an issue that caused unstable FPS whilst in the Truck.
+*VR - Fixed an issue that caused players to become stuck while loading in to a Multiplayer game on Bleasdale Farmhouse.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.18.0.1]]
+[[ru:0.18.0.1]]

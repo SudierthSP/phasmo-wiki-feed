@@ -1,0 +1,50 @@
+# 鬼魂模型
+# revid 4106  2026-03-18T15:24:51Z  by CangMingSW
+# 备注: 但是女妖和达彦只会以女鬼模型出现
+# sha256 d64b014d667dc54abc2543de6279146894ac43d799a23233117e072a6ecc35d7  bytes 1840
+# 源: https://phasmophobia.fandom.com/zh/api.php'''鬼魂模型'''是鬼魂的模样。目前共有 7 种男鬼和 4 种女鬼模型，其中有 2 种模型会爬行。每种模型都有阴影或半透明版本。鬼魂模型与鬼魂类型无关。
+
+鬼魂模型与鬼魂类型无关，但是[[女妖]]和[[达魇|达彦]]只会以女鬼模型出现。
+
+鬼魂模型可能会与[[通灵盒]]和[[通灵板]]得到的回应冲突；回应 "old"（老）的鬼模型可能是小孩。
+
+== 男鬼模型 ==
+<gallery mode="packed">
+File:2.png
+File:Ghost Male Greybeard.png
+File:4.png
+File:3.png
+File:Ghost Male Nerd.png
+File:Ghost Male Sofia.png
+File:Ghost Male Butcher.png
+</gallery>
+
+== 女鬼模型 ==
+<gallery mode="packed">
+File:Ghost Argyro.png
+File:Ghost CreepyGirl.png
+File:Ghost OldCrone.png
+File:Ghost RingGirlUPDATED.png|这种鬼魂模型被官方称过 Patient 07（07 号病人）。
+</gallery>
+
+== 爬行模型 ==
+小孩和 07 号病人模型可在[[合约]]中换猎杀姿态。两种都能爬行，07 号病人也能反方向弯腰。
+<gallery mode="packed">
+File:Crawling.png|爬行中的小孩模型
+File:Crawling Girl.png|爬行中的 07 号病人
+File:Bent Over Backwards.png|反方向弯腰的 07 号病人
+</gallery>
+
+== 特殊模型 ==
+{{See also|特殊事件和挑战}}
+<gallery mode="packed">
+File:Santa Ghost.png|圣诞老鬼（2021、2022 年圣诞节）
+File:Big head small head.jpg|大头鬼（2023 年愚人节）
+File:Snowman Ghost.png|雪鬼（2023 年圣诞节）
+File:Forest Spirit.png|森林精灵之鬼（2024 年复活节）
+</gallery>
+
+== 逸闻轶事 ==
+* 多数模型是从 Unity Asset Store，[https://assetstore.unity.com/packages/3d/characters/zombie-collection-166488 使用的模型]，游戏文件内也有特定的名字。
+* Kinetic Games 曾经卖过限量版的 07 号病人毛绒玩具，于2024年10月31日尾停售。
+[[Category:鬼魂]]

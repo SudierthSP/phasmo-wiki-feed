@@ -1,0 +1,73 @@
+# Apocalypse Challenge
+# revid 24362  2026-07-30T03:24:55Z  by 405 M3th0d
+# sha256 5388262d5d3df27df85be0d70d11c8593515913d9b151324414bd6e9d4f0c3e6  bytes 1970
+# 源: https://phasmophobia.fandom.com/api.phpThe '''Apocalypse Challenge''' is a special in-game challenge. The challenge is permanent and will exist indefinitely.
+
+==Details==
+The requirements for the challenge are as follows:
+*Play in a high [[difficulty]] (see below)
+*Play in Singleplayer on [[Sunny Meadows Mental Institution|Sunny Meadows]]
+*Complete all 3 optional [[objectives]]
+*Capture a ghost [[media]]
+*Correctly identify the [[ghost]] type
+*Survive the investigation
+
+The valid media to complete the challenge are:
+{| class="article-table
+!Photo
+!Video
+!Sound
+|-
+|
+*Ghost
+*Shadow Ghost
+*Translucent Ghost
+*Mist Form
+*[[D.O.T.S. Projector (Evidence)|D.O.T.S.]] Ghost
+|
+*Hunting Ghost
+*Ghost
+*Shadow Ghost
+*Translucent Ghost
+*Mist Form
+*D.O.T.S. Ghost
+|
+*Hunting Ghost
+*Ghost Event
+*Mist Form
+*Paranormal Groaning
+*Paranormal Laughing
+*Paranormal Talking
+*Paranormal Whisper
+*Paranormal Breathing
+*Paranormal Scream
+|}
+
+===Rewards===
+Trophies and [[ID_Card#Special_Badges|ID card badges]] will be awarded based on the difficulty multiplier:
+*6x multiplier or higher: Bronze trophy, Apocalypse Adept badge
+*10x multiplier or higher: Silver trophy, Apocalypse Master badge
+*15x multiplier: Gold trophy, Apocalypse Legend badge
+
+Completing a higher multiplier will automatically reward the badges from the lower multipliers; all three badges can be obtained within the same 15x multiplier contract. The awarded trophy will be displayed in the [[lobby]] and automatically upgraded when a higher multiplier is completed.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.7.0.3]]
+|Added the Apocalypse Challenge.
+|-
+![[0.8.1.0]]
+|Adjusted Apocalypse Challenge multiplier requirements:
+*Bronze: 6x+ (instead of 15x+)
+*Silver: 10x+ (instead of 20x+)
+*Gold: 15x (instead of 24x)
+|-
+![[0.18.0]]
+|You can now capture any (ghost) Media for the Apocalypse challenge, instead of only a photo.
+|}
+
+[[ru:Испытание «Апокалипсис»]]
+[[Category:Gameplay]]
+[[fr:Défi Apocalypse]]

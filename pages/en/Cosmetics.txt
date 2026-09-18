@@ -1,0 +1,391 @@
+# Cosmetics
+# revid 24754  2026-09-17T15:31:54Z  by Darkhooper
+# 备注: added 6th anniversary charm
+# sha256 0d392fd76665aa6182c7a9e11a82ede013564e99eb532075d80889f6fffa45ca  bytes 16882
+# 源: https://phasmophobia.fandom.com/api.php'''Cosmetics''' allow players to customize their [[Player#Player models|character model]].
+
+Cosmetics can be purchased with [[money]] and equipped from the [[Shop]]'s Customization tab. They serve no actual gameplay purpose.
+
+==List of cosmetics==
+===Hair/Facial hair===
+{| class="fandom-table" style="text-align:center"
+!Cosmetic
+!Available colors
+!Description
+!Requirements
+|-
+|[[File:Male1 Hair.png|100px]]<br>High Taper Fade<br>'''(Amir Kelly)'''
+|<div style="background:#171717;">#171717</div><br><div style="background:#b99c43;">#b99c43</div><br><div style="background:#55290f;">#55290f</div><br><div style="background:#b36731;">#b36731</div><br><div style="background:#6e6e6e;">#6e6e6e</div>
+|A taper fade with buzz cut.
+| -
+|-
+|[[File:Male2 Hair.png|100px]]<br>Soft Layered Cut<br>'''(Nic Karlsen)'''
+|<div style="background:#b99c43;">#b99c43</div><br><div style="background:#171717;">#171717</div><br><div style="background:#55290f;">#55290f</div><br><div style="background:#b36731;">#b36731</div><br><div style="background:#6e6e6e;">#6e6e6e</div>
+|A medium cut hairstyle with soft layers.
+| -
+|-
+|[[File:Male3 Hair.png|100px]]<br>Classic Slick Black<br>'''(Vince Ravenhill)'''
+|<div style="background:#55290f;">#55290f</div><br><div style="background:#b99c43;">#b99c43</div><br><div style="background:#171717;">#171717</div><br><div style="background:#b36731;">#b36731</div><br><div style="background:#6e6e6e;">#6e6e6e</div>
+|A classic slick back hairstyle.
+| -
+|-
+|[[File:Male4 Hair.png|100px]]<br>Layered Shaggy Cut<br>'''(Robin Byrne)'''
+|<div style="background:#b56832;">#b56832</div><br><div style="background:#b99c43;">#b99c43</div><br><div style="background:#55290f;">#55290f</div><br><div style="background:#171717;">#171717</div><br><div style="background:#6e6e6e;">#6e6e6e</div>
+|A layered shaggy hairstyle with bangs.
+| -
+|-
+|[[File:Male5 Hair.png|100px]]<br>Beard<br>'''(Bryce Noble)'''
+|<div style="background:#585858;">#585858</div><br><div style="background:#d0b76c;">#d0b76c</div><br><div style="background:#6f5240;">#6f5240</div><br><div style="background:#935025;">#935025</div><br><div style="background:#171717;">#171717</div>
+|A full beard with trimmed sides.
+| -
+|-
+|[[File:Male6 Hair.png|100px]]<br>Modern Slick Black<br>'''(Dustin Park)'''
+|<div style="background:#171717;">#171717</div><br><div style="background:#b99c43;">#b99c43</div><br><div style="background:#55290f;">#55290f</div><br><div style="background:#b36731;">#b36731</div><br><div style="background:#6e6e6e;">#6e6e6e</div>
+|A modern slick back hairstyle.
+| -
+|-
+|[[File:Female1 Hair.png|100px]]<br>Side-part Twist Out<br>'''(Winona Fields)'''
+|<div style="background:#000000;">#000000</div><br><div style="background:#b99c43;">#b99c43</div><br><div style="background:#55290f;">#55290f</div><br><div style="background:#b36731;">#b36731</div><br><div style="background:#6e6e6e;">#6e6e6e</div>
+|A side-parted twist out hairstyle.
+| -
+|-
+|[[File:Female2 Hair.png|100px]]<br>Side Swept Bangs<br>'''(Kira Calçada)'''
+|<div style="background:#55290f;">#55290f</div><br><div style="background:#b99c43;">#b99c43</div><br><div style="background:#171717;">#171717</div><br><div style="background:#b36731;">#b36731</div><br><div style="background:#6e6e6e;">#6e6e6e</div>
+|A shoulder-length hairstyle with side swept bangs.
+| -
+|-
+|[[File:Female3 Hair.png|100px]]<br>Low Braid<br>'''(Grace Xu)'''
+|<div style="background:#000000;">#000000</div><br><div style="background:#b99c43;">#b99c43</div><br><div style="background:#55290f;">#55290f</div><br><div style="background:#b36731;">#b36731</div><br><div style="background:#6e6e6e;">#6e6e6e</div>
+|A low braided hairstyle.
+| -
+|-
+|[[File:Female4 Hair.png|100px]]<br>Cropped Bob<br>'''(Evie Petrova)'''
+|<div style="background:#b99c43;">#b99c43</div><br><div style="background:#171717;">#171717</div><br><div style="background:#55290f;">#55290f</div><br><div style="background:#b36731;">#b36731</div><br><div style="background:#6e6e6e;">#6e6e6e</div>
+|A cropped bob hairstyle.
+| -
+|-
+|[[File:Female5 Hair.png|100px]]<br>Tousled Long Bob<br>'''(Meg Marrs)'''
+|<div style="background:#b56832;">#b56832</div><br><div style="background:#b99c43;">#b99c43</div><br><div style="background:#55290f;">#55290f</div><br><div style="background:#171717;">#171717</div><br><div style="background:#6e6e6e;">#6e6e6e</div>
+|A slightly tousled long bob hairstyle.
+| -
+|-
+|[[File:Female6 Hair.png|100px]]<br>Tuckled Back Bob<br>'''(Zara Doshi)'''
+|<div style="background:#55290f;">#55290f</div><br><div style="background:#b99c43;">#b99c43</div><br><div style="background:#171717;">#171717</div><br><div style="background:#b36731;">#b36731</div><br><div style="background:#6e6e6e;">#6e6e6e</div>
+|A middle-parted hairstyle tucked behind the ears.
+| -
+|}
+
+===Piercings===
+{| class="fandom-table" style="text-align:center"
+!Location
+!Cosmetic
+!style="width:30%"|Description
+!Requirements
+|-
+|Eyebrow
+|[[File:Hoop Black.png|50px]][[File:Hoop Gold.png|50px]][[File:Hoop Silver.png|50px]]<br>[[File:Double Stud Black.png|50px]][[File:Double Stud Gold.png|50px]][[File:Double Stud Silver.png|50px]]
+|Raise some brows with this varied selection of eyebrow piercings.
+|$2,500
+|-
+|Ear
+|[[File:Plug Black.png|50px]][[File:Plug White.png|50px]][[File:Plug Wood.png|50px]]<br>[[File:Hoop Black.png|50px]][[File:Hoop Gold.png|50px]][[File:Hoop Silver.png|50px]]<br>[[File:Double Stud Black.png|50px]][[File:Double Stud Gold.png|50px]][[File:Double Stud Silver.png|50px]]<br>[[File:Stud Black.png|50px]][[File:Stud Gold.png|50px]][[File:Stud Silver.png|50px]]
+|A wide array of ear piercings you can mix and match.
+|$2,500
+|-
+|Nose
+|[[File:Hoop Black.png|50px]][[File:Hoop Gold.png|50px]][[File:Hoop Silver.png|50px]]<br>[[File:Stud Black.png|50px]][[File:Stud Gold.png|50px]][[File:Stud Silver.png|50px]]
+|Show those ghosts your sense of style with a nose piercing... or two!
+|$2,500
+|-
+|Lip
+|[[File:Stud Black.png|50px]][[File:Stud Gold.png|50px]][[File:Stud Silver.png|50px]]
+|Embody the 'cool' Investigator with a lip piercing.
+|$2,500
+|}
+
+===Accessories===
+{| class="fandom-table" style="text-align:center"
+!Type
+!Cosmetic
+!Available colors
+!Description
+!Requirements
+|-
+!Glasses
+|[[File:Solid Glasses.png|100px]][[File:Horn Rimmed Glasses.png|100px]][[File:Round Glasses.png|100px]][[File:Round Glasses 2.png|100px]]
+| -
+|Brings everything into focus.
+|$5,000
+|-
+!Left Hand Rings
+|[[File:Ring 1 Gold.png|50px]][[File:Ring 2 gold.png|50px]][[File:Ring 3 gold.png|50px]][[File:Ring 4 gold.png|50px]][[File:Ring braid gold.png|50px]][[File:Ring flower gold.png|50px]][[File:Ring knot gold.png|50px]][[File:Ring snake gold.png|50px]]
+|<div style="background:#d3a721;">#d3a721</div><br><div style="background:#dc815f;">#dc815f</div><br><div style="background:#d4d4d4;">#d4d4d4</div><br><div style="background:#0b0b0b;">#0b0b0b</div>
+|Don't let your left hand go unadorned.
+|$2,500
+|-
+!Right Hand Rings
+|[[File:Ring 1 Gold.png|50px]][[File:Ring 2 gold.png|50px]][[File:Ring 3 gold.png|50px]][[File:Ring 4 gold.png|50px]][[File:Ring braid gold.png|50px]][[File:Ring flower gold.png|50px]][[File:Ring knot gold.png|50px]][[File:Ring snake gold.png|50px]]
+|<div style="background:#d3a721;">#d3a721</div><br><div style="background:#dc815f;">#dc815f</div><br><div style="background:#d4d4d4;">#d4d4d4</div><br><div style="background:#0b0b0b;">#0b0b0b</div>
+|Don't let your right hand go unembellished.
+|$2,500
+|-
+!Necklaces
+|[[File:Firefly Necklace.png|50px]]
+| -
+|A tasteful way to show your style.
+|$2,500
+----+ Complete Personal Goal #1 of the [[Special events#Easter 2026|Easter 2026 event]] (Firefly Necklace)
+|}
+
+===Hats===
+{| class="fandom-table" style="text-align:center"
+!Cosmetic
+!Available colors
+!Description
+!Requirements
+|-
+|[[File:GHD Hat.png|100px]]<br>Cap
+|<div style="background:#1e2e53;">#1e2e53</div><br><div style="background:#000000;">#000000</div><br><div style="background:#dedede;">#dedede</div><br><div style="background:#deca43;">#deca43</div>
+|There's no such thing as a bad hair day once you've got a cap.
+| -
+|-
+|[[File:Maple Lodge Hat.png|100px]]<br>Cap
+| -
+|There's no such thing as a bad hair day once you've got a cap.
+|$3,000
+|-
+|[[File:Cursed Hollow Mask.png|100px]]<br>Cursed Hollow 2026 Mask
+| -
+|
+|Complete Personal Goal #1 of the Easter 2026 event
+|-
+|[[File:KGP Hat.png|100px]]<br>Kinetic Publishing Hat
+| -
+|
+|Watching a ''Phasmophobia'' stream for 2 hours between 14 August 2026 and 16 August 2026 or for 1 hour on 17 August 2026<br>'''(Twitch Drop)'''
+|}
+
+===Jackets===
+{| class="fandom-table" style="text-align:center"
+!Cosmetic
+!Available colors
+!Description
+!Requirements
+|-
+|[[File:GHD Jacket.png|100px]]<br>GHD Jacket
+|<div style="background:#383838;">#383838</div><br><div style="background:#000000;">#000000</div><br><div style="background:#e2dd62;">#e2dd62</div><br><div style="background:#e4e4e4;">#e4e4e4</div>
+|GHD has no strict uniform policy... But they do believe this jacket makes you look cool.
+| -
+|-
+|[[File:LeatherJacket Icon.png|100px]]<br>Leather Bomber Jacket
+|<div style="background:#000000;">#000000</div><br><div style="background:#77381e;">#77381e</div><br><div style="background:#ca875a;">#ca875a</div>
+|A jacket that goes with everything.
+|$10,000
+|-
+|[[File:DenimJacket Icon.png|100px]]<br>Hooded Denim Jacket
+|<div style="background:#415cda;">#415cda</div><br><div style="background:#b0b6d2;">#b0b6d2</div><br><div style="background:#000000;">#000000</div>
+|Combine this with Jeans for the full Denim Tuxedo.
+|$10,000
+|-
+|[[File:Raincoat Icon.png|100px]]<br>Raincoat
+|<div style="background:#000000;">#000000</div><br><div style="background:#031d54;">#031d54</div><br><div style="background:#383838;">#383838</div><br><div style="background:#d9cb43;">#d9cb43</div>
+|For hunting ghosts come rain or shine.
+|$10,000
+|-
+|[[File:AW Jacket.png|100px]]<br>Alan Wake's Suit Jacket
+| -
+|The jacket borrowed from a mysterious writer, trapped in a dark, dark place.
+|Complete Personal Goal #2 of the [[Special events#Phasmophobia x Alan Wake II|'Phasmophobia by Alan Wake' event]]
+|-
+|[[File:SA Jacket.png|100px]]<br>Saga Anderson's FBI Jacket
+| -
+|The jacket of a kindred investigator, exuding an aura of calm capability.
+|Complete Personal Goal #3 of the 'Phasmophobia by Alan Wake' event
+|}
+
+===T-Shirts===
+{| class="fandom-table" style="text-align:center"
+!Cosmetic
+!Available colors
+!Description
+!Requirements
+|-
+|[[File:Shirt 1.png|100px]]<br>Plain T-Shirt
+|<div style="background:#e6e6e6;">#e6e6e6</div><br><div style="background:#6fadb7;">#6fadb7</div><br><div style="background:#9ec9a0;">#9ec9a0</div><br><div style="background:#e1c6dd;">#e1c6dd</div><br><div style="background:#c14f4c;">#c14f4c</div><br><div style="background:#e4e19a;">#e4e19a</div><br><div style="background:#606060;">#606060</div>
+|A plain T-Shirt that will go with anything.
+| -
+|-
+|[[File:Sweater.png|100px]]<br>Knitted Sweater
+|<div style="background:#151827;">#151827</div><br><div style="background:#000000;">#000000</div><br><div style="background:#dba526;">#dba526</div><br><div style="background:#153f77;">#153f77</div>
+|Keep it cosy while you're investigating.
+|$10,000
+|-
+|[[File:P1 Shirt.png|100px]]<br>Prestige Level 1 T-Shirt
+| -
+|A T-Shirt to open up conversations with both the living and the dead.
+|Prestige 1
+|-
+|[[File:P2 Shirt.png|100px]]<br>Prestige Level 2 T-Shirt
+| -
+|This fiery pink T-Shirt screams louder than a Banshee.
+|Prestige 2
+|-
+|[[File:P3 Shirt.png|100px]]<br>Prestige Level 3 T-Shirt
+| -
+|Other T-Shirts don't hold a candle to this one.
+|Prestige 3
+|-
+|[[File:P4 Shirt.png|100px]]<br>Prestige Level 4 T-Shirt
+| -
+|Not as protective as an actual crucifix, but a lot more stylish.
+|Prestige 4
+|-
+|[[File:P5 Shirt.png|100px]]<br>Prestige Level 5 T-Shirt
+| -
+|The perfect T-Shirt for hiding ketchup stains.
+|Prestige 5
+|-
+|[[File:P6 Shirt.png|100px]]<br>Prestige Level 6 T-Shirt
+| -
+|A T-Shirt for the Ghost Hunter who's sunk their teeth into the paranormal.
+|Prestige 6
+|-
+|[[File:P7 Shirt.png|100px]]<br>Prestige Level 7 T-Shirt
+| -
+|The print of a voodoo doll, without the pain of the pins.
+|Prestige 7
+|-
+|[[File:P8 Shirt.png|100px]]<br>Prestige Level 8 T-Shirt
+| -
+|A T-Shirt for the Investigator who's seen some stuff.
+|Prestige 8
+|-
+|[[File:P9 Shirt.png|100px]]<br>Prestige Level 9 T-Shirt
+| -
+|A bold T-Shirt for a bold Ghost Hunter.
+|Prestige 9
+|-
+|[[File:P10 Shirt.png|100px]]<br>Prestige Level 10 T-Shirt
+| -
+|A deathly cool T-Shirt.
+|Prestige 10
+|-
+|[[File:Sweater Base Icon.png|100px]]<br>Lightweight Sweater
+|<div style="background:#867343;">#867343</div><br><div style="background:#050805;">#050805</div><br><div style="background:#342016;">#342016</div>
+|A flat knit with breathable material, so you don't break a sweat even when ghosts are on the hunt.
+|$10,000
+|-
+|[[File:Shirt Cursed Hollow.png|100px]]<br>Cursed Hollow 2026 T-Shirt
+| -
+|
+|Complete Personal Goal #1 during the Easter 2026 event
+|-
+|[[File:Shirt High Priestess TD.png|100px]]<br>High Priestess T-Shirt
+| -
+|
+|Watching a ''Phasmophobia'' stream for 2 hours between 5 May 2026 and 11 May 2026<br>'''(Twitch Drop)'''
+|-
+|[[File:AW Shirt.png|100px]]<br>Alan Wake's Dress Shirt
+| -
+|The shirt borrowed from a mysterious writer, writing his way out of the darkness.
+|Complete Personal Goal #2 of the 'Phasmophobia by Alan Wake' event
+|-
+|[[File:SA Sweater.png|100px]]<br>Saga Anderson's Sweater
+| -
+|The sweater of a kindred investigator, following the thread of mystery, clue by clue...
+|Complete Personal Goal #3 of the 'Phasmophobia by Alan Wake' event
+|}
+
+===Pants===
+{| class="fandom-table" style="text-align:center"
+!Cosmetic
+!Available colors
+!Description
+!Requirements
+|-
+|[[File:Jeans.png|100px]]<br>Jeans
+|<div style="background:#0b51a7;">#0b51a7</div><br><div style="background:#0b0b0b;">#0b0b0b</div><br><div style="background:#313232;">#313232</div>
+|A timeless classic, with juuust enough stretch to crouch and squeeze into hiding spots.
+| -
+|-
+|[[File:Chinos.png|100px]]<br>Chinos
+|<div style="background:#85592b;">#85592b</div><br><div style="background:#1f2343;">#1f2343</div><br><div style="background:#a59568;">#a59568</div>
+|Show those ghosts you mean business (casual).
+|$10,000
+|-
+|[[File:AW Trousers.png|100px]]<br>Alan Wake's Suit Pants
+| -
+|The final component to complete a certain mysterious writer's suit, ready to author the next chapter.
+|Complete Personal Goal #2 of the 'Phasmophobia by Alan Wake' event
+|-
+|[[File:SA Pants.png|100px]]<br>Saga Anderson's Jeans & Boots
+| -
+|Durable denim leggings and water-tight boots belonging to a kindred investigator, ready to traverse a rain-soaked forest.
+|Complete Personal Goal #3 of the 'Phasmophobia by Alan Wake' event
+|}
+
+===Charms===
+{| class="fandom-table" style="text-align:center"
+!Cosmetic
+!Available colors
+!Description
+!Requirements
+|-
+|[[File:ID Card Holder.png|100px]]<br>ID Card Holder
+|<div style="background:#000000;">#000000</div><br><div style="background:#858585;">#858585</div><br><div style="background:#e6e6e6;">#e6e6e6</div><br><div style="background:#021de6;">#021de6</div><br><div style="background:#50c62a;">#50c62a</div><br><div style="background:#e9de64;">#e9de64</div><br><div style="background:#f19223;">#f19223</div><br><div style="background:#f53617;">#f53617</div><br><div style="background:#fa30bc;">#fa30bc</div><br><div style="background:#b300e8;">#b300e8</div><br><div style="background:#67d193;">#67d193</div>
+|Keeps your ID card safe and secure.
+| -
+|-
+|[[File:Deer Mask Charm.png|100px]]<br>Deer Mask
+| -
+|
+|Find the Deer Mask charm during the 'Phasmophobia by Alan Wake' event
+|-
+|[[File:Lunchbox Charm.png|100px]]<br>Lunchbox
+| -
+|
+|Find the Lunchbox charm during the 'Phasmophobia by Alan Wake' event
+|-
+|[[File:Mr Drippy Charm.png|100px]]<br>Mr. Drippy Mascot
+| -
+|
+|Find the Mr. Drippy Mascot charm during the 'Phasmophobia by Alan Wake' event
+|-
+|[[File:Thermos Charm.png|100px]]<br>Thermos
+| -
+|
+|Find the Thermos charm during the 'Phasmophobia by Alan Wake' event
+|-
+|[[File:Angel Lamp Charm.png|100px]]<br>Angel Lamp
+| -
+|
+|Complete Personal Goal #1 of the 'Phasmophobia by Alan Wake' event
+|-
+|[[File:6 Balloon Charm.png|100px]]<br>Phasmophobia 6th Anniversary Charm
+| -
+|
+|Watching a ''Phasmophobia'' stream for 2 hours between 18 September 2026 and 21 September 2026<br>'''(Twitch Drop)'''
+|}
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.17.0]]
+|Added Cosmetics.
+|-
+! rowspan="2" |[[0.17.1.0]]
+|Prestige cosmetics are now free after they are unlocked based on your Prestige level.
+|-
+|Added Alan Wake's Suit Jacket, Saga Anderson's FBI Jacket, Alan Wake's Dress Shirt, Saga Anderson's Sweater, Alan Wake's Suit Pants, Saga Anderson's Jeans & Boots, ID Card Holder, Deer Mask, Lunchbox, Mr. Drippy Mascot, Thermos, Angel Lamp.
+|-
+![[0.19.0]]
+|Added Phasmophobia 6th Anniversary Charm.
+|}
+
+==See also==
+*[[ID Card]]
+
+[[ru:Косметика]]
+[[Category:Gameplay]]
+[[fr:Cosmétiques]]

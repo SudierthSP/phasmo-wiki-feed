@@ -1,0 +1,36 @@
+# Hiding Spots
+# revid 24264  2026-07-24T04:37:59Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 ce98e665e363590ad17eabbbbd55ff64a512fe298a8c7c165a0c0cc9b8ac3566  bytes 2162
+# 源: https://phasmophobia.fandom.com/api.php[[File:Tanglewood Garage Lockers.png|thumb|Lockers in [[6 Tanglewood Drive]]|265x265px]]
+'''Hiding Spots''' are features within a [[Map]] that allow players to survive [[hunt]]s.
+
+==Mechanics==
+===Availability===
+The number of available hiding spots depends on the [[difficulty]] as well as the number of players:
+*'''Amateur:''' All spots available
+*'''Intermediate:''' At least 3 spots available
+*'''Professional:''' At least 2 spots available
+*'''Nightmare/Insanity:''' At least 1 spot available
+*'''3 players:''' +1 spot available
+*'''4 players:''' +2 spots available
+For example, a Professional game with 3 players will have at least 3 hiding spots available throughout the entire map.
+
+By using a custom difficulty, hiding spots can also be turned off entirely, overriding all other rules.
+
+When a spot is unavailable, it can be blocked off with "junk"/storage equipment, be sealed behind a locked door, or have its concealing elements removed. The unavailable spots are randomly chosen at the beginning of each investigation.
+
+===List of hiding spots===
+A full list of hiding spots is available on each map's own page. See [[Map#List of maps|Map § List of maps]].
+
+==Tips==
+[[File:Ridgeview Kitchen Fridge Unofficial.png|thumb|160x160px|"Unofficial" fridge hiding spot in [[10 Ridgeview Court]]]]
+* The ghost cannot open a closet/locker door that is currently being held by a player; Ideally, using this method, the ghost can only open one of the closet doors. Both doors can be held, in multiplayer.
+** When hiding in a closet with one door fully open, you must hug the door you are holding to have better chances at survival.
+** However, if the ghost detected the player inside or near a closet/locker, the ghost will forcibly open the doors, overriding the player holding the door shut.
+* Players are not forced to use "official" hiding spots. Some players may improvise and use furniture such as kitchen tables/islands to hide. As a general rule of thumb, if an object covers the player to at least their eye level, it can (but may not) work as a viable hiding spot.
+
+{{MapFeatureNav}}
+[[ru:Укрытие]]
+[[Category:Map Features]]
+[[fr:Cachettes]]

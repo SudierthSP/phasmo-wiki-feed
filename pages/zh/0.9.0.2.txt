@@ -1,0 +1,28 @@
+# 0.9.0.2
+# revid 3690  2025-01-05T16:28:37Z  by Skaijie
+# sha256 47d9576531ffd9c2ceeaa459838331ad43639cacd90adabcdb0024b86f4f21b8  bytes 797
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | image1=
+  | official_name=
+  | release_date=2023.8.21
+  |planned_release_date=
+  | previous_major_version=
+  | previous_minor_version=
+  | next_minor_version=[[0.9.0.3]]
+  | next_major_version=
+}}
+== 改动 ==
+
+* 现在会更频繁地备份存档
+
+== 修复漏洞 ==
+
+* 如果你的存档损坏，现在不会在初始化时卡住，而会恢复到为云端备份存档
+* 一名玩家离开游戏时，其他玩家的游戏将不再会崩溃
+* 本次更新后首次游玩时，你的旧版徽章上不再显示较低的旧版等级
+* 为了澄清有关旧版徽章的混淆，你的徽章目前只能在多人游戏中被其他玩家看到。未来版本添加新的角色模型时，会对作出改动。
+
+==注释==
+{{Reflist|group="note"}}
+{{Versions}}
+[[Category:开发]]

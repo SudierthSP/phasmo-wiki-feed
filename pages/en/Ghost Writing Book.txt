@@ -1,0 +1,104 @@
+# Ghost Writing Book
+# revid 23234  2026-04-20T15:39:58Z  by Darkhooper
+# 备注: Took info out of Advanced mechanics table
+# sha256 99f04ff1d6777882b5a85d9713a173e25f25aef8ac1852436a9a0b29fcfaecfc  bytes 5424
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=WritingBook090_T1.png
+ | tier ii img=WritingBook090_T2.png
+ | tier iii img=WritingBook090_T3.png
+
+ | price=$40
+ | maxamount=2
+ | uses=1
+ | starter=Yes
+ | tier i level=
+ | tier ii level=23
+ | tier iii level=55
+
+ | tier i description=It may not be the most glamorous thing in the world, but it gets the job done.
+ | tier i purpose=This paper notepad can be placed nearby a ghost to encourage some paranormal writing. Make sure to place it nearby any activity you see.<br>Some ghosts may not notice the small notepad and pencil, so it may take some time before anything happens.
+ | tier i ability=<span style="color: #008000;">Interaction Rate: Low<br>Range (m): 3</span>
+ | tier ii description=The parchment pages are protected by a leather case. Keep your secrets extra safe by tying the rope on the outside.
+ | tier ii purpose=With nicer pages and a pen, ghosts seem to notice this book a bit more often than the previous version, making wait times a bit shorter for evidence to occur.
+ | tier ii ability=<span style="color: #008000;">Interaction Rate: Medium<br>Range (m): 4</span>
+ | tier iii description=A grimoire, it seems to have a lot of history. The metallic accents make this heavy book much more elegant.
+ | tier iii purpose=With its large profile, a mixture of high-quality materials and an ornate pen, this book has the highest chance to be written in by ghosts. It has a larger range than the previous two tiers so placing this book within a ghost’s interaction range is much easier.
+ | tier iii ability=<span style="color: #008000;">Interaction Rate: High<br>Range (m): 5</span>
+}}The '''Ghost Writing Book''' is a piece of [[equipment]] used to obtain [[Ghost Writing]] by placing it near a [[ghost]].
+
+==Usage==
+===Placement===
+A translucent preview of the Ghost Writing Book opened will appear while the player is aiming at a surface and holding down the {{Control|Secondary Use}} button. The book will be placed when the button is released.
+
+===Function===
+If [[Ghost Writing]] is a piece of evidence, the ghost will try to write in a book every 45 to 90 seconds and the chance to succeed depends on the ghost writing book tier: 51%, 67%, 76% for tiers 1, 2, 3, respectively. The timer starts as soon as the equipment is loaded and is different for each book.
+
+When the interaction succeeds, the book will slightly levitate and the pencil/pen will start to frantically scribble on the pages visually and audibly, followed by the pencil/pen being thrown on the ground. An [[EMF]] Level 2 reading is also created, with a 33% chance of it being [[EMF Level 5]] instead if this is one of the ghost's types of [[evidence]]. The ghost will not write in the book if it is closed and/or out of range.
+
+A ghost can throw the Ghost Writing Book only if it does not have Ghost Writing among its types of evidence or when that piece of evidence is hidden. After being thrown, the book will close.
+
+===Rewards===
+{{Main|Media}}
+Taking a photo of the Ghost Writing Book after it has been written in will yield a photo labelled as '''Ghost Writing''', and reward up to $12 and 12 XP depending on the tier of the [[Photo Camera]] and whether there is a Unique stamp. A video and a sound labelled as '''Ghost Writing''', each awarding up to $12 and 12 XP, can also be recorded when the ghost is writing in the book.
+
+==Strategies==
+*If placed within the vision of an active [[Video Camera|video camera]], you can use the [[Video Feed]] in the truck to watch ghost writing books and see if ghost writing is occurring. While it may be much more difficult to see if there are any markings in the pages on camera, more observant players may check if the pen is missing from the book to determine if ghost writing has occurred or not.
+*A nearby [[Sound Sensor|sound sensor]] can also be used to monitor a Ghost Writing Book from the truck; this will allow players to hear the sound of Ghost Writing occuring without having to actively monitor the book.
+
+==Possible Writing Patterns==
+{{Main|Ghost Writing}}
+==Gallery==
+<gallery>
+File:SatanicBook.png|thumb|Old writing book model and one of the symbol writings
+</gallery>
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!25 March 2020<br>(Part 2)
+|Added a Ghost Writing Book.
+|-
+!26 March 2020
+|Increased the chance of ghosts interacting with the book.
+|-
+!13 May 2020
+|Ghost Writing will now work in a lit room.
+|-
+!15 July 2020
+|Further increased the chance of ghosts interacting with the book.
+|-
+!19 August 2020
+|Ghost Writing Books can now be placed in a fashion similar to video cameras.
+|-
+! colspan="2" |Early Access
+|-
+!20 September 2020
+|Further increased the chance of ghosts interacting with the book.
+|-
+!29 October 2020
+|Ghost Writing now counts as photo evidence.
+|-
+! rowspan="2" |[[0.3.0]]
+|Changed the Ghost Writing Book model and patterns.
+|-
+|The book now emits writing sound and animation when the ghost writes on it.
+|-
+![[0.7.0]]
+|The written book that has been photographed will now show up as Ghost Writing instead of Interaction.
+|-
+![[0.9.0]]
+|The Ghost Writing Book now has 3 tiers.
+|-
+![[0.9.4.0]]
+|Ghost writing books can no longer be thrown by a poltergeist ability.
+|-
+![[0.10.0]]
+|Non-Ghost Writing ghosts now close the book after throwing it.
+|}<br>
+
+{{Equipment nav}}
+[[Category:Equipment]]
+[[Category:Starter Equipment]]
+[[fr:Livre d'écriture fantomatique]]
+[[ru:Блокнот]]

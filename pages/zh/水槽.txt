@@ -1,0 +1,13 @@
+# 水槽
+# revid 3656  2024-12-16T14:38:03Z  by Skaijie
+# sha256 88c1534568b380f5c680e7cd356b82a34b11580a6cc80b84b1e246bb906d2914  bytes 515
+# 源: https://phasmophobia.fandom.com/zh/api.php'''水槽'''可以在几乎所有的[[地图]]中的厨房、厕所和浴室中找到。它可以被开或关，但是[[鬼魂]]只会在交互时把他们打开。
+
+当鬼魂们和水槽交互时，它会用[[脏水]]来填充水槽。当鬼魂触碰到了水池时，[[EMF读取仪]]会读取出 EMF 2级。有[[EMF 5级]]证据的鬼魂则有 25% 几率触发 5级信号。
+  
+<br /><gallery>
+
+File:BathroomSink.webp|一个浴室中装满水的水槽
+File:KitchenSink.webp|一个厨房的水槽
+
+</gallery><br />

@@ -1,0 +1,19 @@
+# 0.7.1.1
+# revid 2430  2022-10-07T14:58:49Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version   | release_date=2022年10月7日   | previous_major_version=[[0.7.0]]   |previous_minor_version=[[0.7.1.0]] }}    ==修复漏洞== * 叠叠乐的木块不再开局掉落 * 万圣节鬼照片不再需要是第一张拍到的鬼照片 ==参考资料== {{Reflist}} {{Versions}} [[Category:开发]]”
+# sha256 e59b41977151c43320df2fc36aabf0967f61c167724bf197c36dff20fa2c0992  bytes 313
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | release_date=2022年10月7日
+  | previous_major_version=[[0.7.0]]
+  |previous_minor_version=[[0.7.1.0]]
+}}
+
+
+
+==修复漏洞==
+* 叠叠乐的木块不再开局掉落
+* 万圣节鬼照片不再需要是第一张拍到的鬼照片
+==参考资料==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

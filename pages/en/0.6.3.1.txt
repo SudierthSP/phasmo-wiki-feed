@@ -1,0 +1,22 @@
+# 0.6.3.1
+# revid 23963  2026-06-28T21:41:36Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 d04c9a784dcfb65233fb27bd9ca391655890d151ca1dbb6fa9e8a29a75d4fec3  bytes 672
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=16 July 2022
+  | previous_major_version=[[0.6.0]]
+  | previous_minor_version=[[0.6.3.0]]
+  | next_major_version=[[0.7.0]]
+  | next_minor_version=
+}}'''0.6.3.1''' is a minor update to the game released on 16 July 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3409804887896492490 Truck Overhaul | Hotfix v0.6.3.1 (on Steam)]</ref> This update resolves some issues related to voice recognition.
+
+== Bug fixes ==
+* Spanish can now use Windows voice recognition 
+* Brazilian Portuguese can no longer use Windows voice recognition
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.6.3.1]]
+[[ru:0.6.3.1]]

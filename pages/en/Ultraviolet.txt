@@ -1,0 +1,210 @@
+# Ultraviolet
+# revid 24411  2026-08-02T22:15:24Z  by Darkhooper
+# 备注: Gallu footprints
+# sha256 9aa0dad1cac1d2e89ecb1b5f0f673ad270a652243f48ead33076d671b599d888  bytes 8449
+# 源: https://phasmophobia.fandom.com/api.php{{Evidence_Infobox
+ |image1=Fingerprints_3.png
+ |detected_by=[[File:UVLight_Render.png|24x24px|link=UV Light]] [[UV Light]]
+}}
+{{Quote|speaker=The Journal|quote=Some Ghosts have been known to leave fingerprints on objects such as doors and light switches, as well as leaving footprints after stepping in Salt. These can be revealed with a UV Light.}}
+Ultraviolet is a type of [[evidence]] created by [[ghost]]s that can be used to determine the ghost type.
+
+==Mechanics==
+Ultraviolet evidence consists of fingerprints and footprints which can be revealed by using a [[UV Light]].
+
+===Fingerprints===
+[[File:Fingerprint Patterns 1.png|200x200px|thumb|The six patterns of fingerprints, including the Obake's double fingerprints.]]
+[[File:Fingerprint Patterns 2.png|200x200px|thumb|The six patterns of handprints, including the Obake's six-fingered handprint.]]
+[[File:Fingerprint Patterns 3.png|200x200px|thumb|The six patterns of four fingerprints, including the Obake's five fingerprints.]]
+By default, each [[interaction]] on a valid surface will always produce a fingerprint. Exceptions include with the [[Obake]] which has a 25% chance to hide them, or when using the "Fingerprint chance" custom difficulty modifier to reduce the odds.
+
+A ghost with Ultraviolet evidence will leave behind fingerprints when it interacts with the following surfaces or items:
+*Most types of [[door]]s
+*[[Light]] switches and lamps
+*Windows
+*Keyboards
+*TV remotes
+*Cooler boxes
+*Mirrors (specific maps only)
+
+The [[Prison]] map has additional places where fingerprints may be left behind:
+*On the horizontal surface of a bar of cell doors
+*On the steel keyhole surface of cell doors
+
+[[Maple Lodge Campsite]] and [[Camp Woodwind]] also have additional places where fingerprints may appear:
+*Bases of lanterns
+*Interior edges around large tent door flaps/tops of small tent door flaps
+*Picnic benchtops
+*String light poles
+
+Lights flickering or interactions caused by [[ghost event]]s will not result in a fingerprint being left behind in these instances.
+
+Depending on the surface area of the object being interacted with, either a fingerprint or a handprint will be visible. In addition, the print will always appear in the same spot for that specific object.
+
+Fingerprints will disappear completely after 2 minutes, or 1 minute on Insanity [[difficulty]]. This can be changed using a custom [[difficulty]] setting. Additionally, the Obake can sometimes use an ability to reduce the remaining time for all existing fingerprints on the map by half.
+
+When leaving fingerprints on surfaces it touches, an [[Obake]] has an approximately 16.7% chance to leave a non-standard pattern:
+*A handprint with six fingers instead of five
+*Two fingerprints instead of one on light switches, lamps, and TV remotes
+*Five fingerprints instead of four on keyboards and Prison doors
+
+===Footprints===
+[[File:Footprints 0.4.0.png|thumb|256x256px|Footprints lit up by a tier II UV light.]]
+[[File:Footprints vary by size.png|thumb|A comparison of footprints left by different ghost models.]]
+When a ghost crosses a [[Salt|salt pile]] and disturbs it, it will leave a footprint with each step until it stops moving or for a maximum of 2 seconds, leading to 4 footprints, and each footprint will produce a footstep sound and disappear after 10 to 15 seconds. If the ghost doesn't have Ultraviolet as evidence, or the evidence is hidden, its footprints will be invisible.
+*The [[Gallu]] in its weakened state can leave footprints for a maximum of 3 seconds, leading to 6 footprints instead of 4.
+*The Obake has a 25% chance each step to hide the footprint, creating no footstep sound when successful.
+
+Because of the random nature of the game, a ghost may step in a salt pile and choose to stop moving immediately, creating no footprints in that instance.
+
+Footprints left by the "lamprey-faced" child [[ghost model]] are slightly smaller than those left by other ghost models.
+
+===Rewards===
+{{Main|Media}}
+Taking a photo of a fingerprint or a footprint that has been charged using a [[UV Light]] will respectively yield a photo labelled as '''Fingerprint''' or '''Footprint''', each rewarding up to $7 and 7 XP, depending on the tier of the [[Photo Camera]] and whether there is a Unique stamp. Keep in mind, however, that the prints will slowly fade before becoming completely invisible after the player stops charging them with a UV Light. Invisible prints cannot be photographed and will result in an invalid photo. Each instance of a fingerprint, including repeat fingerprints on the same surface, can only be photographed once.
+
+==Possible ghosts==
+{|class="article-table"
+|[[Banshee]]
+|Ultraviolet
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|[[Ghost Orb]]
+|-
+|[[Demon]]
+|Ultraviolet
+|[[Freezing Temperatures]]
+|[[Ghost Writing]]
+|-
+|[[Gallu]]
+|Ultraviolet
+|[[EMF Level 5]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Goryo]]
+|Ultraviolet
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|[[EMF Level 5]]
+|-
+|[[Hantu]] 
+|Ultraviolet
+|[[Freezing Temperatures]]
+|[[Ghost Orb]]
+|-
+|[[Jinn]]
+|Ultraviolet
+|[[EMF Level 5]]
+|[[Freezing Temperatures]]
+|-
+|[[Kormos]]
+|Ultraviolet
+|[[Ghost Orb]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Myling]]
+|Ultraviolet
+|[[EMF Level 5]]
+|[[Ghost Writing]]
+|-
+|[[Obake]]
+|Ultraviolet
+|[[EMF Level 5]]
+|[[Ghost Orb]]
+|-
+|[[Obambo]]
+|Ultraviolet
+|[[Ghost Writing]]
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|-
+|[[Phantom]]
+|Ultraviolet
+|[[D.O.T.S Projector (Evidence)|D.O.T.S. Projector]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[Poltergeist]]
+|Ultraviolet
+|[[Ghost Writing]]
+|[[Spirit Box (Evidence)|Spirit Box]]
+|-
+|[[The Mimic]]
+|Ultraviolet
+|[[Spirit Box (Evidence)|Spirit Box]]
+|[[Freezing Temperatures]]
+|}
+
+==Tips==
+*Footprints can be useful to check for Ultraviolet evidence if the ghost is not interacting with doors in a timely fashion.
+*Footprints can sometimes be covered by certain furniture or carpets.
+*During a [[hunt]], the ghost will almost certainly open and/or close a few doors; scanning doors with a UV Light immediately after a hunt ends can often reveal some fingerprints if the ghost has Ultraviolet as one of its evidence.
+
+==Trivia==
+*Exit doors can show a fingerprint. For this to happen, the ghost must be [[The Mimic]], it must be mimicking a [[Yurei]], it must use the door-closing ability on the exit door, and the Ultraviolet evidence is not hidden. Hence, this occurrence is very rare.
+
+==Related difficulty settings==
+*'''Fingerprint chance (%):''' The chance of a ghost leaving fingerprints when interacting (only shows when ''Evidence given'' is not 0)
+*'''Fingerprint duration (s):''' The duration of fingerprints before they disappear (only shows when ''Evidence given'' is not 0)
+
+==History==
+{|class="fandom-table"
+!colspan="2"|Early Access Alpha
+|-
+!29 January 2020
+|Fingerprints now only show on doors that have been interacted with by the ghost rather than being on walls.
+|-
+!19 March 2020
+|Fingerprints can now appear on windows.
+|-
+!11 August 2020
+|Fingerprints can now appear on light switches.
+|-
+!colspan="2"|Early Access
+|-
+![[0.2]]
+|Fingerprints can now appear on Prison keyboards.
+|-
+![[0.3.0]]
+|Updated footprint visuals.
+|-
+!rowspan="3"|[[0.4.0]] 
+|Fingerprints now disappear after 60 seconds.
+|-
+|Fingerprints are now left only 75% of the time.
+|-
+|Added a new fingerprint design for Maple Lodge Campsite.
+|-
+!rowspan="3"|[[0.4.1.0]] 
+|Increased the fingerprint duration to 2 minutes.
+|-
+|Fingerprints are now left 100% of the time again.
+|-
+|Fingerprints can now be found on more surfaces in Maple Lodge Campsite.
+|-
+!rowspan="2"|[[0.6.0]]
+|Added new fingerprint designs.
+|-
+|Fingerprints can now appear on house keyboards.
+|-
+!rowspan="3"|[[0.8.1.0]]
+|Fingerprints will now slowly fade out, instead of disappearing instantly.
+|-
+|Footprints now fade over time, instead of disappearing instantly.
+|-
+|Improved fingerprint and footprint rendering.
+|-
+!rowspan="5"|[[0.9.0]]
+|Renamed Fingerprints evidence to Ultraviolet evidence.
+|-
+|Footprints now count as Ultraviolet evidence.
+|-
+|Salt will now only reveal footprints if the ghost has Ultraviolet evidence
+|-
+|Renamed Footsteps photo to Footprints
+|-
+|Footprints will be affected by ghost traits similar to Fingerprints
+|-
+![[0.10.0]]
+|Ghosts can now leave single fingerprints on all small lamps and TV remotes in all locations
+|}
+{{EvidenceNav}}
+[[Category:Evidence]]
+[[fr:Ultraviolet]]
+[[ru:Отпечатки]]

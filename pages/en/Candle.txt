@@ -1,0 +1,5 @@
+# Candle
+# revid 15570  2023-08-17T20:00:57Z  by Rigel Kent
+# 备注: Rigel Kent moved page [[Candle]] to [[Firelight]]: renamed in [[0.9.0]]
+# sha256 f5d250ef8be6763ee6f1732f80007c056ccc898cd45cd08740e106ab2a1060ff  bytes 23
+# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Firelight]]

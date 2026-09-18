@@ -1,0 +1,171 @@
+# 0.5.0
+# revid 23940  2026-06-28T21:39:56Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 c4c633da372a327df708b525cb1ad6282117e0095c1a580fbdd871b44805039f  bytes 6570
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | image1=Cursed possessions update poster.png
+  | official_name=Cursed Possessions
+  | release_date=10 December 2021
+  | previous_major_version=[[0.4.0]]
+  | previous_minor_version=[[0.4.1.2]]
+  | next_major_version=[[0.6.0]]
+  | next_minor_version=[[0.5.0.1]]
+}}The '''0.5.0''' update, also known as the '''Cursed Possessions''' update, is a content update to the game that was released on 10 December 2021.<ref>https://store.steampowered.com/news/app/739630?emclan=103582791466524086&emgid=3099036308542409852</ref> This update adds several equipment related to interacting with the ghost, one new ghost, as well as a rework of the existing ghosts' behaviours.
+
+== Additions ==
+
+=== Equipment ===
+{{Main|Equipment}}
+==== Cursed possessions ====
+{{Main|Cursed possession}}
+*1 of 6 items will spawn per [[contract]], with several spawnpoints
+*Will trade sanity or other negative effects for information or uses
+
+;[[Music Box]]
+*When activated, can sometimes cause the ghost to sing along to the melody, which can make identifying the ghost room easier.
+
+;[[Summoning Circle]]
+*Used to summon the ghost, leading up to a hunt
+
+;[[Tarot Cards]]
+*Contains ten randomly-selected cards, with positive or negative effects
+
+;[[Haunted Mirror]]
+*Can be used to locate the current ghost room, at the cost of severe sanity drain the longer it is used
+
+=== Gameplay ===
+;[[Journal]]
+*New Home and Item tabs
+
+=== Ghosts ===
+{{main|Ghost}}
+;[[The Mimic]]
+*May mimic the actions of other ghosts
+*Ghost Orbs may appear as a fourth evidence
+*Requires Spirit Box, Fingerprints, and Freezing Temperatures as evidence
+
+== Changes ==
+
+=== Equipment ===
+;[[Voodoo Doll]]
+*Can now used to force the ghost to perform interactions
+*Updated visuals
+
+;[[Ouija Board]]
+*Updated visuals
+*Now classed as a cursed possession
+*Now requires user to say goodbye to the board
+*New questions related to bone location, method of death,
+*No longer fails questions
+*No longer plays an additional sound when spelling double letters
+*Spawn chance is now treated as a cursed posession
+
+;[[Parabolic Microphone]]
+*Paranormal sounds can now be heard more often
+
+;[[Photo Camera]] and [[Video Camera]]
+*Interference effect during manifestations has been adjusted
+
+===Evidence and ghost traces===
+;[[Ghost Writing]]
+*Ghosts will now also interact with it when it throws the book outside of hunts
+
+;[[Fingerprints]]
+*Photos of "refreshed" fingerprints will now count as a [[Media|photo reward]]
+
+===Gameplay===
+*Props/objects within the house now have different impact sounds to match its material
+*New sounds for player footsteps on different surfaces
+*Large rugs and floor mats now have collision
+*Interaction photos of objects thrown must now be of the objective itself instead of where the object was beforehand
+*Light flickers will now be based on distance of the ghost to the light instead of the switch
+
+===Ghosts===
+;General
+*Will now use abilities more often and more consistently
+*Will now consider distance of path to take when setting waypoints
+*Heartbeats now scale depending on the distance of the player to the ghost
+
+;[[Banshee]]
+*No longer has rare ability to hunt at any sanity
+*Will choose singing ghost events more often
+*Can emit unique paranormal sound audible to the parabolic microphone
+
+;[[Demon]]
+*Now has a rare ability to hunt at any sanity
+*Now has shorter hunt cooldown of 20 seconds
+
+;[[Hantu]]
+*Will now emit freezing breath when manifested
+
+;[[Jinn]]
+*Distance for speed drop-off decreased
+
+;[[Mare]]
+*May now turn off lights more often, including instantly
+*Will choose dark rooms to wander into more often
+*Will choose light bulb explosion ghost events more often
+
+;[[Oni]]
+*Will now always manifest during ghost events
+*More likely to show up in full form during ghost events
+
+;[[Shade]]
+*Hunt sanity threshold reduced to 35%
+*Will now have less interactions regardless of player numbers
+
+;[[Yokai]]
+*Now reacts more to player voices
+
+;[[Yurei]]
+*New ability to close doors while draining sanity from players in the same room
+
+===Hunts===
+*Players can no longer back out through the [[Exit Door|exit doors]] when the hunt starts
+*Ghosts can now throw objects during hunts
+*Ghosts will now only use physical form during hunts
+*Ghosts can now hear the player's voice from further away
+*Hunting sounds will now fade out instead of stopping abruptly
+
+===Maps===
+;[[Maple Lodge Campsite]]
+*New temporary visuals for winter season
+*Assets have been optimised
+
+===General===
+*Several scripts and [[weather]] has been optimised for performance
+
+==Bug Fixes==
+
+===From versions released before 0.5.0===
+*Fixed a bug where the Raiju’s weakness was only affecting camcorders and cameras
+*Fixed a bug where the hunt duration was being set based on the size of the map you previously played
+*Fixed a bug where heartbeat sound would play if the ghost was too far away
+*Fixed a bug where sound would muffle if you walked near the cabin balcony door
+*Fixed a bug where the escape from the ghost during a hunt objective couldn't be completed
+*Fixed a bug where several interactions were not giving photo rewards
+*Fixed a bug where the photo camera could be turned on inside the truck
+*Fixed a bug where smashed lights could be turned on when toggling the fuse box
+*Fixed a bug where you could hold lit candles outside in heavy rain
+*Fixed a bug where the temperatures inside the Campsite toilets were not being set correctly
+*Fixed a bug where a Yurei could still change its preferred room if it was smudged
+*Fixed a bug where the heartbeat sound would play when you were too far away from the ghost
+*Fixed a bug where you using a second smudge stick (within a few seconds of the first) wouldn’t stop the ghost killing you
+*Fixed a bug where setting the master volume slider wouldn’t always work
+*Fixed a bug where VR players couldn’t hear their own footsteps
+*Fixed a bug where some curtains didn’t have collision, causing a safe spot
+*Fixed a bug where the model of some lights wouldnt look 'turned on' after it flickered
+*Fixed a bug where the shower water in the ensuite in Edgefield was spraying the wrong way
+*Fixed several bugs where certain map UI and player icons were rotated incorrectly
+*Fixed several bugs where photo rewards were being given when they shouldn't be
+*Fixed several floating books in high school
+*Fixed several safe spots in Prison
+*Fixed several fans in Asylum having two sets of fan blades
+*Fixed several rare visual issues in Willow and Ridgeview
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.5.0]]
+[[ru:0.5.0]]

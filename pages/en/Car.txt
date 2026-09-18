@@ -1,0 +1,17 @@
+# Car
+# revid 24248  2026-07-24T04:35:26Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 aa78d0b52151c670f74fccd8161115c041bf3ce5e600401401c6bd1e78779adc  bytes 961
+# 源: https://phasmophobia.fandom.com/api.php[[File:Car.png|320x180px|thumb|The car on [[6 Tanglewood Drive]].]]
+A '''car''' is one of the map features found in some [[map]]s.
+
+==Mechanics==
+All suburban houses have a garage containing at least one car or vehicle. Some houses have more than one vehicle in the garage; only one of these can be interacted with by players and [[ghost]]s.
+
+The ghost can randomly set off the vehicle alarm, following standard [[interaction]] rules. This will create an [[EMF]] Level 2 reading, with a 33% chance of it being [[EMF Level 5]] instead if the ghost has this evidence. The alarm cannot be activated during [[hunt]]s.
+
+The alarm persists until the players deactivate it by {{Control|interacting}} with the vehicle while having the car [[key]], which is always located in the first room when entering the house. Interacting with the vehicle while the alarm is inactive causes it to beep.
+{{MapFeatureNav}}
+[[ru:Машина]]
+[[Category:Map Features]]
+[[fr:Voiture]]

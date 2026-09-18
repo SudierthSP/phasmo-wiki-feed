@@ -1,0 +1,5 @@
+# Smudge Stick
+# revid 15662  2023-08-19T07:00:20Z  by Rigel Kent
+# 备注: redirect to new [[0.9.0]] name [[incense]]
+# sha256 dacee45a2061662fcec256b71c37c78126aef28ef8a25d385e209ca0716ef2cd  bytes 21
+# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Incense]]

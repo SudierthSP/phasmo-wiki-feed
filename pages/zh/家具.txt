@@ -1,0 +1,48 @@
+# 家具
+# revid 4039  2025-11-13T09:33:00Z  by CangMingSW
+# 备注: 翻译
+# sha256 64ed2babd6ae0c329d5325f0d4482d48a6cebc7b7d80eaa575797897bdee1eb4  bytes 2155
+# 源: https://phasmophobia.fandom.com/zh/api.php'''家具'''主要是散落在[[地图]]各处的无用物品。[[玩家]]和[[鬼魂]]都可以与他们互动，鬼魂互动也提供证据或促进调查。
+
+==机制==
+鬼魂可以与附近的道具[[互动]]，通常是投掷它们，发出产生 [[EMF]] 3 级信号。各种道具会根据其材料的不同产生不同的音效。
+
+一些特殊的家具可以触发不同形式的互动：
+{| class="fandom-table"
+!家具
+!互动
+|-
+![[篮球]]和排球
+|除了作为[[大厅]]迷你游戏外，篮球还可以在[[褐石中学]]找到，而排球也可以在各种房屋地图中找到。这些球具有弹力物理特性，可以被鬼魂传送。
+|-
+![[人体模型]]
+|人体模型可以传送到地图上的特定位置，也可以在原地旋转，而不是被扔掉。
+|-
+!电话（各种类型）
+|老式电话可以响，而智能手机可以振动。此外，[[枫林营地]]小屋内的电话在附近的电视或[[电闸]]关闭后，有很小的几率被响起。
+|-
+!钢琴
+|鬼魂可以与钢琴互动，弹奏随机音符。玩家在与钢琴互动时会弹奏歌曲“Adrift”。
+|-
+![[土豆]]
+|参考合作伙伴 PsychoHypnotic。这种土豆可以在[[坦格活德街房屋]]厨房中央的柜子中和[[阳光牧场精神病院]]的烘焙房间中找到。当它与表面碰撞时，它会发出惊魂记的抽搐警报声音。
+|-
+!泰迪熊和兔子
+|泰迪熊可以在地图中找到，鬼魂可以通过多种方式与它们互动：传送它们、让它们咯咯笑、扭动它们的头以及正常扔它们。兔子只能被投掷或传送。
+|-
+!相框中的各种照片
+|Though there is no special interaction by the ghost, many of these photos are of pets of the developers, and various partners and staff of the official ''Phasmophobia'' Discord server.
+<br>The pets on display in various photo frames are:
+<br><small>''This list is incomplete''</small>
+;[[13 Willow Street]]
+*Willow (on entrance table, cjdxn's cat)
+*Ham (on wall, cat)
+*Bilbo (on hallway table, cjdxn's friend's cat)
+*Cheeseburger (in hallway, cat)
+
+;[[10 Ridgeview Court]]
+*Leeroy (on fireplace, Shuee's cat)
+|}
+
+{{MapFeatureNav}}
+[[Category:Item]]

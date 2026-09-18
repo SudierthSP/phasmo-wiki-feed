@@ -1,0 +1,5 @@
+# Sound sensor
+# revid 10585  2022-04-07T10:45:25Z  by Skaijie
+# 备注: Redirected page to [[Sound Sensor]]
+# sha256 abbf23e5aeeb32f6cfc7ded2e2bbcad84b6f516c91419d3f9f8de4c82184a1d9  bytes 26
+# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Sound Sensor]]

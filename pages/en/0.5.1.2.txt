@@ -1,0 +1,67 @@
+# 0.5.1.2
+# revid 23945  2026-06-28T21:40:18Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 fdd410f35b088653f6395b9daabcb8a966e86a0c21e130afe61e1db9443be1ce  bytes 3877
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=20 January 2022
+ | previous_major_version=[[0.5.0]]
+ | previous_minor_version=[[0.5.1.1]]
+ | next_minor_version=[[0.5.2.0]]
+ | next_major_version=[[0.6.0]]
+}}'''0.5.1.2''' is a minor update to the game released on 20 January 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3093411158319164613 Cursed Possessions | Update v0.5.1.2]</ref> The update makes several changes and fixes bugs.
+
+== Changes ==
+=== Gameplay ===
+;[[Media|Photo Rewards]]
+*Ghosts will no longer appear in non-ghost photos taken by other players
+*Subsequent ghost photos can now only be taken when there is no other evidence in the photo
+
+;General
+*Increased the chance for ghost events on small maps
+*Paranormal sounds are now heard closer to the ghost's position when using a [[Parabolic Microphone]]
+*Push to talk option will now affect solo sessions
+
+=== Maps ===
+;[[Asylum]]
+*The Asylum toilet cubicles doors will now all start closed to make it easier to find the ghost if it is in those rooms
+
+=== Hunts ===
+{{Main|Hunt}}
+*Hunts will now end if all players glitch outside the investigation area after it has started
+
+== Bug fixes ==
+*Fixed a bug where paranormal sounds could not be heard on the Parabolic Microphone
+*Fixed a bug where you could not take an evidence photo of the Mirror when it was on the wall on some maps
+*Fixed a bug where the ghost evidence would take priority on different cameras if you already had a ghost photo
+*Fixed a bug where the ghost would open your closet if it heard you outside of it before you entered
+*Fixed a bug where the Prison cell light switches were turning on the wrong lights
+*Fixed a bug where Banshees could not hear non hosts player voices or equipment during hunts
+*Fixed a bug where the ghost was only doing ghost events around the host
+*Fixed a bug where the room lights were not flickering during hunts
+*Fixed a bug where the TV in the Maple Cabin did not turn on
+*Fixed a bug where using the Voodoo Doll with no sanity would not trigger a hunt
+*Fixed a bug where the Phantom would only disappear on the first photo you took of it
+*Fixed a bug where the ghost would stay near the dead body after killing someone if it can't see anyone
+*Fixed a bug where the ghost would search around your last known location until the end of the hunt if it did not see another player. It will now only search for a short amount of time.
+*Fixed a bug where the ghost would give EMF 2 when attempting to interact with a door when it didn't move the door
+*Fixed a bug where fingerprints would sometimes spawn on doors when the ghost has not interacted with it
+*Fixed a bug where you couldn't interact with some Prison showers
+*Fixed a bug where the painting interactions were giving EMF 2 instead of 3
+*Fixed a bug where the ghost was still taking priority for photos after you already had a ghost photo
+*Fixed an issue where Raiju's would change speed too slowly when reaching electronic equipment
+*Fixed a bug where three of the female characters would have broken audio when holding equipment
+*Fixed a bug where you could hold the bear and mobile phone through the main door making the ghost think you were on the other side
+*Fixed a bug where the Voodoo Doll wouldn't spawn in the correct position for non-hosts
+*Fixed a bug where the Tarot Card would make an impact sound after being fully used
+*Fixed a bug where the Haunted Mirror would still show the last frame of the room when it broke
+*Fixed a bug where some noise values would keep showing on the Parabolic Microphone when there was no sound
+*Fixed a bug where the Twin interaction could stop a hunt
+*Fixed a bug where player volumes were resetting when loading back to the main menu
+*Fixed a bug where you could hear other players when they were fully muted
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.5.1.2]]
+[[ru:0.5.1.2]]

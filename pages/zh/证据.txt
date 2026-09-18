@@ -1,0 +1,184 @@
+# 证据
+# revid 4176  2026-07-08T08:20:51Z  by Fanta1109
+# 备注: /* 媒体证据 */
+# sha256 65376d2b24ce08a2b7b9d60aa722832e90ffcbe823272ea4db2c1136aefe88c9  bytes 13238
+# 源: https://phasmophobia.fandom.com/zh/api.php'''证据'''用于探明鬼魂类型。每种鬼都有3个证据。玩家可以使用[[手册]]记录获得的证据并推断出鬼魂类型。
+
+== 全部证据 ==
+目前共有7种证据：
+{| class="article-table"
+|-
+|[[点阵投影仪]]
+|-
+|[[EMF 5级]]
+|-
+|[[紫外线]]
+|-
+|[[刺骨寒温]]
+|-
+|[[灵球]]
+|-
+|[[鬼魂笔迹]]
+|-
+|[[通灵盒]]
+|}
+
+== 鬼魂证据==
+
+{| class="sortable wikitable" style="text-align:center"
+!👻[[鬼魂]]<!-- 可按首字排序 -->
+![[File:EMFReader_Render.png|24x24px|link=EMF 5级]][[EMF 5级]]
+![[File:GhostOrb_Sprite.png|24x24px|link=灵球]][[灵球]]
+![[File:SpiritBox_Render.png|24x24px|link=通灵盒]][[通灵盒]]
+![[File:Thermometer_Render.png|24x24px|link=刺骨寒温]][[刺骨寒温]]
+![[File:Fingerprints_3.png|24x24px|link=紫外线]][[紫外线]]
+![[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]][[鬼魂笔迹]]
+![[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]][[点阵投影仪]]
+|-
+<!-- EMF 5级或灵球 || 通灵盒或刺骨寒温 || 紫外线|| 笔迹或点阵投影仪 -->
+| style="text-align:left;" |[[女妖]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]|| || ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]
+| ||[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[恶魔|惡魔]]|| || || ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[御灵|御靈]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| || || ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||
+|[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[寒魔]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]|| ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||
+|
+|-
+| style="text-align:left;" |[[巨灵|巨靈]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| || ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||
+|
+|-
+| style="text-align:left;" |[[梦魇|夢魇]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| || ||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[鬼婴|鬼嬰]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| || || ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[幻妖]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]|| || ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||
+|
+|-
+| style="text-align:left;" |[[赤鬼]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| || ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| ||
+|[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[怨灵|怨靈]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| ||
+|
+|-
+| style="text-align:left;" |[[幻影]]|| || ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||
+|[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[捣蛋鬼|搗蛋鬼/騷靈]] || || ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]||  ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[雷魂]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]|| || || ||
+|[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[亡魂]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]|| ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| ||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[暗影]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| || ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| ||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[魂魄]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| || ||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[孪魂|孿魂]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| ||
+|
+|-
+| style="text-align:left;" |[[魅影]]||[[File:EMFReader_Render.png|24x24px|link=EMF 5级]]|| ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| || ||
+|[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[妖怪]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| || ||
+|[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[幽灵|幽靈]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]|| ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| ||
+|[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[拟魂|擬魂]]|| || ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||
+|
+|-
+| style="text-align:left;" |[[魔洛伊]]|| || ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| |||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]
+|
+|-
+| style="text-align:left;" |[[雾影|霧影]]|| || ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| || ||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]||[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[刹耶|剎耶]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]|| || || ||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]||[[File:DOTS projector sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[奥班博]]|| || || || ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]||[[File:DOTS_projector_sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[加鲁]]||[[File:EMFReader_Render.png|24x24px|link=EMF5级]]|| ||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]|| ||
+|-
+| style="text-align:left;" |[[达魇]]||[[File:EMFReader_Render.png|24x24px|link=EMF5级]]||[[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]]||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| || || ||
+|-
+| style="text-align:left;" |[[阿斯旺]]|| || || ||[[File:Thermometer_Render.png|24x24px|link=刺骨寒温]]|| ||[[File:ClosedBook_Render.png|24x24px|link=鬼魂笔迹]]||[[File:DOTS_projector_sprite.webp|24x24px|link=点阵投影仪]]
+|-
+| style="text-align:left;" |[[盲灵]]|| ||[[File:GhostOrb_Sprite.png|24x24px|link=灵球]]||[[File:SpiritBox_Render.png|24x24px|link=通灵盒]]|| ||[[File:Fingerprints_3.png|24x24px|link=紫外线]]|| ||
+|}
+
+有些鬼魂在噩梦难度是必有某些证据：
+*'''雾影：'''[[通灵盒]] 
+*'''御灵：'''[[点阵投影仪]]
+*'''寒魔：'''[[刺骨寒温]]
+*'''魔洛伊：'''[[通灵盒]]
+*'''幻妖：'''[[紫外线]]
+*'''拟魂：'''[[灵球]]
+
+== 媒体证据 ==
+''主条目：[[媒体]]''
+
+在游戏中可以使用[[相机]]、[[摄像机]]或[[录音机]]来采集媒体证据。
+
+一些特殊媒体证据可以直接唯一确定鬼魂的类型：
+* 御靈攝像機中的[[点阵投影仪]]證據([[御灵#能力|御灵能力]])
+* 幻妖指纹的照片证据([[幻妖#能力|幻妖能力]])
+* 幻妖变形的视频证据([[幻妖#獵殺|幻妖獵殺]])
+* 女妖尖叫的声音证据([[女妖#特殊能力|女妖的特殊能力]])
+* 雾影呼吸的声音证据([[雾影#能力|霧影能力]])
+
+== 工具 ==
+这些工具可以根据证据快速排除鬼魂。
+*https://tsybulska.github.io/assets/projects/phasmophobia-calculator/index.html <sup><span style="color:darkcyan;">'''适配移动端'''</span>  <span style="color:fuchsia;">'''概率'''</span> <span style="color:blue;">'''语句'''</span></sup>
+*https://github.com/DeathTech154/PhasmophobiaGhostHelper/releases <sup><span style="color:red;">'''软件'''</span></sup>
+*https://abluescarab.github.io/phasmophobia-tool/ <sup><span style="color:darkcyan;">'''适配移动端'''</span></sup>
+*https://cannonsloan.github.io/phasmoChecklist/src/index.html <sup><span style="color:darkcyan;">'''适配移动端'''</span></sup>
+*https://codazed.gitlab.io/phasmotoolkit/ <sup><span style="color:darkcyan;">'''适配移动端'''</span></sup>
+*https://dzybaty.github.io/phasmopicker/ <sup><span style="color:darkcyan;">'''适配移动端'''</span> <span style="color:lightblue;">'''推测证据'''</span> <span style="color:orange;">'''同步'''</span> <span style="color:blue;">'''语句'''</span></sup>
+*https://edielemoine.github.io/phasmophobia/
+*https://kylecorry.com/phasmophobia-helper/ <sup><span style="color:darkcyan;">'''适配移动端'''</span></sup>
+*https://lemon-field-0b94c1010.azurestaticapps.net/ <sup><span style="color:lightblue;">'''推测证据'''</span></sup>
+*https://phasmocalc.com/ <sup><span style="color:darkcyan;">'''适配移动端'''</span> <span style="color:lightblue;">'''推测证据'''</span> <span style="color:chartreuse;">'''历史'''</span></sup>
+*https://phasmofinder.vercel.app/ <sup><span style="color:darkcyan;">'''适配移动端'''</span> <span style="color:lightblue;">'''推测证据'''</span></sup>
+*https://phasmo.lotai.xyz/ <sup><span style="color:lightblue;">'''推测证据'''</span> <span style="color:orange;">'''同步'''</span></sup>
+*https://phasmo.now.sh <sup><span style="color:darkcyan;">'''适配移动端'''</span> <span style="color:blue;">'''语句'''</span></sup>
+*https://phasmophobia-journal.web.app/ <sup><span style="color:darkcyan;">'''适配移动端'''</span> <span style="color:lightblue;">'''推测证据'''</span> <span style="color:fuchsia;">'''概率'''</span></sup>
+*https://phasmophobia-matrix.com/ <sup><span style="color:darkcyan;">'''适配移动端'''</span> <span style="color:lightblue;">'''推测证据'''</span> <span style="color:deeppink;">'''计时器'''</span> <span style="color:orange;">'''同步'''</span> <span style="color:blue;">'''语句'''</span> <span style="color:green;">'''地图'''</span> <span style="color:yellow;">'''<big>汉化</big>'''</span></sup>
+*https://phasmophobiatracker.site/ <sup><span style="color:lightblue;">'''推测证据'''</span></sup>
+*https://phasmo-randomizer.site/tracker.php <sup><span style="color:lightblue;">'''推测证据'''</span></sup>
+*https://phasmo.site/ <sup><span style="color:darkcyan;">'''适配移动端'''</span> <span style="color:lightblue;">'''推测证据'''</span></sup>
+*https://phass.netlify.app/ <sup><span style="color:darkcyan;">'''适配移动端'''</span> <span style="color:lightblue;">'''推测证据'''</span></sup>
+*https://phastracker.now.sh/ <sup><span style="color:lightblue;">'''推测证据'''</span></sup>
+*https://scopz.github.io/phasmochart/ <sup><span style="color:lightblue;">'''推测证据'''</span></sup>
+*https://thelunararmy.gitlab.io/react-phasmo-ghostid/ <sup><span style="color:darkcyan;">'''适配移动端'''</span> <span style="color:lightblue;">'''推测证据'''</span> <span style="color:deeppink;">'''计时器'''</span></sup>
+*https://un0btanium.github.io/phasmophobia-cheatsheet/ <sup><span style="color:lightblue;">'''推测证据'''</span> <span style="color:blue;">'''语句'''</span></sup>
+
+<big>文字说明</big>
+
+*<small><span style="color:darkcyan;">'''适配移动端'''</span> 该网站适配移动端</small>
+*<small><span style="color:lightblue;">'''推测证据'''</span> 列出有助于探明鬼魂类型的特征</small>
+*<small><span style="color:orange;">'''同步'''</span> 可自动同步多个对话</small>
+*<small><span style="color:blue;">'''语句'''</span> 列出[[通灵板]]和[[通灵盒]]识别的语句</small>
+*<small><span style="color:chartreuse;">'''历史'''</span> 记录你找到的鬼魂数量</small>
+*<small><span style="color:green;">'''地图'''</span> 有地图相关信息</small>
+*<small><span style="color:fuchsia;">'''概率'''</span> 列出鬼魂回应剩余证据的概率</small>
+*<small><span style="color:deeppink;">'''计时器'''</span> 有计时器</small>
+*<small><span style="color:red;">'''软件'''</span> 应用程序</small>
+*<small><span style="color:yellow;">'''汉化'''</span> 有中文翻译</small>
+==逸闻轶事==
+
+*如果已经确定鬼魂类型，则无需勾选证据，只需选择结果。
+
+{{Evidence nav}}
+[[Category:证据]]
+[[Category:游戏玩法]]

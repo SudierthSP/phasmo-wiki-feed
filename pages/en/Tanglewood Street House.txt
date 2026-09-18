@@ -1,0 +1,5 @@
+# Tanglewood Street House
+# revid 12697  2022-09-30T12:22:22Z  by Skaijie
+# 备注: Skaijie moved page [[Tanglewood Street House]] to [[6 Tanglewood Drive]]: renamed in-game
+# sha256 8e0d78b883e58197402bc3d4da6918a1ce263e0a617154ce433340bab2e77c4f  bytes 32
+# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[6 Tanglewood Drive]]

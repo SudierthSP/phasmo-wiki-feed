@@ -1,0 +1,5 @@
+# Bone
+# revid 4472  2021-01-10T21:40:34Z  by YummyYummyArsenic
+# 备注: Redirected page to [[Bone Evidence]]
+# sha256 c9b6ca866d5b31e5e297efae858a70e01477985105f5d30cb7ce53a91624b5f0  bytes 27
+# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Bone Evidence]]

@@ -1,0 +1,563 @@
+# Challenge Mode
+# revid 23305  2026-05-05T16:08:11Z  by Darkhooper
+# 备注: 0.17
+# sha256 d3256cdd41ad32674a8f1812bee8e5b8cec329617ec23bdd7ceddb2d083170e3  bytes 44034
+# 源: https://phasmophobia.fandom.com/api.phpThe '''Challenge Mode''' is a feature introduced in [[0.8.1.0]]. It allows players to take part in a curated custom [[difficulty]], often based on Professional, with predetermined rules and set of starter items. As players cannot bring their own items, [[Death|dying]] in a challenge does not carry any significant monetary risk, encouraging players to experiment with strategies.
+
+Regardless of how difficult the challenge is, it always has a base reward multiplier of 1x, equal to Amateur. The main benefit of Challenge Mode is tied to the "Complete Challenge Mode in ''[map name]''" [[Daily and Weekly Tasks|Weekly Task]], which awards a substantial $5,000 and 5,000 XP upon successful completion. Challenge Mode can be played on any map, and as many times as desired, but will not award completion of the aforementioned weekly task unless done on the intended map for the given challenge. Note that identifying the ghost is enough to count towards challenge completion, and the player does ''not'' need to survive the contract. 
+
+Challenges specific to [[Sunny Meadows Mental Institution|Sunny Meadows]] cannot be completed by playing [[Sunny Meadows Mental Institution#Sunny Meadows Mental Institution - Restricted|Sunny Meadows (Restricted)]], and vice versa.
+
+==Standard Challenges==
+There are 26 different standard challenges, which rotate each Monday at Midnight UTC. As of {{CURRENTDAY}} {{CURRENTMONTHNAME}} {{CURRENTYEAR}} (UTC), the challenge is{{CurrentChallenge}}.
+<table-progress-tracking table-id="1" unique-column-index="1">
+{| class="fandom-table" 
+!№
+!Challenge
+!Description
+!Details and differences from Professional difficulty
+!Map
+|-
+|1
+|Lights out!
+|Get your candles at the ready, all the lights are out!
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Flashlights: Off
+*[[Door]]s starting open: High
+*[[Fuse box]] at start of contract: Broken
+*Fuse box visible on map: Off
+*Cursed Possessions: [[Music Box]]
+----
+<center>'''Equipment'''</center>
+*Available: [[File:Med090 T1.png|30px|link=Sanity Medication]] [[File:Igniter090 T2.png|30px|link=Igniter]] [[File:FireLight090 T1.png|30px|link=Firelight]] [[File:Incense090 T1.png|30px|link=Incense]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:Crucifix090 T1.png|30px|link=Crucifix]] [[File:EMF090 T2.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T2.png|30px|link=Photo Camera]] [[File:SpiritBox090 T2.png|30px|link=Spirit Box]] [[File:Thermometer090 T2.png|30px|link=Thermometer]] [[File:UV090 T1.png|30px|link=UV Light]] [[File:WritingBook090 T2.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T2.png|30px|link=D.O.T.S. Projector]] [[File:VideoCamera090 T1.png|30px|link=Video Camera]]
+*<u>Missing:</u> [[Motion Sensor|motion sensors]], [[Parabolic Microphone|parabolic microphones]], [[Sound Recorder|sound recorders]], [[sound sensor]]s, 1 photo camera, [[flashlight]]s, [[tripod]]s
+
+|[[6 Tanglewood Drive]]
+|-
+|2
+|Speed Demons
+|There must be something in the air, everyone's going crazy!
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*[[Player]] speed: 150%
+*[[Ghost]] speed: 150%
+*Changing [[Ghost Room|favourite room]]: Very High
+*Activity level: High
+*[[Ghost Event|Event]] frequency: High
+*Doors starting open: High
+*Cursed Possessions: [[Monkey Paw]]
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T1.png|30px|link=Head Gear]] [[File:Med090 T1.png|30px|link=Sanity Medication]] [[File:FireLight090 T1.png|30px|link=Firelight]] [[File:Parabolic090 T2.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T2.png|30px|link=Sound Recorder]] [[File:Incense090 T1.png|30px|link=Incense]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:Crucifix090 T2.png|30px|link=Crucifix]] [[File:SoundSensor090 T1.png|30px|link=Sound Sensor]] [[File:EMF090 T2.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T2.png|30px|link=Photo Camera]] [[File:SpiritBox090 T2.png|30px|link=Spirit Box]] [[File:Thermometer090 T2.png|30px|link=Thermometer]] [[File:UV090 T2.png|30px|link=UV Light]] [[File:WritingBook090 T2.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T2.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T2.png|30px|link=Flashlight]] [[File:VideoCamera090 T2.png|30px|link=Video Camera]] [[File:Tripod090 T1.png|30px|link=Tripod]]
+*<u>Missing:</u> igniters, motion sensors
+|[[Maple Lodge Campsite]]
+|-
+|3
+|Detectives only
+|Put your detective skills to the test, this ghost is giving nothing away!
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Roaming frequency: Medium
+*Changing favourite room: Medium
+*Activity level: Medium
+*[[Hunt]] duration: Medium
+*[[Evidence]] given: 0
+*Cursed Possessions: [[Ouija Board]]
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T2.png|30px|link=Head Gear]] [[File:Med090 T1.png|30px|link=Sanity Medication]] [[File:Igniter090 T1.png|30px|link=Igniter]] [[File:MotionSensor090 T1.png|30px|link=Motion Sensor]] [[File:FireLight090 T1.png|30px|link=Firelight]] [[File:Parabolic090 T1.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T1.png|30px|link=Sound Recorder]] [[File:Incense090 T1.png|30px|link=Incense]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:Crucifix090 T1.png|30px|link=Crucifix]] [[File:SoundSensor090 T1.png|30px|link=Sound Sensor]] [[File:EMF090 T1.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T1.png|30px|link=Photo Camera]] [[File:SpiritBox090 T1.png|30px|link=Spirit Box]] [[File:Thermometer090 T1.png|30px|link=Thermometer]] [[File:UV090 T2.png|30px|link=UV Light]] [[File:WritingBook090 T1.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T1.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T1.png|30px|link=Flashlight]] [[File:VideoCamera090 T1.png|30px|link=Video Camera]] [[File:Tripod090 T1.png|30px|link=Tripod]]
+|[[42 Edgefield Road]]
+|-
+|4
+|Hide and Seek: Seeker
+|There's a very quiet ghost hiding somewhere, can you find it?
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*[[Sanity Medication|Sanity Pill]] restoration: 35%
+*[[Sanity]] drain speed: 0%
+*Roaming frequency: Medium
+*Changing favourite room: None
+*Event frequency: Low
+*Friendly ghost: On
+*Doors starting open: None
+*Number of hiding places: None
+*Cursed Possessions: None
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T3.png|30px|link=Head Gear]] [[File:Med090 T3.png|30px|link=Sanity Medication]] [[File:Igniter090 T3.png|30px|link=Igniter]] [[File:MotionSensor090 T3.png|30px|link=Motion Sensor]] [[File:FireLight090 T3.png|30px|link=Firelight]] [[File:Parabolic090 T1.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T3.png|30px|link=Sound Recorder]] [[File:Salt090 T3.png|30px|link=Salt]] [[File:SoundSensor090 T2.png|30px|link=Sound Sensor]] [[File:EMF090 T2.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T3.png|30px|link=Photo Camera]] [[File:SpiritBox090 T2.png|30px|link=Spirit Box]] [[File:Thermometer090 T3.png|30px|link=Thermometer]] [[File:UV090 T3.png|30px|link=UV Light]] [[File:WritingBook090 T2.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T3.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T3.png|30px|link=Flashlight]] [[File:VideoCamera090 T3.png|30px|link=Video Camera]] [[File:Tripod090 T2.png|30px|link=Tripod]]
+*<u>Missing:</u> incense, crucifixes
+|[[Brownstone High School]]
+|-
+|5
+|Hide and Seek: Hide!
+|This ghost wants to play a game, you better hide quick!
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Starting sanity: 0%
+*Sanity Pill restoration: 0%
+*Sanity drain speed: 150%
+*Roaming frequency: Low
+*Changing favourite room: None
+*Activity level: High
+*Event frequency: High
+*Grace period: 5 seconds
+*Kills extend hunts: High
+*Setup time: 1 minute
+*Doors starting open: Low
+*Number of hiding places: Very High
+*Cursed Possessions: None
+----
+<center>'''Equipment'''</center>
+*Available: [[File:Med090 T1.png|30px|link=Sanity Medication]] [[File:Igniter090 T2.png|30px|link=Igniter]] [[File:MotionSensor090 T1.png|30px|link=Motion Sensor]] [[File:FireLight090 T3.png|30px|link=Firelight]] [[File:SoundRecorder T1.png|30px|link=Sound Recorder]] [[File:Incense090 T1.png|30px|link=Incense]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:Crucifix090 T2.png|30px|link=Crucifix]] [[File:SoundSensor090 T1.png|30px|link=Sound Sensor]] [[File:EMF090 T2.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T1.png|30px|link=Photo Camera]] [[File:SpiritBox090 T2.png|30px|link=Spirit Box]] [[File:Thermometer090 T2.png|30px|link=Thermometer]] [[File:UV090 T2.png|30px|link=UV Light]] [[File:WritingBook090 T2.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T2.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T2.png|30px|link=Flashlight]] [[File:VideoCamera090 T1.png|30px|link=Video Camera]] [[File:Tripod090 T1.png|30px|link=Tripod]]
+*<u>Missing:</u> head gear, parabolic microphones
+|[[Point Hope]]
+|-
+|6
+|Frostbitten
+|It's so cold that it's slowing everyone down, including the ghost!
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Sanity Pill restoration: 100%
+*Player speed: 75%
+*Ghost speed: 75%
+*Activity level: Medium
+*Hunt duration: Medium
+*[[Weather]]: Snow
+*Doors starting open: High
+*Fuse box at start of contract: Broken
+*Cursed Possessions: None
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T1.png|30px|link=Head Gear]] [[File:Med090 T3.png|30px|link=Sanity Medication]] [[File:MotionSensor090 T1.png|30px|link=Motion Sensor]] [[File:Parabolic090 T1.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T1.png|30px|link=Sound Recorder]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:Crucifix090 T2.png|30px|link=Crucifix]] [[File:SoundSensor090 T1.png|30px|link=Sound Sensor]] [[File:EMF090 T2.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T1.png|30px|link=Photo Camera]] [[File:SpiritBox090 T2.png|30px|link=Spirit Box]] [[File:Thermometer090 T3.png|30px|link=Thermometer]] [[File:UV090 T2.png|30px|link=UV Light]] [[File:WritingBook090 T2.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T2.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T2.png|30px|link=Flashlight]] [[File:VideoCamera090 T2.png|30px|link=Video Camera]] [[File:Tripod090 T1.png|30px|link=Tripod]]
+*<u>Missing:</u> igniters, firelights, incense
+|[[Camp Woodwind]]
+|-
+|7
+|Do as I Command
+|You'll have to force this ghost to give you evidence, luckily, we've found some extra items to help you out.
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Sanity Pill restoration: 50%
+*Sanity drain speed: 100%
+*Event frequency: Low
+*Grace period: 2 seconds
+*Hunt duration: Low
+*Doors starting open: High
+*Cursed Possessions: All
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T3.png|30px|link=Head Gear]] [[File:Med090 T3.png|30px|link=Sanity Medication]] [[File:Igniter090 T3.png|30px|link=Igniter]] [[File:MotionSensor090 T3.png|30px|link=Motion Sensor]] [[File:FireLight090 T3.png|30px|link=Firelight]] [[File:Parabolic090 T3.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T3.png|30px|link=Sound Recorder]] [[File:Incense090 T3.png|30px|link=Incense]] [[File:Salt090 T3.png|30px|link=Salt]] [[File:Crucifix090 T3.png|30px|link=Crucifix]] [[File:SoundSensor090 T3.png|30px|link=Sound Sensor]] [[File:EMF090 T3.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T3.png|30px|link=Photo Camera]] [[File:SpiritBox090 T3.png|30px|link=Spirit Box]] [[File:Thermometer090 T3.png|30px|link=Thermometer]] [[File:UV090 T3.png|30px|link=UV Light]] [[File:WritingBook090 T3.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T3.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T3.png|30px|link=Flashlight]] [[File:VideoCamera090 T3.png|30px|link=Video Camera]] [[File:Tripod090 T3.png|30px|link=Tripod]]
+|[[Sunny Meadows Mental Institution|Sunny Meadows]]
+|-
+|8
+|Tortoise and the Hare: Hare
+|Give it your all, this ghost is feeling especially frail.
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Player speed: 125%
+*Ghost speed: 50%
+*Doors starting open: High
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T1.png|30px|link=Head Gear]] [[File:Med090 T1.png|30px|link=Sanity Medication]] [[File:Igniter090 T1.png|30px|link=Igniter]] [[File:MotionSensor090 T1.png|30px|link=Motion Sensor]] [[File:FireLight090 T1.png|30px|link=Firelight]] [[File:Parabolic090 T1.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T1.png|30px|link=Sound Recorder]] [[File:Incense090 T1.png|30px|link=Incense]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:Crucifix090 T1.png|30px|link=Crucifix]] [[File:SoundSensor090 T1.png|30px|link=Sound Sensor]] [[File:EMF090 T1.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T1.png|30px|link=Photo Camera]] [[File:SpiritBox090 T1.png|30px|link=Spirit Box]] [[File:Thermometer090 T1.png|30px|link=Thermometer]] [[File:UV090 T2.png|30px|link=UV Light]] [[File:WritingBook090 T1.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T1.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T1.png|30px|link=Flashlight]] [[File:VideoCamera090 T1.png|30px|link=Video Camera]] [[File:Tripod090 T1.png|30px|link=Tripod]]
+|[[Bleasdale Farmhouse]]
+|-
+|9
+|Tortoise and the Hare: Tortoise
+|After last week you're feeling a bit worn out, and to make matters worse, the ghost has recovered!
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Player speed: 75%
+*Ghost speed: 150%
+*Changing favourite room: High
+*Activity level: High
+*Hunt duration: Low
+*Kills extend hunts: High
+*Doors starting open: High
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T2.png|30px|link=Head Gear]] [[File:Med090 T2.png|30px|link=Sanity Medication]] [[File:Igniter090 T2.png|30px|link=Igniter]] [[File:MotionSensor090 T2.png|30px|link=Motion Sensor]] [[File:FireLight090 T2.png|30px|link=Firelight]] [[File:Parabolic090 T2.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T2.png|30px|link=Sound Recorder]] [[File:Incense090 T2.png|30px|link=Incense]] [[File:Salt090 T2.png|30px|link=Salt]] [[File:Crucifix090 T2.png|30px|link=Crucifix]] [[File:SoundSensor090 T2.png|30px|link=Sound Sensor]] [[File:EMF090 T2.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T2.png|30px|link=Photo Camera]] [[File:SpiritBox090 T2.png|30px|link=Spirit Box]] [[File:Thermometer090 T2.png|30px|link=Thermometer]] [[File:UV090 T1.png|30px|link=UV Light]] [[File:WritingBook090 T2.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T2.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T2.png|30px|link=Flashlight]] [[File:VideoCamera090 T2.png|30px|link=Video Camera]] [[File:Tripod090 T2.png|30px|link=Tripod]]
+*<u>Missing:</u> 2 firelights
+|[[Grafton Farmhouse]]
+|-
+|10
+|Gotta Go Fast!
+|No hiding, no sanity, get going!
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Starting sanity: 0%
+*Sanity Pill restoration: 0%
+*Player speed: 125%
+*Ghost speed: 125%
+*Doors starting open: High
+*Number of hiding places: None
+*[[Sanity Monitor|Sanity monitor]]: Off
+*Fuse box at start of contract: Broken
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T1.png|30px|link=Head Gear]] [[File:Med090 T1.png|30px|link=Sanity Medication]] [[File:Igniter090 T1.png|30px|link=Igniter]] [[File:MotionSensor090 T1.png|30px|link=Motion Sensor]] [[File:FireLight090 T1.png|30px|link=Firelight]] [[File:Parabolic090 T1.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T1.png|30px|link=Sound Recorder]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:SoundSensor090 T1.png|30px|link=Sound Sensor]] [[File:EMF090 T1.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T1.png|30px|link=Photo Camera]] [[File:SpiritBox090 T1.png|30px|link=Spirit Box]] [[File:Thermometer090 T1.png|30px|link=Thermometer]] [[File:UV090 T2.png|30px|link=UV Light]] [[File:WritingBook090 T1.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T1.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T1.png|30px|link=Flashlight]] [[File:VideoCamera090 T1.png|30px|link=Video Camera]] [[File:Tripod090 T1.png|30px|link=Tripod]]
+*<u>Missing:</u> 1 sound recorder, incense, crucifixes
+|[[Prison]]
+|-
+|11
+|Sanity Survival
+|Sanity is a scarce resource with no pills or lights. Be careful finding this Nightmare ghost.
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Starting sanity: 75%
+*Sanity Pill restoration: 0%
+*Event frequency: Low
+*Grace period: 2 seconds
+*Kills extend hunts: Low
+*Evidence given: 2
+*Doors starting open: High
+*Sanity monitor: Off
+*Fuse box at start of contract: Broken
+*Cursed Possessions: [[Tarot Cards]] and [[Voodoo Doll]]
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T1.png|30px|link=Head Gear]] [[File:Med090 T1.png|30px|link=Sanity Medication]] [[File:Igniter090 T1.png|30px|link=Igniter]] [[File:MotionSensor090 T1.png|30px|link=Motion Sensor]] [[File:FireLight090 T2.png|30px|link=Firelight]] [[File:Parabolic090 T1.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T2.png|30px|link=Sound Recorder]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:Crucifix090 T1.png|30px|link=Crucifix]] [[File:SoundSensor090 T1.png|30px|link=Sound Sensor]] [[File:EMF090 T1.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T1.png|30px|link=Photo Camera]] [[File:SpiritBox090 T1.png|30px|link=Spirit Box]] [[File:Thermometer090 T1.png|30px|link=Thermometer]] [[File:UV090 T1.png|30px|link=UV Light]] [[File:WritingBook090 T1.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T2.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T2.png|30px|link=Flashlight]] [[File:VideoCamera090 T1.png|30px|link=Video Camera]] [[File:Tripod090 T1.png|30px|link=Tripod]]
+*<u>Missing:</u> 3 sanity medication, incense, 1 crucifix
+|[[10 Ridgeview Court]]
+|-
+|12
+|Speedrun!
+|Maybe you could start a timer, how quickly can you find this ghost's identity?
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Player speed: 150%
+*Roaming frequency: Low
+*Changing favourite room: None
+*Activity level: High
+*Event frequency: High
+*Doors starting open: None
+*Number of hiding places: Low
+*Fuse box at start of contract: On
+*Cursed Possessions: All
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T3.png|30px|link=Head Gear]] [[File:Med090 T3.png|30px|link=Sanity Medication]] [[File:Igniter090 T3.png|30px|link=Igniter]] [[File:MotionSensor090 T3.png|30px|link=Motion Sensor]] [[File:FireLight090 T3.png|30px|link=Firelight]] [[File:Parabolic090 T3.png|30px|link=Parabolic Microphone]] [[File:Incense090 T3.png|30px|link=Incense]] [[File:Salt090 T3.png|30px|link=Salt]] [[File:Crucifix090 T3.png|30px|link=Crucifix]] [[File:SoundSensor090 T3.png|30px|link=Sound Sensor]] [[File:EMF090 T3.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T3.png|30px|link=Photo Camera]] [[File:SpiritBox090 T3.png|30px|link=Spirit Box]] [[File:Thermometer090 T3.png|30px|link=Thermometer]] [[File:UV090 T3.png|30px|link=UV Light]] [[File:WritingBook090 T3.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T3.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T3.png|30px|link=Flashlight]] [[File:VideoCamera090 T3.png|30px|link=Video Camera]] [[File:Tripod090 T3.png|30px|link=Tripod]]
+*<u>Missing:</u> sound recorders
+|[[6 Tanglewood Drive]]
+|-
+|13
+|Survival of the Fittest
+|You've got no pills, no sanity and no evidence to work with. It's gonna be a tough one!
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Starting sanity: 0%
+*Sanity Pill restoration: 0%
+*Roaming frequency: Medium
+*Changing favourite room: None
+*Activity level: High
+*Event frequency: High
+*Grace period: 5 seconds
+*Kills extend hunts: High
+*Evidence given: 0
+*Doors starting open: High
+*Number of hiding places: Very High
+*Fuse box at start of contract: On
+*Cursed Possessions: Monkey Paw
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T1.png|30px|link=Head Gear]] [[File:Med090 T3.png|30px|link=Sanity Medication]] [[File:Igniter090 T2.png|30px|link=Igniter]] [[File:MotionSensor090 T2.png|30px|link=Motion Sensor]] [[File:FireLight090 T1.png|30px|link=Firelight]] [[File:Parabolic090 T2.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T2.png|30px|link=Sound Recorder]] [[File:Incense090 T1.png|30px|link=Incense]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:Crucifix090 T1.png|30px|link=Crucifix]] [[File:SoundSensor090 T1.png|30px|link=Sound Sensor]] [[File:EMF090 T3.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T2.png|30px|link=Photo Camera]] [[File:SpiritBox090 T1.png|30px|link=Spirit Box]] [[File:Flash090 T2.png|30px|link=Flashlight]]
+*<u>Missing:</u> 2 sanity medication, thermometers, UV lights, ghost writing books, D.O.T.S. projectors, video cameras, tripods
+|[[42 Edgefield Road]]
+|-
+|14
+|Primitive
+|I'm afraid all of the electronic equipment has short-circuited, you'll have to make do without.
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Sanity Pill restoration: 40%
+*Sanity drain speed: 100%
+*Roaming frequency: Medium
+*Changing favourite room: None
+*Activity level: High
+*Event frequency: Low
+*Grace period: 5 seconds
+*Hunt duration: Low
+*Setup time: 5 minutes
+*Doors starting open: None
+*Number of hiding places: Very High
+*Fuse box at start of contract: Broken
+*Cursed Possessions: Ouija Board
+----
+<center>'''Equipment'''</center>
+*Available: [[File:Igniter090 T1.png|30px|link=Igniter]] [[File:FireLight090 T2.png|30px|link=Firelight]] [[File:Incense090 T1.png|30px|link=Incense]] [[File:Salt090 T2.png|30px|link=Salt]] [[File:Crucifix090 T1.png|30px|link=Crucifix]] [[File:Thermometer090 T1.png|30px|link=Thermometer]] [[File:UV090 T1.png|30px|link=UV Light]] [[File:WritingBook090 T3.png|30px|link=Ghost Writing Book]]
+*<u>Missing:</u> headgear, sanity medication, motion sensors, parabolic microphones, sound recorders, sound sensors, EMF readers, photo cameras, spirit boxes, D.O.T.S. projectors, flashlights, video cameras, tripods
+|[[10 Ridgeview Court]]
+|-
+|15
+|Vulnerable
+|You'll be going into this one with no defenses, be careful out there.
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Doors starting open: High
+*Number of hiding places: None
+*Cursed Possessions: Voodoo Doll
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T1.png|30px|link=Head Gear]] [[File:Igniter090 T1.png|30px|link=Igniter]] [[File:MotionSensor090 T1.png|30px|link=Motion Sensor]] [[File:FireLight090 T1.png|30px|link=Firelight]] [[File:Parabolic090 T1.png|30px|link=Parabolic Microphone]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:SoundSensor090 T1.png|30px|link=Sound Sensor]] [[File:EMF090 T1.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T1.png|30px|link=Photo Camera]] [[File:SpiritBox090 T1.png|30px|link=Spirit Box]] [[File:Thermometer090 T1.png|30px|link=Thermometer]] [[File:UV090 T2.png|30px|link=UV Light]] [[File:WritingBook090 T1.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T1.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T1.png|30px|link=Flashlight]] [[File:VideoCamera090 T1.png|30px|link=Video Camera]] [[File:Tripod090 T1.png|30px|link=Tripod]]
+*<u>Missing:</u> sanity medication, 2 firelights, sound recorders, incense, crucifixes
+|[[13 Willow Street]]
+|-
+|16
+|Missed delivery
+|We didn't receive our full equipment delivery this week, so you won't have everything you might need!
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Doors starting open: High
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T1.png|30px|link=Head Gear]] [[File:Med090 T1.png|30px|link=Sanity Medication]] [[File:Igniter090 T1.png|30px|link=Igniter]] [[File:MotionSensor090 T1.png|30px|link=Motion Sensor]] [[File:FireLight090 T1.png|30px|link=Firelight]] [[File:Parabolic090 T1.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T1.png|30px|link=Sound Recorder]] [[File:Incense090 T1.png|30px|link=Incense]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:Crucifix090 T1.png|30px|link=Crucifix]] [[File:SoundSensor090 T1.png|30px|link=Sound Sensor]] [[File:EMF090 T1.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T1.png|30px|link=Photo Camera]] [[File:SpiritBox090 T1.png|30px|link=Spirit Box]] [[File:Thermometer090 T1.png|30px|link=Thermometer]] [[File:UV090 T2.png|30px|link=UV Light]] [[File:WritingBook090 T1.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T1.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T1.png|30px|link=Flashlight]] [[File:VideoCamera090 T1.png|30px|link=Video Camera]] [[File:Tripod090 T1.png|30px|link=Tripod]]
+*<u>Missing:</u> all but 1 of every item
+|[[Brownstone High School]]
+|-
+|17
+|Audio only
+|We've managed to get hold of some extra audio equipment. You'll have to use your ears on this one.
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Sanity Pill restoration: 40%
+*Sanity drain speed: 150%
+*Roaming frequency: Medium
+*Changing favourite room: None
+*Event frequency: Low
+*Hunt duration: Low
+*Setup time: 5 minutes
+*Doors starting open: None
+*Number of hiding places: Very High
+*Fuse box at start of contract: On
+*Cursed Possessions: Music Box
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T1.png|30px|link=Head Gear]] [[File:Igniter090 T1.png|30px|link=Igniter]] [[File:MotionSensor090 T2.png|30px|link=Motion Sensor]] [[File:FireLight090 T2.png|30px|link=Firelight]] [[File:Parabolic090 T3.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T2.png|30px|link=Sound Recorder]] [[File:Incense090 T2.png|30px|link=Incense]] [[File:Salt090 T2.png|30px|link=Salt]] [[File:Crucifix090 T2.png|30px|link=Crucifix]] [[File:SoundSensor090 T3.png|30px|link=Sound Sensor]] [[File:EMF090 T2.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T1.png|30px|link=Photo Camera]] [[File:SpiritBox090 T3.png|30px|link=Spirit Box]] [[File:WritingBook090 T2.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T2.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T2.png|30px|link=Flashlight]]
+*<u>Missing:</u> sanity medication, 2 firelights, thermometers, UV lights, video cameras, tripods
+|[[Bleasdale Farmhouse]]
+|-
+|18
+|Technophilia
+|We've thrown out all of those prehistoric items, this contract is all about technology!
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Doors starting open: High
+*Cursed Possessions: Tarot Cards
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T3.png|30px|link=Head Gear]] [[File:Med090 T3.png|30px|link=Sanity Medication]] [[File:MotionSensor090 T3.png|30px|link=Motion Sensor]] [[File:Parabolic090 T3.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T3.png|30px|link=Sound Recorder]] [[File:SoundSensor090 T3.png|30px|link=Sound Sensor]] [[File:EMF090 T3.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T3.png|30px|link=Photo Camera]] [[File:SpiritBox090 T3.png|30px|link=Spirit Box]] [[File:Thermometer090 T3.png|30px|link=Thermometer]] [[File:UV090 T3.png|30px|link=UV Light]] [[File:DOTS090 T3.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T3.png|30px|link=Flashlight]] [[File:VideoCamera090 T3.png|30px|link=Video Camera]] [[File:Tripod090 T3.png|30px|link=Tripod]]
+*<u>Missing:</u> igniters, firelights, incense, salt, crucifixes, ghost writing books
+|[[Bleasdale Farmhouse]]
+|-
+|19
+|No Evidence
+|These ghosts really don't wanna help you out, but we're sure you're up to the task.
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Sanity Pill restoration: 25%
+*Changing favourite room: Medium
+*Event frequency: High
+*Grace period: 2 seconds
+*Kills extend hunts: Low
+*Evidence given: 0
+*Doors starting open: High
+*Number of hiding places: Low
+*Fuse box visible on map: Off
+*Cursed Possessions: [[Haunted Mirror]]
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T1.png|30px|link=Head Gear]] [[File:Med090 T2.png|30px|link=Sanity Medication]] [[File:Igniter090 T2.png|30px|link=Igniter]] [[File:MotionSensor090 T2.png|30px|link=Motion Sensor]] [[File:FireLight090 T2.png|30px|link=Firelight]] [[File:Parabolic090 T1.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T2.png|30px|link=Sound Recorder]] [[File:Incense090 T2.png|30px|link=Incense]] [[File:Salt090 T2.png|30px|link=Salt]] [[File:Crucifix090 T2.png|30px|link=Crucifix]] [[File:SoundSensor090 T2.png|30px|link=Sound Sensor]] [[File:EMF090 T2.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T2.png|30px|link=Photo Camera]] [[File:SpiritBox090 T2.png|30px|link=Spirit Box]] [[File:Thermometer090 T2.png|30px|link=Thermometer]] [[File:UV090 T1.png|30px|link=UV Light]] [[File:WritingBook090 T2.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T2.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T2.png|30px|link=Flashlight]] [[File:VideoCamera090 T2.png|30px|link=Video Camera]] [[File:Tripod090 T2.png|30px|link=Tripod]]
+|[[Grafton Farmhouse]]
+|-
+|20
+|The Apocalypse Draws Near
+|The hardest possible challenge, but with normal investigator speed. Good luck.
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Starting sanity: 0%
+*Sanity Medicaiton restoration: 0%
+*Flashlights: Off
+*Ghost speed: 150%
+*Changing favourite room: High
+*Event frequency: Low
+*Grace period: 0 seconds
+*Kills extend hunts: High
+*Evidence given: 0
+*Weather: Heavy Rain
+*Doors starting open: High
+*Number of hiding places: None
+*Sanity monitor: Off
+*[[Site Activity Monitor|Activity monitor]]: Off
+*Fuse box at start of contract: Broken
+*Cursed Possessions: None
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T3.png|30px|link=Head Gear]] [[File:Med090 T3.png|30px|link=Sanity Medication]] [[File:Igniter090 T3.png|30px|link=Igniter]] [[File:MotionSensor090 T3.png|30px|link=Motion Sensor]] [[File:FireLight090 T3.png|30px|link=Firelight]] [[File:Parabolic090 T3.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T3.png|30px|link=Sound Recorder]] [[File:Incense090 T3.png|30px|link=Incense]] [[File:Salt090 T3.png|30px|link=Salt]] [[File:Crucifix090 T3.png|30px|link=Crucifix]] [[File:SoundSensor090 T3.png|30px|link=Sound Sensor]] [[File:EMF090 T3.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T3.png|30px|link=Photo Camera]] [[File:SpiritBox090 T3.png|30px|link=Spirit Box]] [[File:Thermometer090 T3.png|30px|link=Thermometer]] [[File:UV090 T3.png|30px|link=UV Light]] [[File:WritingBook090 T3.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T3.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T3.png|30px|link=Flashlight]] [[File:VideoCamera090 T3.png|30px|link=Video Camera]] [[File:Tripod090 T3.png|30px|link=Tripod]]
+|[[Sunny Meadows Mental Institution#Sunny Meadows Mental Institution - Restricted|Sunny Meadows Restricted]]
+|-
+|21
+|Slow and Steady
+|This ghost may be slow, but its angry. Keep on your toes!
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Starting sanity: 0%
+*Sanity Pill restoration: 0%
+*Ghost speed: 50%
+*Grace period: 1 second
+*Weather: Heavy Rain
+*Doors starting open: High
+*Number of hiding places: None
+*Cursed Possessions: None
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T1.png|30px|link=Head Gear]] [[File:Med090 T1.png|30px|link=Sanity Medication]] [[File:Igniter090 T1.png|30px|link=Igniter]] [[File:MotionSensor090 T1.png|30px|link=Motion Sensor]] [[File:FireLight090 T1.png|30px|link=Firelight]] [[File:Parabolic090 T1.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T1.png|30px|link=Sound Recorder]] [[File:Incense090 T1.png|30px|link=Incense]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:Crucifix090 T1.png|30px|link=Crucifix]] [[File:SoundSensor090 T1.png|30px|link=Sound Sensor]] [[File:EMF090 T1.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T1.png|30px|link=Photo Camera]] [[File:SpiritBox090 T1.png|30px|link=Spirit Box]] [[File:Thermometer090 T1.png|30px|link=Thermometer]] [[File:UV090 T2.png|30px|link=UV Light]] [[File:WritingBook090 T1.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T1.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T1.png|30px|link=Flashlight]] [[File:VideoCamera090 T1.png|30px|link=Video Camera]] [[File:Tripod090 T1.png|30px|link=Tripod]]
+|[[Camp Woodwind]]
+|-
+|22
+|Paranormal Paparazzi
+|You've got cameras, lights and sound. Find that ghost type!
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Sanity Pill restoration: 35%
+*Sanity drain speed: 150%
+*Roaming frequency: Medium
+*Changing favourite room: None
+*Activity level: Medium
+*Grace period: 4 seconds
+*Hunt duration: Medium
+*Setup time: 2 minutes
+*Doors starting open: Low
+*Number of hiding places: High
+*Cursed Possessions: Monkey Paw
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T2.png|30px|link=Head Gear]] [[File:Igniter090 T3.png|30px|link=Igniter]] [[File:MotionSensor090 T3.png|30px|link=Motion Sensor]] [[File:FireLight090 T3.png|30px|link=Firelight]] [[File:Parabolic090 T2.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T3.png|30px|link=Sound Recorder]] [[File:SoundSensor090 T2.png|30px|link=Sound Sensor]] [[File:PhotoCamera090 T3.png|30px|link=Photo Camera]] [[File:SpiritBox090 T2.png|30px|link=Spirit Box]] [[File:UV090 T3.png|30px|link=UV Light]] [[File:WritingBook090 T1.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T1.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T3.png|30px|link=Flashlight]] [[File:VideoCamera090 T3.png|30px|link=Video Camera]] [[File:Tripod090 T3.png|30px|link=Tripod]]
+*<u>Missing:</u> sanity medication, incense, salt, crucifixes, EMF readers, thermometers
+|[[Point Hope]]
+|-
+|23
+|Hide and seek: Extreme
+|This ghost wants to play a game, you better hide.
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Starting sanity: 0%
+*Sanity Pill restoration: 0%
+*Sanity drain speed: 100%
+*Flashlights: Off
+*Ghost speed: 150%
+*Roaming frequency: Low
+*Changing favourite room: High
+*Activity level: Medium
+*Event frequency: Low
+*Grace period: 5 seconds
+*Kills extend hunts: High
+*Setup time: 1 minute
+*Doors starting open: High
+*Number of hiding places: Low
+*Fuse box at start of contract: On
+*Cursed Possessions: Monkey Paw
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T1.png|30px|link=Head Gear]] [[File:Igniter090 T1.png|30px|link=Igniter]] [[File:MotionSensor090 T1.png|30px|link=Motion Sensor]] [[File:FireLight090 T1.png|30px|link=Firelight]] [[File:Parabolic090 T1.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T1.png|30px|link=Sound Recorder]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:Crucifix090 T2.png|30px|link=Crucifix]] [[File:SoundSensor090 T1.png|30px|link=Sound Sensor]] [[File:EMF090 T2.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T2.png|30px|link=Photo Camera]] [[File:SpiritBox090 T2.png|30px|link=Spirit Box]] [[File:Thermometer090 T2.png|30px|link=Thermometer]] [[File:WritingBook090 T1.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T2.png|30px|link=D.O.T.S. Projector]] [[File:VideoCamera090 T1.png|30px|link=Video Camera]] [[File:Tripod090 T2.png|30px|link=Tripod]]
+*<u>Missing:</u> sanity medication, incense, UV lights, flashlights
+|[[Camp Woodwind]]
+|-
+|24
+|Glow in the Dark
+|Some of our equipment has stopped working, hopefully this'll be enough for you to see.
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Doors starting open: High
+*Fuse box at start of contract: Broken
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T1.png|30px|link=Head Gear]] [[File:Med090 T1.png|30px|link=Sanity Medication]] [[File:Igniter090 T1.png|30px|link=Igniter]] [[File:Parabolic090 T1.png|30px|link=Parabolic Microphone]] [[File:Incense090 T1.png|30px|link=Incense]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:Crucifix090 T1.png|30px|link=Crucifix]] [[File:SoundSensor090 T1.png|30px|link=Sound Sensor]] [[File:EMF090 T1.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T1.png|30px|link=Photo Camera]] [[File:SpiritBox090 T1.png|30px|link=Spirit Box]] [[File:Thermometer090 T1.png|30px|link=Thermometer]] [[File:UV090 T1.png|30px|link=UV Light]] [[File:WritingBook090 T1.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T1.png|30px|link=D.O.T.S. Projector]]
+*<u>Missing:</u> motion sensors, firelights, sound recorders, flashlights, video cameras, tripods
+|[[42 Edgefield Road]]
+|-
+|25
+|Deja Vu
+|This one feels pretty nostalgic, don't you think?
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Sprinting: Off
+*Ghost speed: 75%
+*Roaming frequency: Medium
+*Changing favourite room: None
+*Grace period: 4 seconds
+*Weather: Light Rain
+*Doors starting open: None
+*Number of hiding places: None
+*Fuse box visible on map: Off
+*Cursed Possessions: Ouija Board
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T1.png|30px|link=Head Gear]] [[File:Med090 T2.png|30px|link=Sanity Medication]] [[File:Igniter090 T2.png|30px|link=Igniter]] [[File:MotionSensor090 T1.png|30px|link=Motion Sensor]] [[File:FireLight090 T1.png|30px|link=Firelight]] [[File:Parabolic090 T1.png|30px|link=Parabolic Microphone]] [[File:Incense090 T2.png|30px|link=Incense]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:Crucifix090 T2.png|30px|link=Crucifix]] [[File:SoundSensor090 T1.png|30px|link=Sound Sensor]] [[File:EMF090 T2.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T2.png|30px|link=Photo Camera]] [[File:SpiritBox090 T2.png|30px|link=Spirit Box]] [[File:Thermometer090 T2.png|30px|link=Thermometer]] [[File:UV090 T2.png|30px|link=UV Light]] [[File:UV090 T1.png|30px|link=UV Light]]  [[File:WritingBook090 T2.png|30px|link=Ghost Writing Book]] [[File:Flash090 T1.png|30px|link=Flashlight]] [[File:VideoCamera090 T1.png|30px|link=Video Camera]] [[File:Tripod090 T1.png|30px|link=Tripod]]
+*<u>Missing:</u> 2 igniters, sound recorders, 1 salt, D.O.T.S. projectors
+|[[6 Tanglewood Drive]]
+|-
+|26
+|Tag! You're it!
+|This ghost will chase you immediately, better get running!
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Starting sanity: 0%
+*Sanity Pill restoration: 0%
+*Player speed: 150%
+*Grace period: 1 second
+*Doors starting open: High
+*Cursed Possessions: None
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T1.png|30px|link=Head Gear]] [[File:Med090 T1.png|30px|link=Sanity Medication]] [[File:Igniter090 T1.png|30px|link=Igniter]] [[File:MotionSensor090 T1.png|30px|link=Motion Sensor]] [[File:FireLight090 T1.png|30px|link=Firelight]] [[File:Parabolic090 T1.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T1.png|30px|link=Sound Recorder]] [[File:Incense090 T1.png|30px|link=Incense]] [[File:Salt090 T1.png|30px|link=Salt]] [[File:Crucifix090 T1.png|30px|link=Crucifix]] [[File:SoundSensor090 T1.png|30px|link=Sound Sensor]] [[File:EMF090 T1.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T1.png|30px|link=Photo Camera]] [[File:SpiritBox090 T1.png|30px|link=Spirit Box]] [[File:Thermometer090 T1.png|30px|link=Thermometer]] [[File:UV090 T2.png|30px|link=UV Light]] [[File:WritingBook090 T1.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T1.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T1.png|30px|link=Flashlight]] [[File:VideoCamera090 T1.png|30px|link=Video Camera]] [[File:Tripod090 T1.png|30px|link=Tripod]]
+|[[Brownstone High School]]
+|}
+</table-progress-tracking>
+
+==Special Challenges==
+On special occasions, special challenges may replace the current week's standard challenge.
+<table-progress-tracking table-id="2" unique-column-index="1">
+{| class="fandom-table" 
+!Challenge
+!Description
+!Details and differences from Professional difficulty
+!Map
+!Event dates
+|-
+|On Record
+|Try out the media overhaul in this new challenge, can you get a perfect game?
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Roaming frequency: Medium
+*Event frequency: High
+*Hunt duration: Medium
+*Fingerprint duration: 3 minutes
+*Setup time: 1 minute
+*Weather: Fog
+*Fuse box at start of contract: On
+*Cursed Possessions: Music Box
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T2.png|30px|link=Head Gear]] [[File:Med090 T2.png|30px|link=Sanity Medication]] [[File:Igniter090 T2.png|30px|link=Igniter]] [[File:MotionSensor090 T2.png|30px|link=Motion Sensor]] [[File:FireLight090 T1.png|30px|link=Firelight]] [[File:SoundRecorder T2.png|30px|link=Sound Recorder]] [[File:Incense090 T2.png|30px|link=Incense]] [[File:Salt090 T2.png|30px|link=Salt]] [[File:Crucifix090 T2.png|30px|link=Crucifix]] [[File:EMF090 T2.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T2.png|30px|link=Photo Camera]] [[File:SpiritBox090 T2.png|30px|link=Spirit Box]] [[File:Thermometer090 T2.png|30px|link=Thermometer]] [[File:UV090 T1.png|30px|link=UV Light]] [[File:WritingBook090 T2.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T2.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T2.png|30px|link=Flashlight]] [[File:VideoCamera090 T1.png|30px|link=Video Camera]] [[File:Tripod090 T1.png|30px|link=Tripod]]
+*<u>Missing:</u> parabolic microphones, sound sensors, 1 photo camera
+|[[Bleasdale Farmhouse]]
+|24 June 2025 - 1 July 2025
+|-
+|Open For Business
+|A storm is brewing outside the Diner... But is it really safer inside?
+|<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide"><br>
+<center>'''Parameters'''</center>
+*Weather: Windy
+*Doors starting open: High
+----
+<center>'''Equipment'''</center>
+*Available: [[File:HeadGear090 T3.png|30px|link=Head Gear]] [[File:Med090 T3.png|30px|link=Sanity Medication]] [[File:Igniter090 T3.png|30px|link=Igniter]] [[File:MotionSensor090 T3.png|30px|link=Motion Sensor]] [[File:FireLight090 T3.png|30px|link=Firelight]] [[File:Parabolic090 T3.png|30px|link=Parabolic Microphone]] [[File:SoundRecorder T3.png|30px|link=Sound Recorder]] [[File:Incense090 T3.png|30px|link=Incense]] [[File:Salt090 T3.png|30px|link=Salt]] [[File:Crucifix090 T3.png|30px|link=Crucifix]] [[File:SoundSensor090 T3.png|30px|link=Sound Sensor]] [[File:EMF090 T3.png|30px|link=EMF Reader]] [[File:PhotoCamera090 T3.png|30px|link=Photo Camera]] [[File:SpiritBox090 T3.png|30px|link=Spirit Box]] [[File:Thermometer090 T3.png|30px|link=Thermometer]] [[File:UV090 T3.png|30px|link=UV Light]] [[File:WritingBook090 T3.png|30px|link=Ghost Writing Book]] [[File:DOTS090 T3.png|30px|link=D.O.T.S. Projector]] [[File:Flash090 T3.png|30px|link=Flashlight]] [[File:VideoCamera090 T3.png|30px|link=Video Camera]] [[File:Tripod090 T3.png|30px|link=Tripod]]
+|[[Nell's Diner]]
+|11 November 2025 - 16 November 2025
+|}
+</table-progress-tracking>
+
+[[Category:Gameplay]]
+[[fr:Mode Défi]]
+[[ru:Особый режим]]

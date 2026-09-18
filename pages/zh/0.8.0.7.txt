@@ -1,0 +1,22 @@
+# 0.8.0.7
+# revid 2720  2023-01-15T08:31:12Z  by Skaijie
+# sha256 4a0effcca0a6410b4c81824d5195ee4da08224e943ddd8c3f24aa842271434a1  bytes 484
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+ | release_date=2023年1月10日
+ | previous_major_version=[[0.8.0]]
+ | previous_minor_version=[[0.8.0.6]]
+ | next_minor_version=[[0.8.0.8]]
+}}
+'''0.8.0.7'''是发布于2023年1月10日的小型热修复更新。本次更新移除了圣诞节事件。
+
+== 改动 ==
+* 移除节日事件和装饰物
+* 减少大厅收藏柜灯光亮度
+
+== 修复漏洞 ==
+* 鬼现在可以穿过精神病院的庭院门
+
+== 参考资料==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

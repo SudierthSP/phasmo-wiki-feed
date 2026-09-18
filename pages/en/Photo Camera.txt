@@ -1,0 +1,106 @@
+# Photo Camera
+# revid 24480  2026-08-25T17:31:00Z  by Darkhooper
+# 备注: 0.19
+# sha256 b0167dfe7d410d435a1e3895f67923c04622c2877e20e2814cbc06ee8e19cc30  bytes 6708
+# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+ | tier i img=PhotoCamera090_T1.png
+ | tier ii img=PhotoCamera090_T2.png
+ | tier iii img=PhotoCamera090_T3.png
+
+ | price=$40
+ | maxamount=3
+ | uses=
+ | starter=No
+ | tier i level=2
+ | tier ii level=23
+ | tier iii level=55
+
+ | tier i description=An old Polteroid camera, a bit dusty and scratched. You’ll have to wait for the photo to print before taking another one.
+ | tier i purpose=You can use this camera to take photos of any evidence you may find. It will only interfere with the ghost during the photo taking process, so be careful when you decide to snap a picture.<br>For more information on how to take photos check the ‘Photos’ section in you Journal.
+ | tier i ability=<span style="color: #008000;">Time Between Photos: 3</span>
+ | tier ii description=The Bony GhostShot is a compact, easy-to-use digital camera perfect for those panicked ghost photos in the dark.
+ | tier ii purpose=With this digital photo camera, you can snap pictures of evidence and paranormal entities much faster than the previous Tier.
+ | tier ii ability=<span style="color: #008000;">Paranormal Resistance: Medium<br>Time Between Photos: 2<br>Display Screen</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier iii description=One of Bony’s best SLR cameras, complete with a wider lens, higher image quality and quick processing power.
+ | tier iii purpose=This top-of-the-range camera provides the lowest delay time between photos, allowing quick evidence gathering.<br>Additionally, it’s been modified to be less susceptible to paranormal entities causing interference with the screen during manifestations.
+ | tier iii ability=<span style="color: #008000;">Paranormal Resistance: High<br>Time Between Photos: 1<br>Display Screen</span><br><span style="color: #ff0000;">Electronic</span>
+}}
+The '''photo camera''' is a piece of [[equipment]] in ''Phasmophobia''. It is a digital camera that can be used to take pictures of objects in-game.  While it is not used for gathering [[evidence]], its main use is to gather [[Media#Photo evidence|photo evidence]], as well as being necessary for certain [[objectives]] and [[Daily and Weekly Tasks|tasks]].
+
+==Usage==
+[[File:Photocamera_active.png|right|300px|thumb|A held active tier II photo camera.]]
+The photo camera automatically turns on while held outside the truck. When a valid subject is in the camera's frame within 3.5 metres, or within 8 metres for the [[ghost]], the Tier I's red light indicator will turn green while a highlight frame will show on the Tiers II and III's screen, indicating that said subject can be taken in photo. If a subject is considered as a Duplicate, the Tier I's red light indicator will turn yellow and the Tier II and III's highlight frame's text will be faded.
+
+Upon taking a picture, the flash will go off, and a photo preview will show up on the camera for Tier II and III cameras. Any pictures taken of a reflective surface will show the lens flash in the picture, such as a television, or the axe that one of the possible [[Ghost Model|ghost models]] wields. The cooldown between photos depends on the Tier of the photo camera (3 seconds for Tier I, 2 seconds for Tier II, and 1 second for Tier III).
+
+Each photo camera can take an unlimited number of photos, but only the 5 pictures recorded in the [[journal]] will count towards earning rewards and completing objectives.
+
+When a ghost manifests during a [[ghost event]] or a [[hunt]], the photo camera's display will be distorted, as well as any pictures taken. Pictures taken in this state will still be labeled in the [[journal]] if a valid subject is detected.
+
+Holding a Tier II or III photo camera within 7.5 metres of a ghost (2.5 metres for the [[Yokai]]) during a hunt on the same floor will attract the ghost. The Tier I photo camera will only attract the ghost when a picture is taken.
+
+===Rewards===
+{{Main|Media}}
+The first 5 labeled pictures recorded in the journal will reward the player with [[money]] and [[experience]]. Like other media evidence, the value of photos is determined by its ''Unique'' or ''Duplicate'' tag. While the first photo of a subject will grant full reward, additional photos of the same subject taken during the same contract will provide only 20% of the normal reward.
+
+If there are no available slots for photos inside the journal (which can hold 5 photos for the whole team), any further shots will not net any gains.
+
+If a shot is missed or judged unsatisfactory, players have the option to delete up to three pieces of media from the journal. In multiplayer, a majority vote from the players is required to delete a photo, signaled by a red icon on the ''Media'' tab of the Journal.
+
+==Objectives==
+{{Main|Objectives}}
+{| class="fandom-table"
+!Objective
+!Actual requirements
+|-
+| Capture a photo of the ghost
+| A photo of the ghost is taken with a [[Photo Camera]] when it manifests
+|-
+| Capture 3 unique photos with a Photo Camera
+| Three [[Media#Photo evidence|photos]] with a Unique stamp are captured
+|-
+| Capture a Photo of any successful reading on an EMF Reader
+| Capture a photo of the EMF Reader while it is at level 2 or higher
+|}
+
+==Gallery==
+<div class="mw-collapsible-content"><gallery widths="185">
+Journal photo 0.5.1.0.png|Photos of various objects in the journal.
+</gallery></div>
+
+==Trivia==
+*Captured photos are intentionally not synced over with other players, and are instead taken and rendered individually on each client to improve performance. This can cause confusion, as this often leads to the  photo angle being different and causing objects to be in frame for one person but not so for another.
+*The real-life camera models for each tier are:
+**'''Tier I''': Polaroid OneStep 600 Flash (Polaroid "rebranded" as Polteroid)
+**'''Tier II''': Sony W800 compact camera (Sony "rebranded" as Bony)
+**'''Tier III''': Sony a7RV mirrorless camera body + Sony SEL2470GM2 lens (Sony "rebranded" as Bony)
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.3.0]]
+|Changed the photo camera model.
+|-
+![[0.6.0]]
+|Reduced the cooldown between taking pictures from 3 seconds to 1 second.
+|-
+! rowspan="3" |[[0.9.0]]
+|The Photo Camera now has 3 tiers.
+|-
+|The photo camera is no longer starter equipment. It unlocks at level 3.
+|-
+|Removed the 5-photo limit on photo cameras.
+|-
+![[0.18.0]]
+|Photo Cameras will now feature the same highlight frame as Video Cameras.
+*''On screen indicator only on Tier 2 and 3 Photo Cameras, while Tier 1 will have the light change colour from red to green.''
+|-
+![[0.19.0]]
+|Photo Cameras will now indicate Duplicate evidence.
+|}<br>
+
+{{EquipmentNav}}
+[[Category:Equipment]]
+[[fr:Appareil photo]]
+[[ru:Фотокамера]]

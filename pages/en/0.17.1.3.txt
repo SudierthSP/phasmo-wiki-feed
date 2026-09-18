@@ -1,0 +1,21 @@
+# 0.17.1.3
+# revid 24127  2026-07-20T11:32:01Z  by Darkhooper
+# 备注: next major version
+# sha256 8a18402c434aea7f3e8ad289fa9e03f02ec5faaef012691abc1bb2e23b17f6c8  bytes 577
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| release_date=19 May 2026
+| previous_major_version=[[0.17.0]]
+| previous_minor_version=[[0.17.1.2]]
+| next_minor_version=[[0.17.1.4]]
+| next_major_version=[[0.18.0]]
+}}'''0.17.1.3''' is a minor hotfix released on 19 May 2026.<ref>[https://www.kineticgames.co.uk/news/phasmophobia-hotfix-v01713 ''Phasmophobia - Hotfix v0.17.1.3''. 19 May 2026.]</ref> It fixes a crash.
+
+==Fixes==
+*Fixed an issue that was causing a crash for players loading in to event maps.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.17.1.3]]
+[[ru:0.17.1.3]]

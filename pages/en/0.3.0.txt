@@ -1,0 +1,136 @@
+# 0.3.0
+# revid 23927  2026-06-28T21:39:00Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 e35dc0e48b3932633c39d153d123773834deecc5147f2d1ce391f46d67f346db  bytes 5227
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  |image1=exposition_update_poster.png| official_name=Exposition
+  | release_date=August 26th, 2021
+  | previous_major_version=[[0.29.6]]
+  | previous_minor_version=[[0.2.11.0]]
+  | next_major_version=[[0.4.0]]
+  | next_minor_version=[[0.3.0.1]]
+}}The '''0.3.0''' update, also known as the '''Exposition''' update, is a content update to the game released on 26 August 2021.<ref>https://store.steampowered.com/news/app/739630/view/2942526618669653298</ref> This update adds a new type of evidence which can be seen through the new [[D.O.T.S. Projector]], new hunt mechanics, as well as an update of nearly all equipment models.
+
+== Additions ==
+=== Items ===
+; [[D.O.T.S. Projector]]
+* Serves as new type of evidence
+* Emits a matrix of bright green laser points around it
+* Shows a silhouette of the ghost running through the laser matrix if the ghost interacts with it
+* Can be mounted on the wall or the floor
+
+=== Ghosts ===
+{{main|Ghost}}
+; [[Goryo]]
+* When interacting with a [[D.O.T.S. Projector]], will only be visible on a video camera and when no other people are nearby
+* Roams less than other ghosts
+* Requires EMF 5, Fingerprints and D.O.T.S. Projector as evidence
+
+; [[Myling]]
+* Makes quieter hunting sounds
+* Makes paranormal sounds more frequently
+* Requires EMF 5, Fingerprints and Ghost Writing as evidence
+
+=== Gameplay ===
+; Paranormal sounds
+* Indecipherable whispers of the ghost
+* Can only be heard by using the [[Parabolic Microphone]]
+
+=== General ===
+* New Head bob option
+* New post processing effects for [[Video Feed|CCTV]] and players
+
+== Changes ==
+=== Hunts ===
+{{main|Hunt}}
+* Hunting grace period has been shortened from 5 seconds to 3 seconds
+* The ghost is now invisible during the hunting grace period
+* Ghosts now have a higher acceleration rate
+* All electronic equipments are now affected by hunts
+* Active electronic equipment held in hand within 8 meters of the ghost now alert it of your position during a hunt
+* Equipment and lights will only be affected within 10 meters of the ghost during a hunt
+
+=== Ghosts ===
+{{main|Ghost}}
+; General
+* All ghost types have their evidences changed
+* Groaning sound effect has been changed
+* The lullaby sound effect has been changed
+* Footsteps when walking can now only be heard via a [[Parabolic Microphone]]
+
+; [[Phantom]]
+* If a photo of it is taken while it is visible, it will now show up on the photo
+
+=== Equipment ===
+{{main|Equipment}}
+;General
+* Updated visuals for most equipment
+
+;[[Candle]]s and [[Smudge Sticks]]
+*New visual effects when used
+
+;[[Ghost Writing Book]]
+* Now has an animation and sound effect when used by the ghost
+
+;[[Glowstick]]s
+* Now glow for 30s before fading over the next 30s
+
+;[[Motion Sensor]]
+* Features from the infrared light sensor have been merged into the motion sensor
+
+;[[Parabolic Microphone]]
+* Can now hear paranormal sounds
+
+;[[Photo Camera]] and [[Video Camera]]
+*Now provide footage when the player is holding it
+
+;[[Salt]]
+* Now has an animation when the ghost steps in it
+
+;[[Spirit Box]]
+* New audial responses from the ghost
+* New icons to replace the text-based indicator for responses
+
+=== Gameplay ===
+; Sprinting
+* Sprinting is now twice as fast
+* Player may sprint for 3 seconds with a 5 second recharge
+* Walking speed has been increased to the old sprinting speed
+
+===General===
+* Lighting has been improved on every map
+* New "placement helper object" visuals
+
+== Removed features ==
+;[[Infrared Light Sensor]]
+* Features merged into motion sensor
+
+== Bug Fixes ==
+=== From versions released before 0.3.0 ===
+* "Show us" phrase no longer makes the ghost interact twice
+* Fixed a bug where you could mute the Spirit Box static by picking it up with a different object in your hand
+* Fixed a bug where ghost events would only lower host’s sanity
+* Fixed a bug where the ghost window knocks were not giving interaction evidence on most windows
+* Fixed a bug where you could get the ghost to interact with objects with voice recognition in quick succession
+* Fixed a common multiplayer crash for the host on Asylum in multiplayer
+* Fixed a bug where you could force the ghost to end the hunt using voice recognition
+* Fixed a bug where you could get the ghost to interact with objects when you were dead with voice recognition
+* Fixed a bug where you wouldn't always get a small map on the map selection screen
+* Fixed a bug where the sensors couldn't be placed in certain doorways
+* Fixed a bug where picking up sensors too quickly would keep them turned on in your hand.
+* Fixed occlusion culling issues on several levels
+* Fixed a bug where Danish and Finnish were in the wrong order in the language selection
+* Fixed a bug where certain ghost's animations would only play if you are the host
+* Fixed a bug where equipment sounds were broken when being held by a female character
+
+=== From 0.3.0 (as fixed in hotfix) ===
+* Fixed a bug where you could click on the ghost writing book to activate it
+* Fixed a bug where Hungarian and Danish languages were swapped in the settings
+* Fixed an issue where the celcius text didn't change to fahrenheit on the Thermometer
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.3.0]]
+[[ru:0.3.0]]

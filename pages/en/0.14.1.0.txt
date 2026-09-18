@@ -1,0 +1,27 @@
+# 0.14.1.0
+# revid 23898  2026-06-28T21:36:54Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 8031437223644097effc44eb301affb6f7d147cc42af1936b94d878dd441927c  bytes 1451
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+| release_date=15 September 2025
+| previous_major_version=[[0.14.0]]
+| previous_minor_version=[[0.14.0.1]]
+| next_minor_version=[[0.14.2.0]]
+| next_major_version=[[0.15.0]]
+}}'''0.14.1.0''' is a minor update released on 15 September 2025.<ref>[https://store.steampowered.com/news/app/739630/view/598537636801413883 ''Phasmophobia 5th Anniversary v.0.14.1.0''. 15 September 2025 (on Steam).]</ref> It adds the 5th Anniversary celebration.
+
+==Additions==
+*'''5th Anniversary Celebration:''' To mark Phasmophobia’s 5th anniversary, the main lobby has been adorned with all manner of birthday decor.
+*'''Anniversary Bonus:''' Between 15th September and 21st September, all players will earn '''double XP and money''' from all activities! This will appear as a '''“5th Anniversary - x2”''' modifier in the Debriefing screen.
+*'''Anniversary Login Reward:''' Log in during the anniversary week to receive an exclusive '''anniversary-themed badge'''—a thank you for being part of 5 years of Phasmophobia.
+
+==Changes==
+*The Twitch Drops pop-up now displays the username of the connected Twitch account, making it easier to confirm the player’s account is linked correctly.
+*Added a '''Disconnect''' button to the Twitch Drops pop-up, allowing the player to unlink their Twitch account directly from the popup for added convenience.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.14.1.0]]
+[[ru:0.14.1.0]]

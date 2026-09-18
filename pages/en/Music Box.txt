@@ -1,0 +1,97 @@
+# Music Box
+# revid 22940  2026-03-14T23:44:14Z  by Darkhooper
+# sha256 d346bb4c8c58d6b0e7aee47b51e37586b725534557eb1290229e76202c26dc4d  bytes 7930
+# 源: https://phasmophobia.fandom.com/api.php{{Item_Template
+ |img=Music box display.jpg
+ |imgcaption=
+ |maxamount=1
+ |uses=1
+ |description=
+}}{{Quote|speaker=Objective Board|quote=A music box, the song is nice, but creepy.}}
+The '''music box''' is a [[Cursed Possession|cursed possession]] that can be used to pinpoint the location of the [[ghost]], though one is at considerable risk if one is careless with it.
+
+==Mechanics==
+[[File:Music box activation.gif|200px|thumb|right|The ghost appears when a music box is played nearby.]]
+A music box has a 1 in 7 chance per contract of being chosen as the cursed possession that will spawn, with one specific spawn location per map. 
+
+===Activation and usage===
+When picked up, the music box will open (this does not mean it has been activated). The music box can then be activated using the {{Control|Primary Use}} key. Doing so will end the [[setup phase]] early if it is ongoing. The music box cannot be activated during a [[hunt]], and can only be used once. 
+
+Once activated, if the ghost is within 20 metres of the music box, it will sing along, broadcasting its current location while remaining invisible.
+
+If the music box is within 5 metres of the ghost, it will trigger a [[ghost event]] where the ghost manifests and begins to walk towards the box. The music box can be handheld or {{Control|placed}} on the floor, the latter being the only safe way to discard the box without triggering a cursed hunt before the ghost event. In all cases, the box will close once it stops playing.
+
+===Cursed hunt===
+While using the music box, a [[Hunt#Cursed_hunt|cursed hunt]] will be initiated if one of the following occurs:
+*The ghost's head<ref group="note">Each ghost model has the same "head" height, meaning the head of a crawling model is located where it would be if the ghost was standing.</ref> is within 1 metre of the box
+*The ghost walks during the box-triggered ghost event for more than 5 seconds
+*The box is thrown while the tune is playing
+*The player reaches or is already at 0% [[sanity]]
+
+By avoiding all of the above, it is possible to use the music box without causing any hunt:
+*Ensuring that no one is inside the investigation area when the above occurs (future hunts will be extended if the breaking method would have caused a cursed hunt)
+*When the music ends without the ghost ever being near enough, the music box will automatically close
+*If the player brings the music box near the ghost only just before the music stops playing, the ghost will simply disappear when the music ends.
+Note that while the music box is playing, the ghost can still initiate a hunt on its own due to meeting normal hunt conditions rather than the box itself; this results in a standard hunt instead of a cursed hunt.
+
+===Other effects===
+Being within 3 metres of an actively functioning music box drains the player's sanity at a rate of 2.6%/s, totalling 77% if the entire song is listened to. This applies to all players within the range, regardless of who activated the music box.
+
+As long as the box-triggered ghost event has not occurred, an active music box will not prevent regular ghost activity, which means that the ghost can continue to roam, interact with objects, use its abilities, or even perform regular ghost events and hunts. While the ghost will not actively walk towards the music box if it is out of range, it can happen to roam close enough to trigger the ghost event.
+
+If the music box is brought outside, the box will close. If the music is also playing, the sanity drain will pause, but the music will technically continue. It will reopen and function normally once the music box is brought inside again.
+
+===Ghosts===
+*The [[Shade]] has a chance of appearing as a black shadow rather than in its full form while walking towards the box.
+*For the [[Yokai]], the cursed hunt initiated from the ghost reaching the box triggers if its head is within 0.5 metres of the box instead of 1 metre.
+
+===Rewards===
+{{Main|Media}}
+Taking a photo of a music box, used or not, will yield a photo labelled as '''Music Box'''. Recording the sound of the box while it is active will yield a sound labelled as '''Music Box'''. Each of these pieces of media can reward up to $7 and 7 XP, depending on the equipment tier and whether there is a Unique stamp.
+
+==Strategies and tips==
+The music box can be broken down into two primary uses: 1) utilize the triggered ghost event and following hunt to complete relevant [[objectives]] and/or to identify the ghost type, or 2) get the ghost to broadcast its current position to narrow down and locate its [[Ghost Room|favourite room]].
+
+The music box is an easy way to obtain a ghost photo/video, but beware that switching to another item while holding the music box will automatically throw it and immediately cause a hunt; it should be placed down before switching. In multiplayer games, one way is to have the player who records media carry the smudge stick while another player activates the music box. The player holding the music box should refill their sanity to a comfortable level to avoid a 0% sanity-triggered hunt.
+
+If the player wants to trigger a hunt, it is advised to do so by throwing the box while at a safe location rather than walking to the ghost to trigger the event and subsequent hunt, as the latter method puts the player in close proximity to the ghost when it begins hunting which is quite dangerous and can lead to death especially against ghosts such as a [[Revenant]].
+
+On smaller maps such as the suburban houses, it can be quite difficult to avoid getting too close and triggering the event and subsequent cursed hunt especially if the player is not sure where the ghost is, so caution should be advised when using it, and the player should also take some precautions in case this happens:
+*Carrying along a tier III [[Crucifix]] can come in handy to prevent the cursed hunt entirely; if the ghost event is triggered, quickly place down the box and swap to the Crucifix, which will block the hunt when the event ends.
+*Bringing [[Incense]], tier III [[Salt]] and tier III [[Sanity Medication]] can all help with escaping the ghost as with all hunts.
+*If the event does trigger, immediately place down the box and run away from the ghost to put some distance between the player and the ghost before the cursed hunt begins.
+
+Players should be especially careful when using a Music Box if the ghost is a [[Wraith]], as it can teleport to the player holding the box, and instantly start a cursed hunt at their location, leading to an almost-guaranteed death.
+
+==Gallery==
+<gallery>
+File:Music Box.png|Music box in the lobby showcase
+File:Musicbox woodwind.jpg|Music box in [[Camp Woodwind]]
+File:Musicbox ridgeview girlsbedroom.png|Music box in [[10 Ridgeview Court]]
+File:Musicbox edgefield livingroom.png|Music box in [[42 Edgefield Road]]
+File:Bleasdale-Music Box.jpg|Music box in [[Bleasdale Farmhouse]]
+File:Willow-MusicBox.jpg|Music box in [[13 Willow Street]]
+</gallery>
+
+==Trivia==
+[[File:Adrift.ogg|thumb|The tune the music box plays.|131x131px]]
+*When players interact with a piano's keyboard, it will play 1-2 notes from the Music Box's song, with the whole song playing when repeatedly interacting with the piano.
+*The tune of the music box was composed by Lavender, one of the game's developers, and is titled "Adrift".
+**The name and sheet music for the song can be seen inside the Music Box's top lid and above [[Bleasdale Farmhouse]]'s piano.
+**A full piano version is [https://open.spotify.com/track/39iFkGlITMtnxSUcobXQSa available on Spotify].
+*The Music Box is available as official merchandise on [https://themusicbox.store/products/phasmophobia-music-box The Music Box Store].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.5.0]]
+|Added the music box.
+|}
+
+==Notes==
+{{Reflist|group="note"}}
+{{EquipmentNav}}
+[[Category:Item]]
+[[fr:Boîte à musique]]
+[[ru:Музыкальная шкатулка]]

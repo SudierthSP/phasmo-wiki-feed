@@ -1,0 +1,172 @@
+# 10 Ridgeview Court
+# revid 24883  2026-09-18T16:46:03Z  by Darkhooper
+# 备注: changed page layout
+# sha256 9e98c8249395f84e316c8fcba2de5d2aaaf1035ef1a7871781cdc75230813176  bytes 6203
+# 源: https://phasmophobia.fandom.com/api.php{{Location
+|img=Ridgeview living room.png
+|imgcaption=A view from the living room.
+|mapsize=Small
+|unlocklevel=2
+|floors=3
+|rooms=16 (Total)
+*2F: 6
+*1F: 9
+*B: 1
+|exits=1
+|faucets=5
+|videofeeds=1
+|keys=Front Door Key, Car Key
+|img rooms=Rooms Ridgeview.png
+|img sanity=Sanity Ridgeview.png
+|img temperatures=Temperatures Ridgeview.png
+}}
+{{Quote
+|quote=This building has a real history of death. Who sold the building to claim its next victims?
+|speaker=Loading blurb
+}}'''10 Ridgeview Court''' (or simply '''Ridgeview''') is a small [[map]] in ''Phasmophobia''. A two-story, four-bedroom house with a garage and basement, Ridgeview presents a spacious living area, giving way to more congested linear hallways. However, the presence of closets and multiple sub-rooms to dive into provides plenty of safety during a [[hunt]].
+
+==Structure==
+Ridgeview has four bedrooms, four toilets, a garage and a basement, among other rooms.
+
+===Layout tips===
+*The "Master Bedroom" consists of the bedroom itself, the attached bathroom, and the closet that can be accessed through said bathroom.
+*The small hallway leading to "Master Bedroom" is considered part of "Kitchen".
+*The Upstairs Hallway includes both the main hallway that turns a corner and leads to "Boys Bedroom" and "Bathroom" and the straight hallway partially separated by a wall that leads to "Teen Boys Bedroom", "Girls Bedroom", and "Upstairs Toilet".
+*In order to fully prevent passive sanity drain in the Foyer, the light switch that turns on the lamp outside at the entrance door has to be turned on as well.
+*There is a bug where the computer in Hallway needs to be turned on to prevent passive sanity drain in that room.
+
+The following rooms allow short [[Roaming|roams]] to another floor to be completed:
+*Basement
+
+Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
+{| class="article-table"
+!Parameter
+!None
+!Low
+!Medium
+!High
+|-
+!Number
+|0
+|6
+|10
+|14
+|}
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 10 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Living Room
+|[[File:Ridgeview Living Room unavailable.png|200px]]
+|[[File:Ridgeview Living Room available.png|200px]]
+|-
+|Master Bedroom
+|[[File:Ridgeview Master Bedroom unavailable.png|200px]]
+|[[File:Ridgeview Master Bedroom available.png|200px]]
+|-
+|Garage
+|[[File:Ridgeview Garage 1 unavailable.png|200px]]
+|[[File:Ridgeview Garage 1 available.png|200px]]
+|-
+|Garage
+|[[File:Ridgeview Garage 2 unavailable.png|200px]]
+|[[File:Ridgeview Garage 2 available.png|200px]]
+|-
+|Upstairs Hallway
+|[[File:Ridgeview Upstairs Hallway 1 unavailable.png|200px]]
+|[[File:Ridgeview Upstairs Hallway 1 available.png|200px]]
+|-
+|Upstairs Hallway
+|[[File:Ridgeview Upstairs Hallway 2 unavailable.png|200px]]
+|[[File:Ridgeview Upstairs Hallway 2 available.png|200px]]
+|-
+|Upstairs Hallway
+|[[File:Ridgeview Upstairs Hallway 3 unavailable.png|200px]]
+|[[File:Ridgeview Upstairs Hallway 3 available.png|200px]]
+|-
+|Boy's Bedroom
+|[[File:Ridgeview Boys Bedroom unavailable.png|200px]]
+|[[File:Ridgeview Boys Bedroom available.png|200px]]
+|-
+|Basement
+|[[File:Ridgeview Basement 1 unavailable.png|200px]]
+|[[File:Ridgeview Basement 1 available.png|200px]]
+|-
+|Basement
+|[[File:Ridgeview Basement 2 unavailable.png|200px]]
+|[[File:Ridgeview Basement 2 available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|10
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|5
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|3
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|2
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+Several more unofficial furniture-based hiding spots are available such as:
+*'''Kitchen''', behind the fridge
+*'''Hallway''', behind the piano or the computer
+
+[[Guides/Surviving a hunt#Looping the ghost|Looping]] the ghost may be performed around the dining table. The ghost can also be looped around multiple shelves in the Basement (the collection of shelves on the right side opposite one of the [[Fuse Box]] locations is the easiest spot).
+
+==Bone locations==
+Bones spawn randomly, but will only spawn in areas that a ghost can also walk on. Additionally, the bone cannot spawn in '''Foyer''' and '''Upstairs Hallway'''.
+
+==Cursed possession locations==
+<gallery>
+Hauntedmirror ridgeview hallway 0.6.png|The [[Haunted Mirror]] spawns above the lamp near the stairs in the Hallway.
+Musicbox ridgeview girlsbedroom.png|The [[Music Box]] spawns on the table in Girls Bedroom.
+Ouija ridgeview utility.png|The [[Ouija Board]] spawns on the shelf in the Utility.
+Summoningcircle ridgeview basement.png|The [[Summoning Circle]] spawns in front of the stairs in the Basement.
+Tarotcards ridgeview foyer 0.6.png|The [[Tarot Cards]] spawn on the table next to the entrance in the Foyer.
+Voodoodoll ridgeview hallway.png|The [[Voodoo Doll]] spawns on the bench in the Hallway.
+Monkeypaw ridgeview.jpg|The [[Monkey Paw]] spawns on a table in the Boys Bedroom.
+</gallery>
+
+==Trivia==
+*The photos in the basement are taken by Skinner, one of Kinetic Games' artists. The majority of these photos are taken in the New Forest, a National Park located close to Kinetic Games' base in Southampton. 
+*The assets used for this map can be found [https://assetstore.unity.com/packages/3d/environments/urban/hq-residential-house-48976 here].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!20 March 2020<br>(Part 3)
+|Added Ridgeview Road House.
+|-
+! colspan="2" |Early Access
+|-
+![[0.6.1.0]]
+|Changed the ground floor layout.
+|-
+![[0.7.0]]
+|Renamed Ridgeview Road House to 10 Ridgeview Court.
+|}<br>
+{{Loc nav}}
+[[Category:Maps]]
+[[Category:Small Map]]
+[[fr:10 Ridgeview Court]]
+[[ru:10 Ridgeview Court]]

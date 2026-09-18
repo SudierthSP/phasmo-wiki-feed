@@ -1,0 +1,111 @@
+# Gallu
+# revid 24413  2026-08-03T16:51:58Z  by Darkhooper
+# 备注: tier 3 salt slowing effect (info from YouJustWantEasy)
+# sha256 80c7008c5709a5026112e106647bae37895bb90e5caa9c48893f726393f9a10f  bytes 6201
+# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+ |image1=
+ |strength=*More aggressive after protective equipment has been used
+ |weakness(es)=*Less aggressive after a hunt
+ |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
+ |Evidence2=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
+ |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
+}}{{Quote
+ |quote=Another form of demon, the Gallu is a reminder that death comes for us all. Using protective equipment provokes the ghost until it's no longer effective.
+ |speaker=The Journal
+}}The '''Gallu''' is a type of [[ghost]] in ''Phasmophobia''. It is known to become faster during [[hunt]]s when players use protective equipment against it such as [[crucifix]]es or [[incense]].
+
+==Behaviour==
+===Activity===
+The Gallu cannot disturb [[salt]] piles while in its enraged state.<ref group="note">There is currently a bug where non-hosts will not see salt piles being disturbed by the Gallu in its weakened or normal state for the rest of the contract once the ghost has been affected by incense. This is only visual and the Gallu will still change states.</ref> If it steps in a salt pile while in its weakened state, it can leave [[Ultraviolet#Footprints|footprints]] for a maximum of 3 seconds, leading to 6 footprints instead of 4 like with other ghosts.
+
+===Ability===
+The Gallu has three states it can switch to: "normal", "enraged", and "weakened". By default, it starts in the normal state, where it behaves like a standard ghost. It will change from the normal state to the enraged state or from the weakened state to the normal state:
+*instantly after burning a crucifix
+*instantly after the end of the incense's blinding effect during a hunt
+*after a duration equal to the last blinding effect from an incense after being affected by incense outside of a hunt
+**instantly if no incense were used during any previous hunts
+**4 seconds if the Gallu was last blinded while in an enraged state
+**5 seconds if the Gallu was last blinded while in a normal state
+**6 seconds if the Gallu was last blinded while in a weakened state
+*2 seconds after stepping in salt if its current state is "normal"
+*3 seconds after stepping in salt if its current state is "weakened"
+
+The state changes cannot be queued. For example, a weakened Gallu stepping in a second salt pile 1 second after stepping into the first one will not make it change into the enraged state 1 second after changing into the normal state.
+
+===Hunt===
+If a hunt ends while the Gallu is in its enraged state, it will instantly switch to the weakened state. This is what counts towards the 'Abilities used' statistic.
+
+The following table lists the Gallu's behaviour depending on its current state:
+{| class="article-table"
+|+
+!Behaviour
+!Normal state
+!Enraged state
+!Weakened state
+|-
+!Hunt [[sanity]] threshold
+|50%
+|60%
+|40%
+|-
+!Crucifix range
+|Standard
+| -2 meters
+| +1 meter
+|-
+!Hunt base speed
+|1.7 m/s
+|1.955 m/s
+|1.36 m/s
+|-
+!Incense's blinding effect
+|5 seconds
+|4 seconds
+|6 seconds
+|-
+!Tier III salt slowing effect
+|2 seconds
+| -
+|3 seconds
+|}
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] [[EMF Level 5]]
+|[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
+|[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]] [[Ultraviolet]]
+|}</center>
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: Using protective equipment pushes the ghost to become enraged, weakening equipment effects.''
+
+''Weakness: Being enraged exhausts the '''Gallu''', making protective equipment more effective.''
+
+==Strategies==
+One should exercise extreme caution with the Gallu, especially when collecting any evidence. As the Gallu has [[Ultraviolet]] evidence, the player may be prompted to confirm Ultraviolet or collect extra media using [[salt]], which if stepped in, will cause the Gallu to enter its enraged state. Note that the tier of salt does ''not'' matter; the tier 1 salt is able to cause the ghost to enter its enraged state, even if it realistically has no effect on the ghosts' hunting ability entirely.
+
+However, this behaviour can also be used as an advantage in identifying the Gallu. As it is unable to step on salt piles once it is in an enraged state, this can help narrow down a Gallu greatly by taking note if the ghost only stepped on one pile of salt and no more, even if it had walked through the latter. Be careful to not confuse this with a [[Wraith]], which can also not step on any salt and also shares two evidence types with the Gallu, that being [[Spirit Box]] and [[EMF Level 5]]. If you used an [[Incense]] near the ghost, or had a [[Crucifix]] be used recently before any salt was tested, then a Gallu should be considered if the salt has not been stepped in at all.
+
+When trying to escape the ghost during a hunt, beware that using Incense or Tier 3 Salt to slow it will cause it to speed up afterwards, and if the player is unable to get to safety before their effect ends, this can backfire on them; Tier 3 [[Sanity Medication]] can be used instead, boosting the player's speed without causing the ghost to enrage. Deliberately triggering its enraged state can also be helpful if the player knows they can survive one hunt, to put it into its weakened state and make future hunts easier.
+
+==Trivia==
+*In Mesopotamian and Sumerian mythology, a gallu (or galla) is a demon or devil from the underworld. It was known for dragging people into the underworld until it was appeased by animal sacrifice, most noted in the story of Inanna's journey to the underworld.
+*Due to how [[crucifix]]es work, a tier I crucifix placed on the floor will never prevent hunts from the Gallu in its enraged state, as the ghost's head is located 1.5 metres above the floor and the crucifix would only have a 1-metre range.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.15.1.0]]
+|Added Gallu.
+|}
+
+==Notes==
+{{Reflist|group="note"}}
+[[ru:Галлу]]
+[[fr:Gallu]]
+[[Category:Ghosts]]
+{{GhostNav}}

@@ -1,0 +1,222 @@
+# 0.4.0
+# revid 23936  2026-06-28T21:39:39Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 b7cf3bfb8dd17f45d04d1efd2551e6226de6066f61d8bf7f10ace9673fb68dfe  bytes 7137
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  |image1=Nightmare update poster.png| official_name=Nightmare
+  | release_date=25 October 2021
+  | previous_major_version=[[0.3.0]]
+  | previous_minor_version=[[0.3.1.2]]
+  | next_major_version=[[0.5.0]]
+  | next_minor_version=[[0.4.1.0]]
+}}The '''0.4.0''' update, also known as the '''Nightmare''' update, is a major update to the game released on 25 October 2021.<ref>https://store.steampowered.com/news/app/739630/view/4624626247919023465</ref> This update adds four new ghosts, a new campsite map, as well as a rework of the difficulty system. A hotfix carrying the same version was later released to fix some issues.<ref>https://store.steampowered.com/news/app/739630/view/3020219432740032805</ref>
+
+== Additions ==
+
+=== Difficulty ===
+{{main|Difficulty}}
+;General
+*Doors may now start open
+*Some hiding spaces may be blocked
+*[[Sanity Pills]] now restore different amounts of sanity depending on difficulty
+
+;Nightmare difficulty
+*Ghosts will not reveal one type of evidence
+*Ghost room may change
+*Kills extend the current hunt's duration
+*Sanity monitor and activity level monitor will be damaged
+
+=== Gameplay ===
+*When crouching, the player collider now shrinks to match the player model
+*Ghosts will now disrupt electronic equipment whenever they are visible
+*Showers and certain furniture can now be interacted with by ghosts
+*The interactive map monitor now has new player icons
+*New modifiers to ghost events
+
+===Ghosts===
+{{main|Ghost}}
+;General
+*New jelly-like/semi-transparent form when manifesting or hunting
+
+;[[Obake]]
+
+*When interacting with the environment, an Obake will rarely leave a trace
+*Sometimes this ghost will shapeshift, leaving behind unique evidence
+*Requires EMF 5, Fingerprints and Ghost Orb as evidence
+
+;[[Onryo]]
+
+*Extinguishing a flame will make it more likely to attack
+*Threatening the ghost will make it less likely to attack
+* Requires Spirit Box, Ghost Orb and Freezing Temperatures as evidence
+
+;[[Raiju]]
+
+*A Raiju can siphon power from nearby electrical devices, making it move faster
+*Raiju are constantly disrupting electronic equipment, making it easier to track when attacking
+*Requires EMF 5, Ghost Orb and D.O.T.S. Projector as evidence
+
+;[[The Twins]]
+
+* First and only ghost to come in a pair
+*Either Twin can be angered and initiate an attack on their prey
+*Will often interact with the environment at the same time
+*Requires EMF 5, Spirit Box and Freezing Temperatures as evidence
+
+===Hunts===
+
+;[[Voice chat#Global chat|Global chat]]
+
+* Using global chat will now attract the ghost during hunts
+* Will now only play static sounds when used near the ghost
+
+===Maps ===
+{{main|Map}}
+;[[Maple Lodge Campsite]]
+
+*First outdoor map
+*Features more detailed visuals and objects
+*Features new detailed interactive map in the truck
+
+;[[Weather]]
+
+*Each contract will now have one of six types of different weather: Clear Skies, Fog, Light Rain, Heavy Rain, Strong Wind, Light Snow
+*Will affect default temperature
+
+===General===
+
+==Changes==
+
+===Equipment===
+
+;[[Candle]]
+
+* Can now be blown out while the room lights are turned on
+*Will now extinguish in heavy rain and when thrown
+
+;[[Fuse Box]]
+
+*Now has two separate light indicators for its on/off state
+
+;[[Lighter]]
+
+*Can now be blown out by ghosts
+*Will now extinguish in heavy rain and when thrown
+*Will now turn off when swapped into inventory
+
+;[[Ouija Board]]
+
+*Sanity deduction rebalanced
+**Non-response will now deduct less sanity
+**A response will now deduct more sanity
+
+;[[Parabolic Microphone]]
+
+*Will now detect window knocks
+
+;[[Sanity Pills]]
+
+*Now restore different amounts of sanity depending on difficulty
+
+;[[Sound Sensor]] and [[Motion Sensor]]
+
+*Can now be placed on the floor
+
+===Evidence and ghost traces===
+
+;[[Bone Evidence|Bone]]
+
+*Can now be a random bone from the human body, with new visuals
+
+;[[Ultraviolet#Fingerprints|Fingerprints]]
+
+*Will now disappear after 60 seconds
+*New visuals
+
+;[[Ultraviolet#Footprints|Footprints]]
+
+*Will no longer generate if the ghost is not moving
+*New visuals
+
+;[[Freezing Temperatures]]
+
+*Now may require a lower reading on the thermometer
+**Changed to take into account the map weather
+
+===Gameplay===
+
+*The displayed average [[sanity]] will now be based on the displayed individual sanities
+*Several rooms have been renamed
+* Several photo frames have had their photos replaced
+*Heartbeat sound volumes are now proximity-based
+
+===Ghosts ===
+
+;General
+
+*Attic and basement ghosts now roam less often
+*Footsteps can now only be heard when the ghost is moving
+*Ghost sounds will now fade out instead of abruptly stopping
+
+;[[Ghost Event|Ghost events]]
+
+* Will now last for at least 1 second
+* Will now disrupt electronic equipment and global chat, similar to hunts
+
+;[[Demon]]
+
+*Successful questions will now deduct 40% of sanity as its weakness
+
+===Hunts ===
+
+*Ghosts now have a slightly faster base and acceleration speed
+*Hunt duration has been lowered on small and medium maps
+
+===General===
+
+;Contract selection
+
+*All contracts can now be selected at all times
+*Difficulty will now default to previously played difficulty
+*Contracts now show a difficulty description instead of a map description
+*Number of floors is now displayed
+
+;Settings
+
+*Changing screen resolution in the journal now offers confirmation
+
+==Bug Fixes ==
+
+===From versions released before 0.4.0===
+
+*Fixed grammar and punctuation for English, in the journal, on several pages
+*Fixed a bug where ghosts would not always do their walking animation for ghost events
+*Fixed a bug where only the host could turn the car alarm off
+*Salt placement highlight is no longer visible on walls after looking at the floor
+*Salt can no longer be placed on the prison staircase inside the wall
+*“No code in clipboard” and “None” now have translations
+*Footstep sounds no longer continue after you have stopped moving
+*The hunt will now end if the host left during the hunt
+*Having multiple monitors with different resolution scale no longer crashes the game
+*The ghost will no longer sing while making hunting sounds at the same time
+*Holding a tripod with a camera on during a hunt will no longer cause the ghost not to find the player
+*Fixed a bug where the bloom option buttons were backwards on the main menu
+*DOTS ghosts can no longer be seen through walls where there was no DOTS Projector
+*Fixed an exploit where you could use a camera on a tripod to trick the ghost into thinking you were inside
+
+===From 0.4.0 (as fixed in hotfix)===
+
+*Fixed a bug where the wall lights on Grafton and Bleasdale didn't work
+*Fixed a bug where you couldn't leave Grafton and Bleasdale after a hunt
+*Fixed an issue where you would get big performance drops when the campfire was lit
+*Fixed a bug where the ghost could not leave or enter the female toilets
+*Fixed a bug where the ghost could get stuck on the generator
+*Fixed a bug where the ghost could swap room from the basement to the top floor in professional and nightmare on Ridgeview
+*Several performance improvements for all weather effects
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.4.0]]
+[[ru:0.4.0]]

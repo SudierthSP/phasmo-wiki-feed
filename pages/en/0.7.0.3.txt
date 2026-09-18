@@ -1,0 +1,49 @@
+# 0.7.0.3
+# revid 23966  2026-06-28T21:41:52Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 41e9ba95bed87b3ebc90f01144df4da09c22b36ff4599660982be7c02c3e11bc  bytes 2440
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=5 October 2022
+  | previous_major_version=[[0.7.0]]
+  | previous_minor_version=[[0.7.0.2]]
+  | next_minor_version=[[0.7.1.0]]
+  | next_major_version=[[0.8.0]]
+}}'''0.7.0.3''' is a minor update to the game released on 5 October 2022. This update officially introduces the [[Apocalypse Challenge]], adds some Halloween decorations and several quality-of-life changes, and fixes bugs.<ref>[https://store.steampowered.com/news/app/739630/view/3328747612245093426 Apocalypse | Halloween Update v0.7.0.3 (on Steam)]</ref>
+
+== Additions ==
+* Added new Halloween decorations
+** More to be added in a future update
+** Future update will also include an in-game event
+* Re-added the reset save button back in with a warning
+* Badge and character can now be toggled on the main menu home screen
+
+==Changes==
+===General===
+*Resetting your save will now provide an “Are you sure” before continuing.
+*Resetting your save will now only be possible when not in a lobby
+*Adding/removing an item from your loadout will now automatically save it
+*The “save loadout” button has been removed
+*It will now be more obvious which loadout you currently have selected
+*You are now required to write a small description to submit a player report
+
+==Bug fixes==
+===General===
+*You can no longer report a player twice within 24 hours (using the ID card report button while in a game, after already reporting them in the menu)
+*The game will no longer suffer from a memory leak which was causing unplayable fps and crashes
+*UI arrows will now scale better with lower resolution monitors, and for 4:3 aspect ratios
+*Resetting your save now reloads the main menu, fixing UI displaying pre-reset values
+*You will now lose equipment when you die<ref group="note">This only concerns a bug where a player would keep some of their equipment upon dying. The "Keep items upon death" custom difficulty option still works as intended.</ref>
+*The invite code will now remain hidden when returning from a game in a public lobby
+*Maps will now unlock correctly, in line with the “Level unlock” screen
+*The ghost's name on the statistics page will now be localized
+*Fixed a bug where Vosk voice recognition wouldn’t work due to an empty voice models file
+*VR Belt items will now face the correct direction
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.7.0.3]]
+[[ru:0.7.0.3]]

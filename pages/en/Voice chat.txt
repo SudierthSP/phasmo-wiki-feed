@@ -1,0 +1,161 @@
+# Voice chat
+# revid 24030  2026-07-11T21:17:26Z  by Darkhooper
+# 备注: replaced "Billy Kemper" by "Ghost's name"
+# sha256 d0faae289131e6df8e7ee6ca95f7699fe07241c65a8c5a50d11e9a5c19c1b05d  bytes 7844
+# 源: https://phasmophobia.fandom.com/api.php'''Voice chat''' is the primary mode of communication in ''Phasmophobia''.
+
+==Player chat==
+Voice chat is used to communicate between players. ''Phasmophobia'' uses the Vivox voice chat system.
+
+[[Death|Dead]] players can hear living players, but not the other way round. Due to a bug, dead players can sometimes not hear each other clearly.
+
+===Local chat===
+Local chat is proximity-based. Players can hear one another up to 20 metres away, though in reality this distance is usually shorter due to volume fall-off.
+
+There are three settings available for players to communicate through:
+*'''Push-to-talk:''' The game will hear the player while they hold the {{Control|local chat}} button.
+*'''Voice Activation:''' The game will always hear the player; this is also known as open mic.
+*'''Toggle:''' The local chat button is used to toggle open mic on or off. A microphone icon on the [[watch]] will light up when the game is listening. A throat-clearing sound can also be heard when toggling; a rising tone when toggling on and a falling tone when toggling off.
+
+This setting can be adjusted via the settings in the [[journal]] or in the main menu.
+
+Players in different locations may hear local chat as being muffled:
+*Players on different floors
+*Players that are inside versus outside a building
+
+During a [[hunt]], any noise transmitted through the microphone that is loud enough (when local chat is enabled) will attract the ghost if it is within 9 metres (or 2.5 metres for a [[Yokai]]) of the player on the same floor. This does not affect voice recognition.
+
+===Global chat===
+Global chat allows the player to communicate to all players on-site, regardless of their location. Global chat can be activated by holding the {{Control|global chat}} button, or by grabbing the walkie-talkie when using VR headsets. Voice through global chat will be muffled in a manner similar to a walkie-talkie. The VR walkie-talkie will automatically return onto the belt when dropped.
+
+Global chat can only be activated via push-to-talk. Global chat cannot be used by dead players or in the [[lobby]]. Dead players can hear living players through global chat.
+
+Using global chat within 9 metres of a ghost (2.5 metres for a Yokai) during a hunt will attract the ghost to the player, regardless of whether the player is speaking or not. Doing this will also cause a static noise to be played for all players instead of any microphone audio. One player using global chat will not attract the ghost to other players, regardless of if the speaker is inside or outside the investigation area.
+
+==Voice recognition==
+Voice recognition is used for recognition of phrases said by the player to elicit reactions from the ghost. Players can change the voice recognition system that is used ("Voice" or "System Voice"), as well as the voice recognition language. While "Voice" supports all existing languages that are available on the game, "System Voice" only supports English, French, German, Japanese, Chinese, and Spanish. Both local and global chat work normally.
+
+When voice recognition is set up correctly, the player can use either local or global voice chat to communicate with the ghost using the [[Spirit Box]], the [[Ouija Board]], or the [[Monkey Paw]]. Voice recognition can be disabled entirely and replaced by a UI if the player switches to the "Text" mode.
+
+Voice recognition for the above-mentioned objects on PS5 also works when one is in a party chat, despite VOIP not otherwise transmitting in-game. This allows one to be able to speak in order to use the items while in a PlayStation chat party, but they will still not be heard by a Ghost during a hunt. Ghosts will still respond to Global Chat being toggled, regardless if one is in a console chat party or not.
+
+When using Push-to-talk or Toggle modes, valid phrases will still be recognized even if the mic is activated slightly after (~0.5 seconds) saying that phrase.
+
+Though the following is currently bugged and doesn't work at all, saying the ghost's name or recognised phrases<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1155897573211656245 ''"Saying the ghost name..."'' Shuee, ''Phasmophobia'' Discord Moderator. 25 September 2023 (on Discord).]</ref> after having spent 2 seconds near the ghost, with a 10-second minimum cooldown<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1214242363463958658 ''"And there is a 10 second CD..."'' Shuee, ''Phasmophobia'' Discord Moderator. 4 March 2024 (on Discord).]</ref>:
+*increases ghost [[activity]] by a number between 10 and 24, this number decreasing by 0.5 every second
+*increases the Spirit Box's response chances by 10% for 20 seconds
+*has a 0.5% chance to force the ghost to turn off the [[Fuse Box|fuse box]]
+
+The following is a list of recognized phrases:
+<div style="-moz-column-count:3; -webkit-column-count:3; column-count:3;">
+*''Ghost's name''
+*"Give us a sign."
+*"Do something."
+*"Let us know you are here."
+*"Make a noise."
+*"Make a sound."
+*"Can you make a sound?"
+*"Open a door."
+*"Open the door."
+*"Open this door."
+*"Turn on the light."
+*"Turn off the light."
+*"Show us your presence."
+*"Show your presence."
+*"Show me."
+*"Show us."
+*"Knock something."
+*"Throw something."
+*"Can you speak?"
+*"Can you speak to us?"
+*"Can we speak?"
+*"Would like to speak to you."
+*"Can I ask you?"
+*"May I ask you?"
+*"Would you like to talk?"
+*"Talk to me."
+*"Talk to us."
+*"Scream."
+*"Do you know who we are?"
+*"We mean you no harm."
+*"We are friends."
+*"Is there anyone with me?"
+*"Is there anyone here?"
+*"Are there any ghosts?"
+*"Are you male or female?"
+*"Are there children here?"
+*"Are you alone?"
+*"Are you the only one here?"
+*"Are you here all the time?"
+*"Are you waiting?"
+*"Are you happy?"
+*"Is there anything that I can do?"
+*"Is this your home?"
+*"Do you want us to leave?"
+*"I'm scared."
+*"I am scared."
+*"Scared"
+*"Scare"
+*"Scary"
+*"Spooky"
+*"Horror"
+*"Fright"
+*"Frighten"
+*"Panic"
+*"Hide"
+*"Run"
+*"Bloody Mary"
+*"F*ck"
+*"B*tch"
+*"Sh*t"
+*"C***"
+*"A*s"
+*"B*stard"
+*"Motherf*cker"
+*"A*sehole"
+*"Cr*p"
+*"P*ssy"
+*"D*ckhead"
+</div>
+
+==Tips==
+*Players who are unable to use voice recognition may consult the official ''Phasmophobia'' Discord server's [https://discord.com/channels/435431947963990026/1041127945005178922 voice recognition help channel] on potential ways to fix voice recognition.
+*Some languages on the "Voice" system may not work correctly; use the "System Voice" recognition system or "Text" system as an alternative.
+*If you are using the "System Voice" recognition system, there is a bug where voice recognition (not voice chat) may "fall asleep" when the player loses focus of the game, causing it to fail. Pressing the Windows key twice, or pressing once and clicking on the game icon in the taskbar, will "wake" it up.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+! rowspan="2" |[[0.4.0]]
+|Static from global chat now plays during hunts only if the ghost is near the player.
+|-
+|Ghosts can now detect players using global chat without speaking during hunts.
+|-
+![[0.5.1.2]]
+|Open mic is no longer forced on singleplayer.
+|-
+![[0.6.0]]
+|Local voice chat now has three options: voice activation, push-to-talk, and on/off toggle.
+|-
+![[0.6.2.0]]
+|Switched the voice recognition system from a Windows-based system to an internal system.
+|-
+![[0.6.3.0]]
+|Added the option to switch back to the Windows-based voice recognition system.
+|-
+![[0.10.1.0]]
+|The multiplayer voice chat system has been changed from Photon Voice to Vivox.
+|-
+![[0.11.1.2]]
+|Voice recognition modes have been reworded for better in game translation.
+*VOSK has been changed to Voice
+*Windows Voice has been changed to System Voice
+|}
+
+==References==
+{{Reflist}}
+[[Category:Gameplay]]
+[[Category:Settings]]
+[[fr:Chat vocal]]
+[[ru:Голосовой чат]]

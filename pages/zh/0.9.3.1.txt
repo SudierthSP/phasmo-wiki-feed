@@ -1,0 +1,16 @@
+# 0.9.3.1
+# revid 3363  2023-12-25T06:20:05Z  by Qsefthuopq
+# sha256 23d5badba5c62b518584f15598d419983fde7013c7e139a0fb593ac78a9a1548  bytes 368
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+  | release_date=2023年12月25日
+  | previous_major_version=[[0.9.0]]
+  | previous_minor_version=[[0.9.3.0]]
+  | next_minor_version=
+}}
+
+==修复漏洞==
+* 每周挑战地图不再出现Point Hope
+* 今年最后一周的每周挑战不再因为闰年而生成错误
+* 修复一些语言的节日文本错误
+==参考资料==
+{{Reflist}}{{Versions}}

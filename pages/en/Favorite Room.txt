@@ -1,0 +1,5 @@
+# Favorite Room
+# revid 22994  2026-03-29T22:30:22Z  by Darkhooper
+# 备注: Redirected page to [[Ghost Room]]
+# sha256 6429f0ae36f92baa9a45726f28d4d323618cc89d92b35a1848fee2dec9cd328e  bytes 24
+# 源: https://phasmophobia.fandom.com/api.php#redirect [[Ghost Room]]

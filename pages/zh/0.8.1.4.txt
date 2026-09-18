@@ -1,0 +1,25 @@
+# 0.8.1.4
+# revid 2951  2023-04-09T05:57:16Z  by Qsefthuopq
+# sha256 db0fb2c08bd7cc67816249343b6778994516caac5d2253c51c52c846160f93e9  bytes 830
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+ | release_date=2023年4月5日
+ | previous_major_version=[[0.8.0]]
+ | previous_minor_version=[[0.8.1.3]]
+ | next_minor_version=
+ | next_major_version=[[0.9.0]]
+}}'''0.8.1.4'''是发布于2023年4月5日的小型更新。本次更新了复活节事件，收集彩蛋可获得徽章和奖杯。
+
+我们正在积极开发进度2.0更新，在此之前享受复活节彩蛋吧！在接下来几周，我们将发布一些开发者前瞻，展示新装备的功能等！
+== 复活节事件 ==
+该事件持续一周
+* 在任意难度下进入有复活节标签的地图。
+* 找到并收集所有隐藏的彩蛋。
+* 返回车上，火速离开！
+* 在有标签的所有地图内重复以上步骤！
+* 完成可获得23年复活节徽章和奖杯！
+
+
+== 参考资料 ==
+{{Reflist}}
+{{Versions}}
+[[Category:开发]]

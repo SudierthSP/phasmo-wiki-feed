@@ -1,0 +1,70 @@
+# 手电筒
+# revid 3844  2025-08-16T13:54:07Z  by GrapeK
+# 备注: /* 画廊 */
+# sha256 ec87085efb8d6ade8a4633a104ec9afb57654657e5b4f1a3c8c6bd94bca63b76  bytes 2800
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+ | tier i img=Flash090_T1.png
+ | tier ii img=Flash090_T2.png
+ | tier iii img=Flash090_T3.png
+
+ | price=$30
+ | maxamount=4
+ | uses=
+ | starter=是
+ | tier i level=
+ | tier ii level=18
+ | tier iii level=34
+
+ | tier i description=代代相传的手电筒，即使久经沙场，它也仍然能用。
+ | tier i purpose=一款复古金属手电筒，提供能让你探清周围的适量光线。
+ | tier i ability=+ 聚光灯：<br>- 强度：低<br>- 电子设备
+ | tier ii description=它小巧轻便，后方配有按钮，能以更具战术性的姿势握持。
+ | tier ii purpose=这款手电筒的亮度更高。
+ | tier ii ability=+ 聚光灯：狭窄<br>- 强度：中<br>- 电子设备
+ | tier iii description=更大的手电筒，它甚至还有握把！
+ | tier iii purpose=这款手电筒投射出更宽泛的光线，非常适合大房间和开放空间。
+ | tier iii ability=+ 聚光灯：宽阔<br>- 强度：高<br>- 电子设备
+}}'''手电筒'''是《恐鬼症》里的一件[[装备]]。它是游戏里的主要光源。
+
+[[强光手电筒]]是光照更强但也更昂贵的型号。
+
+==使用==
+手持手电筒右键打开将为玩家提供锥形范围的小型光线。带在身上的手电筒可按 T 开关，不必手持手电筒以照出光线。如果手持手电筒开着，然后切换到其他物品用 T 关掉，切回手电筒会自动打开手电筒。
+
+PC 玩家只能在身上带一只手电筒（不包括[[紫外线灯光|紫外线手电筒]]）。VR玩家可以把手电筒放在工具腰带，两手也能握住手电筒。点亮手电筒会从臀部发射出光线。放在工具腰带的手电筒发出的光线会跟随玩家头部移动。
+
+作为一件初始装备，每次游戏都会提供 1 个免费的手电筒。
+
+作为一件电子设备，鬼魂[[鬼魂事件|现身]]或[[猎杀]]时会将 10 米内的手电筒闪烁。在鬼魂猎杀时 7.5 米内身上有开着的手电筒会吸引鬼魂。
+
+自定义[[难度]]可禁用手电筒，使得不会照出光源。
+
+===其它技巧===
+多余的手电筒可以打开放在黑暗区域来提供光照。
+
+== 对较==
+<gallery>
+File:手电筒亮度比较.png|手电筒亮度比较
+File:Phasmophobia flashlight old vs new.png|thumb|0.3.0版本后（右）和旧版手电筒模型
+File:New Flashlight.png|0.3.0版本后一级手电筒模型
+</gallery>
+
+==历史==
+{| class="fandom-table"
+! colspan="2" | 公开抢先体验
+|-
+!rowspan="2" | [[0.3.0]]
+| 改换（普通）和强光手电筒的模型
+|-
+|（普通）手电筒光源改为黄色
+|-
+! [[0.9.0]]
+| 新增三级手电筒。现有的普通和强光手电筒模型分别为一级和二级
+|-
+! [[0.9.3.0]]
+| 三级手电筒升级价从 $2,500 提升到 $3,000
+|}
+
+{{EquipmentNav}}
+[[Category:装备]]
+[[Category:初始装备]]

@@ -1,0 +1,106 @@
+# 0.165
+# revid 23907  2026-06-28T21:37:34Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 881d982f37b170066439fbb405787aa749ddd17eca42c094d96e9ccfb1c88eae  bytes 7302
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+|official_name=Post Launch Update #1
+|release_date=25 September 2020
+|previous_major_version=[[0.1]]
+|previous_minor_version=?
+|next_minor_version=?
+|next_major_version=[[0.174]]
+}}'''0.165''', also known as the '''Post Launch Update #1''', was released on 25 September 2020.<ref>[https://store.steampowered.com/news/app/739630/view/2767982326138620357 ''Post Launch Update #1'' (on Steam)]</ref> This update makes some adjustments and fixes bugs.
+
+== Additions ==
+* Added reset buttons in the Non-VR controls on the main menu.
+* Added a invite code for each room. This code can be entered in the lobby screen to join private games.
+* Added an option in the graphics menu to turn off Bloom.
+* You can now use Spacebar to open the main menu as a backup in case your left mouse button unbinds.
+* Added a radio sound effect to the player voice when talking over global chat.
+* Added more questions to the Spirit Box such as "Shall we leave?" and "Do you want to hurt us".
+* You will now be given 50% of your total item price back if you die on an amateur contract.
+
+== Changes ==
+* Lowered the death zone ambient sound volume.
+* You will no longer lose any items if you leave a game when you are alive.
+* Increased the Ghosts chance to interact with objects.
+* Increased the Ghosts chance to use the Ghost Writing Book.
+* Dead players will now receive 50% of the experience reward with no difficulty bonus.
+* Changed the "DNA Evidence" to now say "Bone evidence".
+* Solo players will now get the reward screen when they die and will get 50% of the reward as if they were in multiplayer.
+* Renamed the EMF Monitor to "Total Activity" to avoid confusion.
+* Updated Chinese translation.
+* Slightly reduced how much sanity you lose when using the ouija board.
+* Slightly increased the Non-VR run speed and VR walk speed.
+* Increased the chance of the Ouija Board giving an answer.
+* You will no longer lose exp if a player dies.
+* Increased the amount of exp you get for completing objectives.
+* Lights will now only flicker near the Ghost. The rate that the lights flicker has been reduced.
+* Footsteps will no longer count for photo evidence. This is to optimise how they spawn in.
+* Wraiths will no longer walk on Salt during their hunting phase to help with some confusion.
+* Increased the delay at the start of the hunting phase to hide from 5 to 8 seconds.
+* Lowered the amount of time you need to talk to the spirit box for to make it give a random response for people without voice recognition.
+* Lowered the resolution the photo camera takes. This will help with server disconnects and lag spikes.
+* Objectives will now be given to you based on the highest players level.
+* Wraiths no longer leave footprints after walking in Salt. They now instead have a higher activity limit.
+* You will no longer see your breathe when outside as this was causing some confusion.
+* Increased the basketball throwing speed in VR.
+* The main menu will no longer reload if you fail to connect to the server.
+* Updated German, Spanish, French, Italian, Russian, Turkish, Dutch, Chinese and Danish translations.
+
+== Fixes ==
+* Fixed a bug where the main menu would get stuck in a reload loop if you got disconnected from the server as soon as you connected.
+* Fixed a bug where the voice recognition test was saying it's not supported when it was working.
+* Fix for a crash where the game didn't detect a microphone when the game launches.
+* Fixed a bug where taking a photo of the Ghost wouldn't always give you a Ghost photo evidence.
+* Fixed some crashes related to the Voice Recognition trying to start when it hadn't been setup correctly on the pc.
+* Fixed a bug where the Spirit Box would say "Nothing Detected" when it was turned off.
+* Fixed a bug where dead players couldn't hear other players.
+* Fixed a bug where no buttons would enable on the inventory screen.
+* Fixed a bug where you could get stuck on the shower curtains in the farmhouse levels.
+* Potential fix for items falling through the Farmhouse stairs.
+* GPU and CPU optimisations on Brownstone School.
+* Fixed some duplicate or too similar Ghost names.
+* Tanglewood: Fixed a bug where walking near the right side garage wall would set your audio to being outside.
+* Fixed a bug where the global voice chat/ walkie talkie was not always working.
+* Tanglewood: Potential fix for being constantly teleported back to the Truck when the Ghost entered it's hunting phase.
+* Fixed a bug where your sanity would sometimes be reset back to 100. 
+* Optimised how Footsteps spawn in which should help fix some disconnects.
+* Fixed a bug where you could change the pages on other VR players Journals.
+* Fixed a bug where VR Teleport Locomotion wasn't working.
+* Fixed a bug where the host was getting an extra $10 insurance money.
+* Fixed a bug where the Spirit Box wouldn't always say "Nothing Detected" if it heard your voice.
+* Fixed some crashes when loading back to the main menu.
+* Fixed a bug where the Spirit Box had a too low chance to respond.
+* Fixed a bug where you would get a black screen after a game if the room was closed while you were loading.
+* Fixed a bug where Objectives were not being given if the host disconnected during loading.
+* Fixed an issue where icons on the School and Asylum truck map were too small.
+* Fixed a bug where items would not drop when a player dies.
+* Fixed a bug where your player name and steam branch would sometimes not be set.
+* Fixed a bug where VR players could fly if they tilted their head to the right and crouched.
+* Fixed a bug where the Ghost was teleporting outside of the map and getting stuck.
+* Fixed a bug where all players would get teleported back to the Truck if the VR inventory belt lost tracking.
+* Fixed a bug where the dead player body was spawning away from the player.
+* Fixed a bug where the main door wouldn't close if the host was dead.
+* Fixed a bug where the Ghost would try to attack players that were outside.
+* Fixed a bug where the item store wouldn't update your player level until you loaded the main menu again.
+* Fixed a bug where Non-VR players could sometimes not pickup anything.
+* Fixed a bug where Non-VR players couldn't light smudge sticks in some areas.
+* Fixed a bug where motion sensors were not changing colour on the map.
+* Fixed a bug where the Ghosts evidence was not always being synced between all players.
+* Fixed a bug where the photo camera couldn't take a photo of a dead player.
+* Fixed a bug where the VR screen would freeze a few frames before loading.
+* Fixed a bug where controller players couldn't rebind their buttons.
+* Fixed a bug where the VR controllers grabbing radius was too small on some controllers.
+* Fixed a bug where IR Light Sensors were not always triggering for players.
+* Fixed a bug where the Spirit Box would answer too many times if other players were talking.
+* Fixed a bug where the Ghost would despawn if the host disconnected. (Whoops)
+* Fixed a bug where the Ghosts position would be desynced for non hosts which would prevent the spirit box from working. This will also fix other issues like the Ghost Orb being in the wrong spot.
+* Fixed a bug where the Ghost footsteps would stop playing after a while.
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.165]]
+[[ru:0.165]]

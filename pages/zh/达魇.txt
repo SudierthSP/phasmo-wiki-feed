@@ -1,0 +1,76 @@
+# 达魇
+# revid 4149  2026-05-13T15:23:05Z  by Suser cat
+# sha256 757af313889791e93d24e95851bbd2e54a78fb3d1ec66b6c36a6379aab5713cd  bytes 5201
+# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+ |image1=
+ |strength=*当玩家在鬼魂附近移动时，它会移动得更快。
+ |weakness(es)=*当玩家在鬼魂附近静止不动时，它会移动得更慢。
+ |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
+ |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
+ |Evidence3=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box]]
+}}{{Quote
+ | quote=达魇乃生前饱受虐待之魂所化。死后，她对任何在她附近“舞动”的人都异常警惕。
+ | speaker=猎鬼手册
+}}'''达魇'''是恐鬼症的一种鬼魂。她能在附近玩家移动时加速，玩家停止时减速。
+
+==行为==
+===猎杀===
+[[File:Dayan Speed.png|thumb|300px|Example graph of Dayan's speed during a hunt]]
+
+当任意玩家距离达彦 10 米以内时（无论是否在同一楼层），鬼魂的猎杀理智阈值与猎杀速度会根据以下情况发生改变：
+
+*若距离最近的玩家静止不动
+理智阈值降至 45%，鬼魂速度固定为 1.2 米 / 秒。
+
+*若距离最近的玩家正在行走
+理智阈值升至 65%，鬼魂速度固定为 2.25 米 / 秒。
+
+当没有玩家在达彦 10 米范围内时，鬼魂恢复标准理智阈值 50%，并遵循标准鬼魂速度，但有一个特殊规则：
+如果达彦与 10 米内的玩家存在视线，那么持续视线带来的加速会在后台累积，并且只有在达彦不再靠近任何玩家时，才会生效。
+
+===其他===
+达魇只会是女鬼且使用女性[[鬼魂模型]]。
+
+==证据==
+{{Evidence list|EMF 5级|灵球|通灵盒}}
+
+==特征和弱点==
+特征：如果有人在她附近“跳舞”，达魇会积蓄力量保护自己。
+
+弱点：如果她附近的人静止不动，达魇的力量将消散。
+
+==对策==
+
+达彦为专属女性鬼魂；若鬼魂显示男性名字、采用男性模型，且在 录音机 / 灵异事件 / 猎杀过程中发出男性声音，则可排除达彦。
+
+达彦在附近玩家移动时会加速的特性，使其堪称游戏中最危险的鬼魂之一。因此，优先识别达彦并在不触发猎杀的情况下完成调查，是更优的策略。
+
+常规对局中，玩家应默认达彦的猎杀理智阈值为 65%。在理智值低于 50% 前，它触发猎杀的频率会更低 —— 毕竟玩家无法完全避免靠近鬼魂时产生移动。
+
+猎杀期间，[[熏香]]与三级[[盐]]至关重要，能为玩家争取足够时间躲藏或移动至其 10 米能力范围外。若两者均不可用，建议蹲伏在鬼魂无法直接直视的绕点后保持静止，直至猎杀结束。若被达彦锁定视线，中断视线是最后的生存手段，否则它会迅速追上玩家。
+
+[[File:Dayan Speed Guide.png|thumb|Graph showing whether the player can outrun the Dayan.<br><span style="color: #FF0000;">Red</span> and <span style="color: #FFA500;">Orange</span>: the player cannot outrun the Dayan<br><span style="color: #008000;">Green</span> and <span style="color: #3A5D9C;">Blue</span>: the player can outrun the Dayan forever<br><span style="color: #FF0000;">Red</span>: stopping is slightly better than walking<br><span style="color: #3A5D9C;">Blue</span>: one can stand instead of walking, but walking gives a higher speed difference]]
+如果无法摆脱视线，可以尝试跑过达彦，因为它在技能范围内的最高速度略低于玩家默认的最高速度。达彦的机制会让人想在冲刺冷却时停下不动，但仍优先选择行走。
+在正常速度下，达彦比玩家略快；理想情况下（不计算拐角转弯），达彦会在 80 秒 后追上玩家。
+
+如果难度设置中鬼魂速度更低、玩家速度更高，玩家可以永远躲开鬼魂，但由于视线会让鬼魂在脱离 10 米范围后仍获得加速，玩家很难彻底逃出 10 米范围。
+
+在鬼魂速度更高、玩家速度更低的难度下，冲刺冷却时停下在理论上是最优策略，但这种设置下，鬼魂很可能在玩家冲刺冷却完成前就将其抓住。因此，即使在高难度下，也建议保持移动。
+
+多人模式中，达彦的速度根据最近的玩家变化，即便该玩家未被发现；让一名玩家在躲藏点保持静止，可以在鬼魂靠近时使其减速，有可能救下正在逃跑的其他队友。
+
+三级理智药剂通常用于恢复理智，但其移速加成也可用于更快逃出达彦的技能范围，前提是该药剂不用在猎杀前恢复理智会更划算。
+
+==逸闻轶事==
+*达彦（Dayan 或 Daayan）是源自印度与巴基斯坦民间传说的一种邪恶鬼魂。虽然在英语中该词通常将达彦描述为 “女巫”，但它更确切地说是一种充满复仇心的女性灵体，而非活人。民间传说认为，她们是生前遭受虐待与残酷对待的女性，死后化为达彦。达彦会纠缠其家人，吸食他们的血液，从最年幼的男性开始，吸干他的血直到他老去，然后再转向家族中的其他男性。也有说法称，达彦会以年轻家庭为目标，目的是 “让年轻人变老”。
+
+==历史==
+{| class="fandom-table"
+! colspan="2" |抢先体验
+|-
+![[0.15.1.0]]
+|添加达魇
+|}
+
+[[Category:鬼魂]]
+{{GhostNav}}

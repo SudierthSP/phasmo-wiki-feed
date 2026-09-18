@@ -1,0 +1,51 @@
+# 0.7.1.0
+# revid 23967  2026-06-28T21:41:57Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 8f7796081026dac114d1d28790eb5e5b3548bcda44a7452bfcfe080d88e348ca  bytes 1818
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | official_name=Halloween '22!
+  | release_date=7 October 2022
+  | previous_major_version=[[0.7.0]]
+  | previous_minor_version=[[0.7.0.3]]
+  | next_minor_version=[[0.7.1.1]]
+  | next_major_version=[[0.8.0]]
+}}'''0.7.1.0''', also known as the '''Halloween '22!''' update, is a minor update to the game released on 7 October 2022. This update introduces a Halloween-themed event, adds several quality-of-life changes, and fixes bugs.<ref>[https://store.steampowered.com/news/app/739630/view/3328747612248417421 Halloween '22! | Update v0.7.1.0 (on Steam)]</ref>
+
+== Additions ==
+=== Trick or Treat ===
+<blockquote>''Come and join us with a Halloween-themed event!''</blockquote>
+* Players can obtain a Halloween Trophy for completing the [[Special events#Halloween 2022|event]]:
+** Play on Nightmare [[difficulty]] without heavy rain
+** Enter any [[map]] labelled with a pumpkin sticker on the contract selection board
+** In order: collect candies and light jack o' lanterns, and take a [[photo]] of the [[ghost]]
+** Do this on all labelled maps
+* Event will be available until early November
+
+=== Maps ===
+;[[Sunny Meadows Mental Institution]]
+* Added window-knocking sounds to windows in Sunny Meadows
+
+=== Equipment ===
+;[[Candle]]
+* Lighting a candle will now produce sound
+
+;Jenga Blocks
+* Can now be placed
+** Will temporarily still fall over upon loading into lobby
+
+== Changes ==
+=== Gameplay ===
+*Lowered volume and length of some female ‘out of breath' sounds
+
+==Bug fixes==
+* Fixed several bugs with the global voice chat
+* You can no longer hear dead players 
+* The truck can now be closed if a player body did not despawn when they left
+* The Halloween lobby easter egg will now work in VR
+
+==References==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.7.1.0]]
+[[ru:0.7.1.0]]

@@ -1,0 +1,54 @@
+# 0.9.2.0
+# revid 23994  2026-06-28T21:44:11Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 50fd61d1b96ab213e43ddb29e2cdadc6188a05d649d9fda0e17c19b00016551f  bytes 2666
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+  | release_date=13 November 2023
+  | previous_major_version=[[0.9.0]]
+  | previous_minor_version=[[0.9.1.0]]
+  | next_minor_version=[[0.9.3.0]]
+  | next_major_version=[[0.10.0]]
+}}'''0.9.2.0''' is a minor update released on 13 November 2023.<ref>[https://store.steampowered.com/news/app/739630/view/3821928016084941771 ''Ascension | Minor Update v0.9.2.0''. 13 November 2023 (on Steam).]</ref> It removes the Halloween event, brings many optimisations and adds [[Achievements/Trophies|Achievements]].
+
+== Additions ==
+* Added the first wave of Steam Achievements! Check out the Achievements section on Steam to see how to earn them. More achievements will be added in future updates.
+* Added an option to enable Screen Space Ambient Occlusion for VR
+
+== Changes ==
+* Removed Halloween Event
+* Adjusted the sky effects when you are dead
+* Reduced translucency on medium tents slightly to stop them from glowing so much when a DOTS is placed inside
+* Both campfires in Maple Lodge will now have a max hearing range of 5m and are the same volume
+* The Maple Campsite Chem toilet will now behave similarly to house closets and lockers when hiding
+* Brightness will now default to 1 for new players instead of 0
+
+== Fixes ==
+* Significant improvements to loading times and performance across the whole game
+* Max-level players will no longer get stuck on the reward screen
+* You can now get past the splash screen if you are failing to connect to Steam
+* You can no longer hide from the ghost’s view behind a lit campfire
+* The totem pole in Maple Lodge Campsite will now block the ghost's view during hunts
+* Moved the twigs easter egg in Maple back to where it should be
+* Removed the invisible walls on top of the small tents
+* Incense III will now swing again while held
+* Maple’s Green and White tents now have the correct room names
+* Moved some camping chairs by Campfire B in Maple to remove a safe spot
+* Moved the small green tent in Maple’s Campsite B to remove a safe spot
+* Moved the Maple Campsite’s Ouija Board spawn to the right slightly to stop it from clipping
+* Moved the Maple music box spawn up slightly to stop it clipping inside of the log
+* Moved the orange bottle up one shelf to stop it clipping with the Maple Ouija Board spawn
+* Moved the fingerprint up on the Maple light pole near the Toilet block
+* Ambient Occlusion will no longer be turned on in VR
+* Fixed fog several leaks:
+** Ridgeview bathroom
+** Willow garage, laundry, bathroom and bedroom
+** Sunny Meadows entry, courtyard hallway
+** Woodwind toilet block
+
+==References==
+{{Reflist}}
+
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.9.2.0]]
+[[ru:0.9.2.0]]

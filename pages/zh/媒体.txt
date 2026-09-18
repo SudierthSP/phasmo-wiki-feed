@@ -1,0 +1,414 @@
+# 媒体
+# revid 3966  2025-10-15T15:13:39Z  by CangMingSW
+# 备注: /* 照片证据 */
+# sha256 c1d852d01fb8f439583d8b56b504cbfb9079f5d16f4c7cccbcc12f6068da74d2  bytes 7123
+# 源: https://phasmophobia.fandom.com/zh/api.php在调查过程中，玩家可以录制'''媒体'''以获得额外的金钱和经验奖励。可以在手册的“媒体”选项卡中看到录制的媒体。 
+
+==机制==
+在[[合约]]期间，当首次使用[[相机]]、[[摄像机]]或[[录音机]]录制特定类别的媒体时，它会标有'''“唯一”'''印章。录制同一类别的另一个主题会将其标记为'''重复'''，从而奖励更少的金钱和经验。
+
+当使用更高等级的相应设备录制时，每块媒体都会获得奖励：
+
+* 二级：$1 / 1 XP
+* 三级：$2 / 2 XP
+
+录制的声音可以在手册的媒体选项卡中收听。
+
+为了完成完美调查，除了通常的要求外，日志中必须仅包含独特媒体，其中包括 5 张独特照片、5 个独特视频和 3 个独特声音。
+
+==照片证据==
+照片证据可以通过使用[[相机]]拍照来获得：
+{| class="fandom-table"
+!项目
+!独特奖励
+!重复奖励
+!目标板上的便签
+|-
+|[[鬼魂|鬼]]
+|$15 / 15 XP
+|$3 / 3 XP
+|证明鬼直接存在的证据。
+|-
+|影子幽灵
+|$15 / 15 XP
+|$3 / 3 XP
+|That's no ordinary shadow
+|-
+|半透明幽灵
+|$15 / 15 XP
+|$3 / 3 XP
+|一个……人的扭曲形状？
+|-
+|雾状形态
+|$15 / 15 XP
+|$3 / 3 XP
+|That thing came after me!
+|-
+|骨头
+|$5 / 5 XP
+|$1 / 1 XP
+|我们发现了一些遗骸……
+|-
+|烧焦的[[十字架]]
+|$10 / 10 XP
+|$2 / 2 XP
+|鬼真的很生气。
+|-
+|尸体
+|$5 / 5 XP
+|$1 / 1 XP
+|It killed my teammate, we should leave.<br><small>(1st dead body)</small>
+----It killed more of the team! We HAVE to go!<br><small>(2nd dead body)</small>
+----Now I'm the only one left...I'm sorry.<br><small>(3rd dead body)</small>
+|-
+|脏水
+|$5 / 5 XP
+|$1 / 1 XP
+|It made the sink water dirty, ew.
+|-
+|点阵鬼影
+|$10 / 10 XP
+|$2 / 2 XP
+|Evidence of a physical form!
+|-
+|[[EMF]] 读数
+|$5 / 5 XP
+| -
+|正向 EMF 读数
+|-
+|[[幻妖|Obake]] 指纹
+|$10 / 10 XP
+|$2 / 2 XP
+|它在变形…？
+|-
+|[[指纹]]
+|$5 / 5 XP
+|$1 / 1 XP
+|The ghost left UV evidence!
+|-
+|[[脚印]]
+|$5 / 5 XP
+|$1 / 1 XP
+|紫外线照射出的鬼魂脚印！
+|-
+|[[刺骨寒温]]
+|$10 / 10 XP
+| -
+|Freezing Temperatures
+|-
+|[[鬼魂笔记]]
+|$10 / 10 XP
+|$2 / 2 XP
+|It's written something in our book.
+|-
+|物体被扔
+|$5 / 5 XP
+|$1 / 1 XP
+|It moved this!
+|-
+|[[闹鬼魔镜]]
+|$5 / 5 XP
+| -
+|This mirror made me feel...weird.
+|-
+|[[猴爪]]
+|$5 / 5 XP
+| -
+|My wish came true, but at what cost?
+|-
+|[[八音盒]]
+|$5 / 5 XP
+| -
+|A music box, the song is nice but creepy.
+|-
+|[[通灵板]]
+|$5 / 5 XP
+| -
+|This Ouija Board allows us to talk with the ghost.
+|-
+|[[召唤阵]]
+|$5 / 5 XP
+| -
+|这个召唤阵看起来很危险。
+|-
+|[[塔罗牌]]
+|$5 / 5 XP
+| -
+|我们找到的一些卡牌，它会让人陷入疯狂。
+|-
+|[[巫毒娃娃]]
+|$5 / 5 XP
+| -
+|We found this doll, it made the ghost angry.
+|-
+|月亮图腾
+''仅在深红之眼活动中出现''
+|$5 / 5 XP
+|$1 / 1 XP
+|碰这个可能不是个好主意…
+|}
+
+==视频证据==
+照片证据可以通过使用[[摄像机]]拍摄来获得：
+{| class="fandom-table"
+!项目
+!独特奖励
+!重复奖励
+!目标板上的便签
+|-
+|幽灵变形
+|$20 / 20 XP
+|$5 / 5 XP
+|It changed forms!
+|-
+|正在猎杀的鬼魂
+|$20 / 20 XP
+|$5 / 5 XP
+|它攻击了我们…
+|-
+|鬼
+|$15 / 15 XP
+|$3 / 3 XP
+|Finally, proof of a ghost!
+|-
+|影子幽灵
+|$15 / 15 XP
+|$3 / 3 XP
+|那不是普通的影子
+|-
+|半透明幽灵
+|$15 / 15 XP
+|$3 / 3 XP
+|The distorted shape of a...person?
+|-
+|雾状形态
+|$15 / 15 XP
+|$3 / 3 XP
+|That thing came after me!
+|-
+|D.O.T.S. 幽灵
+|$10 / 10 XP
+|$2 / 2 XP
+|Evidence of a physical form!
+|-
+|烧焦的十字架
+|$10 / 10 XP
+|$2 / 2 XP
+|着火了！
+|-
+|[[阳光牧场精神病院]]十字架
+|$5 / 5 XP
+|$1 / 1 XP
+|It wasn't like this before...
+|-
+|尸体
+|$5 / 5 XP
+|$1 / 1 XP
+|It killed my teammate, we should leave.<br><small>(1st dead body)</small>
+----It killed more of the team! We HAVE to go!<br><small>(2nd dead body)</small>
+----Now I'm the only one left...I'm sorry.<br><small>(3rd dead body)</small>
+|-
+|踩过的[[盐]]
+|$10 / 10 XP
+|$2 / 2 XP
+|鬼踩盐了！
+|-
+|门被移动
+|$5 / 5 XP
+|$1 / 1 XP
+|它动了这东西！
+|-
+|熄灭火焰
+|$5 / 5 XP
+|$1 / 1 XP
+|有东西扑灭了火焰！
+|-
+|火焰互动
+|$5 / 5 XP
+|$1 / 1 XP
+|It's manipulating the flames
+|-
+|[[鬼魂笔记]]
+|$10 / 10 XP
+|$2 / 2 XP
+|它写字了…
+|-
+|[[灵球]]
+|$10 / 10 XP
+|$2 / 2 XP
+|We've seen Ghost Orbs!
+|-
+|互动
+|$5 / 5 XP
+|$1 / 1 XP
+|
+|-
+|灯光铩烁
+|$10 / 10 XP
+|$2 / 2 XP
+|The light is not supposed to do that!
+|-
+|灯泡爆炸
+|$10 / 10 XP
+|$2 / 2 XP
+|It blew out the light bulbs!
+|-
+|开关灯
+|$5 / 5 XP
+|$1 / 1 XP
+|The light switched on it's own.
+|-
+|检测到运动
+|$5 / 5 XP
+|$1 / 1 XP
+|触发了我们的运动传感器！
+|-
+|物体被扔
+|$5 / 5 XP
+|$1 / 1 XP
+|它动了这东西！
+|-
+|失真音乐
+|$5 / 5 XP
+|$1 / 1 XP
+|音乐听起来不对
+|-
+|摇椅
+|$5 / 5 XP
+|$1 / 1 XP
+|The chair was rocking...
+|-
+|通灵板
+|$5 / 5 XP
+|$1 / 1 XP
+|It's responding!
+|}
+
+==声音证据==
+照片证据可以通过使用[[录音机]]录制来获得：
+{| class="fandom-table"
+!项目
+!独特奖励
+!重复奖励
+!目标板上的便签
+|-
+|[[女妖]]尖啸
+|$10 / 10 XP
+|$2 / 2 XP
+|之前可不是这样的……
+|-
+|[[雾影]]呼吸
+|$10 / 10 XP
+|$2 / 2 XP
+|之前可不是这样的……
+|-
+|正在猎杀的鬼魂
+|$20 / 20 XP
+|$5 / 5 XP
+|之前可不是这样的……
+|-
+|雾状形态
+|$15 / 15 XP
+|$3 / 3 XP
+|That thing came after me!
+|-
+|鬼魂事件
+|$15 / 15 XP
+|$3 / 3 XP
+|之前可不是这样的……
+|-
+|烧焦的十字架
+|$10 / 10 XP
+|$2 / 2 XP
+|It's burning!
+|-
+|[[EMF 5级]] 读数
+|$10 / 10 XP
+|$2 / 2 XP
+|This made a sound!
+|-
+|熄灭火焰
+|$5 / 5 XP
+|$1 / 1 XP
+|它把火吹灭了
+|-
+|[[鬼魂笔记]]
+|$10 / 10 XP
+|$2 / 2 XP
+|It started writing...
+|-
+|超自然笑声
+|$5 / 5 XP
+|$1 / 1 XP
+|之前可不是这样的……
+|-
+|超自然呻吟
+|$5 / 5 XP
+|$1 / 1 XP
+|之前可不是这样的……
+|-
+|超自然说话
+|$5 / 5 XP
+|$1 / 1 XP
+|之前可不是这样的……
+|-
+|超自然低语
+|$5 / 5 XP
+|$1 / 1 XP
+|之前可不是这样的……
+|-
+|附身玩具
+|$5 / 5 XP
+|$1 / 1 XP
+|之前可不是这样的……
+|-
+|失真的音乐
+|$5 / 5 XP
+|$1 / 1 XP
+|
+|-
+|[[通灵盒]]回应
+|$10 / 10 XP
+|$2 / 2 XP
+|之前可不是这样的……
+|-
+|[[八音盒]]
+|$5 / 5 XP
+|$1 / 1 XP
+|之前可不是这样的……
+|-
+|[[通灵板]]
+|$5 / 5 XP
+|$1 / 1 XP
+|It's responding!
+|}
+
+== 历史 ==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+! rowspan="5" |[[0.13.0]]
+|添加视频证据。
+|-
+|添加声音证据。
+|-
+|用独特/重复系统代替星级系统。
+|-
+|所有媒体奖励现在都包含在奖励倍数中。
+|-
+|在调查期间，现在最多可以删除三条媒体。
+|-
+! rowspan="4" |[[0.13.1.0]]
+|添加了新的视频证据:
+*鬼魂转动阳光牧院的十字架。
+*阳光牧院教堂中燃烧的十字架。
+*幻妖变形。
+|-
+|调整奖励，让更难录制的媒体更有价值。
+|-
+|几段视频证据已从独特的更改为现在算作互动：电话、水槽、淋浴、野营炉、捕熊器。
+|-
+|删除了摇椅声音证据，因为它不是鬼魂发出的声音。
+|}
+
+[[Category:游戏玩法]]

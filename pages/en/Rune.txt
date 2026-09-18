@@ -1,0 +1,34 @@
+# Rune
+# revid 24015  2026-06-28T21:46:14Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 cebc329542eb9623d44c5a05c9bc850bdb572fa5adef1a0a71d4f6778f69f1fa  bytes 2601
+# 源: https://phasmophobia.fandom.com/api.php[[File:Runes Lobby.png|thumb|The runes' layout in the lobby.]]
+'''Runes''' were part of riddles that lasted between [[0.8.1.0]] and [[0.10.0]]. Using the [[UV Light]] in the [[lobby]], the player could find the runes on the ground near the display cases.
+
+Solving the riddles allowed the player to get the name of a new map which ultimately was [[Point Hope]].
+
+== Riddle locations ==
+<gallery>
+Bleasdale Riddle.png|The riddle in [[Bleasdale Farmhouse]] was located in the stairs leading to the Attic, on the side of the Attic's floor.
+Camp Woodwind Riddle.png|The riddle in [[Camp Woodwind]] was located in the Food Tent, behind some boxes in the left-hand corner.
+Edgefield Riddle.png|The riddle in [[42 Edgefield Road]] was located on a barrier next to the [[truck]].
+Prison Riddle.png|The riddle in [[Prison]] was located on the left side of the truck.
+Ridgeview Riddle.png|The riddle in [[10 Ridgeview Court]] was located on the wall of the house, on the right of the [[Exit Door|front door]].
+Tanglewood Riddle.png|The riddle in [[6 Tanglewood Drive]] was located in the Master Bedroom's closet, behind the door.
+Willow Riddle.png|The riddle in [[13 Willow Street]] was located in Boys Bedroom, on a whiteboard next to the computer.
+</gallery>
+
+== Riddle solutions ==
+<gallery>
+Bleasdale Riddle Solution.png|Bleasdale Farmhouse's rune could be found in [[Grafton Farmhouse]], when lighting a flame near a scarecrow while the weather is either Light Rain or Snow.
+Camp Woodwind Riddle Solution.png|Camp Woodwind's rune could be found in [[13 Willow Street]], when pointing a UV light through the window in Master Bedroom towards the wall of the staircase while the weather is Fog.
+Edgefield Riddle Solution.png|42 Edgefield Road's rune could be found in [[6 Tanglewood Drive]], when pointing a UV light towards the ceiling, above the rocking chair in the basement.
+Prison Riddle Solution.png|Prison's rune could be found in [[Brownstone High School]], after following a "maze" of arrows with a UV light from the right back exit door.
+Ridgeview Riddle Solution.png|10 Ridgeview Court's rune could be found in [[Prison]], when pointing a UV light on a wall in Bathroom B.
+Tanglewood Riddle Solution.png|6 Tanglewood Drive's rune could be found in [[Maple Lodge Campsite]], when pointing a UV light to the ground, at the end of the Pier while the weather is Sunrise.
+Willow Riddle Solution.png|13 Willow Street's rune could be found in [[Sunny Meadows]], when pointing a UV light on a boiler in Boilerhouse while the weather is Snow.
+</gallery>
+
+[[Category:Map Features]]
+[[fr:Rune]]
+[[ru:Руны]]

@@ -1,0 +1,49 @@
+# Video Feed
+# revid 24495  2026-08-25T20:12:40Z  by Darkhooper
+# 备注: number of CCTVs on new Restricted maps
+# sha256 6cacdf7bebeaef6bb21d14a1ff26ec06d572caffa70cb6121a00682342ddb6db  bytes 2172
+# 源: https://phasmophobia.fandom.com/api.php[[ru:Видеомонитор]]
+[[File:20201113215648 1.jpg|thumb|Security camera in Brownstone High School.]]
+The '''video feed''' (also known as ''CCTV'' or ''Camera System'') is a feature used to give players extra surveillance from inside the [[truck]], with each map having a few angles covered by video cameras already present on the location. The video feed is accessible by using the [[computer]].
+
+== Usage ==
+Each map will have a specific number of CCTV cameras installed on-site. The following table lists the number per map:
+{| class="fandom-table"
+|+Total number of pre-installed CCTV cameras on each map
+!Map
+!Number of CCTVs
+|-
+![[6 Tanglewood Drive]]<br>[[42 Edgefield Road]]<br>[[10 Ridgeview Court]]<br>[[13 Willow Street]]<br>[[Grafton Farmhouse]]<br>[[Camp Woodwind]]<br>[[Point Hope]]<br>[[Point Hope#Point Hope - Restricted|Point Hope Restricted]]
+|1
+|-
+![[Maple Lodge Campsite]]
+|2
+|-
+![[Nell's Diner]]<br>[[Bleasdale Farmhouse]]
+|3
+|-
+![[Sunny Meadows Mental Institution#Sunny Meadows Mental Institution - Restricted|Sunny Meadows Restricted]]
+|3-4
+|-
+![[Brownstone High School#Brownstone High School - Restricted|Brownstone High School Restricted]]
+|4-5
+|-
+![[Prison#Prison - Restricted|Prison Restricted]]
+|4-6
+|-
+![[Sunny Meadows Mental Institution|Sunny Meadows]]
+|8
+|-
+![[Prison]]
+|12
+|-
+![[Brownstone High School]]
+|15
+|}<br>CCTV cameras are always enabled, regardless of whether the [[fuse box]] is turned on or not. CCTV cameras cannot be taken by players or disabled.
+
+The location of all CCTV cameras pre-installed will be visible on the [[Site Map]]. The CCTV camera currently displayed on the computer will also be indicated on the site map by a beam of light showing the camera's approximate facing. Video feed from [[video camera]]s will also be available on the computer, but these will not be shown on the site map.
+
+== Trivia ==
+* It is possible (though uncommon) on some maps for players to see [[Ghost Orb]]s via the CCTV cameras, if the camera happens to be able to view into the [[ghost room]]. Ghost Orbs spawn before opening the exit door, so it will be helpful if spotted beforehand.
+[[Category:Gameplay]]
+[[fr:Flux vidéo]]

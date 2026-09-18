@@ -1,0 +1,51 @@
+# 0.27.4.2
+# revid 23922  2026-06-28T21:38:38Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 9913aa295fffb778be7daa6ef0c0f2e1c6955c43e7f7f9e09dd3b09bf1a80e64  bytes 3262
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+|release_date=27 March 2021
+|previous_major_version=[[0.26.8.1]]
+|previous_minor_version=?
+|next_minor_version=?
+|next_major_version=[[0.28.6.5]]
+}}'''0.27.4.2''' was released on 27 March 2021.<ref>[https://store.steampowered.com/news/app/739630/view/2984171597620738905 ''Bug fixes, new objectives, photo reward changes and more''. 27 March 2021 (on Steam).]</ref> This update adds new objectives, changes the photo system, and fixes bugs.
+
+== Additions ==
+* The ghost will now have a chance to blow out candles if they are close and the room lights are off.
+* Added a new objective: Get a Ghost to blow out a Candle.
+* Added a new Intermediate and Professional objective: Have a member of your team escape the Ghost during a hunt.
+* Added a new Professional objective: Repel the Ghost with a smudge stick while it's chasing someone.
+* Added a new Multiplayer objective: Get an average sanity below 25%.
+* Added support for bHaptics tact suits and face covers.
+* With the VR change to forward rendering MSAA can now be used with VR and will default to 4xMSAA if enabled in the graphics settings.
+* Added a post game screen showing some stats about your investigation.
+
+== Changes ==
+* The Crucifix will now have a visual change with each use instead of disappearing with it's final use.
+* The photo reward values now use a quality level which is based on the distance you took the photo rather than the reward being random. This quality level will show in the Journal.
+* Each player will now have a unique colour on the mini map and sanity monitor.
+* The VR rendering path has been changed from deferred to forward rendering. This will give better VR performance as well as fixing several graphical issues.
+* Changed the look of the sanity monitor to help players who are colour blind see the sanity values.
+
+== Fixes ==
+* Fixed a bug where the ghost would not leave any EMF if the host was dead.
+* Fixed a bug where the heartbeat sound could play when you were outside.
+* Fixed a bug where if you were holding a lit candle your sanity would drain in some locations.
+* Fixed a bug where the photo evidence wouldn't always be for the evidence that is closest in the photo.
+* Fixed a bug where the ghost orbs were sometimes moving inside the rooms floor and were not visible.
+* Fixed an issue where the CCTV monitor was changing cameras whenever a camera got turned on or off.
+* Fixed a bug where you couldn't play offline if you failed to connect to the authentication servers.
+* Fixed a bug where VR players had a white glare around their vision.
+* Fixed an issue where the default VR hand rotation when you weren't grabbing something was rotated the wrong way.
+* Fixed a bug where the ghost would still interact with objects far away if the object was grabbed near it.
+* Fixed a bug where you could hold down the radio and talk during a hunt. Your voice will now be instantly cut off.
+* Fixed a bug where the room temperatures would lower before you unlocked the main door on Amateur and Intermediate.
+* Fixed a bug where VR dead bodies didn't spawn.
+* Fixed an exploit where multiple people could use the same sanity pill at the same time.
+
+== References ==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.27.4.2]]
+[[ru:0.27.4.2]]

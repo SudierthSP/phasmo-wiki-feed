@@ -1,0 +1,68 @@
+# Main Page
+# revid 24618  2026-09-08T17:31:08Z  by Darkhooper
+# 备注: adding link to Spanish wiki
+# sha256 1c610004ef90e2c1553199ab176a7571c283fbdf709bdddd7a46c4a5170ed9d0  bytes 5960
+# 源: https://phasmophobia.fandom.com/api.php<mainpage-leftcolumn-start />
+<div style="text-align:center; font-family:'October Crow'; font-size:15px">Welcome to</div>
+<div style="text-align:center; font-family:'October Crow'; font-size:100px">Phasmopedia</div>
+<div style="text-align:center; font-family:'October Crow'; font-size:15px">The unofficial Phasmophobia wiki</div>
+
+----
+<center>
+<div style="background:#FFFFFFF; border:2px solid #fff; display:inline-block" align="center"><gallery type="slider">
+Phasmophobia - 13 Willow Street Rework Release Trailer|Willow Rework|linktext=13 Willow Street is now on the market.
+Tanglewood.png|Begin your journey...|link=6 Tanglewood Drive|linktext=at this humble abode in a quiet neighbourhood — what could go wrong?
+Sunnymeadows corridor basement.jpg|A mental place|link=Sunny Meadows|linktext=Dare you explore the secrets of this abandoned asylum?
+</gallery>
+</div>
+</center><br>
+<div style="text-align:center">[[Phasmophobia]] is a 4-player, online co-op, psychological horror game, made by [[Kinetic Games]], where you and your team of paranormal investigators will enter [[map|haunted locations]] filled with paranormal activity and try to gather as much [[evidence]] as you can. You will use your ghost-hunting [[equipment]] to find and record evidence to sell on to a ghost removal team.<br><br>
+
+Please read the [[w:Fandom_Community_Guidelines|General Community Guidelines]] and [https://fandom.com/terms-of-use Fandom's Terms of Use] before editing our articles.</div>
+----
+{| class="hoverimage" width="100px" align="center" ; ;"
+| style="padding: 5px;" |<div class="button123">[[File:MainPageGhosts.png|center|150px|link=Ghost]]</div><div class="button123light">[[File:MainPageGhosts.png|center|150px|link=Ghost]]</div>
+| style="padding: 5px;" |<div class="button123">[[File:MainPageEquipment.png|center|150px|link=Equipment]]</div><div class="button123light">[[File:MainPageEquipment.png|center|150px|link=Equipment]]</div>
+| style="padding: 5px;" |<div class="button123">[[File:MainPageMaps.png|center|150px|link=Map]]</div><div class="button123light">[[File:MainPageMaps.png|center|150px|link=Map]]</div>
+| style="padding: 5px;" |<div class="button123">[[File:MainPageEvidence.png|center|150px|link=Evidence]]</div><div class="button123light">[[File:MainPageEvidence.png|center|150px|link=Evidence]]</div>
+| style="padding: 5px;" |<div class="button123">[[File:MainPageSanity.png|center|150px|link=Sanity]]</div><div class="button123light">[[File:MainPageSanity.png|center|150px|link=Sanity]]</div>
+|}
+----
+{{Disclaimer}}
+
+<mainpage-endcolumn />
+<mainpage-rightcolumn-start />
+{|
+| style="padding: 2.5px;" |<span class="wds-button" style="width: 250px; border-radius: 2rem; background-color:#1B2838; border: none"><div>[[File:MediaBoxSteam.png|24px|link=]]&nbsp;[https://store.steampowered.com/app/739630/Phasmophobia/ <span style="color:white; text-transform: none;">Get on Steam</span>]</div></span>
+|-
+| style="padding: 2.5px;" |<span class="wds-button" style="width: 250px; border-radius: 2rem; background-color:#00439C; border: none"><div>[[File:PlayStation Logo.png|24px|link=]]&nbsp;[https://store.playstation.com/concept/10005673 <span style="color:white; text-transform: none;">Get on PlayStation Store</span>]</div></span>
+|-
+| style="padding: 2.5px;" |<span class="wds-button" style="width: 250px; border-radius: 2rem; background-color:#054B16; border: none"><div>[[File:Xbox Logo.png|24px|link=]]&nbsp;[https://www.xbox.com/games/store/-/9N6D60SBZN05 <span style="color:white; text-transform: none;">Get on Xbox</span>]</div></span>
+|-
+| style="padding: 2.5px;" |<span class="wds-button" style="width: 250px; border-radius: 2rem; background-color:#5665F2; border: none"><div>[[File:MediaBoxDiscord.png|24px|link=]]&nbsp;[https://discord.gg/phasmophobia <span style="color:white; text-transform: none;">Join the Phasmophobia Discord</span>]</div></span>
+|-
+{| align="center"
+| rowspan="2" | '''Other socials'''
+| style="padding: 5px;" align="center" |<div class="button123">[[File:MediaBoxTwitter.png|center|36px|link=https://x.com/PlayPhasmo]]</div><div class="button123light">[[File:MediaBoxTwitterActive.png|center|36px|link=https://x.com/PlayPhasmo]]</div>
+| style="padding: 5px;" align="center" |<div class="button123">[[File:MediaBoxInstagram.png|center|36px|link=https://www.instagram.com/playphasmo]]</div><div class="button123light">[[File:MediaBoxInstagramActive.png|center|36px|link=https://www.instagram.com/playphasmo]]</div>
+| style="padding: 5px;" align="center" |<div class="button123">[[File:MediaBoxReddit.png|center|36px|link=https://www.reddit.com/r/PhasmophobiaGame]]</div><div class="button123light">[[File:MediaBoxRedditActive.png|center|36px|link=https://www.reddit.com/r/PhasmophobiaGame]]</div>
+|-
+| style="padding: 5px;" align="center" |<div class="button123">[[File:MediaBoxTikTok.png|center|36px|link=https://www.tiktok.com/@playphasmo]]</div><div class="button123light">[[File:MediaBoxTikTokActive.png|center|36px|link=https://www.tiktok.com/@playphasmo]]</div>
+| style="padding: 5px;" align="center" |<div class="button123">[[File:MediaBoxThreads.png|center|36px|link=https://www.threads.net/@playphasmo]]</div><div class="button123light">[[File:MediaBoxThreadsActive.png|center|36px|link=https://www.threads.net/@playphasmo]]</div>
+| style="padding: 5px;" align="center" |<div class="button123">[[File:MediaBoxBluesky.png|center|36px|link=https://bsky.app/profile/playphasmo.bsky.social]]</div><div class="button123light">[[File:MediaBoxBlueskyActive.png|center|36px|link=https://bsky.app/profile/playphasmo.bsky.social]]</div>
+|}
+|}<!-- todo (help needed): simplify buttons -->
+----
+{{DYKBox}}
+----
+<div style="text-align:center">This Wiki has<br>• '''{{NUMBEROFARTICLES}}''' articles<br>• '''{{NUMBEROFEDITS}}''' edits<br>• '''{{NUMBEROFFILES}}''' files</div>
+<mainpage-endcolumn />
+[[Category:Phasmophobia Wiki]]
+[[Category:Blog posts]]
+[[cs:]]
+[[de:]]
+[[es:]]
+[[fr:]]
+[[it:]]
+[[ru:]]
+[[zh:]]

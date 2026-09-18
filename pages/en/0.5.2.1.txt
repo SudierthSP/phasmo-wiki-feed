@@ -1,0 +1,42 @@
+# 0.5.2.1
+# revid 23947  2026-06-28T21:40:27Z  by VVSlavik
+# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
+# sha256 d5bb4aac1668c62f439cef279836148e1897a43f03fb9bea2e74c441fb111cf6  bytes 2217
+# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+ | release_date=4 March 2022
+ | previous_major_version=[[0.5.0]]
+ | previous_minor_version=[[0.5.2.0]]
+ | next_major_version=[[0.6.0]]
+}}'''0.5.2.1''' is an update to the game released on 4 March 2022.<ref>[https://store.steampowered.com/news/app/739630/view/3090035994578324798 Cursed Posessions | Update v0.5.2.1]</ref> The update further revises the Hantu's speed values and fixes bugs.
+
+== Changes ==
+=== Ghosts ===
+{{Main|Ghost}}
+;[[Hantu]]
+*Can no longer turn on the [[fuse box]]
+*Speed brackets have been further changed
+**Colder rooms now have higher speeds topping out at 2.7 m/s
+
+== Bug fixes ==
+*Fixed a bug where the tarot cards did not drop properly after drawing a hanged man, causing them to be in your inventory again after being revived
+*Fixed a bug where the tarot card animation did not play when you used them again after drawing a hanged man
+*Fixed a bug where the voodoo doll wouldn't start a hunt when used with no sanity
+*Fixed a bug where the voodoo doll and tower card would sometimes require the lights to be off to get an interaction
+*Fixed a bug where the weather particles wouldn't always be visible after you were revived
+*Fixed an issue where it was hard to take a photo of the crawling ghosts
+*Fixed a bug where the parabolic sounds could change sound while they were playing
+*Fixed a bug where the Banshee parabolic sound volume was fading in and out
+*Fixed a bug where Banshees would not be able to detect voices and equipment during hunts if the Banshee target was outside
+*Fixed a bug where voice recognition, some ghost traits and events were not working in rooms after the light was blown
+*Fixed a bug where multiple players were being revived during Nightmare hunts when the high priestess card was drawn
+*Fixed a bug where the devil, hermit and death tarot card could stop the hunt if used as soon as a hunt started
+*Fixed a bug where Phantoms were showing in ghost photos taken by other players
+*Fixed a bug where the devil card would not work if you had high sanity with a Shade
+*Fixed a bug where the ghost would sometimes move during the hunt grace period
+
+== References ==
+{{Reflist}}
+{{Versions}}
+[[Category:Development]]
+[[fr:0.5.2.1]]
+[[ru:0.5.2.1]]
