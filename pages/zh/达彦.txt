@@ -1,7 +1,0 @@
-# 达彦
-# revid 4105  2026-03-16T14:40:25Z  by Qsefthuopq
-# 备注: 重定向页面至[[达魇]]
-# sha256 c2d856771ab1ab28bbbe22bfa880be4f0d2ce950e214bf7451f542a1711622a8  bytes 20
-# 源: https://phasmophobia.fandom.com/zh/api.php
-
-#redirect [[达魇]]

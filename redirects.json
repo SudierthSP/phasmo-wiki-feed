@@ -1,19 +1,145 @@
 {
-  "generated": "2026-09-18T19:52:12.941Z",
+  "generated": "2026-09-18T19:55:42.896Z",
   "counts": {
-    "en": 0,
-    "zh": 0
+    "en": 57,
+    "zh": 41
   },
   "langs": {
-    "en": {},
-    "zh": {}
+    "en": {
+      "Smudge Stick": "Incense",
+      "Salt shaker": "Salt",
+      "Glowstick": "UV Light",
+      "Ghost event": "Ghost Event",
+      "Fuse box": "Fuse Box",
+      "Exit door": "Exit Door",
+      "Video camera": "Video Camera",
+      "Dirty water": "Dirty Water",
+      "Footprints": "Ultraviolet",
+      "Phasmophobia Wiki": "Main Page",
+      "Optional Objective": "Objective Board",
+      "Photo": "Photo Camera",
+      "Bone": "Bone Evidence",
+      "D.O.T.S Projector": "D.O.T.S. Projector",
+      "Exposition Update": "0.3.0",
+      "Fusebox": "Fuse Box",
+      "Nightmare Update": "0.4.0",
+      "Glow Stick": "UV Light",
+      "Ghost room": "Ghost Room",
+      "Cursed Possessions Update": "0.5.0",
+      "Setup phase": "Setup Phase",
+      "Sound sensor": "Sound Sensor",
+      "VR Overhaul Update": "0.6.0",
+      "Ghost model": "Ghost Model",
+      "Smudge stick": "Incense",
+      "Tanglewood Street House": "6 Tanglewood Drive",
+      "Edgefield Street House": "42 Edgefield Road",
+      "Ridgeview Road House": "10 Ridgeview Court",
+      "Willow Street House": "13 Willow Street",
+      "Smudge sticks": "Incense",
+      "Sunny Meadows": "Sunny Meadows Mental Institution",
+      "DOTS Projector": "D.O.T.S. Projector",
+      "Fingerprints": "Ultraviolet",
+      "UV Flashlight": "UV Light",
+      "Sanity Pills": "Sanity Medication",
+      "Lighter": "Igniter",
+      "Candle": "Firelight",
+      "Smudge Sticks": "Incense",
+      "Head Mounted Camera": "Head Gear",
+      "Salt Shaker": "Salt",
+      "High School": "Brownstone High School",
+      "Mimic": "The Mimic",
+      "Twins": "The Twins",
+      "Van": "Truck",
+      "Cursed possession": "Cursed Possession",
+      "Xp": "Experience",
+      "Hide": "Hiding Spots",
+      "Closet": "Hiding Spots",
+      "Locker": "Hiding Spots",
+      "Blood moon": "Weather",
+      "Mirror": "Haunted Mirror",
+      "Badge": "ID Card",
+      "Teddy Bear": "Toy",
+      "Tarot": "Tarot Cards",
+      "Cursed hunt": "Hunt",
+      "D.O.T.S Projector (Evidence)": "D.O.T.S. Projector (Evidence)",
+      "Favorite Room": "Ghost Room"
+    },
+    "zh": {
+      "首页": "恐鬼症 Wiki",
+      "地点": "地图",
+      "指纹": "紫外线",
+      "鬼魂活动": "互动",
+      "Sanity Screen": "理智显示屏",
+      "紫外线手电筒": "紫外线灯光",
+      "调查": "合约",
+      "卡车": "厢式货车",
+      "枫树营地": "枫林营地",
+      "噩梦更新": "万圣节更新",
+      "0.4.0": "万圣节更新",
+      "营地": "枫林营地",
+      "圣木": "熏香",
+      "拍照奖励": "媒体",
+      "打火机": "点火器",
+      "蜡烛": "火光",
+      "头戴式摄像机": "头戴设备",
+      "醒脑丸": "理智药",
+      "荧光棒": "紫外线灯光",
+      "死灵": "魅影",
+      "妖灵": "女妖",
+      "0.3.0": "博览更新",
+      "0.5.0": "圣诞节更新",
+      "诅咒之物更新": "圣诞节更新",
+      "Willow Street House": "柳树街房屋",
+      "Tanglewood Street House": "坦格活德街房屋",
+      "VR重制更新": "0.6.0",
+      "阳光草甸精神病院": "阳光牧场精神病院",
+      "足迹": "脚印",
+      "训练": "教程",
+      "V0.7": "0.7.0",
+      "学校": "褐石中学",
+      "精神病院": "阳光牧场精神病院",
+      "每日和每周挑战": "每日和每周任务",
+      "理智恢复": "理智药",
+      "紫外线（装备）": "紫外线灯光",
+      "希望角": "希望角灯塔",
+      "点阵投影仪证据": "点阵投影仪",
+      "达彦": "达魇",
+      "Deildegast": "界灵",
+      "擾物靈": "界灵"
+    }
   },
   "unresolved": {
     "en": {},
     "zh": {}
   },
   "chains": {
-    "en": {},
-    "zh": {}
+    "en": {
+      "Salt shaker": [
+        "Salt shaker",
+        "Salt Shaker",
+        "Salt",
+        "Salt"
+      ],
+      "Glow Stick": [
+        "Glow Stick",
+        "Glowstick",
+        "UV Light",
+        "UV Light"
+      ]
+    },
+    "zh": {
+      "醒脑丸": [
+        "醒脑丸",
+        "理智恢复",
+        "理智药",
+        "理智药"
+      ],
+      "0.5.0": [
+        "0.5.0",
+        "诅咒之物更新",
+        "圣诞节更新",
+        "圣诞节更新"
+      ]
+    }
   }
 }

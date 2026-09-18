@@ -1,7 +1,0 @@
-# Sunny Meadows
-# revid 13887  2023-01-07T05:03:05Z  by Skaijie
-# 备注: Redirected page to [[Sunny Meadows Mental Institution]]
-# sha256 a311c40ddc7e3d871dff6c921d6dbb8ee2bde1620039ccd28c21cd474921ef40  bytes 46
-# 源: https://phasmophobia.fandom.com/api.php
-
-#REDIRECT [[Sunny Meadows Mental Institution]]

@@ -1,7 +1,0 @@
-# 0.3.0
-# revid 1534  2021-12-01T03:59:58Z  by Qsefthuopq
-# 备注: 重定向页面至[[博览更新]]
-# sha256 1fb7d4723378f625c78ed41d8b93516cf41cf1ed80c526b7aa9e4bb18d4b2998  bytes 26
-# 源: https://phasmophobia.fandom.com/zh/api.php
-
-#redirect [[博览更新]]

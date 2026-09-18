@@ -1,7 +1,0 @@
-# 调查
-# revid 1218  2021-10-22T03:09:29Z  by Qsefthuopq
-# 备注: 重定向页面至[[合约]]
-# sha256 895c29a988bf4781610c7745de97d43b2e2ccbefd0c25ecb2e8cdd0afaef7992  bytes 20
-# 源: https://phasmophobia.fandom.com/zh/api.php
-
-#REDIRECT [[合约]]

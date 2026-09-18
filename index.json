@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-18T19:52:12.941Z",
+  "generated": "2026-09-18T19:55:42.896Z",
   "counts": {
-    "en": 378,
-    "zh": 323
+    "en": 321,
+    "zh": 282
   },
   "langs": {
     "en": [
@@ -98,13 +98,6 @@
         "x": "{{Item Template | img= Ouija Board New.png | imgcaption = | price = | maxamount = 1 | uses = Reusable | starter = | level = | description = The ghost can be asked questions to get definitive information at the cost of pl"
       },
       {
-        "t": "Smudge Stick",
-        "f": "pages/en/Smudge Stick.txt",
-        "b": 272,
-        "r": 15662,
-        "x": "#REDIRECT [[Incense]]"
-      },
-      {
         "t": "Ghost Orb",
         "f": "pages/en/Ghost Orb.txt",
         "b": 6094,
@@ -152,13 +145,6 @@
         "b": 25626,
         "r": 24859,
         "x": "[[File:2.png|alt=|right|310x310px]] '''Ghosts''' are the main focus of ''Phasmophobia''. Each ghost has a set of unique characteristics, including personal identifiers, abilities, and [[evidence]]s. Players must investig"
-      },
-      {
-        "t": "Salt shaker",
-        "f": "pages/en/Salt shaker.txt",
-        "b": 280,
-        "r": 324,
-        "x": "#REDIRECT [[Salt Shaker]] [[Category:Redirect pages]]"
       },
       {
         "t": "Spirit",
@@ -306,13 +292,6 @@
         "b": 6262,
         "r": 21395,
         "x": "{{Equipment Template | tier i img=HeadGear090_T1.png | tier ii img=HeadGear090_T2.png | tier iii img=HeadGear090_T3.png | price=$60 | maxamount=4 | uses=1 | starter=No | tier i level=13 | tier ii level=42 | tier iii leve"
-      },
-      {
-        "t": "Glowstick",
-        "f": "pages/en/Glowstick.txt",
-        "b": 304,
-        "r": 16555,
-        "x": "#REDIRECT [[UV Light]]"
       },
       {
         "t": "Parabolic Microphone",
@@ -518,13 +497,6 @@
         "x": "{{Infobox VG |image=Phasmophobia_Logo.png |caption= |developer=[[Kinetic Games]] |publisher=Kinetic Games |engine= |platform= *[[File:Windows.png|20px]] Windows 10/11 (VR Support) *[[File:SteamDeck.png|20px]] Steam Deck "
       },
       {
-        "t": "Ghost event",
-        "f": "pages/en/Ghost event.txt",
-        "b": 307,
-        "r": 4439,
-        "x": "#REDIRECT [[Ghost Event]]"
-      },
-      {
         "t": "Sanity Monitor",
         "f": "pages/en/Sanity Monitor.txt",
         "b": 1597,
@@ -546,27 +518,6 @@
         "x": "[[File:Tanglewood hallway.png|200px|right]] [[File:Grafton foyer.png|200px|right]] [[File:Maple-rework-main-shot.png|200px|right|thumb|From top: the 6 Tanglewood Drive foyer, the Grafton Farmhouse foyer, and the Maple Lo"
       },
       {
-        "t": "Fuse box",
-        "f": "pages/en/Fuse box.txt",
-        "b": 267,
-        "r": 2130,
-        "x": "#REDIRECT [[Fuse Box]]"
-      },
-      {
-        "t": "Exit door",
-        "f": "pages/en/Exit door.txt",
-        "b": 286,
-        "r": 10121,
-        "x": "#REDIRECT [[Exit Door]]"
-      },
-      {
-        "t": "Video camera",
-        "f": "pages/en/Video camera.txt",
-        "b": 279,
-        "r": 2147,
-        "x": "#REDIRECT [[Video Camera]]"
-      },
-      {
         "t": "Kinetic Games",
         "f": "pages/en/Kinetic Games.txt",
         "b": 7645,
@@ -574,25 +525,11 @@
         "x": "{{Infobox Studio |image1=KineticGames.png |founded=2020<ref>https://www.kineticgames.co.uk/about-us</ref> |founder=Daniel Knight |website=[http://www.kineticgames.co.uk/ www.kineticgames.co.uk] |links= <div class=\"button"
       },
       {
-        "t": "Dirty water",
-        "f": "pages/en/Dirty water.txt",
-        "b": 280,
-        "r": 2346,
-        "x": "#REDIRECT [[Dirty Water]]"
-      },
-      {
         "t": "Computer",
         "f": "pages/en/Computer.txt",
         "b": 1824,
         "r": 21222,
         "x": "[[File:Computer.png|right|frameless|320x320px|alt=]] The '''computer''' is an [[equipment]] located on a desk in the [[truck]]. ==Usage== By default, the computer displays a screensaver, but when the player approaches it"
-      },
-      {
-        "t": "Footprints",
-        "f": "pages/en/Footprints.txt",
-        "b": 288,
-        "r": 17009,
-        "x": "#REDIRECT [[Ultraviolet]] [[Category:Redirect pages]]"
       },
       {
         "t": "Interaction",
@@ -679,13 +616,6 @@
         "x": "{{Location |img=Prison.png |imgcaption=A view inside a cell block. |mapsize=Medium |unlocklevel=11 |floors=2 |rooms=31 (Total) *2F: 12 *1F: 19 *29 possible ghost rooms |exits=3 |faucets=6 (2F) 10 (1F) |videofeeds=5 (2F) "
       },
       {
-        "t": "Phasmophobia Wiki",
-        "f": "pages/en/Phasmophobia Wiki.txt",
-        "b": 306,
-        "r": 3620,
-        "x": "#REDIRECT [[Main Page]]"
-      },
-      {
         "t": "Glitches",
         "f": "pages/en/Glitches.txt",
         "b": 9896,
@@ -705,27 +635,6 @@
         "b": 2701,
         "r": 23334,
         "x": "[[File:CarKey.png|alt=The car key on Tanglewood Street.|thumb|273x273px|The car key on [[6 Tanglewood Drive]].]] '''Keys''' are used to unlock [[Exit Door|exit doors]] to investigation areas within [[map]]s, or to turn o"
-      },
-      {
-        "t": "Optional Objective",
-        "f": "pages/en/Optional Objective.txt",
-        "b": 343,
-        "r": 6091,
-        "x": "#REDIRECT [[Objective Board#Objectives]]"
-      },
-      {
-        "t": "Photo",
-        "f": "pages/en/Photo.txt",
-        "b": 269,
-        "r": 4431,
-        "x": "#REDIRECT [[Photo Camera]]"
-      },
-      {
-        "t": "Bone",
-        "f": "pages/en/Bone.txt",
-        "b": 270,
-        "r": 4472,
-        "x": "#REDIRECT [[Bone Evidence]]"
       },
       {
         "t": "Phasmophobia Map Concepts: The Writer's Corner",
@@ -798,32 +707,11 @@
         "x": "{{Equipment Template | tier i img=DOTS090_T1.png | tier ii img=DOTS090_T2.png | tier iii img=DOTS090_T3.png | price=$65 | maxamount=2 | uses= | starter=Yes | tier i level= | tier ii level=27 | tier iii level=49 | tier i "
       },
       {
-        "t": "D.O.T.S Projector",
-        "f": "pages/en/D.O.T.S Projector.txt",
-        "b": 286,
-        "r": 6262,
-        "x": "#REDIRECT [[D.O.T.S. Projector]]"
-      },
-      {
-        "t": "Exposition Update",
-        "f": "pages/en/Exposition Update.txt",
-        "b": 257,
-        "r": 7561,
-        "x": "#REDIRECT [[0.3.0]]"
-      },
-      {
         "t": "Toy",
         "f": "pages/en/Toy.txt",
         "b": 2527,
         "r": 24422,
         "x": "'''Toys''' are props which the [[ghost]] can interact with. ==Mechanics== [[File:Teddy Bear.png|right|120x120px|thumb|A Teddy bear in [[Sunny Meadows Mental Institution|Sunny Meadows]].]] ;Teddy bears When a ghost [[Inte"
-      },
-      {
-        "t": "Fusebox",
-        "f": "pages/en/Fusebox.txt",
-        "b": 286,
-        "r": 6785,
-        "x": "#REDIRECT [[Fuse Box]] [[Category:Redirect pages]]"
       },
       {
         "t": "Spirit Box (Evidence)",
@@ -887,13 +775,6 @@
         "b": 4661,
         "r": 23924,
         "x": "{{Infobox Version | release_date=18 June 2021 | previous_major_version=[[0.28.6.5]] | previous_minor_version=0.29.5 (Beta) | next_major_version=[[0.3.0]] | next_minor_version=[[0.29.6.1]] }}The '''0.29.6''' update was re"
-      },
-      {
-        "t": "Nightmare Update",
-        "f": "pages/en/Nightmare Update.txt",
-        "b": 282,
-        "r": 7558,
-        "x": "#REDIRECT [[0.4.0]]"
       },
       {
         "t": "Onryo",
@@ -1078,13 +959,6 @@
         "x": "{{Infobox Version | release_date=21 July 2021 | previous_major_version=[[0.29.6]] | previous_minor_version=[[0.2.10.1]] | next_major_version=[[0.3.0]] }}'''0.2.11.0''' is a minor update to the game released on 21 July 20"
       },
       {
-        "t": "Glow Stick",
-        "f": "pages/en/Glow Stick.txt",
-        "b": 296,
-        "r": 8329,
-        "x": "#REDIRECT [[Glowstick]]"
-      },
-      {
         "t": "Third-party tools",
         "f": "pages/en/Third-party tools.txt",
         "b": 7611,
@@ -1183,13 +1057,6 @@
         "x": "{{Infobox Version | release_date=24 December 2021 | previous_major_version=[[0.5.0]] | previous_minor_version=[[0.5.0.2]] | next_minor_version=[[0.5.1.1]] | next_major_version=[[0.6.0]] }}'''0.5.1.0''' is a minor update "
       },
       {
-        "t": "Ghost room",
-        "f": "pages/en/Ghost room.txt",
-        "b": 260,
-        "r": 9707,
-        "x": "#REDIRECT [[Ghost Room]]"
-      },
-      {
         "t": "0.5.1.1",
         "f": "pages/en/0.5.1.1.txt",
         "b": 2494,
@@ -1202,13 +1069,6 @@
         "b": 4182,
         "r": 23945,
         "x": "{{Infobox Version | release_date=20 January 2022 | previous_major_version=[[0.5.0]] | previous_minor_version=[[0.5.1.1]] | next_minor_version=[[0.5.2.0]] | next_major_version=[[0.6.0]] }}'''0.5.1.2''' is a minor update t"
-      },
-      {
-        "t": "Cursed Possessions Update",
-        "f": "pages/en/Cursed Possessions Update.txt",
-        "b": 265,
-        "r": 9890,
-        "x": "#REDIRECT [[0.5.0]]"
       },
       {
         "t": "Temperature",
@@ -1239,13 +1099,6 @@
         "x": "{{Infobox Version | release_date=4 March 2022 | previous_major_version=[[0.5.0]] | previous_minor_version=[[0.5.2.0]] | next_major_version=[[0.6.0]] }}'''0.5.2.1''' is an update to the game released on 4 March 2022.<ref>"
       },
       {
-        "t": "Setup phase",
-        "f": "pages/en/Setup phase.txt",
-        "b": 264,
-        "r": 10435,
-        "x": "#REDIRECT [[Setup Phase]]"
-      },
-      {
         "t": "Expedition Update",
         "f": "pages/en/Expedition Update.txt",
         "b": 8129,
@@ -1258,20 +1111,6 @@
         "b": 6735,
         "r": 23948,
         "x": "{{Infobox Version | image1=VR overhaul update poster.png | official_name=VR Overhaul | release_date=7 April 2022 | previous_major_version=[[0.5.0]] | previous_minor_version=[[0.5.2.1]] | next_major_version=[[0.7.0]] | ne"
-      },
-      {
-        "t": "Sound sensor",
-        "f": "pages/en/Sound sensor.txt",
-        "b": 267,
-        "r": 10585,
-        "x": "#REDIRECT [[Sound Sensor]]"
-      },
-      {
-        "t": "VR Overhaul Update",
-        "f": "pages/en/VR Overhaul Update.txt",
-        "b": 259,
-        "r": 10618,
-        "x": "#REDIRECT [[0.6.0]]"
       },
       {
         "t": "0.6.0.1",
@@ -1293,13 +1132,6 @@
         "b": 1425,
         "r": 23951,
         "x": "{{Infobox Version | release_date=12 April 2022 | previous_major_version=[[0.6.0]] | previous_minor_version=[[0.6.1.0]] | next_major_version=[[0.7.0]] | next_minor_version=[[0.6.1.2]] }}The '''0.6.1.1''' update is a minor"
-      },
-      {
-        "t": "Ghost model",
-        "f": "pages/en/Ghost model.txt",
-        "b": 264,
-        "r": 10721,
-        "x": "#REDIRECT [[Ghost Model]]"
       },
       {
         "t": "0.6.1.2",
@@ -1349,13 +1181,6 @@
         "b": 1356,
         "r": 23957,
         "x": "{{Infobox Version | release_date=28 April 2022 | previous_major_version=[[0.6.0]] | previous_minor_version=[[0.6.1.6]] | next_major_version=[[0.7.0]] | next_minor_version= [[0.6.2.0]] }}The '''0.6.1.7''' update is a mino"
-      },
-      {
-        "t": "Smudge stick",
-        "f": "pages/en/Smudge stick.txt",
-        "b": 272,
-        "r": 15663,
-        "x": "#REDIRECT [[Incense]]"
       },
       {
         "t": "Prop",
@@ -1491,34 +1316,6 @@
         "x": "{{Infobox Version | release_date=28 September 2022 | previous_major_version=[[0.7.0]] | next_minor_version=[[0.7.0.2]] | next_major_version=[[0.8.0]] }}The '''0.7.0.1''' update is a minor update to the game released on 2"
       },
       {
-        "t": "Tanglewood Street House",
-        "f": "pages/en/Tanglewood Street House.txt",
-        "b": 338,
-        "r": 12697,
-        "x": "#REDIRECT [[6 Tanglewood Drive]]"
-      },
-      {
-        "t": "Edgefield Street House",
-        "f": "pages/en/Edgefield Street House.txt",
-        "b": 335,
-        "r": 12702,
-        "x": "#REDIRECT [[42 Edgefield Road]]"
-      },
-      {
-        "t": "Ridgeview Road House",
-        "f": "pages/en/Ridgeview Road House.txt",
-        "b": 315,
-        "r": 12706,
-        "x": "#REDIRECT [[10 Ridgeview Court]]"
-      },
-      {
-        "t": "Willow Street House",
-        "f": "pages/en/Willow Street House.txt",
-        "b": 327,
-        "r": 12714,
-        "x": "#REDIRECT [[13 Willow Street]]"
-      },
-      {
         "t": "0.7.0.2",
         "f": "pages/en/0.7.0.2.txt",
         "b": 3189,
@@ -1603,13 +1400,6 @@
         "x": "The ID Card is a cosmetic that shows the player's in-game progress. ==Features== The ID card shows the name of the player, the platform they're playing on (Steam, PlayStation, or Xbox), their [[experience|level]], the pl"
       },
       {
-        "t": "Smudge sticks",
-        "f": "pages/en/Smudge sticks.txt",
-        "b": 273,
-        "r": 15664,
-        "x": "#REDIRECT [[Incense]]"
-      },
-      {
         "t": "0.8.0",
         "f": "pages/en/0.8.0.txt",
         "b": 6683,
@@ -1657,13 +1447,6 @@
         "b": 5824,
         "r": 23981,
         "x": "{{Infobox Version | release_date=7 January 2023 | previous_major_version=[[0.8.0]] | previous_minor_version=[[0.8.0.5]] | next_minor_version=[[0.8.0.7]] | next_major_version=[[0.9.0]] }}'''0.8.0.6''' is a minor hotfix re"
-      },
-      {
-        "t": "Sunny Meadows",
-        "f": "pages/en/Sunny Meadows.txt",
-        "b": 308,
-        "r": 13887,
-        "x": "#REDIRECT [[Sunny Meadows Mental Institution]]"
       },
       {
         "t": "0.8.0.7",
@@ -1764,67 +1547,11 @@
         "x": "{{Infobox Version | image1=0.9.png | official_name=Ascension | release_date=17 August 2023 |planned_release_date= | previous_major_version=[[0.8.0]] | previous_minor_version=[[0.8.1.7]] | next_minor_version=[[0.9.0.1]] |"
       },
       {
-        "t": "DOTS Projector",
-        "f": "pages/en/DOTS Projector.txt",
-        "b": 284,
-        "r": 15426,
-        "x": "#redirect [[D.O.T.S. Projector]]"
-      },
-      {
         "t": "Rune",
         "f": "pages/en/Rune.txt",
         "b": 2903,
         "r": 24015,
         "x": "[[File:Runes Lobby.png|thumb|The runes' layout in the lobby.]] '''Runes''' were part of riddles that lasted between [[0.8.1.0]] and [[0.10.0]]. Using the [[UV Light]] in the [[lobby]], the player could find the runes on "
-      },
-      {
-        "t": "Fingerprints",
-        "f": "pages/en/Fingerprints.txt",
-        "b": 280,
-        "r": 15665,
-        "x": "#REDIRECT [[Ultraviolet]]"
-      },
-      {
-        "t": "UV Flashlight",
-        "f": "pages/en/UV Flashlight.txt",
-        "b": 323,
-        "r": 15558,
-        "x": "#REDIRECT [[UV Light]]"
-      },
-      {
-        "t": "Sanity Pills",
-        "f": "pages/en/Sanity Pills.txt",
-        "b": 325,
-        "r": 15563,
-        "x": "#REDIRECT [[Sanity Medication]]"
-      },
-      {
-        "t": "Lighter",
-        "f": "pages/en/Lighter.txt",
-        "b": 295,
-        "r": 15566,
-        "x": "#REDIRECT [[Igniter]]"
-      },
-      {
-        "t": "Candle",
-        "f": "pages/en/Candle.txt",
-        "b": 297,
-        "r": 15570,
-        "x": "#REDIRECT [[Firelight]]"
-      },
-      {
-        "t": "Smudge Sticks",
-        "f": "pages/en/Smudge Sticks.txt",
-        "b": 307,
-        "r": 15573,
-        "x": "#REDIRECT [[Incense]]"
-      },
-      {
-        "t": "Head Mounted Camera",
-        "f": "pages/en/Head Mounted Camera.txt",
-        "b": 323,
-        "r": 15576,
-        "x": "#REDIRECT [[Head Gear]]"
       },
       {
         "t": "0.9.0.1",
@@ -1834,25 +1561,11 @@
         "x": "{{Infobox Version | release_date=19 August 2023 | previous_major_version=[[0.9.0]] | next_minor_version=[[0.9.0.2]] |next_major_version=[[0.10.0]]}}'''0.9.0.1''' is a patch released on 19 August 2023.<ref>[https://store."
       },
       {
-        "t": "Salt Shaker",
-        "f": "pages/en/Salt Shaker.txt",
-        "b": 275,
-        "r": 15683,
-        "x": "#REDIRECT [[Salt]]"
-      },
-      {
         "t": "0.9.0.2",
         "f": "pages/en/0.9.0.2.txt",
         "b": 1316,
         "r": 18212,
         "x": "{{Infobox Version | release_date=20 August 2023 | previous_major_version=[[0.9.0]] | previous_minor_version=[[0.9.0.1]] | next_minor_version=[[0.9.0.3]] |next_major_version=[[0.10.0]]}}'''0.9.0.2''' is a patch released o"
-      },
-      {
-        "t": "High School",
-        "f": "pages/en/High School.txt",
-        "b": 264,
-        "r": 15767,
-        "x": "#redirect [[Brownstone High School]]"
       },
       {
         "t": "0.9.0.3",
@@ -2058,20 +1771,6 @@
         "x": "{{Stub|You can help us by=adding controls for VR headsets with unique controllers}} This page lists the default controls in ''[[Phasmophobia]]''. They can be modified in the [[Options]] menu. ==Controls== {| class=\"fando"
       },
       {
-        "t": "Mimic",
-        "f": "pages/en/Mimic.txt",
-        "b": 266,
-        "r": 18117,
-        "x": "#redirect [[The Mimic]]"
-      },
-      {
-        "t": "Twins",
-        "f": "pages/en/Twins.txt",
-        "b": 294,
-        "r": 18118,
-        "x": "#redirect [[The Twins]]"
-      },
-      {
         "t": "0.10.0",
         "f": "pages/en/0.10.0.txt",
         "b": 14989,
@@ -2128,13 +1827,6 @@
         "x": "{{Infobox Version | release_date=15 August 2024 | previous_major_version=[[0.10.0]] | previous_minor_version=[[0.10.1.1]] | next_minor_version= | next_major_version=[[0.11.0]] }}'''0.10.1.2''' is a hotfix released on 15 "
       },
       {
-        "t": "Van",
-        "f": "pages/en/Van.txt",
-        "b": 293,
-        "r": 18865,
-        "x": "#REDIRECT [[Truck]]"
-      },
-      {
         "t": "0.11.0",
         "f": "pages/en/0.11.0.txt",
         "b": 5917,
@@ -2170,13 +1862,6 @@
         "x": "{{Infobox Version | release_date=21 November 2024 | previous_major_version=[[0.11.0]] | previous_minor_version=[[0.11.0.2]] | next_minor_version=[[0.11.1.0]] | next_major_version=[[0.12.0.1]] }}'''0.11.0.3''' is a hotfix"
       },
       {
-        "t": "Cursed possession",
-        "f": "pages/en/Cursed possession.txt",
-        "b": 343,
-        "r": 19555,
-        "x": "#REDIRECT [[Cursed Possession]]"
-      },
-      {
         "t": "0.11.1.0",
         "f": "pages/en/0.11.1.0.txt",
         "b": 2356,
@@ -2189,13 +1874,6 @@
         "b": 2098,
         "r": 23885,
         "x": "{{Infobox Version | release_date=23 December 2024 | previous_major_version=[[0.11.0]] | previous_minor_version=[[0.11.1.0]] | next_minor_version=[[0.11.1.2]] | next_major_version=[[0.12.0.1]] }}'''0.11.1.1''' is a minor "
-      },
-      {
-        "t": "Xp",
-        "f": "pages/en/Xp.txt",
-        "b": 283,
-        "r": 20192,
-        "x": "#redirect [[Experience]] [[Category:Redirect Pages]]"
       },
       {
         "t": "0.11.1.2",
@@ -2226,27 +1904,6 @@
         "x": "[[File:Tanglewood Garage Lockers.png|thumb|Lockers in [[6 Tanglewood Drive]]|265x265px]] '''Hiding Spots''' are features within a [[Map]] that allow players to survive [[hunt]]s. ==Mechanics== ===Availability=== The numb"
       },
       {
-        "t": "Hide",
-        "f": "pages/en/Hide.txt",
-        "b": 246,
-        "r": 20557,
-        "x": "#REDIRECT [[Hiding Spots]]"
-      },
-      {
-        "t": "Closet",
-        "f": "pages/en/Closet.txt",
-        "b": 312,
-        "r": 20559,
-        "x": "#REDIRECT [[Hiding Spots]]"
-      },
-      {
-        "t": "Locker",
-        "f": "pages/en/Locker.txt",
-        "b": 312,
-        "r": 20558,
-        "x": "#REDIRECT [[Hiding Spots]]"
-      },
-      {
         "t": "0.12.1.0",
         "f": "pages/en/0.12.1.0.txt",
         "b": 2467,
@@ -2259,20 +1916,6 @@
         "b": 2096,
         "r": 23890,
         "x": "{{Infobox Version | release_date=1 May 2025 | previous_major_version=[[0.12.0.1]] | previous_minor_version=[[0.12.1.0]] | next_minor_version=[[0.12.1.2]] | next_major_version=[[0.13.0]] }}'''0.12.1.1''' is a minor hotfix"
-      },
-      {
-        "t": "Blood moon",
-        "f": "pages/en/Blood moon.txt",
-        "b": 299,
-        "r": 20787,
-        "x": "#REDIRECT [[Weather#Blood_Moon]]"
-      },
-      {
-        "t": "Mirror",
-        "f": "pages/en/Mirror.txt",
-        "b": 266,
-        "r": 20789,
-        "x": "#REDIRECT [[Haunted Mirror]]"
       },
       {
         "t": "0.12.1.2",
@@ -2359,25 +2002,11 @@
         "x": "{{Infobox Version | image1=Grafton Rework.jpg | official_name=Grafton Rework | release_date=12 August 2025 | previous_major_version=[[0.13.0]] | previous_minor_version=[[0.13.1.1]] | next_minor_version=[[0.14.0.1]] | nex"
       },
       {
-        "t": "Badge",
-        "f": "pages/en/Badge.txt",
-        "b": 244,
-        "r": 21643,
-        "x": "#redirect [[ID Card]]"
-      },
-      {
         "t": "0.14.0.1",
         "f": "pages/en/0.14.0.1.txt",
         "b": 1787,
         "r": 23897,
         "x": "{{Infobox Version | release_date=14 August 2025 | previous_major_version=[[0.14.0]] | previous_minor_version= | next_minor_version=[[0.14.1.0]] | next_major_version=[[0.15.0]] }}'''0.14.0.1''' is a minor hotfix released "
-      },
-      {
-        "t": "Teddy Bear",
-        "f": "pages/en/Teddy Bear.txt",
-        "b": 319,
-        "r": 21714,
-        "x": "#REDIRECT [[Toy]]"
       },
       {
         "t": "0.14.1.0",
@@ -2399,20 +2028,6 @@
         "b": 1126,
         "r": 23900,
         "x": "{{Infobox Version | release_date=16 October 2025 | previous_major_version=[[0.14.0]] | previous_minor_version=[[0.14.2.0]] | next_minor_version= | next_major_version=[[0.15.0]] }}'''0.14.2.1''' is a minor hotfix released"
-      },
-      {
-        "t": "Tarot",
-        "f": "pages/en/Tarot.txt",
-        "b": 261,
-        "r": 22127,
-        "x": "#REDIRECT [[Tarot_Cards]]"
-      },
-      {
-        "t": "Cursed hunt",
-        "f": "pages/en/Cursed hunt.txt",
-        "b": 288,
-        "r": 22152,
-        "x": "#REDIRECT [[Hunt#Cursed hunts]]"
       },
       {
         "t": "0.15.0",
@@ -2457,13 +2072,6 @@
         "x": "{{Ghost |image1= |strength=*More aggressive after protective equipment has been used |weakness(es)=*Less aggressive after a hunt |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] |Evidence"
       },
       {
-        "t": "D.O.T.S Projector (Evidence)",
-        "f": "pages/en/D.O.T.S Projector (Evidence).txt",
-        "b": 392,
-        "r": 22488,
-        "x": "#REDIRECT [[D.O.T.S. Projector (Evidence)]]"
-      },
-      {
         "t": "0.16.0",
         "f": "pages/en/0.16.0.txt",
         "b": 2131,
@@ -2476,13 +2084,6 @@
         "b": 2740,
         "r": 24660,
         "x": "The '''roaming''' is a core mechanic in ''Phasmophobia''. It is one of the states the [[ghost]] can choose to make the investigation harder by being more unpredictable. In this state, it essentially moves to another spot"
-      },
-      {
-        "t": "Favorite Room",
-        "f": "pages/en/Favorite Room.txt",
-        "b": 267,
-        "r": 22994,
-        "x": "#redirect [[Ghost Room]]"
       },
       {
         "t": "0.16.1.0",
@@ -2662,13 +2263,6 @@
         "x": "<mainpage-leftcolumn-start /><mainpage-endcolumn /><mainpage-leftcolumn-start /><mainpage-endcolumn /><center><span style=\"font-family:October Crow; font-size:75px\"><small>欢迎来到恐鬼症中文维基！</small></span></center>本维基翻译并改编自[ht"
       },
       {
-        "t": "首页",
-        "f": "pages/zh/首页.txt",
-        "b": 284,
-        "r": 151,
-        "x": "#重定向 [[恐鬼症 Wiki]]"
-      },
-      {
         "t": "恐鬼症",
         "f": "pages/zh/恐鬼症.txt",
         "b": 3145,
@@ -2688,13 +2282,6 @@
         "b": 3633,
         "r": 3489,
         "x": "{{Location |img=里奇维尤客厅 0.6.png |imgcaption=客厅的景色 |teamsize=2 |mapsize=小 |unlocklevel=2 |floors=3 |rooms=6 (2F) 9 (1F) 1 (B) |exits=1 |faucets=5 |videofeeds=1 |keys=前门钥匙、车钥匙 }}{{Quote |quote=这座建筑出过人命。是谁买这阴宅索命？ |speaker=—加"
-      },
-      {
-        "t": "地点",
-        "f": "pages/zh/地点.txt",
-        "b": 252,
-        "r": 769,
-        "x": "#REDIRECT [[地图]]"
       },
       {
         "t": "鬼魂",
@@ -2723,13 +2310,6 @@
         "b": 5536,
         "r": 3577,
         "x": "{{Equipment Template | tier i img=DOTS090_T1.png | tier ii img=DOTS090_T2.png | tier iii img=DOTS090_T3.png | price=$65 | maxamount=2 | uses= | starter=是 | tier i level= | tier ii level=29 | tier iii level=60 | tier i de"
-      },
-      {
-        "t": "指纹",
-        "f": "pages/zh/指纹.txt",
-        "b": 259,
-        "r": 2971,
-        "x": "#redirect [[紫外线]]"
       },
       {
         "t": "证据",
@@ -2772,13 +2352,6 @@
         "b": 4262,
         "r": 4012,
         "x": "{{Equipment Template | tier i img=PhotoCamera090_T1.png | tier ii img=PhotoCamera090_T2.png | tier iii img=PhotoCamera090_T3.png | price=$40 | maxamount=3 | uses= | starter=否 | tier i level=2 | tier ii level=23 | tier ii"
-      },
-      {
-        "t": "鬼魂活动",
-        "f": "pages/zh/鬼魂活动.txt",
-        "b": 1802,
-        "r": 2778,
-        "x": "#REDIRECT [[互动]]<!--'''鬼魂活动'''包括闲置时的互动或直接回应玩家。 鬼魂活动与[[猎杀]]无关，除了[[女妖]]。鬼魂活动会释放出[[EMF]]。不过EMF 5级并不总是意味着危险。 == 运作方式 == 鬼魂活动在业余难度更容易出现在赤鬼附近，让魅影踩盐，在鬼魂房间点燃圣木，和/或独自调查会增加鬼魂活动几率。在鬼魂房间和鬼魂附近说关键语句也会增加鬼魂活动几率。鬼魂活动在没有活动时衰减至0。 <这些信息源自ht"
       },
       {
         "t": "鬼魂事件",
@@ -2835,13 +2408,6 @@
         "b": 875,
         "r": 2681,
         "x": "[[File:ComputerCamera.png|right|frameless|299x299px|链接=Special:FilePath/ComputerCamera.png]] 电脑是货车上的一件装备。它可以检测灵球和点阵投影仪。 电脑可查看地图上所有摄像头，包括[[摄像机]]、[[头戴式摄像机]]和地图自带的[[摄像系统]]。左击鼠标切换摄像头，左击键盘切换夜视。光源会影响夜视效果，包括手电筒、天花灯和蜡烛。 ==逸闻轶事=="
-      },
-      {
-        "t": "Sanity Screen",
-        "f": "pages/zh/Sanity Screen.txt",
-        "b": 277,
-        "r": 795,
-        "x": "#redirect [[理智显示屏]]"
       },
       {
         "t": "理智显示屏",
@@ -3005,13 +2571,6 @@
         "x": "{{Equipment Template | tier i img=Tripod090_T1.png | tier ii img=Tripod090_T2.png | tier iii img=Tripod090_T3.png | price=$25 | maxamount=4 | uses= | starter=否 | tier i level=10 | tier ii level=34 | tier iii level=62 | t"
       },
       {
-        "t": "紫外线手电筒",
-        "f": "pages/zh/紫外线手电筒.txt",
-        "b": 1390,
-        "r": 3512,
-        "x": "#REDIRECT [[紫外线灯光]] {{Item_Template |img=UVLight_Render.png |imgcaption= |price=$35 |maxamount=2 |uses= |starter=是 |level= |description=可看见最细微的超自然痕迹，是一件追踪鬼魂的重要装备。}} ''“有些鬼魂会在门窗和电灯开关上留下指纹。指纹会在紫外光下暴露无遗。”'' '''紫外线手电筒'''是一件可"
-      },
-      {
         "t": "灵球",
         "f": "pages/zh/灵球.txt",
         "b": 3595,
@@ -3073,13 +2632,6 @@
         "b": 3419,
         "r": 3746,
         "x": "{{Evidence_Infobox |image1=OpenBook_Patterns.gif |detected_by=[[鬼魂笔记]] }}''\"除了通灵盒之外，超自然现象研究者还会用纸和笔与鬼魂交流。后来他们发现只有特定类型的鬼魂才会写字。\"'' '''鬼魂笔迹'''是一件用于探测鬼魂类型的[[证据]]。可使用[[鬼魂笔记]]得出该证据。 == 运作方式 == 如果鬼魂笔迹是鬼魂的一件证据，那么它每 45-90 秒有几率尝试使用"
-      },
-      {
-        "t": "调查",
-        "f": "pages/zh/调查.txt",
-        "b": 253,
-        "r": 1218,
-        "x": "#REDIRECT [[合约]]"
       },
       {
         "t": "合约",
@@ -3145,20 +2697,6 @@
         "x": "{{Infobox Version | official_name=噩梦更新 | release_date=2021年10月25日 | previous_major_version=[[博览更新]] | previous_minor_version=0.3.1.2 | next_major_version=[[0.5.0]] | next_minor_version=[[0.4.1.0]] }} <br> [[File:nightmar"
       },
       {
-        "t": "卡车",
-        "f": "pages/zh/卡车.txt",
-        "b": 265,
-        "r": 1262,
-        "x": "#redirect [[厢式货车]]"
-      },
-      {
-        "t": "枫树营地",
-        "f": "pages/zh/枫树营地.txt",
-        "b": 271,
-        "r": 1328,
-        "x": "#redirect [[枫林营地]]"
-      },
-      {
         "t": "坦格活德街房屋",
         "f": "pages/zh/坦格活德街房屋.txt",
         "b": 3507,
@@ -3201,20 +2739,6 @@
         "x": "{{Ghost |image1=发现幻妖.jpg |strength=*它與環境互動時很少留下痕跡 |abiliti(es)=*留下的指紋會更快消失 |weakness(es)=*有時它會變形，這是證明其類型的最佳證據 |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF 5级|link=EMF 5级]] |Evidence2=[[File:Fingerprints_3.png|2"
       },
       {
-        "t": "噩梦更新",
-        "f": "pages/zh/噩梦更新.txt",
-        "b": 277,
-        "r": 1323,
-        "x": "#redirect [[万圣节更新]]"
-      },
-      {
-        "t": "0.4.0",
-        "f": "pages/zh/0.4.0.txt",
-        "b": 270,
-        "r": 1324,
-        "x": "#redirect [[万圣节更新]]"
-      },
-      {
         "t": "温度计",
         "f": "pages/zh/温度计.txt",
         "b": 3526,
@@ -3227,13 +2751,6 @@
         "b": 7325,
         "r": 3358,
         "x": "{{Location |mapsize=中型 |floors=3 |rooms=28 |exits=1 |faucets=5 |videofeeds=2 |keys=* 正门钥匙 * 木屋钥匙 |teamsize=3 |img=Maple lodge campfire.png |imgcaption=营地地图 |unlocklevel=19}}'''[[林风营地|楓林營地]]'''是''恐鬼症''的地圖。這是遊戲的第二張中型地圖，也是第"
-      },
-      {
-        "t": "营地",
-        "f": "pages/zh/营地.txt",
-        "b": 265,
-        "r": 1330,
-        "x": "#redirect [[枫林营地]]"
       },
       {
         "t": "电闸",
@@ -3257,13 +2774,6 @@
         "x": "{{DISPLAYTITLE:Wiki管理员}} <center> {{Header|管理员}} {| class=\"article-table\" ! !ID !身份 !状态 |- |[[File:qsefthuopq.jpg|100x100px|link=User:qsefthuopq]] |'''qsefthuopq''' |'''自由译者''' | style=\"background:#00FF00;color: black;\" "
       },
       {
-        "t": "圣木",
-        "f": "pages/zh/圣木.txt",
-        "b": 317,
-        "r": 2974,
-        "x": "#redirect [[熏香]] 在[[0.9.0]]装备更新版本中，圣木已改名为熏香。"
-      },
-      {
         "t": "理智",
         "f": "pages/zh/理智.txt",
         "b": 4979,
@@ -3278,13 +2788,6 @@
         "x": "{{Item Template | img= Ouija Board New.png | imgcaption = | price = | maxamount = | uses = | starter = | level = | description = 消耗玩家理智获取鬼魂信息 }}'''通灵板'''是一件消耗理智与鬼魂交流的[[诅咒之物]]。 == 机制 == 作为诅咒之物之一，通灵板在预设[[难度]]中（疯狂难度以外）有七分之一"
       },
       {
-        "t": "拍照奖励",
-        "f": "pages/zh/拍照奖励.txt",
-        "b": 5488,
-        "r": 4010,
-        "x": "#REDIRECT [[媒体#照片证据]] 由于版本更新。现在在游戏内可以捕获 5 张照片证据，5 条视频证据和 3 条声音证据，而不再是 10 张照片证据。此外，可拍照的项目和奖励也有所变动。详情请移步[[媒体]]。 {{过时资料|reason=由于版本更新。现在在游戏内可以捕获 5 张照片证据，5 条视频证据和 3 条声音证据，而不再是 10 张照片证据。此外，可拍照的项目和奖励也有所变动。详情请移步媒体。|date=2025年6月"
-      },
-      {
         "t": "收音器",
         "f": "pages/zh/收音器.txt",
         "b": 5904,
@@ -3297,20 +2800,6 @@
         "b": 1890,
         "r": 3319,
         "x": "[[File:CarKey.png|alt=坦格活德街房屋的车钥匙。|thumb|273x273px|坦格活德街房屋的车钥匙。]] '''{{PAGENAME}}'''位于大多数[[地图]]和[[货车]]里。它们主要用于解锁特定的门或关闭[[汽车]]警报器。一名玩家拿上钥匙后，其它玩家也能共享使用钥匙。 == 用法 == 左击上锁的门即可解锁。左击汽车会发出“哔哔”声后关闭警报。 == 类型 == * '''正门钥匙'''：固定生成在车"
-      },
-      {
-        "t": "打火机",
-        "f": "pages/zh/打火机.txt",
-        "b": 259,
-        "r": 3259,
-        "x": "#REDIRECT [[点火器]]"
-      },
-      {
-        "t": "蜡烛",
-        "f": "pages/zh/蜡烛.txt",
-        "b": 3636,
-        "r": 2975,
-        "x": "#redirect [[火光]] 在[[0.9.0]]版本中，改名为火光，以下为旧版信息。 {{Item Template |img=candle_lit.png |imgcaption=点燃的蜡烛 |price=$15 |maxamount=4 |uses= |starter=否 |level= |description=没电时可用蜡烛来保持房间明亮。 }}'''蜡烛'''是[[恐鬼症]]里的一件装备。使用如[[打火机]]的火源可点燃"
       },
       {
         "t": "0.4.1.0",
@@ -3355,13 +2844,6 @@
         "x": "[[File:20201113215648 1.jpg|thumb|褐石中学的监控摄像头]] '''视频来源'''也称作闭路电视或摄像系统，是每张地图都有的系统。它用于给予玩家监控视角，玩家可以用车上的监控电脑查看。 ==机制== 每张地图都有一定数量的摄像头，地图越大，数量通常越多。即使[[电闸]]关闭，监控摄像头也能正常使用。 正在查看的摄像头在车载地图上显示为绿色。 {| class=\"fandom-table\" |+地图摄像头总"
       },
       {
-        "t": "头戴式摄像机",
-        "f": "pages/zh/头戴式摄像机.txt",
-        "b": 2053,
-        "r": 3033,
-        "x": "#redirect [[头戴设备]] 在[[0.9.0]]版本中，头戴式摄像机并入[[头戴设备]]。 '''头戴式摄像机'''是恐鬼症里的一件[[装备]]。作为便携的[[摄像机]]，它可用于查看队友视角和[[灵球]]。 ==效果描述== {| class=\"wikitable\" |+ 头戴式摄像机 |- ! 等级 !! 描述1 !! 描述2 |- | 1 || 安装在头带上的GhostPro相机，可能不是最时尚的，但非常实用。 || 将"
-      },
-      {
         "t": "十字架",
         "f": "pages/zh/十字架.txt",
         "b": 4491,
@@ -3381,20 +2863,6 @@
         "b": 4739,
         "r": 3284,
         "x": "{{Equipment Template | tier i img=Salt090_T1.png | tier ii img=Salt090_T2.png | tier iii img=Salt090_T3.png | price=15 | maxamount=3 | uses=详见以下 | starter=否 | tier i level=9 | tier ii level=43 | tier iii level=68 | tier "
-      },
-      {
-        "t": "醒脑丸",
-        "f": "pages/zh/醒脑丸.txt",
-        "b": 3387,
-        "r": 2977,
-        "x": "#redirect [[理智恢复]] 在[[0.9.0]]版本中，装备名从醒脑丸改为[[理智恢复]]。以下为旧版信息。 {{Item Template |img=New Sanity Pills.jpg |imgcaption=金属架上的4瓶醒脑丸。 |price=$20 |maxamount=4 |uses=1 |starter=否 |level=5 |description=醒脑丸会提高你的理智值，因此它可以延长你的探索时间。}} "
-      },
-      {
-        "t": "荧光棒",
-        "f": "pages/zh/荧光棒.txt",
-        "b": 271,
-        "r": 3658,
-        "x": "#REDIRECT [[紫外线灯光]]"
       },
       {
         "t": "强光手电筒",
@@ -3418,20 +2886,6 @@
         "x": "{{Infobox Version | official_name=诅咒之物 | release_date=2021年12月11日0点 | previous_major_version=[[万圣节更新|万圣节噩梦更新]] | previous_minor_version=[[0.4.1.2]] | next_major_version= | next_minor_version= }} 欢迎回来，我们有些消息要告诉你。 我们在闹鬼之地发"
       },
       {
-        "t": "死灵",
-        "f": "pages/zh/死灵.txt",
-        "b": 253,
-        "r": 1476,
-        "x": "#redirect [[魅影]]"
-      },
-      {
-        "t": "妖灵",
-        "f": "pages/zh/妖灵.txt",
-        "b": 253,
-        "r": 1477,
-        "x": "#redirect [[女妖]]"
-      },
-      {
         "t": "0.4.1.2",
         "f": "pages/zh/0.4.1.2.txt",
         "b": 686,
@@ -3444,13 +2898,6 @@
         "b": 3286,
         "r": 4087,
         "x": "{{Item_Template |img=Tarot Cards.png |imgcaption= |uses=10 |description= }}塔羅牌是在[[圣诞节更新|聖誕節更新]]中新增的物品。 == 介绍 == 這些神秘的卡牌是我們在調查中發現的最吸引人的物品。 每副牌包含十張隨機牌，它們都有不同的超自然屬性。抽牌可能會對玩家和附近鬼魂產生各種效果。 有些牌雖然有用，但也可能有負面效果，例如：降低理智、鬼魂攻擊，甚至猝死。 "
-      },
-      {
-        "t": "0.3.0",
-        "f": "pages/zh/0.3.0.txt",
-        "b": 264,
-        "r": 1534,
-        "x": "#redirect [[博览更新]]"
       },
       {
         "t": "出口门",
@@ -3486,20 +2933,6 @@
         "b": 1506,
         "r": 3654,
         "x": "大多数更新计划公布在[https://trello.com/b/9QrnqQ1j/phasmophobia Trello]或[https://discord.gg/invite/phasmophobia 官方Discord服务器]。 == 计划更新 == ;未来更新 [https://clan.akamai.steamstatic.com/images//37002678/05042bda8ad5c5f383af991e65c9a8e3"
-      },
-      {
-        "t": "0.5.0",
-        "f": "pages/zh/0.5.0.txt",
-        "b": 276,
-        "r": 1559,
-        "x": "#redirect [[诅咒之物更新]]"
-      },
-      {
-        "t": "诅咒之物更新",
-        "f": "pages/zh/诅咒之物更新.txt",
-        "b": 283,
-        "r": 1560,
-        "x": "#redirect [[圣诞节更新]]"
       },
       {
         "t": "召唤阵",
@@ -3549,20 +2982,6 @@
         "b": 1563,
         "r": 1813,
         "x": "{{Infobox Version | official_name=诅咒之物更新补丁 | release_date=2021年12月14日 | previous_major_version=[[圣诞节更新]] | previous_minor_version=[[0.5.0.1]] | next_major_version= | next_minor_version=[[0.5.1.0]] }} ==变更== * 在猎杀时无法用通灵板“"
-      },
-      {
-        "t": "Willow Street House",
-        "f": "pages/zh/Willow Street House.txt",
-        "b": 284,
-        "r": 1666,
-        "x": "#redirect [[柳树街房屋]]"
-      },
-      {
-        "t": "Tanglewood Street House",
-        "f": "pages/zh/Tanglewood Street House.txt",
-        "b": 300,
-        "r": 1687,
-        "x": "#redirect [[坦格活德街房屋]]"
       },
       {
         "t": "指南/定位鬼魂位置",
@@ -3619,13 +3038,6 @@
         "b": 5569,
         "r": 1862,
         "x": "{{Infobox Version | image1= | official_name=探险更新 | release_date=2022年4月1日 }} '''探险更新'''是在2022年4月1日发布的愚人节玩笑，虚假地发布了v1.0正式版。 <ref>https://store.steampowered.com/news/app/739630/view/3090035994578896769</ref> 本次更新为最终正式版，同时宣布"
-      },
-      {
-        "t": "VR重制更新",
-        "f": "pages/zh/VR重制更新.txt",
-        "b": 259,
-        "r": 1869,
-        "x": "#REDIRECT [[0.6.0]]"
       },
       {
         "t": "0.6.0",
@@ -3705,13 +3117,6 @@
         "x": "{{Ghost | image1=发现雾影.jpg | strength= *獵殺中總是知道玩家位置 *獵殺沒人附近時移速很快 | abiliti(es)= *透過通靈盒可獲得獨特回應音效 | weakness(es)= *它需要大量的能量成形，且在接近目標時行動非常緩慢 | Evidence1=[[File:SpiritBox_Render.png|24x24px|alt=通灵盒|link=通灵盒]] | Evidence2=[[Fi"
       },
       {
-        "t": "阳光草甸精神病院",
-        "f": "pages/zh/阳光草甸精神病院.txt",
-        "b": 307,
-        "r": 2479,
-        "x": "#redirect [[阳光牧场精神病院]]"
-      },
-      {
         "t": "0.6.2.0",
         "f": "pages/zh/0.6.2.0.txt",
         "b": 3450,
@@ -3761,13 +3166,6 @@
         "x": "{{Infobox Version | release_date=2022年7月16日 | previous_major_version=[[0.6.0]] | previous_minor_version=[[0.6.3.0]] | next_major_version= | next_minor_version= }}'''0.6.3.1'''是发布于2022年7月16日的小型感谢。<ref>[https://store.steam"
       },
       {
-        "t": "足迹",
-        "f": "pages/zh/足迹.txt",
-        "b": 250,
-        "r": 2506,
-        "x": "#REDIRECT [[脚印]]"
-      },
-      {
         "t": "水槽",
         "f": "pages/zh/水槽.txt",
         "b": 707,
@@ -3796,25 +3194,11 @@
         "x": "[[File:空任务版.jpg|thumb|任务板例子]] '''任务板(Objective Board)'''是[[厢式货车]]中的设备。 == 用途 == 在正常的游戏中，任务板将会显示以下内容： *案件编号 *[[鬼魂]]名称 *3 个[[目标]] *鬼魂所回应的人为单人或多人（在专家或噩梦[[难度]]下将不会显示） *在调查过程中所捕获的[[媒体]] 在[[教程|训练模式]]中，任务板将会告诉玩家这只鬼比较的温顺，[[鬼魂房间]"
       },
       {
-        "t": "训练",
-        "f": "pages/zh/训练.txt",
-        "b": 250,
-        "r": 2266,
-        "x": "#REDIRECT [[教程]]"
-      },
-      {
         "t": "林风营地",
         "f": "pages/zh/林风营地.txt",
         "b": 4221,
         "r": 4056,
         "x": "{{Location |img=[[File:woodwind.jpg|400px]] |imgcaption=林风营地 |mapsize=小型 |unlocklevel=19 |floors=1 |exits=1 |faucets= |videofeeds=1 |keys=正门钥匙 |rooms=11 }}{{Quote |quote=这片户外娱乐场所由于篝火鬼故事成真而关闭。 |speaker=加载界面描述 }}'''林风营地'''"
-      },
-      {
-        "t": "V0.7",
-        "f": "pages/zh/V0.7.txt",
-        "b": 249,
-        "r": 2337,
-        "x": "#redirect [[0.7.0]]"
       },
       {
         "t": "0.7.0",
@@ -4006,13 +3390,6 @@
         "x": "{{Infobox Version | release_date=2023年1月7日 | previous_major_version=[[0.8.0]] | previous_minor_version=[[0.8.0.5]] | next_minor_version= }} '''0.8.0.6'''是发布于2023年1月7日的小型热修复更新。<ref>[https://store.steampowered.com/news/app"
       },
       {
-        "t": "学校",
-        "f": "pages/zh/学校.txt",
-        "b": 265,
-        "r": 2711,
-        "x": "#redirect [[褐石中学]]"
-      },
-      {
         "t": "0.8.0.7",
         "f": "pages/zh/0.8.0.7.txt",
         "b": 677,
@@ -4025,13 +3402,6 @@
         "b": 2079,
         "r": 2718,
         "x": "{{Infobox Version | release_date=2023年1月15日 | previous_major_version=[[0.8.0]] | previous_minor_version=[[0.8.0.7]] | next_minor_version= }}'''0.8.0.8'''是发布于2023年1月15日的小型热修复更新。 ==改动== * 八音盒的放置方式与其他可放置装备一致 * 天启挑战的骷髅头贴纸仅在单"
-      },
-      {
-        "t": "精神病院",
-        "f": "pages/zh/精神病院.txt",
-        "b": 295,
-        "r": 2719,
-        "x": "#redirect [[阳光牧场精神病院]]"
       },
       {
         "t": "身份卡",
@@ -4060,13 +3430,6 @@
         "b": 1820,
         "r": 2834,
         "x": "{{Infobox Version | release_date=2023年3月2日 | previous_major_version=[[0.8.0]] | previous_minor_version=[[0.8.1.0]] | next_minor_version= | next_major_version=''[[0.9.0]]'' }}'''0.8.1.1'''是发布于2023年3月6日的小型内容更新。 ==新增内容== 新增"
-      },
-      {
-        "t": "每日和每周挑战",
-        "f": "pages/zh/每日和每周挑战.txt",
-        "b": 325,
-        "r": 2808,
-        "x": "#重定向 [[每日和每周任务]]"
       },
       {
         "t": "温度",
@@ -4179,20 +3542,6 @@
         "b": 5403,
         "r": 3721,
         "x": "{{Equipment Template | tier i img=FireLight090_T1.png | tier ii img=FireLight090_T2.png | tier iii img=FireLight090_T3.png | price=$15 | maxamount=4 | uses=详见以下 | starter=否 | tier i level=12 | tier ii level=47 | tier iii"
-      },
-      {
-        "t": "理智恢复",
-        "f": "pages/zh/理智恢复.txt",
-        "b": 265,
-        "r": 3031,
-        "x": "#redirect [[理智药]]"
-      },
-      {
-        "t": "紫外线（装备）",
-        "f": "pages/zh/紫外线（装备）.txt",
-        "b": 286,
-        "r": 3050,
-        "x": "#redirect [[紫外线灯光]]"
       },
       {
         "t": "点火器",
@@ -4412,13 +3761,6 @@
         "x": "{{Infobox Version | image1=Phas eventide (2).png | official_name=薄暝 | release_date=2024年6月25日 | previous_major_version=[[0.9.0]] | previous_minor_version=[[0.9.6.1]] | next_minor_version= | next_major_version= }} '''0.10"
       },
       {
-        "t": "希望角",
-        "f": "pages/zh/希望角.txt",
-        "b": 274,
-        "r": 3428,
-        "x": "#redirect [[希望角灯塔]]"
-      },
-      {
         "t": "希望角灯塔",
         "f": "pages/zh/希望角灯塔.txt",
         "b": 3470,
@@ -4494,13 +3836,6 @@
         "b": 2407,
         "r": 3548,
         "x": "{{Infobox Version | image1=Winters Jest.jpg | official_name=Winter's Jest|冬日戏谑 | release_date=2024年12月11日 (内测)<br>2024年12月12日 (公测) | previous_major_version=[[0.11.0]] | previous_minor_version=[[0.11.0.3]] | next_minor_ve"
-      },
-      {
-        "t": "点阵投影仪证据",
-        "f": "pages/zh/点阵投影仪证据.txt",
-        "b": 283,
-        "r": 3576,
-        "x": "#REDIRECT [[点阵投影仪]]"
       },
       {
         "t": "难度/自定义",
@@ -4748,13 +4083,6 @@
         "x": "{{Infobox Version|image1=|release_date=2026.3.4|previous_major_version=|previous_minor_version=|next_minor_version=|next_major_version=}} 0.16.0.0是发布于2026.3.3的大型更新，本次更新完全重制6 Tanglewood Drive地图。 ==新增内容== * '''6 Tanglewood"
       },
       {
-        "t": "达彦",
-        "f": "pages/zh/达彦.txt",
-        "b": 253,
-        "r": 4105,
-        "x": "#redirect [[达魇]]"
-      },
-      {
         "t": "0.16.1.0",
         "f": "pages/zh/0.16.1.0.txt",
         "b": 1915,
@@ -4832,13 +4160,6 @@
         "x": "{{Infobox Version | release_date=2026年6月3日 | previous_major_version=[[0.17.0]] | previous_minor_version=[[0.17.1.4]] | next_minor_version= | next_major_version= }}'''0.17.1.5'''是发布于2026年6月3日的小型热修复更新。<ref>[https://kinetic"
       },
       {
-        "t": "Deildegast",
-        "f": "pages/zh/Deildegast.txt",
-        "b": 257,
-        "r": 4224,
-        "x": "#redirect [[界灵]]"
-      },
-      {
         "t": "0.18.0",
         "f": "pages/zh/0.18.0.txt",
         "b": 9245,
@@ -4858,13 +4179,6 @@
         "b": 2349,
         "r": 4232,
         "x": "{{Infobox Version | release_date=2026年7月28日 | previous_major_version=[[0.18.0]] | previous_minor_version= | next_minor_version= | next_major_version= }}'''0.18.0.1''' 是于2026年7月28日发布的一次小型更新。本次更新主要修复多个漏洞。 ==热修复== ===改动=== "
-      },
-      {
-        "t": "擾物靈",
-        "f": "pages/zh/擾物靈.txt",
-        "b": 250,
-        "r": 4237,
-        "x": "#redirect [[界灵]]"
       },
       {
         "t": "希望角灯塔- 限制区",

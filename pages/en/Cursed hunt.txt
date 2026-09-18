@@ -1,7 +1,0 @@
-# Cursed hunt
-# revid 22152  2025-11-05T15:34:22Z  by Glitchplaysgames714
-# 备注: Redirected page to [[Hunt#Cursed hunts]]
-# sha256 8b17326a78ce328a0bf415dffddf7b82256632afa11218c137b021dcd6dedec3  bytes 31
-# 源: https://phasmophobia.fandom.com/api.php
-
-#REDIRECT [[Hunt#Cursed hunts]]

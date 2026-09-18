@@ -1,7 +1,0 @@
-# 地点
-# revid 769  2021-10-08T02:45:16Z  by Qsefthuopq
-# 备注: 重定向页面至[[地图]]
-# sha256 a34f953b8bbcb0e0beb9649b415f53c4445f8d2c0a333eeba2aabdf969585a9d  bytes 20
-# 源: https://phasmophobia.fandom.com/zh/api.php
-
-#REDIRECT [[地图]]

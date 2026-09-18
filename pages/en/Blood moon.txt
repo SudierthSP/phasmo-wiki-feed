@@ -1,7 +1,0 @@
-# Blood moon
-# revid 20787  2025-05-07T16:50:33Z  by Quietust
-# 备注: we've already got an article section for this - redirect there
-# sha256 7bca241b268904ebf219c9e6fee846f1d63e9bda31a08f8b91522ee25eda38ce  bytes 32
-# 源: https://phasmophobia.fandom.com/api.php
-
-#REDIRECT [[Weather#Blood_Moon]]

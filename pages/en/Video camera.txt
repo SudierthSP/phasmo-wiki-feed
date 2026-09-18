@@ -1,7 +1,0 @@
-# Video camera
-# revid 2147  2020-10-21T05:23:11Z  by SquareRootOfNegativ1
-# 备注: Redirected page to [[Video Camera]]
-# sha256 93391655c18171180fe4e452cc322e12e47a615651bec17ceb7f46562ca0f3bf  bytes 26
-# 源: https://phasmophobia.fandom.com/api.php
-
-#REDIRECT [[Video Camera]]

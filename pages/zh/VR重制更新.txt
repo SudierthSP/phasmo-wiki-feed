@@ -1,7 +1,0 @@
-# VR重制更新
-# revid 1869  2022-04-08T05:42:19Z  by Qsefthuopq
-# 备注: 重定向页面至[[0.6.0]]
-# sha256 7763f0ef3f3445dd37a259b5c049b01d62b4c5d1a9793b908efbc8f3eb87c839  bytes 19
-# 源: https://phasmophobia.fandom.com/zh/api.php
-
-#REDIRECT [[0.6.0]]

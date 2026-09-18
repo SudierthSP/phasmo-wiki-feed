@@ -1,7 +1,0 @@
-# UV Flashlight
-# revid 15558  2023-08-17T19:35:47Z  by Rigel Kent
-# 备注: Rigel Kent moved page [[UV Flashlight]] to [[UV Light]] over redirect: renamed in [[0.9.0]]
-# sha256 37ca8c91c587475dad7a15c189079ab06a53815658d4288ade57e6a0eac6dcf8  bytes 22
-# 源: https://phasmophobia.fandom.com/api.php
-
-#REDIRECT [[UV Light]]

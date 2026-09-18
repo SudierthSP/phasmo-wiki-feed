@@ -1,7 +1,0 @@
-# Willow Street House
-# revid 12714  2022-09-30T14:30:11Z  by Skaijie
-# 备注: Skaijie moved page [[Willow Street House]] to [[13 Willow Street]]: new in-game name
-# sha256 cd1f6e90521533212428098c3336e5e744d193276b7b4322abaab598e799bb96  bytes 30
-# 源: https://phasmophobia.fandom.com/api.php
-
-#REDIRECT [[13 Willow Street]]

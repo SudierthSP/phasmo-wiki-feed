@@ -1,7 +1,0 @@
-# Glow Stick
-# revid 8329  2021-11-25T04:01:54Z  by Skaijie
-# 备注: Skaijie moved page [[Glow Stick]] to [[Glowstick]]: match in-game name
-# sha256 5faeb93483f31220a7c9959959ba7c2c4f4e16e757d2c8948d91ce4df84298e5  bytes 23
-# 源: https://phasmophobia.fandom.com/api.php
-
-#REDIRECT [[Glowstick]]

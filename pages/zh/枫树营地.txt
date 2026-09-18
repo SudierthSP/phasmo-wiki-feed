@@ -1,7 +1,0 @@
-# 枫树营地
-# revid 1328  2021-10-29T10:40:19Z  by Qsefthuopq
-# 备注: 重定向页面至[[枫林营地]]
-# sha256 29103c1f09874ee9565b48c9c715149f855a0ff09ef0754d32ba47cd06e5b51b  bytes 26
-# 源: https://phasmophobia.fandom.com/zh/api.php
-
-#redirect [[枫林营地]]

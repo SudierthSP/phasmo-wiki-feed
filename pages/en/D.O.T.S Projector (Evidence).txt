@@ -1,7 +1,0 @@
-# D.O.T.S Projector (Evidence)
-# revid 22488  2025-12-17T04:50:58Z  by Darkhooper
-# 备注: Darkhooper moved page [[D.O.T.S Projector (Evidence)]] to [[D.O.T.S. Projector (Evidence)]]: "D.O.T.S." instead of "D.O.T.S"
-# sha256 67db7b16f6479c0b6fec7d3cf8e2b0f24d58fb4b75ee196082884587394a3abf  bytes 43
-# 源: https://phasmophobia.fandom.com/api.php
-
-#REDIRECT [[D.O.T.S. Projector (Evidence)]]

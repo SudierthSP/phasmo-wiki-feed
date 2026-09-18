@@ -1,7 +1,0 @@
-# Twins
-# revid 18118  2024-06-03T20:27:40Z  by Goatbonnie
-# 备注: redirect to the page The Twins, makes looking up Twins show The Twins
-# sha256 d43f51ba2efc5961a91097b08b74d53df0c447066a18cd99ff945118daeb8d33  bytes 23
-# 源: https://phasmophobia.fandom.com/api.php
-
-#redirect [[The Twins]]

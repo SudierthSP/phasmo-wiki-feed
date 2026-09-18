@@ -1,7 +1,0 @@
-# Tarot
-# revid 22127  2025-10-25T03:43:56Z  by Thedante84
-# 备注: Redirected page to [[Tarot Cards]]
-# sha256 6cdeb9ed3cc1cafb8dc34d32859a9a4c31042109a8a6e0d671747da7c407cdae  bytes 25
-# 源: https://phasmophobia.fandom.com/api.php
-
-#REDIRECT [[Tarot_Cards]]

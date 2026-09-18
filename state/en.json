@@ -1,9 +1,9 @@
 {
   "fmt": 2,
-  "updated": "2026-09-18T19:52:13.335Z",
+  "updated": "2026-09-18T19:55:43.449Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
-  "redirectCount": 0,
+  "redirectCount": 57,
   "pages": {
     "Main Page": {
       "revid": 24618,
@@ -73,7 +73,7 @@
     "Smudge Stick": {
       "revid": 15662,
       "ts": "2023-08-19T07:00:20Z",
-      "redirect": false
+      "redirect": true
     },
     "Ghost Orb": {
       "revid": 24613,
@@ -113,7 +113,7 @@
     "Salt shaker": {
       "revid": 324,
       "ts": "2020-09-29T21:39:03Z",
-      "redirect": false
+      "redirect": true
     },
     "Spirit": {
       "revid": 23120,
@@ -223,7 +223,7 @@
     "Glowstick": {
       "revid": 16555,
       "ts": "2023-09-29T16:49:23Z",
-      "redirect": false
+      "redirect": true
     },
     "Parabolic Microphone": {
       "revid": 23265,
@@ -373,7 +373,7 @@
     "Ghost event": {
       "revid": 4439,
       "ts": "2021-01-10T20:29:49Z",
-      "redirect": false
+      "redirect": true
     },
     "Sanity Monitor": {
       "revid": 23416,
@@ -393,17 +393,17 @@
     "Fuse box": {
       "revid": 2130,
       "ts": "2020-10-21T04:19:30Z",
-      "redirect": false
+      "redirect": true
     },
     "Exit door": {
       "revid": 10121,
       "ts": "2022-02-11T03:18:54Z",
-      "redirect": false
+      "redirect": true
     },
     "Video camera": {
       "revid": 2147,
       "ts": "2020-10-21T05:23:11Z",
-      "redirect": false
+      "redirect": true
     },
     "Kinetic Games": {
       "revid": 24506,
@@ -413,7 +413,7 @@
     "Dirty water": {
       "revid": 2346,
       "ts": "2020-10-25T03:19:39Z",
-      "redirect": false
+      "redirect": true
     },
     "Computer": {
       "revid": 21222,
@@ -423,7 +423,7 @@
     "Footprints": {
       "revid": 17009,
       "ts": "2023-12-07T02:19:04Z",
-      "redirect": false
+      "redirect": true
     },
     "Interaction": {
       "revid": 24462,
@@ -488,7 +488,7 @@
     "Phasmophobia Wiki": {
       "revid": 3620,
       "ts": "2020-12-05T13:18:34Z",
-      "redirect": false
+      "redirect": true
     },
     "Glitches": {
       "revid": 24292,
@@ -508,17 +508,17 @@
     "Optional Objective": {
       "revid": 6091,
       "ts": "2021-07-09T00:04:03Z",
-      "redirect": false
+      "redirect": true
     },
     "Photo": {
       "revid": 4431,
       "ts": "2021-01-09T18:44:02Z",
-      "redirect": false
+      "redirect": true
     },
     "Bone": {
       "revid": 4472,
       "ts": "2021-01-10T21:40:34Z",
-      "redirect": false
+      "redirect": true
     },
     "Phasmophobia Map Concepts: The Writer's Corner": {
       "revid": 6763,
@@ -573,12 +573,12 @@
     "D.O.T.S Projector": {
       "revid": 6262,
       "ts": "2021-08-27T15:26:22Z",
-      "redirect": false
+      "redirect": true
     },
     "Exposition Update": {
       "revid": 7561,
       "ts": "2021-10-28T04:47:43Z",
-      "redirect": false
+      "redirect": true
     },
     "Toy": {
       "revid": 24422,
@@ -588,7 +588,7 @@
     "Fusebox": {
       "revid": 6785,
       "ts": "2021-09-29T22:21:29Z",
-      "redirect": false
+      "redirect": true
     },
     "Spirit Box (Evidence)": {
       "revid": 23460,
@@ -638,7 +638,7 @@
     "Nightmare Update": {
       "revid": 7558,
       "ts": "2021-10-28T04:36:26Z",
-      "redirect": false
+      "redirect": true
     },
     "Onryo": {
       "revid": 24595,
@@ -773,7 +773,7 @@
     "Glow Stick": {
       "revid": 8329,
       "ts": "2021-11-25T04:01:54Z",
-      "redirect": false
+      "redirect": true
     },
     "Third-party tools": {
       "revid": 24693,
@@ -848,7 +848,7 @@
     "Ghost room": {
       "revid": 9707,
       "ts": "2022-01-09T17:22:06Z",
-      "redirect": false
+      "redirect": true
     },
     "0.5.1.1": {
       "revid": 23944,
@@ -863,7 +863,7 @@
     "Cursed Possessions Update": {
       "revid": 9890,
       "ts": "2022-01-26T16:12:59Z",
-      "redirect": false
+      "redirect": true
     },
     "Temperature": {
       "revid": 24018,
@@ -888,7 +888,7 @@
     "Setup phase": {
       "revid": 10435,
       "ts": "2022-03-22T11:42:30Z",
-      "redirect": false
+      "redirect": true
     },
     "Expedition Update": {
       "revid": 24007,
@@ -903,12 +903,12 @@
     "Sound sensor": {
       "revid": 10585,
       "ts": "2022-04-07T10:45:25Z",
-      "redirect": false
+      "redirect": true
     },
     "VR Overhaul Update": {
       "revid": 10618,
       "ts": "2022-04-08T02:57:33Z",
-      "redirect": false
+      "redirect": true
     },
     "0.6.0.1": {
       "revid": 23949,
@@ -928,7 +928,7 @@
     "Ghost model": {
       "revid": 10721,
       "ts": "2022-04-13T15:37:47Z",
-      "redirect": false
+      "redirect": true
     },
     "0.6.1.2": {
       "revid": 23952,
@@ -968,7 +968,7 @@
     "Smudge stick": {
       "revid": 15663,
       "ts": "2023-08-19T07:00:55Z",
-      "redirect": false
+      "redirect": true
     },
     "Prop": {
       "revid": 24039,
@@ -1068,22 +1068,22 @@
     "Tanglewood Street House": {
       "revid": 12697,
       "ts": "2022-09-30T12:22:22Z",
-      "redirect": false
+      "redirect": true
     },
     "Edgefield Street House": {
       "revid": 12702,
       "ts": "2022-09-30T12:28:12Z",
-      "redirect": false
+      "redirect": true
     },
     "Ridgeview Road House": {
       "revid": 12706,
       "ts": "2022-09-30T12:35:58Z",
-      "redirect": false
+      "redirect": true
     },
     "Willow Street House": {
       "revid": 12714,
       "ts": "2022-09-30T14:30:11Z",
-      "redirect": false
+      "redirect": true
     },
     "0.7.0.2": {
       "revid": 23965,
@@ -1148,7 +1148,7 @@
     "Smudge sticks": {
       "revid": 15664,
       "ts": "2023-08-19T07:01:12Z",
-      "redirect": false
+      "redirect": true
     },
     "0.8.0": {
       "revid": 23975,
@@ -1188,7 +1188,7 @@
     "Sunny Meadows": {
       "revid": 13887,
       "ts": "2023-01-07T05:03:05Z",
-      "redirect": false
+      "redirect": true
     },
     "0.8.0.7": {
       "revid": 23982,
@@ -1263,7 +1263,7 @@
     "DOTS Projector": {
       "revid": 15426,
       "ts": "2023-07-12T04:35:05Z",
-      "redirect": false
+      "redirect": true
     },
     "Rune": {
       "revid": 24015,
@@ -1273,37 +1273,37 @@
     "Fingerprints": {
       "revid": 15665,
       "ts": "2023-08-19T07:01:49Z",
-      "redirect": false
+      "redirect": true
     },
     "UV Flashlight": {
       "revid": 15558,
       "ts": "2023-08-17T19:35:47Z",
-      "redirect": false
+      "redirect": true
     },
     "Sanity Pills": {
       "revid": 15563,
       "ts": "2023-08-17T19:51:40Z",
-      "redirect": false
+      "redirect": true
     },
     "Lighter": {
       "revid": 15566,
       "ts": "2023-08-17T19:55:47Z",
-      "redirect": false
+      "redirect": true
     },
     "Candle": {
       "revid": 15570,
       "ts": "2023-08-17T20:00:57Z",
-      "redirect": false
+      "redirect": true
     },
     "Smudge Sticks": {
       "revid": 15573,
       "ts": "2023-08-17T20:14:56Z",
-      "redirect": false
+      "redirect": true
     },
     "Head Mounted Camera": {
       "revid": 15576,
       "ts": "2023-08-17T20:21:26Z",
-      "redirect": false
+      "redirect": true
     },
     "0.9.0.1": {
       "revid": 18211,
@@ -1313,7 +1313,7 @@
     "Salt Shaker": {
       "revid": 15683,
       "ts": "2023-08-19T17:02:52Z",
-      "redirect": false
+      "redirect": true
     },
     "0.9.0.2": {
       "revid": 18212,
@@ -1323,7 +1323,7 @@
     "High School": {
       "revid": 15767,
       "ts": "2023-08-20T23:34:14Z",
-      "redirect": false
+      "redirect": true
     },
     "0.9.0.3": {
       "revid": 18213,
@@ -1473,12 +1473,12 @@
     "Mimic": {
       "revid": 18117,
       "ts": "2024-06-03T20:26:45Z",
-      "redirect": false
+      "redirect": true
     },
     "Twins": {
       "revid": 18118,
       "ts": "2024-06-03T20:27:40Z",
-      "redirect": false
+      "redirect": true
     },
     "0.10.0": {
       "revid": 23875,
@@ -1523,7 +1523,7 @@
     "Van": {
       "revid": 18865,
       "ts": "2024-08-18T22:50:03Z",
-      "redirect": false
+      "redirect": true
     },
     "0.11.0": {
       "revid": 23880,
@@ -1553,7 +1553,7 @@
     "Cursed possession": {
       "revid": 19555,
       "ts": "2024-11-24T10:47:17Z",
-      "redirect": false
+      "redirect": true
     },
     "0.11.1.0": {
       "revid": 23884,
@@ -1568,7 +1568,7 @@
     "Xp": {
       "revid": 20192,
       "ts": "2025-02-16T15:16:12Z",
-      "redirect": false
+      "redirect": true
     },
     "0.11.1.2": {
       "revid": 23886,
@@ -1593,17 +1593,17 @@
     "Hide": {
       "revid": 20557,
       "ts": "2025-04-06T23:56:55Z",
-      "redirect": false
+      "redirect": true
     },
     "Closet": {
       "revid": 20559,
       "ts": "2025-04-06T23:57:25Z",
-      "redirect": false
+      "redirect": true
     },
     "Locker": {
       "revid": 20558,
       "ts": "2025-04-06T23:57:11Z",
-      "redirect": false
+      "redirect": true
     },
     "0.12.1.0": {
       "revid": 23889,
@@ -1618,12 +1618,12 @@
     "Blood moon": {
       "revid": 20787,
       "ts": "2025-05-07T16:50:33Z",
-      "redirect": false
+      "redirect": true
     },
     "Mirror": {
       "revid": 20789,
       "ts": "2025-05-07T23:37:41Z",
-      "redirect": false
+      "redirect": true
     },
     "0.12.1.2": {
       "revid": 23891,
@@ -1688,7 +1688,7 @@
     "Badge": {
       "revid": 21643,
       "ts": "2025-08-12T17:28:40Z",
-      "redirect": false
+      "redirect": true
     },
     "0.14.0.1": {
       "revid": 23897,
@@ -1698,7 +1698,7 @@
     "Teddy Bear": {
       "revid": 21714,
       "ts": "2025-08-28T18:20:26Z",
-      "redirect": false
+      "redirect": true
     },
     "0.14.1.0": {
       "revid": 23898,
@@ -1718,12 +1718,12 @@
     "Tarot": {
       "revid": 22127,
       "ts": "2025-10-25T03:43:56Z",
-      "redirect": false
+      "redirect": true
     },
     "Cursed hunt": {
       "revid": 22152,
       "ts": "2025-11-05T15:34:22Z",
-      "redirect": false
+      "redirect": true
     },
     "0.15.0": {
       "revid": 23901,
@@ -1758,7 +1758,7 @@
     "D.O.T.S Projector (Evidence)": {
       "revid": 22488,
       "ts": "2025-12-17T04:50:58Z",
-      "redirect": false
+      "redirect": true
     },
     "0.16.0": {
       "revid": 23903,
@@ -1773,7 +1773,7 @@
     "Favorite Room": {
       "revid": 22994,
       "ts": "2026-03-29T22:30:22Z",
-      "redirect": false
+      "redirect": true
     },
     "0.16.1.0": {
       "revid": 24459,

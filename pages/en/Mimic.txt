@@ -1,7 +1,0 @@
-# Mimic
-# revid 18117  2024-06-03T20:26:45Z  by Goatbonnie
-# 备注: for ease of looking up the page The Mimic
-# sha256 5abfc07e1ac6477c1de49b1d731a9cf3dc7b729762614cdf6d86fec3589adfbf  bytes 23
-# 源: https://phasmophobia.fandom.com/api.php
-
-#redirect [[The Mimic]]

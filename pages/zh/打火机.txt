@@ -1,7 +1,0 @@
-# 打火机
-# revid 3259  2023-09-10T05:46:48Z  by Skaijie
-# 备注: 重定向页面至[[点火器]]
-# sha256 a194c740d5a2510bd20be626b22f9525cd577675b0bf927976ceeca99e78f140  bytes 23
-# 源: https://phasmophobia.fandom.com/zh/api.php
-
-#REDIRECT [[点火器]]

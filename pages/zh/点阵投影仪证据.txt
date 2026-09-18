@@ -1,7 +1,0 @@
-# 点阵投影仪证据
-# revid 3576  2024-12-15T04:25:43Z  by Skaijie
-# 备注: 重定向页面至[[点阵投影仪]]
-# sha256 3d26103d6e4d16167ae3ea89296b04d7729822642bf0613d83021f2c7780fdce  bytes 29
-# 源: https://phasmophobia.fandom.com/zh/api.php
-
-#REDIRECT [[点阵投影仪]]

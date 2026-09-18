@@ -1,8 +1,0 @@
-# Salt shaker
-# revid 324  2020-09-29T21:39:03Z  by Lukas Exemplar
-# 备注: Adding categories
-# sha256 a301ec33db32f6a5852ebcbe24323288e1dda37e7d30c65df6d5e9fa27c9c78b  bytes 53
-# 源: https://phasmophobia.fandom.com/api.php
-
-#REDIRECT [[Salt Shaker]]
-[[Category:Redirect pages]]

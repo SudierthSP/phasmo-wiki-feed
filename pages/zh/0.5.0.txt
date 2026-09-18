@@ -1,7 +1,0 @@
-# 0.5.0
-# revid 1559  2021-12-05T17:08:38Z  by Qsefthuopq
-# 备注: 重定向页面至[[诅咒之物更新]]
-# sha256 36bac8cd6613c4a0f0e3c78f8860818544596f83f6a64bca83581a86393913a6  bytes 32
-# 源: https://phasmophobia.fandom.com/zh/api.php
-
-#redirect [[诅咒之物更新]]

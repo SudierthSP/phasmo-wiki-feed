@@ -1,9 +1,9 @@
 {
   "fmt": 2,
-  "updated": "2026-09-18T19:52:23.989Z",
+  "updated": "2026-09-18T19:55:45.192Z",
   "api": "https://phasmophobia.fandom.com/zh/api.php",
   "pageCount": 323,
-  "redirectCount": 0,
+  "redirectCount": 41,
   "pages": {
     "恐鬼症 Wiki": {
       "revid": 3908,
@@ -13,7 +13,7 @@
     "首页": {
       "revid": 151,
       "ts": "2021-10-06T15:37:11Z",
-      "redirect": false
+      "redirect": true
     },
     "恐鬼症": {
       "revid": 3404,
@@ -33,7 +33,7 @@
     "地点": {
       "revid": 769,
       "ts": "2021-10-08T02:45:16Z",
-      "redirect": false
+      "redirect": true
     },
     "鬼魂": {
       "revid": 4294,
@@ -58,7 +58,7 @@
     "指纹": {
       "revid": 2971,
       "ts": "2023-08-12T12:52:16Z",
-      "redirect": false
+      "redirect": true
     },
     "证据": {
       "revid": 4176,
@@ -93,7 +93,7 @@
     "鬼魂活动": {
       "revid": 2778,
       "ts": "2023-02-26T04:03:52Z",
-      "redirect": false
+      "redirect": true
     },
     "鬼魂事件": {
       "revid": 4059,
@@ -138,7 +138,7 @@
     "Sanity Screen": {
       "revid": 795,
       "ts": "2021-10-08T10:19:02Z",
-      "redirect": false
+      "redirect": true
     },
     "理智显示屏": {
       "revid": 4060,
@@ -258,7 +258,7 @@
     "紫外线手电筒": {
       "revid": 3512,
       "ts": "2024-12-03T14:03:40Z",
-      "redirect": false
+      "redirect": true
     },
     "灵球": {
       "revid": 4064,
@@ -308,7 +308,7 @@
     "调查": {
       "revid": 1218,
       "ts": "2021-10-22T03:09:29Z",
-      "redirect": false
+      "redirect": true
     },
     "合约": {
       "revid": 3419,
@@ -358,12 +358,12 @@
     "卡车": {
       "revid": 1262,
       "ts": "2021-10-26T04:15:23Z",
-      "redirect": false
+      "redirect": true
     },
     "枫树营地": {
       "revid": 1328,
       "ts": "2021-10-29T10:40:19Z",
-      "redirect": false
+      "redirect": true
     },
     "坦格活德街房屋": {
       "revid": 2874,
@@ -398,12 +398,12 @@
     "噩梦更新": {
       "revid": 1323,
       "ts": "2021-10-29T03:06:20Z",
-      "redirect": false
+      "redirect": true
     },
     "0.4.0": {
       "revid": 1324,
       "ts": "2021-10-29T03:06:42Z",
-      "redirect": false
+      "redirect": true
     },
     "温度计": {
       "revid": 3768,
@@ -418,7 +418,7 @@
     "营地": {
       "revid": 1330,
       "ts": "2021-10-29T10:41:18Z",
-      "redirect": false
+      "redirect": true
     },
     "电闸": {
       "revid": 4036,
@@ -438,7 +438,7 @@
     "圣木": {
       "revid": 2974,
       "ts": "2023-08-12T13:10:07Z",
-      "redirect": false
+      "redirect": true
     },
     "理智": {
       "revid": 3885,
@@ -453,7 +453,7 @@
     "拍照奖励": {
       "revid": 4010,
       "ts": "2025-11-08T03:49:21Z",
-      "redirect": false
+      "redirect": true
     },
     "收音器": {
       "revid": 3879,
@@ -468,12 +468,12 @@
     "打火机": {
       "revid": 3259,
       "ts": "2023-09-10T05:46:48Z",
-      "redirect": false
+      "redirect": true
     },
     "蜡烛": {
       "revid": 2975,
       "ts": "2023-08-14T10:20:11Z",
-      "redirect": false
+      "redirect": true
     },
     "0.4.1.0": {
       "revid": 1432,
@@ -508,7 +508,7 @@
     "头戴式摄像机": {
       "revid": 3033,
       "ts": "2023-08-17T17:03:37Z",
-      "redirect": false
+      "redirect": true
     },
     "十字架": {
       "revid": 3981,
@@ -528,12 +528,12 @@
     "醒脑丸": {
       "revid": 2977,
       "ts": "2023-08-14T10:22:26Z",
-      "redirect": false
+      "redirect": true
     },
     "荧光棒": {
       "revid": 3658,
       "ts": "2024-12-16T14:55:25Z",
-      "redirect": false
+      "redirect": true
     },
     "强光手电筒": {
       "revid": 2983,
@@ -553,12 +553,12 @@
     "死灵": {
       "revid": 1476,
       "ts": "2021-11-09T08:10:10Z",
-      "redirect": false
+      "redirect": true
     },
     "妖灵": {
       "revid": 1477,
       "ts": "2021-11-09T08:10:51Z",
-      "redirect": false
+      "redirect": true
     },
     "0.4.1.2": {
       "revid": 1510,
@@ -573,7 +573,7 @@
     "0.3.0": {
       "revid": 1534,
       "ts": "2021-12-01T03:59:58Z",
-      "redirect": false
+      "redirect": true
     },
     "出口门": {
       "revid": 2833,
@@ -603,12 +603,12 @@
     "0.5.0": {
       "revid": 1559,
       "ts": "2021-12-05T17:08:38Z",
-      "redirect": false
+      "redirect": true
     },
     "诅咒之物更新": {
       "revid": 1560,
       "ts": "2021-12-05T17:09:28Z",
-      "redirect": false
+      "redirect": true
     },
     "召唤阵": {
       "revid": 3991,
@@ -648,12 +648,12 @@
     "Willow Street House": {
       "revid": 1666,
       "ts": "2021-12-18T06:10:08Z",
-      "redirect": false
+      "redirect": true
     },
     "Tanglewood Street House": {
       "revid": 1687,
       "ts": "2021-12-18T07:26:52Z",
-      "redirect": false
+      "redirect": true
     },
     "指南/定位鬼魂位置": {
       "revid": 2663,
@@ -698,7 +698,7 @@
     "VR重制更新": {
       "revid": 1869,
       "ts": "2022-04-08T05:42:19Z",
-      "redirect": false
+      "redirect": true
     },
     "0.6.0": {
       "revid": 2234,
@@ -758,7 +758,7 @@
     "阳光草甸精神病院": {
       "revid": 2479,
       "ts": "2022-10-31T14:00:43Z",
-      "redirect": false
+      "redirect": true
     },
     "0.6.2.0": {
       "revid": 2114,
@@ -798,7 +798,7 @@
     "足迹": {
       "revid": 2506,
       "ts": "2022-11-05T04:41:20Z",
-      "redirect": false
+      "redirect": true
     },
     "水槽": {
       "revid": 3656,
@@ -823,7 +823,7 @@
     "训练": {
       "revid": 2266,
       "ts": "2022-08-14T05:05:27Z",
-      "redirect": false
+      "redirect": true
     },
     "林风营地": {
       "revid": 4056,
@@ -833,7 +833,7 @@
     "V0.7": {
       "revid": 2337,
       "ts": "2022-09-08T11:13:39Z",
-      "redirect": false
+      "redirect": true
     },
     "0.7.0": {
       "revid": 2425,
@@ -973,7 +973,7 @@
     "学校": {
       "revid": 2711,
       "ts": "2023-01-10T05:56:30Z",
-      "redirect": false
+      "redirect": true
     },
     "0.8.0.7": {
       "revid": 2720,
@@ -988,7 +988,7 @@
     "精神病院": {
       "revid": 2719,
       "ts": "2023-01-15T07:19:36Z",
-      "redirect": false
+      "redirect": true
     },
     "身份卡": {
       "revid": 3174,
@@ -1013,7 +1013,7 @@
     "每日和每周挑战": {
       "revid": 2808,
       "ts": "2023-03-01T14:00:30Z",
-      "redirect": false
+      "redirect": true
     },
     "温度": {
       "revid": 3760,
@@ -1098,12 +1098,12 @@
     "理智恢复": {
       "revid": 3031,
       "ts": "2023-08-17T17:01:33Z",
-      "redirect": false
+      "redirect": true
     },
     "紫外线（装备）": {
       "revid": 3050,
       "ts": "2023-08-21T15:28:04Z",
-      "redirect": false
+      "redirect": true
     },
     "点火器": {
       "revid": 3447,
@@ -1263,7 +1263,7 @@
     "希望角": {
       "revid": 3428,
       "ts": "2024-06-25T14:08:47Z",
-      "redirect": false
+      "redirect": true
     },
     "希望角灯塔": {
       "revid": 4266,
@@ -1323,7 +1323,7 @@
     "点阵投影仪证据": {
       "revid": 3576,
       "ts": "2024-12-15T04:25:43Z",
-      "redirect": false
+      "redirect": true
     },
     "难度/自定义": {
       "revid": 3894,
@@ -1503,7 +1503,7 @@
     "达彦": {
       "revid": 4105,
       "ts": "2026-03-16T14:40:25Z",
-      "redirect": false
+      "redirect": true
     },
     "0.16.1.0": {
       "revid": 4117,
@@ -1563,7 +1563,7 @@
     "Deildegast": {
       "revid": 4224,
       "ts": "2026-07-21T16:50:49Z",
-      "redirect": false
+      "redirect": true
     },
     "0.18.0": {
       "revid": 4227,
@@ -1583,7 +1583,7 @@
     "擾物靈": {
       "revid": 4237,
       "ts": "2026-08-04T09:00:44Z",
-      "redirect": false
+      "redirect": true
     },
     "希望角灯塔- 限制区": {
       "revid": 4264,

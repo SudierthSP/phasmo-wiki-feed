@@ -1,7 +1,0 @@
-# Deildegast
-# revid 4224  2026-07-21T16:50:49Z  by Qsefthuopq
-# 备注: 重定向页面至[[界灵]]
-# sha256 5100f60880e39d9b628e090b3646ccf9e4da2f02b18b7ab6f71e57b3f6ef0014  bytes 20
-# 源: https://phasmophobia.fandom.com/zh/api.php
-
-#redirect [[界灵]]

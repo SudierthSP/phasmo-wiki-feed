@@ -1,7 +1,0 @@
-# Phasmophobia Wiki
-# revid 3620  2020-12-05T13:18:34Z  by SirDryft
-# 备注: SirDryft moved page [[Phasmophobia Wiki]] to [[Main Page]] over redirect
-# sha256 c7c9ec03c409235a3c3f40779438fa6cf5d8571dae23b90d019b223077f3cf26  bytes 23
-# 源: https://phasmophobia.fandom.com/api.php
-
-#REDIRECT [[Main Page]]

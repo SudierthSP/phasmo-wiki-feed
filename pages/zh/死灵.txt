@@ -1,7 +1,0 @@
-# 死灵
-# revid 1476  2021-11-09T08:10:10Z  by Qsefthuopq
-# 备注: 重定向页面至[[魅影]]
-# sha256 0458db3127a16050643cb6cae06726df0ede7b9be78f35f51a8c14e97187283d  bytes 20
-# 源: https://phasmophobia.fandom.com/zh/api.php
-
-#redirect [[魅影]]

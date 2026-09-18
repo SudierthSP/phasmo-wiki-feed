@@ -1,7 +1,0 @@
-# 精神病院
-# revid 2719  2023-01-15T07:19:36Z  by Qsefthuopq
-# 备注: 重定向页面至[[阳光牧场精神病院]]
-# sha256 ab8aae11d739786d8342b94408c66fa072395a3ff3653fd2579dd8eb59aeb099  bytes 38
-# 源: https://phasmophobia.fandom.com/zh/api.php
-
-#redirect [[阳光牧场精神病院]]

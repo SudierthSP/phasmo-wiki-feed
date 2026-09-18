@@ -1,8 +1,0 @@
-# Xp
-# revid 20192  2025-02-16T15:16:12Z  by AlphaChap
-# 备注: Redirected page to [[Experience]]
-# sha256 8870f9c71ab714a948d7ee8221222ca0edc257e4cb6fa7ed1e1b4622b1bebcfc  bytes 52
-# 源: https://phasmophobia.fandom.com/api.php
-
-#redirect [[Experience]]
-[[Category:Redirect Pages]]

@@ -1,7 +1,0 @@
-# Ghost room
-# revid 9707  2022-01-09T17:22:06Z  by Skaijie
-# 备注: Redirected page to [[Ghost Room]]
-# sha256 df493dbc3866e8b27ec02a1b1b86924fe69f838fbc760bd945c0d438bd897b56  bytes 24
-# 源: https://phasmophobia.fandom.com/api.php
-
-#REDIRECT [[Ghost Room]]

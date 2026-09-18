@@ -1,7 +1,0 @@
-# Ghost event
-# revid 4439  2021-01-10T20:29:49Z  by YummyYummyArsenic
-# 备注: Moved page's content to [[Ghost Event]] and replaced with a redirect
-# sha256 d57d5ec30762a1d1caa6d6ff3ba4d3cd5764f1178cb143a7d1856ad068fee17e  bytes 25
-# 源: https://phasmophobia.fandom.com/api.php
-
-#REDIRECT [[Ghost Event]]
