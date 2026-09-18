@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-09-18T19:56:45.367Z",
+  "updated": "2026-09-18T23:21:20.919Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -406,8 +406,8 @@
       "redirect": true
     },
     "Kinetic Games": {
-      "revid": 24506,
-      "ts": "2026-08-26T00:39:47Z",
+      "revid": 25006,
+      "ts": "2026-09-18T22:00:10Z",
       "redirect": false
     },
     "Dirty water": {
@@ -481,8 +481,8 @@
       "redirect": false
     },
     "Prison": {
-      "revid": 24686,
-      "ts": "2026-09-15T18:11:17Z",
+      "revid": 25004,
+      "ts": "2026-09-18T19:59:16Z",
       "redirect": false
     },
     "Phasmophobia Wiki": {

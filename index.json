@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T19:56:44.898Z",
+  "generated": "2026-09-18T23:21:20.453Z",
   "counts": {
     "en": 321,
     "zh": 282
@@ -520,8 +520,8 @@
       {
         "t": "Kinetic Games",
         "f": "pages/en/Kinetic Games.txt",
-        "b": 7645,
-        "r": 24506,
+        "b": 7648,
+        "r": 25006,
         "x": "{{Infobox Studio |image1=KineticGames.png |founded=2020<ref>https://www.kineticgames.co.uk/about-us</ref> |founder=Daniel Knight |website=[http://www.kineticgames.co.uk/ www.kineticgames.co.uk] |links= <div class=\"button"
       },
       {
@@ -611,8 +611,8 @@
       {
         "t": "Prison",
         "f": "pages/en/Prison.txt",
-        "b": 11042,
-        "r": 24686,
+        "b": 12950,
+        "r": 25004,
         "x": "{{Location |img=Prison.png |imgcaption=A view inside a cell block. |mapsize=Medium |unlocklevel=11 |floors=2 |rooms=31 (Total) *2F: 12 *1F: 19 *29 possible ghost rooms |exits=3 |faucets=6 (2F) 10 (1F) |videofeeds=5 (2F) "
       },
       {
