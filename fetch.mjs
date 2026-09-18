@@ -32,7 +32,7 @@
  *      当成页头丢掉（摘要和喂给模型的材料都少了开头）。
  *      现在改成显式的 `header + '\n\n' + content`，正文从第一个空行之后开始。
  *
- *   ② 重定向页被当成正文收进库。全站 50 个 en + 11 个 zh 页面其实是
+ *   ② 重定向页被当成正文收进库。全站 57 个 en + 11 个 zh 页面其实是
  *      `#REDIRECT [[真页面]]` 的空壳（25~300 字节）。两个害处：
  *        · 制造大小写孪生（`Ghost Event` 与 `Ghost event` 同名不同大小写），
  *          **在 Windows 上克隆这个仓库时两者会互相覆盖**，git 报假改动，
@@ -40,8 +40,11 @@
  *        · 检索时空壳标题精确命中，会顶掉真正有内容的页面。
  *      现在：重定向页**不落 pages/、不进索引**，改为记进 redirects.json，
  *      由 phasmo-lib.mjs 在检索时把别名展开到真页面。
- *      判定不靠正则猜，而是用 API 的 `prop=pageprops&ppprop=redirect`，
- *      正则只用来取目标标题。
+ *
+ *      ⚠️ 判定重定向**只能用 `apfilterredir`**：Fandom 的
+ *      `prop=pageprops&ppprop=redirect` **不返回任何东西**（详情见 fetchState 的注释）。
+ *      第一次修的时候就栽在这上面——脚本不报错，只是安静地得到「重定向 0 页」。
+ *      正则只用来从正文里取目标标题。
  */
 
 import fs from 'node:fs';
@@ -146,39 +149,60 @@ function stripHeader(raw) {
   return i >= 0 ? raw.slice(i + 2) : raw;
 }
 
-/** 从重定向页正文里取目标标题。只用它取名字，页是不是重定向由 API 的 pageprops 决定。 */
+/** 从重定向页正文里取目标标题。只用它取名字，页是不是重定向由 apfilterredir 决定。 */
 function parseRedirectTarget(content) {
   const m = String(content).match(/#\s*(?:REDIRECT|重定向)\s*:?\s*\[\[([^\]|#]+)/i);
   return m ? normalizeTitle(m[1]) : null;
 }
 
 /**
- * 全站 ns0 页面的「标题 → revid/时间戳/是否重定向」。一次请求拿完（实测 34 KB / 378 页）。
- * `ppprop=redirect` 让重定向页带上 pageprops.redirect，不用先抓正文才知道。
+ * 全站 ns0 页面的「标题 → revid/时间戳/是否重定向」。
+ *
+ * ⚠️ 判定重定向**只能靠 `apfilterredir`**。
+ *    2026-09-19 实测：Fandom 的 `prop=pageprops&ppprop=redirect` **不返回任何东西**——
+ *    `Ghost event`、`Van` 这类重定向页在 pageprops 里只有 `fandomdescription`
+ *    或者干脆没有 pageprops。照抄通用 MediaWiki 教程会得到「重定向 0 页」，
+ *    而且**脚本不报错**（第一次上线就是这么静默失败的）。
+ *    对照数据：`apfilterredir=redirects` 得 57 条，`nonredirects` 得 321 条，57+321=378。
+ *
+ * 所以分两步：先按 `list=allpages` 拿重定向标题集合，再按 generator 拿 revid。
  */
 async function fetchState(apiBase) {
-  const pages = {};
+  // ---- 1. 重定向标题集合（权威来源）----
+  const redirects = new Set();
   let cont = null;
   do {
     const params = {
+      action: 'query', list: 'allpages', apnamespace: '0', aplimit: '500',
+      apfilterredir: 'redirects',
+    };
+    if (cont) Object.assign(params, cont);
+    const data = await api(apiBase, params);
+    for (const p of data.query?.allpages ?? []) redirects.add(p.title);
+    cont = data.continue ?? null;
+    if (cont) await sleep(DELAY_MS);
+  } while (cont);
+
+  // ---- 2. 全站 revid / 时间戳 ----
+  const pages = {};
+  cont = null;
+  do {
+    const params = {
       action: 'query', generator: 'allpages', gapnamespace: '0', gaplimit: '500',
-      prop: 'revisions|pageprops', rvprop: 'ids|timestamp', ppprop: 'redirect',
+      prop: 'revisions', rvprop: 'ids|timestamp',
     };
     if (cont) Object.assign(params, cont);
     const data = await api(apiBase, params);
     for (const p of data.query?.pages ?? []) {
       const rev = p.revisions?.[0];
       if (!rev) continue;
-      pages[p.title] = {
-        revid: rev.revid,
-        ts: rev.timestamp,
-        redirect: Object.prototype.hasOwnProperty.call(p.pageprops ?? {}, 'redirect'),
-      };
+      pages[p.title] = { revid: rev.revid, ts: rev.timestamp, redirect: redirects.has(p.title) };
     }
     cont = data.continue ?? null;
     if (cont) await sleep(DELAY_MS);
   } while (cont);
-  return pages;
+
+  return { pages, redirectCount: redirects.size };
 }
 
 /** 批量取一批页的正文（含作者与备注，供变更日志用）。 */
@@ -276,15 +300,16 @@ async function syncSite(site, globalLog, redirectsOut) {
   const prevPages = prev.pages ?? {};
 
   const now = await fetchState(site.api);
-  const titles = Object.keys(now);
+  const nowPages = now.pages;
+  const titles = Object.keys(nowPages);
   console.log(`  当前 ${titles.length} 页，上次 ${Object.keys(prevPages).length} 页`);
 
-  const redirectTitles = titles.filter(t => now[t].redirect);
-  const contentTitles = titles.filter(t => !now[t].redirect);
+  const redirectTitles = titles.filter(t => nowPages[t].redirect);
+  const contentTitles = titles.filter(t => !nowPages[t].redirect);
   console.log(`  其中重定向 ${redirectTitles.length} 页（不落盘，只做别名）`);
 
-  const changed = contentTitles.filter(t => prevPages[t]?.revid !== now[t].revid);
-  const removed = Object.keys(prevPages).filter(t => !(t in now));
+  const changed = contentTitles.filter(t => prevPages[t]?.revid !== nowPages[t].revid);
+  const removed = Object.keys(prevPages).filter(t => !(t in nowPages));
   const bootstrap = Object.keys(prevPages).length === 0;
   // 格式升级：状态文件里的版本对不上 → 全量重写一遍（但不算「变动」，不写变更日志）
   const fmtBump = !bootstrap && prev.fmt !== FMT;
@@ -361,7 +386,7 @@ async function syncSite(site, globalLog, redirectsOut) {
   }
 
   // ---- 3. 别名解析 ----
-  const realTitles = titles.filter(t => !now[t].redirect);
+  const realTitles = contentTitles;
   const { resolved, unresolved, chains } = resolveRedirects(rawRedirectMap, realTitles);
   redirectsOut.langs[site.lang] = resolved;
   redirectsOut.unresolved[site.lang] = unresolved;
@@ -393,12 +418,12 @@ async function syncSite(site, globalLog, redirectsOut) {
       bytes = Buffer.byteLength(raw, 'utf8');
       excerpt = stripHeader(raw).replace(/\s+/g, ' ').trim().slice(0, EXCERPT);
     } catch { /* 本轮没拿到（批次失败） */ }
-    index.push({ t, f: `pages/${site.lang}/${fname}`, b: bytes, r: now[t].revid, x: excerpt });
+    index.push({ t, f: `pages/${site.lang}/${fname}`, b: bytes, r: nowPages[t].revid, x: excerpt });
   }
 
   writeJson(statePath, {
     fmt: FMT, updated: stamp, api: site.api,
-    pageCount: titles.length, redirectCount: redirectTitles.length, pages: now,
+    pageCount: titles.length, redirectCount: redirectTitles.length, pages: nowPages,
   });
 
   console.log(`  [${site.lang}] 索引 ${index.length} 条（正文页），别名 ${Object.keys(resolved).length} 条`);

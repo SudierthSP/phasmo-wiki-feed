@@ -110,16 +110,20 @@ function makeServer() {
     const params = u.searchParams;
     let pages = [];
 
+    // fetch.mjs 用 list=allpages&apfilterredir=redirects 拿重定向标题集合
+    // （不是 prop=pageprops&ppprop=redirect —— Fandom 上那个不返回任何东西，实测过）
+    if (params.get('list') === 'allpages' && params.get('apfilterredir') === 'redirects') {
+      const allpages = Object.entries(data).filter(([, p]) => p.redirect).map(([title]) => ({ title, ns: 0 }));
+      res.writeHead(200, { 'content-type': 'application/json' });
+      res.end(JSON.stringify({ batchcomplete: true, query: { allpages } }));
+      return;
+    }
+
     if (params.get('generator') === 'allpages') {
-      pages = allpages(data).map(p => {
-        const page = {
-          title: p.title,
-          revisions: [{ revid: p.revid, timestamp: p.ts }],
-        };
-        // 只有重定向页才带 pageprops.redirect —— 与真实 API 一致
-        if (p.redirect) page.pageprops = { redirect: '' };
-        return page;
-      });
+      pages = allpages(data).map(p => ({
+        title: p.title,
+        revisions: [{ revid: p.revid, timestamp: p.ts }],
+      }));
     } else if (params.has('titles')) {
       const wanted = params.get('titles').split('|');
       pages = wanted.filter(t => data[t]).map(t => {
