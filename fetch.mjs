@@ -4,8 +4,9 @@
  * 产出的是一个「可检索的文本数据库」，供 550v 在服务器上本地读取：
  *
  *   pages/<lang>/<标题>.txt     全站正文（完整信息）
- *   index.json                  检索索引（标题 + 摘要 + 路径 + 大小）
- *   state/<lang>.json           标题 → 当前 revid/时间戳
+ *   index.json                  检索索引（标题 + 摘要 + 路径 + revid）
+ *   redirects.json              重定向别名表（小写名/简称 → 真页面）
+ *   state/<lang>.json           标题 → 当前 revid/时间戳/是否重定向
  *   changes.jsonl               变更日志：时间 / 标题 / revid / 作者 / 备注
  *   history/<lang>/<标题>/<revid>.txt   历史版本（对照用）
  *
@@ -20,6 +21,27 @@
  *   · 站点限流表（meta=userinfo&uiprop=ratelimits）里**没有任何只读查询条目**
  *   · RevisionDelete 会永久隐藏正文 → 必须第一次见到就落盘，所以有 history/
  *   · 正文命名空间约 6.1 次编辑/天（全命名空间的 20.8 次/天里大半是图片）
+ *
+ * ⚠️ 2026-09-19 修掉的两个 bug（都是上线后发现的）：
+ *
+ *   ① 页头与正文粘在一起。原来是
+ *        [...header, ''].filter(Boolean).join('\n') + content
+ *      —— `filter(Boolean)` 把当分隔符用的空串也滤掉了，于是
+ *      `# 源: <url>` 和正文第一行连成一行。后果不只是难看：
+ *      下游用 `filter(l => !l.startsWith('# '))` 去头，会把**每一页正文的第一行**
+ *      当成页头丢掉（摘要和喂给模型的材料都少了开头）。
+ *      现在改成显式的 `header + '\n\n' + content`，正文从第一个空行之后开始。
+ *
+ *   ② 重定向页被当成正文收进库。全站 50 个 en + 11 个 zh 页面其实是
+ *      `#REDIRECT [[真页面]]` 的空壳（25~300 字节）。两个害处：
+ *        · 制造大小写孪生（`Ghost Event` 与 `Ghost event` 同名不同大小写），
+ *          **在 Windows 上克隆这个仓库时两者会互相覆盖**，git 报假改动，
+ *          一旦提交就等于删掉真实页面；
+ *        · 检索时空壳标题精确命中，会顶掉真正有内容的页面。
+ *      现在：重定向页**不落 pages/、不进索引**，改为记进 redirects.json，
+ *      由 phasmo-lib.mjs 在检索时把别名展开到真页面。
+ *      判定不靠正则猜，而是用 API 的 `prop=pageprops&ppprop=redirect`，
+ *      正则只用来取目标标题。
  */
 
 import fs from 'node:fs';
@@ -27,6 +49,10 @@ import path from 'node:path';
 import { createHash } from 'node:crypto';
 
 const OUT = process.cwd();
+
+// 数据格式版本。改动页头结构或落盘策略时 +1 —— 会让下一次运行强制全量重抓
+// （见 syncSite 里的 fmtBump），这样旧格式文件会被就地升级，不用手工迁移。
+const FMT = 2;
 
 // 英文站 + 中文站（同一套 API，换路径前缀）。中文站是给中文群的答案来源。
 const SITES = [
@@ -37,8 +63,9 @@ const SITES = [
 const UA = 'phasmo-wiki-feed/1.0 (https://github.com/SudierthSP/phasmo-wiki-feed; contact: SudierthSP@users.noreply.github.com)';
 
 // 请求间隔：站点不拦（实测 20 次串行全 200），但每请求都到源站，主动克制。
-const DELAY_MS = 1000;
-// 一次批量取多少页的正文。50 页约 250 KB，稳。
+// 测试里用 FETCH_DELAY_MS=0 把它关掉。
+const DELAY_MS = Number(process.env.FETCH_DELAY_MS ?? 1000);
+// 一次批量取多少页的正文。50 页约 250 KB，稳（也是 MediaWiki 单次 titles 的上限）。
 const BATCH = 50;
 // 索引里每页存多少字符的摘要（给检索用）
 const EXCERPT = 220;
@@ -88,20 +115,65 @@ function writeJson(p, obj) {
   fs.writeFileSync(p, JSON.stringify(obj, null, 2) + '\n', 'utf8');
 }
 
-/** 全站 ns0 页面的「标题 → revid/时间戳」。一次请求拿完（实测 34 KB / 378 页）。 */
+/**
+ * 精确按文件名删除。
+ *
+ * ⚠️ 不能写成 `fs.existsSync(p) && fs.unlinkSync(p)`：Windows 的文件系统不区分大小写，
+ * 删 `Ghost event.txt` 会**真的删掉** `Ghost Event.txt`（那是正文页）。
+ * 2026-09-19 踩过：在本地跑一遍就把正文页删了，而且下一轮又「发现文件存在」再删一次，
+ * `.dirty` 永远是 1，提交里全是噪声。
+ * 改成先读目录拿到**真实文件名**再精确比对。
+ */
+function unlinkExact(dir, name) {
+  let names;
+  try { names = fs.readdirSync(dir); } catch { return false; }
+  if (!names.includes(name)) return false;
+  try { fs.unlinkSync(path.join(dir, name)); return true; } catch { return false; }
+}
+
+/** MediaWiki 标题规范化：下划线等同于空格，连续空白并成一个。 */
+function normalizeTitle(t) {
+  return String(t).replace(/_/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+/**
+ * 页头与正文的分隔：**第一个空行**。
+ * 提取正文的规则必须和写文件的规则成对，所以这里写死一处、两处（本文件与
+ * phasmo-lib.mjs）保持一致。旧格式（页头与正文粘连）由 phasmo-lib 单独兼容。
+ */
+function stripHeader(raw) {
+  const i = raw.indexOf('\n\n');
+  return i >= 0 ? raw.slice(i + 2) : raw;
+}
+
+/** 从重定向页正文里取目标标题。只用它取名字，页是不是重定向由 API 的 pageprops 决定。 */
+function parseRedirectTarget(content) {
+  const m = String(content).match(/#\s*(?:REDIRECT|重定向)\s*:?\s*\[\[([^\]|#]+)/i);
+  return m ? normalizeTitle(m[1]) : null;
+}
+
+/**
+ * 全站 ns0 页面的「标题 → revid/时间戳/是否重定向」。一次请求拿完（实测 34 KB / 378 页）。
+ * `ppprop=redirect` 让重定向页带上 pageprops.redirect，不用先抓正文才知道。
+ */
 async function fetchState(apiBase) {
   const pages = {};
   let cont = null;
   do {
     const params = {
       action: 'query', generator: 'allpages', gapnamespace: '0', gaplimit: '500',
-      prop: 'revisions', rvprop: 'ids|timestamp',
+      prop: 'revisions|pageprops', rvprop: 'ids|timestamp', ppprop: 'redirect',
     };
     if (cont) Object.assign(params, cont);
     const data = await api(apiBase, params);
     for (const p of data.query?.pages ?? []) {
       const rev = p.revisions?.[0];
-      if (rev) pages[p.title] = { revid: rev.revid, ts: rev.timestamp };
+      if (!rev) continue;
+      pages[p.title] = {
+        revid: rev.revid,
+        ts: rev.timestamp,
+        redirect: Object.prototype.hasOwnProperty.call(p.pageprops ?? {}, 'redirect'),
+      };
     }
     cont = data.continue ?? null;
     if (cont) await sleep(DELAY_MS);
@@ -137,8 +209,64 @@ async function fetchBatch(apiBase, titles) {
   return out;
 }
 
-/** 取一个站的全部正文并落盘。changedTitles 为空 = 首次全量（bootstrap）。 */
-async function syncSite(site, globalLog) {
+/**
+ * 把「别名 → 原始目标」解析成「别名 → 真实存在的正文页」。
+ * 需要处理三种情况，全是实测遇到的：
+ *   · 链式重定向：Salt shaker → Salt Shaker → Salt
+ *   · 下划线写法：Tarot → Tarot_Cards（真标题是 Tarot Cards）
+ *   · 死链：目标页自己没了
+ * 返回 { resolved, unresolved, chains }。
+ */
+function resolveRedirects(rawMap, realTitles) {
+  const lowerToReal = new Map();
+  for (const t of realTitles) lowerToReal.set(t.toLowerCase(), t);
+
+  // 别名（小写）→ 原始目标。**只当兜底**：链式跳转优先用精确标题查 rawMap，
+  // 因为真实数据里 `Salt Shaker` 和 `Salt shaker` 同时是重定向，
+  // 按小写归并会让它们互相覆盖（实测踩过）。
+  const lowerTarget = new Map();
+  for (const [k, v] of Object.entries(rawMap)) {
+    if (!lowerTarget.has(k.toLowerCase())) lowerTarget.set(k.toLowerCase(), v);
+  }
+
+  const resolved = {};
+  const unresolved = {};
+  const chains = {};
+
+  for (const [alias, rawTarget] of Object.entries(rawMap)) {
+    let cur = normalizeTitle(rawTarget);
+    const hops = [cur];
+    // ⚠️ 防环用**精确标题**，不能用小写：
+    //    `Ghost event → [[Ghost Event]]` 是合法的大小写重定向（首字母之外大小写敏感），
+    //    按小写去重会把它误判成自环，整条别名就丢了（实测踩过）。
+    const seen = new Set([alias]);
+    let hit = null;
+
+    for (let depth = 0; depth < 8; depth++) {
+      if (seen.has(cur)) break;                 // 自环
+      seen.add(cur);
+
+      const real = lowerToReal.get(cur.toLowerCase());
+      if (real) { hit = real; break; }          // 落到正文页了
+
+      const next = rawMap[cur] ?? lowerTarget.get(cur.toLowerCase());
+      if (!next) break;                         // 死链
+      cur = normalizeTitle(next);
+      hops.push(cur);
+    }
+
+    if (hit) {
+      resolved[alias] = hit;
+      if (hops.length > 1) chains[alias] = [alias, ...hops, hit];
+    } else {
+      unresolved[alias] = cur;
+    }
+  }
+  return { resolved, unresolved, chains };
+}
+
+/** 取一个站的全部正文并落盘。 */
+async function syncSite(site, globalLog, redirectsOut) {
   console.log(`\n=== [${site.lang}] ${site.api} ===`);
   const pagesDir = path.join(OUT, 'pages', site.lang);
   const histDir  = path.join(OUT, 'history', site.lang);
@@ -151,16 +279,43 @@ async function syncSite(site, globalLog) {
   const titles = Object.keys(now);
   console.log(`  当前 ${titles.length} 页，上次 ${Object.keys(prevPages).length} 页`);
 
-  const changed = titles.filter(t => prevPages[t]?.revid !== now[t].revid);
+  const redirectTitles = titles.filter(t => now[t].redirect);
+  const contentTitles = titles.filter(t => !now[t].redirect);
+  console.log(`  其中重定向 ${redirectTitles.length} 页（不落盘，只做别名）`);
+
+  const changed = contentTitles.filter(t => prevPages[t]?.revid !== now[t].revid);
   const removed = Object.keys(prevPages).filter(t => !(t in now));
   const bootstrap = Object.keys(prevPages).length === 0;
-  console.log(`  变动 ${changed.length} 页${bootstrap ? '（首次全量）' : ''}，消失 ${removed.length} 页`);
+  // 格式升级：状态文件里的版本对不上 → 全量重写一遍（但不算「变动」，不写变更日志）
+  const fmtBump = !bootstrap && prev.fmt !== FMT;
+  const fullFetch = bootstrap || fmtBump;
+  console.log(`  正文变动 ${changed.length} 页${bootstrap ? '（首次全量）' : ''}${fmtBump ? `（格式升级 → 全量重写）` : ''}，消失 ${removed.length} 页`);
 
-  // 首次全量时要拉全部页；之后只拉变动的页
-  const toFetch = bootstrap ? titles : changed;
   const stamp = new Date().toISOString();
-  const index = [];
+  let wroteAnything = false;
+  const writeFile = (p, text) => { fs.mkdirSync(path.dirname(p), { recursive: true }); fs.writeFileSync(p, text, 'utf8'); wroteAnything = true; };
 
+  // ---- 1. 重定向：抓正文只为拿目标标题，然后清掉 pages/ 里可能残留的旧文件 ----
+  const rawRedirectMap = {};
+  for (let i = 0; i < redirectTitles.length; i += BATCH) {
+    const batch = redirectTitles.slice(i, i + BATCH);
+    let got = [];
+    try { got = await fetchBatch(site.api, batch); }
+    catch (e) { console.warn(`  重定向批次 ${i / BATCH} 失败: ${e.message}`); }
+    for (const p of got) {
+      const target = parseRedirectTarget(p.content);
+      if (target) rawRedirectMap[p.title] = target;
+    }
+    if (i + BATCH < redirectTitles.length) await sleep(DELAY_MS);
+  }
+  for (const t of redirectTitles) {
+    // 用 unlinkExact：不能因为 Windows 大小写不敏感而删掉同名的正文页
+    if (unlinkExact(pagesDir, safeName(t) + '.txt')) wroteAnything = true;
+  }
+  console.log(`  重定向别名 ${Object.keys(rawRedirectMap).length} 条`);
+
+  // ---- 2. 正文页落盘 ----
+  const toFetch = fullFetch ? contentTitles : changed;
   for (let i = 0; i < toFetch.length; i += BATCH) {
     const batch = toFetch.slice(i, i + BATCH);
     let got = [];
@@ -177,41 +332,58 @@ async function syncSite(site, globalLog) {
         p.comment ? `# 备注: ${p.comment}` : null,
         `# sha256 ${p.sha256}  bytes ${p.bytes}`,
         `# 源: ${site.api}`,
-        '',
       ].filter(Boolean).join('\n');
 
-      fs.mkdirSync(pagesDir, { recursive: true });
-      fs.writeFileSync(path.join(pagesDir, fname), header + p.content, 'utf8');
+      // ⚠️ 这里的 '\n\n' 是正文的起始标记，别改（见文件头 bug ① 的说明）
+      const text = header + '\n\n' + p.content;
+      writeFile(path.join(pagesDir, fname), text);
 
-      // 历史版本：只对**变动过**的页留档（首次全量不留，否则一次就是 700 个文件）
-      if (!bootstrap) {
-        const hd = path.join(histDir, safeName(p.title));
-        fs.mkdirSync(hd, { recursive: true });
-        fs.writeFileSync(path.join(hd, `${p.revid}.txt`), header + p.content, 'utf8');
+      // 历史版本：只对**确实变动过**的页留档
+      // （首次全量、格式升级都不留，否则一次就是 700 个文件）
+      const reallyChanged = prevPages[p.title]?.revid !== p.revid;
+      if (!fullFetch || (fmtBump && reallyChanged)) {
+        writeFile(path.join(histDir, safeName(p.title), `${p.revid}.txt`), text);
       }
 
-      globalLog.push(JSON.stringify({
-        ts: stamp, lang: site.lang, title: p.title, revid: p.revid,
-        prevRevid: prevPages[p.title]?.revid ?? null,
-        kind: prevPages[p.title] ? 'edit' : 'new',
-        user: p.user ?? '', comment: p.comment ?? '',
-        bytes: p.bytes, pageTs: p.ts,
-      }));
+      // 格式升级且内容没变 → 只重写文件，不记变更（否则播报会变成「共 700 处变动」）
+      if (bootstrap || !fmtBump || reallyChanged) {
+        globalLog.push(JSON.stringify({
+          ts: stamp, lang: site.lang, title: p.title, revid: p.revid,
+          prevRevid: prevPages[p.title]?.revid ?? null,
+          kind: prevPages[p.title] ? 'edit' : 'new',
+          user: p.user ?? '', comment: p.comment ?? '',
+          bytes: p.bytes, pageTs: p.ts,
+        }));
+      }
     }
     console.log(`  [${i + got.length}/${toFetch.length}] 已落盘`);
     await sleep(DELAY_MS);
   }
 
-  // 被删的页：从 pages/ 移除，并记日志
-  for (const t of removed) {
-    const f = path.join(pagesDir, safeName(t) + '.txt');
-    try { fs.unlinkSync(f); } catch { /* 本来就不在 */ }
-    globalLog.push(JSON.stringify({ ts: stamp, lang: site.lang, title: t, kind: 'removed' }));
+  // ---- 3. 别名解析 ----
+  const realTitles = titles.filter(t => !now[t].redirect);
+  const { resolved, unresolved, chains } = resolveRedirects(rawRedirectMap, realTitles);
+  redirectsOut.langs[site.lang] = resolved;
+  redirectsOut.unresolved[site.lang] = unresolved;
+  redirectsOut.chains[site.lang] = chains;
+  redirectsOut.counts[site.lang] = Object.keys(resolved).length;
+  if (Object.keys(unresolved).length) {
+    console.log(`  ⚠ ${Object.keys(unresolved).length} 个别名没解析到正文页，已记进 redirects.json 的 unresolved`);
   }
 
-  // 生成索引：标题 + 摘要 + 路径 + 大小（给 bot 检索用，避免每次读全站）
-  fs.mkdirSync(pagesDir, { recursive: true });
-  for (const t of titles) {
+  // ---- 4. 被删的页：从 pages/ 移除 ----
+  for (const t of removed) {
+    const existed = unlinkExact(pagesDir, safeName(t) + '.txt');
+    if (existed) wroteAnything = true;
+    // 重定向页没了不算内容变动，不播报
+    if (!prevPages[t]?.redirect) {
+      globalLog.push(JSON.stringify({ ts: stamp, lang: site.lang, title: t, kind: 'removed' }));
+    }
+  }
+
+  // ---- 5. 索引：只收正文页 ----
+  const index = [];
+  for (const t of realTitles) {
     const fname = safeName(t) + '.txt';
     const full = path.join(pagesDir, fname);
     let excerpt = '';
@@ -219,40 +391,52 @@ async function syncSite(site, globalLog) {
     try {
       const raw = fs.readFileSync(full, 'utf8');
       bytes = Buffer.byteLength(raw, 'utf8');
-      // 跳过我们加的头部注释行，正文摘要才有用
-      const body = raw.split('\n').filter(l => !l.startsWith('# ')).join('\n');
-      excerpt = body.replace(/\s+/g, ' ').trim().slice(0, EXCERPT);
+      excerpt = stripHeader(raw).replace(/\s+/g, ' ').trim().slice(0, EXCERPT);
     } catch { /* 本轮没拿到（批次失败） */ }
     index.push({ t, f: `pages/${site.lang}/${fname}`, b: bytes, r: now[t].revid, x: excerpt });
   }
 
   writeJson(statePath, {
-    updated: stamp, api: site.api,
-    pageCount: titles.length, pages: now,
+    fmt: FMT, updated: stamp, api: site.api,
+    pageCount: titles.length, redirectCount: redirectTitles.length, pages: now,
   });
 
-  console.log(`  [${site.lang}] 索引 ${index.length} 条`);
-  return index;
+  console.log(`  [${site.lang}] 索引 ${index.length} 条（正文页），别名 ${Object.keys(resolved).length} 条`);
+  return { index, wroteAnything };
 }
 
 async function main() {
   const index = { generated: new Date().toISOString(), counts: {}, langs: {} };
+  const redirectsOut = { generated: index.generated, counts: {}, langs: {}, unresolved: {}, chains: {} };
   const globalLog = [];
+  let wroteAnything = false;
 
   for (const site of SITES) {
-    const idx = await syncSite(site, globalLog);
+    const { index: idx, wroteAnything: w } = await syncSite(site, globalLog, redirectsOut);
     index.langs[site.lang] = idx;
     index.counts[site.lang] = idx.length;
+    wroteAnything = wroteAnything || w;
   }
 
   writeJson(path.join(OUT, 'index.json'), index);
+
+  // redirects.json 每次都重写，但只有**内容**变了才算变动。
+  // 不能直接比文本：generated 时间戳每轮都不同，会导致每 3 小时一个空提交。
+  const redirPath = path.join(OUT, 'redirects.json');
+  const canonical = o => JSON.stringify({ counts: o.counts, langs: o.langs, unresolved: o.unresolved, chains: o.chains });
+  let redirectsChanged = true;
+  try { redirectsChanged = canonical(readJson(redirPath, {})) !== canonical(redirectsOut); } catch { /* 首次 */ }
+  fs.writeFileSync(redirPath, JSON.stringify(redirectsOut, null, 2) + '\n', 'utf8');
+
   if (globalLog.length) {
     fs.appendFileSync(path.join(OUT, 'changes.jsonl'), globalLog.join('\n') + '\n', 'utf8');
   }
 
-  const dirty = globalLog.length > 0;
+  // 判定「要不要提交」：变更日志、文件重写、别名表内容变化，三者任一即可
+  const dirty = globalLog.length > 0 || wroteAnything || redirectsChanged;
   fs.writeFileSync(path.join(OUT, '.dirty'), dirty ? '1' : '0', 'utf8');
-  console.log(`\n总计：en ${index.counts.en ?? 0} 页 + zh ${index.counts.zh ?? 0} 页；变更日志 ${globalLog.length} 条`);
+  console.log(`\n总计：en ${index.counts.en ?? 0} 页 + zh ${index.counts.zh ?? 0} 页；`
+    + `别名 ${Object.values(redirectsOut.counts).reduce((a, b) => a + b, 0)} 条；变更日志 ${globalLog.length} 条`);
   console.log(dirty ? '有变动' : '无变动');
 }
 
