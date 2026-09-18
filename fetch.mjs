@@ -281,7 +281,13 @@ function resolveRedirects(rawMap, realTitles) {
 
     if (hit) {
       resolved[alias] = hit;
-      if (hops.length > 1) chains[alias] = [alias, ...hops, hit];
+      if (hops.length > 1) {
+        // hops 的最后一项常常**已经就是**目标（跳到最后一步才发现它是正文页），
+        // 直接拼会让链条尾部重复，看着像多跳了一次。去重一下。
+        const chain = [alias, ...hops];
+        if (chain[chain.length - 1] !== hit) chain.push(hit);
+        chains[alias] = chain;
+      }
     } else {
       unresolved[alias] = cur;
     }

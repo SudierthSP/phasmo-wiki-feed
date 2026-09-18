@@ -228,6 +228,14 @@ try {
     redirects.langs.en['Tarot'] === 'Tarot Cards', `实际 ${redirects.langs.en['Tarot']}`);
   check('死链进了 unresolved', redirects.unresolved?.en?.['Dead Link'] === 'Nonexistent Page');
   check('chains 记下了那条链', Array.isArray(redirects.chains?.en?.['Salt shaker']));
+  check('链条首尾分别是别名和真目标',
+    redirects.chains?.en?.['Salt shaker']?.[0] === 'Salt shaker'
+    && redirects.chains?.en?.['Salt shaker']?.at(-1) === 'Salt',
+    JSON.stringify(redirects.chains?.en?.['Salt shaker']));
+  check('链条尾部不重复（hops 最后一项常常已经就是目标）',
+    new Set(redirects.chains?.en?.['Salt shaker'] ?? []).size
+      === (redirects.chains?.en?.['Salt shaker'] ?? []).length,
+    JSON.stringify(redirects.chains?.en?.['Salt shaker']));
   check('zh 别名也在', redirects.langs.zh?.['恐鬼症 Wiki'] === '恐鬼症');
 
   const index = readJson(path.join(OUT, 'index.json'));
