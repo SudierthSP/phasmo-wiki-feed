@@ -46,6 +46,45 @@
 - **没有 ETag / Last-Modified** → 条件请求（304）走不通，只能用 revid 比对
 - **Atom/RSS feed 全部 403**（Cloudflare）→ 没有推送机制，只能轮询
 
+## ⚠️ 踩到的坑（2026-09-19 首次搭建时）
+
+### 1. workflow 文件里**不能有中文** —— GitHub 会静默忽略
+
+**症状**：文件明明推上去了，`gh api repos/.../actions/workflows` 却返回 `{"total_count":0}`，
+`gh workflow run` 报 `404: workflow fetch.yml not found on the default branch`。
+**没有报错、没有提示、Actions 页面也不说一句话**——文件就像不存在。
+
+**排查**：加一个纯 ASCII 的极简 `smoke.yml` 做二分 → 它立刻注册成功（`total_count: 1`）。
+把 `fetch.yml` 的中文注释和中文 `name:` 全换成英文 → 立刻注册成功（`total_count: 2`）。
+
+**结论**：**这个仓库的 workflow 文件保持纯 ASCII。**中文说明一律写进这个 README。
+（具体是中文编码还是那行中文尾注释触发的，没再细分——不值得为它再花一次 CI。）
+
+### 2. 推 `.github/workflows/` 需要 `workflow` 权限
+
+`gh auth refresh -h github.com -s workflow`。
+只有 `repo` + `gist` + `read:org` 时，`git push` 会被服务端拒绝：
+`refusing to allow an OAuth App to create or update workflow ... without workflow scope`。
+这不是 gh 的限制，是 GitHub 服务端的硬要求。
+
+### 3. 本地测不了（但不需要）
+
+Node 的 `fetch` **不认 `HTTPS_PROXY` 环境变量**（curl 认、undici 不认），
+所以在这台走 Clash 的 PC 上跑 `node fetch.mjs` 会 `ETIMEDOUT`。
+**不用折腾**——它本来就是给 Actions runner（墙外直连）跑的。
+要验证就跑一次 workflow：`gh workflow run fetch.yml`。
+
+### 4. 首次运行的 `changes.jsonl` 会很大
+
+第一轮没有 baseline，**全站 378 页都会被记成 `kind: "new"`**（约 50 KB）。
+第二轮起就只剩真正变动的那几行。
+
+### 5. 公开仓库 = 服务器端零密钥
+
+私有仓库就得在服务器上放一个只读 PAT，还得轮换。用公开仓库后
+**服务器只需一个普通的 HTTPS GET**，不需要任何凭据。
+内容本身是 CC-BY-SA 的公开 wiki 数据，不含私人信息。
+
 ## 数据来源与授权
 
 内容来自 [Phasmophobia Wiki](https://phasmophobia.fandom.com/)（Fandom 托管，MediaWiki），
@@ -54,4 +93,3 @@
 
 本仓库与 Fandom、Kinetic Games 均无关联。
 
-<!-- trigger rescan -->
