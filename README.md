@@ -53,3 +53,5 @@
 转载或再发布时请保留署名与相同方式共享。
 
 本仓库与 Fandom、Kinetic Games 均无关联。
+
+<!-- trigger rescan -->
