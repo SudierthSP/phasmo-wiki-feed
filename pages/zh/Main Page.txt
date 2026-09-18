@@ -1,7 +1,9 @@
 # Main Page
 # revid 4291  2026-08-29T07:07:05Z  by Fanta1109
 # sha256 33e7ae81c3146c04b5d76ade2dc156a45e6953c003cc4fce754bd42f368a5d38  bytes 5451
-# 源: https://phasmophobia.fandom.com/zh/api.php<mainpage-leftcolumn-start />
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+<mainpage-leftcolumn-start />
 <div style="text-align:center; padding: 10px 0;">
   <div style="font-size: 15px; font-family: 'October Crow';">歡迎來到</div>
   <div style="font-size: 45px; font-family: 'October Crow'; font-weight: bold; line-height: 1.1; margin: 5px 0;">恐鬼症百科全書</div>

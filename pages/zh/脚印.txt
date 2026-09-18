@@ -1,7 +1,9 @@
 # 脚印
 # revid 2801  2023-03-01T13:38:34Z  by Skaijie
 # sha256 5d21c03865e1254d25b246f2af1e2df3d94142b21ce09607bed09632f505c0dc  bytes 1472
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:Footprints 0.4.0.webp|thumb|400x225px|被荧光棒照亮的脚印]][[File:Footprints vary by size.webp|thumb|比较不同鬼魂模型的不同脚印]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:Footprints 0.4.0.webp|thumb|400x225px|被荧光棒照亮的脚印]][[File:Footprints vary by size.webp|thumb|比较不同鬼魂模型的不同脚印]]
 
 '''脚印''' 是[[鬼魂]]们留下的印记，它们可以通过[[紫外线手电筒|紫外线光]]或者[[荧光棒]]照射来看到。
 

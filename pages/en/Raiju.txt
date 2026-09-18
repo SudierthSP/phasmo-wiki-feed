@@ -2,7 +2,9 @@
 # revid 24235  2026-07-23T07:29:09Z  by Darkhooper
 # 备注: 0.18 changes heartbeat volume but not distance
 # sha256 a43a71a91c71fbf9c082ecbd5c7f7b71549dce6f2d2b9a267e8d677d16e12e42  bytes 5703
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Raiju Discovered.jpg
  |strength=*Active electronics boost its speed during hunts
  |weakness(es)=*Disrupts electronics from further away when manifesting

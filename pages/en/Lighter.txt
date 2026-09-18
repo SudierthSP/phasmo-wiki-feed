@@ -2,4 +2,6 @@
 # revid 15566  2023-08-17T19:55:47Z  by Rigel Kent
 # 备注: Rigel Kent moved page [[Lighter]] to [[Igniter]]: renamed in [[0.9.0]]
 # sha256 5969fa94e89b4a2acb11122a3c441bf71caed55c64c4c6c3577a7154bb12a996  bytes 21
-# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Igniter]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+#REDIRECT [[Igniter]]

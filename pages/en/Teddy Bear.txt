@@ -2,4 +2,6 @@
 # revid 21714  2025-08-28T18:20:26Z  by Darkhooper
 # 备注: Darkhooper moved page [[Teddy Bear]] to [[Toy]]: Moved page so we can include bunnies and dolls
 # sha256 314308df7359dd03d523a9770220fc026b22719918a23533aff9b8089f9d10a2  bytes 17
-# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Toy]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+#REDIRECT [[Toy]]

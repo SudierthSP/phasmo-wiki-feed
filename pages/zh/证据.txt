@@ -2,7 +2,9 @@
 # revid 4176  2026-07-08T08:20:51Z  by Fanta1109
 # 备注: /* 媒体证据 */
 # sha256 65376d2b24ce08a2b7b9d60aa722832e90ffcbe823272ea4db2c1136aefe88c9  bytes 13238
-# 源: https://phasmophobia.fandom.com/zh/api.php'''证据'''用于探明鬼魂类型。每种鬼都有3个证据。玩家可以使用[[手册]]记录获得的证据并推断出鬼魂类型。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+'''证据'''用于探明鬼魂类型。每种鬼都有3个证据。玩家可以使用[[手册]]记录获得的证据并推断出鬼魂类型。
 
 == 全部证据 ==
 目前共有7种证据：

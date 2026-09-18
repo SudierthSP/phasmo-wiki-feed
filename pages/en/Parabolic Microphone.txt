@@ -2,7 +2,9 @@
 # revid 23265  2026-04-27T09:02:14Z  by 405 M3th0d
 # 备注: Rewording objective and adding a link to a new page.
 # sha256 2ba877f0a545d6bbb427ccd7a0a5d96587a6d22c5aa68636d870d06323ca60c2  bytes 7813
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=Parabolic090_T1.png
  | tier ii img=Parabolic090_T2.png
  | tier iii img=Parabolic090_T3.png

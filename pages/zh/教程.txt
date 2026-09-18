@@ -1,7 +1,9 @@
 # 教程
 # revid 4124  2026-05-07T16:41:36Z  by ZXH114
 # sha256 660fede3ebbd352d84398e5f10415882bc9e128f8e1b750594b786eb168e4d39  bytes 7804
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:教程载入屏 0.9.0.jpg|right|thumb|300px|教程在进阶更新后的载入屏]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:教程载入屏 0.9.0.jpg|right|thumb|300px|教程在进阶更新后的载入屏]]
 
 {{待翻译}}
 '''训练'''是帮助新[[玩家]]了解游戏过程的新手教程。它包括游戏的基本机制，比如[[猎杀]]和收集[[证据]]。

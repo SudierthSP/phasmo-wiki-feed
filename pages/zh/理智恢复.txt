@@ -2,4 +2,6 @@
 # revid 3031  2023-08-17T17:01:33Z  by Qsefthuopq
 # 备注: 重定向页面至[[理智药]]
 # sha256 045a261b8dacc8c7d09a2363c9e6d32c5bf99af036d781951f2488b5e6021748  bytes 23
-# 源: https://phasmophobia.fandom.com/zh/api.php#redirect [[理智药]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+#redirect [[理智药]]

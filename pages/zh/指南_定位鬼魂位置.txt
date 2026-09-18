@@ -1,7 +1,9 @@
 # 指南/定位鬼魂位置
 # revid 2663  2022-12-20T16:33:52Z  by Skaijie
 # sha256 f3ab40c9f904ab917023fbcf1075cab210c3a46a621c8f5a22c1cae1f34b31c9  bytes 13083
-# 源: https://phasmophobia.fandom.com/zh/api.php本指南将教你定位鬼魂位置。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+本指南将教你定位鬼魂位置。
 
 == 鬼魂房间 ==
 {{Main|鬼魂房间}}

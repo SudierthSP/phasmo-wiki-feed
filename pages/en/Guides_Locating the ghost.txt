@@ -1,7 +1,9 @@
 # Guides/Locating the ghost
 # revid 24661  2026-09-13T22:11:17Z  by Darkhooper
 # sha256 531ef18391967971031d3df50736e7dd3b32bb178e4ba327422400db4a9a059d  bytes 21402
-# 源: https://phasmophobia.fandom.com/api.phpThis [[Guides|guide]] will teach you how to '''locate the ghost''' in ''Phasmophobia''.
+# 源: https://phasmophobia.fandom.com/api.php
+
+This [[Guides|guide]] will teach you how to '''locate the ghost''' in ''Phasmophobia''.
 
 Depending on the [[ghost]] type, the difficulty level as well as direct player activity determining where the ghost currently is on a map can be a tedious task, especially on larger maps. Identifying the ghost's location correctly can save a lot of time (and lives) while identifying its nature.
 

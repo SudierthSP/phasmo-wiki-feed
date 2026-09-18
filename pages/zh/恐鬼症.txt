@@ -2,7 +2,9 @@
 # revid 3404  2024-02-17T07:57:25Z  by Hulih0
 # 备注: 改了下最新版本
 # sha256 e09ee41fdb4863d3a3705074bdb2c54ab87d594786dff05f1326e05ef23b6043  bytes 2918
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox VG
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox VG
  |image=Phasmophobia_Logo.png
  |developer=[[Kinetic Games]]
  |publisher=[[Kinetic Games]]

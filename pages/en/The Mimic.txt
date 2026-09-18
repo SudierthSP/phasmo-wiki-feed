@@ -2,7 +2,9 @@
 # revid 24359  2026-07-30T02:02:30Z  by HollyleafYT
 # 备注: /* Strategies */
 # sha256 ae57f196b58ae5777ee6283b7973886314ba1c4405f84fa0dfdbd67b395e82bd  bytes 9606
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=The Mimic Discovered.jpg
  |strength= *Mimics other ghost types one after another for brief periods of time
  |weakness(es)= *Will always produce false ghost orbs

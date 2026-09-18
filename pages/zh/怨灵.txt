@@ -2,7 +2,9 @@
 # revid 3980  2025-10-17T13:35:53Z  by CangMingSW
 # 备注: /* 行為 */
 # sha256 f1eee9cbe0d55d32ee6e3c27f12afabf3c3e7e85ec005636782fab5eefe1ec4d  bytes 5272
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
   | image1=发现怨灵.jpg
   | strength= *熄滅火焰時發起攻擊
   | abiliti(es)=*更頻繁地吹蠟燭 

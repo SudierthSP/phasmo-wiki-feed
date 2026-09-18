@@ -1,7 +1,9 @@
 # Apocalypse Challenge
 # revid 24362  2026-07-30T03:24:55Z  by 405 M3th0d
 # sha256 5388262d5d3df27df85be0d70d11c8593515913d9b151324414bd6e9d4f0c3e6  bytes 1970
-# 源: https://phasmophobia.fandom.com/api.phpThe '''Apocalypse Challenge''' is a special in-game challenge. The challenge is permanent and will exist indefinitely.
+# 源: https://phasmophobia.fandom.com/api.php
+
+The '''Apocalypse Challenge''' is a special in-game challenge. The challenge is permanent and will exist indefinitely.
 
 ==Details==
 The requirements for the challenge are as follows:

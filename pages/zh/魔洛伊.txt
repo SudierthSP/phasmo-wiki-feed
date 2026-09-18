@@ -1,7 +1,9 @@
 # 魔洛伊
 # revid 4104  2026-03-15T07:28:01Z  by ZXH114
 # sha256 b1607422123e5b332adcaf738b98a950bf5ad64b4f3e483c7cc7e0a04e6eec54  bytes 4249
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  | image1=发现魔洛伊.jpg
  | Evidence1=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=通灵盒]]
  | Evidence2=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=鬼魂笔迹]]

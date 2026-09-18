@@ -2,7 +2,9 @@
 # revid 24635  2026-09-12T16:52:43Z  by Darkhooper
 # 备注: where the bone can spawn / journal mention
 # sha256 110aca34f7e9d740665471472c0a0aba7cc1e6273d1fa55778a84efc284b1cdf  bytes 4071
-# 源: https://phasmophobia.fandom.com/api.php{{Item Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Item Template
 |img=Bone_spine_0.4.0.png
 |imgcaption=A spine bone laying on the ground.
 }}The bone is a collectible item that can be found on all maps.

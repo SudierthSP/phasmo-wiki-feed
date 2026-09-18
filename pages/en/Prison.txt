@@ -2,7 +2,9 @@
 # revid 24686  2026-09-15T18:11:17Z  by Darkhooper
 # 备注: added files
 # sha256 947f7c85f66169a74252e26d6e531cde9355ae9efbe48140f4f942ed0850226a  bytes 10825
-# 源: https://phasmophobia.fandom.com/api.php{{Location
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Location
 |img=Prison.png 
 |imgcaption=A view inside a cell block.
 |mapsize=Medium

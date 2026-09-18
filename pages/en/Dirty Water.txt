@@ -2,7 +2,9 @@
 # revid 24245  2026-07-24T04:34:56Z  by VVSlavik
 # 备注: Added the corresponding Russian interlanguage link
 # sha256 98d14b1af6a42d424f4c4e33bfe465e35d32d5acc36b692d67a8961d7d769baa  bytes 2637
-# 源: https://phasmophobia.fandom.com/api.php{{Item_Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Item_Template
  |img=Dirty water 0.6.1.2.png
  |imgcaption=A bathroom sink filled with dirty water
  |description=

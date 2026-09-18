@@ -2,7 +2,9 @@
 # revid 21222  2025-06-27T16:47:00Z  by Darkhooper
 # 备注: new mechanics
 # sha256 09a271418ca79519f12071230bcfd8e81b0161f1aa8f09395f7bf342cfe3cea5  bytes 1604
-# 源: https://phasmophobia.fandom.com/api.php[[File:Computer.png|right|frameless|320x320px|alt=]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:Computer.png|right|frameless|320x320px|alt=]]
 The '''computer''' is an [[equipment]] located on a desk in the [[truck]].
 
 ==Usage==

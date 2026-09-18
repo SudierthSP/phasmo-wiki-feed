@@ -2,7 +2,9 @@
 # revid 3997  2025-10-22T11:46:13Z  by CangMingSW
 # 备注: 分类
 # sha256 9775cbfbd64e5f9bbb76c1ddb851ac692ce3e6fb8e9e017402ff2e21b6c5d825  bytes 1211
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
  | image1=Crimson Eye.png
  | official_name=绯红之眼
  | release_date=2024年11月2日

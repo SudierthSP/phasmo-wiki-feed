@@ -1,7 +1,9 @@
 # ID Card
 # revid 24327  2026-07-25T06:46:43Z  by Darkhooper
 # sha256 4877bde93f437ef026bb98d26e89972dd0e0a40e73d60e6ae4a131e62a3cacbe  bytes 23650
-# 源: https://phasmophobia.fandom.com/api.phpThe ID Card is a cosmetic that shows the player's in-game progress.
+# 源: https://phasmophobia.fandom.com/api.php
+
+The ID Card is a cosmetic that shows the player's in-game progress.
 
 ==Features==
 The ID card shows the name of the player, the platform they're playing on (Steam, PlayStation, or Xbox), their [[experience|level]], the player's badge, and their selected character model. For the player's own ID card, the bar shows the amount of experience needed to level up. When looking at other players' ID cards, the bar is used to adjust their [[voice chat]] volume. By default, the volume is set to 50%.

@@ -1,7 +1,9 @@
 # 巨灵
 # revid 3915  2025-09-23T17:23:53Z  by Qsefthuopq
 # sha256 daaa7ed795247bf527c4db04bbaf26ae82b9c25a23bb3b75b1a4090314dd6160  bytes 5015
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=发现巨灵.jpg
  |strength=* 如果目標在遠處，它會以更快的速度移動。
  |abiliti(es)=* 偶尔尝试降低附近玩家理智

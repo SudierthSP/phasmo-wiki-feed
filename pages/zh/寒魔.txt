@@ -2,7 +2,9 @@
 # revid 4126  2026-05-07T18:04:59Z  by FavoriteStarling422
 # 备注: /* 逃脫獵殺 */
 # sha256 c567bbfad35fce3a763a7cb677180353b9c2686bc4cde7f065207059e4af227e  bytes 4643
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=发现寒魔.jpg
  |strength=* 獵殺期間在較冷的房間移動得更快
  |abiliti(es)=* 獵殺時可能會散發出冰冷的氣息

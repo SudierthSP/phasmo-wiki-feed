@@ -1,7 +1,9 @@
 # 装备商店
 # revid 3904  2025-09-19T06:47:09Z  by CangMingSW
 # sha256 bb9e337d5bc01131b21baa5066bc61d8b97796abae58cffa74c7bddef46b50f0  bytes 4438
-# 源: https://phasmophobia.fandom.com/zh/api.php'''装备商店'''用于购买和出售装备，将装备添加至[[合约]]，以及创建快捷布局。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+'''装备商店'''用于购买和出售装备，将装备添加至[[合约]]，以及创建快捷布局。
 
 == 用途 ==
 从主菜单进入商店，可以通过键盘上的方向键进行操作，也可以点击主菜单中的右箭头。也可以直接点击商店进入。按 Esc 键或空格键，或者点击左箭头可退出商店。

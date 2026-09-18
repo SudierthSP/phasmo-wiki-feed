@@ -2,7 +2,9 @@
 # revid 3265  2023-09-16T07:47:45Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version   | release_date=2023年9月15日   | previous_major_version=[[0.9.0]]   | previous_minor_version=[[0.9.0.9]]   | next_minor_version= }}'''0.9.0.10'''是发布于2023年9月15日的小型更新补丁。<ref>[https://store.steampowered.com/news/app/739630/view/7184986051957054490 ''Ascension | Hotfix v0.9.0.10''. 15 September 2023 (on Steam).]</ref> 本次更新作出了一些改动优化性能并修复漏洞。 ==改动== *优化VR目标优先…”
 # sha256 720ba53c4ec9ac0c6b0496161326c143e119b8e9647aa630a318abc7480b007c  bytes 1635
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2023年9月15日
   | previous_major_version=[[0.9.0]]
   | previous_minor_version=[[0.9.0.9]]

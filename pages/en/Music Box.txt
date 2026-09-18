@@ -1,7 +1,9 @@
 # Music Box
 # revid 22940  2026-03-14T23:44:14Z  by Darkhooper
 # sha256 d346bb4c8c58d6b0e7aee47b51e37586b725534557eb1290229e76202c26dc4d  bytes 7930
-# 源: https://phasmophobia.fandom.com/api.php{{Item_Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Item_Template
  |img=Music box display.jpg
  |imgcaption=
  |maxamount=1

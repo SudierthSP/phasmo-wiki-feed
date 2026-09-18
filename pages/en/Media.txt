@@ -2,7 +2,9 @@
 # revid 24503  2026-08-26T00:33:35Z  by Darkhooper
 # 备注: 0.19
 # sha256 5c5fe4f1698c1af41bb4c6b6a46d4ff29e26323ebc6317d6adce2e9013b5537e  bytes 9463
-# 源: https://phasmophobia.fandom.com/api.phpDuring the investigation, players can record '''media''' for additional money and experience rewards. Recorded media can be seen in the Media tab in the [[journal]]. 
+# 源: https://phasmophobia.fandom.com/api.php
+
+During the investigation, players can record '''media''' for additional money and experience rewards. Recorded media can be seen in the Media tab in the [[journal]]. 
 
 ==Mechanics==
 During a [[contract]], when a subject of a specific category is recorded for the first time using the [[Photo Camera]], the [[Video Camera]], or the [[Sound Recorder]], it is marked with a '''Unique''' stamp. Recording another subject of the same category will register it as a '''Duplicate''' instead, rewarding less [[money]] and [[experience]].

@@ -2,7 +2,9 @@
 # revid 24413  2026-08-03T16:51:58Z  by Darkhooper
 # 备注: tier 3 salt slowing effect (info from YouJustWantEasy)
 # sha256 80c7008c5709a5026112e106647bae37895bb90e5caa9c48893f726393f9a10f  bytes 6201
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=
  |strength=*More aggressive after protective equipment has been used
  |weakness(es)=*Less aggressive after a hunt

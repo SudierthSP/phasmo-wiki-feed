@@ -2,4 +2,6 @@
 # revid 15426  2023-07-12T04:35:05Z  by ZetexSucks
 # 备注: Redirected page to [[D.O.T.S. Projector]]
 # sha256 f21d8dc7b067f3a9acf21fd6a32b64b222f0f3176b57b30f18662c973a6712cb  bytes 32
-# 源: https://phasmophobia.fandom.com/api.php#redirect [[D.O.T.S. Projector]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+#redirect [[D.O.T.S. Projector]]

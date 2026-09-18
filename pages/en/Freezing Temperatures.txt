@@ -1,7 +1,9 @@
 # Freezing Temperatures
 # revid 23468  2026-05-12T16:49:30Z  by Darkhooper
 # sha256 d125d7b9aac3d5a31c3e10b4699bb02418c71ccc54e31bced8665f5860b8b926  bytes 4513
-# 源: https://phasmophobia.fandom.com/api.php{{Evidence_Infobox
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Evidence_Infobox
  |detected_by=[[File:Thermometer_Render.png|24x24px|link=Thermometer]] [[Thermometer]]
  |image1=Thermometer_Render.png
 }}{{Quote|speaker=The Journal|quote=All ghosts make rooms cold, however, some have been known to make the temperature drop extremely fast.}}

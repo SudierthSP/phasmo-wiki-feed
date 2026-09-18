@@ -1,7 +1,9 @@
 # 塔罗牌
 # revid 4087  2026-03-14T13:49:43Z  by ZXH114
 # sha256 4d119bf2ffe0984b8072f14699a9bec3b3f4be5a530bad8a6a12e1c54407ea73  bytes 3091
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Item_Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Item_Template
 |img=Tarot Cards.png
 |imgcaption=
 |uses=10

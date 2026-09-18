@@ -2,7 +2,9 @@
 # revid 24656  2026-09-13T19:49:02Z  by Darkhooper
 # 备注: deogen
 # sha256 e049a7c4a4eb2243d0b6b47f8f6cb1c01ce52c62ea9857ce758dd4f49072be1c  bytes 16144
-# 源: https://phasmophobia.fandom.com/api.phpThis guide will teach you how to identify ghosts in ''Phasmophobia''.<!--thoughts on grouping by behaviour instead of (or in addition to) ghost? also todo: add images-->
+# 源: https://phasmophobia.fandom.com/api.php
+
+This guide will teach you how to identify ghosts in ''Phasmophobia''.<!--thoughts on grouping by behaviour instead of (or in addition to) ghost? also todo: add images-->
 
 ==Using evidences==
 The standard way of identifying a ghost is by collecting [[evidence]]. The list below presents a brief overview on how to collect evidences; more information may be found in their respective pages.

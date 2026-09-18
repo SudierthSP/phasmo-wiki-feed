@@ -2,7 +2,9 @@
 # revid 3447  2024-07-06T08:37:39Z  by HaMilon The Sweet melon
 # 备注: /* 二级 */
 # sha256 3c5797c49d27f83b15b37dbdb7aa5e280347df940e271677603ac11b4d18e7a3  bytes 2141
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=Igniter090_T1.png
  | tier ii img=Igniter090_T2.png
  | tier iii img=Igniter090_T3.png

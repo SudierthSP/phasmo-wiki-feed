@@ -1,7 +1,9 @@
 # 0.13.0
 # revid 3765  2025-06-24T14:09:26Z  by Qsefthuopq
 # sha256 6847d55f13649ffc0e1d55f4f35baf42f4d61343660cd2d12417478597f261a8  bytes 7402
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
  | image1=Chronicle.png
  | official_name=Chronicle|纪年
  | release_date=2025年6月24日

@@ -2,7 +2,9 @@
 # revid 2463  2022-10-22T17:07:14Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version   | release_date=2022年10月22日   | previous_major_version=[[0.7.0]]   |previous_minor_version=[[0.7.1.3]] }}  ==改动==  * 语言过滤器现在可以保存你以前选择的语言。默认选项仍然是“任意”。 * 现在默认在手册里选择魂魄作为调查结果 * 禁用奔跑时，玩家死亡后现在可以奔跑 * 行走和奔跑距离数据不再计算死亡时的移动距离  == 修复漏洞 ==  * 改善了各向异性…”
 # sha256 78d71c933414d1c3bbcbdb7a82c634c38ac0ab3516e36f0c952e8ea72c5a1d7b  bytes 2995
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2022年10月22日
   | previous_major_version=[[0.7.0]]
   |previous_minor_version=[[0.7.1.3]]

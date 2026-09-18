@@ -2,7 +2,9 @@
 # revid 24495  2026-08-25T20:12:40Z  by Darkhooper
 # 备注: number of CCTVs on new Restricted maps
 # sha256 6cacdf7bebeaef6bb21d14a1ff26ec06d572caffa70cb6121a00682342ddb6db  bytes 2172
-# 源: https://phasmophobia.fandom.com/api.php[[ru:Видеомонитор]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[ru:Видеомонитор]]
 [[File:20201113215648 1.jpg|thumb|Security camera in Brownstone High School.]]
 The '''video feed''' (also known as ''CCTV'' or ''Camera System'') is a feature used to give players extra surveillance from inside the [[truck]], with each map having a few angles covered by video cameras already present on the location. The video feed is accessible by using the [[computer]].
 

@@ -2,7 +2,9 @@
 # revid 24030  2026-07-11T21:17:26Z  by Darkhooper
 # 备注: replaced "Billy Kemper" by "Ghost's name"
 # sha256 d0faae289131e6df8e7ee6ca95f7699fe07241c65a8c5a50d11e9a5c19c1b05d  bytes 7844
-# 源: https://phasmophobia.fandom.com/api.php'''Voice chat''' is the primary mode of communication in ''Phasmophobia''.
+# 源: https://phasmophobia.fandom.com/api.php
+
+'''Voice chat''' is the primary mode of communication in ''Phasmophobia''.
 
 ==Player chat==
 Voice chat is used to communicate between players. ''Phasmophobia'' uses the Vivox voice chat system.

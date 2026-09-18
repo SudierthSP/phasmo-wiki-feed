@@ -1,1519 +1,1899 @@
 {
-  "updated": "2026-09-18T18:49:23.384Z",
+  "fmt": 2,
+  "updated": "2026-09-18T19:52:13.335Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
+  "redirectCount": 0,
   "pages": {
     "Main Page": {
       "revid": 24618,
-      "ts": "2026-09-08T17:31:08Z"
+      "ts": "2026-09-08T17:31:08Z",
+      "redirect": false
     },
     "Crucifix": {
       "revid": 24416,
-      "ts": "2026-08-04T01:36:40Z"
+      "ts": "2026-08-04T01:36:40Z",
+      "redirect": false
     },
     "Hunt": {
       "revid": 24655,
-      "ts": "2026-09-13T19:47:42Z"
+      "ts": "2026-09-13T19:47:42Z",
+      "redirect": false
     },
     "Evidence": {
       "revid": 24466,
-      "ts": "2026-08-20T08:57:24Z"
+      "ts": "2026-08-20T08:57:24Z",
+      "redirect": false
     },
     "Spirit Box": {
       "revid": 24504,
-      "ts": "2026-08-26T00:34:22Z"
+      "ts": "2026-08-26T00:34:22Z",
+      "redirect": false
     },
     "Freezing Temperatures": {
       "revid": 23468,
-      "ts": "2026-05-12T16:49:30Z"
+      "ts": "2026-05-12T16:49:30Z",
+      "redirect": false
     },
     "Thermometer": {
       "revid": 22737,
-      "ts": "2026-02-06T01:17:10Z"
+      "ts": "2026-02-06T01:17:10Z",
+      "redirect": false
     },
     "Salt": {
       "revid": 24412,
-      "ts": "2026-08-03T16:51:42Z"
+      "ts": "2026-08-03T16:51:42Z",
+      "redirect": false
     },
     "EMF": {
       "revid": 24243,
-      "ts": "2026-07-24T04:34:38Z"
+      "ts": "2026-07-24T04:34:38Z",
+      "redirect": false
     },
     "EMF Reader": {
       "revid": 21385,
-      "ts": "2025-07-04T17:05:05Z"
+      "ts": "2025-07-04T17:05:05Z",
+      "redirect": false
     },
     "EMF Level 5": {
       "revid": 24168,
-      "ts": "2026-07-21T13:45:00Z"
+      "ts": "2026-07-21T13:45:00Z",
+      "redirect": false
     },
     "Ultraviolet": {
       "revid": 24411,
-      "ts": "2026-08-02T22:15:24Z"
+      "ts": "2026-08-02T22:15:24Z",
+      "redirect": false
     },
     "Ouija Board": {
       "revid": 24861,
-      "ts": "2026-09-18T07:04:10Z"
+      "ts": "2026-09-18T07:04:10Z",
+      "redirect": false
     },
     "Smudge Stick": {
       "revid": 15662,
-      "ts": "2023-08-19T07:00:20Z"
+      "ts": "2023-08-19T07:00:20Z",
+      "redirect": false
     },
     "Ghost Orb": {
       "revid": 24613,
-      "ts": "2026-09-07T20:57:40Z"
+      "ts": "2026-09-07T20:57:40Z",
+      "redirect": false
     },
     "Equipment": {
       "revid": 24244,
-      "ts": "2026-07-24T04:34:47Z"
+      "ts": "2026-07-24T04:34:47Z",
+      "redirect": false
     },
     "Incense": {
       "revid": 23285,
-      "ts": "2026-04-30T20:14:29Z"
+      "ts": "2026-04-30T20:14:29Z",
+      "redirect": false
     },
     "Wraith": {
       "revid": 23023,
-      "ts": "2026-03-30T15:03:13Z"
+      "ts": "2026-03-30T15:03:13Z",
+      "redirect": false
     },
     "Phantom": {
       "revid": 24609,
-      "ts": "2026-09-05T05:14:31Z"
+      "ts": "2026-09-05T05:14:31Z",
+      "redirect": false
     },
     "Ghost Writing": {
       "revid": 24151,
-      "ts": "2026-07-21T09:53:28Z"
+      "ts": "2026-07-21T09:53:28Z",
+      "redirect": false
     },
     "Ghost": {
       "revid": 24859,
-      "ts": "2026-09-18T05:11:51Z"
+      "ts": "2026-09-18T05:11:51Z",
+      "redirect": false
     },
     "Salt shaker": {
       "revid": 324,
-      "ts": "2020-09-29T21:39:03Z"
+      "ts": "2020-09-29T21:39:03Z",
+      "redirect": false
     },
     "Spirit": {
       "revid": 23120,
-      "ts": "2026-04-11T22:37:11Z"
+      "ts": "2026-04-11T22:37:11Z",
+      "redirect": false
     },
     "Ghost Room": {
       "revid": 24634,
-      "ts": "2026-09-12T16:43:48Z"
+      "ts": "2026-09-12T16:43:48Z",
+      "redirect": false
     },
     "Mare": {
       "revid": 23811,
-      "ts": "2026-06-03T13:36:54Z"
+      "ts": "2026-06-03T13:36:54Z",
+      "redirect": false
     },
     "Photo Camera": {
       "revid": 24480,
-      "ts": "2026-08-25T17:31:00Z"
+      "ts": "2026-08-25T17:31:00Z",
+      "redirect": false
     },
     "Motion Sensor": {
       "revid": 21588,
-      "ts": "2025-08-08T20:24:13Z"
+      "ts": "2025-08-08T20:24:13Z",
+      "redirect": false
     },
     "Jinn": {
       "revid": 24354,
-      "ts": "2026-07-29T06:07:10Z"
+      "ts": "2026-07-29T06:07:10Z",
+      "redirect": false
     },
     "Objectives": {
       "revid": 24267,
-      "ts": "2026-07-24T04:38:27Z"
+      "ts": "2026-07-24T04:38:27Z",
+      "redirect": false
     },
     "Daily and Weekly Tasks": {
       "revid": 24005,
-      "ts": "2026-06-28T21:45:17Z"
+      "ts": "2026-06-28T21:45:17Z",
+      "redirect": false
     },
     "Poltergeist": {
       "revid": 24435,
-      "ts": "2026-08-07T20:59:29Z"
+      "ts": "2026-08-07T20:59:29Z",
+      "redirect": false
     },
     "UV Light": {
       "revid": 21391,
-      "ts": "2025-07-04T17:26:51Z"
+      "ts": "2025-07-04T17:26:51Z",
+      "redirect": false
     },
     "Banshee": {
       "revid": 24594,
-      "ts": "2026-09-03T00:30:36Z"
+      "ts": "2026-09-03T00:30:36Z",
+      "redirect": false
     },
     "Shade": {
       "revid": 23207,
-      "ts": "2026-04-17T17:30:31Z"
+      "ts": "2026-04-17T17:30:31Z",
+      "redirect": false
     },
     "Demon": {
       "revid": 24442,
-      "ts": "2026-08-11T17:49:22Z"
+      "ts": "2026-08-11T17:49:22Z",
+      "redirect": false
     },
     "Revenant": {
       "revid": 23424,
-      "ts": "2026-05-10T20:27:26Z"
+      "ts": "2026-05-10T20:27:26Z",
+      "redirect": false
     },
     "Yurei": {
       "revid": 24593,
-      "ts": "2026-09-03T00:15:45Z"
+      "ts": "2026-09-03T00:15:45Z",
+      "redirect": false
     },
     "Oni": {
       "revid": 24610,
-      "ts": "2026-09-05T05:16:45Z"
+      "ts": "2026-09-05T05:16:45Z",
+      "redirect": false
     },
     "Flashlight": {
       "revid": 23423,
-      "ts": "2026-05-10T02:34:54Z"
+      "ts": "2026-05-10T02:34:54Z",
+      "redirect": false
     },
     "Fuse Box": {
       "revid": 24259,
-      "ts": "2026-07-24T04:37:13Z"
+      "ts": "2026-07-24T04:37:13Z",
+      "redirect": false
     },
     "Sink": {
       "revid": 22906,
-      "ts": "2026-03-05T00:19:27Z"
+      "ts": "2026-03-05T00:19:27Z",
+      "redirect": false
     },
     "Site Map": {
       "revid": 20395,
-      "ts": "2025-03-15T19:01:00Z"
+      "ts": "2025-03-15T19:01:00Z",
+      "redirect": false
     },
     "Head Gear": {
       "revid": 21395,
-      "ts": "2025-07-04T17:34:08Z"
+      "ts": "2025-07-04T17:34:08Z",
+      "redirect": false
     },
     "Glowstick": {
       "revid": 16555,
-      "ts": "2023-09-29T16:49:23Z"
+      "ts": "2023-09-29T16:49:23Z",
+      "redirect": false
     },
     "Parabolic Microphone": {
       "revid": 23265,
-      "ts": "2026-04-27T09:02:14Z"
+      "ts": "2026-04-27T09:02:14Z",
+      "redirect": false
     },
     "Igniter": {
       "revid": 22579,
-      "ts": "2025-12-25T07:34:30Z"
+      "ts": "2025-12-25T07:34:30Z",
+      "redirect": false
     },
     "Firelight": {
       "revid": 24625,
-      "ts": "2026-09-10T17:47:19Z"
+      "ts": "2026-09-10T17:47:19Z",
+      "redirect": false
     },
     "Sound Sensor": {
       "revid": 21403,
-      "ts": "2025-07-04T17:39:42Z"
+      "ts": "2025-07-04T17:39:42Z",
+      "redirect": false
     },
     "Video Camera": {
       "revid": 24481,
-      "ts": "2026-08-25T17:34:50Z"
+      "ts": "2026-08-25T17:34:50Z",
+      "redirect": false
     },
     "Tripod": {
       "revid": 22139,
-      "ts": "2025-10-30T19:51:38Z"
+      "ts": "2025-10-30T19:51:38Z",
+      "redirect": false
     },
     "Strong Flashlight": {
       "revid": 24277,
-      "ts": "2026-07-24T04:39:59Z"
+      "ts": "2026-07-24T04:39:59Z",
+      "redirect": false
     },
     "Sanity Medication": {
       "revid": 21402,
-      "ts": "2025-07-04T17:39:07Z"
+      "ts": "2025-07-04T17:39:07Z",
+      "redirect": false
     },
     "Infrared Light Sensor": {
       "revid": 20037,
-      "ts": "2025-01-16T17:01:14Z"
+      "ts": "2025-01-16T17:01:14Z",
+      "redirect": false
     },
     "Ghost Writing Book": {
       "revid": 23234,
-      "ts": "2026-04-20T15:39:58Z"
+      "ts": "2026-04-20T15:39:58Z",
+      "redirect": false
     },
     "Setup Phase": {
       "revid": 24278,
-      "ts": "2026-07-24T04:40:08Z"
+      "ts": "2026-07-24T04:40:08Z",
+      "redirect": false
     },
     "Dirty Water": {
       "revid": 24245,
-      "ts": "2026-07-24T04:34:56Z"
+      "ts": "2026-07-24T04:34:56Z",
+      "redirect": false
     },
     "Brownstone High School": {
       "revid": 24797,
-      "ts": "2026-09-17T16:47:12Z"
+      "ts": "2026-09-17T16:47:12Z",
+      "redirect": false
     },
     "Asylum": {
       "revid": 24649,
-      "ts": "2026-09-12T19:09:55Z"
+      "ts": "2026-09-12T19:09:55Z",
+      "redirect": false
     },
     "6 Tanglewood Drive": {
       "revid": 24985,
-      "ts": "2026-09-18T17:58:57Z"
+      "ts": "2026-09-18T17:58:57Z",
+      "redirect": false
     },
     "10 Ridgeview Court": {
       "revid": 24883,
-      "ts": "2026-09-18T16:46:03Z"
+      "ts": "2026-09-18T16:46:03Z",
+      "redirect": false
     },
     "42 Edgefield Road": {
       "revid": 24921,
-      "ts": "2026-09-18T17:08:30Z"
+      "ts": "2026-09-18T17:08:30Z",
+      "redirect": false
     },
     "Bleasdale Farmhouse": {
       "revid": 24902,
-      "ts": "2026-09-18T16:57:39Z"
+      "ts": "2026-09-18T16:57:39Z",
+      "redirect": false
     },
     "Grafton Farmhouse": {
       "revid": 24940,
-      "ts": "2026-09-18T17:26:19Z"
+      "ts": "2026-09-18T17:26:19Z",
+      "redirect": false
     },
     "Voodoo Doll": {
       "revid": 23852,
-      "ts": "2026-06-19T19:28:30Z"
+      "ts": "2026-06-19T19:28:30Z",
+      "redirect": false
     },
     "Bone Evidence": {
       "revid": 24635,
-      "ts": "2026-09-12T16:52:43Z"
+      "ts": "2026-09-12T16:52:43Z",
+      "redirect": false
     },
     "Difficulty": {
       "revid": 24565,
-      "ts": "2026-08-26T22:57:57Z"
+      "ts": "2026-08-26T22:57:57Z",
+      "redirect": false
     },
     "Site Activity Monitor": {
       "revid": 23413,
-      "ts": "2026-05-06T17:38:27Z"
+      "ts": "2026-05-06T17:38:27Z",
+      "redirect": false
     },
     "Truck": {
       "revid": 21241,
-      "ts": "2025-06-27T18:08:36Z"
+      "ts": "2025-06-27T18:08:36Z",
+      "redirect": false
     },
     "Sanity": {
       "revid": 24224,
-      "ts": "2026-07-22T17:49:40Z"
+      "ts": "2026-07-22T17:49:40Z",
+      "redirect": false
     },
     "Ghost Event": {
       "revid": 24629,
-      "ts": "2026-09-11T16:27:49Z"
+      "ts": "2026-09-11T16:27:49Z",
+      "redirect": false
     },
     "Player": {
       "revid": 24464,
-      "ts": "2026-08-18T08:25:54Z"
+      "ts": "2026-08-18T08:25:54Z",
+      "redirect": false
     },
     "Objective Board": {
       "revid": 21239,
-      "ts": "2025-06-27T18:01:42Z"
+      "ts": "2025-06-27T18:01:42Z",
+      "redirect": false
     },
     "Phasmophobia": {
       "revid": 24205,
-      "ts": "2026-07-21T21:21:11Z"
+      "ts": "2026-07-21T21:21:11Z",
+      "redirect": false
     },
     "Ghost event": {
       "revid": 4439,
-      "ts": "2021-01-10T20:29:49Z"
+      "ts": "2021-01-10T20:29:49Z",
+      "redirect": false
     },
     "Sanity Monitor": {
       "revid": 23416,
-      "ts": "2026-05-06T21:17:46Z"
+      "ts": "2026-05-06T21:17:46Z",
+      "redirect": false
     },
     "Journal": {
       "revid": 24582,
-      "ts": "2026-08-28T02:45:52Z"
+      "ts": "2026-08-28T02:45:52Z",
+      "redirect": false
     },
     "Map": {
       "revid": 24616,
-      "ts": "2026-09-08T05:58:00Z"
+      "ts": "2026-09-08T05:58:00Z",
+      "redirect": false
     },
     "Fuse box": {
       "revid": 2130,
-      "ts": "2020-10-21T04:19:30Z"
+      "ts": "2020-10-21T04:19:30Z",
+      "redirect": false
     },
     "Exit door": {
       "revid": 10121,
-      "ts": "2022-02-11T03:18:54Z"
+      "ts": "2022-02-11T03:18:54Z",
+      "redirect": false
     },
     "Video camera": {
       "revid": 2147,
-      "ts": "2020-10-21T05:23:11Z"
+      "ts": "2020-10-21T05:23:11Z",
+      "redirect": false
     },
     "Kinetic Games": {
       "revid": 24506,
-      "ts": "2026-08-26T00:39:47Z"
+      "ts": "2026-08-26T00:39:47Z",
+      "redirect": false
     },
     "Dirty water": {
       "revid": 2346,
-      "ts": "2020-10-25T03:19:39Z"
+      "ts": "2020-10-25T03:19:39Z",
+      "redirect": false
     },
     "Computer": {
       "revid": 21222,
-      "ts": "2025-06-27T16:47:00Z"
+      "ts": "2025-06-27T16:47:00Z",
+      "redirect": false
     },
     "Footprints": {
       "revid": 17009,
-      "ts": "2023-12-07T02:19:04Z"
+      "ts": "2023-12-07T02:19:04Z",
+      "redirect": false
     },
     "Interaction": {
       "revid": 24462,
-      "ts": "2026-08-18T02:58:17Z"
+      "ts": "2026-08-18T02:58:17Z",
+      "redirect": false
     },
     "Dead Body": {
       "revid": 24246,
-      "ts": "2026-07-24T04:35:08Z"
+      "ts": "2026-07-24T04:35:08Z",
+      "redirect": false
     },
     "Death": {
       "revid": 24612,
-      "ts": "2026-09-05T16:43:23Z"
+      "ts": "2026-09-05T16:43:23Z",
+      "redirect": false
     },
     "Training": {
       "revid": 24285,
-      "ts": "2026-07-24T04:41:15Z"
+      "ts": "2026-07-24T04:41:15Z",
+      "redirect": false
     },
     "Car": {
       "revid": 24248,
-      "ts": "2026-07-24T04:35:26Z"
+      "ts": "2026-07-24T04:35:26Z",
+      "redirect": false
     },
     "Basketball": {
       "revid": 24004,
-      "ts": "2026-06-28T21:45:09Z"
+      "ts": "2026-06-28T21:45:09Z",
+      "redirect": false
     },
     "Contract": {
       "revid": 21225,
-      "ts": "2025-06-27T16:58:50Z"
+      "ts": "2025-06-27T16:58:50Z",
+      "redirect": false
     },
     "Video Feed": {
       "revid": 24495,
-      "ts": "2026-08-25T20:12:40Z"
+      "ts": "2026-08-25T20:12:40Z",
+      "redirect": false
     },
     "Lobby": {
       "revid": 24038,
-      "ts": "2026-07-15T18:32:18Z"
+      "ts": "2026-07-15T18:32:18Z",
+      "redirect": false
     },
     "Ghost Model": {
       "revid": 24260,
-      "ts": "2026-07-24T04:37:22Z"
+      "ts": "2026-07-24T04:37:22Z",
+      "redirect": false
     },
     "Money": {
       "revid": 24268,
-      "ts": "2026-07-24T04:38:36Z"
+      "ts": "2026-07-24T04:38:36Z",
+      "redirect": false
     },
     "Prison": {
       "revid": 24686,
-      "ts": "2026-09-15T18:11:17Z"
+      "ts": "2026-09-15T18:11:17Z",
+      "redirect": false
     },
     "Phasmophobia Wiki": {
       "revid": 3620,
-      "ts": "2020-12-05T13:18:34Z"
+      "ts": "2020-12-05T13:18:34Z",
+      "redirect": false
     },
     "Glitches": {
       "revid": 24292,
-      "ts": "2026-07-24T04:42:19Z"
+      "ts": "2026-07-24T04:42:19Z",
+      "redirect": false
     },
     "Community Challenge Pack": {
       "revid": 24291,
-      "ts": "2026-07-24T04:42:10Z"
+      "ts": "2026-07-24T04:42:10Z",
+      "redirect": false
     },
     "Key": {
       "revid": 23334,
-      "ts": "2026-05-05T20:24:06Z"
+      "ts": "2026-05-05T20:24:06Z",
+      "redirect": false
     },
     "Optional Objective": {
       "revid": 6091,
-      "ts": "2021-07-09T00:04:03Z"
+      "ts": "2021-07-09T00:04:03Z",
+      "redirect": false
     },
     "Photo": {
       "revid": 4431,
-      "ts": "2021-01-09T18:44:02Z"
+      "ts": "2021-01-09T18:44:02Z",
+      "redirect": false
     },
     "Bone": {
       "revid": 4472,
-      "ts": "2021-01-10T21:40:34Z"
+      "ts": "2021-01-10T21:40:34Z",
+      "redirect": false
     },
     "Phasmophobia Map Concepts: The Writer's Corner": {
       "revid": 6763,
-      "ts": "2021-09-29T21:24:08Z"
+      "ts": "2021-09-29T21:24:08Z",
+      "redirect": false
     },
     "Setup Timer": {
       "revid": 24016,
-      "ts": "2026-06-28T21:46:18Z"
+      "ts": "2026-06-28T21:46:18Z",
+      "redirect": false
     },
     "Exit Door": {
       "revid": 22785,
-      "ts": "2026-03-03T00:48:17Z"
+      "ts": "2026-03-03T00:48:17Z",
+      "redirect": false
     },
     "Yokai": {
       "revid": 23421,
-      "ts": "2026-05-07T20:39:55Z"
+      "ts": "2026-05-07T20:39:55Z",
+      "redirect": false
     },
     "Hantu": {
       "revid": 24456,
-      "ts": "2026-08-14T21:22:36Z"
+      "ts": "2026-08-14T21:22:36Z",
+      "redirect": false
     },
     "Frequently used game terms": {
       "revid": 24290,
-      "ts": "2026-07-24T04:42:01Z"
+      "ts": "2026-07-24T04:42:01Z",
+      "redirect": false
     },
     "13 Willow Street": {
       "revid": 24957,
-      "ts": "2026-09-18T17:39:08Z"
+      "ts": "2026-09-18T17:39:08Z",
+      "redirect": false
     },
     "Goryo": {
       "revid": 23229,
-      "ts": "2026-04-20T02:21:14Z"
+      "ts": "2026-04-20T02:21:14Z",
+      "redirect": false
     },
     "Myling": {
       "revid": 23183,
-      "ts": "2026-04-14T17:34:00Z"
+      "ts": "2026-04-14T17:34:00Z",
+      "redirect": false
     },
     "D.O.T.S. Projector": {
       "revid": 22987,
-      "ts": "2026-03-29T21:02:46Z"
+      "ts": "2026-03-29T21:02:46Z",
+      "redirect": false
     },
     "D.O.T.S Projector": {
       "revid": 6262,
-      "ts": "2021-08-27T15:26:22Z"
+      "ts": "2021-08-27T15:26:22Z",
+      "redirect": false
     },
     "Exposition Update": {
       "revid": 7561,
-      "ts": "2021-10-28T04:47:43Z"
+      "ts": "2021-10-28T04:47:43Z",
+      "redirect": false
     },
     "Toy": {
       "revid": 24422,
-      "ts": "2026-08-06T20:21:19Z"
+      "ts": "2026-08-06T20:21:19Z",
+      "redirect": false
     },
     "Fusebox": {
       "revid": 6785,
-      "ts": "2021-09-29T22:21:29Z"
+      "ts": "2021-09-29T22:21:29Z",
+      "redirect": false
     },
     "Spirit Box (Evidence)": {
       "revid": 23460,
-      "ts": "2026-05-12T14:35:09Z"
+      "ts": "2026-05-12T14:35:09Z",
+      "redirect": false
     },
     "D.O.T.S. Projector (Evidence)": {
       "revid": 24150,
-      "ts": "2026-07-21T09:51:10Z"
+      "ts": "2026-07-21T09:51:10Z",
+      "redirect": false
     },
     "0.3.1.0": {
       "revid": 23933,
-      "ts": "2026-06-28T21:39:26Z"
+      "ts": "2026-06-28T21:39:26Z",
+      "redirect": false
     },
     "Removed Features": {
       "revid": 24414,
-      "ts": "2026-08-03T21:12:15Z"
+      "ts": "2026-08-03T21:12:15Z",
+      "redirect": false
     },
     "Guides": {
       "revid": 21309,
-      "ts": "2025-06-30T20:31:30Z"
+      "ts": "2025-06-30T20:31:30Z",
+      "redirect": false
     },
     "Guides/Surviving a hunt": {
       "revid": 24261,
-      "ts": "2026-07-24T04:37:31Z"
+      "ts": "2026-07-24T04:37:31Z",
+      "redirect": false
     },
     "Guides/Identifying ghosts": {
       "revid": 24656,
-      "ts": "2026-09-13T19:49:02Z"
+      "ts": "2026-09-13T19:49:02Z",
+      "redirect": false
     },
     "Guides/Common misconceptions": {
       "revid": 23863,
-      "ts": "2026-06-22T15:45:40Z"
+      "ts": "2026-06-22T15:45:40Z",
+      "redirect": false
     },
     "0.29.6": {
       "revid": 23924,
-      "ts": "2026-06-28T21:38:47Z"
+      "ts": "2026-06-28T21:38:47Z",
+      "redirect": false
     },
     "Nightmare Update": {
       "revid": 7558,
-      "ts": "2021-10-28T04:36:26Z"
+      "ts": "2021-10-28T04:36:26Z",
+      "redirect": false
     },
     "Onryo": {
       "revid": 24595,
-      "ts": "2026-09-03T00:57:40Z"
+      "ts": "2026-09-03T00:57:40Z",
+      "redirect": false
     },
     "The Twins": {
       "revid": 23225,
-      "ts": "2026-04-18T20:10:26Z"
+      "ts": "2026-04-18T20:10:26Z",
+      "redirect": false
     },
     "Raiju": {
       "revid": 24235,
-      "ts": "2026-07-23T07:29:09Z"
+      "ts": "2026-07-23T07:29:09Z",
+      "redirect": false
     },
     "Obake": {
       "revid": 24341,
-      "ts": "2026-07-27T13:57:58Z"
+      "ts": "2026-07-27T13:57:58Z",
+      "redirect": false
     },
     "Maple Lodge Campsite": {
       "revid": 24829,
-      "ts": "2026-09-18T02:37:57Z"
+      "ts": "2026-09-18T02:37:57Z",
+      "redirect": false
     },
     "Weather": {
       "revid": 24460,
-      "ts": "2026-08-17T00:43:18Z"
+      "ts": "2026-08-17T00:43:18Z",
+      "redirect": false
     },
     "0.4.0": {
       "revid": 23936,
-      "ts": "2026-06-28T21:39:39Z"
+      "ts": "2026-06-28T21:39:39Z",
+      "redirect": false
     },
     "Sound Monitor": {
       "revid": 23414,
-      "ts": "2026-05-06T17:39:01Z"
+      "ts": "2026-05-06T17:39:01Z",
+      "redirect": false
     },
     "Updates": {
       "revid": 24288,
-      "ts": "2026-07-24T04:41:42Z"
+      "ts": "2026-07-24T04:41:42Z",
+      "redirect": false
     },
     "0.3.0": {
       "revid": 23927,
-      "ts": "2026-06-28T21:39:00Z"
+      "ts": "2026-06-28T21:39:00Z",
+      "redirect": false
     },
     "Guides/Locating the ghost": {
       "revid": 24661,
-      "ts": "2026-09-13T22:11:17Z"
+      "ts": "2026-09-13T22:11:17Z",
+      "redirect": false
     },
     "0.4.1.0": {
       "revid": 23937,
-      "ts": "2026-06-28T21:39:43Z"
+      "ts": "2026-06-28T21:39:43Z",
+      "redirect": false
     },
     "0.4.1.1": {
       "revid": 23938,
-      "ts": "2026-06-28T21:39:48Z"
+      "ts": "2026-06-28T21:39:48Z",
+      "redirect": false
     },
     "0.28.6.5": {
       "revid": 23923,
-      "ts": "2026-06-28T21:38:42Z"
+      "ts": "2026-06-28T21:38:42Z",
+      "redirect": false
     },
     "0.3.1.1": {
       "revid": 23934,
-      "ts": "2026-06-28T21:39:30Z"
+      "ts": "2026-06-28T21:39:30Z",
+      "redirect": false
     },
     "0.3.1.2": {
       "revid": 23935,
-      "ts": "2026-06-28T21:39:34Z"
+      "ts": "2026-06-28T21:39:34Z",
+      "redirect": false
     },
     "0.3.0.1": {
       "revid": 23928,
-      "ts": "2026-06-28T21:39:04Z"
+      "ts": "2026-06-28T21:39:04Z",
+      "redirect": false
     },
     "0.3.0.2": {
       "revid": 23929,
-      "ts": "2026-06-28T21:39:08Z"
+      "ts": "2026-06-28T21:39:08Z",
+      "redirect": false
     },
     "0.3.0.3": {
       "revid": 23930,
-      "ts": "2026-06-28T21:39:13Z"
+      "ts": "2026-06-28T21:39:13Z",
+      "redirect": false
     },
     "0.3.0.4": {
       "revid": 23931,
-      "ts": "2026-06-28T21:39:17Z"
+      "ts": "2026-06-28T21:39:17Z",
+      "redirect": false
     },
     "0.3.0.5": {
       "revid": 23932,
-      "ts": "2026-06-28T21:39:21Z"
+      "ts": "2026-06-28T21:39:21Z",
+      "redirect": false
     },
     "0.4.1.2": {
       "revid": 23939,
-      "ts": "2026-06-28T21:39:52Z"
+      "ts": "2026-06-28T21:39:52Z",
+      "redirect": false
     },
     "0.29.6.1": {
       "revid": 23925,
-      "ts": "2026-06-28T21:38:51Z"
+      "ts": "2026-06-28T21:38:51Z",
+      "redirect": false
     },
     "0.29.6.2": {
       "revid": 23926,
-      "ts": "2026-06-28T21:38:55Z"
+      "ts": "2026-06-28T21:38:55Z",
+      "redirect": false
     },
     "0.2.10.1": {
       "revid": 23919,
-      "ts": "2026-06-28T21:38:25Z"
+      "ts": "2026-06-28T21:38:25Z",
+      "redirect": false
     },
     "0.2.11.0": {
       "revid": 23920,
-      "ts": "2026-06-28T21:38:29Z"
+      "ts": "2026-06-28T21:38:29Z",
+      "redirect": false
     },
     "Glow Stick": {
       "revid": 8329,
-      "ts": "2021-11-25T04:01:54Z"
+      "ts": "2021-11-25T04:01:54Z",
+      "redirect": false
     },
     "Third-party tools": {
       "revid": 24693,
-      "ts": "2026-09-16T16:54:17Z"
+      "ts": "2026-09-16T16:54:17Z",
+      "redirect": false
     },
     "Experience": {
       "revid": 23866,
-      "ts": "2026-06-23T12:21:06Z"
+      "ts": "2026-06-23T12:21:06Z",
+      "redirect": false
     },
     "Planned updates and features": {
       "revid": 24623,
-      "ts": "2026-09-10T16:24:56Z"
+      "ts": "2026-09-10T16:24:56Z",
+      "redirect": false
     },
     "The Mimic": {
       "revid": 24359,
-      "ts": "2026-07-30T02:02:30Z"
+      "ts": "2026-07-30T02:02:30Z",
+      "redirect": false
     },
     "0.5.0": {
       "revid": 23940,
-      "ts": "2026-06-28T21:39:56Z"
+      "ts": "2026-06-28T21:39:56Z",
+      "redirect": false
     },
     "Summoning Circle": {
       "revid": 24663,
-      "ts": "2026-09-14T19:22:03Z"
+      "ts": "2026-09-14T19:22:03Z",
+      "redirect": false
     },
     "Music Box": {
       "revid": 22940,
-      "ts": "2026-03-14T23:44:14Z"
+      "ts": "2026-03-14T23:44:14Z",
+      "redirect": false
     },
     "Haunted Mirror": {
       "revid": 21290,
-      "ts": "2025-06-29T21:51:11Z"
+      "ts": "2025-06-29T21:51:11Z",
+      "redirect": false
     },
     "Tarot Cards": {
       "revid": 24650,
-      "ts": "2026-09-13T16:29:53Z"
+      "ts": "2026-09-13T16:29:53Z",
+      "redirect": false
     },
     "Potato": {
       "revid": 24013,
-      "ts": "2026-06-28T21:46:05Z"
+      "ts": "2026-06-28T21:46:05Z",
+      "redirect": false
     },
     "0.5.0.1": {
       "revid": 23941,
-      "ts": "2026-06-28T21:40:00Z"
+      "ts": "2026-06-28T21:40:00Z",
+      "redirect": false
     },
     "Cursed Possession": {
       "revid": 22758,
-      "ts": "2026-02-14T16:56:21Z"
+      "ts": "2026-02-14T16:56:21Z",
+      "redirect": false
     },
     "0.5.0.2": {
       "revid": 23942,
-      "ts": "2026-06-28T21:40:05Z"
+      "ts": "2026-06-28T21:40:05Z",
+      "redirect": false
     },
     "0.5.1.0": {
       "revid": 23943,
-      "ts": "2026-06-28T21:40:09Z"
+      "ts": "2026-06-28T21:40:09Z",
+      "redirect": false
     },
     "Ghost room": {
       "revid": 9707,
-      "ts": "2022-01-09T17:22:06Z"
+      "ts": "2022-01-09T17:22:06Z",
+      "redirect": false
     },
     "0.5.1.1": {
       "revid": 23944,
-      "ts": "2026-06-28T21:40:14Z"
+      "ts": "2026-06-28T21:40:14Z",
+      "redirect": false
     },
     "0.5.1.2": {
       "revid": 23945,
-      "ts": "2026-06-28T21:40:18Z"
+      "ts": "2026-06-28T21:40:18Z",
+      "redirect": false
     },
     "Cursed Possessions Update": {
       "revid": 9890,
-      "ts": "2022-01-26T16:12:59Z"
+      "ts": "2022-01-26T16:12:59Z",
+      "redirect": false
     },
     "Temperature": {
       "revid": 24018,
-      "ts": "2026-06-28T21:46:31Z"
+      "ts": "2026-06-28T21:46:31Z",
+      "redirect": false
     },
     "Voice chat": {
       "revid": 24030,
-      "ts": "2026-07-11T21:17:26Z"
+      "ts": "2026-07-11T21:17:26Z",
+      "redirect": false
     },
     "0.5.2.0": {
       "revid": 23946,
-      "ts": "2026-06-28T21:40:22Z"
+      "ts": "2026-06-28T21:40:22Z",
+      "redirect": false
     },
     "0.5.2.1": {
       "revid": 23947,
-      "ts": "2026-06-28T21:40:27Z"
+      "ts": "2026-06-28T21:40:27Z",
+      "redirect": false
     },
     "Setup phase": {
       "revid": 10435,
-      "ts": "2022-03-22T11:42:30Z"
+      "ts": "2022-03-22T11:42:30Z",
+      "redirect": false
     },
     "Expedition Update": {
       "revid": 24007,
-      "ts": "2026-06-28T21:45:29Z"
+      "ts": "2026-06-28T21:45:29Z",
+      "redirect": false
     },
     "0.6.0": {
       "revid": 23948,
-      "ts": "2026-06-28T21:40:32Z"
+      "ts": "2026-06-28T21:40:32Z",
+      "redirect": false
     },
     "Sound sensor": {
       "revid": 10585,
-      "ts": "2022-04-07T10:45:25Z"
+      "ts": "2022-04-07T10:45:25Z",
+      "redirect": false
     },
     "VR Overhaul Update": {
       "revid": 10618,
-      "ts": "2022-04-08T02:57:33Z"
+      "ts": "2022-04-08T02:57:33Z",
+      "redirect": false
     },
     "0.6.0.1": {
       "revid": 23949,
-      "ts": "2026-06-28T21:40:36Z"
+      "ts": "2026-06-28T21:40:36Z",
+      "redirect": false
     },
     "0.6.1.0": {
       "revid": 23950,
-      "ts": "2026-06-28T21:40:40Z"
+      "ts": "2026-06-28T21:40:40Z",
+      "redirect": false
     },
     "0.6.1.1": {
       "revid": 23951,
-      "ts": "2026-06-28T21:40:44Z"
+      "ts": "2026-06-28T21:40:44Z",
+      "redirect": false
     },
     "Ghost model": {
       "revid": 10721,
-      "ts": "2022-04-13T15:37:47Z"
+      "ts": "2022-04-13T15:37:47Z",
+      "redirect": false
     },
     "0.6.1.2": {
       "revid": 23952,
-      "ts": "2026-06-28T21:40:49Z"
+      "ts": "2026-06-28T21:40:49Z",
+      "redirect": false
     },
     "0.6.1.3": {
       "revid": 23953,
-      "ts": "2026-06-28T21:40:53Z"
+      "ts": "2026-06-28T21:40:53Z",
+      "redirect": false
     },
     "0.6.1.4": {
       "revid": 23954,
-      "ts": "2026-06-28T21:40:57Z"
+      "ts": "2026-06-28T21:40:57Z",
+      "redirect": false
     },
     "0.6.2.0": {
       "revid": 23958,
-      "ts": "2026-06-28T21:41:14Z"
+      "ts": "2026-06-28T21:41:14Z",
+      "redirect": false
     },
     "0.6.1.5": {
       "revid": 23955,
-      "ts": "2026-06-28T21:41:01Z"
+      "ts": "2026-06-28T21:41:01Z",
+      "redirect": false
     },
     "0.6.1.6": {
       "revid": 23956,
-      "ts": "2026-06-28T21:41:06Z"
+      "ts": "2026-06-28T21:41:06Z",
+      "redirect": false
     },
     "0.6.1.7": {
       "revid": 23957,
-      "ts": "2026-06-28T21:41:10Z"
+      "ts": "2026-06-28T21:41:10Z",
+      "redirect": false
     },
     "Smudge stick": {
       "revid": 15663,
-      "ts": "2023-08-19T07:00:55Z"
+      "ts": "2023-08-19T07:00:55Z",
+      "redirect": false
     },
     "Prop": {
       "revid": 24039,
-      "ts": "2026-07-15T19:31:53Z"
+      "ts": "2026-07-15T19:31:53Z",
+      "redirect": false
     },
     "List of voice lines": {
       "revid": 24009,
-      "ts": "2026-06-28T21:45:45Z"
+      "ts": "2026-06-28T21:45:45Z",
+      "redirect": false
     },
     "Deogen": {
       "revid": 24658,
-      "ts": "2026-09-13T20:16:09Z"
+      "ts": "2026-09-13T20:16:09Z",
+      "redirect": false
     },
     "Moroi": {
       "revid": 24626,
-      "ts": "2026-09-11T04:17:05Z"
+      "ts": "2026-09-11T04:17:05Z",
+      "redirect": false
     },
     "Thaye": {
       "revid": 23537,
-      "ts": "2026-05-13T21:49:46Z"
+      "ts": "2026-05-13T21:49:46Z",
+      "redirect": false
     },
     "0.6.2.1": {
       "revid": 23959,
-      "ts": "2026-06-28T21:41:19Z"
+      "ts": "2026-06-28T21:41:19Z",
+      "redirect": false
     },
     "0.6.2.2": {
       "revid": 23960,
-      "ts": "2026-06-28T21:41:23Z"
+      "ts": "2026-06-28T21:41:23Z",
+      "redirect": false
     },
     "Sunny Meadows Mental Institution": {
       "revid": 24753,
-      "ts": "2026-09-17T06:42:40Z"
+      "ts": "2026-09-17T06:42:40Z",
+      "redirect": false
     },
     "0.6.2.3": {
       "revid": 23961,
-      "ts": "2026-06-28T21:41:27Z"
+      "ts": "2026-06-28T21:41:27Z",
+      "redirect": false
     },
     "0.6.3.0": {
       "revid": 23962,
-      "ts": "2026-06-28T21:41:32Z"
+      "ts": "2026-06-28T21:41:32Z",
+      "redirect": false
     },
     "0.6.3.1": {
       "revid": 23963,
-      "ts": "2026-06-28T21:41:36Z"
+      "ts": "2026-06-28T21:41:36Z",
+      "redirect": false
     },
     "0.7.0": {
       "revid": 21282,
-      "ts": "2025-06-29T20:51:28Z"
+      "ts": "2025-06-29T20:51:28Z",
+      "redirect": false
     },
     "Door": {
       "revid": 24666,
-      "ts": "2026-09-15T04:26:32Z"
+      "ts": "2026-09-15T04:26:32Z",
+      "redirect": false
     },
     "Camp Woodwind": {
       "revid": 24972,
-      "ts": "2026-09-18T17:50:28Z"
+      "ts": "2026-09-18T17:50:28Z",
+      "redirect": false
     },
     "Options": {
       "revid": 24665,
-      "ts": "2026-09-14T20:41:20Z"
+      "ts": "2026-09-14T20:41:20Z",
+      "redirect": false
     },
     "Apocalypse Challenge": {
       "revid": 24362,
-      "ts": "2026-07-30T03:24:55Z"
+      "ts": "2026-07-30T03:24:55Z",
+      "redirect": false
     },
     "Shop": {
       "revid": 24483,
-      "ts": "2026-08-25T17:47:15Z"
+      "ts": "2026-08-25T17:47:15Z",
+      "redirect": false
     },
     "Main menu board": {
       "revid": 24011,
-      "ts": "2026-06-28T21:45:53Z"
+      "ts": "2026-06-28T21:45:53Z",
+      "redirect": false
     },
     "0.7.0.1": {
       "revid": 23964,
-      "ts": "2026-06-28T21:41:41Z"
+      "ts": "2026-06-28T21:41:41Z",
+      "redirect": false
     },
     "Tanglewood Street House": {
       "revid": 12697,
-      "ts": "2022-09-30T12:22:22Z"
+      "ts": "2022-09-30T12:22:22Z",
+      "redirect": false
     },
     "Edgefield Street House": {
       "revid": 12702,
-      "ts": "2022-09-30T12:28:12Z"
+      "ts": "2022-09-30T12:28:12Z",
+      "redirect": false
     },
     "Ridgeview Road House": {
       "revid": 12706,
-      "ts": "2022-09-30T12:35:58Z"
+      "ts": "2022-09-30T12:35:58Z",
+      "redirect": false
     },
     "Willow Street House": {
       "revid": 12714,
-      "ts": "2022-09-30T14:30:11Z"
+      "ts": "2022-09-30T14:30:11Z",
+      "redirect": false
     },
     "0.7.0.2": {
       "revid": 23965,
-      "ts": "2026-06-28T21:41:45Z"
+      "ts": "2026-06-28T21:41:45Z",
+      "redirect": false
     },
     "0.7.0.3": {
       "revid": 23966,
-      "ts": "2026-06-28T21:41:52Z"
+      "ts": "2026-06-28T21:41:52Z",
+      "redirect": false
     },
     "0.7.1.0": {
       "revid": 23967,
-      "ts": "2026-06-28T21:41:57Z"
+      "ts": "2026-06-28T21:41:57Z",
+      "redirect": false
     },
     "0.7.1.1": {
       "revid": 23968,
-      "ts": "2026-06-28T21:42:01Z"
+      "ts": "2026-06-28T21:42:01Z",
+      "redirect": false
     },
     "Special events": {
       "revid": 24017,
-      "ts": "2026-06-28T21:46:26Z"
+      "ts": "2026-06-28T21:46:26Z",
+      "redirect": false
     },
     "0.7.1.2": {
       "revid": 23969,
-      "ts": "2026-06-28T21:42:05Z"
+      "ts": "2026-06-28T21:42:05Z",
+      "redirect": false
     },
     "0.7.1.3": {
       "revid": 23970,
-      "ts": "2026-06-28T21:42:09Z"
+      "ts": "2026-06-28T21:42:09Z",
+      "redirect": false
     },
     "0.7.1.4": {
       "revid": 23971,
-      "ts": "2026-06-28T21:42:19Z"
+      "ts": "2026-06-28T21:42:19Z",
+      "redirect": false
     },
     "0.7.1.5": {
       "revid": 23972,
-      "ts": "2026-06-28T21:42:23Z"
+      "ts": "2026-06-28T21:42:23Z",
+      "redirect": false
     },
     "0.7.2.0": {
       "revid": 23973,
-      "ts": "2026-06-28T21:42:27Z"
+      "ts": "2026-06-28T21:42:27Z",
+      "redirect": false
     },
     "0.7.3.0": {
       "revid": 23974,
-      "ts": "2026-06-28T21:42:32Z"
+      "ts": "2026-06-28T21:42:32Z",
+      "redirect": false
     },
     "ID Card": {
       "revid": 24327,
-      "ts": "2026-07-25T06:46:43Z"
+      "ts": "2026-07-25T06:46:43Z",
+      "redirect": false
     },
     "Smudge sticks": {
       "revid": 15664,
-      "ts": "2023-08-19T07:01:12Z"
+      "ts": "2023-08-19T07:01:12Z",
+      "redirect": false
     },
     "0.8.0": {
       "revid": 23975,
-      "ts": "2026-06-28T21:42:45Z"
+      "ts": "2026-06-28T21:42:45Z",
+      "redirect": false
     },
     "0.8.0.1": {
       "revid": 23976,
-      "ts": "2026-06-28T21:42:49Z"
+      "ts": "2026-06-28T21:42:49Z",
+      "redirect": false
     },
     "0.8.0.2": {
       "revid": 23977,
-      "ts": "2026-06-28T21:42:54Z"
+      "ts": "2026-06-28T21:42:54Z",
+      "redirect": false
     },
     "0.8.0.3": {
       "revid": 23978,
-      "ts": "2026-06-28T21:42:58Z"
+      "ts": "2026-06-28T21:42:58Z",
+      "redirect": false
     },
     "0.8.0.4": {
       "revid": 23979,
-      "ts": "2026-06-28T21:43:02Z"
+      "ts": "2026-06-28T21:43:02Z",
+      "redirect": false
     },
     "0.8.0.5": {
       "revid": 23980,
-      "ts": "2026-06-28T21:43:07Z"
+      "ts": "2026-06-28T21:43:07Z",
+      "redirect": false
     },
     "0.8.0.6": {
       "revid": 23981,
-      "ts": "2026-06-28T21:43:11Z"
+      "ts": "2026-06-28T21:43:11Z",
+      "redirect": false
     },
     "Sunny Meadows": {
       "revid": 13887,
-      "ts": "2023-01-07T05:03:05Z"
+      "ts": "2023-01-07T05:03:05Z",
+      "redirect": false
     },
     "0.8.0.7": {
       "revid": 23982,
-      "ts": "2026-06-28T21:43:15Z"
+      "ts": "2026-06-28T21:43:15Z",
+      "redirect": false
     },
     "0.8.0.8": {
       "revid": 23983,
-      "ts": "2026-06-28T21:43:20Z"
+      "ts": "2026-06-28T21:43:20Z",
+      "redirect": false
     },
     "0.8.1.0": {
       "revid": 23984,
-      "ts": "2026-06-28T21:43:24Z"
+      "ts": "2026-06-28T21:43:24Z",
+      "redirect": false
     },
     "0.2": {
       "revid": 23918,
-      "ts": "2026-06-28T21:38:21Z"
+      "ts": "2026-06-28T21:38:21Z",
+      "redirect": false
     },
     "Monkey Paw": {
       "revid": 24862,
-      "ts": "2026-09-18T08:42:19Z"
+      "ts": "2026-09-18T08:42:19Z",
+      "redirect": false
     },
     "0.8.1.1": {
       "revid": 23985,
-      "ts": "2026-06-28T21:43:28Z"
+      "ts": "2026-06-28T21:43:28Z",
+      "redirect": false
     },
     "0.8.1.2": {
       "revid": 23986,
-      "ts": "2026-06-28T21:43:32Z"
+      "ts": "2026-06-28T21:43:32Z",
+      "redirect": false
     },
     "Challenge Mode": {
       "revid": 23305,
-      "ts": "2026-05-05T16:08:11Z"
+      "ts": "2026-05-05T16:08:11Z",
+      "redirect": false
     },
     "0.8.1.3": {
       "revid": 23987,
-      "ts": "2026-06-28T21:43:41Z"
+      "ts": "2026-06-28T21:43:41Z",
+      "redirect": false
     },
     "0.8.1.4": {
       "revid": 23988,
-      "ts": "2026-06-28T21:43:46Z"
+      "ts": "2026-06-28T21:43:46Z",
+      "redirect": false
     },
     "0.8.1.5": {
       "revid": 23989,
-      "ts": "2026-06-28T21:43:50Z"
+      "ts": "2026-06-28T21:43:50Z",
+      "redirect": false
     },
     "0.8.1.6": {
       "revid": 23990,
-      "ts": "2026-06-28T21:43:54Z"
+      "ts": "2026-06-28T21:43:54Z",
+      "redirect": false
     },
     "0.8.1.7": {
       "revid": 23991,
-      "ts": "2026-06-28T21:43:59Z"
+      "ts": "2026-06-28T21:43:59Z",
+      "redirect": false
     },
     "0.9.0": {
       "revid": 23992,
-      "ts": "2026-06-28T21:44:03Z"
+      "ts": "2026-06-28T21:44:03Z",
+      "redirect": false
     },
     "DOTS Projector": {
       "revid": 15426,
-      "ts": "2023-07-12T04:35:05Z"
+      "ts": "2023-07-12T04:35:05Z",
+      "redirect": false
     },
     "Rune": {
       "revid": 24015,
-      "ts": "2026-06-28T21:46:14Z"
+      "ts": "2026-06-28T21:46:14Z",
+      "redirect": false
     },
     "Fingerprints": {
       "revid": 15665,
-      "ts": "2023-08-19T07:01:49Z"
+      "ts": "2023-08-19T07:01:49Z",
+      "redirect": false
     },
     "UV Flashlight": {
       "revid": 15558,
-      "ts": "2023-08-17T19:35:47Z"
+      "ts": "2023-08-17T19:35:47Z",
+      "redirect": false
     },
     "Sanity Pills": {
       "revid": 15563,
-      "ts": "2023-08-17T19:51:40Z"
+      "ts": "2023-08-17T19:51:40Z",
+      "redirect": false
     },
     "Lighter": {
       "revid": 15566,
-      "ts": "2023-08-17T19:55:47Z"
+      "ts": "2023-08-17T19:55:47Z",
+      "redirect": false
     },
     "Candle": {
       "revid": 15570,
-      "ts": "2023-08-17T20:00:57Z"
+      "ts": "2023-08-17T20:00:57Z",
+      "redirect": false
     },
     "Smudge Sticks": {
       "revid": 15573,
-      "ts": "2023-08-17T20:14:56Z"
+      "ts": "2023-08-17T20:14:56Z",
+      "redirect": false
     },
     "Head Mounted Camera": {
       "revid": 15576,
-      "ts": "2023-08-17T20:21:26Z"
+      "ts": "2023-08-17T20:21:26Z",
+      "redirect": false
     },
     "0.9.0.1": {
       "revid": 18211,
-      "ts": "2024-06-19T01:29:43Z"
+      "ts": "2024-06-19T01:29:43Z",
+      "redirect": false
     },
     "Salt Shaker": {
       "revid": 15683,
-      "ts": "2023-08-19T17:02:52Z"
+      "ts": "2023-08-19T17:02:52Z",
+      "redirect": false
     },
     "0.9.0.2": {
       "revid": 18212,
-      "ts": "2024-06-19T01:30:04Z"
+      "ts": "2024-06-19T01:30:04Z",
+      "redirect": false
     },
     "High School": {
       "revid": 15767,
-      "ts": "2023-08-20T23:34:14Z"
+      "ts": "2023-08-20T23:34:14Z",
+      "redirect": false
     },
     "0.9.0.3": {
       "revid": 18213,
-      "ts": "2024-06-19T01:30:20Z"
+      "ts": "2024-06-19T01:30:20Z",
+      "redirect": false
     },
     "0.9.0.4": {
       "revid": 18214,
-      "ts": "2024-06-19T01:30:37Z"
+      "ts": "2024-06-19T01:30:37Z",
+      "redirect": false
     },
     "0.9.0.5": {
       "revid": 18215,
-      "ts": "2024-06-19T01:30:58Z"
+      "ts": "2024-06-19T01:30:58Z",
+      "redirect": false
     },
     "0.9.0.6": {
       "revid": 18216,
-      "ts": "2024-06-19T01:31:24Z"
+      "ts": "2024-06-19T01:31:24Z",
+      "redirect": false
     },
     "0.9.0.7": {
       "revid": 20171,
-      "ts": "2025-02-12T06:56:25Z"
+      "ts": "2025-02-12T06:56:25Z",
+      "redirect": false
     },
     "0.9.0.8": {
       "revid": 18218,
-      "ts": "2024-06-19T01:32:14Z"
+      "ts": "2024-06-19T01:32:14Z",
+      "redirect": false
     },
     "0.9.0.9": {
       "revid": 18219,
-      "ts": "2024-06-19T01:32:37Z"
+      "ts": "2024-06-19T01:32:37Z",
+      "redirect": false
     },
     "0.9.0.10": {
       "revid": 18231,
-      "ts": "2024-06-19T06:42:33Z"
+      "ts": "2024-06-19T06:42:33Z",
+      "redirect": false
     },
     "Legacy Badge": {
       "revid": 24603,
-      "ts": "2026-09-05T02:59:51Z"
+      "ts": "2026-09-05T02:59:51Z",
+      "redirect": false
     },
     "0.9.1.0": {
       "revid": 23993,
-      "ts": "2026-06-28T21:44:07Z"
+      "ts": "2026-06-28T21:44:07Z",
+      "redirect": false
     },
     "0.9.2.0": {
       "revid": 23994,
-      "ts": "2026-06-28T21:44:11Z"
+      "ts": "2026-06-28T21:44:11Z",
+      "redirect": false
     },
     "Achievements/Trophies": {
       "revid": 24485,
-      "ts": "2026-08-25T17:53:54Z"
+      "ts": "2026-08-25T17:53:54Z",
+      "redirect": false
     },
     "0.9.3.0": {
       "revid": 23995,
-      "ts": "2026-06-28T21:44:16Z"
+      "ts": "2026-06-28T21:44:16Z",
+      "redirect": false
     },
     "0.9.3.1": {
       "revid": 23996,
-      "ts": "2026-06-28T21:44:21Z"
+      "ts": "2026-06-28T21:44:21Z",
+      "redirect": false
     },
     "0.9.4.0": {
       "revid": 23997,
-      "ts": "2026-06-28T21:44:25Z"
+      "ts": "2026-06-28T21:44:25Z",
+      "redirect": false
     },
     "0.9.4.1": {
       "revid": 23998,
-      "ts": "2026-06-28T21:44:43Z"
+      "ts": "2026-06-28T21:44:43Z",
+      "redirect": false
     },
     "0.9.4.2": {
       "revid": 23999,
-      "ts": "2026-06-28T21:44:47Z"
+      "ts": "2026-06-28T21:44:47Z",
+      "redirect": false
     },
     "0.9.4.3": {
       "revid": 24000,
-      "ts": "2026-06-28T21:44:51Z"
+      "ts": "2026-06-28T21:44:51Z",
+      "redirect": false
     },
     "0.9.5.0": {
       "revid": 24001,
-      "ts": "2026-06-28T21:44:56Z"
+      "ts": "2026-06-28T21:44:56Z",
+      "redirect": false
     },
     "0.9.6.0": {
       "revid": 24002,
-      "ts": "2026-06-28T21:45:00Z"
+      "ts": "2026-06-28T21:45:00Z",
+      "redirect": false
     },
     "0.176.39": {
       "revid": 23917,
-      "ts": "2026-06-28T21:38:16Z"
+      "ts": "2026-06-28T21:38:16Z",
+      "redirect": false
     },
     "0.176.28": {
       "revid": 23916,
-      "ts": "2026-06-28T21:38:12Z"
+      "ts": "2026-06-28T21:38:12Z",
+      "redirect": false
     },
     "0.174": {
       "revid": 23915,
-      "ts": "2026-06-28T21:38:07Z"
+      "ts": "2026-06-28T21:38:07Z",
+      "redirect": false
     },
     "0.165": {
       "revid": 23907,
-      "ts": "2026-06-28T21:37:34Z"
+      "ts": "2026-06-28T21:37:34Z",
+      "redirect": false
     },
     "0.27.4.2": {
       "revid": 23922,
-      "ts": "2026-06-28T21:38:38Z"
+      "ts": "2026-06-28T21:38:38Z",
+      "redirect": false
     },
     "0.26.8.1": {
       "revid": 23921,
-      "ts": "2026-06-28T21:38:34Z"
+      "ts": "2026-06-28T21:38:34Z",
+      "redirect": false
     },
     "Contests and giveaways": {
       "revid": 24441,
-      "ts": "2026-08-11T15:27:48Z"
+      "ts": "2026-08-11T15:27:48Z",
+      "redirect": false
     },
     "0.9.6.1": {
       "revid": 24003,
-      "ts": "2026-06-28T21:45:04Z"
+      "ts": "2026-06-28T21:45:04Z",
+      "redirect": false
     },
     "Controls": {
       "revid": 24250,
-      "ts": "2026-07-24T04:35:46Z"
+      "ts": "2026-07-24T04:35:46Z",
+      "redirect": false
     },
     "Mimic": {
       "revid": 18117,
-      "ts": "2024-06-03T20:26:45Z"
+      "ts": "2024-06-03T20:26:45Z",
+      "redirect": false
     },
     "Twins": {
       "revid": 18118,
-      "ts": "2024-06-03T20:27:40Z"
+      "ts": "2024-06-03T20:27:40Z",
+      "redirect": false
     },
     "0.10.0": {
       "revid": 23875,
-      "ts": "2026-06-28T21:35:05Z"
+      "ts": "2026-06-28T21:35:05Z",
+      "redirect": false
     },
     "Point Hope": {
       "revid": 24857,
-      "ts": "2026-09-18T04:09:36Z"
+      "ts": "2026-09-18T04:09:36Z",
+      "redirect": false
     },
     "0.10.0.1": {
       "revid": 23876,
-      "ts": "2026-06-28T21:35:10Z"
+      "ts": "2026-06-28T21:35:10Z",
+      "redirect": false
     },
     "Daily and Weekly Tasks/Rotation": {
       "revid": 24251,
-      "ts": "2026-07-24T04:35:55Z"
+      "ts": "2026-07-24T04:35:55Z",
+      "redirect": false
     },
     "Difficulty/Custom": {
       "revid": 24587,
-      "ts": "2026-08-29T03:59:58Z"
+      "ts": "2026-08-29T03:59:58Z",
+      "redirect": false
     },
     "0.10.1.0": {
       "revid": 23877,
-      "ts": "2026-06-28T21:35:14Z"
+      "ts": "2026-06-28T21:35:14Z",
+      "redirect": false
     },
     "0.10.1.1": {
       "revid": 23878,
-      "ts": "2026-06-28T21:35:19Z"
+      "ts": "2026-06-28T21:35:19Z",
+      "redirect": false
     },
     "0.10.1.2": {
       "revid": 23879,
-      "ts": "2026-06-28T21:35:24Z"
+      "ts": "2026-06-28T21:35:24Z",
+      "redirect": false
     },
     "Van": {
       "revid": 18865,
-      "ts": "2024-08-18T22:50:03Z"
+      "ts": "2024-08-18T22:50:03Z",
+      "redirect": false
     },
     "0.11.0": {
       "revid": 23880,
-      "ts": "2026-06-28T21:35:28Z"
+      "ts": "2026-06-28T21:35:28Z",
+      "redirect": false
     },
     "Event Board": {
       "revid": 24569,
-      "ts": "2026-08-26T23:14:33Z"
+      "ts": "2026-08-26T23:14:33Z",
+      "redirect": false
     },
     "0.11.0.1": {
       "revid": 23881,
-      "ts": "2026-06-28T21:35:32Z"
+      "ts": "2026-06-28T21:35:32Z",
+      "redirect": false
     },
     "0.11.0.2": {
       "revid": 23882,
-      "ts": "2026-06-28T21:35:36Z"
+      "ts": "2026-06-28T21:35:36Z",
+      "redirect": false
     },
     "0.11.0.3": {
       "revid": 23883,
-      "ts": "2026-06-28T21:35:44Z"
+      "ts": "2026-06-28T21:35:44Z",
+      "redirect": false
     },
     "Cursed possession": {
       "revid": 19555,
-      "ts": "2024-11-24T10:47:17Z"
+      "ts": "2024-11-24T10:47:17Z",
+      "redirect": false
     },
     "0.11.1.0": {
       "revid": 23884,
-      "ts": "2026-06-28T21:35:53Z"
+      "ts": "2026-06-28T21:35:53Z",
+      "redirect": false
     },
     "0.11.1.1": {
       "revid": 23885,
-      "ts": "2026-06-28T21:35:58Z"
+      "ts": "2026-06-28T21:35:58Z",
+      "redirect": false
     },
     "Xp": {
       "revid": 20192,
-      "ts": "2025-02-16T15:16:12Z"
+      "ts": "2025-02-16T15:16:12Z",
+      "redirect": false
     },
     "0.11.1.2": {
       "revid": 23886,
-      "ts": "2026-06-28T21:36:02Z"
+      "ts": "2026-06-28T21:36:02Z",
+      "redirect": false
     },
     "0.12.0.1": {
       "revid": 24457,
-      "ts": "2026-08-16T16:00:37Z"
+      "ts": "2026-08-16T16:00:37Z",
+      "redirect": false
     },
     "0.12.0.2": {
       "revid": 23888,
-      "ts": "2026-06-28T21:36:11Z"
+      "ts": "2026-06-28T21:36:11Z",
+      "redirect": false
     },
     "Hiding Spots": {
       "revid": 24264,
-      "ts": "2026-07-24T04:37:59Z"
+      "ts": "2026-07-24T04:37:59Z",
+      "redirect": false
     },
     "Hide": {
       "revid": 20557,
-      "ts": "2025-04-06T23:56:55Z"
+      "ts": "2025-04-06T23:56:55Z",
+      "redirect": false
     },
     "Closet": {
       "revid": 20559,
-      "ts": "2025-04-06T23:57:25Z"
+      "ts": "2025-04-06T23:57:25Z",
+      "redirect": false
     },
     "Locker": {
       "revid": 20558,
-      "ts": "2025-04-06T23:57:11Z"
+      "ts": "2025-04-06T23:57:11Z",
+      "redirect": false
     },
     "0.12.1.0": {
       "revid": 23889,
-      "ts": "2026-06-28T21:36:15Z"
+      "ts": "2026-06-28T21:36:15Z",
+      "redirect": false
     },
     "0.12.1.1": {
       "revid": 23890,
-      "ts": "2026-06-28T21:36:19Z"
+      "ts": "2026-06-28T21:36:19Z",
+      "redirect": false
     },
     "Blood moon": {
       "revid": 20787,
-      "ts": "2025-05-07T16:50:33Z"
+      "ts": "2025-05-07T16:50:33Z",
+      "redirect": false
     },
     "Mirror": {
       "revid": 20789,
-      "ts": "2025-05-07T23:37:41Z"
+      "ts": "2025-05-07T23:37:41Z",
+      "redirect": false
     },
     "0.12.1.2": {
       "revid": 23891,
-      "ts": "2026-06-28T21:36:23Z"
+      "ts": "2026-06-28T21:36:23Z",
+      "redirect": false
     },
     "Mannequin": {
       "revid": 24421,
-      "ts": "2026-08-06T19:16:45Z"
+      "ts": "2026-08-06T19:16:45Z",
+      "redirect": false
     },
     "0.13.0": {
       "revid": 23892,
-      "ts": "2026-06-28T21:36:28Z"
+      "ts": "2026-06-28T21:36:28Z",
+      "redirect": false
     },
     "Media": {
       "revid": 24503,
-      "ts": "2026-08-26T00:33:35Z"
+      "ts": "2026-08-26T00:33:35Z",
+      "redirect": false
     },
     "Sound Recorder": {
       "revid": 24627,
-      "ts": "2026-09-11T04:17:07Z"
+      "ts": "2026-09-11T04:17:07Z",
+      "redirect": false
     },
     "0.13.0.1": {
       "revid": 23893,
-      "ts": "2026-06-28T21:36:32Z"
+      "ts": "2026-06-28T21:36:32Z",
+      "redirect": false
     },
     "0.13.1.0": {
       "revid": 23894,
-      "ts": "2026-06-28T21:36:36Z"
+      "ts": "2026-06-28T21:36:36Z",
+      "redirect": false
     },
     "0.13.1.1": {
       "revid": 23895,
-      "ts": "2026-06-28T21:36:40Z"
+      "ts": "2026-06-28T21:36:40Z",
+      "redirect": false
     },
     "Light": {
       "revid": 24273,
-      "ts": "2026-07-24T04:39:22Z"
+      "ts": "2026-07-24T04:39:22Z",
+      "redirect": false
     },
     "Radio": {
       "revid": 24357,
-      "ts": "2026-07-29T21:50:36Z"
+      "ts": "2026-07-29T21:50:36Z",
+      "redirect": false
     },
     "Fire Source": {
       "revid": 24533,
-      "ts": "2026-08-26T17:32:31Z"
+      "ts": "2026-08-26T17:32:31Z",
+      "redirect": false
     },
     "0.14.0": {
       "revid": 23896,
-      "ts": "2026-06-28T21:36:45Z"
+      "ts": "2026-06-28T21:36:45Z",
+      "redirect": false
     },
     "Badge": {
       "revid": 21643,
-      "ts": "2025-08-12T17:28:40Z"
+      "ts": "2025-08-12T17:28:40Z",
+      "redirect": false
     },
     "0.14.0.1": {
       "revid": 23897,
-      "ts": "2026-06-28T21:36:49Z"
+      "ts": "2026-06-28T21:36:49Z",
+      "redirect": false
     },
     "Teddy Bear": {
       "revid": 21714,
-      "ts": "2025-08-28T18:20:26Z"
+      "ts": "2025-08-28T18:20:26Z",
+      "redirect": false
     },
     "0.14.1.0": {
       "revid": 23898,
-      "ts": "2026-06-28T21:36:54Z"
+      "ts": "2026-06-28T21:36:54Z",
+      "redirect": false
     },
     "0.14.2.0": {
       "revid": 23899,
-      "ts": "2026-06-28T21:36:58Z"
+      "ts": "2026-06-28T21:36:58Z",
+      "redirect": false
     },
     "0.14.2.1": {
       "revid": 23900,
-      "ts": "2026-06-28T21:37:02Z"
+      "ts": "2026-06-28T21:37:02Z",
+      "redirect": false
     },
     "Tarot": {
       "revid": 22127,
-      "ts": "2025-10-25T03:43:56Z"
+      "ts": "2025-10-25T03:43:56Z",
+      "redirect": false
     },
     "Cursed hunt": {
       "revid": 22152,
-      "ts": "2025-11-05T15:34:22Z"
+      "ts": "2025-11-05T15:34:22Z",
+      "redirect": false
     },
     "0.15.0": {
       "revid": 23901,
-      "ts": "2026-06-28T21:37:07Z"
+      "ts": "2026-06-28T21:37:07Z",
+      "redirect": false
     },
     "Nell's Diner": {
-      "revid": 24642,
-      "ts": "2026-09-12T17:17:35Z"
+      "revid": 25003,
+      "ts": "2026-09-18T19:44:23Z",
+      "redirect": false
     },
     "0.15.1.0": {
       "revid": 23902,
-      "ts": "2026-06-28T21:37:11Z"
+      "ts": "2026-06-28T21:37:11Z",
+      "redirect": false
     },
     "Obambo": {
       "revid": 24274,
-      "ts": "2026-07-24T04:39:31Z"
+      "ts": "2026-07-24T04:39:31Z",
+      "redirect": false
     },
     "Dayan": {
       "revid": 24365,
-      "ts": "2026-07-30T15:44:16Z"
+      "ts": "2026-07-30T15:44:16Z",
+      "redirect": false
     },
     "Gallu": {
       "revid": 24413,
-      "ts": "2026-08-03T16:51:58Z"
+      "ts": "2026-08-03T16:51:58Z",
+      "redirect": false
     },
     "D.O.T.S Projector (Evidence)": {
       "revid": 22488,
-      "ts": "2025-12-17T04:50:58Z"
+      "ts": "2025-12-17T04:50:58Z",
+      "redirect": false
     },
     "0.16.0": {
       "revid": 23903,
-      "ts": "2026-06-28T21:37:15Z"
+      "ts": "2026-06-28T21:37:15Z",
+      "redirect": false
     },
     "Roaming": {
       "revid": 24660,
-      "ts": "2026-09-13T22:09:14Z"
+      "ts": "2026-09-13T22:09:14Z",
+      "redirect": false
     },
     "Favorite Room": {
       "revid": 22994,
-      "ts": "2026-03-29T22:30:22Z"
+      "ts": "2026-03-29T22:30:22Z",
+      "redirect": false
     },
     "0.16.1.0": {
       "revid": 24459,
-      "ts": "2026-08-16T16:09:50Z"
+      "ts": "2026-08-16T16:09:50Z",
+      "redirect": false
     },
     "0.16.1.1": {
       "revid": 23905,
-      "ts": "2026-06-28T21:37:25Z"
+      "ts": "2026-06-28T21:37:25Z",
+      "redirect": false
     },
     "Activity": {
       "revid": 24240,
-      "ts": "2026-07-24T04:34:11Z"
+      "ts": "2026-07-24T04:34:11Z",
+      "redirect": false
     },
     "Ability": {
       "revid": 24368,
-      "ts": "2026-07-31T23:45:27Z"
+      "ts": "2026-07-31T23:45:27Z",
+      "redirect": false
     },
     "0.16.1.2": {
       "revid": 23906,
-      "ts": "2026-06-28T21:37:29Z"
+      "ts": "2026-06-28T21:37:29Z",
+      "redirect": false
     },
     "Paranormal Sound": {
       "revid": 24275,
-      "ts": "2026-07-24T04:39:41Z"
+      "ts": "2026-07-24T04:39:41Z",
+      "redirect": false
     },
     "Ball": {
       "revid": 24255,
-      "ts": "2026-07-24T04:36:35Z"
+      "ts": "2026-07-24T04:36:35Z",
+      "redirect": false
     },
     "0.17.0": {
       "revid": 24123,
-      "ts": "2026-07-20T11:30:17Z"
+      "ts": "2026-07-20T11:30:17Z",
+      "redirect": false
     },
     "Cosmetics": {
       "revid": 24754,
-      "ts": "2026-09-17T15:31:54Z"
+      "ts": "2026-09-17T15:31:54Z",
+      "redirect": false
     },
     "Watch": {
       "revid": 24374,
-      "ts": "2026-08-01T07:14:12Z"
+      "ts": "2026-08-01T07:14:12Z",
+      "redirect": false
     },
     "0.17.1.0": {
       "revid": 24124,
-      "ts": "2026-07-20T11:30:52Z"
+      "ts": "2026-07-20T11:30:52Z",
+      "redirect": false
     },
     "Aswang": {
       "revid": 24628,
-      "ts": "2026-09-11T04:21:32Z"
+      "ts": "2026-09-11T04:21:32Z",
+      "redirect": false
     },
     "Kormos": {
       "revid": 24586,
-      "ts": "2026-08-28T23:52:37Z"
+      "ts": "2026-08-28T23:52:37Z",
+      "redirect": false
     },
     "0.17.1.1": {
       "revid": 24125,
-      "ts": "2026-07-20T11:31:18Z"
+      "ts": "2026-07-20T11:31:18Z",
+      "redirect": false
     },
     "0.17.1.2": {
       "revid": 24126,
-      "ts": "2026-07-20T11:31:41Z"
+      "ts": "2026-07-20T11:31:41Z",
+      "redirect": false
     },
     "0.17.1.3": {
       "revid": 24127,
-      "ts": "2026-07-20T11:32:01Z"
+      "ts": "2026-07-20T11:32:01Z",
+      "redirect": false
     },
     "0.17.1.4": {
       "revid": 24128,
-      "ts": "2026-07-20T11:32:28Z"
+      "ts": "2026-07-20T11:32:28Z",
+      "redirect": false
     },
     "0.17.1.5": {
       "revid": 24129,
-      "ts": "2026-07-20T11:32:49Z"
+      "ts": "2026-07-20T11:32:49Z",
+      "redirect": false
     },
     "Deildegast": {
       "revid": 24662,
-      "ts": "2026-09-13T22:23:41Z"
+      "ts": "2026-09-13T22:23:41Z",
+      "redirect": false
     },
     "0.18.0": {
       "revid": 24472,
-      "ts": "2026-08-25T15:05:51Z"
+      "ts": "2026-08-25T15:05:51Z",
+      "redirect": false
     },
     "0.18.0.1": {
       "revid": 24475,
-      "ts": "2026-08-25T15:08:01Z"
+      "ts": "2026-08-25T15:08:01Z",
+      "redirect": false
     },
     "0.19.0": {
       "revid": 24620,
-      "ts": "2026-09-10T16:14:34Z"
+      "ts": "2026-09-10T16:14:34Z",
+      "redirect": false
     },
     "0.19.0.1": {
       "revid": 24695,
-      "ts": "2026-09-16T17:48:30Z"
+      "ts": "2026-09-16T17:48:30Z",
+      "redirect": false
     },
     "0.19.0.2": {
       "revid": 24696,
-      "ts": "2026-09-16T19:22:34Z"
+      "ts": "2026-09-16T19:22:34Z",
+      "redirect": false
     }
   }
 }

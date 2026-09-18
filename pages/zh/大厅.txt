@@ -2,7 +2,9 @@
 # revid 3462  2024-08-31T23:50:06Z  by JustinDing
 # 备注: /* 房间菜单 */
 # sha256 ab7628ea88c1a3e69f398baaafb997e1c5b0e5ad34c86a731a37ef931d2e08a4  bytes 4869
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:大厅 0.7.jpg|thumb|大厅]]'''大厅'''是生成玩家，接取[[合约]]的地方。玩家可以在大厅里叠喷漆罐、投篮和听音乐。 
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:大厅 0.7.jpg|thumb|大厅]]'''大厅'''是生成玩家，接取[[合约]]的地方。玩家可以在大厅里叠喷漆罐、投篮和听音乐。 
 
 == 结构 ==
 

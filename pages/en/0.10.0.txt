@@ -2,7 +2,9 @@
 # revid 23875  2026-06-28T21:35:05Z  by VVSlavik
 # 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
 # sha256 f7159f5b1cad05184ea09edc611cb2f9b5a60f9d484525586c5524c6584ba908  bytes 14684
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
  | image1=Phas eventide (2).png
  | official_name=Eventide
  | release_date=24 June 2024 (Official Partners early access)<br>25 June 2024 (public release)

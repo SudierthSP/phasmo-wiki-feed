@@ -1,7 +1,9 @@
 # 探险更新
 # revid 1862  2022-04-02T07:31:36Z  by Qsefthuopq
 # sha256 97c3a432213d8b6353c1b92fd144fbe9574d0601fafdf612c62324726575803b  bytes 5367
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | image1=
   | official_name=探险更新
   | release_date=2022年4月1日 

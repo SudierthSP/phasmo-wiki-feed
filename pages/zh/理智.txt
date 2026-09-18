@@ -2,7 +2,9 @@
 # revid 3885  2025-08-31T04:02:59Z  by DiamondBlock2323
 # 备注: /* 机制 */
 # sha256 0e3218fd26818315e89f70829d2a92e4da1efdb946af73eaf25286eb678fcf60  bytes 4754
-# 源: https://phasmophobia.fandom.com/zh/api.php'''理智'''是恐鬼症的一项核心机制，它决定很多游戏因素，玩家理智越低，灵异现象越可能发生。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+'''理智'''是恐鬼症的一项核心机制，它决定很多游戏因素，玩家理智越低，灵异现象越可能发生。
 
 ==机制==
 理智分为个人理智和所有玩家的平均理智。

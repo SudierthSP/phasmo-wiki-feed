@@ -2,7 +2,9 @@
 # revid 23903  2026-06-28T21:37:15Z  by VVSlavik
 # 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
 # sha256 8ef91c6514325979419bef9623d9421d08454bd6a3de61e98e886e001e363f31  bytes 1827
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
 | image1=0.16.0.jpg
 | official_name=Tanglewood Rework
 | release_date=2 March 2026 (Official Partners early access)<br>3 March 2026 (public release)

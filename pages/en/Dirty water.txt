@@ -2,4 +2,6 @@
 # revid 2346  2020-10-25T03:19:39Z  by Rman41
 # 备注: Rman41 moved page [[Dirty water]] to [[Dirty Water]]
 # sha256 07e45ef07bbdf5624db6bef1cb0a6768136bc57424aa46e43e622bdd31421148  bytes 25
-# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Dirty Water]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+#REDIRECT [[Dirty Water]]

@@ -2,7 +2,9 @@
 # revid 24460  2026-08-17T00:43:18Z  by Darkhooper
 # 备注: lightning strike cooldown on Heavy Rain
 # sha256 cf542383ab3dac6fdc23e4ed69b47ff094c037d2b5937014b8d40f252f852333  bytes 6235
-# 源: https://phasmophobia.fandom.com/api.php{{Quote
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Quote
  |Each time you start a contract, the location will have different weather, adding new layers of gameplay and making each contract feel unique. Change in temperature will make finding the ghost's location more difficult, rain or wind will impair your hearing, and a thick fog will reduce visibility.
  |Phasmophobia Nightmare Update Announcement
  |sourcelink=https://store.steampowered.com/news/app/739630/view/4624626247919023465

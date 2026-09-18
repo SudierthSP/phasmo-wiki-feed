@@ -2,7 +2,9 @@
 # revid 22987  2026-03-29T21:02:46Z  by Darkhooper
 # 备注: moved info to DOTS Evidence page
 # sha256 099f48afb66d8e0498ebccbce6fd6e011328b97b7c8593e27333dcc77da2f8b5  bytes 5953
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=DOTS090_T1.png
  | tier ii img=DOTS090_T2.png
  | tier iii img=DOTS090_T3.png

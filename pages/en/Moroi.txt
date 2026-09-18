@@ -2,7 +2,9 @@
 # revid 24626  2026-09-11T04:17:05Z  by Darkhooper
 # 备注: how moroi curses with sound recorder
 # sha256 f83c2ebd4013e467af6e6f2fcc305562da9e256270b02dc0008e08a3a6b1e465  bytes 10167
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Moroi Discovered.jpg
  |strength= *Hunting speeds depend directly on average team sanity
  |abiliti(es)=*Can curse players through the spirit box or the parabolic microphone, making them lose sanity faster

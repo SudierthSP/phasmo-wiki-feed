@@ -2,7 +2,9 @@
 # revid 24629  2026-09-11T16:27:49Z  by Darkhooper
 # 备注: Ghost events can now happen in High School's Lobby. The devs silently changed it without writing down in the patch notes. Video proof: https://www.twitch.tv/leona/clip/HorribleFaithfulCodM4xHeh-eL9jnA57ca_Eck1c
 # sha256 b3f46cb9627cb12adb8f63e519bf2c1b98b676d9ee67ad024aaea7a6a6092774  bytes 11866
-# 源: https://phasmophobia.fandom.com/api.phpA '''ghost event''' is a manifestation of the [[ghost]] in the mortal world other than a [[hunt]] and which does not directly interact with the environment (unlike an [[interaction]]). Ghost events vary from full on physical apparitions to mere balls of smoke and usually produce sound (hissing, moaning, chanting etc.) perceivable without the use of specialized [[equipment]].
+# 源: https://phasmophobia.fandom.com/api.php
+
+A '''ghost event''' is a manifestation of the [[ghost]] in the mortal world other than a [[hunt]] and which does not directly interact with the environment (unlike an [[interaction]]). Ghost events vary from full on physical apparitions to mere balls of smoke and usually produce sound (hissing, moaning, chanting etc.) perceivable without the use of specialized [[equipment]].
 
 ==Mechanics==
 ===Triggering ghost events===

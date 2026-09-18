@@ -1,7 +1,9 @@
 # 收容所
 # revid 3667  2024-12-22T04:43:14Z  by Skaijie
 # sha256 6a57221677c0b23b560b04c7e5e89264e18480dd3071c2df10fd8a6be64e54ac  bytes 5454
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Location
  |teamsize=4
  |mapsize=大
  |floors=2

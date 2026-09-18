@@ -1,7 +1,9 @@
 # 0.8.0
 # revid 2654  2022-12-19T13:58:46Z  by Qsefthuopq
 # sha256 9a40c2fdc0182822419e756b47d6b4e35b35bcbad59a6b49701afd88c3a77c6e  bytes 4869
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | image1=Tempest.png
   | image2=Sunrise.jpg
   | official_name=Tempest|风暴

@@ -2,7 +2,9 @@
 # revid 4010  2025-11-08T03:49:21Z  by CangMingSW
 # 备注: 拍照奖励重定向到媒体#拍照奖励
 # sha256 927645fea8b07bbea2bdf54ca1594d8c2b056d2264560f4e660fe792eb1b6834  bytes 5232
-# 源: https://phasmophobia.fandom.com/zh/api.php#REDIRECT [[媒体#照片证据]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+#REDIRECT [[媒体#照片证据]]
 
 由于版本更新。现在在游戏内可以捕获 5 张照片证据，5 条视频证据和 3 条声音证据，而不再是 10 张照片证据。此外，可拍照的项目和奖励也有所变动。详情请移步[[媒体]]。
 

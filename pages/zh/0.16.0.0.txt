@@ -1,7 +1,9 @@
 # 0.16.0.0
 # revid 4084  2026-03-04T11:51:10Z  by Qsefthuopq
 # sha256 6b53fd850d883b40f89b178e3bd48b29de0310c748c9edc839775b18103e7a5c  bytes 1288
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version|image1=|release_date=2026.3.4|previous_major_version=|previous_minor_version=|next_minor_version=|next_major_version=}}
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version|image1=|release_date=2026.3.4|previous_major_version=|previous_minor_version=|next_minor_version=|next_major_version=}}
 0.16.0.0是发布于2026.3.3的大型更新，本次更新完全重制6 Tanglewood Drive地图。
 ==新增内容==
 

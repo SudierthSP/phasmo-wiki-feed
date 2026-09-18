@@ -2,7 +2,9 @@
 # revid 4024  2025-11-12T09:05:21Z  by CangMingSW
 # 备注: 新挑战发现Nell's Diner
 # sha256 e110691008050356c62458ed0a8c49ef54c9f3bf26030cbb39bc1a4be7fc21f9  bytes 1790
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:EventBoard0.15.0.0.jpg|300px|thumb|right|血月活动期间的活动板。]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:EventBoard0.15.0.0.jpg|300px|thumb|right|血月活动期间的活动板。]]
 [[大厅]]中的'''活动板'''允许玩家查看各种挑战和活动中的进度，以及获取有关如何完成它们的信息。
 
 ==挑战==

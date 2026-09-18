@@ -1,7 +1,9 @@
 # 摄像系统
 # revid 4055  2025-12-21T21:07:45Z  by SunShowerSS
 # sha256 7957d9684859abf4f515ee58273ad1629863a262ad254d5ab6e08bc17d0e13a1  bytes 1751
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:20201113215648 1.jpg|thumb|褐石中学的摄像头。]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:20201113215648 1.jpg|thumb|褐石中学的摄像头。]]
 '''视频来源'''（亦称闭路电视和摄像系统）是每张[[地图]]都有的一项特性。玩家可以在车上用[[监控电脑|电脑]]查看地图的各个角落。摄像头在车内地图上显示为绿色。
 
 == 机制 ==

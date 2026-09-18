@@ -2,7 +2,9 @@
 # revid 2977  2023-08-14T10:22:26Z  by Qsefthuopq
 # 备注: 重定向页面至[[理智恢复]]
 # sha256 470a649f2fff638fbf0634e26aeade3fe100ce32bf6208855d935929b77f11ea  bytes 3143
-# 源: https://phasmophobia.fandom.com/zh/api.php#redirect [[理智恢复]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+#redirect [[理智恢复]]
 在[[0.9.0]]版本中，装备名从醒脑丸改为[[理智恢复]]。以下为旧版信息。
 {{Item Template
 |img=New Sanity Pills.jpg

@@ -2,7 +2,9 @@
 # revid 24623  2026-09-10T16:24:56Z  by Darkhooper
 # 备注: Unity 6 update now planned for November 2026
 # sha256 fbf41070c49019ce0fe997f4b8412f603ed0f91137adef60b2a4df261672daa5  bytes 3070
-# 源: https://phasmophobia.fandom.com/api.php[[File:PhasmophobiaRoadmap2026-2.jpg|thumb|The updated 2026 ''Phasmophobia'' roadmap.]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:PhasmophobiaRoadmap2026-2.jpg|thumb|The updated 2026 ''Phasmophobia'' roadmap.]]
 This page lists '''planned updates and features''' to the game that have been announced or shown in development previews.
 
 A more extensive list of planned updates and features can be found on the [https://trello.com/b/9QrnqQ1j/phasmophobia Trello page].

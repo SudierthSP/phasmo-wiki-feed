@@ -2,7 +2,9 @@
 # revid 21290  2025-06-29T21:51:11Z  by Darkhooper
 # 备注: you cannot have a Duplicate photo for this item
 # sha256 3e61cb55df40a30d26fde56e584a36f7df649f04a0797b8d2c55776ef7a481a4  bytes 3366
-# 源: https://phasmophobia.fandom.com/api.php{{Item_Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Item_Template
 |img=Cursed Mirror.jpg
 |imgcaption=
 |uses=

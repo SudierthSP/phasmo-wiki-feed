@@ -1,7 +1,9 @@
 # 万圣节更新
 # revid 3978  2025-10-17T13:20:27Z  by CangMingSW
 # sha256 27f9003cac36c8b5e85855b2ad65721cb48663eb967aa3081d8e4358f96155b7  bytes 6580
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | official_name=噩梦更新
   | release_date=2021年10月25日
   | previous_major_version=[[博览更新]]

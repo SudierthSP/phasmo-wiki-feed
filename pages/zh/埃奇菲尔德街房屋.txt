@@ -1,7 +1,9 @@
 # 埃奇菲尔德街房屋
 # revid 2840  2023-03-11T04:17:54Z  by Skaijie
 # sha256 216bfa915c558019d9dc5a1d47dd96ddfe578b0c6220cd178c0ecacea028805a  bytes 2955
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Location
 |img=Edgefield Street House.jpg
 |imgcaption=房屋外观
 |teamsize=2

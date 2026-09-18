@@ -2,7 +2,9 @@
 # revid 2718  2023-01-15T07:19:14Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version  | release_date=2023年1月15日  | previous_major_version=[[0.8.0]]  | previous_minor_version=[[0.8.0.7]]  | next_minor_version= }}'''0.8.0.8'''是发布于2023年1月15日的小型热修复更新。 ==改动== * 八音盒的放置方式与其他可放置装备一致 * 天启挑战的骷髅头贴纸仅在单人模式可见 * [[精神病院]]图片上现在贴有天启挑战贴纸 * 多人联机时现在能看到麦克风输入效果 ==修复…”
 # sha256 4a58765b8cd2446b724c7516d49367c3cb6c4be5dc139160461f09c8fee99f71  bytes 1374
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
  | release_date=2023年1月15日
  | previous_major_version=[[0.8.0]]
  | previous_minor_version=[[0.8.0.7]]

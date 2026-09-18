@@ -2,7 +2,9 @@
 # revid 23992  2026-06-28T21:44:03Z  by VVSlavik
 # 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
 # sha256 6bc22a2575145b44a2df625e9e571910646a4d6ce7022af3109758a99673f54a  bytes 13590
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
   | image1=0.9.png
   | official_name=Ascension
   | release_date=17 August 2023

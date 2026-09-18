@@ -1,7 +1,9 @@
 # 特殊事件和挑战
 # revid 3471  2024-10-29T05:08:29Z  by Qsefthuopq
 # sha256 78bf836a80d9c0ddef2ffd2b736f9005fa40fb1b3a9f3a984574f50f0706138d  bytes 6282
-# 源: https://phasmophobia.fandom.com/zh/api.php该页面列出了所有恐鬼症的'''特殊事件和挑战'''。一些事件可获得能在[[大厅]]展示的奖杯。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+该页面列出了所有恐鬼症的'''特殊事件和挑战'''。一些事件可获得能在[[大厅]]展示的奖杯。
 <!--
 
 {{待翻译}}

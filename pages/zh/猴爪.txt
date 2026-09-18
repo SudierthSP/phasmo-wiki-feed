@@ -2,7 +2,9 @@
 # revid 3825  2025-08-15T08:56:47Z  by CangMingSW
 # 备注: 猴爪愿望可用数量降低
 # sha256 0edf4ee613f21850cb0e018544cc50ff24606de2cd0714ccfa8e99c9a1db1669  bytes 3896
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Item_Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Item_Template
 |img=Monkey Paw.jpg
 |imgcaption=
 |uses=3-5 (根据难度而定)

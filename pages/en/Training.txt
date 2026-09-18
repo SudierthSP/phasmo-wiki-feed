@@ -2,7 +2,9 @@
 # revid 24285  2026-07-24T04:41:15Z  by VVSlavik
 # 备注: Added the corresponding Russian interlanguage link
 # sha256 04c6b00d2d1e3c83c6f3e7274575eefd5fe6694192b80741872436cd6a0e6b0e  bytes 8851
-# 源: https://phasmophobia.fandom.com/api.php[[ru:Обучение]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[ru:Обучение]]
 [[File:Training screen loading post 0.9.0.jpg|right|thumb|300px|Loading screen used during Training starting with ''Ascension'' update (0.9.0).]]
 
 '''Training''' is a tutorial mission available in ''Phasmophobia'', designed to help new players learn the essential aspects of the investigation process. It provides a basic overview of most in-game mechanics, including [[Hunt|hunts]] and how to utilize [[evidence]]-based [[equipment]] to gather evidence. 

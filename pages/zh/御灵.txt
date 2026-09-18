@@ -2,7 +2,9 @@
 # revid 4183  2026-07-08T10:30:45Z  by Fanta1109
 # 备注: /* 能力 */
 # sha256 4f151ba202460417ee8b1609701a007444d3221c537a6ad07610bc523ba847b6  bytes 4393
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=发现御灵.jpg
  |strength=*通過[[点阵投影仪]]時，只有攝影機能看見
  |weakness(es)=

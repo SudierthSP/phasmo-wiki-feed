@@ -1,7 +1,9 @@
 # 雾影
 # revid 3893  2025-09-13T00:54:06Z  by StarEMU700
 # sha256 46ebe5f669c8c3289abc361098b60f15a66ad84082392d4e43a6054651ea5c75  bytes 5347
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  | image1=发现雾影.jpg
  | strength= *獵殺中總是知道玩家位置
 *獵殺沒人附近時移速很快

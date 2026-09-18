@@ -1,7 +1,9 @@
 # 0.7.0.1
 # revid 2373  2022-09-28T07:13:26Z  by Qsefthuopq
 # sha256 9544ffca1b961cfce740cb3bc8186bc331eab10b7c822bd8704e3b7045824894  bytes 1291
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2022年9月28日
   | previous_major_version=[[0.7.0]]
 }}'''0.7.0.1'''是发布于2022年9月28日小型更新。本次更新暂时移除了重置存档按钮并修复漏洞。

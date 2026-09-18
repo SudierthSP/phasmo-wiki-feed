@@ -2,7 +2,9 @@
 # revid 4238  2026-08-16T12:39:35Z  by CangMingSW
 # 备注: 活动与策略
 # sha256 103ff3e72add55a0f7922fe94bf713c9bd378b0ba7620fbddab0c30e942b77ce  bytes 2795
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
 |image1=
 |strength=在合约开始阶段移动速度更快。
 |weakness(es)=当物品或道具被移动或投掷时，速度会变慢。

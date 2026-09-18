@@ -2,7 +2,9 @@
 # revid 24634  2026-09-12T16:43:48Z  by Darkhooper
 # 备注: dataminers found actual chances for fav room changes / added disallowed fav rooms on new Restricted maps
 # sha256 04af4ed30b0aa2fde5db9281d2cc795d41f791b445c799b4e757d95aa8bf93ba  bytes 7835
-# 源: https://phasmophobia.fandom.com/api.phpA '''ghost room''', officially referred to as the '''favourite room''', is a specific [[Map#Rooms|room]] in a [[map]] that the ghost will "prefer", or base specific actions upon. Those can be limited to whole rooms of a building but can also include hallways, enclosed areas, campsite tents, etc. [[Ghost]]s may leave their room while [[hunt]]ing or simply being more active due to a player's decreasing [[sanity]], but in general, their [[activity]] will be localised to the favourite room and its immediate surroundings.
+# 源: https://phasmophobia.fandom.com/api.php
+
+A '''ghost room''', officially referred to as the '''favourite room''', is a specific [[Map#Rooms|room]] in a [[map]] that the ghost will "prefer", or base specific actions upon. Those can be limited to whole rooms of a building but can also include hallways, enclosed areas, campsite tents, etc. [[Ghost]]s may leave their room while [[hunt]]ing or simply being more active due to a player's decreasing [[sanity]], but in general, their [[activity]] will be localised to the favourite room and its immediate surroundings.
 
 Finding the favourite room in itself is not an [[Objectives|objective]], but it simplifies the task of identifying the type of ghost correctly and allows players to record [[media]] more quickly. Depending on the [[difficulty]], the ghost can decide to change its favourite room during the [[contract]]. The favourite room plays a lesser role once the type of ghost has been identified correctly and will usually serve as a reference for player activity during hunts.
 

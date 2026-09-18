@@ -1,7 +1,9 @@
 # 运动传感器
 # revid 3282  2023-11-02T11:27:26Z  by Mirrdark
 # sha256 e1091eac50b034b815d72ff30e478ae3ec7f2165a5ae2bc645c280cb75ed26aa  bytes 4676
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=MotionSensor090_T1.png
  | tier ii img=MotionSensor090_T2.png
  | tier iii img=MotionSensor090_T3.png

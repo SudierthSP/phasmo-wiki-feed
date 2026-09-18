@@ -2,7 +2,9 @@
 # revid 24368  2026-07-31T23:45:27Z  by HollyleafYT
 # 备注: /* Mechanics */
 # sha256 78f5c360c479656c216e2a5c1ff77e72130aa4519ef6372e5d6c80172e8a084e  bytes 1798
-# 源: https://phasmophobia.fandom.com/api.phpThe '''ability''' state is a state that allows the [[ghost]] to perform further actions.
+# 源: https://phasmophobia.fandom.com/api.php
+
+The '''ability''' state is a state that allows the [[ghost]] to perform further actions.
 
 ==Mechanics==
 After the ghost enters this state through the [[activity]] check, it will be able to choose one of the following three actions:

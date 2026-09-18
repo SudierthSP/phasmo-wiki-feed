@@ -1,7 +1,9 @@
 # 死亡
 # revid 3522  2024-12-03T14:45:54Z  by Skaijie
 # sha256 28a1578d9ec66fe52e2c5abb0c813ed2d8ddc37750d29668e832ba1e6fc22ab1  bytes 4008
-# 源: https://phasmophobia.fandom.com/zh/api.php<!--[[File:Death fog.png|thumb|300px|死后视角，可以看到被一层灰雾笼罩着，并且所有的门处于不可见状态]]-->
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+<!--[[File:Death fog.png|thumb|300px|死后视角，可以看到被一层灰雾笼罩着，并且所有的门处于不可见状态]]-->
 [[File:Death atmosphere.png|链接=link=Special:FilePath/Death_atmosphere.png|替代=|缩略图|死后视角，可以看到被一层灰雾笼罩着，并且所有的门处于不可见状态]]
 在''恐鬼症''中'',''玩家可因为被鬼魂猎杀，抽取倒吊人[[塔罗牌]]，或透过[[猴爪]]许愿运气不好而死亡。
 

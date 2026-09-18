@@ -1,7 +1,9 @@
 # 赤鬼
 # revid 3714  2025-01-19T17:21:41Z  by Skaijie
 # sha256 bb53d0e44f36250b7cc5afc67020574bf53bef12bda9e9fbdb0fb6c4bcae1923  bytes 3533
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
   | image1=发现赤鬼.jpg
   | strength= *附近人多时它更加活跃
 *它现身时吸取更多理智

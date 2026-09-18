@@ -1,7 +1,9 @@
 # 闹鬼魔镜
 # revid 3983  2025-10-17T17:04:55Z  by CangMingSW
 # sha256 9f4e1f7991be3063863100bbd556f89831b4211c2cfa2a8ee2b7c740b1b37d7e  bytes 1568
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Item_Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Item_Template
  |img=Haunted mirror.png
  |imgcaption=
  |uses=

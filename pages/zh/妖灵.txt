@@ -2,4 +2,6 @@
 # revid 1477  2021-11-09T08:10:51Z  by Qsefthuopq
 # 备注: 重定向页面至[[女妖]]
 # sha256 fd6138e6107eb6a08ff78087003dcca05fe9f2711da557077bef721e05a354c4  bytes 20
-# 源: https://phasmophobia.fandom.com/zh/api.php#redirect [[女妖]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+#redirect [[女妖]]

@@ -2,4 +2,6 @@
 # revid 7558  2021-10-28T04:36:26Z  by Skaijie
 # 备注: moved back to 0.4.0, see talk page there for more info
 # sha256 132d874af5774e43123c93a5bb67f8ba764a17440687bb342649ce1302b33b4c  bytes 19
-# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[0.4.0]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+#REDIRECT [[0.4.0]]

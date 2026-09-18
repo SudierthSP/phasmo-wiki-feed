@@ -2,7 +2,9 @@
 # revid 21395  2025-07-04T17:34:08Z  by Darkhooper
 # 备注: tier 2 and 3 unlock levels
 # sha256 12855e1acb9cd18963bf465c1c5f380196b8c58b662f43ac61394c3cffdc14a2  bytes 6028
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=HeadGear090_T1.png
  | tier ii img=HeadGear090_T2.png
  | tier iii img=HeadGear090_T3.png

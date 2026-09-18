@@ -2,7 +2,9 @@
 # revid 3365  2024-01-10T06:17:03Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version   | release_date=2024年1月9日   | previous_major_version=[[0.9.0]]   | previous_minor_version=[[0.9.3.1]]   | next_minor_version= }}  ==新增内容== * 手册新增图像设置（目前VR不可用，使用需要显卡）： ** 视觉适应：模拟人眼适应光暗变化 ** 屏幕空间全局光照 (SSGI)：模拟光线反射；让光照和阴影看起来没那么黑。该选项可能会影响游戏性能，因此有三种质量设置。…”
 # sha256 faf8e690bf52517f529ff8ac31f8c14c13a9a24d17835f322fc4cc07d1466590  bytes 2236
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2024年1月9日
   | previous_major_version=[[0.9.0]]
   | previous_minor_version=[[0.9.3.1]]

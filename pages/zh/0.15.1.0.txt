@@ -1,7 +1,9 @@
 # 0.15.1.0
 # revid 4046  2025-12-17T03:14:40Z  by Qsefthuopq
 # sha256 1765f61e6feb84bff120c150d0243837b3ff5a952bdbdebf16bc57c3f1a64e25  bytes 2469
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version|image1=0.15.1.0.jpg|release_date=2025.12.16|previous_major_version=[[0.15.0]]|previous_minor_version=|next_minor_version=|next_major_version=}}'''0.15.1.0'''是发布于2025.12.16的小型更新<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-winters-jest-v01510 ''Phasmophobia - Winter’s Jest v0.15.1.0''. 16 December 2025.]</ref>本次更新复刻冬日戏谑活动，并新增三种鬼魂。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version|image1=0.15.1.0.jpg|release_date=2025.12.16|previous_major_version=[[0.15.0]]|previous_minor_version=|next_minor_version=|next_major_version=}}'''0.15.1.0'''是发布于2025.12.16的小型更新<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-winters-jest-v01510 ''Phasmophobia - Winter’s Jest v0.15.1.0''. 16 December 2025.]</ref>本次更新复刻冬日戏谑活动，并新增三种鬼魂。
 
 == 新增内容 ==
 

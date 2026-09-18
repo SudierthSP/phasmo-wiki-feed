@@ -1,7 +1,9 @@
 # 0.9.2.0
 # revid 3314  2023-11-21T00:27:10Z  by SABRECAR
 # sha256 0618835b1f463d1d8b38401278522fdefc4dde1e8449ed28d1a8e9a72723669e  bytes 2013
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2023年11月13日
   | previous_major_version=[[0.9.0]]
   | previous_minor_version=[[0.9.1.0]]

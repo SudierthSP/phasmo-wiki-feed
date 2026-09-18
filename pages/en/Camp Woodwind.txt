@@ -2,7 +2,9 @@
 # revid 24972  2026-09-18T17:50:28Z  by Darkhooper
 # 备注: changed page layout
 # sha256 564db64ad58222fec3c7f31e1cbbae654bf960b938f8dcc410d4b7f2eae4b5e2  bytes 7209
-# 源: https://phasmophobia.fandom.com/api.php{{Location
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Location
 |img=Camp woodwind.png
 |imgcaption=A view from the campfire.
 |mapsize=Small

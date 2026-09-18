@@ -2,7 +2,9 @@
 # revid 3413  2024-04-10T13:23:38Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version   | release_date=2024年4月10日   | previous_major_version=[[0.9.0]]   | previous_minor_version=[[0.9.6.0]]   | next_minor_version= }}  ==改动== * 移除复活节活动  ==参考资料== {{Reflist}}{{Versions}}”
 # sha256 2d0a063c734bb1ecb38e2641223fa6d963412503fa18107b69bd4dfdc317c890  bytes 232
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2024年4月10日
   | previous_major_version=[[0.9.0]]
   | previous_minor_version=[[0.9.6.0]]

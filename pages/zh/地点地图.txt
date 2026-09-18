@@ -2,7 +2,9 @@
 # revid 2922  2023-03-20T08:16:32Z  by 坤坤今天吃什么
 # 备注: 创建页面，内容为“[[File:Site map 0.6.png|thumb|这是6 Tanglewood Street House的地点地图, 且部署了运动传感器和声音检测器.]] '''地点地图 '''是 [[厢式货车]]中左上角的一块屏幕,  除了给出名称以及当前的 [[地图]], 还高亮显示了许多地图细节，例如:  * 当前玩家的位置, 以 [[理智显示屏]]中的颜色标出, 并以手电筒的照射方向显示他们当前面朝的方向 *  [[摄像系统|摄像头]]的位置 *…”
 # sha256 f4c25f80a795359b364f670927aeaeecb61c16829dd85c5e1247f22f469c94a7  bytes 1353
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:Site map 0.6.png|thumb|这是6 Tanglewood Street House的地点地图, 且部署了运动传感器和声音检测器.]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:Site map 0.6.png|thumb|这是6 Tanglewood Street House的地点地图, 且部署了运动传感器和声音检测器.]]
 '''地点地图 '''是 [[厢式货车]]中左上角的一块屏幕,  除了给出名称以及当前的 [[地图]], 还高亮显示了许多地图细节，例如:
 
 * 当前玩家的位置, 以 [[理智显示屏]]中的颜色标出, 并以手电筒的照射方向显示他们当前面朝的方向

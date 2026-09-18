@@ -2,7 +2,9 @@
 # revid 4266  2026-08-26T12:47:24Z  by Fanta1109
 # 备注: /* 历史 */
 # sha256 bf0fe75d826e49fa0d54aafaff8d1148741c5c3fe30e6a702e45ddc26f6d2de4  bytes 3243
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Location
  |mapsize=中型
  |unlocklevel=15
  |floors=10

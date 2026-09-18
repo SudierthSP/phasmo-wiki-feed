@@ -1,7 +1,9 @@
 # 暗影
 # revid 3724  2025-01-29T13:58:48Z  by Skaijie
 # sha256 b27877fa9e708c53aed7d5651bb143d4de6c145144bee3a099ad95b727da5569  bytes 4295
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=发现暗影.jpg
  | strength= *互動少，更難找鬼
  |abiliti(es)=*附近有人時很少進行互動。

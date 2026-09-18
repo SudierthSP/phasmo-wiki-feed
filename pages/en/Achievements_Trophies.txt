@@ -2,7 +2,9 @@
 # revid 24485  2026-08-25T17:53:54Z  by Darkhooper
 # 备注: 0.19
 # sha256 358a9bbaf3444157e7a3a376401ef8cdc323e63e907f1ff7df68a563b9a3c773  bytes 7129
-# 源: https://phasmophobia.fandom.com/api.php[[ru:Достижения]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[ru:Достижения]]
 [[File:AchievementsTrophies.png|thumb|Some trophies in the lobby's display cases.]]
 This page lists all ''Phasmophobia'' '''achievements''' or '''trophies''' that can be obtained.
 

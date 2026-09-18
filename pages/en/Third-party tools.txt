@@ -1,7 +1,9 @@
 # Third-party tools
 # revid 24693  2026-09-16T16:54:17Z  by VRDemon
 # sha256 87421a081e7c2776db28c05f0a52ab4fc1a6c597ea3254beec8e90c1734f2a06  bytes 7409
-# 源: https://phasmophobia.fandom.com/api.phpThis page provides a list of '''third-party tools''' you may use to aid your investigations in ''Phasmophobia''.
+# 源: https://phasmophobia.fandom.com/api.php
+
+This page provides a list of '''third-party tools''' you may use to aid your investigations in ''Phasmophobia''.
 
 Note that this list mainly consists of external websites or programs that do not modify the game files. Modding the game is against ''Phasmophobia''<nowiki/>'s EULA, and may corrupt your game files and ruin the experiences of other players.
 

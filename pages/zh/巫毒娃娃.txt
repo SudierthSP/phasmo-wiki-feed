@@ -1,7 +1,9 @@
 # 巫毒娃娃
 # revid 3985  2025-10-17T17:07:00Z  by CangMingSW
 # sha256 c810cd91989322f1e6bc5268ca9ab0c92f08561f0f1728a17f35716fc085b802  bytes 1393
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Item_Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Item_Template
 |img=Voodoo Doll New.jpg
 |imgcaption=有纽扣眼睛和缝合嘴唇的巫毒娃娃。
 |price=

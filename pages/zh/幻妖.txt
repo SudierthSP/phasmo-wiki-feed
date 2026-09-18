@@ -1,7 +1,9 @@
 # 幻妖
 # revid 4085  2026-03-07T08:46:12Z  by CangMingSW
 # sha256 80e66f09b9440fe8623083da7d76c5715b18b76c547c46f12caacff4c8d4e86e  bytes 7175
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
   |image1=发现幻妖.jpg
   |strength=*它與環境互動時很少留下痕跡
   |abiliti(es)=*留下的指紋會更快消失

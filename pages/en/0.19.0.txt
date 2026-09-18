@@ -2,7 +2,9 @@
 # revid 24620  2026-09-10T16:14:34Z  by Darkhooper
 # 备注: next version
 # sha256 eb88f355f5796174d54219b7244cecb4d889802cbaf3e38dd823aa78cc576c7b  bytes 13453
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
 | image1=0.19.0.png
 | official_name=Quality of Life Update Part 2
 | release_date=24 August 2026 (Official Partners early access)<br>25 August 2026 (public release)

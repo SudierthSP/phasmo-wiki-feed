@@ -1,7 +1,9 @@
 # 0.5.1.2
 # revid 1817  2022-01-20T15:16:03Z  by Qsefthuopq
 # sha256 fd94db05b0000b07ff727534d3598839b68e8bb989364af848c598405d0192b1  bytes 2415
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | official_name=诅咒之物更新补丁
   | release_date=2022年1月20日
   | previous_major_version=[[圣诞节更新]]

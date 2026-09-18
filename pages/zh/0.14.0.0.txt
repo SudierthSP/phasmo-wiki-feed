@@ -2,7 +2,9 @@
 # revid 3815  2025-08-12T12:41:11Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version  | image1=Grafton Rework.png  | official_name=格拉夫顿重制  | release_date=2025年8月12日  | previous_major_version=[[0.13.0]]  | previous_minor_version=[[0.13.1.1]]  | next_minor_version=  | next_major_version= }} '''0.14.0版本'''，即'''格拉夫顿重制'''更新，是于2025年8月12日发布的大型更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-grafton-rework-outnow ''格拉夫顿农舍重制 - 恐鬼症 v0.14…”
 # sha256 2a6dd298d7d5423790bf0a63f574a4272ffb71e00618c064a469971276cca45b  bytes 1960
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
  | image1=Grafton Rework.png
  | official_name=格拉夫顿重制
  | release_date=2025年8月12日

@@ -1,7 +1,9 @@
 # 亡魂
 # revid 3552  2024-12-14T03:28:00Z  by Skaijie
 # sha256 99f76f364bf1b6c352e66ef2fec3aaccc8b62b1a39be9a6e20c95303204f7b43  bytes 2365
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=发现亡魂.jpg
  |abiliti(es)=*獵殺時高速移動
  |weakness(es)=*找不到獵物時移動緩慢

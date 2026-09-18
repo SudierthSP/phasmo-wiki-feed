@@ -1,7 +1,9 @@
 # Incense
 # revid 23285  2026-04-30T20:14:29Z  by 405 M3th0d
 # sha256 8416caeca1de3bf1095e923b2afe4fa7a78f51680896c88aa84067a184ec8bab  bytes 11353
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=Incense090_T1.png
  | tier ii img=Incense090_T2.png
  | tier iii img=Incense090_T3.png

@@ -2,7 +2,9 @@
 # revid 3459  2024-08-16T17:05:18Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version  | release_date=2024年8月16日  | previous_major_version=[[0.10.0]]  | previous_minor_version=[[0.10.1.1]]  | next_minor_version=  | next_major_version= }}'''0.10.1.2'''是发布于2024年8月16日的热修复更新。<ref>[https://store.steampowered.com/news/app/739630/view/6692998230483065042 ''Photo Deletion and Vivox | Hotfix v0.10.1.2''. 15 August 2024 (On Steam).]</ref>本次更新修复了新语音系统的一些严重漏洞。 ==修…”
 # sha256 b0582c6ef0442334bc44ae0ce71ead96fc1a58cbf978c9f3e0c794491787803f  bytes 1009
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
  | release_date=2024年8月16日
  | previous_major_version=[[0.10.0]]
  | previous_minor_version=[[0.10.1.1]]

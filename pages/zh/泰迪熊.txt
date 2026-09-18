@@ -1,7 +1,9 @@
 # 泰迪熊
 # revid 2855  2023-03-18T04:46:27Z  by Skaijie
 # sha256 f5f0e7f59b930cad11cb0d478659ecc85e4c9a47d61cd4157e397f4053e82558  bytes 1031
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:Teddy_maple_yellowtent (1).png|thumb|right|upright=1.5|营地黄色帐篷里的泰迪熊。]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:Teddy_maple_yellowtent (1).png|thumb|right|upright=1.5|营地黄色帐篷里的泰迪熊。]]
 '''泰迪熊'''是一件鬼魂会与之互动的玩具。
 == 机制==
 [[File:Teddy Bear with head turned around Bleasdale Farmhouse.png|thumb|right|upright=1.5|头被鬼拧了180°的泰迪熊]]

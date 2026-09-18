@@ -2,7 +2,9 @@
 # revid 23889  2026-06-28T21:36:15Z  by VVSlavik
 # 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
 # sha256 5a04bdd87fc29cbba8ad7d4561c0f01de03dc7fd94fd730a84e6735c0b2d8740  bytes 2161
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
 | image1=Cursed Hollow.png
 | release_date=17 April 2025
 | official_name=Cursed Hollow

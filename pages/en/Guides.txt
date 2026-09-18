@@ -2,7 +2,9 @@
 # revid 21309  2025-06-30T20:31:30Z  by Darkhooper
 # 备注: Removed links to Guides/Earning monetary rewards and Controls
 # sha256 647a9a90376f235ad022457aeaf54b90a54a8e6f97396faee9872758e8faf5a3  bytes 352
-# 源: https://phasmophobia.fandom.com/api.phpThis page lists the '''guides''' for various aspects of ''Phasmophobia''.
+# 源: https://phasmophobia.fandom.com/api.php
+
+This page lists the '''guides''' for various aspects of ''Phasmophobia''.
 
 ==Guides==
 *[[Guides/Common misconceptions|Common misconceptions]]

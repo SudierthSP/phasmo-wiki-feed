@@ -2,7 +2,9 @@
 # revid 3958  2025-10-11T11:41:33Z  by Black114514
 # 备注: /* 对策 */
 # sha256 b23dcc37758d5776c0523ac85297b3d30452fd7b623abfd8ab69f5d72f206623  bytes 5030
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=发现刹耶.jpg
  |strength=*有人首次進入鬼房後，它會變得活躍、警戒和敏捷。
  |weakness(es)=*它會隨著待在鬼房的時間愈長而變弱，行動遲緩且攻擊性減弱

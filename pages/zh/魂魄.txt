@@ -1,7 +1,9 @@
 # 魂魄
 # revid 4217  2026-07-08T17:58:42Z  by InspiringCobra282
 # sha256 8e49947a517021e02e41e4917ebd7adbdfb89f913797ae7b1c308d168aed0895  bytes 3610
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=发现魂魄.jpg
  |strength=無
  |weakness(es)=在魂魄附近點燃聖木，會在一段時間內阻止它的攻擊

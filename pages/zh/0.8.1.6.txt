@@ -2,7 +2,9 @@
 # revid 2963  2023-05-19T15:16:10Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version   | release_date=2023年4月12日   | previous_major_version=[[0.8.0]]   | previous_minor_version=[[0.8.1.5]]   | next_minor_version=[[0.8.1.7]]   | next_major_version=[[0.9.0]] }}'''0.8.1.6'''是发布于2023年4月12日的小型更新。本次更新主要移除2023年复活节事件。  == 改动 == * 移除2023年复活节事件。 == 参考资料 == {{Reflist}} {{Versions}} [[Category:开发]]”
 # sha256 646d88b4750724ff342cd2c1a6483ff00fa93cdff32013af0ffed4c37dd9d42d  bytes 418
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2023年4月12日
   | previous_major_version=[[0.8.0]]
   | previous_minor_version=[[0.8.1.5]]

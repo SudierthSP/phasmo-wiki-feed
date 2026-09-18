@@ -2,7 +2,9 @@
 # revid 4182  2026-07-08T09:14:01Z  by Fanta1109
 # 备注: /* 能力 */
 # sha256 ee64b47caa7e24849d948b0b9480856e6ef7fc7267d9997658c86614f0ff5c23  bytes 3549
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
   |image1=发现雷魂.jpg
   |strength=*在開啟的電子設備附近會加速
   |weakness(es)=*干擾電子設備的範圍更大

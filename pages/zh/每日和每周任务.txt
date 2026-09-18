@@ -1,7 +1,9 @@
 # 每日和每周任务
 # revid 3693  2025-01-06T09:32:46Z  by Skaijie
 # sha256 cdd2610558622b30332012a6aeac6873c4e9fedee5964bfb7759f55ff200ce9e  bytes 2920
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:可选挑战.jpg|300px|thumb|right|可完成的一些挑战]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:可选挑战.jpg|300px|thumb|right|可完成的一些挑战]]
 '''每日挑战'''和'''每周挑战'''提供额外的奖励。每位玩家的每日每周挑战都一样。
 
 == 运用方式 ==

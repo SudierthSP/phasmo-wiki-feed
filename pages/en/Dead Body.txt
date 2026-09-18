@@ -2,7 +2,9 @@
 # revid 24246  2026-07-24T04:35:08Z  by VVSlavik
 # 备注: Added the corresponding Russian interlanguage link
 # sha256 a5e5949286cb90edd65a77825fea9354fe9d6612312a4a8d73fc11c7c14e5803  bytes 1358
-# 源: https://phasmophobia.fandom.com/api.php[[ru:Труп]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[ru:Труп]]
 [[File:DeadBodyPrison.png|300px|thumb|A dead body in Admin Hallway on Prison]]
 A '''dead body''' is the corpse of a player that was [[death|killed]] by the [[ghost]] during a [[hunt]], drew ''The Hanged Man'' [[Tarot Cards|tarot card]] or died from the negative effect of the revival wish from the [[Monkey Paw|monkey paw]]. It will remain at that player's place of death until the end of the game or their resurrection.
 

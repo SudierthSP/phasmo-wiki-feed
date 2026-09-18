@@ -2,7 +2,9 @@
 # revid 24205  2026-07-21T21:21:11Z  by Darkhooper
 # 备注: Nintendo Switch 2 release date
 # sha256 16bbad213b52d7ab74a43f213a494b11f941b1c8a8b199a2a64510dc285d3039  bytes 5007
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox VG
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox VG
  |image=Phasmophobia_Logo.png
  |caption=
  |developer=[[Kinetic Games]]

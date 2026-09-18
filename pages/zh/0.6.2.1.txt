@@ -2,7 +2,9 @@
 # revid 2129  2022-06-17T11:54:18Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version   | release_date=2022年6月15日   | previous_major_version=[[0.6.0]]   | previous_minor_version=[[0.6.2.0]]   | next_major_version=   | next_minor_version= }} '''0.6.2.1'''是发布于2022年6月15日的小型更新<ref>[https://store.steampowered.com/news/app/739630/view/3339996555242263149 卡车重制 | 热修复 v0.6.2.1]</ref>本次更新更改了鬼魂的脚步声音效并修复了一些漏洞。  == 新增内容 == === 鬼魂=== * 和…”
 # sha256 de6baf6955b67fc408a085a3ee46493f8d6d941b2e5cf2b92edd862f7dc2a916  bytes 1242
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2022年6月15日
   | previous_major_version=[[0.6.0]]
   | previous_minor_version=[[0.6.2.0]]

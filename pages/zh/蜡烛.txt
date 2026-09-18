@@ -2,7 +2,9 @@
 # revid 2975  2023-08-14T10:20:11Z  by Qsefthuopq
 # 备注: 重定向页面至[[火光]]
 # sha256 848da73209d081fc6d33063b642fd045a373f86e61b31dd381c45bdd3ec5a448  bytes 3401
-# 源: https://phasmophobia.fandom.com/zh/api.php#redirect [[火光]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+#redirect [[火光]]
 在[[0.9.0]]版本中，改名为火光，以下为旧版信息。
 
 {{Item Template

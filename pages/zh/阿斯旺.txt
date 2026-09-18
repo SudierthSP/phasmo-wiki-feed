@@ -2,7 +2,9 @@
 # revid 4230  2026-07-27T17:41:09Z  by MatoiMnai
 # 备注: 修改了一处语法错误
 # sha256 6e80386481037191daddff5c7b05e9051fc2627fc4b7166ecb160fef6415671b  bytes 2930
-# 源: https://phasmophobia.fandom.com/zh/api.php<div style="display:none;">-{A|zh-tw:阿斯旺; zh-cn:阿斯旺;}-</div>
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+<div style="display:none;">-{A|zh-tw:阿斯旺; zh-cn:阿斯旺;}-</div>
 {{Ghost
 |image1=
  |strength=

@@ -1,7 +1,9 @@
 # 奥班博
 # revid 4097  2026-03-15T07:05:02Z  by ZXH114
 # sha256 9099735122f767be3acd6a5e2de421b313bd31339d6961af76a995263e11b4e1  bytes 3740
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=
  |strength=*狂暴时，奥班博会更快开始猎杀。
  |weakness(es)=*平静时，启动猎杀的速度较慢，且更容易被发现。

@@ -2,7 +2,9 @@
 # revid 24883  2026-09-18T16:46:03Z  by Darkhooper
 # 备注: changed page layout
 # sha256 9e98c8249395f84e316c8fcba2de5d2aaaf1035ef1a7871781cdc75230813176  bytes 6203
-# 源: https://phasmophobia.fandom.com/api.php{{Location
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Location
 |img=Ridgeview living room.png
 |imgcaption=A view from the living room.
 |mapsize=Small

@@ -2,7 +2,9 @@
 # revid 3785  2025-06-28T12:07:42Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version | release_date=2025年6月27日 | previous_major_version=[[0.13.0]] | previous_minor_version= | next_minor_version= | next_major_version= }}'''0.13.0.1'''是发布于2025年6月27日的小型更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-hotfix-v0131 ''Phasmophobia Hotfix v0.13.0.1''. 27 June 2025.]</ref>  ==修复漏洞== *修复阻止PlayStation玩家选择亚洲服务器的漏洞 *修复拟魂模仿御灵时给出点阵证…”
 # sha256 c0373670ccbf03dcaa088158819c17d68048b88b1cb10463d058610a2a0a82a2  bytes 785
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
 | release_date=2025年6月27日
 | previous_major_version=[[0.13.0]]
 | previous_minor_version=

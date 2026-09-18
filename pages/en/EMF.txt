@@ -2,7 +2,9 @@
 # revid 24243  2026-07-24T04:34:38Z  by VVSlavik
 # 备注: Added the corresponding Russian interlanguage link
 # sha256 0523671af392a638dcfb5e5d51388614b0f2d46e655d10890014a9cf9f6f7826  bytes 3946
-# 源: https://phasmophobia.fandom.com/api.phpAn Electro-Magnetic Field (short: EMF) is emitted whenever the [[ghost]] interacts with its environment.
+# 源: https://phasmophobia.fandom.com/api.php
+
+An Electro-Magnetic Field (short: EMF) is emitted whenever the [[ghost]] interacts with its environment.
 
 EMF can be read by the [[EMF Reader]], allowing players to deduce the ghost's activities from the EMF Level indicated by the reader.
 

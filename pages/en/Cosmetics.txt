@@ -2,7 +2,9 @@
 # revid 24754  2026-09-17T15:31:54Z  by Darkhooper
 # 备注: added 6th anniversary charm
 # sha256 0d392fd76665aa6182c7a9e11a82ede013564e99eb532075d80889f6fffa45ca  bytes 16882
-# 源: https://phasmophobia.fandom.com/api.php'''Cosmetics''' allow players to customize their [[Player#Player models|character model]].
+# 源: https://phasmophobia.fandom.com/api.php
+
+'''Cosmetics''' allow players to customize their [[Player#Player models|character model]].
 
 Cosmetics can be purchased with [[money]] and equipped from the [[Shop]]'s Customization tab. They serve no actual gameplay purpose.
 

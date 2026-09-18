@@ -2,7 +2,9 @@
 # revid 4000  2025-11-01T11:48:44Z  by SABRECAR
 # 备注: 新增跨語言維基連結
 # sha256 5933f15e19fa00de74a90e4bc3671ec39b1330fbed02fece671babe7afcec578  bytes 5188
-# 源: https://phasmophobia.fandom.com/zh/api.php'''目标'''是调查的主要任务。每次调查需要完成 4 个目标。一些目标无法用初始装备完成。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+'''目标'''是调查的主要任务。每次调查需要完成 4 个目标。一些目标无法用初始装备完成。
 
 目标会写在[[任务板]]上和[[手册]]里。
 

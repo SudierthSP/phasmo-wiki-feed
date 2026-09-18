@@ -1,7 +1,9 @@
 # 刺骨寒温
 # revid 3761  2025-06-22T15:20:55Z  by SABRECAR
 # sha256 4d6232d932953d96f38b06d8361cda2d81c993a8bd568659f5ba98c65be61899  bytes 1578
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Evidence_Infobox
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Evidence_Infobox
  |detected_by=[[File:Thermometer_Render.png|24x24px|link=温度计]] [[温度计]]
  |image1=Thermometer_Render.png
 }}“'''所有的鬼魂都会让房间变冷，有些鬼魂甚至会让温度骤降。'''”

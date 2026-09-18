@@ -2,7 +2,9 @@
 # revid 3850  2025-08-17T05:14:43Z  by CangMingSW
 # 备注: 0.11.0添加血月天气
 # sha256 8851b4a685e413970e6abd427ed8cc7b49ca2318a38c66ec3ef88c14ba2ab2fc  bytes 5591
-# 源: https://phasmophobia.fandom.com/zh/api.php= 天氣 =
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+= 天氣 =
 <blockquote>''「每次你開始簽約時，地點都會有不同的天氣，增加新的遊戲層次，讓每份合約都感覺獨特。溫度的變化會使尋找鬼魂的位置變得更加困難，雨                            或風會損害你的聽力，濃霧會降低能見度。」''</blockquote><blockquote>—恐鬼症噩夢更新公告[https://store.steampowered.com/news/app/739630/view/4624626247919023465 <sup><nowiki>[src]</nowiki></sup>]</blockquote>'''天氣'''是一種旨在增強遊戲玩法並影響地圖內溫度的機制。
 
 == 机制 ==

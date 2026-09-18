@@ -1,7 +1,9 @@
 # 拟魂
 # revid 4072  2026-03-03T15:06:45Z  by CangMingSW
 # sha256 9515fa4eca3936b821078b09ff4014381340c8133770d0ef11d3989614ae3897  bytes 5180
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  | image1=发现拟魂.jpg
  | strength= *模仿其它鬼
  | weakness(es)= *可看見靈球

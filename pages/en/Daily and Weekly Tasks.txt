@@ -2,7 +2,9 @@
 # revid 24005  2026-06-28T21:45:17Z  by VVSlavik
 # 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
 # sha256 e1aaca8f517cf8fe0bdd9f6388216cb253cf8556293f8f3669b955024f072d79  bytes 5370
-# 源: https://phasmophobia.fandom.com/api.php[[File:Tasks 0.8.1.png|300px|thumb|right|An example of the tasks that can be completed.]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:Tasks 0.8.1.png|300px|thumb|right|An example of the tasks that can be completed.]]
 '''Daily Tasks''' and '''Weekly Tasks''' are additional goals that provide bonus income when completed. Most tasks on a given day or week are the same for every player. Four daily and weekly tasks each are given at a time.
 
 ==Progress==

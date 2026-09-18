@@ -1,7 +1,9 @@
 # 枫林营地
 # revid 3358  2023-12-02T11:22:06Z  by AmaneRin2125
 # sha256 5fb83f2e6339243b1e02a28846501da3f19a2df1686adfdb1e0df5c4f974492f  bytes 7121
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Location
  |mapsize=中型
  |floors=3
  |rooms=28

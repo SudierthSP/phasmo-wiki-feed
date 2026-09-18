@@ -2,4 +2,6 @@
 # revid 1687  2021-12-18T07:26:52Z  by Qsefthuopq
 # 备注: 重定向页面至[[坦格活德街房屋]]
 # sha256 b6d5c1e7db9d9bb2b2ab05bf55a0be79f29c04f5f2b7e4c59839d14f4d5fa7c0  bytes 35
-# 源: https://phasmophobia.fandom.com/zh/api.php#redirect [[坦格活德街房屋]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+#redirect [[坦格活德街房屋]]

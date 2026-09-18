@@ -1,7 +1,9 @@
 # 身份卡
 # revid 3174  2023-09-02T03:46:07Z  by Skaijie
 # sha256 9df1b6d99c16c914068ce68e833c72b8a036e818354279309a7d17a21559ef40  bytes 1433
-# 源: https://phasmophobia.fandom.com/zh/api.php==特征==
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+==特征==
 身份卡显示：
 * 玩家名称
 * 资金

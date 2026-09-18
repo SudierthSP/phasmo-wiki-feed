@@ -2,7 +2,9 @@
 # revid 24857  2026-09-18T04:09:36Z  by Darkhooper
 # 备注: more rooms allowing short roams to another floor
 # sha256 07d8b8858c18b50fd5fd6e56936803e1aa28c5a520ba9ecdd907a05c93507df7  bytes 15381
-# 源: https://phasmophobia.fandom.com/api.php{{Location
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Location
 |img=PointHope Top.png
 |imgcaption=A view from the top of the lighthouse.
 |mapsize=Medium

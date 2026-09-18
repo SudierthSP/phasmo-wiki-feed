@@ -1,7 +1,9 @@
 # 幻影
 # revid 4070  2026-02-23T13:12:01Z  by CangMingSW
 # sha256 f1ab1b620843a6dd60464bf274c2179e57ee0a6b3e6bb5be1a119fdde3187f22  bytes 4460
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
   | image1=发现幻影.jpg
   | strength= *注視它會降低理智
 *獵殺時隱形更久

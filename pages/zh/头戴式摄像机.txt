@@ -2,7 +2,9 @@
 # revid 3033  2023-08-17T17:03:37Z  by Qsefthuopq
 # 备注: 重定向页面至[[头戴设备]]
 # sha256 aa8227aa33efbb3095a5899b3d175e382d608f0e615871bb366156e87004493e  bytes 1800
-# 源: https://phasmophobia.fandom.com/zh/api.php#redirect [[头戴设备]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+#redirect [[头戴设备]]
 在[[0.9.0]]版本中，头戴式摄像机并入[[头戴设备]]。
 
 '''头戴式摄像机'''是恐鬼症里的一件[[装备]]。作为便携的[[摄像机]]，它可用于查看队友视角和[[灵球]]。

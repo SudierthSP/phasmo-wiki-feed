@@ -2,7 +2,9 @@
 # revid 2947  2023-04-07T14:58:12Z  by 坤坤今天吃什么
 # 备注: 创建页面，内容为“{{Location  |img=坦格活德外.jpg  |imgcaption=一栋白色单层住宅的前廊。  |teamsize=1  |mapsize=小型  |floors=2  |rooms=10 (1F) 1 (B)  |exits=1  |faucets=3  |videofeeds=1  |keys=正门钥匙、车钥匙 }}{{Quote  |噩梦开始的地方，我们的第一批超自然现象的报告来自这里。这间房很小，但它埋藏的秘密比我们肉眼能看到的要多。  |—加载界面描述 }}'''坦格伍德街房屋'''（6 Tanglewood Drive）…”
 # sha256 9e4822f556bd59507a0a692801ce9c7b6db123c7e69321a00852e82f5c03a6f9  bytes 3299
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Location
  |img=坦格活德外.jpg
  |imgcaption=一栋白色单层住宅的前廊。
  |teamsize=1

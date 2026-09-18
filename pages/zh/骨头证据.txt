@@ -1,7 +1,9 @@
 # 骨头证据
 # revid 3984  2025-10-17T17:06:31Z  by CangMingSW
 # sha256 6e4df8b7b0c4ca199283614323a17734ba429a9706e2a93fb04de28061c60e4d  bytes 2733
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Item Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Item Template
  |img=Long bone tanglewood livingroom.png
  |imgcaption=地毯里的骨头证据
 }}骨头是可在所有地图找到的收藏品。

@@ -1,7 +1,9 @@
 # Sanity Monitor
 # revid 23416  2026-05-06T21:17:46Z  by Darkhooper
 # sha256 88912ac5379a8dfe928aabffb56c82bcbd4a771f6584e873b1205ba0b9060f7a  bytes 1395
-# 源: https://phasmophobia.fandom.com/api.php[[File:Sanity monitor 0.6.png|thumb|The monitor displaying 4 players with various sanity values. Usernames redacted.]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:Sanity monitor 0.6.png|thumb|The monitor displaying 4 players with various sanity values. Usernames redacted.]]
 
 The '''Sanity Monitor''' is a screen in the [[truck]] labelled "Team Sanity". It reads both the [[sanity]] of individual [[player]]s as well as the average sanity of the team, both expressed as a percentage. The Sanity Monitor is not perfectly accurate, as it will oscillate by ±2% per player in order for sanity to be perceived as more organic. Despite this inherent inaccuracy, it is still critical to gleaming player sanity levels, and by that extent seeing how aggressive the [[ghost]] will be; as average sanity decreases, [[hunt]]s will occur with increasing frequency.
 

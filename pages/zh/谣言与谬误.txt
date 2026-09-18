@@ -1,7 +1,9 @@
 # 谣言与谬误
 # revid 3964  2025-10-12T08:10:53Z  by Mirrdark
 # sha256 1281bf78142cb9425c2c444937226bb61bc35e3e2d38c4e6c2162a2a75983794  bytes 4043
-# 源: https://phasmophobia.fandom.com/zh/api.php本页面收集了网上常见的谣言与谬误。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+本页面收集了网上常见的谣言与谬误。
 如果你有更多相关问题，可在评论区提出。
 
 ==猎杀==

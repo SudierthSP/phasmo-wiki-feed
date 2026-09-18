@@ -1,7 +1,9 @@
 # 恐鬼症 Wiki
 # revid 3908  2025-09-23T16:52:03Z  by Qsefthuopq
 # sha256 1a345077b5ede73df1819bdc00f1d4959ed2599b0a0e338977b0f86f8f27485b  bytes 3423
-# 源: https://phasmophobia.fandom.com/zh/api.php<mainpage-leftcolumn-start /><mainpage-endcolumn /><mainpage-leftcolumn-start /><mainpage-endcolumn /><center><span style="font-family:October Crow; font-size:75px"><small>欢迎来到恐鬼症中文维基！</small></span></center>本维基翻译并改编自[https://phasmophobia.fandom.com/wiki/Main_Page 英文Phasmophobia WIKI]{{Header|维基}} 本维基介绍的是游戏 《'''[[恐鬼症|恐鬼症]]'''》。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+<mainpage-leftcolumn-start /><mainpage-endcolumn /><mainpage-leftcolumn-start /><mainpage-endcolumn /><center><span style="font-family:October Crow; font-size:75px"><small>欢迎来到恐鬼症中文维基！</small></span></center>本维基翻译并改编自[https://phasmophobia.fandom.com/wiki/Main_Page 英文Phasmophobia WIKI]{{Header|维基}} 本维基介绍的是游戏 《'''[[恐鬼症|恐鬼症]]'''》。
 在开始编辑之前，请先阅读[https://community.fandom.com/zh/wiki/%E7%A4%BE%E5%8C%BA%E4%B8%AD%E5%BF%83:%E7%A4%BE%E5%8C%BA%E4%BD%BF%E7%94%A8%E5%85%AC%E7%BA%A6 社区使用公约]。
 
 待翻译页面点击[[Special:链入页面/Template:待翻译|此处]]查看。

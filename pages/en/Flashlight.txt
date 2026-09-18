@@ -1,7 +1,9 @@
 # Flashlight
 # revid 23423  2026-05-10T02:34:54Z  by Darkhooper
 # sha256 730f8eac52b2895627b39a68a0e2940413097821ee4769fd4b2cb6711ddf2627  bytes 3332
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=Flash090_T1.png
  | tier ii img=Flash090_T2.png
  | tier iii img=Flash090_T3.png

@@ -2,7 +2,9 @@
 # revid 2778  2023-02-26T04:03:52Z  by Skaijie
 # 备注: 重定向页面至[[互动]]
 # sha256 e0df031a3eb3bec2592c94110ea75ed6739f6fe23cd30bf3653765d047fd495c  bytes 1564
-# 源: https://phasmophobia.fandom.com/zh/api.php#REDIRECT [[互动]]<!--'''鬼魂活动'''包括闲置时的互动或直接回应玩家。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+#REDIRECT [[互动]]<!--'''鬼魂活动'''包括闲置时的互动或直接回应玩家。
 
 鬼魂活动与[[猎杀]]无关，除了[[女妖]]。鬼魂活动会释放出[[EMF]]。不过EMF 5级并不总是意味着危险。
 

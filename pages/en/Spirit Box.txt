@@ -1,7 +1,9 @@
 # Spirit Box
 # revid 24504  2026-08-26T00:34:22Z  by Darkhooper
 # sha256 b6d6c3c35b561b7d56fb7e945e95422a863e2fd654a978eb54cf2935bdb89972  bytes 5993
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=SpiritBox090_T1.png
  | tier ii img=SpiritBox090_T2.png
  | tier iii img=SpiritBox090_T3.png

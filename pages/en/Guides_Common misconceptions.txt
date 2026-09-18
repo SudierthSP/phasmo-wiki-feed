@@ -2,7 +2,9 @@
 # revid 23863  2026-06-22T15:45:40Z  by Darkhooper
 # 备注: The Kormos cannot see through walls.
 # sha256 c3fe4dcf3cc0f538c62b99c328e6d5ecf890de826b77d79a47589a5c8ef5d529  bytes 21485
-# 源: https://phasmophobia.fandom.com/api.phpThis guide dispels '''common misconceptions''' and myths about game mechanics in ''Phasmophobia''.
+# 源: https://phasmophobia.fandom.com/api.php
+
+This guide dispels '''common misconceptions''' and myths about game mechanics in ''Phasmophobia''.
 
 ==Investigation==
 ===Being in a lit room will always stop passive sanity drain===

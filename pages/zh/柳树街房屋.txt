@@ -1,7 +1,9 @@
 # 柳树街房屋
 # revid 2877  2023-03-18T05:45:24Z  by Skaijie
 # sha256 8c8f8e9f25156df7f251bfad1611dc8bc660aec7f627a07d6ee41f8e13535a07  bytes 3902
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Location
  |img=Willow-front-shot.png
  |imgcaption=前廊的黄砖平房
  |teamsize=2

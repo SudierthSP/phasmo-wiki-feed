@@ -2,7 +2,9 @@
 # revid 24039  2026-07-15T19:31:53Z  by Darkhooper
 # 备注: voodoo doll exception
 # sha256 7c918199b71b7fb6c3894f5d27e41aadc891d11ebb134b83405d851e7d034328  bytes 2588
-# 源: https://phasmophobia.fandom.com/api.php'''Props''' are mainly useless objects scattered around the [[map]]. Both [[player]]s and [[ghost]]s can interact with them, with the latter also providing [[evidence]] or facilitating investigation.
+# 源: https://phasmophobia.fandom.com/api.php
+
+'''Props''' are mainly useless objects scattered around the [[map]]. Both [[player]]s and [[ghost]]s can interact with them, with the latter also providing [[evidence]] or facilitating investigation.
 
 ==Types of props==
 This is a (non-exhaustive) list of props that the ghost can interact with:

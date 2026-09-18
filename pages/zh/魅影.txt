@@ -1,7 +1,9 @@
 # 魅影
 # revid 3554  2024-12-14T04:04:06Z  by Skaijie
 # sha256 0bc1a3375477b6a72b6d043c6d0d2858c2bcd5b33b4b4e8d8f8591ba6a06025e  bytes 4324
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
   | image1=发现魅影.jpg
   | abiliti(es)= *偶爾傳送到玩家附近
   | weakness(es)= *害怕踩盐

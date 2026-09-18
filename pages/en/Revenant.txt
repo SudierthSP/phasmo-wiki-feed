@@ -1,7 +1,9 @@
 # Revenant
 # revid 23424  2026-05-10T20:27:26Z  by Darkhooper
 # sha256 dd30f6673dac9084588945edc8208a3ce93031cd45694dc9948b895c43022ed0  bytes 4973
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Revenant Discovered.jpg
  |strength=*Significant speed increase when chasing a player during hunts
  |weakness(es)=*Roaming speed remains low or drops over time when no player is detected

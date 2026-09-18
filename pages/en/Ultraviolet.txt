@@ -2,7 +2,9 @@
 # revid 24411  2026-08-02T22:15:24Z  by Darkhooper
 # 备注: Gallu footprints
 # sha256 9aa0dad1cac1d2e89ecb1b5f0f673ad270a652243f48ead33076d671b599d888  bytes 8449
-# 源: https://phasmophobia.fandom.com/api.php{{Evidence_Infobox
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Evidence_Infobox
  |image1=Fingerprints_3.png
  |detected_by=[[File:UVLight_Render.png|24x24px|link=UV Light]] [[UV Light]]
 }}

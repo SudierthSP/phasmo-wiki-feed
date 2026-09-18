@@ -1,7 +1,9 @@
 # 互动
 # revid 3689  2025-01-05T16:27:56Z  by Skaijie
 # sha256 79fa8ba3172563326fb4d6ae7e605bc6577ffe6036dc1b19b779b376ece7e2ff  bytes 3882
-# 源: https://phasmophobia.fandom.com/zh/api.php'''互动'''是[[鬼魂|鬼]]的活动手段. 虽然它本身不是[[证据]],但也能帮助玩家找到证据、获得[[拍照奖励]]。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+'''互动'''是[[鬼魂|鬼]]的活动手段. 虽然它本身不是[[证据]],但也能帮助玩家找到证据、获得[[拍照奖励]]。
 
 [[鬼魂事件]]和[[猎杀]]不视为互动, 但是鬼能在期间互动。
 

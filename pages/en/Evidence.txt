@@ -2,7 +2,9 @@
 # revid 24466  2026-08-20T08:57:24Z  by Zombeebear
 # 备注: /* Trivia */
 # sha256 7612361bb8406ec3c77137da07b0f53594a980d0528b31e2a23bf8fb7c0ea28e  bytes 5620
-# 源: https://phasmophobia.fandom.com/api.php'''Evidence''' is used to determine which [[ghost]] is haunting the [[map|location]]. Each ghost has a unique combination of three pieces of evidence that determines which ghost is present. Each player can record pieces of evidence that has been uncovered in the [[Journal]] to thin down the possible ghosts, and determine the ghost once all three piece of evidence are collected. 
+# 源: https://phasmophobia.fandom.com/api.php
+
+'''Evidence''' is used to determine which [[ghost]] is haunting the [[map|location]]. Each ghost has a unique combination of three pieces of evidence that determines which ghost is present. Each player can record pieces of evidence that has been uncovered in the [[Journal]] to thin down the possible ghosts, and determine the ghost once all three piece of evidence are collected. 
 
 ==Types of evidence==
 There are currently seven unique pieces of evidence in the game that can be used to identify a ghost:  

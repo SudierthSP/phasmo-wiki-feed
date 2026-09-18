@@ -2,7 +2,9 @@
 # revid 3319  2023-11-30T09:56:13Z  by MeowMeowSenpai
 # 备注: Added languages
 # sha256 0abe17f79ae8cc18e0ef6e51966ae327e554efaa8c3ce2f2ece69d1187b511b1  bytes 1664
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:CarKey.png|alt=坦格活德街房屋的车钥匙。|thumb|273x273px|坦格活德街房屋的车钥匙。]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:CarKey.png|alt=坦格活德街房屋的车钥匙。|thumb|273x273px|坦格活德街房屋的车钥匙。]]
 '''{{PAGENAME}}'''位于大多数[[地图]]和[[货车]]里。它们主要用于解锁特定的门或关闭[[汽车]]警报器。一名玩家拿上钥匙后，其它玩家也能共享使用钥匙。
 
 == 用法 ==

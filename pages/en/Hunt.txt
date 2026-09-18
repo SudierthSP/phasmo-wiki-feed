@@ -2,7 +2,9 @@
 # revid 24655  2026-09-13T19:47:42Z  by Darkhooper
 # 备注: deogen's speed's ranges
 # sha256 ee06479437d39635c63ec4ec5b9caa3071a28c1a7b8476265a94f1ad296173d7  bytes 33632
-# 源: https://phasmophobia.fandom.com/api.php<div class="mw-collapsible mw-collapsed" style="width:400px; margin-left:1%; float:right; text-align:right">
+# 源: https://phasmophobia.fandom.com/api.php
+
+<div class="mw-collapsible mw-collapsed" style="width:400px; margin-left:1%; float:right; text-align:right">
 '''<span style="color:#efcf00">This image has flashing lights.</span>'''<div class="mw-collapsible-content">[[File:Electronic interference 0.4.0.gif|right|338x196px]]</div>
 </div>
 The '''hunt''' is an in-game mechanic intended to complicate further investigation of a location by the player(s). During hunts, the [[ghost]] will materialize itself and proceed to roam around the location in order to [[Death|kill]] one or more players. For the duration of the hunt, all [[Exit Door|exit doors]] will become locked and the ghost will cause all nearby lights and electronic equipment to malfunction.

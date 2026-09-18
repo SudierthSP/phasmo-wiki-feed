@@ -2,7 +2,9 @@
 # revid 24038  2026-07-15T18:32:18Z  by Hampter134
 # 备注: /* Sho */
 # sha256 598c65ee17ada7575f0117a8514ca6128caf5f8d52db54b804f97c39e142e928  bytes 14272
-# 源: https://phasmophobia.fandom.com/api.php[[File:Lobby 0.11.jpg|thumb|A view of a player standing in the lobby.]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:Lobby 0.11.jpg|thumb|A view of a player standing in the lobby.]]
 The '''lobby''', or '''warehouse''', is the place [[player]]s will spawn upon starting up the game or finishing a [[contract]]. It is a warehouse that has been converted into the lobby. The lobby is used as an intermission area for players to find or create servers, play minigames while waiting, [[Shop|purchase equipment]], or simply to interact with other players.
 
 ==Layout==

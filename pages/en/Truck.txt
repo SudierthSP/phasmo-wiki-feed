@@ -2,7 +2,9 @@
 # revid 21241  2025-06-27T18:08:36Z  by Darkhooper
 # 备注: added Control template
 # sha256 9d53d756ec04fc5fcd7dc609832a80fe87432ec2ab232cb16efe5c2244717f23  bytes 2510
-# 源: https://phasmophobia.fandom.com/api.phpThe '''truck''' is the transportation and mobile base for investigators that is stocked with all the equipment required for the [[contract]], and is also used to transport [[player]]s between the lobby and the contract [[map]].
+# 源: https://phasmophobia.fandom.com/api.php
+
+The '''truck''' is the transportation and mobile base for investigators that is stocked with all the equipment required for the [[contract]], and is also used to transport [[player]]s between the lobby and the contract [[map]].
 
 ==Mechanics==
 [[File:Van.png|thumb|323x323px|Inside look of the truck|alt=|border]]

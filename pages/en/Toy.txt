@@ -2,7 +2,9 @@
 # revid 24422  2026-08-06T20:21:19Z  by Darkhooper
 # 备注: removed 13 Willow Street
 # sha256 130b60a5182eebbb04cc9cb4fd5f5067be89053aeec99ff94fa91a7d1ad5c0b4  bytes 2301
-# 源: https://phasmophobia.fandom.com/api.php'''Toys''' are props which the [[ghost]] can interact with.
+# 源: https://phasmophobia.fandom.com/api.php
+
+'''Toys''' are props which the [[ghost]] can interact with.
 
 ==Mechanics==
 [[File:Teddy Bear.png|right|120x120px|thumb|A Teddy bear in [[Sunny Meadows Mental Institution|Sunny Meadows]].]]

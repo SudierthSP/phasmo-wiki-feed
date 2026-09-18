@@ -2,7 +2,9 @@
 # revid 24483  2026-08-25T17:47:15Z  by Darkhooper
 # 备注: 0.19
 # sha256 4a232b903dd09565a4f5ab8259df00a39e273762a77a02f09b75cc8e0c070206  bytes 5379
-# 源: https://phasmophobia.fandom.com/api.phpThe '''shop''' is used to buy and sell items, add them to the [[contract]], create item loadouts, and customize the character.
+# 源: https://phasmophobia.fandom.com/api.php
+
+The '''shop''' is used to buy and sell items, add them to the [[contract]], create item loadouts, and customize the character.
 
 ==Usage==
 The shop can be accessed from the main menu by navigating using the keyboard arrow keys, or clicking the right arrow from the main menu. The shop can also be directly clicked on. Pressing Esc or Space, or clicking the left arrow will exit the shop.

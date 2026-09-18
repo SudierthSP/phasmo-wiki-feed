@@ -2,7 +2,9 @@
 # revid 24660  2026-09-13T22:09:14Z  by Darkhooper
 # 备注: trap wish traps for 60.5 seconds
 # sha256 5a5e893cdabb5739a32417996ed4c25d193c12e9d8e6be54e4fd485265b4716a  bytes 2502
-# 源: https://phasmophobia.fandom.com/api.phpThe '''roaming''' is a core mechanic in ''Phasmophobia''. It is one of the states the [[ghost]] can choose to make the investigation harder by being more unpredictable. In this state, it essentially moves to another spot within the [[map]].
+# 源: https://phasmophobia.fandom.com/api.php
+
+The '''roaming''' is a core mechanic in ''Phasmophobia''. It is one of the states the [[ghost]] can choose to make the investigation harder by being more unpredictable. In this state, it essentially moves to another spot within the [[map]].
 
 ==Mechanics==
 When the ghost enters a roaming state, it will first have a 1/3 chance (2/3 chance for [[Goryo]]) to enter a [[D.O.T.S. Projector (Evidence)|D.O.T.S state]] instead of the actual roaming state if it has D.O.T.S. Projector as evidence. If it does enter the actual roaming state, it will choose to either perform a short or a long roam. The chance of each is based on the "Roaming frequency" difficulty setting:

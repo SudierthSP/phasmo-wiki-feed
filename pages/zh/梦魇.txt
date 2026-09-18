@@ -1,7 +1,9 @@
 # 梦魇
 # revid 4086  2026-03-13T15:02:12Z  by ZXH114
 # sha256 60f26d00c981209cdda58171ac01628cb442a3335cac2e9b448eac6b3dbdd9cc  bytes 5769
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=发现梦魇.jpg
  |strength=*可在較高的平均理智時開始獵殺
 *會更頻繁地嘗試關燈

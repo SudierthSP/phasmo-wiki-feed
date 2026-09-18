@@ -2,7 +2,9 @@
 # revid 21402  2025-07-04T17:39:07Z  by Darkhooper
 # 备注: tier 1 and 3 unlock levels
 # sha256 19b489122c2d705b88ff21024c0ce70eff1a76a4d67eaa92f3dedc6ece9a69f7  bytes 8039
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=Med090_T1.png
  | tier ii img=Med090_T2.png
  | tier iii img=Med090_T3.png

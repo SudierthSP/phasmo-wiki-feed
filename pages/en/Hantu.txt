@@ -2,7 +2,9 @@
 # revid 24456  2026-08-14T21:22:36Z  by Darkhooper
 # 备注: freezing breath frequency
 # sha256 f41191cf290405ca32fb58456a6b8b7bb60774b39d525272ffba1b8fb942f515  bytes 8909
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Hantu Discovered.jpg
  |abiliti(es)=*Can emit frosty breath when hunting with the breaker off
  |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]

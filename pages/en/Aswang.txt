@@ -2,7 +2,9 @@
 # revid 24628  2026-09-11T04:21:32Z  by Darkhooper
 # 备注: removed "used correctly" -> Aswang can no longer kill players standing in the box-based hiding spots in Ridgeview.
 # sha256 b46f027374eef5a27009ff7a55bb1a7fddc402f0e21f30552bba5a191488b218  bytes 3998
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=
  |strength=*Will accelerate faster with line-of-sight than any other ghost.
 *Can sometimes hunt with zero grace period.

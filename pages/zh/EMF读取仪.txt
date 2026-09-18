@@ -1,7 +1,9 @@
 # EMF读取仪
 # revid 3581  2024-12-15T12:20:52Z  by Skaijie
 # sha256 9f7eeb611e05eee747b7e4cadb88b97fe7f7d40f6a4372e70b5699e5809e8b0d  bytes 5418
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=EMF090_T1.png
  | tier ii img=EMF090_T2.png
  | tier iii img=EMF090_T3.png

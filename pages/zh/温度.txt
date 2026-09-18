@@ -2,7 +2,9 @@
 # revid 3760  2025-06-22T11:00:26Z  by SABRECAR
 # 备注: /* 刺骨寒温 */
 # sha256 3991cafefb394ea7de03063650cc86c67dc6f6e27734be96455ab325a760ccc3  bytes 1883
-# 源: https://phasmophobia.fandom.com/zh/api.php'''温度'''为''恐鬼症''的机制。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+'''温度'''为''恐鬼症''的机制。
 
 == 机制 ==
 地图的室内外温度受天气影响。每种天气类型会有可能的环境温度范围，这些温度在合约开始预设。室内温度通常与室外温度不同。每间房间的环境温度会有所差异。

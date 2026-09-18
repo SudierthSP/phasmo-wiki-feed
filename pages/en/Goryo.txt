@@ -1,7 +1,9 @@
 # Goryo
 # revid 23229  2026-04-20T02:21:14Z  by Darkhooper
 # sha256 9dfec607bfd0129074f9ef5858821ed026d95ca4b5ea6d7d936bfdf4726e008c  bytes 6889
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Goryo Discovered.jpg
  |strength=*Usually shows itself passing through [[D.O.T.S Projector|D.O.T.S]] on video camera only with no players nearby
  |weakness(es)=*Less likely to wander

@@ -1,7 +1,9 @@
 # 0.9.0.8
 # revid 18218  2024-06-19T01:32:14Z  by Justf0cus420
 # sha256 34c18225605dd085dd6bf3617f51b26207a5d1a5491d883c26967a5a614889a3  bytes 1379
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
   | release_date=25 August 2023
   | previous_major_version=[[0.9.0]]
   | previous_minor_version=[[0.9.0.7]]

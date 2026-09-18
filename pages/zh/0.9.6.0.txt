@@ -2,7 +2,9 @@
 # revid 3407  2024-03-26T15:43:03Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version   | release_date=2024年3月26日   | previous_major_version=[[0.9.0]]   | previous_minor_version=[[0.9.5.0]]   | next_minor_version= }}  ==新增== * 2024年复活节活动开始，将持续约2周。开始调查赚取专属奖励吧！ ** 游戏内科查看详细信息  * 给身份卡的头像整容！ ** 使用徽章主题时，所有徽章都有独特的背景 ** 11-20级声望有匹配徽章的动态背景 ** 调节部分颜色 ** 贵宾…”
 # sha256 1df5fa89ae68eca4d2e9b277a89678a72543d5e1a7a2af01e4c89ac406d03699  bytes 2009
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2024年3月26日
   | previous_major_version=[[0.9.0]]
   | previous_minor_version=[[0.9.5.0]]

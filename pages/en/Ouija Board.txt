@@ -1,7 +1,9 @@
 # Ouija Board
 # revid 24861  2026-09-18T07:04:10Z  by Darkhooper
 # sha256 1060991ca02cffb0cbe9c4ea150cda966f4d749cb04764a97700b249138005fa  bytes 12498
-# 源: https://phasmophobia.fandom.com/api.php{{Item Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Item Template
 | img= Ouija Board New.png
 | imgcaption = 
 | price = 

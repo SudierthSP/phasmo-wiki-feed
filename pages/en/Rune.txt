@@ -2,7 +2,9 @@
 # revid 24015  2026-06-28T21:46:14Z  by VVSlavik
 # 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
 # sha256 cebc329542eb9623d44c5a05c9bc850bdb572fa5adef1a0a71d4f6778f69f1fa  bytes 2601
-# 源: https://phasmophobia.fandom.com/api.php[[File:Runes Lobby.png|thumb|The runes' layout in the lobby.]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:Runes Lobby.png|thumb|The runes' layout in the lobby.]]
 '''Runes''' were part of riddles that lasted between [[0.8.1.0]] and [[0.10.0]]. Using the [[UV Light]] in the [[lobby]], the player could find the runes on the ground near the display cases.
 
 Solving the riddles allowed the player to get the name of a new map which ultimately was [[Point Hope]].

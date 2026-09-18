@@ -1,7 +1,9 @@
 # Kinetic Games
 # revid 3662  2024-12-17T05:37:22Z  by Skaijie
 # sha256 695c405e86e43393a79d54933c39e5a929a6f361741ce610b03a55b24c0e3af1  bytes 2506
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Studio
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Studio
  |image1=KineticGames.png
  |founded=2020<ref>https://www.kineticgames.co.uk/about-us</ref>
  |founder=Dknighter

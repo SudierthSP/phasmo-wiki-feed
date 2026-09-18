@@ -1,7 +1,9 @@
 # Cursed Possession
 # revid 22758  2026-02-14T16:56:21Z  by Arkanos999
 # sha256 aea94c31af028aff9d6fbc2efb60000fdc6a7bdeffd10d7962f250c33b784b04  bytes 4382
-# 源: https://phasmophobia.fandom.com/api.php'''Cursed possessions''' are a group of seven powerful, supernatural items that are used to directly interface with the ghost. They can make the ghost appear or provide information, generally at the cost of [[sanity]]. These items are the [[Music Box]], [[Ouija Board]], [[Voodoo Doll]], [[Haunted Mirror]], [[Summoning Circle]], [[Monkey Paw]], and [[Tarot Cards]]. Activating or using a cursed possession will immediately cancel the [[Setup Phase|setup phase]].
+# 源: https://phasmophobia.fandom.com/api.php
+
+'''Cursed possessions''' are a group of seven powerful, supernatural items that are used to directly interface with the ghost. They can make the ghost appear or provide information, generally at the cost of [[sanity]]. These items are the [[Music Box]], [[Ouija Board]], [[Voodoo Doll]], [[Haunted Mirror]], [[Summoning Circle]], [[Monkey Paw]], and [[Tarot Cards]]. Activating or using a cursed possession will immediately cancel the [[Setup Phase|setup phase]].
 
 ==Mechanics==
 On all default [[difficulty|difficulties]], except Insanity, one cursed possession is selected at random for every contract. Each item has one dedicated spawn location on a given [[map]]. On most maps these spawn locations are scattered around the map, while on a few (namely [[Brownstone High School]], [[Prison]], and [[Sunny Meadows Mental Institution|Sunny Meadows]]), they are all within just one room. 

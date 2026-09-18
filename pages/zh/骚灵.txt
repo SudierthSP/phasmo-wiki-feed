@@ -1,7 +1,9 @@
 # 骚灵
 # revid 4215  2026-07-08T17:55:50Z  by InspiringCobra282
 # sha256 b71762749c89aa929ec6a66be12519003f1a53aca9dfe81a52785662a3a2472a  bytes 6129
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=发现骚灵.jpg
  |strength=*它可以一次性投掷大量物体，而且投掷力度很大
  |abiliti(es)=*投擲物體降低玩家理智

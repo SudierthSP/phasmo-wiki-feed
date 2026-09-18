@@ -2,7 +2,9 @@
 # revid 24595  2026-09-03T00:57:40Z  by Darkhooper
 # 备注: retested this bug and it has been fixed
 # sha256 5a8acc18b2def34bcfec2e4fe0035b9493acde58756826726725d892f4e7ef38  bytes 9397
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Onryo Discovered.jpg
  |strength= *Can sometimes hunt at any sanity after blowing out a flame
 *Blows out fiery objects (candles, campfire) more often with more dead people

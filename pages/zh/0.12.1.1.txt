@@ -2,7 +2,9 @@
 # revid 3743  2025-05-01T14:55:38Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version  | release_date=2025.5.1  | previous_major_version=[[0.12.0.1]]  | previous_minor_version=[[0.12.1.0]]  | next_minor_version=  | next_major_version=  }}'''0.12.1.1'''是发布于2025年5月1日的小型热修复更新。<ref>[https://www.kineticgames.co.uk/blog/cursedhollow-hotfix ''Phasmophobia Cursed Hollow - Hotfix v0.12.1.1''. 1 May 2025.]</ref>本次更新主要修复一些诅咒山谷活动的问题。    ==改动== * 现在无法在鹿…”
 # sha256 503504962a1fd210ed356e47379259900441a06227289d6e210f7f7ff9280777  bytes 1424
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
 
 | release_date=2025.5.1
 

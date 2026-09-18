@@ -2,7 +2,9 @@
 # revid 24412  2026-08-03T16:51:42Z  by Darkhooper
 # 备注: tier 3 salt slowing Gallu
 # sha256 342911d65fe420ec720de629d08495992a1c147c615530716d9eae8e53e7a207  bytes 5912
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=Salt090_T1.png
  | tier ii img=Salt090_T2.png
  | tier iii img=Salt090_T3.png

@@ -2,7 +2,9 @@
 # revid 3512  2024-12-03T14:03:40Z  by Skaijie
 # 备注: 重定向页面至[[紫外线灯光]]
 # sha256 9951835a7fef406e004362e12e0b66eeb1bbe770ac0055bf6962fcd373f9f1c2  bytes 1137
-# 源: https://phasmophobia.fandom.com/zh/api.php#REDIRECT [[紫外线灯光]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+#REDIRECT [[紫外线灯光]]
 {{Item_Template
 |img=UVLight_Render.png
 |imgcaption=

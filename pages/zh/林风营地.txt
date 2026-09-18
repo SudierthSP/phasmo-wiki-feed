@@ -1,7 +1,9 @@
 # 林风营地
 # revid 4056  2025-12-23T20:38:30Z  by SunShowerSS
 # sha256 f8ea365bde8d69565046bdee4faab873ddcd536178261bb18be91c80e681c535  bytes 4018
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Location
  |img=[[File:woodwind.jpg|400px]]
  |imgcaption=林风营地
  |mapsize=小型

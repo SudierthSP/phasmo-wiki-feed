@@ -1,7 +1,9 @@
 # 加鲁
 # revid 4148  2026-05-13T15:22:00Z  by Suser cat
 # sha256 303af3c7af6eef0e34ec2273f8caf952e8a1ae70ad2235ce1f4c62cc5f3490cc  bytes 4591
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=
  |strength=*使用防护装备会激怒鬼魂
  |weakness(es)=*猎杀后减少攻击性

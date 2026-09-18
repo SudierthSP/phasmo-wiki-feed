@@ -1,7 +1,9 @@
 # 灵球
 # revid 4064  2025-12-29T07:40:39Z  by CangMingSW
 # sha256 b3864b575821a256b7bac56c5d4ff80e29c6c73c17a92b637e035c85edee8e8a  bytes 3399
-# 源: https://phasmophobia.fandom.com/zh/api.php<blockquote>''“在视频中看到漂浮的灵球（通过摄像机、视频信号或头戴设备）”''</blockquote>
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+<blockquote>''“在视频中看到漂浮的灵球（通过摄像机、视频信号或头戴设备）”''</blockquote>
 {{Evidence_Infobox
  |detected_by=[[摄像机]]、[[视频来源]]、一级[[头戴设备]]
  |image1=灵球 0.4.gif

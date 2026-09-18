@@ -2,4 +2,6 @@
 # revid 2808  2023-03-01T14:00:30Z  by Skaijie
 # 备注: Skaijie移动页面[[每日和每周挑战]]至[[每日和每周任务]]
 # sha256 351f0dad342d37598c5bf76d72cb544488fd8150c84e2da70607d245bbfd3b46  bytes 36
-# 源: https://phasmophobia.fandom.com/zh/api.php#重定向 [[每日和每周任务]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+#重定向 [[每日和每周任务]]

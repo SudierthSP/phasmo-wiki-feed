@@ -2,7 +2,9 @@
 # revid 24613  2026-09-07T20:57:40Z  by Darkhooper
 # 备注: we can no longer clip cameras through solid objects
 # sha256 4b5802f3bfdec44c15d46ddba59b81c1c08bfae720490719185415c482d8f279  bytes 5835
-# 源: https://phasmophobia.fandom.com/api.php{{Evidence_Infobox
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Evidence_Infobox
  |detected_by=[[Video Camera]], [[Video Feed]], Tier I [[Head Gear]]
  |image1=Ghost Orb video feed 0.4.0.gif
  |caption1=A Ghost Orb floating towards the lower-right corner of the screen.

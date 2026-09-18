@@ -1,7 +1,9 @@
 # 火光
 # revid 3721  2025-01-23T13:30:10Z  by Skaijie
 # sha256 bed200ca43f59222e5905e3373533cd4c80fec412b6edc39d3d6714e95a878a4  bytes 5210
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=FireLight090_T1.png
  | tier ii img=FireLight090_T2.png
  | tier iii img=FireLight090_T3.png

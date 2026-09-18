@@ -2,7 +2,9 @@
 # revid 23995  2026-06-28T21:44:16Z  by VVSlavik
 # 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
 # sha256 d615776b73737f43226ba795007096f37fe8a839759f2e80052d2bf97782bda3  bytes 3039
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
   |title1=0.9.3.0|image1=0.9.3.0-banner.png|official_name=Holiday 2023| release_date=11 December 2023
   | previous_major_version=[[0.9.0]]
   | previous_minor_version=[[0.9.2.0]]

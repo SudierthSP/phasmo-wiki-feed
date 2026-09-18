@@ -2,7 +2,9 @@
 # revid 23413  2026-05-06T17:38:27Z  by Darkhooper
 # 备注: removed empty History section
 # sha256 e3b1f5903ee0b945eabff22f9794470eaaf06f44e5aa37a1732251a2d1dd8705  bytes 3812
-# 源: https://phasmophobia.fandom.com/api.php[[File:Site activity monitor 0.6.png|thumb|The Site Activity Monitor showing the presence of activity from the ghost.]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:Site activity monitor 0.6.png|thumb|The Site Activity Monitor showing the presence of activity from the ghost.]]
 The '''Site Activity Monitor''' is the fourth monitor on the wall of the [[Truck]], which shows the current activity ranging from 0 to 10, roughly matching the readings of an [[EMF Reader]]. A low reading may indicate little to no recent activity, while a high reading may mean high levels of ghost activity. 
 
 On Nightmare and Insanity [[difficulty|difficulties]], the Site Activity Monitor is damaged and gives random readings, causing it to be useless and preventing players from discerning ghost activity by using it.

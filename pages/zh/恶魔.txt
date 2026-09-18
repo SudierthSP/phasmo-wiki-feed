@@ -2,7 +2,9 @@
 # revid 4231  2026-07-27T17:58:31Z  by MatoiMnai
 # 备注: 添加了关于特殊猎杀间隔的描述
 # sha256 65235cc85c7c92b2b782b18403b6567050b5280afb17516dbe866166165d5e9e  bytes 3827
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=发现恶魔.jpg
  |strength=* 獵殺理智值更高
  |abiliti(es)=* 能在理智值 70% 以下開始獵殺

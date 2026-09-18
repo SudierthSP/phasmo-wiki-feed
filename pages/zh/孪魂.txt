@@ -2,7 +2,9 @@
 # revid 3811  2025-08-07T13:50:51Z  by ImongUs1021
 # 备注: /* 能力 */
 # sha256 07346e6e34c25eb70cceaa2f7eccba0576d3dc6ba825aaadc0e0f86a94db3cdf  bytes 3004
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
   | image1=发现孪魂.jpg
   | strength= *可在意料外的地方獵殺
   | abiliti(es)= *獵殺速度可能不一樣

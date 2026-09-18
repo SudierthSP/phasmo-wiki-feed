@@ -2,7 +2,9 @@
 # revid 23537  2026-05-13T21:49:46Z  by Darkhooper
 # 备注: Ghost Writing is not tied to activity level, DOTS is more frequent when Thaye ages
 # sha256 84cd606ccfc83c64923756d08a0cbc48f746b8a582cf77ea65e457511908b166  bytes 7830
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Thaye Discovered.jpg
  |strength= *Becomes very active the first time a player gets nearby
  |weakness(es)= *The more time players spend near it, the quieter and slower it becomes

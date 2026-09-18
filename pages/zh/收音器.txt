@@ -2,7 +2,9 @@
 # revid 3879  2025-08-21T17:08:03Z  by CangMingSW
 # 备注: 完善机制 & 删除过时内容
 # sha256 41ee4351ff7d3a7b057e30ef5f806d6ea33ed544b1b91c1a37b9172bfe435da6  bytes 5661
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=Parabolic090_T1.png
  | tier ii img=Parabolic090_T2.png
  | tier iii img=Parabolic090_T3.png

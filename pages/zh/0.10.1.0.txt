@@ -2,7 +2,9 @@
 # revid 3456  2024-08-13T17:41:37Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version  | release_date=2024年8月13日  | previous_major_version=[[0.10.0]]  | previous_minor_version=[[0.10.0.1]]  | next_minor_version=  | next_major_version= }}'''0.10.1.0'''是发布于2024年8月13日的小型更新。<ref>[https://store.steampowered.com/news/app/739630/view/4325229998951357510 ''Photo Deletion and Vivox | Minor Update v0.10.1.0''. 13 August 2024 (On Steam).]</ref>本次更新添加了语音聊天系统、照片删除系统并…”
 # sha256 23f413cb4a50728a933a4706e2577f3b3a15f2d12d8b1ba40c2f4751689ba53e  bytes 3428
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
  | release_date=2024年8月13日
  | previous_major_version=[[0.10.0]]
  | previous_minor_version=[[0.10.0.1]]

@@ -1,7 +1,9 @@
 # 鬼魂笔迹
 # revid 3746  2025-06-20T03:49:18Z  by Khalaris Farraeal
 # sha256 a11d33ccbe35a300e8026946875d37e4813bad26886b9b4be8550883cfe7f7d3  bytes 3210
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Evidence_Infobox
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Evidence_Infobox
  |image1=OpenBook_Patterns.gif
  |detected_by=[[鬼魂笔记]]
 }}''"除了通灵盒之外，超自然现象研究者还会用纸和笔与鬼魂交流。后来他们发现只有特定类型的鬼魂才会写字。"''

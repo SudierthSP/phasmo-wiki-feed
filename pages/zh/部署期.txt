@@ -1,7 +1,9 @@
 # 部署期
 # revid 3367  2024-01-17T15:21:44Z  by Skaijie
 # sha256 8c689468cef22995b2b7668a2d2746925a807f188f91ed74772f7195ffb1f28c  bytes 1006
-# 源: https://phasmophobia.fandom.com/zh/api.php'''部署期'''是游戏开始时让玩家部署[[装备]]和寻找鬼魂的安全时间。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+'''部署期'''是游戏开始时让玩家部署[[装备]]和寻找鬼魂的安全时间。
 
 == 机制==
 部署期时间取决于难度：

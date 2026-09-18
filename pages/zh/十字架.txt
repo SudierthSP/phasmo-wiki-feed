@@ -1,7 +1,9 @@
 # 十字架
 # revid 3981  2025-10-17T16:59:59Z  by CangMingSW
 # sha256 ee1ce30a37d2d1480599cbf95e51a79a7ffb646b01a760417fa7648a6b062bb9  bytes 4292
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=Crucifix090_T1.png
  | tier ii img=十字架阶段.gif
  | tier iii img=Crucifix090_T3.png

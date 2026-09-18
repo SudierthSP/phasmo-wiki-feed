@@ -2,7 +2,9 @@
 # revid 24625  2026-09-10T17:47:19Z  by Darkhooper
 # 备注: added another bug with tier 2 firelights
 # sha256 9a17e3d2d2a2629a20825b451c6b309f8472fd6e87d3500cdf883c39da0d4c87  bytes 8999
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=FireLight090_T1.png
  | tier ii img=FireLight090_T2.png
  | tier iii img=FireLight090_T3.png

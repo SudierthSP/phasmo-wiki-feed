@@ -2,7 +2,9 @@
 # revid 2450  2022-10-19T17:29:22Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version   | release_date=2022年10月19日   | previous_major_version=[[0.7.0]]   |previous_minor_version=[[0.7.1.2]] }}  ==改动==  * 动态化房屋电闸开关 * 如果你的存档损坏且备份存档加载失败，现在会重置存档文件   ==修复漏洞==  * 如果房主在猎杀时说话，鬼不再去寻找非房主玩家 * 显著优化CPU性能 * 由于一些问题，玩家模型的物理效果恢复至上次热修复之前的状态 *…”
 # sha256 66832698c965550443565d766f0df241c088b309ade941421fd5935387418015  bytes 1023
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2022年10月19日
   | previous_major_version=[[0.7.0]]
   |previous_minor_version=[[0.7.1.2]]

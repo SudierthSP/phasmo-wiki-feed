@@ -2,7 +2,9 @@
 # revid 24124  2026-07-20T11:30:52Z  by Darkhooper
 # 备注: next major version
 # sha256 92523b26079bf9118e1c82a4ae0b83256b5c092f54d027e7fcf76d5c5aa97c54  bytes 7804
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
 | image1=PhasmoAW.PNG
 | release_date=12 May 2026
 | previous_major_version=[[0.17.0]]

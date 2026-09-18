@@ -2,7 +2,9 @@
 # revid 24533  2026-08-26T17:32:31Z  by Darkhooper
 # 备注: 0.19 bug
 # sha256 5f1db5dd62eb8552b13060152d23e6328e7d9d6a586589ec6b0cc180f8933178  bytes 2242
-# 源: https://phasmophobia.fandom.com/api.php[[File:Edgefield Candle.png|thumb|A candle in [[42 Edgefield Road]].]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:Edgefield Candle.png|thumb|A candle in [[42 Edgefield Road]].]]
 [[File:Woodwind Campfire.png|thumb|A campfire in [[Camp Woodwind]].]]
 [[File:Point Hope Fireplace.png|thumb|A fireplace in [[Point Hope]].]]
 '''Fire sources''' are a map feature which the [[ghost]] can interact with.

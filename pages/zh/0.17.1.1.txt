@@ -2,7 +2,9 @@
 # revid 4158  2026-05-14T13:24:23Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version | release_date=2026年5月13日 | previous_major_version=[[0.17.0]] | previous_minor_version=[[0.17.1.0]] | next_minor_version= | next_major_version= }}'''0.17.1.1'''是于2026年5月13日发布的小型热修复更新。<ref>[https://www.kineticgames.co.uk/news/phasmophobia-hotfix-v01711 ''《恐鬼症》 - 热修复 v0.17.1.1''. 2026年5月13日.]</ref> 此更新修复了若干漏洞。  ==修复漏洞== *修复：移动时手持装备/物…”
 # sha256 17dc4023b08e600b4c86613e0c32118325791c7059b0d8c8a8959d2f53a19841  bytes 926
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
 | release_date=2026年5月13日
 | previous_major_version=[[0.17.0]]
 | previous_minor_version=[[0.17.1.0]]

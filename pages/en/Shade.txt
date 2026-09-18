@@ -2,7 +2,9 @@
 # revid 23207  2026-04-17T17:30:31Z  by Darkhooper
 # 备注: link to Activity page
 # sha256 1653acf4ee09cd1ac79fc04bb9793747890f5c40deadbf64a3e39128dc86bcf2  bytes 7222
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Shade Discovered.jpg
  |strength= *Harder to find due to it being generally less active
  |abiliti(es)= *Produces mist and shadow form ghost events more often

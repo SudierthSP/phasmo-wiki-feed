@@ -2,7 +2,9 @@
 # revid 24150  2026-07-21T09:51:10Z  by Darkhooper
 # 备注: added Deildegast
 # sha256 016978019817ac07f7553edfab1f005c8dce7b80c186f9e6b04c8daa096172f1  bytes 4947
-# 源: https://phasmophobia.fandom.com/api.php{{Evidence_Infobox
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Evidence_Infobox
  |title1=D.O.T.S Projector
  |image1=[[File:DOTS090_animation_videocamera.gif]]
  |detected_by=[[D.O.T.S Projector]]

@@ -2,7 +2,9 @@
 # revid 24261  2026-07-24T04:37:31Z  by VVSlavik
 # 备注: Added the corresponding Russian interlanguage link
 # sha256 020b7eed40101efb5bb160975fd736fb644bef871060ca3a007cd5939dd32442  bytes 19401
-# 源: https://phasmophobia.fandom.com/api.phpThis [[Guides|guide]] demonstrates how to '''survive a ghost's hunting phase''' in ''Phasmophobia'', as well as necessary information to do so.
+# 源: https://phasmophobia.fandom.com/api.php
+
+This [[Guides|guide]] demonstrates how to '''survive a ghost's hunting phase''' in ''Phasmophobia'', as well as necessary information to do so.
 
 During regular gameplay, and not taking into account the use of certain [[cursed possession]]s, the [[hunt]] is the only mechanic in which a ghost can [[death|kill]] players one at a time by colliding with them. No items can end a hunt, although lit [[Incense]] can disorient ghosts for some time. Thus, in order to survive, players are required to either hide from, try to outrun, or loop the ghost for as long as they can until the hunt ends.
 

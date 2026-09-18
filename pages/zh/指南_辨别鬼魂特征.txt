@@ -1,7 +1,9 @@
 # 指南/辨别鬼魂特征
 # revid 3281  2023-11-02T10:35:57Z  by Mirrdark
 # sha256 583b080e2905f6ac29d98f4cb95c618f56777d777e1f48056fba7e3e03e0466a  bytes 26479
-# 源: https://phasmophobia.fandom.com/zh/api.php本指南将教你识别鬼魂。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+本指南将教你识别鬼魂。
 
 == 使用证据 ==
 识别鬼魂的标准方法是收集[[证据]]。以下列表简要介绍了如何收集证据；更多信息可以在各自的页面中找到。

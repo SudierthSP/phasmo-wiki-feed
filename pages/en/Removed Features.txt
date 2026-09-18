@@ -2,7 +2,9 @@
 # revid 24414  2026-08-03T21:12:15Z  by Pumpkinjacko25
 # 备注: /* Gameplay */
 # sha256 09d2dde90d308f611e3334dfa04280c94c2496dc92b0877be0bbd846b76d3893  bytes 16083
-# 源: https://phasmophobia.fandom.com/api.phpSince the beginning of development, some features have been removed from the game, having been replaced or deemed unsuitable for the game at its current state. Most of these features were removed before Early Access release on Steam.<ref>https://discord.com/channels/435431947963990026/661365069006897154</ref>
+# 源: https://phasmophobia.fandom.com/api.php
+
+Since the beginning of development, some features have been removed from the game, having been replaced or deemed unsuitable for the game at its current state. Most of these features were removed before Early Access release on Steam.<ref>https://discord.com/channels/435431947963990026/661365069006897154</ref>
 
 ==Ghosts==
 ;General

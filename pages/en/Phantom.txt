@@ -2,7 +2,9 @@
 # revid 24609  2026-09-05T05:14:31Z  by Darkhooper
 # 备注: added flickering gifs
 # sha256 0c4afd4e4e6a9bae3994c5ca2b0b4f9d03cac7a6f9e024eaf272c8b955b6562d  bytes 9377
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |title=Phantom
  |image1=Phantom Discovered.jpg
  |strength= *Seeing the ghost nearby during manifestations and hunts drains more sanity

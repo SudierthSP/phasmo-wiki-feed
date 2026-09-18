@@ -2,7 +2,9 @@
 # revid 23234  2026-04-20T15:39:58Z  by Darkhooper
 # 备注: Took info out of Advanced mechanics table
 # sha256 99f04ff1d6777882b5a85d9713a173e25f25aef8ac1852436a9a0b29fcfaecfc  bytes 5424
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=WritingBook090_T1.png
  | tier ii img=WritingBook090_T2.png
  | tier iii img=WritingBook090_T3.png

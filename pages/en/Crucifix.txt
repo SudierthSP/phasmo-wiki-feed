@@ -2,7 +2,9 @@
 # revid 24416  2026-08-04T01:36:40Z  by Darkhooper
 # 备注: changed file
 # sha256 959cee767d04721ff1a1a8650900a5458dcd314c848982b74b1a280a592f19de  bytes 7625
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=Crucifix090_T1.png
  | tier ii img=Crucifix090_T2.png
  | tier iii img=Crucifix090_T3.png

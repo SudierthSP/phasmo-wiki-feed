@@ -1,7 +1,9 @@
 # 尸体
 # revid 4088  2026-03-14T13:55:41Z  by ZXH114
 # sha256 950b2b869b5ca9ecef94650f05577cdcab708287cfdb34047a5d415006d7a974  bytes 897
-# 源: https://phasmophobia.fandom.com/zh/api.php'''尸体'''会在[[鬼魂]][[猎杀]]时成功杀死玩家，或玩家抽到 The Hanged Man [[塔罗牌]]卡片/使用[[猴爪]]复活队友但自己死亡后留下。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+'''尸体'''会在[[鬼魂]][[猎杀]]时成功杀死玩家，或玩家抽到 The Hanged Man [[塔罗牌]]卡片/使用[[猴爪]]复活队友但自己死亡后留下。
 
 == 机制 ==
 在玩家死亡的过程中，玩家会被传送到「死亡之房」。同时在死亡地点会出现一个双手在脖子上扭动的人物，然后死去。

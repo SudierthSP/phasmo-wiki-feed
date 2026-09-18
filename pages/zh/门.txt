@@ -3,6 +3,8 @@
 # 备注: 添加分类
 # sha256 e6625d2092c1f6bb1ddcbe047664feadf91cdf7457c5add0a97d45836f47e2be  bytes 3716
 # 源: https://phasmophobia.fandom.com/zh/api.php
+
+
 ==介绍==
 门是恐鬼症里最常见的一种物体。游戏里的所有门都需要按住鼠标左键推拉才能开关。
 

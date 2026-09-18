@@ -1,7 +1,9 @@
 # 希望角灯塔- 限制区
 # revid 4264  2026-08-26T12:42:32Z  by Fanta1109
 # sha256 c8bf2e4263322d31c925a74963739253deedfcf69d15f9e7350a53072f4bd4a9  bytes 2053
-# 源: https://phasmophobia.fandom.com/zh/api.php==希望角灯塔- 限制区==
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+==希望角灯塔- 限制区==
 {{Location
 |title=希望角灯塔- 限制区
 |img=PHRestricted.png

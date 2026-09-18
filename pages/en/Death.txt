@@ -2,7 +2,9 @@
 # revid 24612  2026-09-05T16:43:23Z  by Darkhooper
 # 备注: added paragraph about what dead players can and cannot see.
 # sha256 be40eb317dd27cbf4feaaa50fde9857631ee9fe3bcb9bc3d81f5117ba0b40683  bytes 7016
-# 源: https://phasmophobia.fandom.com/api.php[[ru:Смерть]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[ru:Смерть]]
 [[File:Death atmosphere.png|alt=|thumb|The fog that a dead player sees the world through]]
 In ''Phasmophobia,'' '''death''' results either from being caught by the [[ghost]] during a [[hunt]], obtaining ''The Hanged Man'' [[Tarot Cards|tarot card]], or by chance from using the [[Monkey Paw]]'s revival wish. 
 

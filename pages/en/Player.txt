@@ -1,7 +1,9 @@
 # Player
 # revid 24464  2026-08-18T08:25:54Z  by Pikachufan2010
 # sha256 c6c10db3626660d65c58d58ebb2086de8b33f1050745523002050730064e76c3  bytes 7138
-# 源: https://phasmophobia.fandom.com/api.phpThe '''player''' is the main character being controlled in ''Phasmophobia''.
+# 源: https://phasmophobia.fandom.com/api.php
+
+The '''player''' is the main character being controlled in ''Phasmophobia''.
 
 ==Carrying items==
 Non-VR players can carry up to 4 pieces of [[equipment]], including one special slot for [[Igniter|igniters]].<!-- Verify: VR players cannot open doors while holding items in both hands.-->

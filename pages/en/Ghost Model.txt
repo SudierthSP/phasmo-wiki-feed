@@ -2,7 +2,9 @@
 # revid 24260  2026-07-24T04:37:22Z  by VVSlavik
 # 备注: Added the corresponding Russian interlanguage link
 # sha256 55b753b9858d0fc517a801b8158a38f08701e31eca48487b754c4c29d3057667  bytes 3696
-# 源: https://phasmophobia.fandom.com/api.phpGhost model is the appearance of a [[ghost]]. There are currently seven male and four female ghost models in ''Phasmophobia'', totalling 11 different ghost models. Each model can also appear as a shadowy or translucent version of itself during [[ghost event]]s.
+# 源: https://phasmophobia.fandom.com/api.php
+
+Ghost model is the appearance of a [[ghost]]. There are currently seven male and four female ghost models in ''Phasmophobia'', totalling 11 different ghost models. Each model can also appear as a shadowy or translucent version of itself during [[ghost event]]s.
 
 While no singular ghost model is tied to a type of ghost, the [[Banshee]] and the [[Dayan]] are always female and can only use female ghost models, allowing players to rule them out if the ghost appears with a male model.
 

@@ -2,7 +2,9 @@
 # revid 23023  2026-03-30T15:03:13Z  by Darkhooper
 # 备注: replaced Evidence list template
 # sha256 e2bebb8851cd6ceea40da5d3c7341a6a2ee69278dee43e9d9be7d9bf7d647468  bytes 6477
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Wraith Discovered.jpg
  |strength= 
  |abiliti(es)= *Can teleport to a random player, becoming active near them, outside of ghost events and hunts

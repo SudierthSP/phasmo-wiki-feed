@@ -2,7 +2,9 @@
 # revid 24151  2026-07-21T09:53:28Z  by Darkhooper
 # 备注: correct link to Spirit Box Evidence page
 # sha256 f7fce6bcea041d41df2d51fdad2a2e83cbf159cc8f0089ba59dc8156cbccde69  bytes 4688
-# 源: https://phasmophobia.fandom.com/api.php{{Evidence_Infobox
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Evidence_Infobox
  |image1=OpenBook_Patterns.gif|detected_by=[[Ghost Writing Book]]
 }}{{Quote|speaker=The Journal|quote=Some Ghosts are able to write inside of books if given the proper tools to do so.}}
 '''Ghost Writing''' is a piece of [[evidence]] used to determine which [[ghost]] is haunting a location. It can be obtained by using a [[Ghost Writing Book]] with an applicable ghost.

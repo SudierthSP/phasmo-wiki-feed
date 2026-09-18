@@ -2,7 +2,9 @@
 # revid 24582  2026-08-28T02:45:52Z  by Darkhooper
 # 备注: 0.19
 # sha256 d45bdb0bd1596ab08c69bf2d8a8e8e5b38cd3169bd04695e3fa288f8da8e89a1  bytes 4935
-# 源: https://phasmophobia.fandom.com/api.php[[File:Journal.png|right|frameless|300x300px]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:Journal.png|right|frameless|300x300px]]
 The '''Journal''' is the main piece of equipment in ''[[Phasmophobia]]''. It contains important information relevant to Ghosts, Evidence, Media and mission data. It is divided up into 5 categories with specific focuses, used to aid players on cases. The journal is always accessible to the player any time while in a [[contract]] or in the [[lobby]].
 
 ==Usage==

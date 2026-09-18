@@ -2,7 +2,9 @@
 # revid 21588  2025-08-08T20:24:13Z  by Darkhooper
 # 备注: replaced airball by mist form
 # sha256 4c33e44c34e67387ac982b80a7f4d622cf640ce34a829a0eb6929f2cf3df842a  bytes 6550
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=MotionSensor090_T1.png
  | tier ii img=MotionSensor090_T2.png
  | tier iii img=MotionSensor090_T3.png

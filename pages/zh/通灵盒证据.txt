@@ -1,7 +1,9 @@
 # 通灵盒证据
 # revid 3657  2024-12-16T14:54:42Z  by Skaijie
 # sha256 18d8c6c9ad464243b085839d377f704b9571e7f78a731d851549c378b294e916  bytes 3583
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Evidence_Infobox
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Evidence_Infobox
  |detected_by=[[File:SpiritBox_Render.png|24x24px|link=通灵盒]] [[通灵盒]]
  |image1=SpiritBox_Ghost.png
  |caption1=二级通灵盒鬼魂回应图标

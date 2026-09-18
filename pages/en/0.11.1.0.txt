@@ -2,7 +2,9 @@
 # revid 23884  2026-06-28T21:35:53Z  by VVSlavik
 # 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
 # sha256 7911b156edf87ee93bbd690f70695cb31ed4c0fb91e1e90e17f43e49ebc052d9  bytes 2050
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
  | image1=Winters Jest.jpg
  | official_name=Winter's Jest
  | release_date=11 December 2024 (Official Partners early access)<br>12 December 2024 (public release)

@@ -1,7 +1,9 @@
 # 捣蛋鬼
 # revid 4239  2026-08-16T12:51:20Z  by CangMingSW
 # sha256 b5be40b27dd3e67c91f7c9fdfdcde486f2b3245f6d3e2714a73d5cdc198cad43  bytes 6438
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=发现骚灵.jpg
  |strength=*它可以一次性投掷大量物体，而且投掷力度很大
  |abiliti(es)=*投掷物体降低附近玩家的理智

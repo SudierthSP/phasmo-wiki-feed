@@ -2,7 +2,9 @@
 # revid 3977  2025-10-17T03:23:47Z  by CangMingSW
 # 备注: 解锁等级
 # sha256 3097bf60356a7824396749ae8a4f858d8d9f2cb25c8882e474371daef0ac60f7  bytes 3317
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=VideoCamera090_T1.png
  | tier ii img=VideoCamera090_T2.png
  | tier iii img=VideoCamera090_T3.png

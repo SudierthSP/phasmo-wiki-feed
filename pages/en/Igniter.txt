@@ -1,7 +1,9 @@
 # Igniter
 # revid 22579  2025-12-25T07:34:30Z  by Darkhooper
 # sha256 432b0d47fd4c69c7ae4655ccd7699ce6cc58e05471db84bacf2b53bc8b8f14ed  bytes 5328
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=Igniter090_T1.png
  | tier ii img=Igniter090_T2.png
  | tier iii img=Igniter090_T3.png

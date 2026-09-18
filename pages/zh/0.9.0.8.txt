@@ -2,7 +2,9 @@
 # revid 3060  2023-08-26T04:35:33Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version   | image1=   | official_name=   | release_date=2023.8.26   |planned_release_date=   | previous_major_version=   | previous_minor_version=   | next_minor_version=[[0.9.0.9]]   | next_major_version= }}  ==新增内容== * 现在可以重新绑定手柄的互动键 ==修复漏洞== * VR左手模式下，3级EMF读取仪的效果正常化 * VR模式下，手册现在能在训练模式里正常使用 * VR模式下，腰带上的通灵盒和紫外…”
 # sha256 be0a190bcb34094a4806ae47ce6d56b20676f31d0471874bc80a5f370788252f  bytes 1007
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | image1=
   | official_name=
   | release_date=2023.8.26

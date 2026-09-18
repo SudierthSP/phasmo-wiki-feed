@@ -2,7 +2,9 @@
 # revid 24862  2026-09-18T08:42:19Z  by Darkhooper
 # 备注: added details for safety wish / retested anything and knowledge wishes.
 # sha256 9f3482a264e7ea6f12780482ccebcfd9ed17d62e9766ff085a6e59100683566f  bytes 10179
-# 源: https://phasmophobia.fandom.com/api.php{{Item_Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Item_Template
 |img=Monkey Paw.png
 |imgcaption=
 |uses=3-5 (difficulty dependent)

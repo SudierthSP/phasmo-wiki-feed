@@ -2,7 +2,9 @@
 # revid 24797  2026-09-17T16:47:12Z  by Darkhooper
 # 备注: changed page layout
 # sha256 509e8b3504998684f4b9e561488ac9751774022d5db5aa18c2881b3f1f332378  bytes 21345
-# 源: https://phasmophobia.fandom.com/api.php{{Location
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Location
 |img=High school updated2.png
 |imgcaption=The front of the high school.
 |unlocklevel=8

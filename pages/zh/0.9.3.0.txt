@@ -2,7 +2,9 @@
 # revid 3360  2023-12-11T11:28:43Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version   | release_date=2023年12月11日   | previous_major_version=[[0.9.0]]   | previous_minor_version=[[0.9.1.0]]   | next_minor_version= }}  ==新增内容== * 2023年节日活动现已开始！活动将持续约3周 * 主菜单按钮可查看活动提示 * 连接Unity游戏服务失败时会显示错误信息 ==改动== * 更新[[召唤阵]]的纹理、音频和效果 * III级手电筒升级费用改为$3000 (原为$2500) * I级通灵盒范围…”
 # sha256 5d236e180ff371cf5a8639766a3b4e3c54c26d60e156cc2f220fffc784c5e465  bytes 2171
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2023年12月11日
   | previous_major_version=[[0.9.0]]
   | previous_minor_version=[[0.9.1.0]]

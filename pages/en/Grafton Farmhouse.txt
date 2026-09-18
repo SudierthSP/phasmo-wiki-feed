@@ -2,7 +2,9 @@
 # revid 24940  2026-09-18T17:26:19Z  by Darkhooper
 # 备注: changed page layout
 # sha256 8d66f70a118fd88034e6b44921877362f08dfb20e7d96e5c11496d8eb7153593  bytes 5620
-# 源: https://phasmophobia.fandom.com/api.php{{Location
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Location
 |img=Grafton farmhouse entrance brightened.webp
 |imgcaption=The front of the farmhouse.
 |mapsize=Small

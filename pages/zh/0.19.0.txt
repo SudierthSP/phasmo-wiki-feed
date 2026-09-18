@@ -1,7 +1,9 @@
 # 0.19.0
 # revid 4252  2026-08-26T09:51:47Z  by Qsefthuopq
 # sha256 a7234630029dd089ef39aa4887c8f245bfa0f37dbb0164da86ba345699a58e58  bytes 9934
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
 | image1=0.19.0.png
 | official_name=体验优化更新 第二部分
 | release_date=2026年8月24日（官方合作伙伴抢先体验）

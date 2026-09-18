@@ -1,7 +1,9 @@
 # 监狱
 # revid 3415  2024-04-21T12:01:53Z  by Fireattack5448
 # sha256 6006ca76c186b40fa4d9803784d0409e44693b049864475b35f9e8cb4620f14d  bytes 4215
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Location
 |img=监狱入口.jpg
 |imgcaption=入口走廊
 |teamsize=3

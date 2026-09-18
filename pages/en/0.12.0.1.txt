@@ -2,7 +2,9 @@
 # revid 24457  2026-08-16T16:00:37Z  by Darkhooper
 # 备注: added Known Issues section
 # sha256 1a2764434360f01e5d86aba2fcefab68406704be45ddf251239c7cfd5016bdba  bytes 2504
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
  | image1=Bleasdale Rework.png
  | official_name=Bleasdale Rework
  | release_date=10 March 2025

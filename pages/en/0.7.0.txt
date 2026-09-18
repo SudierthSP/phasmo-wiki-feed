@@ -2,7 +2,9 @@
 # revid 21282  2025-06-29T20:51:28Z  by Darkhooper
 # 备注: changed link
 # sha256 30587ca084f53b4910b73a9bfa47d9580219c391909b03bbc526106055c7371b  bytes 10647
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
   | image1=Apocalypse update poster.png
   | image2=Sunnymeadows corridor basement.jpg
   | official_name=Apocalypse<ref>[https://www.youtube.com/watch?v=H00Oz_599lc Phasmophobia Apocalypse Update Trailer (on YouTube)]</ref>

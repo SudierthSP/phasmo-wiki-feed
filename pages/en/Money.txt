@@ -2,7 +2,9 @@
 # revid 24268  2026-07-24T04:38:36Z  by VVSlavik
 # 备注: Added the corresponding Russian interlanguage link
 # sha256 31567bb1915d7a8239952cb66d721335fb96812894983a78b4562ef8abc88e04  bytes 4855
-# 源: https://phasmophobia.fandom.com/api.php'''Money''' in ''Phasmophobia'' is used to purchase [[equipment]] to bring on investigations or [[cosmetics]].
+# 源: https://phasmophobia.fandom.com/api.php
+
+'''Money''' in ''Phasmophobia'' is used to purchase [[equipment]] to bring on investigations or [[cosmetics]].
 
 ==Mechanics==
 Each [[player]] starts off with $0, and can earn money through finishing [[contract]]s, completing [[Daily and Weekly Tasks|tasks]], and selling off previously bought items. Money is used solely to purchase equipment, and will not interfere with any other gameplay mechanic or grant any other bonus to [[player]]s.

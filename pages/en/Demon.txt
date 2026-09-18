@@ -2,7 +2,9 @@
 # revid 24442  2026-08-11T17:49:22Z  by Darkhooper
 # 备注: favorite room state if ability fails
 # sha256 694eef77bba0dd5aea0bd75e3a9def62a435b56d5816e944d1af96749da6751c  bytes 7380
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Demon Discovered.jpg
  |strength=*Lower hunt cooldown than other ghosts
 *Higher hunt sanity threshold

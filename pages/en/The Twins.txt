@@ -2,7 +2,9 @@
 # revid 23225  2026-04-18T20:10:26Z  by Darkhooper
 # 备注: interaction boxes / interaction range during hunt
 # sha256 c1e0527c5e7dc14dcf4cf54657f3d4afff5313ea05d018bc58b3e0e3393cea23  bytes 7200
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=The Twins Discovered.jpg
  |strength=*Can hunt from a different place than expected
  |abiliti(es)=*Differing speeds depending on which twin hunts

@@ -2,7 +2,9 @@
 # revid 3318  2023-11-23T01:55:36Z  by SABRECAR
 # 备注: /* 要求 */
 # sha256 712679d09208fb7e30af57d0d34ec6eab4380bbbfa3886bae06bc048374b96c1  bytes 856
-# 源: https://phasmophobia.fandom.com/zh/api.php天启挑战是[[0.7.0|天启更新]]的特殊挑战。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+天启挑战是[[0.7.0|天启更新]]的特殊挑战。
 ==要求==
 * 设置自定义难度
 * 在单人模式下选择[[阳光草甸精神病院]]地图，

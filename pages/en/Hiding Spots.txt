@@ -2,7 +2,9 @@
 # revid 24264  2026-07-24T04:37:59Z  by VVSlavik
 # 备注: Added the corresponding Russian interlanguage link
 # sha256 ce98e665e363590ad17eabbbbd55ff64a512fe298a8c7c165a0c0cc9b8ac3566  bytes 2162
-# 源: https://phasmophobia.fandom.com/api.php[[File:Tanglewood Garage Lockers.png|thumb|Lockers in [[6 Tanglewood Drive]]|265x265px]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:Tanglewood Garage Lockers.png|thumb|Lockers in [[6 Tanglewood Drive]]|265x265px]]
 '''Hiding Spots''' are features within a [[Map]] that allow players to survive [[hunt]]s.
 
 ==Mechanics==

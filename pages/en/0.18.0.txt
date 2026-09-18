@@ -2,7 +2,9 @@
 # revid 24472  2026-08-25T15:05:51Z  by Darkhooper
 # 备注: next version
 # sha256 1f442fc343c79f35dca3eaab8bedd74e519c00e75b43871582b3ae502bf0cb90  bytes 13237
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
 | image1=0.18.0.png
 | official_name=Willow Rework
 | release_date=20 July 2026 (Official Partners early access)<br>21 July 2026 (public release)

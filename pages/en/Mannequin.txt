@@ -2,7 +2,9 @@
 # revid 24421  2026-08-06T19:16:45Z  by Darkhooper
 # 备注: removed Willow's dress forms
 # sha256 5e09b47e3c22e8287398d2453c41870d2ae1b458101c21c58538fa5f19ac4644  bytes 2231
-# 源: https://phasmophobia.fandom.com/api.php'''Mannequins''' are props that the [[ghost]] can interact with. They are most commonly found in garages and basements.
+# 源: https://phasmophobia.fandom.com/api.php
+
+'''Mannequins''' are props that the [[ghost]] can interact with. They are most commonly found in garages and basements.
 
 ==Mechanics==
 Players cannot interact with or move mannequins in any way. However, they can block the ghost's line-of-sight during [[hunt]]s. When a ghost [[Interaction|interacts]] with mannequins, it will leave an [[EMF]] 2 reading (33% chance for [[EMF Level 5]] instead for applicable ghosts) at its base. If the mannequin gets teleported, the EMF reading will be located at the mannequin's original location.

@@ -2,7 +2,9 @@
 # revid 24435  2026-08-07T20:59:29Z  by Quietust
 # 备注: /* Identification */ ...so people don't assume that "prop" means "anything the ghost can interact with"
 # sha256 540178b5ca4cd25003d73191985e9feffd68d37e03014814c12a8c127d41367b  bytes 7823
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Poltergeist Discovered.jpg
  |strength=*Sanity decrease stacks up during multithrow interactions
  |abiliti(es)=*Can throw multiple objects at once

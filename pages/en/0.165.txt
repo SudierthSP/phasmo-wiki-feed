@@ -2,7 +2,9 @@
 # revid 23907  2026-06-28T21:37:34Z  by VVSlavik
 # 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
 # sha256 881d982f37b170066439fbb405787aa749ddd17eca42c094d96e9ccfb1c88eae  bytes 7302
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
 |official_name=Post Launch Update #1
 |release_date=25 September 2020
 |previous_major_version=[[0.1]]

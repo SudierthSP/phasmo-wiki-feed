@@ -3,6 +3,8 @@
 # sha256 afa1b4091e11bfe631e34eccb11c8a9ef4848e30ef5538290e0516f8810198d4  bytes 3365
 # 源: https://phasmophobia.fandom.com/zh/api.php
 
+
+
 [[File:空任务版.jpg|thumb|任務板例子]]
  '''目标告示板(Objective Board)''' 在玩家出生的 [[厢式货车|货车]] 中, 它在 [[监控电脑|电脑]] 的对面并与 [[活动强度显示屏]] 和 [[声音传感器]]相邻。
 

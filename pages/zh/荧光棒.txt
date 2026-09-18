@@ -2,4 +2,6 @@
 # revid 3658  2024-12-16T14:55:25Z  by Skaijie
 # 备注: 重定向页面至[[紫外线灯光]]
 # sha256 1b5764577a9ee1068dc0535d3b91497ad80319c587aa01bbb6124385e33aa181  bytes 29
-# 源: https://phasmophobia.fandom.com/zh/api.php#REDIRECT [[紫外线灯光]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+#REDIRECT [[紫外线灯光]]

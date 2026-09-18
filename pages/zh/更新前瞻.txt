@@ -1,7 +1,9 @@
 # 更新前瞻
 # revid 3654  2024-12-16T14:32:52Z  by Skaijie
 # sha256 9fcf25daf68d8a52dcda4095c5d03fbbdb3a5433f6ff7fc799fa5161b95b2aa0  bytes 1307
-# 源: https://phasmophobia.fandom.com/zh/api.php大多数更新计划公布在[https://trello.com/b/9QrnqQ1j/phasmophobia Trello]或[https://discord.gg/invite/phasmophobia 官方Discord服务器]。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+大多数更新计划公布在[https://trello.com/b/9QrnqQ1j/phasmophobia Trello]或[https://discord.gg/invite/phasmophobia 官方Discord服务器]。
 
 == 计划更新 ==
 ;未来更新

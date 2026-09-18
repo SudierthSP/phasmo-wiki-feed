@@ -2,7 +2,9 @@
 # revid 24587  2026-08-29T03:59:58Z  by Darkhooper
 # 备注: Undo revision [[Special:Diff/24583|24583]] by [[Special:Contributions/Sjadyak|Sjadyak]] ([[User talk:Sjadyak|talk]]) redundant with the clamp bullet point right above
 # sha256 368ee179fc126f8d7f61a5058de33e596ecfb720a0d21f4b62a103cb15b94327  bytes 14361
-# 源: https://phasmophobia.fandom.com/api.phpUnlocked at level 50, '''custom difficulty''', as the name suggests, allows the player to modify various parameters relating to the player, the ghost, and the contract itself. In exchange, the reward multiplier is either increased (if the changes make the difficulty harder) or decreased (if the changes make the difficulty easier). The penalties for decreasing the difficulty are usually higher than the rewards for increasing it.
+# 源: https://phasmophobia.fandom.com/api.php
+
+Unlocked at level 50, '''custom difficulty''', as the name suggests, allows the player to modify various parameters relating to the player, the ghost, and the contract itself. In exchange, the reward multiplier is either increased (if the changes make the difficulty harder) or decreased (if the changes make the difficulty easier). The penalties for decreasing the difficulty are usually higher than the rewards for increasing it.
 
 ==Difficulty Modifiers==
 Each difficulty setting will show a coloured icon beside it, depending on how the reward multiplier is affected, mostly in relation to Amateur difficulty:

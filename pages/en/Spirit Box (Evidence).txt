@@ -2,7 +2,9 @@
 # revid 23460  2026-05-12T14:35:09Z  by Quietust
 # 备注: /* Possible ghosts */
 # sha256 0bcc101811d84c45c967cee168dde36b6dc0fb3b1951781204dc1bd2fe7b3620  bytes 10055
-# 源: https://phasmophobia.fandom.com/api.php{{Evidence_Infobox
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Evidence_Infobox
 |detected_by=[[File:SpiritBox_Render.png|24x24px|link=Spirit Box]] [[Spirit Box]]
 |title1=Spirit Box
 |image1=SpiritBox_Ghost.png

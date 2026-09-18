@@ -2,4 +2,6 @@
 # revid 2130  2020-10-21T04:19:30Z  by SquareRootOfNegativ1
 # 备注: Redirected page to [[Fuse Box]]
 # sha256 d23e13ce8e2d34c0a98dd9d9fa8d147317503740665fc8505cc49a96e4377316  bytes 22
-# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Fuse Box]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+#REDIRECT [[Fuse Box]]

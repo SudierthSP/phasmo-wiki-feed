@@ -2,7 +2,9 @@
 # revid 22785  2026-03-03T00:48:17Z  by Darkhooper
 # 备注: correct navbox
 # sha256 c5ceb833558c610f3446d42cfa5803248004617e37194138c4991d4d930edae3  bytes 2903
-# 源: https://phasmophobia.fandom.com/api.php[[File:TanglewoodExitDoor.png|thumb|256x256px|The exit door on [[6 Tanglewood Drive]].]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:TanglewoodExitDoor.png|thumb|256x256px|The exit door on [[6 Tanglewood Drive]].]]
 An '''exit door''' is a physical barrier, often in the form of a [[door]], that separates the safe area (usually the "outside") from the investigation area of any given [[map]]. 
 
 == Mechanics ==

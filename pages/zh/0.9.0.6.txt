@@ -2,7 +2,9 @@
 # revid 3057  2023-08-24T14:51:04Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version   | image1=   | official_name=   | release_date=2023.8.24   |planned_release_date=   | previous_major_version=   | previous_minor_version=   | next_minor_version=[[0.9.0.7]]   | next_major_version= }}  ==改动== * 交换游戏手柄的互动和主使用键，更方便游玩 * 2级EMF读取仪的生效范围变为和描述一致的2米 ==修复漏洞== * 在竖屏模式下，相机不再能拍照（退回至0.9.0.4版本） * 在布娃娃动…”
 # sha256 4911d711e396f3d74c65032e887a330752de12259cc67dbd45c5478c7ba90d9b  bytes 985
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | image1=
   | official_name=
   | release_date=2023.8.24

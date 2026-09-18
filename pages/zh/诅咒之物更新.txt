@@ -2,4 +2,6 @@
 # revid 1560  2021-12-05T17:09:28Z  by Qsefthuopq
 # 备注: 重定向页面至[[圣诞节更新]]
 # sha256 721b554b7647aa0bf93b506e793c8d0a9f267f5f4ac8f3782282b4ec59844acc  bytes 29
-# 源: https://phasmophobia.fandom.com/zh/api.php#redirect [[圣诞节更新]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+#redirect [[圣诞节更新]]

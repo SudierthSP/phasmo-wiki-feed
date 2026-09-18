@@ -2,7 +2,9 @@
 # revid 24662  2026-09-13T22:23:41Z  by Darkhooper
 # 备注: new tell! Doors starting open parameter is changed when the ghost is Deildegast
 # sha256 c7a6f5da11074a2cc1492ebadfd56c2402923f561e801f473e63131b842147ed  bytes 4761
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=
  |strength=Moves at a faster speed at the start of a contract.
  |weakness(es)=Becomes slower each time players interact with/move items.

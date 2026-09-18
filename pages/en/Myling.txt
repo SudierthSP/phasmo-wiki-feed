@@ -2,7 +2,9 @@
 # revid 23183  2026-04-14T17:34:00Z  by Darkhooper
 # 备注: link to Paranormal Sound page
 # sha256 fe7c9fc0ba959630c3735e1b49e329313b316d51cf55e6119913a38e2e262d9d  bytes 5009
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Myling Discovered.jpg
  |strength=*Has quieter footsteps and vocalizations during hunts
  |abiliti(es)=

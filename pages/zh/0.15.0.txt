@@ -1,7 +1,9 @@
 # 0.15.0
 # revid 4048  2025-12-17T03:19:53Z  by Qsefthuopq
 # sha256 bd8efafa672fb9bacdf04dd8fe3ab35e01da67f3448b7f432330a954e843932f  bytes 1537
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
 | image1=0.15.0.webp
 | release_date=2025.11.11
 | previous_major_version=[[0.14.0.0]]

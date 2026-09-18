@@ -2,4 +2,6 @@
 # revid 2506  2022-11-05T04:41:20Z  by Skaijie
 # 备注: 重定向页面至[[脚印]]
 # sha256 e3ee0c3a8032d6c9fde4e547510c4fdee14a16e411d6171605c17a78d8bca1da  bytes 20
-# 源: https://phasmophobia.fandom.com/zh/api.php#REDIRECT [[脚印]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+#REDIRECT [[脚印]]

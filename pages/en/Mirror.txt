@@ -2,4 +2,6 @@
 # revid 20789  2025-05-07T23:37:41Z  by ItsZumbo
 # 备注: Redirected page to [[Haunted Mirror]]
 # sha256 b02806c67c079be0620682e12956cef3bafa6c7f10c5a2a9b26ea7ace8adf74b  bytes 28
-# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Haunted Mirror]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+#REDIRECT [[Haunted Mirror]]

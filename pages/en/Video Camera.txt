@@ -2,7 +2,9 @@
 # revid 24481  2026-08-25T17:34:50Z  by Darkhooper
 # 备注: 0.19
 # sha256 fda51e2a73f5e80e605cda79ffd9f438aa6462434fc2a56f764bcf7a8d4c57cb  bytes 6988
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=VideoCamera090_T1.png
  | tier ii img=VideoCamera090_T2.png
  | tier iii img=VideoCamera090_T3.png

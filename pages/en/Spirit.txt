@@ -2,7 +2,9 @@
 # revid 23120  2026-04-11T22:37:11Z  by Darkhooper
 # 备注: Reverted edit by [[Special:Contributions/Khxlamity|Khxlamity]] ([[User talk:Khxlamity|talk]]) to last revision by [[User:Darkhooper|Darkhooper]]
 # sha256 74a6ae963ca2d727adbf63722887e1e4f171a20ee24b681b74ea9ceb71f91fb4  bytes 4564
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Spirit Discovered.jpg
  |weakness(es)=Incense prevents hunts for longer (double duration)
  |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]

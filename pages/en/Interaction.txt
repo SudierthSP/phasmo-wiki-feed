@@ -1,7 +1,9 @@
 # Interaction
 # revid 24462  2026-08-18T02:58:17Z  by Darkhooper
 # sha256 88f525cb3dce6433016a6612a6ba19461a8fab9ebc18619c7617f6597ffd0eee  bytes 2873
-# 源: https://phasmophobia.fandom.com/api.phpAn '''interaction''' is a core mechanic in ''Phasmophobia''. It is an occurrence of the [[ghost]] affecting its environment and items within it, and is one of the key parts of [[Activity|ghost activity]]. Although not [[evidence]] in and of itself, it both helps players to find certain pieces of evidence, and allows them to gather [[Media|rewards]] by recording it.
+# 源: https://phasmophobia.fandom.com/api.php
+
+An '''interaction''' is a core mechanic in ''Phasmophobia''. It is an occurrence of the [[ghost]] affecting its environment and items within it, and is one of the key parts of [[Activity|ghost activity]]. Although not [[evidence]] in and of itself, it both helps players to find certain pieces of evidence, and allows them to gather [[Media|rewards]] by recording it.
 
 [[Ghost Event|Ghost events]] and [[hunt]]s do not count as interactions in and of themselves.
 

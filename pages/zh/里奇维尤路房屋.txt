@@ -1,7 +1,9 @@
 # 里奇维尤路房屋
 # revid 3489  2024-11-23T02:36:01Z  by Skaijie
 # sha256 937547e2714132d57cae05311181bbee7eff064f0dd487540f58e7277fdc9e6d  bytes 3425
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Location
  |img=里奇维尤客厅 0.6.png
  |imgcaption=客厅的景色
  |teamsize=2

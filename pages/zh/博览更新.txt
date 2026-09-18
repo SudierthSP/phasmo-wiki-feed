@@ -1,7 +1,9 @@
 # 博览更新
 # revid 3821  2025-08-13T04:55:45Z  by CangMingSW
 # sha256 e908cbbe1e0e0b51ed001df9c55067c9435c558301980417ed5f24cb0ea9cf8b  bytes 3675
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | official_name=Exposition · 博览
   | release_date=2021年8月26日
   | previous_major_version=0.29.6

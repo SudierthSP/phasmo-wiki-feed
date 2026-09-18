@@ -1,7 +1,9 @@
 # EMF
 # revid 3750  2025-06-21T18:23:43Z  by SABRECAR
 # sha256 8cd3d0bff968fb921167626a9931ecb40046528f63eb763d0f428564af0c149a  bytes 2387
-# 源: https://phasmophobia.fandom.com/zh/api.php电磁场简称'''EMF'''，会在鬼魂与环境互动时发出。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+电磁场简称'''EMF'''，会在鬼魂与环境互动时发出。
 
 EMF可使用[[EMF读取仪]]读取，让玩家根据EMF等级推断出[[鬼魂活动]]。
 

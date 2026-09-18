@@ -1,7 +1,9 @@
 # 0.6.0
 # revid 2234  2022-08-04T07:03:04Z  by Skaijie
 # sha256 bbad5e178bf4d9b68b9c7e1678caf2d440e607c8745d20c068f82492fb043ec1  bytes 5134
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | image1=VR overhaul update poster.webp
   | official_name=VR重制
   | release_date=2022年4月7日

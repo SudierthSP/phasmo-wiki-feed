@@ -2,7 +2,9 @@
 # revid 3905  2025-09-19T11:28:51Z  by CangMingSW
 # 备注: /* 照片和奖励 */
 # sha256 17259c8f117eb632d60c93a2b5696f1c4b711392c20bfdffebfeef24be4913e4  bytes 6943
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Item Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Item Template
 | img= Ouija Board New.png
 | imgcaption = 
 | price = 

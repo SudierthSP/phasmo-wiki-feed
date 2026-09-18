@@ -2,7 +2,9 @@
 # revid 24859  2026-09-18T05:11:51Z  by Darkhooper
 # 备注: clarified when the gender is chosen
 # sha256 82212df1819371107b8e2d6c7b2bfe0c72f57888a7c656e62400fb50ebbf6a63  bytes 25386
-# 源: https://phasmophobia.fandom.com/api.php[[File:2.png|alt=|right|310x310px]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:2.png|alt=|right|310x310px]]
 '''Ghosts''' are the main focus of ''Phasmophobia''. Each ghost has a set of unique characteristics, including personal identifiers, abilities, and [[evidence]]s. Players must investigate some of these aspects to correctly identify the ghost. The ghost can [[Interaction|interact]] with its environment or perform [[ghost event]]s, and even attempt to kill the player by initiating [[hunt]]s.
 
 ==Characteristics==

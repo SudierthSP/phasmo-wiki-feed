@@ -2,7 +2,9 @@
 # revid 24123  2026-07-20T11:30:17Z  by Darkhooper
 # 备注: next major version
 # sha256 063b8a129056a6ebfdede611dc89e328795607bcbe705ed84ff480f1ed57abfb  bytes 8596
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
 | image1=0.17.0.jpg
 | official_name=Player Character Update
 | release_date=4 May 2026 (Official Partners early access)<br>5 May 2026 (public release)

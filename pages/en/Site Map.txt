@@ -2,7 +2,9 @@
 # revid 20395  2025-03-15T19:01:00Z  by Hadradavus
 # 备注: a couple words
 # sha256 4aac16c5738c9311d8c744c469ea4facc7dfff9b4c4aee410717bea9fc286e28  bytes 2138
-# 源: https://phasmophobia.fandom.com/api.php[[File:Site map 0.6.png|thumb|The site map of Tanglewood Street House, with a motion sensor and sound sensor placed.]]{{about|the screen seen in the Truck|the locations that players can visit|Map}}
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:Site map 0.6.png|thumb|The site map of Tanglewood Street House, with a motion sensor and sound sensor placed.]]{{about|the screen seen in the Truck|the locations that players can visit|Map}}
 The '''Site Map '''is a screen located within the starting [[Truck]], being the top left screen. Beyond giving the name and layout of the current [[map]], it also highlights many map details, including:
 
 * The present location of players, coded to their color on the [[Sanity Monitor]], additionally giving a small light glow to indicate which direction they're facing

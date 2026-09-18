@@ -1,7 +1,9 @@
 # 0.10.0
 # revid 3792  2025-07-03T16:27:25Z  by SABRECAR
 # sha256 11ea50d9e1e3d96d4fd340212f7dfa8a976b019dc47c4231642f5eae795d6214  bytes 12225
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
  | image1=Phas eventide (2).png
  | official_name=薄暝
  | release_date=2024年6月25日

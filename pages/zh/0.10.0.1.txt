@@ -2,7 +2,9 @@
 # revid 3445  2024-07-05T18:01:53Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version  | release_date=2024年7月5日  | previous_major_version=[[0.10.0]]  | previous_minor_version=  | next_minor_version=  | next_major_version= }}'''0.10.0.1'''是发表于2024年7月5日的小型更新。<ref>[https://store.steampowered.com/news/app/739630/view/4250916799074854139 ''Eventide | Hotfix v0.10.0.1''. 5 July 2024 (Steam).]</ref>本次更新主要修复了一些漏洞。  ==改动== *移动[[希望角灯塔]]游戏室防火门，移…”
 # sha256 59ca52dca1e367d11a413f3319307787d70bafa5163f0f8c62f44067863459ba  bytes 2062
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
  | release_date=2024年7月5日
  | previous_major_version=[[0.10.0]]
  | previous_minor_version=

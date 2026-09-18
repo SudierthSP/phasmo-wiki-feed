@@ -1,7 +1,9 @@
 # 活动强度显示屏
 # revid 3782  2025-06-26T05:39:20Z  by SABRECAR
 # sha256 824386a666911f321c0fee162fdfba7167d5e7cc23bcab9a4b6686fdce5e28a2  bytes 2591
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:Site activity monitor 0.6.webp|thumb|活动强度显示屏显示出了当前鬼魂的活动强度]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:Site activity monitor 0.6.webp|thumb|活动强度显示屏显示出了当前鬼魂的活动强度]]
 '''活动强度显示屏(site activity monitor)'''位于[[厢式货车]]的第四块屏幕上，用来显示当前的[[鬼魂]]的活动强度（范围从0到10），此数值可以大致表现出[[EMF读取仪]]的读数。当活动强度为0时，则表示[[鬼魂活动]]很少或没有。当数值为10时，则表示鬼魂活动非常剧烈，如[[猎杀]]，即鬼魂同时与房间门和灯交互，或者鬼魂同时与多物品交互。
 
 在噩梦和疯狂[[难度]]时，活动强度显示屏将被损毁并提供不可信的随机数，使玩家无法得到鬼魂的活动强度。

@@ -1,7 +1,9 @@
 # 理智药
 # revid 3826  2025-08-15T09:31:10Z  by CangMingSW
 # sha256 141e7afed850f06f6f99b8a30b39f6c4a65aba784e76a7f0e83d5622bad9a866  bytes 4647
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=Med090_T1.png
  | tier ii img=Med090_T2.png
  | tier iii img=Med090_T3.png

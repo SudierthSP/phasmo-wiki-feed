@@ -2,7 +2,9 @@
 # revid 24125  2026-07-20T11:31:18Z  by Darkhooper
 # 备注: next major version
 # sha256 a910c76bfc04ff4d68ad6ccafe5f8cd437cac504879097cd84cb8a4ab55a6df8  bytes 999
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
 | release_date=13 May 2026
 | previous_major_version=[[0.17.0]]
 | previous_minor_version=[[0.17.1.0]]

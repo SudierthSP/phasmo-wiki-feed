@@ -2,7 +2,9 @@
 # revid 23421  2026-05-07T20:39:55Z  by Darkhooper
 # 备注: 0.17
 # sha256 44a4b118a696e02b808e037953cf369a206e3aeb521242d314573b8d7dcc461a  bytes 6691
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Yokai Discovered.jpg
  |strength=*Talking near it will temporarily increase the hunting threshold and interaction rate
  |weakness(es)=*When hunting, it can only hear voices and detect electronics within a short range

@@ -2,7 +2,9 @@
 # revid 3844  2025-08-16T13:54:07Z  by GrapeK
 # 备注: /* 画廊 */
 # sha256 ec87085efb8d6ade8a4633a104ec9afb57654657e5b4f1a3c8c6bd94bca63b76  bytes 2800
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=Flash090_T1.png
  | tier ii img=Flash090_T2.png
  | tier iii img=Flash090_T3.png

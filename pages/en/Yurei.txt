@@ -2,7 +2,9 @@
 # revid 24593  2026-09-03T00:15:45Z  by Darkhooper
 # 备注: re-added locker doors bug note (with video proof)
 # sha256 a2125cfc650be6ec1b255c353ebeeae15d594bd7b6b7979243d6dda23b9bf11d  bytes 7877
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Yurei Discovered.jpg
  |abiliti(es)=*May randomly shut a door and deduct nearby players' sanity
  |weakness(es)=*Will be temporarily confined to its room after smudging

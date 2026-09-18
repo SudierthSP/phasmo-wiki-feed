@@ -1,7 +1,9 @@
 # 出口门
 # revid 2833  2023-03-06T11:39:51Z  by Skaijie
 # sha256 cbf15517bf122b989fe3526e8943df0458c685fc157b230584c808fb2decb5a2  bytes 1097
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:TanglewoodExitDoor.png|thumb|256x256px|坦格活德街的出口门。]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:TanglewoodExitDoor.png|thumb|256x256px|坦格活德街的出口门。]]
 '''出口门'''可让玩家出入调查区域。
 
 == 机制 ==

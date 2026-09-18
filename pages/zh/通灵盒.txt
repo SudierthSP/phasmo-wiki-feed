@@ -2,7 +2,9 @@
 # revid 4141  2026-05-12T19:26:41Z  by FavoriteStarling422
 # 备注: /* 目前有大概率出現無法麥克風無法收音的問題 */
 # sha256 1b4ff9fd6fe5ffc20795787d64fef2fd180420d1c459ebd45e1199dcdff6f096  bytes 10214
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=SpiritBox090 T1.png
  | tier ii img=SpiritBox090 T2.png
  | tier iii img=SpiritBox090 T3.png

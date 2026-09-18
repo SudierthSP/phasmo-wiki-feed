@@ -2,7 +2,9 @@
 # revid 3853  2025-08-18T17:11:53Z  by CangMingSW
 # 备注: 结构与历史部分
 # sha256 5b73aa9b2b13836b62f532a39d5f27e94de7780aa788af17fdbb8152e20518ff  bytes 3907
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Location
  |img=格拉夫頓重置版大門口.jpg
  |imgcaption=门厅
  |teamsize=2

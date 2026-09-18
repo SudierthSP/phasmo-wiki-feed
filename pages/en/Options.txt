@@ -1,7 +1,9 @@
 # Options
 # revid 24665  2026-09-14T20:41:20Z  by Darkhooper
 # sha256 daab05d48271756e2913ba1ab2aebcf19f0fa1571923103badb1d4c9910d658c  bytes 6854
-# 源: https://phasmophobia.fandom.com/api.phpUsers can change several '''options''' in-game.
+# 源: https://phasmophobia.fandom.com/api.php
+
+Users can change several '''options''' in-game.
 
 == Game ==
 {| class="fandom-table"

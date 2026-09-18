@@ -1,7 +1,9 @@
 # 金钱
 # revid 4006  2025-11-03T07:18:58Z  by CangMingSW
 # sha256 27973422197a3da8084927a1b71052e9d86b9a5af122f367b5a2f08a7b09c209  bytes 4429
-# 源: https://phasmophobia.fandom.com/zh/api.php'''金钱（Money）'''在恐鬼症中可以用于购买游玩时可携带的[[装备]]。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+'''金钱（Money）'''在恐鬼症中可以用于购买游玩时可携带的[[装备]]。
 
 ==机制==
 每位[[玩家]]初始金钱为 $0，可以通过完成[[合约]]、完成[[每日和每周任务]]、或出售已购买的物品来获得金钱。  

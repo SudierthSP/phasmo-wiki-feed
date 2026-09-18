@@ -2,5 +2,7 @@
 # revid 2974  2023-08-12T13:10:07Z  by Qsefthuopq
 # 备注: 重定向页面至[[熏香]]
 # sha256 141457a19e3ce86def12b1823918eb3e52b7c6d5cb6318ac52376c5632481a29  bytes 84
-# 源: https://phasmophobia.fandom.com/zh/api.php#redirect [[熏香]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+#redirect [[熏香]]
 在[[0.9.0]]装备更新版本中，圣木已改名为熏香。

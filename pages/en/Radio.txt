@@ -2,7 +2,9 @@
 # revid 24357  2026-07-29T21:50:36Z  by Darkhooper
 # 备注: willow's radio is not bugged
 # sha256 ba1072129ee38e49311274bec56f719a15b85c736fea2c0a7257e23f9a4ff037  bytes 758
-# 源: https://phasmophobia.fandom.com/api.php[[File:Edgefield Radio.png|thumb|A clock radio in [[42 Edgefield Road]].]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:Edgefield Radio.png|thumb|A clock radio in [[42 Edgefield Road]].]]
 '''Radios''' are devices that can be found on several maps which the [[ghost]] can interact with.
 
 ==Mechanics==

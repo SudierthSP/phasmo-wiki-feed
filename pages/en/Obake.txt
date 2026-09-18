@@ -2,7 +2,9 @@
 # revid 24341  2026-07-27T13:57:58Z  by Darkhooper
 # 备注: slight rewording
 # sha256 d3188548f91f26f9f60c138cb2074fad7b0c3769a7d2073aa6adaea0102fc656  bytes 10097
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |title=Obake
  |image1=Obake Discovered.jpg
  |strength=*Fingerprints can disappear faster than usual

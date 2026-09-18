@@ -2,7 +2,9 @@
 # revid 24251  2026-07-24T04:35:55Z  by VVSlavik
 # 备注: Added the corresponding Russian interlanguage link
 # sha256 abe1c7b4b25ad8191de80a7eff93f287dba8984f4907a4d74ae7a4f696d0dc6a  bytes 11179
-# 源: https://phasmophobia.fandom.com/api.phpThe '''daily and weekly tasks''' given to the player are predetermined instead of being completely random. There are 31 predetermined groups of 4 daily tasks, and 52 predetermined groups of 4 weekly tasks. These groups are in a fixed order determined by the calendar.
+# 源: https://phasmophobia.fandom.com/api.php
+
+The '''daily and weekly tasks''' given to the player are predetermined instead of being completely random. There are 31 predetermined groups of 4 daily tasks, and 52 predetermined groups of 4 weekly tasks. These groups are in a fixed order determined by the calendar.
 
 {| class="article-table"
 !colspan="2"|As of {{CURRENTDAY}} {{CURRENTMONTHNAME}} {{CURRENTYEAR}} (UTC)

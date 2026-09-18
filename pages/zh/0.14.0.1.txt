@@ -2,7 +2,9 @@
 # revid 3828  2025-08-15T15:13:34Z  by CangMingSW
 # 备注: 媒体 失真音乐 翻译错误
 # sha256 85b139409f47e8ec407b08b875156657fe44f29f7c5216f6c5f72beacc6b3a12  bytes 1104
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
 | release_date=2025年8月14日
 | previous_major_version=[[0.14.0]]
 | previous_minor_version=

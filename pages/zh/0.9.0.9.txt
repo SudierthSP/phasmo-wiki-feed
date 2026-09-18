@@ -2,7 +2,9 @@
 # revid 3229  2023-09-08T09:10:59Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version   | release_date=2023年9月7日   | previous_major_version=[[0.9.0]]   | previous_minor_version=[[0.9.0.8]]   | next_minor_version= }} '''0.9.0.9'''是发布于2023年9月7日的小型更新。<ref>[https://store.steampowered.com/news/app/739630/view/3677806476779838414 ''Ascension | Hotfix v0.9.0.9''. 6 September 2023 (on Steam).]</ref>本次更新进行了一些优化，重做了被动[[理智]]消耗机制并修复漏洞。  ==改动== *…”
 # sha256 8cc0263d9f2bbb4240a9564861a4da262d4a4d0586dd029d485580e1d08cabfd  bytes 2649
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2023年9月7日
   | previous_major_version=[[0.9.0]]
   | previous_minor_version=[[0.9.0.8]]

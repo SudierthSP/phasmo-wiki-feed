@@ -2,7 +2,9 @@
 # revid 24663  2026-09-14T19:22:03Z  by Darkhooper
 # 备注: added bug note
 # sha256 67a71d299e41a7ebdd6d680cf6fda47fe676e42302db8e4a496a2b0ca4f6c3c0  bytes 5000
-# 源: https://phasmophobia.fandom.com/api.php{{Item_Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Item_Template
 |img=Sc new1.jpg
 |imgcaption=
 |uses=1

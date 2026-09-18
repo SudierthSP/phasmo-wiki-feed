@@ -2,7 +2,9 @@
 # revid 3495  2024-11-24T19:07:45Z  by Kyokatsmin
 # 备注: Fix where the hunt should also be started even if the ghosts manifest at very last seconds of music
 # sha256 2b00a400379a553b9f8c709d614650759830b74bc6b1098cbebee6529c90d0d3  bytes 2898
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Item_Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Item_Template
 |img=Music Box.png
 |imgcaption=
 |maxamount=1

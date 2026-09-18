@@ -2,7 +2,9 @@
 # revid 23940  2026-06-28T21:39:56Z  by VVSlavik
 # 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
 # sha256 c4c633da372a327df708b525cb1ad6282117e0095c1a580fbdd871b44805039f  bytes 6570
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
   | image1=Cursed possessions update poster.png
   | official_name=Cursed Possessions
   | release_date=10 December 2021

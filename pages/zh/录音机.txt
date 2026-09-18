@@ -2,7 +2,9 @@
 # revid 3806  2025-07-28T07:05:29Z  by CangMingSW
 # 备注: 初始编辑
 # sha256 1b8e63c07c394186b0b4393986eba9ba5c49e7971532d948a12185ba65e94b7e  bytes 3208
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=SoundRecorder_T1.png
  | tier ii img=SoundRecorder_T2.png
  | tier iii img=SoundRecorder_T3.png

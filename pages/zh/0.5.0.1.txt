@@ -1,7 +1,9 @@
 # 0.5.0.1
 # revid 1814  2022-01-20T15:11:28Z  by Qsefthuopq
 # sha256 3a6e24d1f774068041433e0582d014dc55622bebc915a9ee4d5f81585531c13c  bytes 509
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | official_name=诅咒之物热修复
   | release_date=2021年12月11日
   | previous_major_version=[[圣诞节更新]]

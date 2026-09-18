@@ -1,7 +1,9 @@
 # 0.3.1.0
 # revid 1222  2021-10-23T03:22:06Z  by Qsefthuopq
 # sha256 1638a51f9dc257242835a6a41e8be94926acd1d513eaf69972946b3ee71ed54f  bytes 2042
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | official_name=周年更新
   | release_date=2021年9月18日
   | previous_major_version=[[博览更新|0.3.0]]

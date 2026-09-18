@@ -2,7 +2,9 @@
 # revid 24627  2026-09-11T04:17:07Z  by Darkhooper
 # 备注: moroi
 # sha256 63be325f74ea254a6a7c3a23e19d124885389e03b8b2adec431ac876f80cc036  bytes 4873
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=SoundRecorder_T1.png
  | tier ii img=SoundRecorder_T2.png
  | tier iii img=SoundRecorder_T3.png

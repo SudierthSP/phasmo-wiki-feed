@@ -2,7 +2,9 @@
 # revid 24267  2026-07-24T04:38:27Z  by VVSlavik
 # 备注: Added the corresponding Russian interlanguage link
 # sha256 4fbd874a9d07fe3e2722cee4b5b538bea1ebba024ac853f8a51e21e48de5c10b  bytes 9646
-# 源: https://phasmophobia.fandom.com/api.phpPlayers are assigned (optional) '''objectives''' during their investigations. Each [[contract]] has 4 objectives, one of which is always "Find the correct ghost type", and the other three are randomly chosen.
+# 源: https://phasmophobia.fandom.com/api.php
+
+Players are assigned (optional) '''objectives''' during their investigations. Each [[contract]] has 4 objectives, one of which is always "Find the correct ghost type", and the other three are randomly chosen.
 
 Objectives are displayed on the [[Objective Board|objective board]] and in the [[journal]] (except for "Find the correct ghost type"). The objectives provided are entirely optional, even ignored altogether (forfeiting [[experience]] and [[money|cash]] rewards from them), and can be done in any order. Some of them cannot be completed with only starter [[equipment]].
 

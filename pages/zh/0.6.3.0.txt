@@ -2,7 +2,9 @@
 # revid 2168  2022-07-16T13:04:52Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version   | release_date=2022年7月16日   | previous_major_version=[[0.6.0]]   | previous_minor_version=[[0.6.2.3]]   | next_major_version=   | next_minor_version= }} '''0.6.3.0'''是发布于2022年7月16日的小型更新。<ref>[https://store.steampowered.com/news/app/739630/view/3409804887893815044 Truck Overhaul | Update v0.6.3.0 (on Steam)]</ref>  本次更新重新添加Windows的语音识别系统并修复一些漏洞。  == 变更 == ;语…”
 # sha256 6b45989f32338a9484130825ecb2f9c46e1a804b98662a0039c8484c7a18813a  bytes 743
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2022年7月16日
   | previous_major_version=[[0.6.0]]
   | previous_minor_version=[[0.6.2.3]]

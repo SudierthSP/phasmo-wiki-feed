@@ -1,7 +1,9 @@
 # 数据
 # revid 2837  2023-03-10T16:29:27Z  by Skaijie
 # sha256 cdd3874ea226fe0e1ec3dc0256e7f0c5fe60257f7671c85e6d428911b5a0b379  bytes 1697
-# 源: https://phasmophobia.fandom.com/zh/api.php'''数据'''有统计数据及合约数据，分为玩家和鬼魂数据。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+'''数据'''有统计数据及合约数据，分为玩家和鬼魂数据。
 
 ==列表==
 {| class="fandom-table"

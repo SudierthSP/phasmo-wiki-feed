@@ -1,7 +1,9 @@
 # 任务板
 # revid 3967  2025-10-15T15:16:38Z  by CangMingSW
 # sha256 7624876376bfbe49a7f49aec55ea9a16226a09234d5d6276dbef9fbd22f47063  bytes 1522
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:空任务版.jpg|thumb|任务板例子]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:空任务版.jpg|thumb|任务板例子]]
 '''任务板(Objective Board)'''是[[厢式货车]]中的设备。
 
 == 用途 ==

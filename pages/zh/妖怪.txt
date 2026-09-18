@@ -2,7 +2,9 @@
 # revid 3889  2025-09-06T09:15:34Z  by CangMingSW
 # 备注: 猎杀
 # sha256 21398c3bfd7b6e3a658870d3efa9164b82bcc7f36c5e9eabe2d665ef51bd1e05  bytes 3225
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
   |image1=发现妖怪.jpg
   |abiliti(es)=*在它附近說話會激怒它，增加攻擊慾望
   |weakness(es)=*它獵殺時只能聽到附近的聲音

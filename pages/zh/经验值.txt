@@ -1,7 +1,9 @@
 # 经验值
 # revid 3264  2023-09-13T00:53:57Z  by Skaijie
 # sha256 0ef192f9460c6a89ec5eea2c259ef7d33747802a54a56ea3c62cf6dfb7161e71  bytes 3075
-# 源: https://phasmophobia.fandom.com/zh/api.php{{过时资料|2023年 9月}}'''经验值''' (或'''XP''') 用于解锁[[装备]]和[[难度]]。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{过时资料|2023年 9月}}'''经验值''' (或'''XP''') 用于解锁[[装备]]和[[难度]]。
 
 == 机制 ==
 玩家一开始为 1 等级。完成[[合约]]可获取经验。

@@ -2,7 +2,9 @@
 # revid 23852  2026-06-19T19:28:30Z  by Darkhooper
 # 备注: ghost writing and fire extinguishing are special mechanics that cannot be forced
 # sha256 61fb4652efbcd257bf389282cad2bbaf1f368549dc092205a7e2175f7805a56a  bytes 4088
-# 源: https://phasmophobia.fandom.com/api.php{{Item_Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Item_Template
  |img=Voodoo Doll New.jpg
  |imgcaption=A small doll with buttons for eyes and stitched lips.
  |uses=Up to 10

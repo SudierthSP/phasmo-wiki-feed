@@ -1,7 +1,9 @@
 # 監獄 - 限制區
 # revid 4268  2026-08-26T12:55:56Z  by Fanta1109
 # sha256 652b859f9286b61d0a38f22cbce831a3db4e11a785e814c21a312d1e342d1110  bytes 2140
-# 源: https://phasmophobia.fandom.com/zh/api.php==監獄 - 受限區域==
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+==監獄 - 受限區域==
 此地圖的為[[監獄]]限制版本可以獨立於主要地點進行選擇，並被視為小型地圖。在受限版本中，僅能進入緊鄰的入口區域（[[詛咒之物]]生成處）以及地圖前側隨機選取的一個樓層，其餘區域皆會被封鎖。監獄受限區域的任何變體均無法進入牢房區或食堂。
 
 {{#tag:tabber|

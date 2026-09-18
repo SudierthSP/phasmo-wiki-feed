@@ -1,7 +1,9 @@
 # Deogen
 # revid 24658  2026-09-13T20:16:09Z  by Darkhooper
 # sha256 68e81db0e6cbd338dca23c36787fa9447c5aab0ac84bc38910f97eb83040cdd2  bytes 9809
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Deogen Discovered.jpg
  |strength= *Always knows where players are during a hunt
 *Moves at a high speed with no player nearby

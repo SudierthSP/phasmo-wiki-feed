@@ -2,7 +2,9 @@
 # revid 24921  2026-09-18T17:08:30Z  by Darkhooper
 # 备注: changed page layout
 # sha256 86aaf4e1033f7eb948a365dab33d2aace2ab0170f38c705a941366592abe5b44  bytes 6746
-# 源: https://phasmophobia.fandom.com/api.php{{Location
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Location
 |img=Edgefield first floor hallway.png
 |imgcaption=A view from the first floor hallway.
 |mapsize=Small

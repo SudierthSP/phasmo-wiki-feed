@@ -2,7 +2,9 @@
 # revid 22906  2026-03-05T00:19:27Z  by Netshado
 # 备注: Changed non-functional sink on tanglewood from garage to utility room.
 # sha256 294e80d22ca9b6ee77673cc548303f55383784dcf7a257e44134fd10a73f0caf  bytes 897
-# 源: https://phasmophobia.fandom.com/api.php[[File:BathroomSink.png|thumb|A bathroom sink full of water.]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:BathroomSink.png|thumb|A bathroom sink full of water.]]
 [[File:KitchenSink.png|thumb|A kitchen sink.]]
 '''Sinks''' can be found in various places such as kitchens, toilets and bathrooms on any map. They can be turned on or off by both the player and the ghost.
 

@@ -1,7 +1,9 @@
 # Mare
 # revid 23811  2026-06-03T13:36:54Z  by Darkhooper
 # sha256 4b8ebad11787c2d13d3d92edd070abc28ee77ceb09bd868ef7b1456ace63b366  bytes 10623
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Mare Discovered.jpg
  |strength=*Hunts at a higher sanity threshold in an unlit room
  |abiliti(es)=*Turns off lights and breaks lightbulbs more often

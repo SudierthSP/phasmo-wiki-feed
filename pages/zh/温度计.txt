@@ -1,7 +1,9 @@
 # 温度计
 # revid 3768  2025-06-26T04:34:13Z  by SABRECAR
 # sha256 b242a13b5a25c042966c0c959b24ec13e91c36d2703debb04182c553ca489f4b  bytes 3329
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=Thermometer090_T1.png
  | tier ii img=Thermometer090_T2.png
  | tier iii img=Thermometer090_T3.png

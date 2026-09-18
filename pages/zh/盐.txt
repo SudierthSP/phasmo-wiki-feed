@@ -1,7 +1,9 @@
 # 盐
 # revid 3284  2023-11-02T12:40:35Z  by Mirrdark
 # sha256 be904937dc73be25be48791b0385d851f60ec92221fb79f022b731c532680aaf  bytes 4548
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=Salt090_T1.png
  | tier ii img=Salt090_T2.png
  | tier iii img=Salt090_T3.png

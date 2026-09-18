@@ -2,7 +2,9 @@
 # revid 24957  2026-09-18T17:39:08Z  by Darkhooper
 # 备注: changed page layout
 # sha256 8e1637c254a9f30c886cd74e9e022234d2c4a0607e1856536bdc85853456de7f  bytes 5173
-# 源: https://phasmophobia.fandom.com/api.php{{Location
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Location
 |img=willow new.png
 |imgcaption=View of the front porch of the yellow brick single-story home.
 |mapsize=Small

@@ -2,6 +2,8 @@
 # revid 17009  2023-12-07T02:19:04Z  by Darkhooper
 # 备注: this page is now a redirect
 # sha256 1950973a6e424518ca4c2077654f3ce018feb869b56f4e96a92cd55aca07a941  bytes 54
-# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Ultraviolet]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+#REDIRECT [[Ultraviolet]]
 
 [[Category:Redirect pages]]

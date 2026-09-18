@@ -1,7 +1,9 @@
 # 鬼魂事件
 # revid 4059  2025-12-23T21:48:16Z  by SunShowerSS
 # sha256 b00ef2ea381ce115dfd280081f03dccb3e97401fb195b3de5e11487d7491891b  bytes 5594
-# 源: https://phasmophobia.fandom.com/zh/api.php'''鬼魂事件'''，为鬼魂在「人间」现形的现象。
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+'''鬼魂事件'''，为鬼魂在「人间」现形的现象。
 
 == 机制 ==
 ===触发鬼魂事件===

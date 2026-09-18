@@ -2,6 +2,8 @@
 # revid 6785  2021-09-29T22:21:29Z  by Whiteheart7
 # 备注: Redirected page to [[Fuse Box]]
 # sha256 326eb31bd581e99397ceaeb1f74829def6e2662dc7c2bab0b514682365fa7a46  bytes 51
-# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Fuse Box]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+#REDIRECT [[Fuse Box]]
 
 [[Category:Redirect pages]]

@@ -1,7 +1,9 @@
 # Infrared Light Sensor
 # revid 20037  2025-01-16T17:01:14Z  by Quietust
 # sha256 4e7348ed34ecca4d9bdbc33693f34c3b1ccaa291e5fd5bb8dae2de13b352b718  bytes 1293
-# 源: https://phasmophobia.fandom.com/api.php{{Item Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Item Template
 |img=Infrared Light Sensor.png
 |imgcaption=A small green box with a sensor mounted on a brick wall.
 |price=$65

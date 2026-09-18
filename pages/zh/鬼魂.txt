@@ -1,7 +1,9 @@
 # 鬼魂
 # revid 4294  2026-08-29T23:04:51Z  by 0y0w
 # sha256 b18482150783eb44ae5664dd81992c2a664be6d6f4244ba416c4ce4e13ba23ca  bytes 20516
-# 源: https://phasmophobia.fandom.com/zh/api.php{{stub}}
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{stub}}
 ''{{about|不同类型的鬼魂|鬼魂活动相关信息|鬼魂活动}}''
 [[File:2.png|alt=|thumb|310x310px]]
 

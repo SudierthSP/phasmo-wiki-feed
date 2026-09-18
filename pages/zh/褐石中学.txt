@@ -2,7 +2,9 @@
 # revid 4043  2025-11-16T04:18:45Z  by CangMingSW
 # 备注: 更正房间数错误
 # sha256 7092d6eaba31f0a45f2c17cb694f3714cd599a31afa9e2ab8b88b0e98fec1858  bytes 3932
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Location
 |img=Brownstone.jpg
 |imgcaption=
 |teamsize=3

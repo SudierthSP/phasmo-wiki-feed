@@ -1,7 +1,9 @@
 # 熏香
 # revid 3950  2025-09-30T14:55:00Z  by CangMingSW
 # sha256 2f26e9c517bd7df2f245c1a0d6aba40a677191f994c7a2271a6c548ea6e34198  bytes 4595
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=Incense090_T1.png
  | tier ii img=Incense090_T2.png
  | tier iii img=Incense090_T3.png

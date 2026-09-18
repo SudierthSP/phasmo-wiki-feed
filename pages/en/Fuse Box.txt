@@ -2,7 +2,9 @@
 # revid 24259  2026-07-24T04:37:13Z  by VVSlavik
 # 备注: Added the corresponding Russian interlanguage link
 # sha256 90e297fe42dd16142da82106771b4edb219c5345626eb6028b2796f20e2ef138  bytes 5110
-# 源: https://phasmophobia.fandom.com/api.php{{Item Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Item Template
 |img=Fusebox 0.7 small.png
 |imgcaption=A fuse box in the garage of [[42 Edgefield Road]].
 }}The '''fuse box''', '''breaker''', or '''generator''' is found on [[map]]s and may be turned on or off to power the lights. Ghosts can also [[interaction|interact]] with the fuse box.

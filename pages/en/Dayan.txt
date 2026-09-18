@@ -2,7 +2,9 @@
 # revid 24365  2026-07-30T15:44:16Z  by Pyrebow
 # 备注: It also has been seen in others as well
 # sha256 3de989c61d3c5077352f519feaec5924d3cb890a7fcb1c27f1cff8d38317ebcb  bytes 6674
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=
  |strength=*Moves quicker during hunts and hunts sooner when a player moves near the ghost
  |weakness(es)=*Moves slower during hunts and hunts later when a player stands still near the ghost

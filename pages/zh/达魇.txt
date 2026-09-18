@@ -1,7 +1,9 @@
 # 达魇
 # revid 4149  2026-05-13T15:23:05Z  by Suser cat
 # sha256 757af313889791e93d24e95851bbd2e54a78fb3d1ec66b6c36a6379aab5713cd  bytes 5201
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=
  |strength=*当玩家在鬼魂附近移动时，它会移动得更快。
  |weakness(es)=*当玩家在鬼魂附近静止不动时，它会移动得更慢。

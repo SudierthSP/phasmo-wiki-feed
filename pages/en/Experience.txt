@@ -2,7 +2,9 @@
 # revid 23866  2026-06-23T12:21:06Z  by Darkhooper
 # 备注: though the patch notes say 4,000, the actual max is 3,999 as evidenced by cheater lobbies
 # sha256 d81575721c6d9fab35887915edecc14c923d768200ae65d05dd265f865782d9e  bytes 8558
-# 源: https://phasmophobia.fandom.com/api.php'''Experience''' (or '''XP''') in ''Phasmophobia'' is used to unlock various [[equipment]] and [[difficulty|difficulties]].
+# 源: https://phasmophobia.fandom.com/api.php
+
+'''Experience''' (or '''XP''') in ''Phasmophobia'' is used to unlock various [[equipment]] and [[difficulty|difficulties]].
 
 ==Mechanics==
 Each player starts off at level 1 with 0 XP, and earns XP through finishing [[contract]]s. The experience required to level up increases progressively, and the level is capped at 9,999. Once level 100 has been reached, the player can choose to Prestige, which will wipe out their level, money, and equipment, in exchange for a new badge and title for the [[ID Card]]. The maximum Prestige level is 3,999.

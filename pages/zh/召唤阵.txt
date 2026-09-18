@@ -1,7 +1,9 @@
 # 召唤阵
 # revid 3991  2025-10-19T09:20:41Z  by CangMingSW
 # sha256 e040b95a64427651582388f243d916d819dd6e129a4d89220ad2291d66c4617e  bytes 2007
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Item_Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Item_Template
  |img=Circle.png
  |imgcaption=
  |uses=1

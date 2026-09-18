@@ -2,7 +2,9 @@
 # revid 3548  2024-12-12T13:42:04Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version  | image1=Winters Jest.jpg  | official_name=Winter's Jest|冬日戏谑  | release_date=2024年12月11日 (内测)<br>2024年12月12日 (公测)  | previous_major_version=[[0.11.0]]  | previous_minor_version=[[0.11.0.3]]  | next_minor_version=  | next_major_version= }} 0.11.1.0版本称为“冬日戏谑”更新，是于2024年12月12日发布的小型更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-wintersjestupdate ''Winter’…”
 # sha256 9db5b9767d897308947622d18acc8da24e72622b22fb1a3ff1957c4076d42a83  bytes 1700
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
  | image1=Winters Jest.jpg
  | official_name=Winter's Jest|冬日戏谑
  | release_date=2024年12月11日 (内测)<br>2024年12月12日 (公测)

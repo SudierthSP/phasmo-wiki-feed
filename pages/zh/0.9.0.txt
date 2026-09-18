@@ -2,7 +2,9 @@
 # revid 3990  2025-10-19T07:50:44Z  by Black114514
 # 备注: /* 重命名 */
 # sha256 2562df41716b6c51aaa14bf20b13df3fda5f8ffe1beb4585310e4a334c2b4ea9  bytes 11252
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Stub}}{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Stub}}{{Infobox Version
   | image1=
   | official_name=进阶
   | release_date=北京时间2023年8月17日下午6点

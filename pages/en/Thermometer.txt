@@ -2,7 +2,9 @@
 # revid 22737  2026-02-06T01:17:10Z  by HollyleafYT
 # 备注: /* Tier III */
 # sha256 b2068acf4f57424a4bf87d742bbfac41f8937dab465db5f1e93302699f8bc04b  bytes 6123
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=Thermometer090_T1.png
  | tier ii img=Thermometer090_T2.png
  | tier iii img=Thermometer090_T3.png

@@ -2,4 +2,6 @@
 # revid 16555  2023-09-29T16:49:23Z  by Skaijie
 # 备注: ??? just describe it on that page its not like they did a ship of theseus on it
 # sha256 37ca8c91c587475dad7a15c189079ab06a53815658d4288ade57e6a0eac6dcf8  bytes 22
-# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[UV Light]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+#REDIRECT [[UV Light]]

@@ -1,7 +1,9 @@
 # 0.4.1.0
 # revid 1432  2021-11-05T08:43:55Z  by Qsefthuopq
 # sha256 52f3cc3af0da25de2ab73b5913df8f201b36924e2b8e44d1f3877c18610710f4  bytes 3340
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | official_name=噩梦平衡补丁
   | release_date=2021年11月3日
   | previous_major_version=[[万圣节更新]]

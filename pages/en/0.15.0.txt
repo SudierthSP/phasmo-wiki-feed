@@ -2,7 +2,9 @@
 # revid 23901  2026-06-28T21:37:07Z  by VVSlavik
 # 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
 # sha256 a77183f8003aae3b71c4ed901de224d86aedb25967f9c2fa8402773d693ff465  bytes 2344
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
 | image1=0.15.0.jpg
 | official_name=Nell's Diner
 | release_date=10 November 2025 (Official Partners early access)<br>11 November 2025 (public release)

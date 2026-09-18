@@ -2,4 +2,6 @@
 # revid 2711  2023-01-10T05:56:30Z  by Qsefthuopq
 # 备注: 重定向页面至[[褐石中学]]
 # sha256 d9d8d7319b4a3164c705dba4b34748d37c9b9b14db6e530e7444ff0fda7312b3  bytes 26
-# 源: https://phasmophobia.fandom.com/zh/api.php#redirect [[褐石中学]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+#redirect [[褐石中学]]

@@ -2,7 +2,9 @@
 # revid 3737  2025-03-14T16:05:51Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version | release_date=2025年3月13日 | previous_major_version=[[0.12.0.1]] | previous_minor_version= | next_minor_version= | next_major_version= }}'''0.12.0.2'''是发布于2025年3月13日的小型热修复更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-v001202-hotfix ''Phasmophobia Hotfix v0.12.0.2''. 13 March 2025.]</ref>  ==修复漏洞== ;全平台 *修复在特定地点躲藏时，鬼魂视线不一致的问题。 *修复鬼…”
 # sha256 9e39e50bc2523cf1326feeef6497aff887c4ac9e4c75c2016ed6b7f79305bb3f  bytes 1016
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
 | release_date=2025年3月13日
 | previous_major_version=[[0.12.0.1]]
 | previous_minor_version=

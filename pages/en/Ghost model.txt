@@ -2,4 +2,6 @@
 # revid 10721  2022-04-13T15:37:47Z  by Skaijie
 # 备注: Redirected page to [[Ghost Model]]
 # sha256 1082ac79612be8fc2fd05364d35f1e3c4f111872ee4a2f8ec1131b020b1bf521  bytes 25
-# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Ghost Model]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+#REDIRECT [[Ghost Model]]

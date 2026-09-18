@@ -1,7 +1,9 @@
 # 0.16.1.0
 # revid 4117  2026-04-01T15:26:27Z  by Qsefthuopq
 # sha256 d6effd30843b24f5ec2ac57d59f7a0d061611281ade976506a3fa616a04911c6  bytes 1717
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
 | image1=0.16.1.0.png
 | release_date=2026年3月30日（官方合作伙伴抢先体验）<br>2026年3月31日（公开发布）
 | previous_major_version=[[0.16.0]]

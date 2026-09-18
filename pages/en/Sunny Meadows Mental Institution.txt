@@ -2,7 +2,9 @@
 # revid 24753  2026-09-17T06:42:40Z  by Darkhooper
 # 备注: changed page layout
 # sha256 535e75d8a09e298f7109189b75298cd122782cf146ba53e38852e41634f58537  bytes 28326
-# 源: https://phasmophobia.fandom.com/api.php{{Location
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Location
 |img=Smmi updated1.png
 |imgcaption=Main entrance porch.
 |mapsize=Large

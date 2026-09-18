@@ -2,7 +2,9 @@
 # revid 3822  2025-08-13T05:55:40Z  by CangMingSW
 # 备注: 0.13.0证据系统重制，当前版本0.14.0
 # sha256 2f81cf1fb4ebf1c02446078c1a70b0734d18605767894ea6d40557ce39099b0c  bytes 3910
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=WritingBook090 T1.png
  | tier ii img=WritingBook090 T2.png
  | tier iii img=WritingBook090 T3.png

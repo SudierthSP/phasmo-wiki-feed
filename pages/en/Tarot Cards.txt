@@ -2,7 +2,9 @@
 # revid 24650  2026-09-13T16:29:53Z  by Darkhooper
 # 备注: dataminers confirmed Hermit is 90 seconds.
 # sha256 b98bbcd64540fbd7bf9183349c5f10e9377af75996940a5f06edd133e04aa3e2  bytes 7032
-# 源: https://phasmophobia.fandom.com/api.php{{Item_Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Item_Template
 |img=Tarot Cards.png
 |imgcaption=
 |uses=10

@@ -1,7 +1,9 @@
 # 女妖
 # revid 4299  2026-09-07T14:01:55Z  by 0y0w
 # sha256 41f4451ce5887c661768995ab5e91968e5fe5eae3d20e561cdbdcbd63ccb3d23  bytes 8961
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
   | image1=发现女妖.jpg
   | strength= *鎖定同一名玩家攻擊，直至其死亡或離開遊戲
   | abiliti(es)= *以目標玩家的理智計算獵殺

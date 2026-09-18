@@ -1,7 +1,9 @@
 # 理智显示屏
 # revid 4060  2025-12-25T08:52:34Z  by CangMingSW
 # sha256 24736a3e0f8bd68b1d368eb15c2aafcbd28ae43f4a9d4891e2d5fadc5b4aac9c  bytes 909
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:理智荧幕 0.6.png|border|thumb|货车上的理智显示屏。用户名称被删节。]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:理智荧幕 0.6.png|border|thumb|货车上的理智显示屏。用户名称被删节。]]
 
 '''理智显示屏'''是在货车上标注了“团队理智值”的屏幕。它显示每个人的理智和团队平均理智。理智显示屏并非完全准确，个人理智有 2% 的误差。用它可以判断鬼的猎杀阈值。随着平均理智值降低，鬼魂更有可能[[猎杀]]。
 

@@ -1,7 +1,9 @@
 # Maple Lodge Campsite
 # revid 24829  2026-09-18T02:37:57Z  by Darkhooper
 # sha256 e8f17ac32c5759c04466bbcef67ec8bc58182046db843e3f20633ae5128adaf3  bytes 11514
-# 源: https://phasmophobia.fandom.com/api.php{{Location
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Location
 |img=maple-rework-main-shot.png
 |imgcaption=View from within the primary campsite area.
 |mapsize=Medium

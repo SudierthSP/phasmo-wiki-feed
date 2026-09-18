@@ -2,7 +2,9 @@
 # revid 24569  2026-08-26T23:14:33Z  by Darkhooper
 # 备注: similarly to Sunny Meadows Survival, the Lighthouse Keeper challenge can be completed on Point Hope Restricted
 # sha256 9d725bf76041b027e54c1bbbfdf31ffaa741e37a6b35edd6d031e6196dd3b9c5  bytes 3954
-# 源: https://phasmophobia.fandom.com/api.php[[ru:Доска событий]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[ru:Доска событий]]
 [[File:Event board winter.jpg|300px|thumb|right|The Event Board during the Winter's Jest event.]]
 The '''event board''', in the [[lobby]], allows the player to view their progression in various challenges and [[Special events|events]], as well as getting information on how to complete them.
 

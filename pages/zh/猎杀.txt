@@ -2,7 +2,9 @@
 # revid 4187  2026-07-08T11:54:44Z  by Fanta1109
 # 备注: /* 視野加速 */
 # sha256 008f0670ac396944d9f4aa1aaf3fe039377a34b0f369557d2fc6115d77561748  bytes 21416
-# 源: https://phasmophobia.fandom.com/zh/api.php<div class="mw-collapsible mw-collapsed" style="width: 300px; float: right;">
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+<div class="mw-collapsible mw-collapsed" style="width: 300px; float: right;">
 '''<span style="color: yellow;">图片包含闪烁的灯光</span>'''
 <div class="mw-collapsible-content">[[File:Electronic interference 0.4.0.gif|right|338x196px]]</div>
 </div>

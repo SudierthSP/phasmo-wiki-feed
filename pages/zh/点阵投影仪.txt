@@ -1,7 +1,9 @@
 # 点阵投影仪
 # revid 3577  2024-12-15T04:29:07Z  by Skaijie
 # sha256 682b8dc3022d3836936fc01413b07ffcb900185ca1837dee401100569befdd0a  bytes 5334
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=DOTS090_T1.png
  | tier ii img=DOTS090_T2.png
  | tier iii img=DOTS090_T3.png

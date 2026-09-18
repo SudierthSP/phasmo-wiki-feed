@@ -2,7 +2,9 @@
 # revid 24610  2026-09-05T05:16:45Z  by Darkhooper
 # 备注: added flickering gifs
 # sha256 13f25f7df5b3506fc890d4920a25c84063697bf30d43b775c17bdadfc717160d  bytes 5617
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |title=Oni
  |image1=Oni Discovered.jpg
  |strength= *More active when people are nearby

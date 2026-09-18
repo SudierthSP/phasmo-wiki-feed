@@ -1,7 +1,9 @@
 # 0.6.1.4
 # revid 1913  2022-04-20T14:28:36Z  by Qsefthuopq
 # sha256 c43efb4a0d60dd530cc91c72f3b38186fdd629c7e5bd7b6ff45c828ee0600735  bytes 1428
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2022年4月20日
   | previous_major_version=[[0.6.0]]
   | previous_minor_version=[[0.6.1.3]]

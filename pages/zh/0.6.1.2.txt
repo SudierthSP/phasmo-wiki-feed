@@ -2,7 +2,9 @@
 # revid 1895  2022-04-14T07:26:07Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version   | release_date=2022年4月13日   | previous_major_version=[[0.6.0]]   | previous_minor_version=[[0.6.1.1]]   | next_major_version=   | next_mino…”
 # sha256 3c3a8e65fbb64fc0c327ddc4d272596a2364d1f78cf0fb7569d239a4dee031e3  bytes 2012
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2022年4月13日
   | previous_major_version=[[0.6.0]]
   | previous_minor_version=[[0.6.1.1]]

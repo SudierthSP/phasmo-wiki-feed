@@ -2,7 +2,9 @@
 # revid 3946  2025-09-24T01:33:49Z  by Black114514
 # 备注: /* 可购买装备列表 */
 # sha256 17c658d240c0fe06bd60c35f0b07edc661cc7bac23ffd6eb30aa7ffdb21226dc  bytes 6706
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:装备商店0.7.jpg|right|300px|thumb|装备商店]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:装备商店0.7.jpg|right|300px|thumb|装备商店]]
 恐鬼症里的'''装备'''可用于探明[[鬼魂]]类型，或完成一些可选[[目标]]。玩家可以用成功完成合约获得的金钱购买新装备。
 
 == 机制 ==

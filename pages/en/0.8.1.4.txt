@@ -2,7 +2,9 @@
 # revid 23988  2026-06-28T21:43:46Z  by VVSlavik
 # 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
 # sha256 456b2830aa54b69f817f4207ce945756c083bccfc9b7c28ad648fa85a690102e  bytes 1149
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
   | image1=0.8.1.4.png
   | official_name=Easter Event '23
   | release_date=5 April 2023

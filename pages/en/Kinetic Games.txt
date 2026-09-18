@@ -1,7 +1,9 @@
 # Kinetic Games
 # revid 24506  2026-08-26T00:39:47Z  by Darkhooper
 # sha256 fca79291f1a94e0c799118c964a1c2a61f3a91f42ed6d6d946db3dea75ad1a76  bytes 7444
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Studio
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Studio
  |image1=KineticGames.png
  |founded=2020<ref>https://www.kineticgames.co.uk/about-us</ref>
  |founder=Daniel Knight

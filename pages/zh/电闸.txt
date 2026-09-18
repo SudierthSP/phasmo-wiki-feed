@@ -1,7 +1,9 @@
 # 电闸
 # revid 4036  2025-11-13T09:15:56Z  by CangMingSW
 # sha256 d69e84ff7ce93354c6e8e464ad4d50c834aa1c545ca628890886618728d1b0bf  bytes 2778
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Item Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Item Template
  |img=电闸 0.7 Edgefield.png
  |imgcaption=[[埃奇菲尔德街房屋]]车库的电闸
 }}'''电闸'''生成在每张地图里，为地图供电。[[鬼魂]]可以开启或关闭电闸。

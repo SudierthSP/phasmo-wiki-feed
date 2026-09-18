@@ -2,7 +2,9 @@
 # revid 23976  2026-06-28T21:42:49Z  by VVSlavik
 # 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
 # sha256 7436fd862ab5c143f74e360083d15fcb8ef576ba81a587322a7326c4628afbca  bytes 2936
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
  | release_date=15 December 2022
  | previous_major_version=[[0.8.0]]
  | next_minor_version=[[0.8.0.2]]

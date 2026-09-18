@@ -1,7 +1,9 @@
 # 圣诞节更新
 # revid 1815  2022-01-20T15:11:51Z  by Qsefthuopq
 # sha256 20cd563be14c107a79f6c749fed4e0d9dc232b6b95805902fd6b47b3f7df8c8f  bytes 5453
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | official_name=诅咒之物
   | release_date=2021年12月11日0点
   | previous_major_version=[[万圣节更新|万圣节噩梦更新]]

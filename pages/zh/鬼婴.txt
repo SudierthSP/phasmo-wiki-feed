@@ -1,7 +1,9 @@
 # 鬼婴
 # revid 3710  2025-01-19T17:13:05Z  by Skaijie
 # sha256 3d93a9b740a5ad1cc0365c69fa2b9af0cdd590f6c9d507f28cf15cb3b698e185  bytes 3341
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=发现鬼婴.jpg
  |abiliti(es)=*獵殺更安靜
  |Evidence1=[[File:EMFReader_Render.png|32x32px|link=EMF 5级]]

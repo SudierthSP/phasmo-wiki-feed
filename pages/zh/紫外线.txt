@@ -2,7 +2,9 @@
 # revid 4066  2026-01-28T16:39:20Z  by CangMingSW
 # 备注: /* 媒体奖励 */
 # sha256 a6ada86b4acd8a8b1865a1a4be6bcda6fe8eceb4a646176479d312919c3e0f5f  bytes 4152
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Evidence_Infobox
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Evidence_Infobox
  |image1=Fingerprints_3.png
  |detected_by=[[File:UVLight_Render.png|24x24px|link=紫外线灯光]] [[紫外线灯光]]
 }}'''紫外线''' (原为'''指纹''') 是一件探明鬼魂类型的[[证据]]。

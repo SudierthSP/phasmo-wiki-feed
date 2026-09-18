@@ -2,7 +2,9 @@
 # revid 3392  2024-01-31T15:36:36Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version   | release_date=2024年1月31日   | previous_major_version=[[0.9.0]]   | previous_minor_version=[[0.9.4.0]]   | next_minor_version= }}  ==改动== * [[熏香]]现在能阻挡怨灵的猎杀能力 * 如果怨灵在猎杀中第三次吹灭蜡烛，现在会取消其猎杀能力，不会进行连续猎杀 * Unity版本从2022.3.5f1升级至2022.3.17f1  ==修复漏洞== * [[格拉夫顿农舍]]婴儿房的玩具熊位置移动，使其不会在…”
 # sha256 c04a3285e058237a548a267a123713095dae02ae9e9d4176a53a76899c88bb3f  bytes 1051
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
   | release_date=2024年1月31日
   | previous_major_version=[[0.9.0]]
   | previous_minor_version=[[0.9.4.0]]

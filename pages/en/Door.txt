@@ -2,7 +2,9 @@
 # revid 24666  2026-09-15T04:26:32Z  by Darkhooper
 # 备注: Added subsection on how many doors start open
 # sha256 9d99a0da89d901d61f9c8a77030434871a4d754e9c5d34ec5df5215eefe4fc0b  bytes 6304
-# 源: https://phasmophobia.fandom.com/api.php'''Doors''' are map elements that play an important role in ''Phasmophobia''. They are crucial to the game's mechanics and provide help during investigations.
+# 源: https://phasmophobia.fandom.com/api.php
+
+'''Doors''' are map elements that play an important role in ''Phasmophobia''. They are crucial to the game's mechanics and provide help during investigations.
 
 ==Types of doors==
 All [[map]]s contain doors of some sort. There are three types of doors in the game: hiding spot (locker/closet/small tent flap), passageway (room/hallway/stall/cell) and [[exit door|exit/entrance]]. Each of them serves a different purpose. 

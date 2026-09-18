@@ -2,7 +2,9 @@
 # revid 24250  2026-07-24T04:35:46Z  by VVSlavik
 # 备注: Added the corresponding Russian interlanguage link
 # sha256 f6de68594e41fd009673c5fa95a187f332f270ea00692ec858e4d3a3397ddc94  bytes 3507
-# 源: https://phasmophobia.fandom.com/api.php{{Stub|You can help us by=adding controls for VR headsets with unique controllers}}
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Stub|You can help us by=adding controls for VR headsets with unique controllers}}
 
 This page lists the default controls in ''[[Phasmophobia]]''. They can be modified in the [[Options]] menu.
 

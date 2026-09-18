@@ -2,7 +2,9 @@
 # revid 24594  2026-09-03T00:30:36Z  by Darkhooper
 # 备注: added blindness bug in Notes
 # sha256 77a8bc765123e66c353cefe3bf83f9b0ffb6a723eac30f3f1f79b076976614e7  bytes 13894
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |title=Banshee
  |image1=Banshee Discovered.jpg
  |strength= *Focuses on the same player until that player is killed or has left the game

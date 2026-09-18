@@ -2,7 +2,9 @@
 # revid 24902  2026-09-18T16:57:39Z  by Darkhooper
 # 备注: changed page layout
 # sha256 c4e8d685122971e11034950b61603e07ec7e71239d4085bb3aa350d5fb77b7f5  bytes 6092
-# 源: https://phasmophobia.fandom.com/api.php{{Location
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Location
 |img=Bleasdalereworked.png
 |imgcaption=The front of the farmhouse.
 |mapsize=Medium

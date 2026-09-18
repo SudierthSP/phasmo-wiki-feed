@@ -1,7 +1,9 @@
 # 0.18.0
 # revid 4227  2026-07-23T12:02:51Z  by Qsefthuopq
 # sha256 3e200b3c24ea3d0a33b3e4a978b35c36dc524c258797a615b101c83ac4e778a4  bytes 9049
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
 | image1=0.18.0.jpg
 | official_name=柳树街重制
 | release_date=2026年7月20日（官方合作伙伴抢先体验）

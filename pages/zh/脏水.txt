@@ -2,7 +2,9 @@
 # revid 2753  2023-02-18T00:56:18Z  by ZZW45
 # 备注: 完成翻译
 # sha256 5c9a4153a08418e79125410a734fa502272661b4b1fbd5bf5c04240427d9f5c0  bytes 2283
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Item_Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Item_Template
 |img=脏水0.6最新.png
 |imgcaption=厕所水槽的脏水
 |description=

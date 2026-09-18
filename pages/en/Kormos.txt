@@ -2,7 +2,9 @@
 # revid 24586  2026-08-28T23:52:37Z  by Darkhooper
 # 备注: added killing range numbers from Hunt page
 # sha256 dfd21ea0b7ed6d7d301db55f203210ff5218c4e7598640fb3bdac7fd4706a5b1  bytes 7032
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=
  |strength=*Higher hunt sanity threshold when nearby players sprint outside hunts.
 *Can detect a player's footsteps from far away during a hunt.

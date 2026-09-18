@@ -2,4 +2,6 @@
 # revid 6091  2021-07-09T00:04:03Z  by YummyYummyArsenic
 # 备注: Changed redirect target from [[Objective Board]] to [[Objective Board#Objectives]]
 # sha256 d6811b66e6dd920687ae2e45740324ac49764ba6e03cd318be32b0f522e143f2  bytes 40
-# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Objective Board#Objectives]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+#REDIRECT [[Objective Board#Objectives]]

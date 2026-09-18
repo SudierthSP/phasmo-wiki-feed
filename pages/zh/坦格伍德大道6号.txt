@@ -2,7 +2,9 @@
 # revid 4110  2026-03-18T15:53:33Z  by CangMingSW
 # 备注: /* 诅咒之物位置 */
 # sha256 8ea3778133fb79a738e8b9dcc7f98c53cf8ee1e306be18541395401cae2fb2c8  bytes 3495
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Location
  |img=坦格活德外.jpg
  |imgcaption=一栋白色单层住宅的前廊。
  |teamsize=1

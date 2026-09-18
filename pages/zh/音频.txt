@@ -1,7 +1,9 @@
 # 音频
 # revid 3412  2024-04-03T13:11:53Z  by Xbbbb
 # sha256 238cddb6156fd83a89b40555dbe125440477419da955a510d26a811380834bce  bytes 15978
-# 源: https://phasmophobia.fandom.com/zh/api.php'''该页面需要分类、修改代码和更新。'''
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+'''该页面需要分类、修改代码和更新。'''
 
 == 鬼魂/玩家 ==
 {| class="article-table"

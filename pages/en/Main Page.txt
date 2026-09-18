@@ -2,7 +2,9 @@
 # revid 24618  2026-09-08T17:31:08Z  by Darkhooper
 # 备注: adding link to Spanish wiki
 # sha256 1c610004ef90e2c1553199ab176a7571c283fbdf709bdddd7a46c4a5170ed9d0  bytes 5960
-# 源: https://phasmophobia.fandom.com/api.php<mainpage-leftcolumn-start />
+# 源: https://phasmophobia.fandom.com/api.php
+
+<mainpage-leftcolumn-start />
 <div style="text-align:center; font-family:'October Crow'; font-size:15px">Welcome to</div>
 <div style="text-align:center; font-family:'October Crow'; font-size:100px">Phasmopedia</div>
 <div style="text-align:center; font-family:'October Crow'; font-size:15px">The unofficial Phasmophobia wiki</div>

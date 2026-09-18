@@ -2,4 +2,6 @@
 # revid 19555  2024-11-24T10:47:17Z  by Justf0cus420
 # 备注: Justf0cus420 moved page [[Cursed possession]] to [[Cursed Possession]]: Corrected capitalization
 # sha256 21d5e71bde78601e651c76df3bb20dc24d97698bcd0e30cd30527ab27b13f74d  bytes 31
-# 源: https://phasmophobia.fandom.com/api.php#REDIRECT [[Cursed Possession]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+#REDIRECT [[Cursed Possession]]

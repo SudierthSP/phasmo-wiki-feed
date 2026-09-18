@@ -2,7 +2,9 @@
 # revid 3891  2025-09-12T16:57:50Z  by CangMingSW
 # 备注: 分类
 # sha256 f027be9bebbbca1fd5dc4bf844832ab7c7a190eba5678d859a7b54f2c287f407  bytes 3435
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Location
 |img=布莱斯代尔下雪.jpg
 |img=重置.布萊斯代爾農舍.jpg
 |imgcaption=

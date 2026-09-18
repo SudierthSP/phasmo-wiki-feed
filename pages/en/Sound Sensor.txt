@@ -2,7 +2,9 @@
 # revid 21403  2025-07-04T17:39:42Z  by Darkhooper
 # 备注: tier 1 and 3 unlock levels
 # sha256 baf33bf64ab7fcc385d6e53adb18f8b703612a12cfaf299773d9b48295fa80b9  bytes 5197
-# 源: https://phasmophobia.fandom.com/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
  | tier i img=SoundSensor090_T1.png
  | tier ii img=SoundSensor090_T2.png
  | tier iii img=SoundSensor090_T3.png

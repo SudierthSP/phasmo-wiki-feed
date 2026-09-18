@@ -2,7 +2,9 @@
 # revid 24985  2026-09-18T17:58:57Z  by Darkhooper
 # 备注: changed page layout
 # sha256 fb76748592ff77dd92a3e01afab02cd5cc7b1eee866ff34f56a9ba745b9a19dc  bytes 6447
-# 源: https://phasmophobia.fandom.com/api.php{{Location
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Location
 |img=Tanglewood Front.png
 |imgcaption=A view from the front yard of the house.
 |mapsize=Small

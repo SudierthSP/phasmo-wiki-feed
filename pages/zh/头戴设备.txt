@@ -1,7 +1,9 @@
 # 头戴设备
 # revid 3883  2025-08-24T08:14:14Z  by QxXiaoQing
 # sha256 e21d0ca77d18f36508abc1cf89363a78915d8216457013fda7af31f49488e4c6  bytes 3136
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=HeadGear090_T1.png
  | tier ii img=HeadGear090_T2.png
  | tier iii img=HeadGear090_T3.png

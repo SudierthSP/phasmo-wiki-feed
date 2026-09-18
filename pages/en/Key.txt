@@ -2,7 +2,9 @@
 # revid 23334  2026-05-05T20:24:06Z  by Darkhooper
 # 备注: fixed link
 # sha256 a1f4578561ccb86e85328214717c7a0b5ede06d64622d1f96f723dd9d054be3b  bytes 2489
-# 源: https://phasmophobia.fandom.com/api.php[[File:CarKey.png|alt=The car key on Tanglewood Street.|thumb|273x273px|The car key on [[6 Tanglewood Drive]].]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:CarKey.png|alt=The car key on Tanglewood Street.|thumb|273x273px|The car key on [[6 Tanglewood Drive]].]]
 '''Keys''' are used to unlock [[Exit Door|exit doors]] to investigation areas within [[map]]s, or to turn off a [[car]] alarm.
 
 ==Usage==

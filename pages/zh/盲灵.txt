@@ -1,7 +1,9 @@
 # 盲灵
 # revid 4297  2026-09-01T16:05:43Z  by 0y0w
 # sha256 c9d47c7e30b5213c0165338585aa282b5410529610449e8f3c52af3f0bc4414f  bytes 3549
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=
  |strength=
  |weakness(es)=

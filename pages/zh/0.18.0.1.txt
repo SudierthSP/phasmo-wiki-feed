@@ -2,7 +2,9 @@
 # revid 4232  2026-07-28T17:35:59Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version | release_date=2026年7月28日 | previous_major_version=[[0.18.0]] | previous_minor_version= | next_minor_version= | next_major_version= }}'''0.18.0.1''' 是于2026年7月28日发布的一次小型更新。本次更新主要修复多个漏洞。  ==热修复== ===改动=== 物品与装备现在将按其拾取顺序分配1至3号栏位。手电筒将不再固定于1号栏位。点火器将默认为4号栏位。  ==修复== *修复：在多人…”
 # sha256 0a71501b8fe60de6b1005480b647014a35781561ef08cc3e49c98788a328bf98  bytes 1643
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
 | release_date=2026年7月28日
 | previous_major_version=[[0.18.0]]
 | previous_minor_version=

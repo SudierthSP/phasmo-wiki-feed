@@ -2,7 +2,9 @@
 # revid 23948  2026-06-28T21:40:32Z  by VVSlavik
 # 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
 # sha256 ac1d3c80265da58778d361192c1942f675b3da3a77f7521fd6daf68844135fe3  bytes 6432
-# 源: https://phasmophobia.fandom.com/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
   | image1=VR overhaul update poster.png
   | official_name=VR Overhaul
   | release_date=7 April 2022

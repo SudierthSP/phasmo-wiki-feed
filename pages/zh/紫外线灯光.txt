@@ -1,7 +1,9 @@
 # 紫外线灯光
 # revid 3767  2025-06-25T00:53:51Z  by Khalaris Farraeal
 # sha256 abafce141e243502a7e357c04c3f5b60cfd12878406a73b52eae7a107a482973  bytes 3241
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=UV090_T2.png
  | tier ii img=UV090_T1.png
  | tier iii img=UV090_T3.png

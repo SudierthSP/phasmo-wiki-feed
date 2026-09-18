@@ -2,7 +2,9 @@
 # revid 24291  2026-07-24T04:42:10Z  by VVSlavik
 # 备注: Added the corresponding Russian interlanguage link
 # sha256 9d231de4fac684656c502e0801631d04d93f1721ade7be5b839dc32d5304cc03  bytes 4386
-# 源: https://phasmophobia.fandom.com/api.phpThis page is dedicated for community-made challenges for experienced investigators who are looking for more fun and intense gameplay.
+# 源: https://phasmophobia.fandom.com/api.php
+
+This page is dedicated for community-made challenges for experienced investigators who are looking for more fun and intense gameplay.
 
 == Age-based equipment limits ==
 {| class="article-table"

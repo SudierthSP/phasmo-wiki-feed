@@ -2,7 +2,9 @@
 # revid 3794  2025-07-14T11:18:03Z  by Qsefthuopq
 # 备注: 创建页面，内容为“{{Infobox Version | release_date=2025年7月10日 | previous_major_version=[[0.13.0]] | previous_minor_version=[[0.13.0.1]] | next_minor_version=[[0.13.1.1]] | next_major_version= }}'''0.13.1.0'''是发布于2025年7月10日的小型更新。<ref>[https://www.kineticgames.co.uk/blog/phasmophobia-chronicle-v01310 ''Chronicle Patch - Phasmophobia v0.13.1.0''. 10 July 2025.]</ref>本次更新主要优化游戏体验并修复漏洞。  ==新增内容== *新增可…”
 # sha256 421b8c1508ebb82bdc73dd629892b0c7ee7d861d3658933ab799b41974e6c1f8  bytes 4252
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Infobox Version
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
 | release_date=2025年7月10日
 | previous_major_version=[[0.13.0]]
 | previous_minor_version=[[0.13.0.1]]

@@ -2,7 +2,9 @@
 # revid 23305  2026-05-05T16:08:11Z  by Darkhooper
 # 备注: 0.17
 # sha256 d3256cdd41ad32674a8f1812bee8e5b8cec329617ec23bdd7ceddb2d083170e3  bytes 44034
-# 源: https://phasmophobia.fandom.com/api.phpThe '''Challenge Mode''' is a feature introduced in [[0.8.1.0]]. It allows players to take part in a curated custom [[difficulty]], often based on Professional, with predetermined rules and set of starter items. As players cannot bring their own items, [[Death|dying]] in a challenge does not carry any significant monetary risk, encouraging players to experiment with strategies.
+# 源: https://phasmophobia.fandom.com/api.php
+
+The '''Challenge Mode''' is a feature introduced in [[0.8.1.0]]. It allows players to take part in a curated custom [[difficulty]], often based on Professional, with predetermined rules and set of starter items. As players cannot bring their own items, [[Death|dying]] in a challenge does not carry any significant monetary risk, encouraging players to experiment with strategies.
 
 Regardless of how difficult the challenge is, it always has a base reward multiplier of 1x, equal to Amateur. The main benefit of Challenge Mode is tied to the "Complete Challenge Mode in ''[map name]''" [[Daily and Weekly Tasks|Weekly Task]], which awards a substantial $5,000 and 5,000 XP upon successful completion. Challenge Mode can be played on any map, and as many times as desired, but will not award completion of the aforementioned weekly task unless done on the intended map for the given challenge. Note that identifying the ghost is enough to count towards challenge completion, and the player does ''not'' need to survive the contract. 
 

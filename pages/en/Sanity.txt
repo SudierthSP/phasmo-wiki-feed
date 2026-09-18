@@ -1,7 +1,9 @@
 # Sanity
 # revid 24224  2026-07-22T17:49:40Z  by DKToldMe
 # sha256 d6c8273e0148f981e2eabfa230933dba0b79a82e14278e424f2a398f6ec043d2  bytes 9353
-# 源: https://phasmophobia.fandom.com/api.php'''Sanity''' is a value which determines a number of things during gameplay. Sanity usually begins at 100% at the start of a game and decreases as the game progresses. The lower the average sanity, the more likely a ghost is to perform certain actions.
+# 源: https://phasmophobia.fandom.com/api.php
+
+'''Sanity''' is a value which determines a number of things during gameplay. Sanity usually begins at 100% at the start of a game and decreases as the game progresses. The lower the average sanity, the more likely a ghost is to perform certain actions.
 
 ==Mechanics==
 There are two main readings of sanity in the game: the individual sanity of each player, and the average team sanity of all players. These values can be read at any time on the [[truck]]'s [[Sanity Monitor|sanity monitor]] or roughly visualized on the [[watch]].

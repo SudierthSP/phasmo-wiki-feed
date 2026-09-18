@@ -2,7 +2,9 @@
 # revid 24565  2026-08-26T22:57:57Z  by Darkhooper
 # 备注: 0.19
 # sha256 cae8a022de30429215a40c656f061c215706861215229eb4d21778169616c91c  bytes 13669
-# 源: https://phasmophobia.fandom.com/api.php[[File:Difficulty Selection.png|thumb|300x300px|The contract difficulty selection screen]]'''Difficulties''' in ''Phasmophobia'' adjust the player experience according to their skill. There are five main '''difficulties''' in ''Phasmophobia'': Amateur, Intermediate, Professional, Nightmare, and Insanity. Custom difficulties can also be created. Difficulties impact the player, the ghost, and the contract, giving out varying rewards.
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:Difficulty Selection.png|thumb|300x300px|The contract difficulty selection screen]]'''Difficulties''' in ''Phasmophobia'' adjust the player experience according to their skill. There are five main '''difficulties''' in ''Phasmophobia'': Amateur, Intermediate, Professional, Nightmare, and Insanity. Custom difficulties can also be created. Difficulties impact the player, the ghost, and the contract, giving out varying rewards.
 
 ==Difficulties==
 {{#tag:tabber|

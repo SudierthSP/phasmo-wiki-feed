@@ -2,7 +2,9 @@
 # revid 24374  2026-08-01T07:14:12Z  by Darkhooper
 # 备注: added Trivia section
 # sha256 60ae15efb7c1c27a70a42625b15104441dba77a710aa29d238ac5e72e8b6afa6  bytes 1894
-# 源: https://phasmophobia.fandom.com/api.php{{Item Template
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Item Template
 |img=WatchModel.png
 }}
 The '''watch''' is a permanent piece of equipment mainly used to monitor players' [[sanity]].

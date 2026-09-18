@@ -1,7 +1,9 @@
 # 活动显示屏
 # revid 3783  2025-06-26T05:39:35Z  by SABRECAR
 # sha256 7a65e00d397ff14ec9576771a33da16b7e77f6d2e83784cecb85655bac31d657  bytes 2230
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:Site activity monitor 0.6.webp|thumb|活动显示屏正在显示鬼魂活动强度.]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:Site activity monitor 0.6.webp|thumb|活动显示屏正在显示鬼魂活动强度.]]
 '''活动显示屏''' （以下简称“显示屏”）是 [[厢式货车]]上的第四块显示屏, 用0-10来显示当前鬼魂活动强度, 与使用 [[EMF读取仪]]得到的结果基本一致. 低示数表明当前存在低强度的鬼魂活动；高示数表明当前存在高强度的鬼魂活动. 
 
 在噩梦和疯狂 [[难度]]中, 活动显示屏无法正常使用。

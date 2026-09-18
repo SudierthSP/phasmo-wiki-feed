@@ -2,7 +2,9 @@
 # revid 24292  2026-07-24T04:42:19Z  by VVSlavik
 # 备注: Added the corresponding Russian interlanguage link
 # sha256 93241bdd86f7b3d464cc522db08fea26eb4e3fb57db0b54b64bab30d9673d504  bytes 9641
-# 源: https://phasmophobia.fandom.com/api.php<big>'''This page is not an official list of bugs.'''</big>
+# 源: https://phasmophobia.fandom.com/api.php
+
+<big>'''This page is not an official list of bugs.'''</big>
 <blockquote>This Wiki is not moderated by, nor affiliated with, the official ''Phasmophobia'' developers or its volunteer staff in the official ''Discord'' server. This page should '''not''' be used to report bugs. Any bugs you encounter [https://discord.com/invite/phasmophobia should be reported on the ''Discord'' server], instead of here. Bugs may be fixed without notice. Additionally, this page is updated very sporadically, meaning anything written here has a very good chance of being out-of-date. As such, <u>this page should not be used as a reference</u>, but instead as a novelty.</blockquote>
 
 This page lists several '''glitches''' or bugs that can be found in-game.

@@ -1,7 +1,9 @@
 # Jinn
 # revid 24354  2026-07-29T06:07:10Z  by SuccessfulBee430
 # sha256 d4c59bcb390c076f00b274189873855f56ad40b46f4952a9e4afce6f3dd1512b  bytes 7635
-# 源: https://phasmophobia.fandom.com/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
  |image1=Jinn Discovered.jpg
  |abiliti(es)=*Occasionally attempts to zap the sanity of nearby players
  |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]

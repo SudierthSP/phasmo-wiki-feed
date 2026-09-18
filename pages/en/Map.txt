@@ -2,7 +2,9 @@
 # revid 24616  2026-09-08T05:58:00Z  by Darkhooper
 # 备注: Undo revision [[Special:Diff/24615|24615]] by [[Special:Contributions/MasterfulBat795|MasterfulBat795]] ([[User talk:MasterfulBat795|talk]]) The testing map is not accessible through normal ways, so it has nothing to do on this page.
 # sha256 b874a0feb39f6219ff82675aeb8c2876e30d12b787deb9bf005ae666da43776b  bytes 5550
-# 源: https://phasmophobia.fandom.com/api.php[[File:Tanglewood hallway.png|200px|right]]
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:Tanglewood hallway.png|200px|right]]
 [[File:Grafton foyer.png|200px|right]]
 [[File:Maple-rework-main-shot.png|200px|right|thumb|From top: the 6 Tanglewood Drive foyer, the Grafton Farmhouse foyer, and the Maple Lodge Campsite campfire area.]]
 {{About|the locations that players can visit|the screen seen in the truck|Site Map}}

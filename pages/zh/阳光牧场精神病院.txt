@@ -2,7 +2,9 @@
 # revid 3995  2025-10-20T02:52:37Z  by CangMingSW
 # 备注: /* 历史 */
 # sha256 84f87846ee0e13df242a8f3cd3fdd1123485326e9980a63e0f4b80a72d75f1d3  bytes 10185
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Location
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Location
  |teamsize=
  |mapsize=大型
  |unlocklevel=17

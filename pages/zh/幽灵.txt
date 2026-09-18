@@ -2,7 +2,9 @@
 # revid 3957  2025-10-11T10:10:44Z  by Nogodfo4areal
 # 备注: 将描述中错误的“种鬼症”修改成“恐鬼症”
 # sha256 38b195fa3a143e7f6721cc410d26146a9b432729bb7dd84de04fc8db73c28eab  bytes 4916
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Ghost
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Ghost
  |image1=发现幽灵.jpg
  |abiliti(es)=*關閉一扇門並降低玩家理智
  |weakness(es)=*點熏香使它暫時不能離開鬼房

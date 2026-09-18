@@ -2,7 +2,9 @@
 # revid 3871  2025-08-19T10:46:03Z  by CangMingSW
 # 备注: 装备解锁等级与提示
 # sha256 a57f0efe267bf7480fa1309957629a5deeb444f0517fcac899e859119886380d  bytes 4018
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=SoundSensor090_T1.png
  | tier ii img=SoundSensor090_T2.png
  | tier iii img=SoundSensor090_T3.png

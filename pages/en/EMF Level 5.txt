@@ -2,7 +2,9 @@
 # revid 24168  2026-07-21T13:45:00Z  by Darkhooper
 # 备注: new EMF 5 photo
 # sha256 2e4446aeb76ccfcf61f4eda4a5cc0a8f00d0b5294f0c6949bd41dd8c84188fce  bytes 4454
-# 源: https://phasmophobia.fandom.com/api.php{{Evidence_Infobox
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Evidence_Infobox
  |detected_by=[[File:EMFReader_Render.png|24x24px|link=EMF Reader]] [[EMF Reader]]
  |image1=EMF 5_0.3.1.2.png
  |caption1=EMF Level 5 being detected on the tier II EMF reader.

@@ -1,7 +1,9 @@
 # 三脚架
 # revid 3734  2025-03-08T09:49:04Z  by Xuan2528
 # sha256 7b2de9866324bf0b1514071c011ac74cb75813d150a147c62683044f9c6d057d  bytes 2848
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Equipment Template
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
  | tier i img=Tripod090_T1.png
  | tier ii img=Tripod090_T2.png
  | tier iii img=Tripod090_T3.png

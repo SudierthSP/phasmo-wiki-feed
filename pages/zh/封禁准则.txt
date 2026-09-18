@@ -1,7 +1,9 @@
 # 封禁准则
 # revid 2368  2022-09-27T11:20:54Z  by Qsefthuopq
 # sha256 8790824129fcca8e65b4da8eeb616a19f31f9ffadb81629215506f11a59434a7  bytes 2521
-# 源: https://phasmophobia.fandom.com/zh/api.php[[File:ban.png|720px]]
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+[[File:ban.png|720px]]
 ==举报==
 使用游戏内手册，玩家每天可以举报同一名玩家一次。这一系统将阻止玩家短时间内反复举报。
 

@@ -1,7 +1,9 @@
 # EMF 5级
 # revid 3655  2024-12-16T14:37:04Z  by Skaijie
 # sha256 5a642910d2862649b8657ef2c127daabbbd6ae099b2af179d7518d4d169f1b42  bytes 1378
-# 源: https://phasmophobia.fandom.com/zh/api.php{{Evidence_Infobox
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Evidence_Infobox
  |detected_by=[[File:EMFReader_Render.png|24x24px|link=EMF读取仪]] [[EMF读取仪]]
  |image1=EMF_Level_5.jpg
 }}EMF 5级是一件决定鬼魂类型的[[证据]]。
