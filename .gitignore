@@ -1,0 +1,2 @@
+# 只忽略这个运行标记；state.json / changes.jsonl / watch/ 都是要提交的数据
+.dirty

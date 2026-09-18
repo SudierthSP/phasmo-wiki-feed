@@ -1,0 +1,45 @@
+name: fetch wiki snapshot
+
+# 每 3 小时一次（错开整点，避开 GitHub 的调度高峰）。
+# 频率依据：实测该 wiki 约 6.1 次编辑/天、活跃用户 8 人 —— 每小时没意义。
+# 想改频率就改这一行。GitHub 的 cron 不保证准时（负载高时会延迟几分钟到几十分钟），
+# 对这个场景完全够用。
+on:
+  schedule:
+    - cron: '23 */3 * * *'
+  workflow_dispatch:        # 允许手动触发
+
+# 同一时间只跑一个，避免两次提交打架
+concurrency:
+  group: fetch
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 抓取
+        run: node fetch.mjs
+
+      - name: 有变动就提交
+        run: |
+          set -e
+          if [ "$(cat .dirty 2>/dev/null)" != "1" ]; then
+            echo "本轮无变动，不提交"
+            exit 0
+          fi
+          git config user.name  "phasmo-wiki-feed"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "wiki snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
