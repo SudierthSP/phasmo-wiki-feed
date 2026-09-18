@@ -1,0 +1,69 @@
+# Summoning Circle
+# revid 24663  2026-09-14T19:22:03Z  by Darkhooper
+# 上个版本 (首次见到)
+# sha256 67a71d299e41a7ebdd6d680cf6fda47fe676e42302db8e4a496a2b0ca4f6c3c0  bytes 5000
+# 备注: added bug note{{Item_Template
+|img=Sc new1.jpg
+|imgcaption=
+|uses=1
+|description=
+}}{{Quote|speaker=Objective Board|quote=This summoning circle looks dangerous.}}
+The '''summoning circle''' is a [[Cursed Possession|cursed possession]] that is used to summon the [[ghost]]. This can be used to get a ghost [[photo]], as well as facilitate the completion of several [[Objectives]].
+
+==Mechanics==
+As a cursed possession, the summoning circle has a 1 in 7 chance of being the chosen item that will spawn on a map on preset [[difficulty|difficulties]], with one spawn location per map.
+
+===Usage===
+The summoning circle can be used by lighting all five red candles by aiming at them and by pressing the {{Control|Secondary Use}} button with a lit [[igniter]] or a lit [[firelight]].<ref group="note">There is currently a bug where lighting the candles using a firelight will not drain any sanity, make them visually lit only for the player who lit them, and not trigger the ghost event/hunt.</ref> Each lit candle deducts 16% [[sanity]] from nearby players. Contrary to other fire sources, ghosts cannot light these candles up.
+
+Summoning circle candles can be blown out by the ghost, in the same way as regular [[firelight]]s. However, they cannot self-extinguish except when lit while the player has less than 16% sanity.<ref group="note" name="a">Due to a bug in multiplayer, a non-host player can light up the candles even with no sanity if the host player is not within 3 meters of the center of the circle.</ref> Relighting an extinguished candle will drain 16% sanity again for nearby players.
+
+[[File:SummoningCircleNormal.gif|thumb|245x245px|A standard ghost's summoning event]]
+[[File:SummoningCircleShadeShadow.gif|thumb|245x245px|A Shade's summoning event]]
+Once all five candles are lit, the ghost is summoned in its full form and facing the closest player, except the [[Shade]], which has a 50% chance of using a shadow form instead. The summoned ghost stays motionless for 5 seconds, unable to kill players. This stationary period is considered a ghost event. However, the front door will lock immediately after lighting the last candle. After this event, the lights in the ghost's current room will turn off and the ghost will immediately initiate a [[Hunt#Cursed hunts|cursed hunt]] on the spot, without an additional 1-second grace period. Once the summoning circle is activated, it cannot be used again.
+
+If a candle is lit while below 16% individual sanity, there are two possibilities that might occur:
+*If it is not the last candle, the candle will extinguish itself after a short delay.<ref group="note" name="a" />
+*If it is the last candle, there will be no "ghost event" period, and the cursed hunt<ref group="note" name="b">These cases are bugged: the cursed hunt will not have the 20 extra seconds, and will not extend the duration of subsequent hunts.</ref> will immediately begin after a 1-second grace period.
+
+If the last candle is lit while a hunt is ongoing, the ghost will instead be teleported to the centre of the circle, possibly killing players on the spot; this does not reset the current hunt's timer, but will extend all future hunts as usual.<ref group="note" name="b" />
+
+===Rewards===
+{{Main|Media}}
+Taking a photo of a summoning circle, used or not, will yield a photo labelled as '''Summoning Circle''', and reward up to $7 and 7 XP, depending on the tier of the [[Photo Camera]].
+
+==Tips==
+*Using a Tier 3 [[crucifix]] in range of the Summoning Circle will prevent the cursed hunt triggered after summoning the ghost, virtually removing the risk of the Circle, though the massive sanity cost for using the Circle (16% per candle for a total of 80%) still poses a problem.
+*To prevent a hunt starting ''before'' the ghost can be summoned, use [[incense]] or place crucifixes near the ghost just before lighting the circle.
+*Where needed, most [[Objectives|Optional Objective]]s can be completed directly or indirectly using the Summoning Circle.
+**As such, it is best saved for after the ghost has been identified to quickly complete them.
+
+==Trivia==
+*Before [[0.9.3.0]], the border of the Summoning Circle used to repeat the English words "sacrifice your sanity" transliterated into a [https://en.wikipedia.org/wiki/Runes runic alphabet].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.5.0]]
+|Added summoning circle.
+|-
+![[0.5.0.2]]
+|Summoning circles now deduct 16% sanity per candle instead of 20% for when the ghost materialises.
+|-
+![[0.7.0]]
+|The ghost will now hunt instantly if the player has less than 16% sanity when lighting the last candle.
+|-
+![[0.8.1.0]]
+|Lighting a Summoning Circle candle with no sanity will now extinguish it instantly.<br>Note: Lighting the 5th candle with no sanity will cause an instant hunt.
+|-
+![[0.9.3.0]]
+|Updated the textures, audio, and effects for the Summoning Circle
+|}
+
+==Notes==
+{{Reflist|group="note"}}
+{{EquipmentNav}}
+[[Category:Item]]
+[[fr:Cercle d'invocation]]
+[[ru:Круг призыва]]

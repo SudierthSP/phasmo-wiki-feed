@@ -1,0 +1,399 @@
+# Equipment
+# revid 24244  2026-07-24T04:34:47Z  by VVSlavik
+# 上个版本 (首次见到)
+# sha256 f3e3ccc6aff37b244846f5709c49fd8a6fbcba1b044b863028b59595c46affc9  bytes 9254
+# 备注: Added the corresponding Russian interlanguage link[[File:Equipment.png|thumb|300x300px|A set of equipment on the wall in the [[truck]]]]
+'''Equipment''' in ''[[Phasmophobia]]'' is used to determine the type of [[ghost]] inhabiting a location, or to complete optional [[objectives]]. Players can purchase equipment using money they receive from successful [[contract|investigations]].
+
+==Mechanics==
+Equipment may be bought or sold in the [[Shop]] when in the [[lobby]].
+
+When a player dies, they lose all equipment they added to the mission, excluding the default starter equipment that is always provided. Players who stay alive do not have to collect their equipment at the end of a contract to keep them; they will be returned automatically. Items categorized as consumable (e.g. incense and sanity medication) do not need to be bought again if the player remains alive, but if the player uses them, they need to be rebought.
+
+Players can buy and store a maximum of 999 of each item.
+
+Ghosts disrupt nearby electronic equipment whenever they are visible, such as during a [[hunt]] or when they manifest (i.e. become visible while ''not'' hunting). Holding active electronic equipment during a hunt will attract nearby ghosts.
+
+There are 3 types of equipment:
+*[[Equipment#Starter_equipment|Starter equipment]]
+*[[Equipment#Optional_equipment|Optional equipment]]
+*[[Equipment#Truck_equipment|Truck equipment]]
+
+==Starter equipment==
+Starter Equipment is available from the very beginning, and one of each of the following will always be freely included on an investigation, though additional pieces may be purchased and added.
+{| class="fandom-table"
+!'''Equipment'''
+!'''Price'''
+!'''Max limit'''
+!'''Description'''
+|-
+|[[D.O.T.S. Projector]]
+|$65
+|2
+|Creates a field of green lights when placed. Used to detect [[D.O.T.S Projector (Evidence)|D.O.T.S Projector evidence]].
+|-
+|[[EMF Reader]]
+|$45
+|2
+|Can detect EMF presence in the area. Used to obtain [[EMF Level 5]] [[evidence]].
+|-
+|[[Flashlight]]
+|$30
+|4
+|Provides a basic source of light.
+|-
+|[[Ghost Writing Book]]
+|$40
+|2
+|Used to obtain [[Ghost Writing]] from a ghost.
+|-
+|[[Spirit Box]]
+|$50
+|2
+|Used to communicate with a ghost through questions.
+|-
+|[[Thermometer]]
+|$30
+|2
+|Displays the local temperature of a room. Can be used to detect [[Freezing Temperatures]].
+|-
+|[[UV Light]]
+|$35
+|2
+|Used to reveal [[Ultraviolet#Fingerprints|fingerprints]] and [[Ultraviolet#Footprints|footprints]] created by ghosts.
+|-
+|[[Video Camera]]
+|$50
+|4
+|Creates a video feed, which is relayed to the truck's [[computer]]. Used to detect [[Ghost Orb]]s, as well as to make recordings for [[Media|additional rewards]].
+|}
+
+==Optional equipment==
+This equipment must be purchased in the game's shop and will not be given by default.
+{| class="fandom-table"
+!'''Equipment'''
+!'''Price'''
+!'''Max limit'''
+!'''Description'''
+|-
+|[[Crucifix]]
+|$30
+|2
+|Prevents ghosts from [[hunt]]ing in a certain radius.
+|-
+|[[Firelight]]
+|$15
+|4
+|Used for optional objectives, and to provide light.
+|-
+|[[Head Gear]]
+|$60
+|4
+|Can be equipped on a player's head. Actual functionality depends on upgrade tier.
+* Tier 1 is a camera which provides a video feed to the [[computer]] (which teammates can use to detect [[Evidence|Ghost Orbs]]).
+* Tier 2 is an LED flashlight, providing weak illumination without requiring another inventory slot.
+* Tier 3 is a set of night-vision goggles, making surroundings easier to see at the cost of moderate visual distortion.
+|-
+|[[Igniter]]
+|$10
+|4
+|Used to light firelights and incense. Can also be used on campfires in [[Maple Lodge Campsite]] and [[Camp Woodwind]].
+|-
+|[[Incense]]
+|$15
+|4
+|Used to prevent a ghost from hunting for a short period of time. Can also be used during a hunt to blind the ghost temporarily.
+|-
+|[[Motion Sensor]]
+|$100
+|4
+|Goes off when a ghost or player passes it, flashing a small light. A signal is also provided to the Truck.
+|-
+|[[Parabolic Microphone]]
+|$50
+|2
+|Used to listen to paranormal sounds in a large range.
+|-
+|[[Photo Camera]]
+|$40
+|3
+|Used to take photos of various items for [[Media|additional rewards]].
+|-
+|[[Salt]]
+|$15
+|3
+|Places salt piles that ghosts can interact with to leave [[Ultraviolet#Footprints|footprints]].
+|-
+|[[Sanity Medication]]
+|$20
+|4
+|Restores the consumer's sanity by a certain amount dependent on [[Difficulty]].
+|-
+|[[Sound Recorder]]
+|$30
+|2
+|Used to make recordings of various paranormal sounds for [[Media|additional rewards]].
+|-
+|[[Sound Sensor]]
+|$80
+|4
+|Detects sounds in an area, and relays the data to the Truck.
+|-
+|[[Tripod]]
+|$25
+|4
+|Used as a mount for [[Video Camera]]s. Lowers the chance for ghost to throw a Video Camera.
+|}
+
+==Truck equipment==
+Equipment located in the [[truck]] is stationary.
+{| class="fandom-table"
+!'''Equipment'''
+!'''Description'''
+|-
+|Clipboards 
+|Shows the current [[Daily and Weekly Tasks]]
+|-
+|[[Computer]]
+|Used to view onsite cameras, including active [[Video Camera|video cameras]].
+|-
+|[[Objective Board]]
+|Displays all mandatory and optional [[objectives]].
+|-
+|[[Sanity Monitor]]
+|Provides a real time summary of all players' [[sanity]] levels.
+|-
+|[[Site Activity Monitor]]
+|Displays ghost activity any time a ghost performs an action. High levels indicate [[Ghost Event|ghost events]] or hunts.
+|-
+|[[Site Map]]
+|Provides a detailed map of the case location.
+|-
+|[[Sound Monitor]]
+|Connects to [[Sound Sensor]]s placed onsite. If sound is detected, it will be displayed on the monitor.
+|}
+
+==Table of purchasable equipment==
+{| class="article-table sortable"
+|+Table of equipment costs
+!Equipment
+!Cost
+!Default item?
+!Max per investigation
+!Cost to max item
+!Requirements for tier I
+!Requirements for tier II
+!Requirements for tier III
+|-
+|[[Crucifix]]
+|30
+|No
+|2
+|60
+|Level: 7
+|Level: 34<br>Upgrade Cost: 4,000
+|Level: 80<br>Upgrade Cost: 20,000
+|-
+|[[D.O.T.S. Projector]]
+|65
+|Yes
+|2
+|65
+|(Default item)
+|Level: 27<br>Upgrade Cost: 3,000
+|Level: 49<br>Upgrade Cost: 3,000
+|-
+|[[EMF Reader]]
+|45
+|Yes
+|2
+|45
+|(Default item) 
+|Level: 18<br>Upgrade Cost: 3,000
+|Level: 46<br>Upgrade Cost: 4,500
+|-
+|[[Firelight]]
+|15
+|No 
+|4
+|60
+|Level: 12
+|Level: 37<br>Upgrade Cost: 3,000
+|Level: 75<br>Upgrade Cost: 10,000
+|-
+|[[Flashlight]]
+|30
+|Yes
+|4
+|90 
+|(Default item)
+|Level: 18<br>Upgrade Cost: 3,000
+|Level: 34<br>Upgrade Cost: 3,000
+|-
+|[[Ghost Writing Book]]
+|40
+|Yes
+|2
+|40
+|(Default item)
+|Level: 23<br>Upgrade Cost: 3,000
+|Level: 55<br>Upgrade Cost: 3,000
+|-
+|[[Head Gear]]
+|60
+|No
+|4
+|240
+|Level: 13
+|Level: 42<br>Upgrade Cost: 10,000
+|Level: 80<br>Upgrade Cost: 10,000
+|-
+|[[Igniter]]
+|10
+|No 
+|4
+|40 
+|Level: 12 
+|Level: 37<br>Upgrade Cost: 500
+|Level: 52<br>Upgrade Cost: 750
+|-
+|[[Incense]]
+|15
+|No
+|4
+|60
+|Level: 14
+|Level: 37<br>Upgrade Cost: 3,500
+|Level: 80<br>Upgrade Cost: 15,000
+|-
+|[[Motion Sensor]]
+|100
+|No
+|4
+|400
+|Level: 3
+|Level: 42<br>Upgrade Cost: 2,500
+|Level: 70<br>Upgrade Cost: 8,000
+|-
+|[[Parabolic Microphone]]
+|50
+|No
+|2
+|100
+|Level: 5
+|Level: 32<br>Upgrade Cost: 3,000
+|Level: 70<br>Upgrade Cost: 5,000
+|-
+|[[Photo Camera]]
+|40
+|No
+|3
+|120 
+|Level: 2
+|Level: 23<br>Upgrade Cost: 3,000
+|Level: 55<br>Upgrade Cost: 5,000
+|-
+|[[Salt]]
+|15
+|No
+|3
+|45
+|Level: 8
+|Level: 39<br>Upgrade Cost: 2,500
+|Level: 65<br>Upgrade Cost: 5,000
+|-
+|[[Sanity Medication]]
+|20 
+|No 
+|4
+|80
+|Level: 14
+|Level: 39<br>Upgrade Cost: 2,000
+|Level: 75<br>Upgrade Cost: 5,000
+|-
+|[[Sound Recorder]]
+|30
+|No
+|2
+|60
+|Level: 4
+|Level: 39<br>Upgrade Cost: 3,000
+|Level: 60<br>Upgrade Cost: 5,000
+|-
+|[[Sound Sensor]]
+|80
+|No 
+|4
+|320 
+|Level: 10
+|Level: 32<br>Upgrade Cost: 3,000
+|Level: 52<br>Upgrade Cost: 1,500
+|-
+|[[Spirit Box]]
+|50
+|Yes
+|2
+|50
+|(Default item)
+|Level: 23<br>Upgrade Cost: 3,000
+|Level: 46<br>Upgrade Cost: 3,000
+|-
+|[[Thermometer]]
+|30
+|Yes
+|2
+|30
+|(Default item)
+|Level: 27<br>Upgrade Cost: 3,000
+|Level: 65<br>Upgrade Cost: 3,000
+|-
+|[[Tripod]]
+|25
+|No
+|4
+|100 
+|Level: 9
+|Level: 34<br>Upgrade Cost: 5,000
+|Level: 60<br>Upgrade Cost: 3,000
+|-
+|[[UV Light]]
+|35
+|Yes
+|2
+|35
+|(Default item)
+|Level: 18<br>Upgrade Cost: 3,000
+|Level: 46<br>Upgrade Cost: 2,000
+|-
+|[[Video Camera]]
+|50
+|Yes
+|4
+|150
+|(Default item)
+|Level: 27<br>Upgrade Cost: 3,000
+|Level: 49<br>Upgrade Cost: 3,000
+|}
+
+==Consumable equipment==
+Some pieces of equipment are consumable, and will need to be re-purchased after they have been used on an investigation:
+*[[Crucifix]] (All Tiers)
+*[[Firelight]] (Tier I, Tier II)
+*[[Igniter]] (Tier I, Tier II)
+*[[Incense]] (Tier I, Tier II)
+*[[Sanity Medication]] (All Tiers)
+*[[Salt]] (All Tiers)
+
+==Removed equipment==
+;[[Infrared Light Sensor]]
+The infrared light sensor detected movement from both ghosts and players and would illuminate the area with a bright light, much like the current [[Motion Sensor]]. It however would not provide feedback to the truck, nor count in the "Detect the Ghost with a Motion Sensor" objective. This item was removed in [[0.3.0]].
+
+==Trivia==
+*To buy enough equipment to bring the maximum amount of each to a contract, players will need to spend $2,130.
+*To buy one of each equipment, players will need to spend $805.
+*The motion sensor is the most expensive item in the game with a price of $100. Meanwhile, the igniter is the cheapest with a price of $10.
+
+{{Equipment nav}}
+[[ru:Снаряжение]]
+[[Category:Equipment]]
+[[fr:Équipement]]

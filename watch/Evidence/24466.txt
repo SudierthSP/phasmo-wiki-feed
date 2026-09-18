@@ -1,0 +1,149 @@
+# Evidence
+# revid 24466  2026-08-20T08:57:24Z  by Zombeebear
+# 上个版本 (首次见到)
+# sha256 7612361bb8406ec3c77137da07b0f53594a980d0528b31e2a23bf8fb7c0ea28e  bytes 5620
+# 备注: /* Trivia */'''Evidence''' is used to determine which [[ghost]] is haunting the [[map|location]]. Each ghost has a unique combination of three pieces of evidence that determines which ghost is present. Each player can record pieces of evidence that has been uncovered in the [[Journal]] to thin down the possible ghosts, and determine the ghost once all three piece of evidence are collected. 
+
+==Types of evidence==
+There are currently seven unique pieces of evidence in the game that can be used to identify a ghost:  
+{| class="article-table"
+|[[File:EMFReader_Render.png|24x24px|link=EMF Level 5]] [[EMF Level 5]]
+:Get a level 5 reading on the [[EMF Reader]]
+|-
+|[[File:DOTS_projector_sprite.png|24x24px|link=D.O.T.S Projector (Evidence)]] [[D.O.T.S Projector (Evidence)|D.O.T.S Projector]]
+:Witness a ghostly disturbance within [[D.O.T.S Projector]] lights
+|-
+|[[File:Fingerprints_3.png|24x24px|link=Ultraviolet]] [[Ultraviolet]]
+:Uncover finger, hand, or footprints with the [[UV Light]]
+|-
+|[[File:Thermometer_Render.png|24x24px|link=Freezing Temperatures]] [[Freezing Temperatures]]
+:Get a reading below 0°C/32°F on a [[Thermometer]]
+|-
+|[[File:GhostOrb_Sprite.png|24x24px|link=Ghost Orb]] [[Ghost Orb]]
+:See floating orbs on video (through [[Video Camera]], [[Video Feed]], or [[Head Gear]])
+|-
+|[[File:ClosedBook_Render.png|24x24px|link=Ghost Writing]] [[Ghost Writing]]
+:Have a ghost write in a [[Ghost Writing Book]] that's been placed down
+|-
+|[[File:SpiritBox_Ghost.png|24x24px|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
+:Hear a reply on a [[Spirit Box]] after asking the ghost a question
+|}
+
+==Ghost evidence==
+By default, each ghost can give 3 types of evidence. On Nightmare [[difficulty]], each ghost can only provide 2 types of evidence, meaning at the start of the [[contract]], the game will randomly choose 2 types, and the remaining type will be hidden (unobtainable). Similarly, Insanity difficulty causes each ghost to only give 1 type of evidence, with the other 2 being hidden. The 'Evidences given' option for a custom difficulty can also be changed for the ghost to give 0, 1, 2, or 3 types of evidence.
+
+{| class="article-table sortable wikitable" style="text-align: center"
+![[Ghost]]
+!Evidence 1
+!Evidence 2
+!Evidence 3
+|-
+|[[Aswang]]
+|D.O.T.S Projector||Freezing Temperatures||Ghost Writing
+|-
+|[[Banshee]]
+|D.O.T.S Projector||Ghost Orb||Ultraviolet
+|-
+|[[Dayan]]
+|EMF Level 5||Ghost Orb||Spirit Box
+|-
+|[[Demon]]
+|Ghost Writing||Ultraviolet||Freezing Temperatures
+|-
+|[[Deogen]]
+|D.O.T.S Projector||Ghost Writing||'''<u>Spirit Box</u>'''
+|-
+|[[Gallu]]
+|EMF Level 5||Ultraviolet||Spirit Box
+|-
+|[[Goryo]]
+|'''<u>D.O.T.S Projector</u>'''||EMF Level 5||Ultraviolet
+|-
+|[[Hantu]]
+|Ghost Orb||Ultraviolet||'''<u>Freezing Temperatures</u>'''
+|-
+|[[Jinn]]
+|EMF Level 5||Ultraviolet||Freezing Temperatures
+|-
+|[[Kormos]]
+|Ghost Orb||Spirit Box||Ultraviolet
+|-
+|[[Mare]]
+|Ghost Writing||Ghost Orb||Spirit Box
+|-
+|[[Moroi]]
+|Ghost Writing||Freezing Temperatures||'''<u>Spirit Box</u>'''
+|-
+|[[Myling]]
+|Ghost Writing||EMF Level 5||Ultraviolet
+|-
+|[[Obake]]
+|EMF Level 5||Ghost Orb||'''<u>Ultraviolet</u>'''
+|-
+|[[Obambo]]
+|Ghost Writing||Ultraviolet||D.O.T.S Projector
+|-
+|[[Oni]]
+|D.O.T.S Projector||EMF Level 5||Freezing Temperatures
+|-
+|[[Onryo]]
+|Ghost Orb||Freezing Temperatures||Spirit Box
+|-
+|[[Phantom]]
+|D.O.T.S Projector||Ultraviolet||Spirit Box
+|-
+|[[Poltergeist]]
+|Ghost Writing||Ultraviolet||Spirit Box
+|-
+|[[Raiju]]
+|D.O.T.S Projector||EMF Level 5||Ghost Orb
+|-
+|[[Revenant]]
+|Ghost Writing||Ghost Orb||Freezing Temperatures
+|-
+|[[Shade]]
+|Ghost Writing||EMF Level 5||Freezing Temperatures
+|-
+|[[Spirit]]
+|Ghost Writing||EMF Level 5||Spirit Box
+|-
+|[[Thaye]]
+|D.O.T.S Projector||Ghost Writing||Ghost Orb
+|-
+|[[The Mimic]]
+|Ultraviolet||Freezing Temperatures||Spirit Box
+|-
+|[[The Twins]]
+|EMF Level 5||Freezing Temperatures||Spirit Box
+|-
+|[[Wraith]]
+|D.O.T.S Projector||EMF Level 5||Spirit Box
+|-
+|[[Yokai]]
+|D.O.T.S Projector||Ghost Orb||Spirit Box
+|-
+|[[Yurei]]
+|D.O.T.S Projector||Ghost Orb||Freezing Temperatures
+|} 
+
+Some pieces of evidence are guaranteed for specific ghosts, shown as '''<u>bold and underlined</u>''' on the table, meaning that on Nightmare or Insanity difficulty (or if the 'Evidences given' option is set to 1 or 2), they will not be hidden and will ''always'' be one of the ghost's given evidences. This does not apply if the 'Evidences given' option is set to 0.
+
+[[The Mimic]] will always produce Ghost Orbs ''in addition to'' its chosen evidences. This works differently from the above "forced" evidences, as none of the Mimic's usual evidences (Spirit Box, Ultraviolet, and Freezing Temperatures) are guaranteed to appear when 'Evidences given' is 1 or 2, while the extra Ghost Orbs are '''always''' present even when 'Evidences given' is 0.
+
+==Trivia==
+*It is not required to update all of the evidence options if the ghost has already been conclusively determined; simply selecting the correct type of ghost is sufficient.
+*During the development of Phasmophobia, the presence of bugs was planned to be an evidence. This is why they appear in the early VR gameplay trailer for the game.
+*There are currently five three-evidence combinations that can't appear in game:
+**D.O.T.S Projector, Freezing Temperatures, Spirit Box
+**D.O.T.S Projector, Freezing Temperatures, Ultraviolet
+**EMF Level 5, Freezing Temperatures, Ghost Orb
+**EMF Level 5, Ghost Orb, Ghost Writing
+**Ghost Orb, Ghost Writing, Ultraviolet
+
+==See also==
+*[[Third-party tools]]
+{{Evidence nav}}
+[[Category:Evidence]]
+[[Category:Gameplay]]
+[[fr:Preuve]]
+[[ru:Улики]]

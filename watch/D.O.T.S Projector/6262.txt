@@ -1,0 +1,5 @@
+# D.O.T.S Projector
+# revid 6262  2021-08-27T15:26:22Z  by Rigel Kent
+# 上个版本 (首次见到)
+# sha256 4c4a698c9311ae985e8f4742ec1d04430cf5f5200210d137b7a3bfe611ce9fc0  bytes 32
+# 备注: Redirected page to [[D.O.T.S. Projector]]#REDIRECT [[D.O.T.S. Projector]]

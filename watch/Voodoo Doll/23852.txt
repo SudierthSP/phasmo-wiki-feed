@@ -1,0 +1,62 @@
+# Voodoo Doll
+# revid 23852  2026-06-19T19:28:30Z  by Darkhooper
+# 上个版本 (首次见到)
+# sha256 61fb4652efbcd257bf389282cad2bbaf1f368549dc092205a7e2175f7805a56a  bytes 4088
+# 备注: ghost writing and fire extinguishing are special mechanics that cannot be forced{{Item_Template
+ |img=Voodoo Doll New.jpg
+ |imgcaption=A small doll with buttons for eyes and stitched lips.
+ |uses=Up to 10
+ |description=
+}}{{Quote|speaker=Objective Board|quote=We found this doll, it made the ghost angry.}}
+The '''voodoo doll''' (or '''tortured voodoo doll''') is a [[Cursed Possession|cursed possession]] used to force the ghost to perform [[interaction]]s.
+
+==Mechanics==
+The voodoo doll has a 1 in 7 chance, per contract, of being chosen as the cursed possession that will appear with one specific spawn location per map.
+
+Interacting with the voodoo doll will cause one of the 10 pins stuck in the doll to be pushed into it at random. This will cause the ghost to perform an interaction, and will drop the user's sanity by 5%. These forced interactions can include [[EMF Level 5]] and [[Ultraviolet]] sources, but not the [[Ghost Writing]] nor [[Fire Source|fire source]] extinguishing.
+
+If the heart pin is pushed in, the user's sanity will drain by 10%, and the ghost will initiate a [[Hunt#Cursed hunts|cursed hunt]].
+
+If the user interacts with the voodoo doll while at 0% sanity, all remaining pins will be pushed in and a cursed hunt will also occur.
+
+===Rewards===
+{{Main|Media}}
+Taking a photo of a voodoo doll will yield a photo labelled as '''Voodoo Doll''' and reward up to $7 and 7 XP, depending on the tier of the [[Photo Camera]].
+
+==Tips==
+*The voodoo doll can either be used to find the [[ghost room|favourite room]], by listening to where the interaction happened, or after the favourite room has been found, to force the [[ghost]] to interact with evidence sources rather than waiting extended periods for the ghost to do it on its own.
+*If the player is trying to force the ghost to give Ultraviolet evidence, items in the room can be removed to stop the ghost from interacting with those instead of a Ultraviolet source.
+*As each use has a risk of causing a cursed hunt, players should either stay in a safe location, or have Incense ready and/or have an intact Tier 3 Crucifix in the favourite room.
+*When using the voodoo doll with no sanity, all pressed remaining pins may cause multiple objects to be thrown at the same time. Be mindful of this to not confuse the ghost with a [[Poltergeist]].
+
+==Trivia==
+[[File:Phasmophobia-How-to-Find-Smudge-Sticks-Glowsticks-Voodoo-Doll-2.jpg|thumb|alt=A small doll with buttons for eyes and stitched lips.|A voodoo doll before the 0.5.0 update.|131x131px]]
+*Prior to its introduction as a cursed possession in version [[0.5.0]], the voodoo doll was initially a decorative prop found only on some specific maps (namely the original versions of [[Grafton Farmhouse]] and [[Bleasdale Farmhouse]], as well as [[13 Willow Street]]). Voodoo dolls could be photographed as photo evidence, but they otherwise had no use or effect on gameplay, even though some rumors claimed that they could anger the ghost if taken outside, or that they would always land facing the ghost room when thrown on the ground.
+*The Voodoo Doll was [https://www.makeship.com/products/cursed-voodoo-doll available as official merchandise] for a limited time, until 11 April 2023 (UK time). A [https://www.makeship.com/products/cursed-voodoo-doll-2-0-plushie second edition] was available until 30 July 2024 (UK time).
+
+==History==
+{|class="fandom-table"
+!colspan="2"|Early Access
+|-
+!rowspan="4"|[[0.5.0]]
+|Updated the voodoo doll model.
+|-
+|Voodoo doll spawning is now tied to it being a cursed possession instead of specific maps.
+|-
+|Voodoo dolls are now used to force the ghost to perform an interaction.
+|-
+|Voodoo dolls now have its own photo label.
+|-
+![[0.5.0.2]]
+|Pushing the heart pin now triggers the hunt instantly, instead of after the animation.
+|-
+![[0.5.2.0]]
+|Voodoo Doll pins can now force the ghost to interact with the Ghost Writing Book, D.O.T.S Projector and doors, instead of just clutter.
+|-
+![[0.9.0]]
+|The Voodoo Doll can no longer force the ghost to interact with the Ghost Writing Book and the D.O.T.S. Projector.
+|}<br>
+{{Equipment nav}}
+[[Category:Item]]
+[[fr:Poupée vaudou]]
+[[ru:Кукла вуду]]

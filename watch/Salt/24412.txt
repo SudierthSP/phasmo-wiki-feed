@@ -1,0 +1,101 @@
+# Salt
+# revid 24412  2026-08-03T16:51:42Z  by Darkhooper
+# 上个版本 (首次见到)
+# sha256 342911d65fe420ec720de629d08495992a1c147c615530716d9eae8e53e7a207  bytes 5912
+# 备注: tier 3 salt slowing Gallu{{Equipment Template
+ | tier i img=Salt090_T1.png
+ | tier ii img=Salt090_T2.png
+ | tier iii img=Salt090_T3.png
+
+ | price=$15
+ | maxamount=3
+ | uses=Depends
+ | starter=No
+ | tier i level=8
+ | tier ii level=39
+ | tier iii level=65
+
+ | tier i description=Ghost Huntin’ Distribution’s very own brand of Salt probably doesn’t taste the best, but it’s great for ghosts.
+ | tier i purpose=While holding this container, you can place piles of Salt on the floor in the hope of tracking the ghost. We recommend placing them in doorways and near turns in hallways or rooms for the highest chance of getting a reaction.
+ | tier i ability=<span style="color: #008000;">Uses: 2</span><br><span style="color: #ff0000;">Consumable</span>
+ | tier ii description=We’ve found that finely ground pink Himalayan salt is great for revealing those pesky footprints.
+ | tier ii purpose=This larger container holds more salt than its predecessor, allowing you to place long lines of salt to easily block wider passages.
+ | tier ii ability=<span style="color: #008000;">Uses: 3</span><br><span style="color: #ff0000;">Consumable</span>
+ | tier iii description=A glass bottle of blessed black salt, it’s been combined with other minerals for extra cleansing effects. It looks prettier too, sparkly!
+ | tier iii purpose=This salt is so powerful it can affect a ghost’s mobility in two ways.<br>Whilst a ghost is acting passively, these lines will act like a barrier, forcing the ghost to turn around when walking into one. Great for trapping those roaming ghosts in a room so you can find your evidence.<br>If it’s during an attack, the ghost will be slowed, giving you extra time to make your escape.
+ | tier iii ability=<span style="color: #008000;">Uses: 3<br>Slows ghost during hunts (s): 2</span><br><span style="color: #ff0000;">Consumable</span>
+}}
+'''Salt''' is a purchasable item used to place salt piles. Ghosts can step in the salt pile, which can be used to check for [[Ultraviolet]] evidence.
+
+==Usage==
+A salt container can be used to {{Control|place}} salt piles on the floor. Each salt container can be used 2-3 times, allowing a maximum of 6-9 salt piles to be placed per game with 3 salt containers. Salt piles can be stacked in the same spot.
+
+When a ghost walks over a salt pile, it will leave an indent in the pile. This can happen any time, regardless of the ghost being invisible or not. Within the next few seconds after the salt has been stepped in, when the ghost moves, it will create audible footsteps (similar to footsteps during a hunt), and if it has [[Ultraviolet]] evidence, it will also leave temporary [[Ultraviolet#Footprints|footprints]] visible under UV light where it chooses to roam. [[Wraith]]s and enraged [[Gallu]]s will never leave any imprint on salt piles, walking over them as if they do not exist.
+
+Players cannot leave an imprint in salt piles or generate footprints.
+
+===Tier I===
+The Tier I salt shaker has two uses, and places a small, circular pile of white salt on the ground. A sole-like imprint will be left in the pile once a ghost steps over it.
+
+===Tier II===
+The Tier II salt jar has three uses, and places a long pile of pink salt, making it easier for the ghost to step on. The middle of the salt pile will disappear when the ghost steps on it.
+
+===Tier III===
+The Tier III salt jar has three uses, and places a long pile of black salt, identical in size to Tier II salt. If the ghost steps on a black salt pile during a hunt, its speed will be reduced by 50% for 2 seconds (3 seconds for a weakened Gallu). If it steps on another black salt pile before the 2 seconds are over, the timer will be reset but the ghost will not be further slowed down.
+
+If the ghost steps on the salt pile outside of a hunt, it will turn around and go back the way it came briefly. It has no effect during [[ghost event]]s.
+
+As Wraiths and enraged Gallus ignore salt entirely, none of these effects will apply to them even if they physically pass through it.
+
+===Rewards===
+{{Main|Media}}
+Filming a salt pile being disturbed will yield a '''Disturbed Salt''' video, rewarding up to $12 and 12 XP depending on the tier of the [[Video Camera]] and whether there is a Unique stamp.
+
+==Tips==
+[[File:salt_fresh_stepped.png|right|thumb|240x240px|Tier I salt before (left) and after (right) being stepped in.]]
+*If placed strategically, salt can be used to track exactly where the ghost is walking after it has been located, potentially to the players' advantage.
+*Placing salt close to external corners in wide hallways or rooms with acute angles will maximize the chances of the ghost stepping in the salt. This is because the ghost is programmed to take the shortest route to its next waypoint when wandering, therefore it is more likely to navigate by hugging corners and other turns.
+*Dropping a [[UV Light]] near the salt pile will illuminate any footprints present without having to hold the UV light.
+*Using tier III salt can help in taking ghost photos during hunts as it slows down the ghost.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!?
+|[[File:Salt.png|48px]] Added salt.
+|-
+!25 March 2020
+|Salt can now be placed on the ground.
+|-
+!1 April 2020
+|Changed the salt pile model to 3D, which will flatten when a ghost walks in it.
+|-
+! colspan="2" |Early Access
+|-
+!22 September 2020
+|Wraiths no longer interact with salt during hunts.
+|-
+!? 
+|Ghosts can no longer disturb salt during hunts.
+|-
+![[0.3.0]]
+|Changed the salt pile and salt shaker models.
+|-
+![[0.6.2.0]]
+|Increased the limit of salt shakers per contract from 2 to 3.
+|-
+![[0.8.0]]
+|Wraiths no longer interact with salt at all.
+|-
+! rowspan="3" |[[0.9.0]]
+|Salt now has 3 tiers.
+|-
+|Salt will now only reveal footprints if the ghost has Ultraviolet evidence.
+|-
+|Ghosts can now disturb salt piles during hunts.
+|}<br>
+{{EquipmentNav}}
+[[Category:Equipment]]
+[[fr:Sel]]
+[[ru:Соль]]

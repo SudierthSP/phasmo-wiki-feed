@@ -1,0 +1,143 @@
+# Monkey Paw
+# revid 24862  2026-09-18T08:42:19Z  by Darkhooper
+# 上个版本 (首次见到)
+# sha256 9f3482a264e7ea6f12780482ccebcfd9ed17d62e9766ff085a6e59100683566f  bytes 10179
+# 备注: added details for safety wish / retested anything and knowledge wishes.{{Item_Template
+|img=Monkey Paw.png
+|imgcaption=
+|uses=3-5 (difficulty dependent)
+|description=
+}}{{Quote|speaker=Objective Board|quote=My wish came true, but at what cost?}}
+The '''Monkey Paw'''  is a [[Cursed Possession|cursed possession]] that can be used to grant the player wishes.
+
+==Mechanics==
+A Monkey Paw has a 1 in 7 chance per contract of being chosen as the cursed possession that will spawn on a default [[difficulty]] (except Insanity), with one specific spawn location per map. The Monkey Paw grants up to a certain number of wishes depending on the difficulty reward multiplier:
+*0x – 1x: 5 wishes
+*1.01x – 2x: 4 wishes
+*2.01x or higher: 3 wishes
+
+The Monkey Paw can only be used within the investigation area, and players can choose to either use voice chat or a text-based UI to make wishes.
+*If using voice chat, the Monkey Paw will grant any recognized wish made by the player.
+*If using the text-based UI, the UI will appear upon pressing the {{Control|Primary Use}} button. Players can then click to select one of 3 categories, then select a category-specific wish, or exit the UI by pressing the {{Control|Primary Use}} button again.
+Every wish will come with a negative side effect, with the severity depending on the wish.
+
+If the Monkey Paw recognizes a valid phrase, regardless if it is a valid wish or not, or when entering/exiting the investigation area, its fingers will twitch. When a wish is being granted, one of its fingers will bend. When all fingers are bent, the Monkey Paw cannot be used anymore.
+
+Most wishes can be found on tags scattered in [[Sunny Meadows]], these tags look the same as the one found on a Monkey Paw. Picking a tag up (except for "I wish for [weather]" and "I wish for anything" tags, as well as the Monkey Paw's own tag) will record the wish in the journal. There is no need to find the wishes to use the Monkey Paw. Each wish can only be used once per contract, regardless of the wisher.
+
+===Wishes===
+{| class="fandom-table"
+!Category
+!Wish
+!Effects
+!Sunny Meadows wish tag location
+|-
+! rowspan="3" |Ghost
+|
+*I wish to see the ghost
+|Triggers a summoning [[ghost event]] at the ghost's current location, locking all [[Exit Door|exit doors]] immediately. After 5 seconds, the ghost will begin a [[Hunt#Cursed hunts|cursed hunt]], and the wisher's vision is obscured with a dark fog. Their vision will return to normal once the hunt ends.
+|Manager Office
+|-
+|
+*I wish for activity
+*I wish the ghost would do something
+|Doubles all [[Activity|ghost activity]] for 2 minutes. The [[Fuse Box|fuse box]] will break permanently, and all exit doors will be locked for 2 minutes.
+|Chapel
+|-
+|
+*I wish the ghost was trapped
+*I wish to trap the ghost
+|Applies the cleansing effect from [[Incense]] on the ghost and teleports it to its [[Ghost Room|favorite room]]. All [[door]]s connected to the  favourite room and all doors connected to the wisher's current room will lock for 60 seconds. There is a 25% chance that doors connected to the wisher's current room are locked for 60 seconds plus a duration equal to the grace period instead. The ghost will not be able to [[hunt]], [[Roaming|roam]], or use abilities for 60.5 seconds. After this period, the ghost will start a standard hunt.<ref group="note">This hunt cannot be prevented by incensing the ghost beforehand and only an unused tier III crucifix will prevent the hunt (consuming both charges). This is likely a bug and therefore not intended.</ref>
+|Female Dorm Room
+|-
+! rowspan="3" |Player
+|
+*I wish for sanity
+*I wish to be sane
+|Sets every player to 50% [[sanity]]. Passive sanity drain will be multiplied by 1.5 for the rest of the contract, and the ghost's favorite room will be set to a new random room (overriding a [[Goryo]]'s inability to change favorite rooms).
+|Kitchen 
+|-
+|
+*I wish to be safe
+|Unblocks the nearest blocked [[Hiding Spots|hiding spot]] on the same floor. The [[light]]s in the wisher's current room will shatter, and for the rest of the contract the ghost will be able to hear the wisher and sense their active electronics at any distance (including from different floors).
+|Matron Office 1
+|-
+|
+*I wish to leave
+|Unlocks all exit doors at any time, including during hunts. The wisher's speed will be reduced before slowly returning over 5 seconds. Their vision will also be reduced for this duration.
+|Hospital Wing
+|-
+! rowspan="4" | Other 
+|
+*I wish for life
+*I wish to revive my friend
+|Revives the first [[Death|deceased]] player in the lobby list (established by the order the players joined the lobby), with a 50% chance of causing the wisher's death.<ref group="note">There is a bug where if this wish is used during a hunt, the wish will not take effect and still reduce the number of wishes by one.</ref><br>This wish cannot be used if no player is dead.
+|Classroom
+|-
+|
+*I wish for knowledge
+|Eliminates one incorrect type of [[evidence]] and its associated ghost types from the wisher's [[journal]]. The ghost then teleports to a random location within that player's previous room (within the investigation area) and initiates a cursed hunt.<ref group="note">This wish can be used without triggering the cursed hunt if the wisher's previous room was Balcony on Point Hope.</ref> The wisher's vision will be covered in a dark fog, and their hearing will be muffled until either their death or the end of the contract.<br><br>''Note: A player's previous room is their current room if another player (including dead players) changes rooms.''
+|Restricted Area 
+|-
+|I wish for [weather]
+*Clear Sky
+*Fog
+*Rain
+*Snow
+*Sunrise
+|Changes the [[weather]] as desired. All players will be temporary blinded while the weather changes and the wisher will lose 25% sanity. Wishing for rain will grant either light or heavy rain, each having an equal 50% chance.<br>This wish cannot be used if the wisher has less than 25% sanity.
+|Morgue
+|-
+|ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+*I wish for anything
+|Randomly grants one of the wishes above, except the knowledge and weather wishes.<br>This wish will fail if it chooses one of the wishes already granted.
+|Waiting Room
+|}
+
+====Miscellaneous====
+Due to the game's voice recognition system, some sentences may be interpreted as valid wishes, including silly wishes.
+
+Examples include "I wish for infinite wishes" which may be misheard as "I wish for sun". Sometimes the wishes "I wish to be sane" and "I wish to be safe"  can be misheard as the other wish.
+
+===Rewards===
+{{Main|Media}}
+Taking a photo of a Monkey Paw, regardless of the number of uses, will yield a photo labelled as '''Monkey Paw''', and reward up to $7 and 7 XP, depending on the tier of the [[Photo Camera]].
+
+==Tips==
+*The Monkey Paw is one of the most versatile cursed possessions in the game, and can assist players in the completion of most [[objectives]]. The various wishes can be called upon on command at any time, meaning that players can control when and where to employ their effects to maximize the benefits and minimize the downsides.
+**In multiplayer, the Monkey Paw becomes even more powerful than it already is in singleplayer, as a lot of wish downsides only affect the wisher.
+*One of the safety wish's downsides, allowing the ghost to detect the wisher from any distance, while significant on paper, can actually be used to the wisher's benefit to bait the ghost to wherever the wisher is, whether to save a teammate, or to lead it to a favourable looping spot for hunt identification and/or photos.
+*The knowledge wish becomes slightly more useful in reduced-evidence difficulties, as this wish always eliminates an incorrect evidence type and never a hidden evidence type, making it the only method to guarantee that an evidence type is incorrect. Its harsh downsides, however, make this wish a last resort and should only ever be used near the end of a contract.
+*The weather wish can be used if the current weather (such as Blood Moon) is not desired, or to change the ambient temperature to aid in getting [[Freezing Temperatures]] or slowing a [[Hantu]] down, which is especially useful if the fuse box is broken or the map is an outdoors map.
+*If not using the text UI, the Monkey Paw is always active when held. Be careful when speaking while holding it as you may accidentally call upon a wish.
+*The vision loss from certain wishes is very significant, making it near impossible for a player afflicted by it to see more than a meter or so in front of them. While this can be partially circumvented by setting game brightness to a very high value, the affected player will be more or less rendered helpless and will need to be guarded accordingly. Thus, it is recommended for the wisher to use these wishes while in a hiding spot.
+
+==Trivia==
+*The Monkey Paw was [https://www.makeship.com/products/cursed-monkey-paw-plushie available as official merchandise] for a limited time, until 3 July 2024 (UK time).
+*When wishing for sanity, the ghost doesn't teleport immediately to the new ghost room, but will have to enter the "Favourite room" state to walk to its new room, which usually happens shortly after wishing. Tier III [[salt]] can be used to deter this.
+*The safety wish technically makes the ghost able to detect the player through voice or electronics within 1,000 metres. This wiki uses the phrase "any distance" since there is no map where the player can be 1,000 metres away from the ghost.
+*The idea of a "Monkey's Paw" being used to grant wishes is very likely inspired by the short story [[wikipedia:The Monkey's Paw|The Monkey's Paw]] by [[wikipedia:W. W. Jacobs|W. W. Jacobs]].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.8.1.0]]
+|Added Monkey Paw.
+|-
+![[0.9.0]]
+|“I wish to see the ghost” will no longer teleport the ghost in front of you, instead it will reveal it where the ghost is, in its current position.
+|-
+![[0.10.0]]
+|"I wish to see the ghost" will now limit the user's vision after the ghost event instead of before.
+|-
+!?
+|Lowered the number of wishes for difficulties between 1x and 3x.
+|}
+
+==Notes==
+{{Reflist|group="note"}}
+{{EquipmentNav}}
+[[Category:Item]]
+[[fr:Patte de singe]]
+[[ru:Обезьянья лапа]]

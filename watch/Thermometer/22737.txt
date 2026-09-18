@@ -1,0 +1,106 @@
+# Thermometer
+# revid 22737  2026-02-06T01:17:10Z  by HollyleafYT
+# 上个版本 (首次见到)
+# sha256 b2068acf4f57424a4bf87d742bbfac41f8937dab465db5f1e93302699f8bc04b  bytes 6123
+# 备注: /* Tier III */{{Equipment Template
+ | tier i img=Thermometer090_T1.png
+ | tier ii img=Thermometer090_T2.png
+ | tier iii img=Thermometer090_T3.png
+
+ | price=$30
+ | maxamount=2
+ | uses=
+ | starter=Yes
+ | tier i level=
+ | tier ii level=27
+ | tier iii level=65
+
+ | tier i description=A vintage wall thermometer, normally used to measure room temperatures all year around by hanging it on a wall. It works perfectly fine when carrying it around too!
+ | tier i purpose=While moving through locations, ghosts will drop the temperature of the room they are currently in. Carry one of these thermometers into a room you think the ghost may be in and check the reading.
+ | tier i ability=<span style="color: #008000;">Accuracy: Low<br>Sample Speed: Low</span>
+ | tier ii description=Normally used by medical professionals for quick temperature readings, this Infrared Thermometer is great for quick readings in a pinch. It does seem to give slightly inaccurate readings though, maybe it’s just old.
+ | tier ii purpose=This Digital Thermometer is much faster at reading temperatures.<br>Simply hold it, then hold Use and wait for it to scan the temperature of the room you are standing in.
+ | tier ii ability=<span style="color: #008000;">Accuracy: Medium<br>Sample Speed: Medium</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier iii description=More modern, more technical, and more accurate. You just can’t beat it.
+ | tier iii purpose=An Air Thermometer that can scan temperatures much faster than its predecessor.<br>It works the same way that the previous version did, just Grab one and hold Use to scan and receive a reading.
+ | tier iii ability=<span style="color: #008000;">Accuracy: High<br>Sample Speed: High</span><br><span style="color: #ff0000;">Electronic</span>
+}}
+
+The '''thermometer''' is a piece of starter [[equipment]] used to read the [[temperature]]s in the nearby environment, and is the primary tool for detecting [[Freezing Temperatures]].
+
+==Usage==
+===Tier I===
+The Tier I Thermometer passively reads out the temperature of the last room in which the player held it, with the red liquid (alcohol) within slowly rising or falling depending on if the room is colder or warmer than where it was before. While very slow to update, with a rate of 0.33°C per second, it benefits over its upgraded versions by being both completely passive, and is not an electronic item that could attract the [[ghost]] while held during a [[hunt]].
+
+The thermometer reads out both Celsius (°C) and Fahrenheit (°F), with Celsius values on the left side and Fahrenheit on the right. The reading will fluctuate from the actual value by a maximum of +3 degrees, in Celsius.
+
+===Tier II===
+The thermometer can be {{Control|toggled}} to turn on the display. Holding down the {{Control|use}} button will make the thermometer read the player's current room's temperature in degrees Celsius (°C) every 2.5 seconds. This can be changed to Fahrenheit (°F) in the settings. The reading will fluctuate from the actual value by a maximum of +3 degrees, in Celsius.
+
+===Tier III===
+Similar to the Tier II thermometer, it can be {{Control|toggled}} to turn on the display, and can be used to give a reading by holding down the use button. Compared to the Tier II thermometer, it is much faster to give a read-out, only taking 1.5 seconds between each reading. 
+
+By default, the reading will be in degrees Celsius (°C); this can be changed to Fahrenheit (°F) in the settings. The reading will fluctuate from the actual value by a maximum of +2 degrees, in Celsius.
+
+==Tips==
+*Temperatures readings below the weather's ambient temperature (e.g. below 5°C in snowy weather) is generally an indication that the ghost is in (or was recently in) the room.
+*The tier II and III thermometers will continuously give out new readings when players hold {{Control|Use}} after the initial reading while the tier I thermometer will refresh constantly, although at a much slower speed.
+*When using thermometers thrown on the floor, turning it off and on again or moving between rooms before attempting to read the temperature may help to reduce the risk of errors.
+
+==Trivia==
+*The tier III thermometer is actually a Therma-Hygrometer which can also measure the air humidity; the design of the tier III thermometer is based off the THS-224-612 Therma-Hygrometer.
+*The tier III thermometer displays "EMS 0.95" on its screen, but EMS (Emissivity) is a measure for thermal radiation, and is used for infrared thermometers like the tier II thermometer. Since the tier III thermometer uses airflow to measure, the device is inaccurate.
+
+==History==
+{| class="fandom-table"
+! colspan="2" | Early Access Alpha
+|-
+!10 February 2020
+| Added Thermometer as an equipment.
+|-
+!19 June 2020
+|The Thermometer is now level-locked.
+|-
+!27 June 2020
+|The Thermometer now requires level 4 to be purchasable.
+|-
+!24 August 2020<br>(Part 4)
+|The Thermometer now costs $30 instead of $25.
+|-
+!11 September 2020
+|The Thermometer now updates its reading at a slower rate.
+|-
+! colspan="2" | Early Access
+|-
+!24 September 2020
+|The Thermometer is no longer level-locked.
+|-
+![[0.3.0]]
+|Changed the Thermometer model.
+|-
+! rowspan="5" |[[0.9.0]]
+|The Thermometer now has 3 tiers.
+|-
+|Thermometers are now counted as a starter item alongside the other evidence items.
+|-
+|Cold breath is no longer a reliable source of evidence.
+|-
+|You must now use a Thermometer to find freezing temperatures at 0 Celsius (32 Fahrenheit) or below.
+|-
+|To receive a room temperature reading you must now hold the “Use” button for a short period (Tiers II and III only).
+|-
+! rowspan="4" |[[0.10.0]]
+|Holding down the USE button while holding a Thermometer II or III will now continuously update, instead of having to restart after each reading.
+|-
+|Tier I now has randomization to make it consistent with the other Tiers.
+|-
+|Tier II Hold time has been reduced to 2.5s from 3s.
+|-
+|Tier III randomization has been reduced to make it more accurate.
+|}
+{{Evidence nav}}
+{{Equipment nav}}
+[[Category:Equipment]]
+[[fr:Thermomètre]]
+[[ru:Термометр]]
+[[Category:Starter Equipment]]

@@ -1,0 +1,90 @@
+# Map
+# revid 24616  2026-09-08T05:58:00Z  by Darkhooper
+# 上个版本 (首次见到)
+# sha256 b874a0feb39f6219ff82675aeb8c2876e30d12b787deb9bf005ae666da43776b  bytes 5550
+# 备注: Undo revision [[Special:Diff/24615|24615]] by [[Special:Contributions/MasterfulBat795|MasterfulBat795]] ([[User talk:MasterfulBat795|talk]]) The testing map is not accessible through normal ways, so it has nothing to do on this page.[[File:Tanglewood hallway.png|200px|right]]
+[[File:Grafton foyer.png|200px|right]]
+[[File:Maple-rework-main-shot.png|200px|right|thumb|From top: the 6 Tanglewood Drive foyer, the Grafton Farmhouse foyer, and the Maple Lodge Campsite campfire area.]]
+{{About|the locations that players can visit|the screen seen in the truck|Site Map}}
+In ''Phasmophobia'', players can visit several '''maps''' to execute a [[contract]]. Each investigation area is accessible after collecting and using the Main Door Key. '''Maps''' will come with a randomized [[weather]] type.
+
+==List of maps==
+''Phasmophobia'' currently has a total of 17 maps, comprising 9 small maps, 6 medium maps and 2 large maps.
+
+===Small===
+*[[6 Tanglewood Drive]]
+*[[42 Edgefield Road]]
+*[[10 Ridgeview Court]]
+*[[Nell's Diner]]
+*[[Grafton Farmhouse]]
+*[[13 Willow Street]]
+*[[Point Hope#Point Hope - Restricted|Point Hope Restricted]]
+*[[Prison#Prison - Restricted|Prison Restricted]]
+*[[Camp Woodwind]]
+
+===Medium===
+*[[Point Hope]]
+*[[Brownstone High School#Brownstone High School - Restricted|Brownstone High School Restricted]]
+*[[Bleasdale Farmhouse]]
+*[[Sunny Meadows Mental Institution#Sunny Meadows Mental Institution - Restricted|Sunny Meadows Restricted]]
+*[[Prison]]
+*[[Maple Lodge Campsite]]
+
+===Large===
+*[[Brownstone High School]]<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1142680133933748254 ''"High school is a large map now." shuee01, Mod (on Discord). 19 August 2023.]</ref>
+*[[Sunny Meadows Mental Institution|Sunny Meadows]]
+
+===Removed Maps===
+*[[Asylum]]
+
+==Effects==
+The map type affects [[money]] and [[experience]] gain, [[sanity]] drain, and light limits. Most maps require the player to reach a certain level to unlock them. One can play on a map they have yet to unlock by joining the lobby of another player that has unlocked that map.
+
+===Light limits===
+Each map has a maximum number of lights that can be turned on. This depends on map size:
+*Small maps: 9
+*Medium maps: 8
+*Large maps: 7
+
+If the limit is exceeded, the [[Fuse Box|fuse box]] will instantly trip (turn off), as well as all light switches and lamps. This refers to the number of interactable light switches and lamps on the map, and not the physical number of light bulbs or tubes.
+
+==Segmentation==
+All maps are divided into "inside" ('''investigation area''') and "outside" areas. The investigation area is further split into '''rooms''', among which one will be the '''[[Ghost Room|ghost room]]'''.
+
+===Investigation area===
+The investigation area (officially, the '''location''') is bounded by physical barriers and one or more [[Exit Door|exits]] for all maps. The ghost can only be present within the investigation area; the ghost cannot exit or spawn outside the investigation area. Some maps also contain outdoor areas where the ghost may be present:
+*[[Maple Lodge Campsite]] and [[Camp Woodwind]]: Outdoor camping area (limited by the wooden gates)
+*[[Sunny Meadows Mental Institution]]/Restricted: Square courtyard
+*[[Point Hope]]: Balcony
+*[[Bleasdale Farmhouse]]: Garden Porch, Garden, Side Path
+
+For all other maps, only indoor areas are considered part of the investigation area; this includes hallways and corridors.
+
+===Rooms===
+Each map has a fixed number of rooms. Mechanics-wise, rooms may be segmented differently for the ghost than what is visually perceived by players. Rooms separated by walls may be merged to be considered as one room, while rooms that are not separated by walls may actually be regarded as multiple rooms. The [[Ouija Board]]'s answers to the ghost's current location, as well as the location of [[Ghost Orb]]s, depend on each room's defined boundaries.
+
+====Rooms not separated by visible walls====
+Some rooms that seem like a single room are broken down into multiple rooms with no apparent visual barrier. For example:
+*The hallways on each level of [[Brownstone High School]] are divided into three separate sections: the left, front, and right.
+*In [[10 Ridgeview Court]], upon first entering the house, what appears to be one room actually consists of three different rooms: The Foyer, Dining Room, and Living Room.
+*In [[Maple Lodge Campsite]], the outdoor paths and tenting areas are split up into several "rooms" not including the tents themselves.
+
+====Rooms composed of multiple walled rooms====
+Some rooms actually consist of two or more visually-distinct, walled rooms connected by doorways. For example:
+*Nearly all smaller bathrooms or storage rooms that are attached to a larger bedroom are considered as part of the same room as the bathroom.
+*In [[42 Edgefield Road]], the "Basement" room consists of both the hallway and the attached storage room.
+*In [[Brownstone High School]], each Science Class Room (i.e., Science Class Room 1, 2, 3, and 4) is a room that consists of two rooms separated by a wall and a door.
+*On the Prison's second floor, the Infirmary as a room actually consists of two rooms that contain medical beds.
+
+In any room that consists of two or more walled rooms, Ghost Orbs may appear in ''any'' of the walled rooms, and the ghost can spawn for hunts in any of these rooms. This is essential to know, for example, to complete the [[crucifix]] [[Objectives|objective]].
+
+===Ghost room===
+{{Main|Ghost Room}}
+The ghost room is akin to the ghost's "base"; it will usually spawn in that room, and most ghosts will generally linger in or near this room, subject to randomness and ghost abilities.
+
+==References==
+{{Reflist}}
+{{MapNav}}
+[[Category:Maps]]
+[[fr:Carte]]
+[[ru:Карты]]

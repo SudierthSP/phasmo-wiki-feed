@@ -1,0 +1,119 @@
+# Video Camera
+# revid 24481  2026-08-25T17:34:50Z  by Darkhooper
+# 上个版本 (首次见到)
+# sha256 fda51e2a73f5e80e605cda79ffd9f438aa6462434fc2a56f764bcf7a8d4c57cb  bytes 6988
+# 备注: 0.19{{Equipment Template
+ | tier i img=VideoCamera090_T1.png
+ | tier ii img=VideoCamera090_T2.png
+ | tier iii img=VideoCamera090_T3.png
+
+ | price=$50
+ | maxamount=4
+ | uses=
+ | starter=Yes
+ | tier i level=
+ | tier ii level=27
+ | tier iii level=49
+
+ | tier i description=We found a bunch of these old camcorders in a box in the old office, hopefully they do the job well enough.
+ | tier i purpose=This vintage camcorder may be old, but it’s perfect for hunting down Ghost Orbs.<br>Grab one and enter the location and start searching for a small spot of light dancing around in the room. Make sure to turn on your night vision first!
+ | tier i ability=<span style="color: #008000;">Image Quality: Low<br>Paranormal Resistance: Low<br>Night Vision</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier ii description=Parasonic released this video camera in hopes of replacing every Bony camcorder, it seems to have worked, mostly.
+ | tier ii purpose=A video camera with a higher quality screen, better night vision, and more resistance against paranormal interference. It should make finding those sneaky Ghost Orbs just that little bit easier.
+ | tier ii ability=<span style="color: #008000;">Image Quality: Medium<br>Paranormal Resistance: Medium<br>Night Vision</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier iii description=Bony are back with a state-of-the-art camera, modified solely for ghost hunters. It would also make for a great movie camera.
+ | tier iii purpose=A large cinema-grade video camera, it’s shoulder-mounted and heavy, but worth it for the additional visibility.
+ | tier iii ability=<span style="color: #008000;">Image Quality: High<br>Paranormal Resistance: High<br>Night Vision</span><br><span style="color: #ff0000;">Electronic</span>}}
+
+The '''video camera''' is a piece of electronic [[Equipment#Starter Equipment|Starter Equipment]] used to detect [[Ghost Orb]]s and to record videos.
+
+==Mechanics==
+When a video camera is {{Control|picked up}}, the flip screen will open automatically. The video camera can be used handheld with its built-in display or {{Control|placed}} on a flat surface or a [[tripod]]. The video camera will automatically start streaming its [[Video Feed|video feed]] to the [[computer]] when held outside the [[truck]] or placed.
+
+Holding the placement key will show a translucent preview of the video camera and its facing direction, which can be adjusted while holding the placement key by moving the mouse left and right. Be aware that even though certain spots are shown as valid, the camera may tip over or fall due to the geometry or other objects placed on the surface.
+
+When the ghost manifests during a [[ghost event]] or a [[hunt]], it will cause interference on all nearby video cameras and distort the image on both the built-in display and the video feed. Cameras of higher Tier with a better image quality will be significantly less impacted by ghost interference, aiding players in observing or tracking the ghost during a ghost event or a hunt.
+
+Ghosts may occasionally knock over placed down video cameras within a certain range, forcing players to actively tend to them. Placing a camera on a tripod will reduce the probability of the ghost knocking it over. The stability provided by the tripod will depend on its Tier.
+
+Night vision can be {{Control|toggled}} while holding the active video camera or via the computer keyboard. When night vision is turned on, any Ghost Orbs present can be seen through the video camera.
+
+Holding the {{Control|Use}} button while holding the active video camera will start a video recording. If a valid subject is captured, it will be recorded in the [[Media]] tab in the [[journal]]. Video recording can also be started from the [[computer]] in the [[truck]] by clicking on the Rec button. If a subject is considered as a Duplicate, the highlight frame's text will be faded.
+
+==Tips==
+*The video camera's night vision function can be very useful when using a [[D.O.T.S Projector]] as the [[ghost]]'s silhouette may be easier to see with night vision.
+*The video camera can also be used to maintain surveillance on areas such as hallways, rooms, and the [[fuse box]]. This can allow for easy viewing of certain stationary evidence like [[Fingerprints]], [[Ghost Writing]], [[EMF Level 5]], [[salt]], or [[D.O.T.S Projector]]. However, the video feed becomes extremely distorted whenever the [[ghost]] manifests during a [[Ghost Event]] or a [[hunt]], making observation very difficult.
+**Note that if the camera isn't positioned properly and/or is of a lower tier which has worse quality, it can be difficult to spot Ghost Writing and read EMF Level 5 off the EMF Reader; Players should still go in personally and check evidence every now and then to prevent missing any.
+*It is recommended to turn your flashlight (and room lights) off while using night vision to check for [[Ghost Orb|Ghost Orbs]], as it makes the camera feed extremely bright, making it nearly impossible to see through the camera to spot any Orbs.
+
+==Objectives==
+{{Main|Objectives}}
+{| class="fandom-table"
+!Objective
+!Actual requirements
+|-
+| Capture a video of a Ghost
+| Record a video of the ghost with a Video Camera when it manifests
+|-
+| Capture 3 unique videos with a Video Camera
+| Three [[Media#Video evidence|videos]] with a Unique stamp are captured
+|}
+
+==Gallery==
+<gallery>
+File:Ghost Orbs on the Go.jpg|A Tier II video camera being used handheld.
+File:Video Camera On Tripod New.jpg|A video camera on a tripod
+File:Video-camera-knocked-down_0.9.1.0.gif|A video camera being knocked down
+</gallery>
+
+==Trivia== 
+*The real-life video camera models are:
+**'''Tier I:''' Sony DCR-TRV260 camcorder (Sony rebranded to Bony)
+**'''Tier II:''' Panasonic HC-VX1K camcorder (Panasonic rebranded to Parasonic)
+**'''Tier III:''' Sony Venice Digital Cinema Camera (Sony rebranded to Bony)
+*A video camera can be turned on in the truck if it is placed on a tripod that is not hanging on the wall. This is likely a bug.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access Alpha
+|-
+!22 March 2020
+|Video cameras are now a starter item.
+|-
+! 2 April 2020
+|Video cameras can now be rotated on non-VR.
+|-
+!3 April 2020
+|A video camera preview is now shown when aiming at a tripod.
+|-
+!6 April 2020
+|The hand now shows when holding a video camera.
+|-
+!14 May 2020
+|Improved video camera rotation when held in VR.
+|-
+!15 August 2020<br>(Part 3)
+|Reduced the placement range of video cameras from 3 metres to 1.6 metres. 
+|-
+! colspan="2" |Early Access
+|-
+! rowspan="2" |[[0.3.0]]
+|Changed the video camera model.
+|-
+|Video feed is now displayed on the video camera.
+|-
+![[0.9.0]]
+|The Video Camera now has 3 tiers.
+|-
+![[0.13.0]]
+|The Video Camera can now record video evidence.
+|-
+![[0.19.0]]
+|Video Cameras will now indicate Duplicate evidence.
+|}<br>
+
+{{Equipment nav}}
+[[Category:Equipment]]
+[[Category:Starter Equipment]]
+[[fr:Caméra vidéo]]
+[[ru:Видеокамера]]

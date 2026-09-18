@@ -1,0 +1,363 @@
+# Ouija Board
+# revid 24861  2026-09-18T07:04:10Z  by Darkhooper
+# 上个版本 (首次见到)
+# sha256 1060991ca02cffb0cbe9c4ea150cda966f4d749cb04764a97700b249138005fa  bytes 12498{{Item Template
+| img= Ouija Board New.png
+| imgcaption = 
+| price = 
+| maxamount = 1
+| uses = Reusable
+| starter = 
+| level = 
+| description = The ghost can be asked questions to get definitive information at the cost of player sanity.
+}}{{Quote|speaker=Objective Board|quote=This Ouija Board allows us to talk with the ghost.}}
+''"The most common way of accidentally summoning a ghost is with a Ouija Board, so you may come across these during your investigations. Be careful if you choose to use it as they have been known to lower your sanity. To use one, activate it and then ask a question with your voice."''
+
+The '''Ouija Board''' is a [[Cursed Possession|cursed possession]] in ''Phasmophobia''. It can be used to communicate with the [[ghost]] at the cost of [[sanity]].
+
+==Mechanics==
+A Ouija Board has a 1 in 7 chance per contract of being chosen as the cursed possession that will spawn, with one specific spawn location per map.
+
+A Ouija Board can be {{Control|picked up}} with an empty hand. Swapping to another item will cause the Ouija Board to drop from the inventory.
+
+===Activation===
+The Ouija Board can be activated by {{Control|interacting}} with it if the player is not holding it, or {{Control|toggling}} it directly while holding the board. The planchette<ref group="note">A planchette; an instrument used in combination with a ouija board to communicate by the ghost 'moving' the instrument to the letters of its desired responses</ref> will drop down onto the board, signifying that the board has been activated. There is currently a bug where an ongoing [[setup phase]] will only be cancelled if a valid phrase has been recognized and not upon activation of the board.
+
+===Questioning===
+[[File:Ouija Board text UI.jpg|thumb|200px|The Ouija Board's textual UI.]]
+Players can choose to either use voice chat or a text-based UI to ask questions.
+*If using voice chat, once activated, the Ouija Board will respond to [[voice chat|voice input]] within 5 meters of it on the same floor.
+*If using the text-based UI, the UI will appear upon activation. Players can then click to select one of 3 categories, then select a category-specific question, or say goodbye. The player cannot exit the UI without saying goodbye or the board breaking, but the board can be thrown out while holding it; this automatically deactivates the board.
+
+The player asking the question must be within the investigation area to ask questions, but does not have to be in the [[ghost room]] (nor the ghost's current room).
+
+If the question is recognized, the planchette will move to answer the question, and an [[EMF]] Level 2 reading will be generated around the Ouija Board. If the ghost has [[EMF Level 5]] as evidence, there is a 33% chance for it to appear per question asked.
+
+Whether a ghost is "shy" or not does not affect its ability to respond through the Ouija Board. If the Ouija Board is asked a question but nothing happens, then either the board is not activated or the phrase was not recognized. There is a cooldown of ~2.5 seconds for clicking via text-based UI, while there is no cooldown time for voice chat, aside from any voice recognition limitations.
+
+===Deactivation===
+[[File:Broken Ouija Board.jpg|thumb|202x202px|A broken Ouija Board]]
+To deactivate the Ouija Board, any nearby player must say "Goodbye", which will make the planchette disappear. The Ouija Board can then be left alone safely. The Ouija Board will also deactivate automatically if the player holds the board and exits the investigation area.
+
+The Ouija board will burn and break apart, initiating a [[Hunt#Cursed hunt|cursed hunt]], if:
+*There is no player within 5 meters of a still-active board (leaving this range applies)
+*The player currently asking questions has less sanity than required to "pay" for the question
+*The phrase "hide and seek" (or similar) is said (see [[#Questions|Questions]])
+If there are no players inside when the board breaks, it will not trigger a hunt, but will still extend the duration of later hunts.
+
+===Rewards===
+{{Main|Media}}
+Using a [[Photo Camera]] to take a photo of the Ouija Board will yield a photo labelled as '''Ouija Board''', and reward up to $7 and 7 XP.
+
+When the ghost answers a question by moving the planchette, a '''Ouija Board''' video and a '''Ouija Board''' sound can be captured using a [[Video Camera]] and a [[Sound Recorder]]. Each of these pieces of media will reward up to $7 and 7 XP.
+
+==Questions==
+There are at least 13 different types of questions (including two jokes) that can be asked:
+*Location
+*Proximity
+*Age
+*Death
+*Room count
+*Sanity
+*Method of death
+*Bone location
+*Hide and seek
+*Feeling
+*Purpose
+*Joke
+*Shyness
+
+Note that if a question does not get a response, it is not considered a valid question. A few example questions:
+*"Are you from [Country/State Name]?"
+*"Are you [single/married]?"
+*"What is your name?"
+
+{| class="fandom-table"
+|+List of questions. This list is not exhaustive.
+!Category
+!Description
+!Questions
+!Answers
+!Sanity drain
+!Has text option
+|-
+|'''Location'''
+|Responds with the name of the room that the ghost is currently in. This does not answer the favorite room, unless ghost is ''currently'' there.
+|
+*"Where are you?"
+*"What is your favorite room?"
+*"Where is your room?"
+*"What is your room?"
+|''The room's name''
+|50%
+|Yes
+|-
+|'''Proximity'''
+|Responds with "Yes" if the ghost is within 4 metres of the Ouija Board, otherwise "No".
+|
+*"Are you here?"
+*"Are you close?"
+|Yes/No
+|20%
+|No
+|-
+|'''Bone location'''
+|Responds with the name of the room where the [[bone]] is located.
+|
+*"Where is your body?"
+*"Where did you die?"
+*"Where is the bone?"
+|''The room's name''
+|20%
+|Yes
+|-
+|'''Room count'''
+|Responds with the number of alive players in the current room of the player who asks the question. If the ghost is in the same room as that player, the number is increased by 1.
+|
+*"How many are in this room?"
+*"How many people are in this room?"
+*"How many people are here?"
+*"How many ghosts are in this room?"
+*"How many ghosts are here?"
+*"Are you alone?"
+*"Are we alone?"
+*"Who is here?"
+*"Who is in this room?"
+|1 - 5
+|20%
+|No
+|-
+|'''Shyness'''
+|Responds with "No" if the ghost only responds to people who are alone on the [[Spirit Box]], otherwise "Yes".
+|
+*"Do you talk to everyone?"
+*"Do you like groups?"
+*"Do you like crowds?"
+|Yes/No
+|20%
+|Yes
+|-
+|'''Age'''
+|Responds with the age of the ghost; this is a randomly generated number between 10 and 89 years that is predetermined at the start of an investigation.<br>If the ghost is a [[Thaye]], its age will start within this range but can exceed it after aging.
+|
+*"How old are you?"
+*"What is your age?"
+*"Are you old?"
+*"Are you young?"
+|10 - 89
+|5%
+|Yes
+|-
+|'''Death'''
+|Responds with the length of death of the ghost. This is a randomly generated number between 50 and 999 years that is predetermined at the start of an investigation.
+|
+*"How long have you been dead?"
+*"How many years ago did you die?"
+*"How long have you been here?"
+*"How long ago did you die?"
+*"When did you die?"
+|50 - 999
+|5%
+|No
+|-
+| rowspan="3" |'''Sanity'''
+| rowspan="3" |The responses to these questions can give the player a rough estimate of their current sanity level. This is especially useful on large maps or on Nightmare difficulty where the [[Sanity Monitor]] isn't available. All answers are of the player's sanity ''after'' their sanity has been deducted.
+|
+*"What is my sanity?"
+*"How is my sanity?"
+|
+*Healthy (≥ 81%)
+*Good (61% - 80%) 
+*Average (41% - 60%)
+*Bad (21% - 40%)
+*Awful (≤ 20%)
+| rowspan="3" |5%
+|Yes
+|-
+|
+*"How crazy am I?"
+*"How insane am I?"
+|
+*Not Very (≥ 51%)
+*Very (21% - 50%)
+*Insane (≤ 20%)
+|No
+|-
+|
+*"Am I crazy?"
+*"Am I insane?"
+|
+*No (≥ 91%)
+*Maybe (21% - 90%)
+*Yes (≤ 20%)
+|Yes
+|-
+|'''Method of death'''
+|The cause of death of the ghost is listed.
+|
+*"How did you die?"
+*"What killed you?"
+*"What was your cause of death?"
+|
+*Accident
+*Choked
+*Drowned
+*Fell
+*Murder
+*Shot
+*Slipped
+|5%
+|Yes
+|-
+|'''Feeling'''
+|These questions tell the player how the ghost is feeling.
+|
+*"How do you feel?"
+*"How are you?"
+*"What's up?"
+*"Are you okay?"
+*"Do you feel alright?"
+|
+*Angry
+*Cold
+*Empty
+*Excited
+*Hurt
+*Lonely
+*Sad
+*Scared
+*Sick
+*Strong
+*Weak
+|5%
+|No
+|-
+|'''Purpose'''
+|These questions tell the player why the ghost is present.
+|
+*"Why are you here?"
+*"What are you doing?"
+*"What do you want?"
+*"What is your purpose?"
+|
+*Hatred
+*Kill
+*Lonely
+*Lost
+*Love
+*Peace
+*Revenge
+*Scared
+*Trapped
+*You
+|5%
+|No
+|-
+| rowspan="2" |'''Joke'''
+| rowspan="2" |A few jokes can be used on the ghost, each resulting in the ghost giving a specific answer in relation to the joke.
+|
+*"Knock knock"
+|Whos there
+| rowspan="2" |5%
+| rowspan="2" |No
+|-
+|
+*"Marco"
+|Polo
+|-
+|'''Hide and seek'''
+|The Ouija Board will initiate a countdown from 5 to 0, after which, the board breaks and the ghost begins a [[Hunt#Cursed hunt|cursed hunt]].<ref group="note">The Ouija Board will instantly break instead of doing a countdown if the player asking this question has no sanity left.</ref>
+|
+*"Hide and seek"
+|''Counts down from 5 to 0''
+|No drain
+|Yes
+|}
+
+==Tips==
+*You can quickly and precisely decrease your sanity (and, by extension, the average sanity of your team) by asking 5% sanity drain questions with the Ouija Board repeatedly, even while it's in the middle of answering another question; this can be helpful for testing hunt sanity thresholds.
+*You can repeatedly ask low-cost questions with the Ouija Board in order to create numerous interactions; with an [[EMF Reader]] nearby, EMF level 5 reading may be quickly attained, as each question has a 33% chance to give off the evidence.
+*When using voice chat to ask questions, wait at least a few seconds for the board to respond before asking again, to avoid breaking the board when asking high sanity-deducting questions.
+*When using the text UI and asking for "Hide and seek", be mindful that you will only exit the UI once the board breaks after the countdown.
+
+==History==
+{|class="fandom-table"
+!colspan="2"|Early Access Alpha
+|-
+!14 March 2020
+|The Ouija Board will now lower the player's sanity instead of having a chance to kill the player.
+|-
+!rowspan="2"|6 June 2020
+|Questions can now be asked to the Ouija Board.
+|-
+|All ghosts can now answer the Ouija Board instead of only having a chance to do so.
+|-
+!6 July 2020
+|The Ouija Board will now create an EMF reading when successfully answered.
+|-
+!8 July 2020
+|Failing the Ouija Board will now anger the ghost and cancel the setup phase.
+|-
+!16 August 2020
+|Added localisation for Ouija Board questions.
+|-
+!colspan="2"|Early Access
+|-
+!rowspan="2"|22 September 2020
+|Slightly reduced the sanity drop from the Ouija Board.
+|-
+|Increased the chance of a successful question.
+|-
+!rowspan="2"|[[0.4.0]]
+|The Ouija Board now deducts less sanity for non-responses and more for a response.
+|-
+|Improved the planchette animation.
+|-
+!rowspan="2"|[[0.4.1.0]]
+|Sanity questions can now be asked to the Ouija Board.
+|-
+|Less useful questions now deduct less sanity for a response.
+|-
+!rowspan="5"|[[0.5.0]]
+|Updated the Ouija Board model.
+|-
+|The Ouija Board no longer fails questions.
+|-
+|Reduced the total number of Ouija Board spawn points on [[Brownstone High School]], [[Prison]] and [[Asylum]].
+|-
+|Ouija Board spawn chances are now tied to the spawn chances of cursed possessions.
+|-
+|Players must now say goodbye to the Ouija Board to deactivate it and prevent a hunt.
+|-
+![[0.5.0.2]]
+|Players can no longer ask the ghost to play hide and seek with the Ouija board during a hunt.
+|-
+![[0.7.0]]
+|Reduced the sanity drain for "Hide and seek" from 25% to 0%.
+|-
+!rowspan="3"|[[0.8.0]]
+|Added a text UI option for using the Ouija Board.
+|-
+|The Ouija Board now breaks when no player is nearby, instead of just the player who activated it.
+|-
+|The Ouija Board now deactivates automatically if a player walks outside the investigation area while holding it.
+|-
+![[0.8.0.3]]
+|Increased the sanity drain for ghost's current room and bone location from 40% and 20% respectively, to both 50%. 
+|-
+![[0.8.1.0]]
+|Saying "goodbye" on the Ouija Board no longer counts toward challenges.
+|-
+![[0.9.5.0]]
+|Ouija board will now break if you do not have enough sanity to use it instead of answering a question then breaking.
+|-
+![[0.10.0]]
+|Reduced the sanity drain for the bone location question from 50% to 20%.
+|}
+
+==Notes==
+{{Reflist|group="note"}}
+{{EquipmentNav}}
+[[Category:Item]]
+[[fr:Planche ouija]]
+[[ru:Доска Уиджи]]
