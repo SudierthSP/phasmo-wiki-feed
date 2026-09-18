@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T19:55:42.896Z",
+  "generated": "2026-09-18T19:56:44.898Z",
   "counts": {
     "en": 57,
     "zh": 41
@@ -117,13 +117,11 @@
       "Salt shaker": [
         "Salt shaker",
         "Salt Shaker",
-        "Salt",
         "Salt"
       ],
       "Glow Stick": [
         "Glow Stick",
         "Glowstick",
-        "UV Light",
         "UV Light"
       ]
     },
@@ -131,13 +129,11 @@
       "醒脑丸": [
         "醒脑丸",
         "理智恢复",
-        "理智药",
         "理智药"
       ],
       "0.5.0": [
         "0.5.0",
         "诅咒之物更新",
-        "圣诞节更新",
         "圣诞节更新"
       ]
     }
