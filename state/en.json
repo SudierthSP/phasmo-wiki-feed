@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-09-18T23:21:20.919Z",
+  "updated": "2026-09-19T04:44:22.932Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -406,8 +406,8 @@
       "redirect": true
     },
     "Kinetic Games": {
-      "revid": 25006,
-      "ts": "2026-09-18T22:00:10Z",
+      "revid": 25007,
+      "ts": "2026-09-18T23:25:33Z",
       "redirect": false
     },
     "Dirty water": {
