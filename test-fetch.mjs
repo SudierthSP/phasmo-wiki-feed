@@ -305,6 +305,40 @@ try {
   console.log('\n第四次运行（升级已完成）');
   await runFetch(OUT, port, 'run4');
   check('.dirty === 0', fs.readFileSync(path.join(OUT, '.dirty'), 'utf8').trim() === '0');
+
+  // ============ 第五次运行（正文页真的变了） ============
+  // 2026-09-20 加：播报靠 history/<lang>/<标题>/<prevRevid>.txt 算「改了什么」，
+  // 而那个文件只有"变动前那一版"落过盘才有。原来只存**新版**的 revid，
+  // 于是每个页面 bootstrap 之后的**第一次**变动都拿不到上一版 ——
+  // 播报只能退化成「新版开头」，说不清改了什么（群里实测到过）。
+  console.log('\n第五次运行（Ghost Event 改了，revid 24629 → 24700）');
+  const beforeChange = fs.readFileSync(en('Ghost Event.txt'), 'utf8');
+  EN['Ghost Event'].revid = 24700;
+  EN['Ghost Event'].content = ghostEventBody + '\n\n==Trivia==\nA new line.';
+  const r5 = await runFetch(OUT, port, 'run5');
+  check('fetch 正常退出', r5.status === 0);
+  check('.dirty === 1（有变动）', fs.readFileSync(path.join(OUT, '.dirty'), 'utf8').trim() === '1');
+  const histOld = path.join(OUT, 'history', 'en', 'Ghost Event', '24629.txt');
+  check('变动前那一版留了档：history/en/Ghost Event/24629.txt', exists(histOld));
+  if (exists(histOld)) {
+    check('留的确实是变动前的内容（逐字节相同）', fs.readFileSync(histOld, 'utf8') === beforeChange);
+  }
+  check('新版也留了档：history/en/Ghost Event/24700.txt',
+    exists(path.join(OUT, 'history', 'en', 'Ghost Event', '24700.txt')));
+  const last5 = JSON.parse(fs.readFileSync(path.join(OUT, 'changes.jsonl'), 'utf8').trim().split('\n').pop());
+  check('变更条目的 prevRevid === 24629', last5.prevRevid === 24629, JSON.stringify(last5.prevRevid));
+  check('变更条目的 kind === edit', last5.kind === 'edit', String(last5.kind));
+
+  // ============ 第六次运行（同一页再改一次） ============
+  console.log('\n第六次运行（同一页再改，24700 → 24701）');
+  EN['Ghost Event'].revid = 24701;
+  EN['Ghost Event'].content = ghostEventBody + '\n\n==Trivia==\nAnother line.';
+  const r6 = await runFetch(OUT, port, 'run6');
+  check('fetch 正常退出', r6.status === 0);
+  check('history/en/Ghost Event/24700.txt 在（第二次变动时它就是"上一版"）',
+    exists(path.join(OUT, 'history', 'en', 'Ghost Event', '24700.txt')));
+  const last6 = JSON.parse(fs.readFileSync(path.join(OUT, 'changes.jsonl'), 'utf8').trim().split('\n').pop());
+  check('第二次变动的 prevRevid === 24700', last6.prevRevid === 24700, JSON.stringify(last6.prevRevid));
 } finally {
   server.close();
   fs.rmSync(OUT, { recursive: true, force: true });
