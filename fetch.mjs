@@ -367,11 +367,23 @@ async function syncSite(site, globalLog, redirectsOut) {
 
       // ⚠️ 这里的 '\n\n' 是正文的起始标记，别改（见文件头 bug ① 的说明）
       const text = header + '\n\n' + p.content;
+      // Keep the PREVIOUS revision on disk *before* overwriting the page file.
+      // The announcer reads history/<lang>/<title>/<prevRevid>.txt to build a diff;
+      // without this the first change of a page after bootstrap has no previous
+      // version to diff against (2026-09-20: Goryo fell back to 'new version head').
+      const prevRev = prevPages[p.title]?.revid;
+      const reallyChanged = prevRev !== p.revid;
+      if (reallyChanged && prevRev) {
+        try {
+          const oldText = fs.readFileSync(path.join(pagesDir, fname), 'utf8');
+          writeFile(path.join(histDir, safeName(p.title), `${prevRev}.txt`), oldText);
+        } catch { /* bootstrap: nothing on disk yet */ }
+      }
       writeFile(path.join(pagesDir, fname), text);
 
       // 历史版本：只对**确实变动过**的页留档
       // （首次全量、格式升级都不留，否则一次就是 700 个文件）
-      const reallyChanged = prevPages[p.title]?.revid !== p.revid;
+      // reallyChanged is computed above, BEFORE the page file is overwritten.
       if (!fullFetch || (fmtBump && reallyChanged)) {
         writeFile(path.join(histDir, safeName(p.title), `${p.revid}.txt`), text);
       }
