@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T04:44:22.491Z",
+  "generated": "2026-09-20T14:22:18.950Z",
   "counts": {
     "en": 321,
     "zh": 282
@@ -688,8 +688,8 @@
       {
         "t": "Goryo",
         "f": "pages/en/Goryo.txt",
-        "b": 7082,
-        "r": 23229,
+        "b": 7300,
+        "r": 25008,
         "x": "{{Ghost |image1=Goryo Discovered.jpg |strength=*Usually shows itself passing through [[D.O.T.S Projector|D.O.T.S]] on video camera only with no players nearby |weakness(es)=*Less likely to wander *Cannot change favorite "
       },
       {

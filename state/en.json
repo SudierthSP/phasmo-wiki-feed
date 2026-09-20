@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-09-19T04:44:22.932Z",
+  "updated": "2026-09-20T14:22:19.604Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -556,8 +556,8 @@
       "redirect": false
     },
     "Goryo": {
-      "revid": 23229,
-      "ts": "2026-04-20T02:21:14Z",
+      "revid": 25008,
+      "ts": "2026-09-20T11:48:05Z",
       "redirect": false
     },
     "Myling": {
