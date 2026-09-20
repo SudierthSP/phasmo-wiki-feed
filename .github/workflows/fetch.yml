@@ -1,11 +1,13 @@
 name: fetch wiki snapshot
 
-# Every 3 hours (offset from the hour to avoid GitHub's scheduling peak).
-# Frequency basis: measured ~6.1 edits/day, 8 active users -- hourly is pointless.
-# GitHub cron is not punctual (can be delayed under load); fine for this use case.
+# Every 15 minutes, offset off the hour to dodge GitHub's scheduling peak.
+# Frequency basis: measured ~6.1 edits/day, 8 active users -- so most runs find
+# nothing and cost a few seconds; the repo is public, so scheduled runs are free.
+# Note: GitHub cron is NOT punctual -- the old '23 */3' cadence was observed
+# slipping to 4-6 hours between runs, which made group announcements lag badly.
 on:
   schedule:
-    - cron: '23 */3 * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 concurrency:
