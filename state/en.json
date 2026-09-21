@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-09-20T14:22:19.604Z",
+  "updated": "2026-09-21T08:12:17.042Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -16,8 +16,8 @@
       "redirect": false
     },
     "Hunt": {
-      "revid": 24655,
-      "ts": "2026-09-13T19:47:42Z",
+      "revid": 25011,
+      "ts": "2026-09-21T03:51:26Z",
       "redirect": false
     },
     "Evidence": {
@@ -276,8 +276,8 @@
       "redirect": false
     },
     "Setup Phase": {
-      "revid": 24278,
-      "ts": "2026-07-24T04:40:08Z",
+      "revid": 25009,
+      "ts": "2026-09-21T03:27:59Z",
       "redirect": false
     },
     "Dirty Water": {
@@ -1791,8 +1791,8 @@
       "redirect": false
     },
     "Ability": {
-      "revid": 24368,
-      "ts": "2026-07-31T23:45:27Z",
+      "revid": 25010,
+      "ts": "2026-09-21T03:40:11Z",
       "redirect": false
     },
     "0.16.1.2": {

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T14:22:18.950Z",
+  "generated": "2026-09-21T08:12:16.616Z",
   "counts": {
     "en": 321,
     "zh": 282
@@ -23,8 +23,8 @@
       {
         "t": "Hunt",
         "f": "pages/en/Hunt.txt",
-        "b": 33859,
-        "r": 24655,
+        "b": 34379,
+        "r": 25011,
         "x": "<div class=\"mw-collapsible mw-collapsed\" style=\"width:400px; margin-left:1%; float:right; text-align:right\"> '''<span style=\"color:#efcf00\">This image has flashing lights.</span>'''<div class=\"mw-collapsible-content\">[[F"
       },
       {
@@ -366,8 +366,8 @@
       {
         "t": "Setup Phase",
         "f": "pages/en/Setup Phase.txt",
-        "b": 2328,
-        "r": 24278,
+        "b": 2407,
+        "r": 25009,
         "x": "The '''setup phase''' is the starting phase of a game. During this phase, players can explore the location, collect and set up [[equipment|equipments]], and locate the [[ghost]] before it can initiate a [[hunt]]. == Mech"
       },
       {
@@ -2109,8 +2109,8 @@
       {
         "t": "Ability",
         "f": "pages/en/Ability.txt",
-        "b": 2020,
-        "r": 24368,
+        "b": 1996,
+        "r": 25010,
         "x": "The '''ability''' state is a state that allows the [[ghost]] to perform further actions. ==Mechanics== After the ghost enters this state through the [[activity]] check, it will be able to choose one of the following thre"
       },
       {

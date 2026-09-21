@@ -1,7 +1,7 @@
 # Ability
-# revid 25010  2026-09-21T03:40:11Z  by Darkhooper
-# 备注: The Hermit does not disable abilities
-# sha256 4fd50309280245bf4bc93e402c6a46819446e81ab64d26b5d8b21c18a7101222  bytes 1753
+# revid 24368  2026-07-31T23:45:27Z  by HollyleafYT
+# 备注: /* Mechanics */
+# sha256 78f5c360c479656c216e2a5c1ff77e72130aa4519ef6372e5d6c80172e8a084e  bytes 1798
 # 源: https://phasmophobia.fandom.com/api.php
 
 The '''ability''' state is a state that allows the [[ghost]] to perform further actions.
@@ -12,7 +12,7 @@ After the ghost enters this state through the [[activity]] check, it will be abl
 *Use its ability proper (such as the [[Phantom]]'s travel ability or the [[Demon]]'s hunt ability)
 *Perform a [[ghost event]]
 
-If the ghost is trapped due to the [[Monkey Paw]]'s 'trap wish', or if the ghost is a [[Shade]] and there is a player in the same room as it, it will enter the [[Ghost Room|favourite room]] state instead of continuing in the ability state.
+If the ghost is trapped due to ''The Hermit'' [[Tarot Cards|tarot card]] or the [[Monkey Paw]]'s 'trap wish', or if the ghost is a [[Shade]] and there is a player in the same room as it, it will enter the [[Ghost Room|favourite room]] state instead of continuing in the ability state.
 
 While in the ability state, the ghost will roll an integer between 0 and 11. If the ghost is a [[Thaye]], it will instead roll a float between 0.0 and 12.0 multiplied by its activity modifier (between 0.5 and 2 depending on its age), rounded down to the nearest integer.
 

@@ -1,7 +1,7 @@
 # Setup Phase
-# revid 25009  2026-09-21T03:27:59Z  by Darkhooper
-# 备注: setup phase converts hunt to fav room (novena's data)
-# sha256 9cc9070d677ef32765e78cafb90a0945044e9301b944fff08a2e36ea9d9c65b7  bytes 2144
+# revid 24278  2026-07-24T04:40:08Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 fc7955b4dc94e227169c50be74aa68e6bb514870de812a7ed72d5378bb036565  bytes 2070
 # 源: https://phasmophobia.fandom.com/api.php
 
 The '''setup phase''' is the starting phase of a game. During this phase, players can explore the location, collect and set up [[equipment|equipments]], and locate the [[ghost]] before it can initiate a [[hunt]].
@@ -26,9 +26,9 @@ The duration of the setup phase depends on the [[difficulty]]:
 |-
 |Insanity
 |}
-Countdown of the setup phase is shown on the [[Setup Timer|timer]] in the [[truck]] above the [[computer]], and will only begin when any [[Exit Door|entryway]] to the building is opened.
+Countdown of the setup phase is shown on the [[Setup Timer|timer]] in the [[truck]] above the [[computer]], and will only begin when any [[Exit Door|entryway]] to the building is opened. 
 
-During the setup phase, [[sanity]] decay due to being in darkness is reduced by roughly 30%, and sanity cannot go below 50%. Additionally, if the ghost attempts to initiate a hunt on its own through its hunt sanity threshold or any abilities it may have, it will enter the [[Ghost Room|favourite room state]] instead of hunting. Other than these conditions, the setup phase does not affect the ghost's behaviour or other game mechanics. When the time runs out, the ghost will be allowed to initiate a hunt, depending on the ghost type and the players' average sanity, and the sanity drain rate will increase to normal.
+During the setup phase, [[sanity]] decay due to being in darkness is reduced by roughly 30%, and sanity cannot go below 50%. Additionally, the ghost cannot initiate a hunt on its own, regardless of its hunt sanity threshold or any abilities it may have. Other than these conditions, the setup phase does not affect the ghost's behaviour or other game mechanics. When the time runs out, the ghost will be allowed to initiate a hunt, depending on the ghost type and the players' average sanity, and the sanity drain rate will increase to normal.
 
 The setup phase can be ended early by activating or using any [[cursed possession]]. There is currently a bug where the [[Ouija Board]] cancels the setup phase only if it recognizes a valid phrase instead of upon activation.
 

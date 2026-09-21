@@ -1,7 +1,7 @@
 # Hunt
-# revid 25011  2026-09-21T03:51:26Z  by Darkhooper
-# 备注: novena's data: setup phase converts hunt to fav room, no living player converts hunt to fav room, friendly ghost converts hunt to idle
-# sha256 15faca9b43d78da79d76f37b4a31bbc4837eb47fb1e524326e899a0481b52674  bytes 34041
+# revid 24655  2026-09-13T19:47:42Z  by Darkhooper
+# 备注: deogen's speed's ranges
+# sha256 ee06479437d39635c63ec4ec5b9caa3071a28c1a7b8476265a94f1ad296173d7  bytes 33632
 # 源: https://phasmophobia.fandom.com/api.php
 
 <div class="mw-collapsible mw-collapsed" style="width:400px; margin-left:1%; float:right; text-align:right">
@@ -13,7 +13,7 @@ A '''cursed hunt''' is a variant of a hunt caused by [[cursed possession]]s. Mec
 
 ==Initiating a hunt==
 ===Standard protections===
-Hunts cannot occur while the [[setup phase]] is ongoing. If the ghost attempts to initiate a hunt while the setup phase is ongoing, it will enter the [[Ghost Room|favourite room state]] instead. The duration of the setup phase by difficulty is as follows:
+Hunts cannot occur while the [[setup phase]] is ongoing. The duration of the setup phase by difficulty is as follows:
 {| class="article-table"
 ![[Difficulty]]
 !Duration of setup phase
@@ -33,14 +33,14 @@ The setup phase can be ended early if a cursed possession is used or activated.
 Once a hunt ends, there is a minimum cooldown of 25 seconds (20 seconds for a [[Demon]]) before the ghost can attempt to initiate another hunt. This does not affect the activation of [[#Cursed hunts|cursed hunts]]. Ghosts do not necessarily hunt immediately once this cooldown is over.
 
 ===Regular hunt requirements===
-At least one player must be within the investigation area for a hunt to begin. If the ghost attempts to initiate a hunt while there is no living player inside the investigation area, it will enter the favourite room state instead. All ghosts have a [[sanity]] threshold below which they will be able to hunt, and some ghosts may have abilities which may modify the threshold, or even override it entirely.
+At least one player must be within the investigation area for a hunt to begin. All ghosts have a [[sanity]] threshold below which they will be able to hunt, and some ghosts may have abilities which may modify the threshold, or even override it entirely.
 
 Using "trigger words" or swearing does ''not'' increase the chance of a hunt.
 
 ====Hunt sanity thresholds====
 For most ghosts, the average team sanity is used to determine whether the ghost can hunt. The average sanity is of all players who are alive, regardless of whether they are inside or outside the investigation area. Dead players do not count towards the average team sanity.
 
-When the average sanity is at or below the threshold, ghosts have a 10% chance to initiate a hunt after exiting an idle state. This chance is increased to 1/6 when the average sanity is at or below the threshold minus 25. If the ghost succeeds this chance while the [[difficulty]] has a friendly ghost, it will enter the idle state instead.
+When the average sanity is at or below the threshold, ghosts have a 10% chance to initiate a hunt after exiting an idle state. This chance is increased to 1/6 when the average sanity is at or below the threshold minus 25.
 
 The following table lists the hunt sanity thresholds and abilities for all ghosts:
 {| class="article-table" style="margin: auto;"
