@@ -1,7 +1,7 @@
 # Prop
-# revid 25014  2026-09-22T07:12:02Z  by Darkhooper
-# 备注: tripods can be thrown in lit rooms
-# sha256 29815ce5cdd07b0140ef9256207a02a5df1114f68f42f29c7be7001bdf2228fa  bytes 2675
+# revid 24039  2026-07-15T19:31:53Z  by Darkhooper
+# 备注: voodoo doll exception
+# sha256 7c918199b71b7fb6c3894f5d27e41aadc891d11ebb134b83405d851e7d034328  bytes 2588
 # 源: https://phasmophobia.fandom.com/api.php
 
 '''Props''' are mainly useless objects scattered around the [[map]]. Both [[player]]s and [[ghost]]s can interact with them, with the latter also providing [[evidence]] or facilitating investigation.
@@ -38,7 +38,7 @@ These chances also apply to the [[Poltergeist]]'s ability.
 
 Levitations last for 0.5 - 2 seconds normally and for 1 - 3 seconds during a Poltergeist's ability.
 
-Ghosts cannot throw items if the lights in their current room are on,<ref>[https://i.imgur.com/MtFiSs3.png ''<nowiki>"yeah it can't throw anything [with the room lights turned on]"</nowiki>'' Dknighter, ''Phasmophobia'' Lead Developer. 4 December 2022.]</ref> except for when the Poltergeist uses its multithrow ability, when the item to be thrown is a [[tripod]] (or a tripod with a mounted video camera), or when a [[Voodoo Doll]] is used.
+Ghosts cannot throw items if the lights in their current room are on,<ref>[https://i.imgur.com/MtFiSs3.png ''<nowiki>"yeah it can't throw anything [with the room lights turned on]"</nowiki>'' Dknighter, ''Phasmophobia'' Lead Developer. 4 December 2022.]</ref> except for when the Poltergeist uses its multithrow ability or when a [[Voodoo Doll]] is used.
 
 The thrown object emits an [[EMF]] 3 reading that lasts for 20 seconds. It emits an additional EMF 3 reading for the duration of the levitation, if any. Both of these readings have a 33% chance to be [[EMF Level 5]] readings instead if the ghost has this evidence.
 

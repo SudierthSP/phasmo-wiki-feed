@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T06:47:06.173Z",
+  "generated": "2026-09-22T12:15:23.016Z",
   "counts": {
     "en": 321,
     "zh": 282
@@ -331,8 +331,8 @@
       {
         "t": "Tripod",
         "f": "pages/en/Tripod.txt",
-        "b": 4356,
-        "r": 22139,
+        "b": 4767,
+        "r": 25015,
         "x": "{{Equipment Template | tier i img=Tripod090_T1.png | tier ii img=Tripod090_T2.png | tier iii img=Tripod090_T3.png | price=$25 | maxamount=4 | uses= | starter=No | tier i level=9 | tier ii level=34 | tier iii level=60 | t"
       },
       {
@@ -1185,8 +1185,8 @@
       {
         "t": "Prop",
         "f": "pages/en/Prop.txt",
-        "b": 2812,
-        "r": 24039,
+        "b": 2912,
+        "r": 25014,
         "x": "'''Props''' are mainly useless objects scattered around the [[map]]. Both [[player]]s and [[ghost]]s can interact with them, with the latter also providing [[evidence]] or facilitating investigation. ==Types of props== T"
       },
       {

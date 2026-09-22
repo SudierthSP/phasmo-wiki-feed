@@ -1,7 +1,7 @@
 # Tripod
-# revid 25015  2026-09-22T07:23:20Z  by Darkhooper
-# 备注: tripod trivia
-# sha256 1b3f042108c0ead581f11de18ab1ff309a3cfc50c31004cda1499420c281d796  bytes 4549
+# revid 22139  2025-10-30T19:51:38Z  by Darkhooper
+# 备注: moving Trivia to Video Camera page
+# sha256 5212e860fb9f840feb9dca1b6f8ea806e235c89333d6b6f44b593676248a777c  bytes 4117
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -43,7 +43,6 @@ Additionally, Tier II and III tripods have a motorized mount, allowing to rotate
 
 ==Trivia==
 *The [[Kinetic Games]] logo can be spotted on the back side of the tier III tripod.
-*When the ghost interacts with a tripod (or a tripod with a mounted video camera), the interaction does not change the ghost's state so it remains in idle state. On the next frame, because the idle state is still considered over, the ghost will choose another action (such as a [[Roaming|roam]], a [[Ghost Event|ghost event]], another [[interaction]], etc.). This can lead to multiple tripod interactions in a very short time span.
 
 ==History==
 {| class="fandom-table"
