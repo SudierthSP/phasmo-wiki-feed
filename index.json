@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T08:12:16.616Z",
+  "generated": "2026-09-22T06:47:06.173Z",
   "counts": {
     "en": 321,
     "zh": 282
@@ -471,8 +471,8 @@
       {
         "t": "Ghost Event",
         "f": "pages/en/Ghost Event.txt",
-        "b": 12287,
-        "r": 24629,
+        "b": 12321,
+        "r": 25012,
         "x": "A '''ghost event''' is a manifestation of the [[ghost]] in the mortal world other than a [[hunt]] and which does not directly interact with the environment (unlike an [[interaction]]). Ghost events vary from full on phys"
       },
       {
@@ -786,8 +786,8 @@
       {
         "t": "The Twins",
         "f": "pages/en/The Twins.txt",
-        "b": 7457,
-        "r": 23225,
+        "b": 8695,
+        "r": 25013,
         "x": "{{Ghost |image1=The Twins Discovered.jpg |strength=*Can hunt from a different place than expected |abiliti(es)=*Differing speeds depending on which twin hunts |weakness(es)=*Can interact with the environment simultaneous"
       },
       {

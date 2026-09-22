@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-09-21T08:12:17.042Z",
+  "updated": "2026-09-22T06:47:06.842Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -351,8 +351,8 @@
       "redirect": false
     },
     "Ghost Event": {
-      "revid": 24629,
-      "ts": "2026-09-11T16:27:49Z",
+      "revid": 25012,
+      "ts": "2026-09-22T03:36:35Z",
       "redirect": false
     },
     "Player": {
@@ -646,8 +646,8 @@
       "redirect": false
     },
     "The Twins": {
-      "revid": 23225,
-      "ts": "2026-04-18T20:10:26Z",
+      "revid": 25013,
+      "ts": "2026-09-22T04:47:20Z",
       "redirect": false
     },
     "Raiju": {

@@ -1,7 +1,7 @@
 # The Twins
-# revid 25013  2026-09-22T04:47:20Z  by Darkhooper
-# 备注: added Voodoo Doll mechanics / added advanced mechanics
-# sha256 bff8e42c18fd861337fa8bab565b3de06bc0ddf986ec2fa8b517c3f90fcb64cd  bytes 8433
+# revid 23225  2026-04-18T20:10:26Z  by Darkhooper
+# 备注: interaction boxes / interaction range during hunt
+# sha256 c1e0527c5e7dc14dcf4cf54657f3d4afff5313ea05d018bc58b3e0e3393cea23  bytes 7200
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -27,21 +27,10 @@ Despite its name and accompanying flavor text, mechanically, The Twins is simply
 When The Twins tries to [[Interaction|interact]], one of the following occurs:
 *50% chance of performing one interaction within the normal range
 **up to 2.12 metres (3m × 3m × 2m box) on small and medium [[map]]s, and up to 4.24 metres (6m × 6m × 4m box) on large maps
-*30% chance of performing one interaction within a larger range after a delay of 1-2 seconds
+*30% chance of performing one interaction within a larger range
 **up to 8.48 metres (12m × 12m × 4m box) on small and medium maps, and up to 16.97 metres (24m × 24m × 4m box) on large maps
-*20% chance of performing its ability, which produces two interactions: one in the normal range then one in the larger range after a delay of 1-2 seconds
+*20% chance of performing its ability, which produces two interactions, one in each range, in a timespan of 1 or 2 seconds.
 All such interactions follow the standard 1/3 (33%) chance of producing [[EMF Level 5]] instead of 2 or 3, regardless of which range was used to perform the interaction.
-
-The large range interaction cannot be forced by a [[Voodoo Doll]], which means there is a 30% chance that there will be no interaction at all after pressing a pin.
-
-{| class="mw-collapsible mw-collapsed fandom-table"
-!colspan="2"|Advanced mechanics
-|-
-!colspan="2"|WARNING: This data is not officially verified.
-|-
-!State cancellation
-|A ghost's idle state is reset to a random duration between 2-6 seconds after an interaction, but since the large range interaction is delayed by 1-2 seconds and the delay itself does not reset the idle state's timer, the idle state will still be considered over on the very next frame and The Twins will be able to choose another action (such as a [[roaming|roam]], a ghost event, etc.) while the delay is still ongoing. Once the delay is over, the large range interaction will then cancel the newly selected action (except hunts which cancel interactions). This makes The Twins the only ghost that can prematurely cancel a ghost event or a roam without any player input.<ref>[https://youtu.be/QcHjXJkyYjc An example of The Twins prematurely cancelling a ghost event (on YouTube). 22 September 2026.]</ref>
-|}
 
 ===Hunt===
 As The Twins is only one ghost, two hunts cannot occur simultaneously, and it will follow the standard 25-second cooldown between hunts.
@@ -83,8 +72,6 @@ Noticing objects being thrown or doors being moved far away from the ghost durin
 ![[0.4.0]]
 |Added The Twins.
 |}
-==References==
-{{Reflist}}
 ==Notes==
 {{Reflist|group="note"}}
 {{Ghost nav}}

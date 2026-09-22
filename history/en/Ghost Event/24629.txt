@@ -1,7 +1,7 @@
 # Ghost Event
-# revid 25012  2026-09-22T03:36:35Z  by Darkhooper
-# 备注: standing event cannot happen in rooms with broken lights
-# sha256 a755a675b5ef1238042bc1b8594be9c8f431daf62ab8e1a0fc6290650a2887dd  bytes 12054
+# revid 24629  2026-09-11T16:27:49Z  by Darkhooper
+# 备注: Ghost events can now happen in High School's Lobby. The devs silently changed it without writing down in the patch notes. Video proof: https://www.twitch.tv/leona/clip/HorribleFaithfulCodM4xHeh-eL9jnA57ca_Eck1c
+# sha256 b3f46cb9627cb12adb8f63e519bf2c1b98b676d9ee67ad024aaea7a6a6092774  bytes 11866
 # 源: https://phasmophobia.fandom.com/api.php
 
 A '''ghost event''' is a manifestation of the [[ghost]] in the mortal world other than a [[hunt]] and which does not directly interact with the environment (unlike an [[interaction]]). Ghost events vary from full on physical apparitions to mere balls of smoke and usually produce sound (hissing, moaning, chanting etc.) perceivable without the use of specialized [[equipment]].
@@ -44,11 +44,9 @@ Nearby electronics will malfunction and lights will flicker, giving the impressi
 ===Types of events===
 ====Standing====
 The ghost manifests itself in one spot and stays still for 2 to 5 seconds. One of three things will happen:
-*No additional features other than the [[light]]s in the room turning off.
+*No additional features other than the lights in the room turning off.
 *All lights in the room will be glowing red for the duration of the event before turning off.
 *All lights in the room will flicker (if turned on), can no longer be toggled, then shatter at the end of the event.
-
-If the target player for the ghost event is in a room with broken lights, the ghost will fail to perform the standing event though it can still choose it among all ghost event types.
 
 ====Singing====
 [[File:Male_singing_event.mp3|right|300px|thumb|Vocalisation during singing events for male ghosts.]]
