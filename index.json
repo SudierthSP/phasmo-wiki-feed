@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T12:15:23.016Z",
+  "generated": "2026-09-22T22:55:51.454Z",
   "counts": {
     "en": 321,
     "zh": 282
@@ -786,8 +786,8 @@
       {
         "t": "The Twins",
         "f": "pages/en/The Twins.txt",
-        "b": 8695,
-        "r": 25013,
+        "b": 8749,
+        "r": 25016,
         "x": "{{Ghost |image1=The Twins Discovered.jpg |strength=*Can hunt from a different place than expected |abiliti(es)=*Differing speeds depending on which twin hunts |weakness(es)=*Can interact with the environment simultaneous"
       },
       {
