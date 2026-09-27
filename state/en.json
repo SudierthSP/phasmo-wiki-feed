@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-09-22T22:55:51.938Z",
+  "updated": "2026-09-27T23:57:56.746Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -166,8 +166,8 @@
       "redirect": false
     },
     "Banshee": {
-      "revid": 24594,
-      "ts": "2026-09-03T00:30:36Z",
+      "revid": 25017,
+      "ts": "2026-09-27T23:26:05Z",
       "redirect": false
     },
     "Shade": {
@@ -556,8 +556,8 @@
       "redirect": false
     },
     "Goryo": {
-      "revid": 25008,
-      "ts": "2026-09-20T11:48:05Z",
+      "revid": 25019,
+      "ts": "2026-09-27T23:26:46Z",
       "redirect": false
     },
     "Myling": {
@@ -596,8 +596,8 @@
       "redirect": false
     },
     "D.O.T.S. Projector (Evidence)": {
-      "revid": 24150,
-      "ts": "2026-07-21T09:51:10Z",
+      "revid": 25018,
+      "ts": "2026-09-27T23:26:11Z",
       "redirect": false
     },
     "0.3.1.0": {

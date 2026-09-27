@@ -1,37 +1,32 @@
 # D.O.T.S. Projector (Evidence)
-# revid 25018  2026-09-27T23:26:11Z  by Darkhooper
-# 备注: details on how DOTS state works
-# sha256 589c183ffd7f1c57d57ced1479f68ba70a83be2b63f4cc770984d0a04945cd5d  bytes 5773
+# revid 24150  2026-07-21T09:51:10Z  by Darkhooper
+# 备注: added Deildegast
+# sha256 016978019817ac07f7553edfab1f005c8dce7b80c186f9e6b04c8daa096172f1  bytes 4947
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Evidence_Infobox
  |title1=D.O.T.S Projector
  |image1=[[File:DOTS090_animation_videocamera.gif]]
- |detected_by=[[D.O.T.S. Projector]]
+ |detected_by=[[D.O.T.S Projector]]
  |caption1=A ghostly sillhouette appearing on the video feed with Night Vision.
 }}{{Quote
  |speaker=The Journal
  |quote=A laser grid of light that can reveal the silhouette of a ghost.
-}}'''D.O.T.S. Projector''' is a type of [[evidence]] in ''Phasmophobia'', used to determine which [[ghost]] is haunting a location. It is detected by placing a [[D.O.T.S. Projector]] in close proximity of a ghost, and allowing it to pass through it.
+}}'''D.O.T.S Projector''' is a type of [[evidence]] in ''Phasmophobia'', used to determine which [[ghost]] is haunting a location. It is detected by placing a [[D.O.T.S. Projector]] in close proximity of a ghost, and allowing it to pass through it.
 
 ==Mechanics==
-Ghosts with D.O.T.S. evidence will occasionally enter a "D.O.T.S. state" when trying to enter a [[roaming]] state. During the D.O.T.S. state, a faint silhouette of the ghost will be visible only when it passes through a [[D.O.T.S. Projector]]'s laser grid. The ghost will also:
+Ghosts with D.O.T.S evidence will occasionally enter a "D.O.T.S state", that lasts a maximum of 6 seconds, when trying to enter a [[roaming]] state. During the D.O.T.S state, a faint silhouette of the ghost will be visible only when it passes through a [[D.O.T.S. Projector]]'s laser grid. The ghost will also:
 *walk towards a random waypoint within the [[Ghost Room|favourite room]] if there is no player inside the investigation area
-*walk towards a random waypoint within 2 metres of it if the nearest player by direct distance is not in the same room as it
-*walk towards a random waypoint within 2 metres of the nearest player by direct distance if they are in the same room as it
+*walk towards a random waypoint within 2 metres if there is a player inside the investigation area
+*walk towards the nearest player if there is one in the same room as it
 
-The D.O.T.S. state will fail and force the ghost back into the idle state if the pathing distance to the waypoint is strictly greater than 150% of the direct distance, if the waypoint is located on another floor unless the ghost's current room allows it to roam to another floor, or if the waypoint is located two or more floors away from the favourite room.
+While the silhouettes are visible to the naked eye (unless the ghost is a [[Goryo]]), a [[Video Camera|video camera]] with night vision may allow for better visibility. This also means that D.O.T.S can be tracked simultaneously alongside [[Ghost Orb]]s.
 
-The D.O.T.S. state lasts a maximum of 6 seconds. If after that duration the ghost still hasn't reached its waypoint, it will finish the pathing while in idle state.
-
-While the silhouettes are visible to the naked eye (unless the ghost is a [[Goryo]]), a [[Video Camera|video camera]] with night vision may allow for better visibility. This also means that D.O.T.S. can be tracked simultaneously alongside [[Ghost Orb]]s.
-
-Dead players cannot see the D.O.T.S. state by any means.
+Dead players cannot see the D.O.T.S state by any means.
 
 ===Ghost-specific abilities===
-*The [[Banshee]] has a 2/3 chance to walk towards a waypoint within 2 metres of the hunt target if the latter is inside the investigation area.
-**If that chance fails or if the hunt target is not inside the investigation area, the Banshee will only move in D.O.T.S. towards a random waypoint within 2 metres of it.
-*The [[Goryo]] will not enter a D.O.T.S. state if it is not currently in its favourite room or if there is a player in the same room as it, and its silhouette will not be visible to the naked eye.
+*The [[Banshee]] has a 2/3 chance to walk towards its targeted player if they are inside the investigation area.
+*The [[Goryo]] will not enter a D.O.T.S state if there is a player in the same room as it, and its silhouette will not be visible to the naked eye.
 *If there is a player inside the investigation area, the Goryo will set a random waypoint within 1 metre instead of 2, and that waypoint must be within the favourite room.
 *The [[Phantom]] will physically disappear if a photo or a video of it is taken while in a D.O.T.S state.
 

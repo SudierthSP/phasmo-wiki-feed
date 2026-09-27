@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T22:55:51.454Z",
+  "generated": "2026-09-27T23:57:56.353Z",
   "counts": {
     "en": 321,
     "zh": 282
@@ -219,8 +219,8 @@
       {
         "t": "Banshee",
         "f": "pages/en/Banshee.txt",
-        "b": 14129,
-        "r": 24594,
+        "b": 14336,
+        "r": 25017,
         "x": "{{Ghost |title=Banshee |image1=Banshee Discovered.jpg |strength= *Focuses on the same player until that player is killed or has left the game |weakness(es)= *Cannot kill players other than the target if the target is ins"
       },
       {
@@ -688,9 +688,9 @@
       {
         "t": "Goryo",
         "f": "pages/en/Goryo.txt",
-        "b": 7300,
-        "r": 25008,
-        "x": "{{Ghost |image1=Goryo Discovered.jpg |strength=*Usually shows itself passing through [[D.O.T.S Projector|D.O.T.S]] on video camera only with no players nearby |weakness(es)=*Less likely to wander *Cannot change favorite "
+        "b": 7355,
+        "r": 25019,
+        "x": "{{Ghost |image1=Goryo Discovered.jpg |strength=*Usually shows itself passing through [[D.O.T.S Projector|D.O.T.S.]] on video camera only with no players nearby |weakness(es)=*Less likely to wander *Cannot change favorite"
       },
       {
         "t": "Myling",
@@ -723,9 +723,9 @@
       {
         "t": "D.O.T.S. Projector (Evidence)",
         "f": "pages/en/D.O.T.S. Projector (Evidence).txt",
-        "b": 5191,
-        "r": 24150,
-        "x": "{{Evidence_Infobox |title1=D.O.T.S Projector |image1=[[File:DOTS090_animation_videocamera.gif]] |detected_by=[[D.O.T.S Projector]] |caption1=A ghostly sillhouette appearing on the video feed with Night Vision. }}{{Quote "
+        "b": 6032,
+        "r": 25018,
+        "x": "{{Evidence_Infobox |title1=D.O.T.S Projector |image1=[[File:DOTS090_animation_videocamera.gif]] |detected_by=[[D.O.T.S. Projector]] |caption1=A ghostly sillhouette appearing on the video feed with Night Vision. }}{{Quote"
       },
       {
         "t": "0.3.1.0",
