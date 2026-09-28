@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-09-27T23:57:56.746Z",
+  "updated": "2026-09-28T23:16:38.464Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -806,8 +806,8 @@
       "redirect": false
     },
     "Music Box": {
-      "revid": 22940,
-      "ts": "2026-03-14T23:44:14Z",
+      "revid": 25021,
+      "ts": "2026-09-28T23:05:39Z",
       "redirect": false
     },
     "Haunted Mirror": {
@@ -1836,8 +1836,8 @@
       "redirect": false
     },
     "Kormos": {
-      "revid": 24586,
-      "ts": "2026-08-28T23:52:37Z",
+      "revid": 25020,
+      "ts": "2026-09-28T22:47:05Z",
       "redirect": false
     },
     "0.17.1.1": {

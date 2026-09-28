@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T23:57:56.353Z",
+  "generated": "2026-09-28T23:16:38.097Z",
   "counts": {
     "en": 321,
     "zh": 282
@@ -1003,8 +1003,8 @@
       {
         "t": "Music Box",
         "f": "pages/en/Music Box.txt",
-        "b": 8127,
-        "r": 22940,
+        "b": 8144,
+        "r": 25021,
         "x": "{{Item_Template |img=Music box display.jpg |imgcaption= |maxamount=1 |uses=1 |description= }}{{Quote|speaker=Objective Board|quote=A music box, the song is nice, but creepy.}} The '''music box''' is a [[Cursed Possession"
       },
       {
@@ -2172,8 +2172,8 @@
       {
         "t": "Kormos",
         "f": "pages/en/Kormos.txt",
-        "b": 7279,
-        "r": 24586,
+        "b": 7174,
+        "r": 25020,
         "x": "{{Ghost |image1= |strength=*Higher hunt sanity threshold when nearby players sprint outside hunts. *Can detect a player's footsteps from far away during a hunt. |weakness(es)=*Nearly blind and cannot see still players or"
       },
       {

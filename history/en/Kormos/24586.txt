@@ -1,6 +1,7 @@
 # Kormos
-# revid 25020  2026-09-28T22:47:05Z  by Darkhooper
-# sha256 cb4d2d2920c4cecc9fac850351a9a9a2f97a2c60bb653374dad3ca65dedb7ba7  bytes 6980
+# revid 24586  2026-08-28T23:52:37Z  by Darkhooper
+# 备注: added killing range numbers from Hunt page
+# sha256 dfd21ea0b7ed6d7d301db55f203210ff5218c4e7598640fb3bdac7fd4706a5b1  bytes 7032
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -50,7 +51,7 @@ Every second starting from the beginning of the hunt, excluding the grace period
 |Walking while crouched
 |10 metres
 |}
-<br>If the Kormos was not already travelling to a detection waypoint or LoS waypoint, it will read the list of detected sounds and select the one with the highest priority, or the nearest if there are multiple of the same priority. A timer of 5-10 seconds will then start and a detection waypoint will be placed on the player's exact location.
+<br>If the Kormos was not already travelling to a detection waypoint or LoS waypoint, it will read the list of detected sounds and select the one with the highest priority, or the nearest if there are multiple of the same priority. A timer of 5-10 seconds will then start and a detection waypoint will be placed on the player's exact location, continuously updating until the next hearing pulse.
 
 If the list of detected sounds contains a sound after the timer expires or after the Kormos reaches the detection waypoint, it will set a new detection waypoint at the sound's location rather than the player's exact location then restart the timer. Otherwise, it will simply return to a wandering phase (after reaching the detection waypoint if it hasn't reached it yet).
 

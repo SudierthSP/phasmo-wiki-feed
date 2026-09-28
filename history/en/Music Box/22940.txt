@@ -1,6 +1,6 @@
 # Music Box
-# revid 25021  2026-09-28T23:05:39Z  by Darkhooper
-# sha256 08ec8e3d1ee75c5e6b56623039c5a36f80a4e093a66e0bf3f4c887832ef37da1  bytes 7947
+# revid 22940  2026-03-14T23:44:14Z  by Darkhooper
+# sha256 d346bb4c8c58d6b0e7aee47b51e37586b725534557eb1290229e76202c26dc4d  bytes 7930
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Item_Template
@@ -49,7 +49,7 @@ If the music box is brought outside, the box will close. If the music is also pl
 
 ===Rewards===
 {{Main|Media}}
-Taking a photo of a music box, used or not, will yield a photo labelled as '''Music Box'''. Recording the sound of a [[Ghost Event#Music Box|Music Box event]] will yield a sound labelled as '''Music Box'''. Each of these pieces of media can reward up to $7 and 7 XP, depending on the equipment tier and whether there is a Unique stamp.
+Taking a photo of a music box, used or not, will yield a photo labelled as '''Music Box'''. Recording the sound of the box while it is active will yield a sound labelled as '''Music Box'''. Each of these pieces of media can reward up to $7 and 7 XP, depending on the equipment tier and whether there is a Unique stamp.
 
 ==Strategies and tips==
 The music box can be broken down into two primary uses: 1) utilize the triggered ghost event and following hunt to complete relevant [[objectives]] and/or to identify the ghost type, or 2) get the ghost to broadcast its current position to narrow down and locate its [[Ghost Room|favourite room]].
