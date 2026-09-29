@@ -1,7 +1,7 @@
 # Phantom
-# revid 25024  2026-09-29T04:54:23Z  by Darkhooper
-# 备注: how the special sanity drain works
-# sha256 06eb1f684a574ead58d88a9aba87b7f14223f156b925d8543b2c727dae85a1ca  bytes 9429
+# revid 24609  2026-09-05T05:14:31Z  by Darkhooper
+# 备注: added flickering gifs
+# sha256 0c4afd4e4e6a9bae3994c5ca2b0b4f9d03cac7a6f9e024eaf272c8b955b6562d  bytes 9377
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -26,7 +26,7 @@ When capturing a photo/video of a Phantom, whether it be in its full form, trans
 *If the photo/video was taken during a ghost event, electronic equipment will also cease to malfunction and the player's heartbeats will stop playing.
 *If the photo/video was taken during a [[hunt]], the ghost will briefly disappear before continuing to physically flash in and out.
 
-If a player hears their heartbeats, an additional [[sanity]] drain of 0.5% per second multiplied by the number of players in the same situation will be applied to every player. This only applies during ghost events and hunts, and is separate from passive sanity drain. For example, if 3 out of 4 players hear their heartbeats, each player will lose 1.5% sanity per scond.
+Being within 10 metres of a Phantom while in pseudo line-of-sight (where heartbeats play) reduces the player's [[sanity]] by 0.5%/s. This only applies during ghost events and hunts, and is separate from passive sanity drain. This does not apply during ghost events if the Phantom was made invisible by taking a picture.
 
 ===Ability===
 The Phantom has an ability where it will choose a random player inside the investigation area and travel to a spot within 5 metres of their location (as opposed to a regular roam).<ref>[https://discord.com/channels/435431947963990026/765596827537244200/983855532542668810 ''"only phantoms and banshees walk to the target..."'' Shuee, Community Helper (on Discord). 7 June 2022.]</ref> This will create an [[EMF]] Level 2 reading at the location where the roam ended, at the level of the targeted player's head when uncrouched. This ability does not use the [[roaming]] state and can bypass the 30-second limit of a ghost state.

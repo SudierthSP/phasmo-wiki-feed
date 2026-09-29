@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T23:16:38.097Z",
+  "generated": "2026-09-29T09:02:27.454Z",
   "counts": {
     "en": 321,
     "zh": 282
@@ -128,8 +128,8 @@
       {
         "t": "Phantom",
         "f": "pages/en/Phantom.txt",
-        "b": 9604,
-        "r": 24609,
+        "b": 9669,
+        "r": 25024,
         "x": "{{Ghost |title=Phantom |image1=Phantom Discovered.jpg |strength= *Seeing the ghost nearby during manifestations and hunts drains more sanity *Remains invisible for longer periods when hunting |abiliti(es)= *Occasionally "
       },
       {
@@ -163,8 +163,8 @@
       {
         "t": "Mare",
         "f": "pages/en/Mare.txt",
-        "b": 10816,
-        "r": 23811,
+        "b": 10881,
+        "r": 25022,
         "x": "{{Ghost |image1=Mare Discovered.jpg |strength=*Hunts at a higher sanity threshold in an unlit room |abiliti(es)=*Turns off lights and breaks lightbulbs more often *May turn off a light immediately after a player turns on"
       },
       {
@@ -471,8 +471,8 @@
       {
         "t": "Ghost Event",
         "f": "pages/en/Ghost Event.txt",
-        "b": 12321,
-        "r": 25012,
+        "b": 12241,
+        "r": 25025,
         "x": "A '''ghost event''' is a manifestation of the [[ghost]] in the mortal world other than a [[hunt]] and which does not directly interact with the environment (unlike an [[interaction]]). Ghost events vary from full on phys"
       },
       {
@@ -982,8 +982,8 @@
       {
         "t": "The Mimic",
         "f": "pages/en/The Mimic.txt",
-        "b": 9831,
-        "r": 24359,
+        "b": 9408,
+        "r": 25023,
         "x": "{{Ghost |image1=The Mimic Discovered.jpg |strength= *Mimics other ghost types one after another for brief periods of time |weakness(es)= *Will always produce false ghost orbs |Evidence1=[[File:Thermometer_Render.png|24x2"
       },
       {

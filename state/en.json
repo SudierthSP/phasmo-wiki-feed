@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-09-28T23:16:38.464Z",
+  "updated": "2026-09-29T09:02:27.853Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -96,8 +96,8 @@
       "redirect": false
     },
     "Phantom": {
-      "revid": 24609,
-      "ts": "2026-09-05T05:14:31Z",
+      "revid": 25024,
+      "ts": "2026-09-29T04:54:23Z",
       "redirect": false
     },
     "Ghost Writing": {
@@ -126,8 +126,8 @@
       "redirect": false
     },
     "Mare": {
-      "revid": 23811,
-      "ts": "2026-06-03T13:36:54Z",
+      "revid": 25022,
+      "ts": "2026-09-29T03:02:57Z",
       "redirect": false
     },
     "Photo Camera": {
@@ -351,8 +351,8 @@
       "redirect": false
     },
     "Ghost Event": {
-      "revid": 25012,
-      "ts": "2026-09-22T03:36:35Z",
+      "revid": 25025,
+      "ts": "2026-09-29T05:12:25Z",
       "redirect": false
     },
     "Player": {
@@ -791,8 +791,8 @@
       "redirect": false
     },
     "The Mimic": {
-      "revid": 24359,
-      "ts": "2026-07-30T02:02:30Z",
+      "revid": 25023,
+      "ts": "2026-09-29T03:17:54Z",
       "redirect": false
     },
     "0.5.0": {

@@ -1,7 +1,7 @@
 # The Mimic
-# revid 25023  2026-09-29T03:17:54Z  by Darkhooper
-# 备注: reorganized the copying quirks in a list in the Behaviour section instead of being in the Notes section
-# sha256 28c162920695b10e3dff1cf4c9628ffa1f3c37ff29759ae08b2c413a773df558  bytes 9097
+# revid 24359  2026-07-30T02:02:30Z  by HollyleafYT
+# 备注: /* Strategies */
+# sha256 ae57f196b58ae5777ee6283b7973886314ba1c4405f84fa0dfdbd67b395e82bd  bytes 9606
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -18,31 +18,23 @@
 
 ==Behaviour==
 ===Ability===
-The Mimic is able to imitate any type of ghost, and inherit all of its features and abilities:
+The Mimic is able to imitate any type of ghost, and inherit all of its features and abilities:<ref group="note">There is a bug in multiplayer where some behaviours imitated by The Mimic can only be seen/heard/experienced by the host. These include the Phantom/Oni/Deogen's flickering rate, the Obake's shapeshift, the Hantu's breath, the Myling's audible range, the Raiju's electronics disturbance/heartbeats range, the Deogen's breathing on the Spirit Box, and the Moroi's curse. This [https://www.youtube.com/watch?v=7HVA25mSdRY video] shows the bug.</ref><ref group="note">There are other bugs: If imitating a Moroi, The Mimic will not be blinded for 7 seconds by an Incense, but only for 5 seconds as shown in [https://www.youtube.com/watch?v=3OSSjjLMiX4 this video]. If imitating a Raiju, heartbeats will only be heard within 10 metres of The Mimic instead of 15 as shown in [https://www.youtube.com/watch?v=chk-7527074 this video]. If imitating a Kormos, it will be able to see players who move further than 5 metres away.</ref>
 *[[Interaction]] and [[ghost event]] rates and preferences
 *[[Hunt]] thresholds
 *Hunt movement speeds
 *Various forms of special abilities (e.g. [[Poltergeist]] multi-throw, [[Demon]] ability hunt)
 
-When imitating a type of ghost, The Mimic will not copy its types of evidence, and will not necessarily provide its guaranteed type of evidence on reduced-evidence [[difficulty|difficulties]] such as Insanity, but can copy features related to evidence. For example, it is able to copy the [[Obake]]'s six-fingered handprints or the [[Deogen]]'s breathing, as The Mimic has Ultraviolet and Spirit Box as evidence, but it cannot copy the [[Goryo]]'s trait of only appearing on a [[Video Camera|video camera]] when in a [[D.O.T.S. Projector (Evidence)|D.O.T.S. state]], as The Mimic does not have D.O.T.S. Projector as one of its types of evidence.
+When imitating a type of ghost, The Mimic will not copy its types of evidence, and will not necessarily provide its guaranteed type of evidence on reduced-evidence [[difficulty|difficulties]] such as Insanity, but can copy features related to evidence. For example, it is able to copy the [[Obake]]'s six-fingered handprints or the [[Deogen]]'s breathing, as The Mimic has Ultraviolet and Spirit Box as evidence, but it cannot copy the [[Goryo]]'s trait of only appearing on a [[Video Camera]] when interacting with a [[D.O.T.S Projector]], as The Mimic does not have D.O.T.S Projector as one of its types of evidence.
 
 The Mimic will always start in the "blank" state (in which it essentially mimics itself)<ref>https://imgur.com/a/koydG4H</ref> at the beginning of a contract. When this is the case, it will act as a default ghost and have no special abilities. It will attempt to change 1 minute after an [[exit door]] has been opened for the first time, then every 30 seconds to 2 minutes, but cannot change during hunts and ghost events.
 
 The Mimic cannot imitate the [[Banshee]] or the [[Dayan]] if it is itself male (i.e. using a male [[ghost model]], male vocalizations, and a male name).
 
 The Mimic, when imitating some specific ghost types, will have some specific behaviours, listed below:
-*[[Banshee]]: It initially has no target. Once the first non-cursed hunt is attempted, a target is chosen randomly.<!-- but this hunt attempt will be failed.-->
-*[[Deogen]]: Only the host player can see its flickering rate during hunts, and obtain/hear/record its paranormal breathing on the [[Spirit Box]].
-*[[Hantu]]: Only the host player can see its cold breath during hunts.
-*[[Kormos]]: It can see further than 5 metres away.
-*[[Moroi]]: Only the host player can be cursed, and the curse will remain even if The Mimic switches to another ghost type. If affected by [[Incense]] during a hunt, it will be blinded for 5 seconds instead of 7.<ref>https://www.youtube.com/watch?v=3OSSjjLMiX4</ref>
-*[[Myling]]: Only the host player will hear its hunt sounds within 12 metres. Non-host players will hear the hunt sounds within 20 metres.
-*[[Obake]]: Only the host player can hear missing footstep sounds outside of hunts, and see its shapeshifts during hunts.
-*[[Obambo]]: A random state will be selected.
-*[[Oni]]: Only the host player can see its flickering rate during hunts.<ref>https://www.youtube.com/watch?v=7HVA25mSdRY</ref>
-*[[Phantom]]: Only the host player can see its flickering rate during hunts.
-*[[Raiju]]: Only the host player will see the electronic disturbance range at 15 metres, and the heartbeat range will be at 10 metres for every player.<ref>https://www.youtube.com/watch?v=chk-7527074</ref>
-*[[Thaye]]: A '''fixed''' age between 0 and 9 will be randomly selected.
+*If The Mimic imitates a [[Banshee]], initially, it has no target. Once the first non-cursed hunt is attempted, a target is chosen randomly. <!-- but this hunt attempt will be failed. if you force a cursed hunt before the first natural hunt attempt, mimic banshee won't have a target -->
+*If The Mimic imitates a [[Moroi]], and curses the player through the [[Spirit Box]], the [[Parabolic Microphone]], or the [[Sound Recorder]], the curse will remain even if The Mimic switches to another ghost type.
+*If The Mimic imitates an [[Obambo]], a random state will be selected.
+*If The Mimic imitates a [[Thaye]], a fixed age between 0 and 10 is randomly selected, and it will imitate another ghost using its own timer instead of the Thaye's ageing timer.<ref>[https://discord.com/channels/435431947963990026/765596827537244200/990279767452450916 ''"So, the mimic will change ghost before a chance of aging even happens"''' cjdxn, Developer (on Discord). 25 June 2022.]</ref><ref group="note">The Mimic actually cannot select age 10 due to a bug.</ref>
 
 If The Mimic is affected by [[Incense]], it will not be able to hunt for the duration associated with the ghost it was imitating at that moment, even if it imitates another ghost before its end.
 
@@ -90,6 +82,8 @@ Ghost behaviour is also a relatively easy, if somewhat luck-dependent way to ide
 
 ==References==
 {{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
 {{GhostNav}}
 [[ru:Мимик]]
 [[Category:Ghosts]]

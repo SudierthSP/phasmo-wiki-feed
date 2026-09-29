@@ -1,7 +1,6 @@
 # Mare
-# revid 25022  2026-09-29T03:02:57Z  by Darkhooper
-# 备注: same floor condition for ability
-# sha256 28a6fdf6590dadbe70b97d423c7c51912ff8aecbf7404187734a14a0c4701704  bytes 10645
+# revid 23811  2026-06-03T13:36:54Z  by Darkhooper
+# sha256 4b8ebad11787c2d13d3d92edd070abc28ee77ceb09bd868ef7b1456ace63b366  bytes 10623
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -32,7 +31,7 @@ When the lights are on in its current room, the Mare's long [[Roaming|roam]] cha
 Contrary to most other ghosts, the Mare is able to perform long roams while its current room is not the [[Ghost Room|favourite room]], provided it is lit.
 
 ===Ability===
-If a player turns on a light (excluding TVs and computers) that is within 4 metres of a Mare and on the same floor, it has a 1/7 chance of turning the light off almost instantly, with a maximum delay of 1 second. Each light has a cooldown per player of 10 seconds after it has been turned on or off, and the Mare cannot perform its ability on a light that has an active cooldown.<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1140934389262467173 ''"mare do light switch test..."'' Shuee, ''Phasmophobia'' Discord Moderator. 15 August 2023 (on Discord).]</ref><ref>[https://discord.com/channels/435431947963990026/765596827537244200/1238656421525065879 ''"10 seconds between flips either way"'' Shuee, Kinetic Games Lead QA. 11 May 2024 (on Discord).]</ref> The Mare can use this ability even if the fuse box is turned off or broken,<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1204265035971432588 ''"works even if breaker is off or broken"'' Shuee, ''Phasmophobia'' Discord Moderator. 6 February 2024 (on Discord).]</ref> but not if the light is shattered.<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1298545473921220670 ''"No."'' Shuee, Kinetic Games Lead QA. 23 October 2024 (on Discord).]</ref> The ability also works during a ghost event.
+If a player turns on a light (excluding TVs and computers) that is within 4 metres of a Mare, it has a 1/7 chance of turning the light off almost instantly, with a maximum delay of 1 second. Each light has a cooldown per player of 10 seconds after it has been turned on or off, and the Mare cannot perform its ability on a light that has an active cooldown.<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1140934389262467173 ''"mare do light switch test..."'' Shuee, ''Phasmophobia'' Discord Moderator. 15 August 2023 (on Discord).]</ref><ref>[https://discord.com/channels/435431947963990026/765596827537244200/1238656421525065879 ''"10 seconds between flips either way"'' Shuee, Kinetic Games Lead QA. 11 May 2024 (on Discord).]</ref> The Mare can use this ability even if the fuse box is turned off or broken,<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1204265035971432588 ''"works even if breaker is off or broken"'' Shuee, ''Phasmophobia'' Discord Moderator. 6 February 2024 (on Discord).]</ref> but not if the light is shattered.<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1298545473921220670 ''"No."'' Shuee, Kinetic Games Lead QA. 23 October 2024 (on Discord).]</ref> The ability also works during a ghost event.
 
 ===Hunt===
 A Mare has a modified [[hunt]] sanity threshold depending on whether the room it is currently in is lit. If the lights are turned off, the hunt sanity threshold is increased to 60%, and if the lights are turned on, the threshold is decreased to 40%. This applies even if the fuse box is turned off or broken, but not if the room's lights are destroyed. Other sources of light, such as brought-in equipment and [[Firelight]]s, do not affect this threshold.
