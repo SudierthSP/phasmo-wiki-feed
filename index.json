@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T19:02:05.826Z",
+  "generated": "2026-10-01T23:10:08.098Z",
   "counts": {
     "en": 321,
     "zh": 282
@@ -702,8 +702,8 @@
       {
         "t": "D.O.T.S. Projector",
         "f": "pages/en/D.O.T.S. Projector.txt",
-        "b": 6202,
-        "r": 22987,
+        "b": 6367,
+        "r": 25035,
         "x": "{{Equipment Template | tier i img=DOTS090_T1.png | tier ii img=DOTS090_T2.png | tier iii img=DOTS090_T3.png | price=$65 | maxamount=2 | uses= | starter=Yes | tier i level= | tier ii level=27 | tier iii level=49 | tier i "
       },
       {

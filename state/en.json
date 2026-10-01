@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-01T19:02:06.355Z",
+  "updated": "2026-10-01T23:10:08.781Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -566,8 +566,8 @@
       "redirect": false
     },
     "D.O.T.S. Projector": {
-      "revid": 22987,
-      "ts": "2026-03-29T21:02:46Z",
+      "revid": 25035,
+      "ts": "2026-10-01T20:47:43Z",
       "redirect": false
     },
     "D.O.T.S Projector": {

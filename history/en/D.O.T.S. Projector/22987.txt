@@ -1,7 +1,7 @@
 # D.O.T.S. Projector
-# revid 25035  2026-10-01T20:47:43Z  by Darkhooper
-# 备注: DOTS range
-# sha256 91a6e24c72df6aca35a041ce5e73d3877d99946c31b14e6c1c537abd5ff4a73e  bytes 6140
+# revid 22987  2026-03-29T21:02:46Z  by Darkhooper
+# 备注: moved info to DOTS Evidence page
+# sha256 099f48afb66d8e0498ebccbce6fd6e011328b97b7c8593e27333dcc77da2f8b5  bytes 5953
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -32,11 +32,6 @@
 The D.O.T.S Projector can be {{Control|placed}} on a wall or floor similar to a [[Motion Sensor|motion sensor]]. It emits a matrix of bright green laser points in a small area from the projector. Tier I D.O.T.S Projector additionally can be held and {{Control|toggled}} to create a cone of D.O.T.S light where it is pointed. The Tier I D.O.T.S Projector will not work if [[Flashlight]]s are turned off in [[Difficulty#Custom|custom difficulty]] settings.
 
 Though the D.O.T.S Projector is an electronic equipment, only the Tier I D.O.T.S. Projector when activated and held will attract the ghost to the player during a [[hunt]], and they are otherwise safe to hold onto.
-
-The D.O.T.S. field's ranges are:
-*Tier I: a 7.5-metre-long cone with an angle of 30°
-*Tier II: a sphere with a radius of 2.4 metres
-*Tier III: a 7-metre-long cone with an angle of 54°
 
 ===Evidence===
 {{Main|D.O.T.S. Projector (Evidence)}}
