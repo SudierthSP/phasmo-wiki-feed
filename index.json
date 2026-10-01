@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T13:38:51.266Z",
+  "generated": "2026-10-01T19:02:05.826Z",
   "counts": {
     "en": 321,
     "zh": 282
@@ -695,8 +695,8 @@
       {
         "t": "Myling",
         "f": "pages/en/Myling.txt",
-        "b": 5243,
-        "r": 23183,
+        "b": 5918,
+        "r": 25034,
         "x": "{{Ghost |image1=Myling Discovered.jpg |strength=*Has quieter footsteps and vocalizations during hunts |abiliti(es)= |weakness(es)=*Produces paranormal sounds more frequently |Evidence1=[[File:EMFReader_Render.png|24x24px"
       },
       {
@@ -1948,8 +1948,8 @@
       {
         "t": "Sound Recorder",
         "f": "pages/en/Sound Recorder.txt",
-        "b": 5091,
-        "r": 24627,
+        "b": 4871,
+        "r": 25031,
         "x": "{{Equipment Template | tier i img=SoundRecorder_T1.png | tier ii img=SoundRecorder_T2.png | tier iii img=SoundRecorder_T3.png | price=$30 | maxamount=2 | uses= | starter=No | tier i level=4 | tier ii level=39 | tier iii "
       },
       {

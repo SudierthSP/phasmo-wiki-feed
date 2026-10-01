@@ -1,7 +1,7 @@
 # Myling
-# revid 25034  2026-10-01T18:27:38Z  by Darkhooper
-# 备注: another clarification as Tier 2 doesn't have an indicator for 6.5m if it is not a Myling.
-# sha256 909041ff71562f031f88eb306e7323b86471bbd4b6b945d999e2092b430c21b1  bytes 5624
+# revid 23183  2026-04-14T17:34:00Z  by Darkhooper
+# 备注: link to Paranormal Sound page
+# sha256 fe7c9fc0ba959630c3735e1b49e329313b316d51cf55e6119913a38e2e262d9d  bytes 5009
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -20,8 +20,6 @@
 ==Behaviour==
 ===Activity===
 The Myling produces a [[Paranormal Sound|paranormal sound]] on a [[Parabolic Microphone]] or a [[Sound Recorder]] every 64 - 127 seconds, instead of every 80 - 127 seconds for other ghosts.
-
-When a paranormal sound of a Myling is within range of a sound recorder, the static noise on the recorder starts 1 metre further away from the source (5m instead of 4m for Tier 1, 6.5m instead of 5.5m for Tier 2, and 7.5m instead of 6.5m for Tier 3), which matches the recorder's detection range.<ref>[https://youtu.be/kQt9q3js_1s The difference on a Sound Recorder between a non-Myling and a Myling (on YouTube). 1 October 2026.]</ref>
 
 ===Hunt===
 When hunting, a Myling's footstep and vocalization sounds will only be audible to players within 12 meters – slightly greater than the range required for electronic interference – instead of the usual 20 meters. The volume of footsteps is slightly muffled near the limit, but quickly becomes discernible as it approaches.
@@ -42,7 +40,7 @@ These are the strengths and weaknesses as listed in the [[journal]]:
 ''Weakness: '''Mylings''' make more frequent paranormal sounds.'' 
 
 ==Strategies==
-===Identification===
+===Behavioural identification===
 The best way to identify a Myling is taking advantage of the small difference between its audible range (12m) and the electronic interference range (10m), and having a rough intuition of these ranges. If the ghost's sounds are very faint or not audible at all at the threshold of the interference range, then it is probably a Myling. Note that this test is not valid if the ghost is on a different floor, since this will muffle the audible range. This can be tested in multiple ways, such as:
 *Before a hunt, dropping an active electronic equipment at your preferred hiding spot, then looking for the behaviour during the hunt
 *Holding an active electronic equipment or using {{Control|Global Chat}} during a hunt, with [[incense]] for protection
@@ -52,10 +50,10 @@ Note that the [[Raiju]] has a larger interference range (15m), which may create 
 ;Paranormal sounds
 If two paranormal sounds are picked up within 80 seconds on a Parabolic Microphone or a Sound Recorder, then it is a Myling.
 
-When a paranormal sound is within detection range of the Sound Recorder, check if the static noise starts at the maximum distance at which the recorder can detect sounds or 1 metre closer to the sound's source. If it is the former, it is a Myling. If it is the latter, it is not a Myling. Note that this test is more easily done with a Tier 1 or Tier 3 recorder.
-
-===Survival===
+===Surviving hunts===
 On larger maps, especially in long hallways, it is prudent to visually look out for the ghost, as its reduced audible range gives it a mild advantage in catching a player off guard, while also gaining speed for longer if line-of-sight was achieved; alternatively, a Parabolic Microphone renders this a non-issue, as it will detect the ghost's footsteps and vocalizations if it is in range, regardless of whether it's a Myling or not.
+<!--=== Indicators ===
+*Note that there may be an occasional bug where the ghost temporarily does not flicker electronics on the correct floor when changing floors. (check if still exists)-->
 
 ==Trivia==
 *In Scandinavian folklore, Mylings (pronounced “mai-ling” { /ˈmaɪlɪŋ/ } or “me-ling” { /ˈmiːlɪŋ/ } for a more traditional pronunciation) are ghosts of children who were either killed by their parents, unbaptised, or abandoned. Because they were not baptized, Mylings cannot rest and are forced to roam until they can persuade a living being to carry them or their body to hallowed grounds where they can rest peacefully. Failure to meet a Myling’s demands will result in them killing the benefactor. In-game, the Myling's age and ghost model are randomly chosen, and the ghost does not have to be of a young age.
@@ -70,10 +68,7 @@ On larger maps, especially in long hallways, it is prudent to visually look out 
 |-
 ![[0.7.0]]
 |Myling will now decrease the audible range of its hunt audio, instead of only footsteps.
-|}
-
-==References==
-{{Reflist}}
+|}<br>
 {{GhostNav}}
 [[ru:Мюлинг]]
 [[fr:Myling]]

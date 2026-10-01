@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-01T13:38:51.619Z",
+  "updated": "2026-10-01T19:02:06.355Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -561,8 +561,8 @@
       "redirect": false
     },
     "Myling": {
-      "revid": 23183,
-      "ts": "2026-04-14T17:34:00Z",
+      "revid": 25034,
+      "ts": "2026-10-01T18:27:38Z",
       "redirect": false
     },
     "D.O.T.S. Projector": {
@@ -1646,8 +1646,8 @@
       "redirect": false
     },
     "Sound Recorder": {
-      "revid": 24627,
-      "ts": "2026-09-11T04:17:07Z",
+      "revid": 25031,
+      "ts": "2026-10-01T15:14:13Z",
       "redirect": false
     },
     "0.13.0.1": {

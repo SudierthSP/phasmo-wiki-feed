@@ -1,7 +1,7 @@
 # Sound Recorder
-# revid 25031  2026-10-01T15:14:13Z  by Darkhooper
-# 备注: sound recorder ranges
-# sha256 29c508ec06fd296193a0be2897a91f925bdacc135cae08f28315d2d0223ae8ec  bytes 4637
+# revid 24627  2026-09-11T04:17:07Z  by Darkhooper
+# 备注: moroi
+# sha256 63be325f74ea254a6a7c3a23e19d124885389e03b8b2adec431ac876f80cc036  bytes 4873
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -26,24 +26,23 @@
  | tier iii description=BONY's latest in Sound Recording hardware. This device is equipped with several features to make hunting sounds as easy as can be. The dual microphone setup makes for much easier tracking, and quick recordings, even those that are barely audible.
  | tier iii purpose=While activated, this Sound Recorder provides additional information on paranormal sounds. The added directional and range indicators make finding and recording paranormal efficient and satisfying!
  | tier iii ability=<span style="color: #008000;">Ranges (m): 5<br>Display Screen<br>Distance Indicator<br>Directional Indicator</span><br><span style="color: #ff0000;">Electronic</span>}}
+
 The '''sound recorder''' is a device used to record [[Media#Sound evidence|sound evidence]].
 
 ==Mechanics==
-The Sound Recorder can be {{Control|toggled}} on to begin scanning the area for any noise disturbance produced by the ghost or to record [[Media#Sound evidence|sound evidence]]. Up to 3 audio clips can be stored in the [[journal]] per [[contract]]. The recorder picks up ghost-related sounds such as [[Paranormal Sound|paranormal sounds]] or [[ghost event]]s, as well as evidence-related sounds such as [[Spirit Box]] responses, [[Ghost Writing]], or [[EMF Level 5]].
+The Sound Recorder can be {{Control|toggled}} on to begin scanning the area for any noise disturbance produced by the ghost. When it detects a valid noise, its sound meter will start to rise, indicating to the player how close they are to the source of the sound. To record a sound, the player must hold the {{Control|Use}} button to start recording and get sufficiently close to the source (indicated by the meter lights turning green on Tier I, the graph going above the bar on Tier II, and the circle at the center of the radar turning solid on Tier III). The recording will stop automatically once a valid sound is captured. If a sound is considered as a Duplicate, the Tier I's lights will be less bright and the Tier II and III's sound waves will be faded.
 
-When the recorder detects a valid noise, its sound meter will start to rise, indicating to the player how close they are to the source of the sound. The sound detection range depends on the tier:
-*Tier I: 5 metres
-*Tier II: 6.5 metres
-*Tier III: 7.5 metres
-For paranormal sounds, the sound meter/static noise will start to rise 1 metre below the ranges mentioned above (unless the ghost is a [[Myling]]).
+Up to 3 audio clips can be stored in the [[journal]] per [[contract]]. The recorder picks up ghost-related sounds such as [[Paranormal Sound|paranormal sounds]] or [[ghost event]]s, as well as evidence-related sounds such as [[Spirit Box]] responses, [[Ghost Writing]], or [[EMF Level 5]]. The quality of the recording depends on the proximity to the sound and the tier of the recorder.
 
-To record a sound, the player must hold the {{Control|Use}} button when sufficiently close to the source. This is indicated by the meter lights turning green on a Tier I, the power spectrum reaching the upper bar on a Tier II, and the circle at the center of the compass turning solid on a Tier III. Once a valid sound is captured, the recording will stop automatically. The recording range depends on the tier:
-*Tier I: 1 metre
-*Tier II: 1.5 metres
-*Tier III: 2 metres
-"Hunting Ghost", "Ghost Event", and "Music Box" sounds can be recorded from further away.
+The Tier III Sound Recorder has directional audio and visual indicators that can be helpful in locating the source of the sound.
 
-If a sound is considered as a Duplicate, the Tier I's lights will be less bright and the Tier II and III's power spectrums will be faded when approaching the source.
+===Ghost-related mechanics===
+*The [[Banshee]] has a 33% chance to produce one of its unique shrieks instead of a regular paranormal sound.
+*The [[Moroi]] can curse a player who tries to record a sound.
+*The [[Myling]] produces paranormal sounds on the sound recorder more frequently.
+
+==Tips==
+*Sound Recorders (especially the Tier III) can be used to locate the ghost by following the sound levels it picks up, much like the [[EMF Reader|EMF reader]] with EMF signatures. Due to their relatively short range however, they are best used on smaller maps.
 
 ==Objectives==
 {| class="article-table"
