@@ -1,7 +1,7 @@
 # Brownstone High School
-# revid 25028  2026-10-01T13:12:10Z  by Darkhooper
-# 备注: doors starting open on Restricted
-# sha256 38bedc158c66ff192bfc48102aea5b009b81ef3b79775f16ad1cecce70526d6b  bytes 22289
+# revid 24797  2026-09-17T16:47:12Z  by Darkhooper
+# 备注: changed page layout
+# sha256 509e8b3504998684f4b9e561488ac9751774022d5db5aa18c2881b3f1f332378  bytes 21345
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Location
@@ -243,21 +243,6 @@ The ghost cannot perform a [[ghost event]] on players that are standing in the f
 *First Floor Main Corridor
 *First Floor Left Corridor
 
-Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
-{| class="article-table"
-!Parameter
-!None
-!Low
-!Medium
-!High
-|-
-!Number
-|0
-|1
-|2
-|3
-|}
-
 ===Key hiding spots and strategies===
 {| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
 ! colspan="3" |List of all 3 official [[Hiding Spots|hiding spots]]
@@ -334,21 +319,6 @@ The following rooms count as dim rooms and hence will drain [[sanity]] with 80% 
 The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
 *First Floor Main Corridor
 *First Floor Right Corridor
-
-Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
-{| class="article-table"
-!Parameter
-!None
-!Low
-!Medium
-!High
-|-
-!Number
-|0
-|2
-|3
-|4
-|}
 
 ===Key hiding spots and strategies===
 {| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
@@ -445,21 +415,6 @@ The ghost cannot perform a [[ghost event]] on players that are standing in the f
 *Second Floor Main Corridor
 *Second Floor Left Corridor
 
-Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
-{| class="article-table"
-!Parameter
-!None
-!Low
-!Medium
-!High
-|-
-!Number
-|0
-|1
-|2
-|3
-|}
-
 ===Key hiding spots and strategies===
 {| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
 ! colspan="3" |List of all 4 official [[Hiding Spots|hiding spots]]
@@ -550,21 +505,6 @@ The ghost cannot perform a [[ghost event]] on players that are standing in the f
 *First Floor Right Corridor
 *Second Floor Main Corridor
 *Second Floor Right Corridor
-
-Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
-{| class="article-table"
-!Parameter
-!None
-!Low
-!Medium
-!High
-|-
-!Number
-|0
-|1
-|2
-|3
-|}
 
 ===Key hiding spots and strategies===
 {| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"

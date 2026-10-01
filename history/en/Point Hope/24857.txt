@@ -1,7 +1,7 @@
 # Point Hope
-# revid 25030  2026-10-01T13:19:51Z  by Darkhooper
-# 备注: doors starting open on Restricted
-# sha256 f0f82750a7661b7d92dd3424606a0c20fcadf18bf34bbcbaf1128da7e9f9a6a1  bytes 15617
+# revid 24857  2026-09-18T04:09:36Z  by Darkhooper
+# 备注: more rooms allowing short roams to another floor
+# sha256 07d8b8858c18b50fd5fd6e56936803e1aa28c5a520ba9ecdd907a05c93507df7  bytes 15381
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Location
@@ -190,21 +190,6 @@ The following rooms allow short [[Roaming|roams]] to another floor to be complet
 *Entry Hallway
 *Kitchen
 *Dining Room
-
-Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
-{| class="article-table"
-!Parameter
-!None
-!Low
-!Medium
-!High
-|-
-!Number
-|0
-|4
-|6
-|9
-|}
 
 ===Key hiding spots and strategies===
 {| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"

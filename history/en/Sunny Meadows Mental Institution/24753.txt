@@ -1,7 +1,7 @@
 # Sunny Meadows Mental Institution
-# revid 25027  2026-10-01T13:05:13Z  by Darkhooper
-# 备注: doors starting open on Restricted
-# sha256 7d38922f83596ade56d5b2a9cb9e5d24e5887f58a5622b91989e400c862b1ca8  bytes 29506
+# revid 24753  2026-09-17T06:42:40Z  by Darkhooper
+# 备注: changed page layout
+# sha256 535e75d8a09e298f7109189b75298cd122782cf146ba53e38852e41634f58537  bytes 28326
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Location
@@ -305,21 +305,6 @@ The following rooms have no main room lights and hence no means of sanity drain 
 The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
 *Courtyard Corridor
 
-Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
-{| class="article-table"
-!Parameter
-!None
-!Low
-!Medium
-!High
-|-
-!Number
-|0
-|2
-|3
-|5
-|}
-
 ===Key hiding spots and strategies===
 {| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
 ! colspan="3" |List of all 6 official [[Hiding Spots|hiding spots]]
@@ -413,21 +398,6 @@ The following rooms have no main room lights and hence no means of sanity drain 
 The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
 *Courtyard Corridor
 *Male Wing
-
-Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
-{| class="article-table"
-!Parameter
-!None
-!Low
-!Medium
-!High
-|-
-!Number
-|0
-|1
-|2
-|3
-|}
 
 ===Key hiding spots and strategies===
 {| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
@@ -530,21 +500,6 @@ The ghost cannot perform a [[ghost event]] on players that are standing in the f
 *Courtyard Corridor
 *Female Wing
 
-Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
-{| class="article-table"
-!Parameter
-!None
-!Low
-!Medium
-!High
-|-
-!Number
-|0
-|1
-|2
-|3
-|}
-
 ===Key hiding spots and strategies===
 {| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
 ! colspan="3" |List of all 6 official [[Hiding Spots|hiding spots]]
@@ -645,21 +600,6 @@ The following rooms have no main room lights and hence no means of sanity drain 
 
 The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
 *Basement West Corridor
-
-Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
-{| class="article-table"
-!Parameter
-!None
-!Low
-!Medium
-!High
-|-
-!Number
-|0
-|2
-|3
-|5
-|}
 
 ===Key hiding spots and strategies===
 {| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
@@ -769,21 +709,6 @@ The following rooms have no main room lights and hence no means of sanity drain 
 
 The ghost cannot perform a [[ghost event]] on players that are standing in the following rooms:
 *Restricted Area
-
-Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
-{| class="article-table"
-!Parameter
-!None
-!Low
-!Medium
-!High
-|-
-!Number
-|0
-|1
-|2
-|3
-|}
 
 ===Key hiding spots and strategies===
 {| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"

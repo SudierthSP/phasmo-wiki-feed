@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-09-30T16:11:32.146Z",
+  "updated": "2026-10-01T13:38:51.619Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -286,8 +286,8 @@
       "redirect": false
     },
     "Brownstone High School": {
-      "revid": 24797,
-      "ts": "2026-09-17T16:47:12Z",
+      "revid": 25028,
+      "ts": "2026-10-01T13:12:10Z",
       "redirect": false
     },
     "Asylum": {
@@ -481,8 +481,8 @@
       "redirect": false
     },
     "Prison": {
-      "revid": 25004,
-      "ts": "2026-09-18T19:59:16Z",
+      "revid": 25029,
+      "ts": "2026-10-01T13:17:32Z",
       "redirect": false
     },
     "Phasmophobia Wiki": {
@@ -1006,8 +1006,8 @@
       "redirect": false
     },
     "Sunny Meadows Mental Institution": {
-      "revid": 24753,
-      "ts": "2026-09-17T06:42:40Z",
+      "revid": 25027,
+      "ts": "2026-10-01T13:05:13Z",
       "redirect": false
     },
     "0.6.2.3": {
@@ -1486,8 +1486,8 @@
       "redirect": false
     },
     "Point Hope": {
-      "revid": 24857,
-      "ts": "2026-09-18T04:09:36Z",
+      "revid": 25030,
+      "ts": "2026-10-01T13:19:51Z",
       "redirect": false
     },
     "0.10.0.1": {
