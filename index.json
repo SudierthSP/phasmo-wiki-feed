@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T14:59:38.802Z",
+  "generated": "2026-10-02T19:49:33.359Z",
   "counts": {
     "en": 321,
     "zh": 282
@@ -219,8 +219,8 @@
       {
         "t": "Banshee",
         "f": "pages/en/Banshee.txt",
-        "b": 14336,
-        "r": 25017,
+        "b": 14798,
+        "r": 25048,
         "x": "{{Ghost |title=Banshee |image1=Banshee Discovered.jpg |strength= *Focuses on the same player until that player is killed or has left the game |weakness(es)= *Cannot kill players other than the target if the target is ins"
       },
       {
@@ -2172,8 +2172,8 @@
       {
         "t": "Kormos",
         "f": "pages/en/Kormos.txt",
-        "b": 7293,
-        "r": 25045,
+        "b": 7714,
+        "r": 25047,
         "x": "{{Ghost |image1= |strength=*Higher hunt sanity threshold when nearby players sprint outside hunts. *Can detect a player's footsteps from far away during a hunt. |weakness(es)=*Nearly blind and cannot see still players or"
       },
       {

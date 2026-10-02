@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-02T14:59:39.418Z",
+  "updated": "2026-10-02T19:49:33.877Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -166,8 +166,8 @@
       "redirect": false
     },
     "Banshee": {
-      "revid": 25017,
-      "ts": "2026-09-27T23:26:05Z",
+      "revid": 25048,
+      "ts": "2026-10-02T16:44:02Z",
       "redirect": false
     },
     "Shade": {
@@ -1836,8 +1836,8 @@
       "redirect": false
     },
     "Kormos": {
-      "revid": 25045,
-      "ts": "2026-10-02T13:41:48Z",
+      "revid": 25047,
+      "ts": "2026-10-02T15:57:47Z",
       "redirect": false
     },
     "0.17.1.1": {
