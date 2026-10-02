@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-01T23:10:08.781Z",
+  "updated": "2026-10-02T14:59:39.418Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -16,8 +16,8 @@
       "redirect": false
     },
     "Hunt": {
-      "revid": 25026,
-      "ts": "2026-09-30T10:53:52Z",
+      "revid": 25046,
+      "ts": "2026-10-02T13:41:49Z",
       "redirect": false
     },
     "Evidence": {
@@ -1836,8 +1836,8 @@
       "redirect": false
     },
     "Kormos": {
-      "revid": 25020,
-      "ts": "2026-09-28T22:47:05Z",
+      "revid": 25045,
+      "ts": "2026-10-02T13:41:48Z",
       "redirect": false
     },
     "0.17.1.1": {

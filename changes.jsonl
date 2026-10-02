@@ -1107,3 +1107,5 @@
 {"ts":"2026-10-01T19:02:06.355Z","lang":"en","title":"Myling","revid":25034,"prevRevid":23183,"kind":"edit","user":"Darkhooper","comment":"another clarification as Tier 2 doesn't have an indicator for 6.5m if it is not a Myling.","bytes":5624,"pageTs":"2026-10-01T18:27:38Z"}
 {"ts":"2026-10-01T19:02:06.355Z","lang":"en","title":"Sound Recorder","revid":25031,"prevRevid":24627,"kind":"edit","user":"Darkhooper","comment":"sound recorder ranges","bytes":4637,"pageTs":"2026-10-01T15:14:13Z"}
 {"ts":"2026-10-01T23:10:08.781Z","lang":"en","title":"D.O.T.S. Projector","revid":25035,"prevRevid":22987,"kind":"edit","user":"Darkhooper","comment":"DOTS range","bytes":6140,"pageTs":"2026-10-01T20:47:43Z"}
+{"ts":"2026-10-02T14:59:39.418Z","lang":"en","title":"Hunt","revid":25046,"prevRevid":25026,"kind":"edit","user":"Darkhooper","comment":"Kormos uses normal killing range if it has LOS","bytes":34526,"pageTs":"2026-10-02T13:41:49Z"}
+{"ts":"2026-10-02T14:59:39.418Z","lang":"en","title":"Kormos","revid":25045,"prevRevid":25020,"kind":"edit","user":"Darkhooper","comment":"Kormos uses normal killing range if it has LOS","bytes":7042,"pageTs":"2026-10-02T13:41:48Z"}
