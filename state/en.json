@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-02T19:49:33.877Z",
+  "updated": "2026-10-03T13:21:15.897Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -1006,8 +1006,8 @@
       "redirect": false
     },
     "Sunny Meadows Mental Institution": {
-      "revid": 25027,
-      "ts": "2026-10-01T13:05:13Z",
+      "revid": 25049,
+      "ts": "2026-10-03T12:50:39Z",
       "redirect": false
     },
     "0.6.2.3": {
