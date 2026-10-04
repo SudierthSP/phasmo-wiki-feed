@@ -1,7 +1,7 @@
 # Bone Evidence
-# revid 25051  2026-10-04T16:46:11Z  by Darkhooper
-# 备注: trivia for bone spawning
-# sha256 82af9076799d7613a8bcf0c72420e5aa9b1de1b7bc350f87ee6389f3e794608a  bytes 4649
+# revid 24635  2026-09-12T16:52:43Z  by Darkhooper
+# 备注: where the bone can spawn / journal mention
+# sha256 110aca34f7e9d740665471472c0a0aba7cc1e6273d1fa55778a84efc284b1cdf  bytes 4071
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Item Template
@@ -78,7 +78,6 @@ Bottom Shelf (Left to Right):
 ==Trivia==
 *Prior to [[0.4.0]], the model of the bone appeared to be the femur (thigh bone) of a chicken.
 *The skeleton that you collect is missing the Tibia; the main bone of the lower leg. The Fibula, which you can collect in game, is the smaller bone of the lower leg that does not carry any weight while walking. The equivalent two bones of the lower arm, the Radius and Ulna, can both be collected.
-*How the game spawns the bone is the following: it chooses a random point within a valid room's colliders then searches in a range of 1.5 meters if there is a bone navmesh. If there is, then the bone is teleported to it, otherwise it will choose another random point, which may be within another room. If after 32 attempts this still fails, the bone will spawn at the (0,0,0) location of the map. In this case, the [[Ouija Board]] and the statistics screen will display the last room in which the game attempted to spawn the bone in, not the room where the (0,0,0) location is.
 
 ==History==
 {| class="fandom-table"

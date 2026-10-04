@@ -1,7 +1,7 @@
 # Haunted Mirror
-# revid 25050  2026-10-04T16:22:16Z  by Darkhooper
-# 备注: center of room collider
-# sha256 fe8a802d7b58468fdc6c17bf2f730b895482839458169915c7466dea32554b4f  bytes 3385
+# revid 21290  2025-06-29T21:51:11Z  by Darkhooper
+# 备注: you cannot have a Duplicate photo for this item
+# sha256 3e61cb55df40a30d26fde56e584a36f7df649f04a0797b8d2c55776ef7a481a4  bytes 3366
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Item_Template
@@ -20,7 +20,7 @@ A haunted mirror has a 1 in 7 chance per contract of being chosen as the cursed 
 ===Activation and usage===
 The mirror can be {{Control|toggled}} while inside the investigation area. It will be automatically deactivated when brought outside.
 
-When activated, the haunted mirror will show a view of the [[ghost room|favorite room]] as a sweeping panorama from the center of one of the room's colliders, allowing players to locate the room by cross-reference. This view is a live feed of the room, so any lights turned on, items moved, and equipment or players present in the room will be visible. The only exception is the player's own model.
+When activated, the haunted mirror will show a view of the [[ghost room|favorite room]] as a sweeping panorama from the center of the room, allowing players to locate the room by cross-reference. This view is a live feed of the room, so any lights turned on, items moved, and equipment or players present in the room will be visible. The only exception is the player's own model.
 
 The mirror also gives a faint glow to see into the favorite room, which all players, including the user, can see, even outside of the mirror. This can help confirm rooms, as well as help other players know where the favorite room is.
 

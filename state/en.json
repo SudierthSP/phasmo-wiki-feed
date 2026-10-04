@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-04T08:46:32.886Z",
+  "updated": "2026-10-04T18:22:10.480Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -326,8 +326,8 @@
       "redirect": false
     },
     "Bone Evidence": {
-      "revid": 24635,
-      "ts": "2026-09-12T16:52:43Z",
+      "revid": 25051,
+      "ts": "2026-10-04T16:46:11Z",
       "redirect": false
     },
     "Difficulty": {
@@ -811,8 +811,8 @@
       "redirect": false
     },
     "Haunted Mirror": {
-      "revid": 21290,
-      "ts": "2025-06-29T21:51:11Z",
+      "revid": 25050,
+      "ts": "2026-10-04T16:22:16Z",
       "redirect": false
     },
     "Tarot Cards": {
@@ -1006,8 +1006,8 @@
       "redirect": false
     },
     "Sunny Meadows Mental Institution": {
-      "revid": 25049,
-      "ts": "2026-10-03T12:50:39Z",
+      "revid": 25052,
+      "ts": "2026-10-04T16:57:16Z",
       "redirect": false
     },
     "0.6.2.3": {
@@ -1486,8 +1486,8 @@
       "redirect": false
     },
     "Point Hope": {
-      "revid": 25030,
-      "ts": "2026-10-01T13:19:51Z",
+      "revid": 25053,
+      "ts": "2026-10-04T16:57:17Z",
       "redirect": false
     },
     "0.10.0.1": {

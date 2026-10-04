@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T08:46:32.479Z",
+  "generated": "2026-10-04T18:22:10.039Z",
   "counts": {
     "en": 321,
     "zh": 282
@@ -436,8 +436,8 @@
       {
         "t": "Bone Evidence",
         "f": "pages/en/Bone Evidence.txt",
-        "b": 4325,
-        "r": 24635,
+        "b": 4885,
+        "r": 25051,
         "x": "{{Item Template |img=Bone_spine_0.4.0.png |imgcaption=A spine bone laying on the ground. }}The bone is a collectible item that can be found on all maps. ==Mechanics== Every contract, one bone will spawn in a random locat"
       },
       {
@@ -1010,8 +1010,8 @@
       {
         "t": "Haunted Mirror",
         "f": "pages/en/Haunted Mirror.txt",
-        "b": 3626,
-        "r": 21290,
+        "b": 3621,
+        "r": 25050,
         "x": "{{Item_Template |img=Cursed Mirror.jpg |imgcaption= |uses= |description= }}{{Quote|speaker=Objective Board|quote=This mirror made me feel...weird.}} The '''Haunted Mirror''' is a [[Cursed Possession|cursed possession]] t"
       },
       {
@@ -1234,8 +1234,8 @@
       {
         "t": "Sunny Meadows Mental Institution",
         "f": "pages/en/Sunny Meadows Mental Institution.txt",
-        "b": 29798,
-        "r": 25049,
+        "b": 30042,
+        "r": 25052,
         "x": "{{Location |img=Smmi updated1.png |imgcaption=Main entrance porch. |mapsize=Large |floors=2 |unlocklevel=17 |rooms=69 (Total) *1F: 44 *B: 22 *Staircases: 3 *53 possible ghost rooms |exits=1 |faucets=22 |videofeeds=8 |key"
       },
       {
@@ -1780,8 +1780,8 @@
       {
         "t": "Point Hope",
         "f": "pages/en/Point Hope.txt",
-        "b": 15860,
-        "r": 25030,
+        "b": 16003,
+        "r": 25053,
         "x": "{{Location |img=PointHope Top.png |imgcaption=A view from the top of the lighthouse. |mapsize=Medium |unlocklevel=15 |floors=10 |rooms=16 (Total) *10F: 1 *9F: 2 *8F: 1 *7F: 2 *6F: 2 *5F: 2 *4F: 1 *3F: 1 *2F: 1 *1F: 3 *12"
       },
       {
