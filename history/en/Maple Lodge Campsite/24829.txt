@@ -1,7 +1,6 @@
 # Maple Lodge Campsite
-# revid 25054  2026-10-04T18:39:33Z  by Darkhooper
-# 备注: bone spawning with specific tents
-# sha256 6701251009e02ad7cbd10edfd1be2df775b39390d4fbbb0104c07f04627eb8a2  bytes 12100
+# revid 24829  2026-09-18T02:37:57Z  by Darkhooper
+# sha256 e8f17ac32c5759c04466bbcef67ec8bc58182046db843e3f20633ae5128adaf3  bytes 11514
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Location
@@ -194,8 +193,6 @@ File:Maple-Fingies-Lamp.png|Fingerprints on the base of a lantern.
 
 ==Bone locations==
 Bones spawn randomly, but will only spawn in areas that a ghost can also walk on, within a room that can be chosen as a [[Ghost Room|favourite room]].
-
-'''Black Tent''', '''Green Tent''', '''Grey Tent''', '''Red Tent''', and '''White Tent''' have no bone navmesh on the inside part of the tent, meaning the bone will always spawn on the outside part of the tent if the game chooses to spawn the bone in one of these rooms. Additionally, as the bone navmesh for '''Grey Tent''' and '''White Tent''' is very tiny and at one edge of the room, the closest bone navmesh may sometimes be a navmesh located in '''Campsite B''', making the bone visually spawn in Campsite B despite the game choosing to spawn the bone in one of these two tents.
 
 ==Cursed possession locations==
 <gallery>

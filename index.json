@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T18:22:10.039Z",
+  "generated": "2026-10-04T21:43:24.885Z",
   "counts": {
     "en": 321,
     "zh": 282
@@ -807,8 +807,8 @@
       {
         "t": "Maple Lodge Campsite",
         "f": "pages/en/Maple Lodge Campsite.txt",
-        "b": 11723,
-        "r": 24829,
+        "b": 12353,
+        "r": 25054,
         "x": "{{Location |img=maple-rework-main-shot.png |imgcaption=View from within the primary campsite area. |mapsize=Medium |unlocklevel=13 |floors=3 |rooms=28 (Total) *3F: 2 *2F: 3 *1F: 23 *25 possible ghost rooms |exits=1 |fauc"
       },
       {
