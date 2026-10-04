@@ -1,9 +1,9 @@
 {
   "fmt": 2,
-  "updated": "2026-10-03T13:21:18.573Z",
+  "updated": "2026-10-04T08:46:34.527Z",
   "api": "https://phasmophobia.fandom.com/zh/api.php",
-  "pageCount": 323,
-  "redirectCount": 41,
+  "pageCount": 324,
+  "redirectCount": 42,
   "pages": {
     "恐鬼症 Wiki": {
       "revid": 3908,
@@ -1619,6 +1619,11 @@
       "revid": 4304,
       "ts": "2026-09-17T09:04:08Z",
       "redirect": false
+    },
+    "擬魂 The Mimic": {
+      "revid": 4306,
+      "ts": "2026-10-04T03:25:55Z",
+      "redirect": true
     }
   }
 }
