@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-04T21:43:24.885Z",
+  "generated": "2026-10-06T01:36:55.015Z",
   "counts": {
     "en": 321,
-    "zh": 282
+    "zh": 283
   },
   "langs": {
     "en": [
@@ -191,8 +191,8 @@
       {
         "t": "Objectives",
         "f": "pages/en/Objectives.txt",
-        "b": 9903,
-        "r": 24267,
+        "b": 9681,
+        "r": 25055,
         "x": "Players are assigned (optional) '''objectives''' during their investigations. Each [[contract]] has 4 objectives, one of which is always \"Find the correct ghost type\", and the other three are randomly chosen. Objectives "
       },
       {
@@ -982,8 +982,8 @@
       {
         "t": "The Mimic",
         "f": "pages/en/The Mimic.txt",
-        "b": 9408,
-        "r": 25023,
+        "b": 9390,
+        "r": 25056,
         "x": "{{Ghost |image1=The Mimic Discovered.jpg |strength= *Mimics other ghost types one after another for brief periods of time |weakness(es)= *Will always produce false ghost orbs |Evidence1=[[File:Thermometer_Render.png|24x2"
       },
       {
@@ -4228,6 +4228,13 @@
         "b": 1389,
         "r": 4304,
         "x": "{{Infobox Version | release_date=2026年9月16日 | previous_major_version=[[0.19.0]] | previous_minor_version=[[0.19.0.1]] | next_minor_version= | next_major_version= }}'''0.19.0.2''' 是2026年9月16日发布的小型更新。<ref>[https://www.kine"
+      },
+      {
+        "t": "擬魂 The Mimic",
+        "f": "pages/zh/擬魂 The Mimic.txt",
+        "b": 226,
+        "r": 4307,
+        "x": ""
       }
     ]
   }

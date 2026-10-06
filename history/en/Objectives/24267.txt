@@ -1,6 +1,7 @@
 # Objectives
-# revid 25055  2026-10-05T22:09:15Z  by Darkhooper
-# sha256 89e5b6d8b1371faa5bc37d152913d1bfd88853552ec500f589ccdfaad82958f2  bytes 9483
+# revid 24267  2026-07-24T04:38:27Z  by VVSlavik
+# 备注: Added the corresponding Russian interlanguage link
+# sha256 4fbd874a9d07fe3e2722cee4b5b538bea1ebba024ac853f8a51e21e48de5c10b  bytes 9646
 # 源: https://phasmophobia.fandom.com/api.php
 
 Players are assigned (optional) '''objectives''' during their investigations. Each [[contract]] has 4 objectives, one of which is always "Find the correct ghost type", and the other three are randomly chosen.
@@ -94,7 +95,7 @@ Objectives are displayed on the [[Objective Board|objective board]] and in the [
 |30
 |-
 |Repel the Ghost with Incense while it's chasing someone
-|The ghost is stunned by Incense while having line-of-sight with at least one player or while travelling to a player's last known location.
+|The ghost is stunned by Incense while having line-of-sight with at least one player.<ref group="note">Currently, this does not require line-of-sight; the ghost only needs to be travelling to where the player was last detected in the hunt. This might be a bug.</ref>
 |Wait at choke points like the end of a hallway/stairwell, wait for the ghost to approach, and light the Incense.
 |
 *The ghost must ''see'' a player for the objective to count.
@@ -162,6 +163,9 @@ Objectives are displayed on the [[Objective Board|objective board]] and in the [
 
 ==See also==
 *[[Daily and Weekly Tasks]]
+
+==Notes==
+{{Reflist|group="note"}}
+[[ru:Список задач]]
 [[Category:Objectives]]
 [[fr:Objectifs]]
-[[ru:Список задач]]

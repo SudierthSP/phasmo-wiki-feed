@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-04T21:43:25.227Z",
+  "updated": "2026-10-06T01:36:55.566Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -146,8 +146,8 @@
       "redirect": false
     },
     "Objectives": {
-      "revid": 24267,
-      "ts": "2026-07-24T04:38:27Z",
+      "revid": 25055,
+      "ts": "2026-10-05T22:09:15Z",
       "redirect": false
     },
     "Daily and Weekly Tasks": {
@@ -791,8 +791,8 @@
       "redirect": false
     },
     "The Mimic": {
-      "revid": 25023,
-      "ts": "2026-09-29T03:17:54Z",
+      "revid": 25056,
+      "ts": "2026-10-05T22:33:49Z",
       "redirect": false
     },
     "0.5.0": {

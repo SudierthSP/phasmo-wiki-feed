@@ -1,0 +1,6 @@
+# 擬魂 The Mimic
+# revid 4307  2026-10-05T21:24:13Z  by 0y0w
+# 备注: 清空全部内容
+# sha256 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  bytes 0
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
