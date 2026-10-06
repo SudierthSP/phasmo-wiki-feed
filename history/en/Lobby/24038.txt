@@ -1,7 +1,7 @@
 # Lobby
-# revid 25057  2026-10-06T16:26:27Z  by Darkhooper
-# 备注: events in collapsible tables
-# sha256 d3444a1ead961ae0022c7895b71dd7138ab20b0a3cd493cd62c75286308b101a  bytes 14919
+# revid 24038  2026-07-15T18:32:18Z  by Hampter134
+# 备注: /* Sho */
+# sha256 598c65ee17ada7575f0117a8514ca6128caf5f8d52db54b804f97c39e142e928  bytes 14272
 # 源: https://phasmophobia.fandom.com/api.php
 
 [[File:Lobby 0.11.jpg|thumb|A view of a player standing in the lobby.]]
@@ -98,140 +98,103 @@ The players may also choose the "random" option to let the game select the map f
 ==Events==
 {{See also|Special events}}
 On multiple occasions, the lobby has been decorated to celebrate various special events:
-{| class="mw-collapsible mw-collapsed fandom-table" style="width: 100%"
-!Halloween 2020
-|-
-|[[File:Lobbyhalloween.png|right|180px]]
+
+===Halloween 2020===
+[[File:Lobbyhalloween.png|right|180px]]
 During this event, the lobby was decorated with Jack-o-lanterns, the lights were dimmed out. and particles resembling [[Ghost Orb]]s were floating near the board. The sky outside was also turned bright red.
-|}
 
-{| class="mw-collapsible mw-collapsed fandom-table" style="width: 100%"
-!1st Year Anniversary
-|-
-|The lobby was decorated with various party accessories, including banners, party lights, interactible balloons scattered on the floor, as well as [[UV Light|Glowsticks]] of different colors players could pick up. Player models were also given party hats that they would keep for the entire game while the event was ongoing.
+===1st Year Anniversary===
+The lobby was decorated with various party accessories, including banners, party lights, interactible balloons scattered on the floor, as well as [[UV Light|Glowsticks]] of different colors players could pick up. Player models were also given party hats that they would keep for the entire game while the event was ongoing. 
 
-It is also during this event that the boombox was introduced.
-|}
+It is also during this event that the boombox was introduced. 
 
-{| class="mw-collapsible mw-collapsed fandom-table" style="width: 100%"
-!Halloween 2021
-|-
-|[[File:Lobby halloween 2021.png|right|180px]]
+===Halloween 2021===
+[[File:Lobby halloween 2021.png|right|180px]]
 Most of the lights in the lobby were turned off, the sky turned an ominous bright red and particles resembling ember floated around the white board, giving the lobby a very sinister ambience. [[UV Light|UV flashlights]] were disposed under the white board, which could be used to reveal various messages and writings all over the walls and floor. Some special elements were are also added:
 
 *The door by the electrical board is slightly ajar. Peering through will make the ring girl [[ghost model]] suddenly appear in the gap with a loud hissing sound.
 *A shadowy child ghost model with bright glowing eyes is peering down at players from the rafters above the white board. This is modified from the "tooth-faced" ghost model.
 *There is a skeleton hidden in one of the lockers.
 
+Player models also wore paper masks representing various ghost models for the entirety of the event.
+
 After the event ended, the lighting and particle effects were removed, but the UV messages and other physical decorations remained. One UV flashlight stayed available on the equipment shelf for use.
-|}
 
-{| class="mw-collapsible mw-collapsed fandom-table" style="width: 100%"
-!Holiday 2021
-|-
-|[[File:Lobby Christmas 2021.png|right|180px]]
-The lobby gained a Christmas tree with several presents surrounding it, two minigames for players to spend time on, snowballs to throw, and snow covering part of the floor.
-|}
+===Holiday 2021===
+[[File:Lobby Christmas 2021.png|right|180px]]
+The lobby gained a Christmas tree with several presents surrounding it, two minigames for players to spend time on, snowballs to throw, and snow covering part of the floor. 
 
-{| class="mw-collapsible mw-collapsed fandom-table" style="width: 100%"
-!Halloween 2022
-|-
-|[[File:Lobby halloween2022.png|right|180px]]
+Player models wore elf hats for the duration of the event; additionally, one of the [[ghost]] models was temporarily changed to wear a Santa hat, wield an oversized candy cane instead of an axe, and ring jingle bells every time it made an audible step.
+
+===Halloween 2022===
+[[File:Lobby halloween2022.png|right|180px]]
 The lobby received ominous lighting effects as well as various thematic props, such as skeletons, candelabras and jack o' lanterns. The jack o' lanterns could be lit using a [[lighter]] found on the table where the boombox is. A then-upcoming Tier III [[UV Light]] could be picked up from a box behind the counter of the shop area and used to reveal various writings on the wall.
 
 Peering through the Staff Room door at the ghost model inside would cause a demonic circle to appear in the middle of the lobby with ominous grandfather clock sound effects, surrounded by five sheet-covered ghosts (these are merely accessory NPCs, not to be confused with actual [[ghost]]s) who would whisper and emit freezing breath. If the player walked into the middle of the circle, the ghosts would start to slowly close in with a rising sound effect, until they all suddenly dematerialize, leaving the sheets dropping to the ground and finishing the event.
-|}
 
-{| class="mw-collapsible mw-collapsed fandom-table" style="width: 100%"
-!Holiday 2022
-|-
-|[[File:Lobby Christmas2022.jpg|right|180px]]
+===Holiday 2022===
+[[File:Lobby Christmas2022.jpg|right|180px]]
 Between [[0.8.0]] and [[0.8.0.7]], the lobby featured several decorations:
-*Christmas fairy lights and bells
-*Stockings hung on the walls
-*3 snowmen who turn their heads to look at the player
-*A cookie plate on the table
-*Christmas-themed music (using the same music as 2021)
-|}
+* Christmas fairy lights and bells
+* Stockings hung on the walls
+* 3 snowmen who turn their heads to look at the player
+* A cookie plate on the table
+* Christmas-themed music (using the same music as 2021)
 
-{| class="mw-collapsible mw-collapsed fandom-table" style="width: 100%"
-!Halloween 2023
-|-
-|The lobby was very similar to the Halloween 2022 lobby with the same thematic decorations minus the lighters and the Tier III UV Light. The demonic circle event was also present.
-|}
+===Halloween 2023===
+The lobby was very similar to the Halloween 2022 lobby with the same thematic decorations minus the lighters and the Tier III UV Light. The demonic circle event was also present.
 
-{| class="mw-collapsible mw-collapsed fandom-table" style="width: 100%"
-!Holiday 2023
-|-
-|[[File:Lobby Christmas 2023.png|right|180px]]
+===Holiday 2023===
+[[File:Lobby Christmas 2023.png|right|180px]]
 The lobby received several themed decorations:
-*Christmas fairy lights
-*Stockings hung on the walls
-*4 snowmen
-*A cookie plate on the table
-*Snowballs
-*Presents
-*Christmas-themed music (using the same music as 2021)
-|}
+* Christmas fairy lights
+* Stockings hung on the walls
+* 4 snowmen
+* A cookie plate on the table
+* Snowballs
+* Presents
+* Christmas-themed music (using the same music as 2021)
 
-{| class="mw-collapsible mw-collapsed fandom-table" style="width: 100%"
-!Easter 2024
-|-
-|[[File:Easter2024Lobby.png|right|180px]]
+===Easter 2024===
+[[File:Easter2024Lobby.png|right|180px]]
 The lobby received several themed decorations:
-*A Summoning Ritual
-*Twigs
-*Bunnies
-*Fireflies
-*Nests with eggs
-|}
+* A Summoning Ritual
+* Twigs
+* Bunnies
+* Fireflies
+* Nests with eggs
 
-{| class="mw-collapsible mw-collapsed fandom-table" style="width: 100%"
-!Crimson Eye
-|-
-|[[File:Halloween2024Lobby.png|right|180px]]
+===Crimson Eye===
+[[File:Halloween2024Lobby.png|right|180px]]
 During the [[Special events#Halloween 2024|Crimson Eye]] [[Special events#Halloween 2025|event]], the lobby received Halloween-themed decorations:
-*A Blood Altar
-*Candles
-*Demonic symbols
-*Halloween-themed music
-|}
+* A Blood Altar
+* Candles
+* Demonic symbols
+* Halloween-themed music
 
-{| class="mw-collapsible mw-collapsed fandom-table" style="width: 100%"
-!Winter's Jest
-|-
-|[[File:Lobby Christmas 2024.png|right|180px]]
+===Winter's Jest===
+[[File:Lobby Christmas 2024.png|right|180px]]
 During the [[Special events#Holiday 2024|Winter's Jest event]], the lobby received Christmas-themed decorations:
-*A Christmas tree
-*Snow
-*Presents
-*Christmas-themed music
-|}
+* A Christmas tree
+* Snow
+* Presents
+* Christmas-themed music
 
-{| class="mw-collapsible mw-collapsed fandom-table" style="width: 100%"
-!Cursed Hollow
-|-
-|[[File:Easter2025Lobby.png|right|180px]]
+===Cursed Hollow===
+[[File:Easter2025Lobby.png|right|180px]]
 During the [[Special events#Easter 2025|Cursed Hollow event]], the lobby received Easter-themed decorations:
-*Straw
-*Wooden bunnies
-*Fireflies
-*Ominous whispers on the boombox
-|}
+* Straw
+* Wooden bunnies
+* Fireflies
+* Ominous whispers on the boombox
 
-{| class="mw-collapsible mw-collapsed fandom-table" style="width: 100%"
-!5th Year Anniversary
-|-
-|[[File:5thYearAnniversaryLobby.png|right|180px]]
+===5th Year Anniversary===
+[[File:5thYearAnniversaryLobby.png|right|180px]]
 In [[0.14.1.0]], as ''Phasmophobia'' celebrated its 5th anniversary, decorations such as balloons, fanions, confetti, usable confetti poppers, and an anniversary cake were added to the lobby.
-|}
 
-{| class="mw-collapsible mw-collapsed fandom-table" style="width: 100%"
-!Phasmophobia by Alan Wake
-|-
-|[[File:AlanWakeLobby.png|right|180px]]
+===Phasmophobia by Alan Wake===
+[[File:AlanWakeLobby.png|right|180px]]
 In [[0.17.1.0]], during the Phasmophobia by Alan Wake event, the lobby was redecorated with a theme based on [https://en.wikipedia.org/wiki/Alan_Wake_2 Alan Wake 2].
-|}
 
 ==Trivia==
 *The lobby that came with the initial Steam release of Phasmophobia was a modified version of the [https://assetstore.unity.com/packages/3d/environments/urban/garage-workshop-104604 Garage Workshop] pre-made Unity asset. Many elements from this pack were also used in other areas of the game, such as the lockers and clutter like crates or bins found across some of the pre-[[0.7.0|Apocalypse update]] maps.

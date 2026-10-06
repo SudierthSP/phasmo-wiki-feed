@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-06T01:36:55.566Z",
+  "updated": "2026-10-06T20:16:07.730Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 378,
   "redirectCount": 57,
@@ -466,8 +466,8 @@
       "redirect": false
     },
     "Lobby": {
-      "revid": 24038,
-      "ts": "2026-07-15T18:32:18Z",
+      "revid": 25057,
+      "ts": "2026-10-06T16:26:27Z",
       "redirect": false
     },
     "Ghost Model": {
@@ -1106,8 +1106,8 @@
       "redirect": false
     },
     "Special events": {
-      "revid": 24017,
-      "ts": "2026-06-28T21:46:26Z",
+      "revid": 25058,
+      "ts": "2026-10-06T16:49:07Z",
       "redirect": false
     },
     "0.7.1.2": {

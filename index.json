@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T01:36:55.015Z",
+  "generated": "2026-10-06T20:16:07.156Z",
   "counts": {
     "en": 321,
     "zh": 283
@@ -590,8 +590,8 @@
       {
         "t": "Lobby",
         "f": "pages/en/Lobby.txt",
-        "b": 14486,
-        "r": 24038,
+        "b": 15152,
+        "r": 25057,
         "x": "[[File:Lobby 0.11.jpg|thumb|A view of a player standing in the lobby.]] The '''lobby''', or '''warehouse''', is the place [[player]]s will spawn upon starting up the game or finishing a [[contract]]. It is a warehouse th"
       },
       {
@@ -1346,9 +1346,9 @@
       {
         "t": "Special events",
         "f": "pages/en/Special events.txt",
-        "b": 22027,
-        "r": 24017,
-        "x": "This page lists '''special events''' that have occured within ''Phasmophobia''. Some events will give out trophies, which will be displayed in the [[lobby]]. <!-- ==Halloween 2021== ==Christmas 2021== --> ==2022== ===Eas"
+        "b": 25332,
+        "r": 25058,
+        "x": "This page lists '''special events''' that have occured within ''Phasmophobia''. Some events will give out trophies, which will be displayed in the [[lobby]]. ==2020== {| class=\"mw-collapsible mw-collapsed fandom-table\" s"
       },
       {
         "t": "0.7.1.2",
