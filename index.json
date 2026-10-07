@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T17:32:33.810Z",
+  "generated": "2026-10-07T22:16:03.809Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -121,8 +121,8 @@
       {
         "t": "Wraith",
         "f": "pages/en/Wraith.txt",
-        "b": 6713,
-        "r": 23023,
+        "b": 6943,
+        "r": 25069,
         "x": "{{Ghost |image1=Wraith Discovered.jpg |strength= |abiliti(es)= *Can teleport to a random player, becoming active near them, outside of ghost events and hunts |weakness(es)= *Never steps in salt |Evidence1=[[File:DOTS_pro"
       },
       {
@@ -380,8 +380,8 @@
       {
         "t": "Brownstone High School",
         "f": "pages/en/Brownstone High School.txt",
-        "b": 22544,
-        "r": 25028,
+        "b": 23032,
+        "r": 25068,
         "x": "{{Location |img=High school updated2.png |imgcaption=The front of the high school. |unlocklevel=8 |mapsize=Large |floors=2 |rooms=64 (Total) *2F: 30 *1F: 34 *58 possible ghost rooms |exits=5 |faucets=36 |videofeeds=15 |k"
       },
       {

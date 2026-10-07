@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-07T17:32:34.055Z",
+  "updated": "2026-10-07T22:16:04.357Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -91,8 +91,8 @@
       "redirect": false
     },
     "Wraith": {
-      "revid": 23023,
-      "ts": "2026-03-30T15:03:13Z",
+      "revid": 25069,
+      "ts": "2026-10-07T19:10:57Z",
       "redirect": false
     },
     "Phantom": {
@@ -286,8 +286,8 @@
       "redirect": false
     },
     "Brownstone High School": {
-      "revid": 25028,
-      "ts": "2026-10-01T13:12:10Z",
+      "revid": 25068,
+      "ts": "2026-10-07T18:51:54Z",
       "redirect": false
     },
     "Asylum": {

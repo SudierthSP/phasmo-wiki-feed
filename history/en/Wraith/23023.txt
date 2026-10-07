@@ -1,7 +1,7 @@
 # Wraith
-# revid 25069  2026-10-07T19:10:57Z  by Darkhooper
-# 备注: added trivia section
-# sha256 836453de3329b57c1f299db4a5ec23e5279145e4e8614c576d4ac7e89ca8df16  bytes 6718
+# revid 23023  2026-03-30T15:03:13Z  by Darkhooper
+# 备注: replaced Evidence list template
+# sha256 e2bebb8851cd6ceea40da5d3c7341a6a2ee69278dee43e9d9be7d9bf7d647468  bytes 6477
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -65,9 +65,6 @@ The [[Banshee]] and [[Phantom]] can also roam/walk (but not teleport) to a playe
 
 ===Hunt===
 Although the Wraith teleporting does not by itself trigger a chance to hunt, it could possibly hunt from the location it teleported to if it meets normal hunt requirements. This makes being almost anywhere within the investigation area dangerous once average sanity is low enough; avoid being caught off guard by the Wraith starting a hunt nearby.
-
-==Trivia==
-*The Wraith's ability makes it teleport to the nearest location on the ghost navmesh to the selected player. In most cases, as the player is also standing on that navmesh, the Wraith will teleport to the player's exact location.
 
 ==History==
 {| class="fandom-table"
