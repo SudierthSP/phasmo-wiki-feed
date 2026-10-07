@@ -1,7 +1,7 @@
 # Cosmetics
-# revid 25066  2026-10-07T11:25:56Z  by Darkhooper
-# 备注: Crimson Eye 2026 cosmetics
-# sha256 11df4a4b34b21241d76545272efe9441eec53b550eec6eae31bb8630dea59ecb  bytes 17464
+# revid 24754  2026-09-17T15:31:54Z  by Darkhooper
+# 备注: added 6th anniversary charm
+# sha256 0d392fd76665aa6182c7a9e11a82ede013564e99eb532075d80889f6fffa45ca  bytes 16882
 # 源: https://phasmophobia.fandom.com/api.php
 
 '''Cosmetics''' allow players to customize their [[Player#Player models|character model]].
@@ -280,7 +280,7 @@ Cosmetics can be purchased with [[money]] and equipped from the [[Shop]]'s Custo
 |[[File:Shirt Cursed Hollow.png|100px]]<br>Cursed Hollow 2026 T-Shirt
 | -
 |
-|Complete Personal Goal #1 of the Easter 2026 event
+|Complete Personal Goal #1 during the Easter 2026 event
 |-
 |[[File:Shirt High Priestess TD.png|100px]]<br>High Priestess T-Shirt
 | -
@@ -296,16 +296,6 @@ Cosmetics can be purchased with [[money]] and equipped from the [[Shop]]'s Custo
 | -
 |The sweater of a kindred investigator, following the thread of mystery, clue by clue...
 |Complete Personal Goal #3 of the 'Phasmophobia by Alan Wake' event
-|-
-|[[File:Crimson Eye Shirt.png|100px]]<br>Crimson Eye 2026 T-Shirt
-| -
-|
-|Complete Personal Goal #1 of the [[Special events#Halloween 2026|Halloween 2026 event]]
-|-
-|[[File:Shirt Crimson Eye Hands TD.png|100px]]<br>Crimson Eye Hands T-Shirt
-| -
-|
-|Watching a ''Phasmophobia'' stream for 2 hours between 8 October 2026 and 15 October 2026<br>'''(Twitch Drop)'''
 |}
 
 ===Pants===
@@ -377,11 +367,6 @@ Cosmetics can be purchased with [[money]] and equipped from the [[Shop]]'s Custo
 | -
 |
 |Watching a ''Phasmophobia'' stream for 2 hours between 18 September 2026 and 21 September 2026<br>'''(Twitch Drop)'''
-|-
-|[[File:Blood Moon Charm.png|100px]]<br>Crimson Eye 2026
-| -
-|
-|Complete Community Goal #2 of the Halloween 2026 event
 |}
 
 ==History==
@@ -398,9 +383,6 @@ Cosmetics can be purchased with [[money]] and equipped from the [[Shop]]'s Custo
 |-
 ![[0.19.0]]
 |Added Phasmophobia 6th Anniversary Charm.
-|-
-![[0.19.1.0]]
-|Added Crimson Eye 2026 T-Shirt, Crimson Eye Hands T-Shirt, Crimson Eye 2026 Charm.
 |}
 
 ==See also==

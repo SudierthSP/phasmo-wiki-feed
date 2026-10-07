@@ -1,0 +1,33 @@
+# 0.19.1.0
+# revid 25062  2026-10-07T10:47:08Z  by Darkhooper
+# 备注: new version
+# sha256 da717cb92677be54536baea23d44dca7b4880b7e17c862433f88a534bae66983  bytes 1570
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Infobox Version
+| image1=0.19.1.0.png
+| release_date=7 October 2026
+| previous_major_version=[[0.19.0]]
+| previous_minor_version=[[0.19.0.2]]
+| next_minor_version=
+| next_major_version=
+}}'''0.19.1.0''' is a minor update released on 7 October 2026.<ref>[https://www.kineticgames.co.uk/news/phasmophobia-v01910-patch-notes ''Phasmophobia v0.19.1.0 - Patch Notes''. 7 October 2026.]</ref> It brings back the Crimson Eye event.
+
+==Additions==
+*'''Crimson Eye''' - The Crimson Eye is upon us, Ghost Hunters. Once more, various locations across Phasmophobia will be bathed in the red glow of the Blood Moon, offering any willing Ghost Hunter rewards in return for completing investigations, optional objectives and more. For more information on this year’s iteration of the event, please read our latest blogpost.
+*'''Seasonal Event toggle''' - As a new feature for Crimson Eye and future seasonal events, we have implemented a toggle that allows players to turn on/off the event maps for their session.
+
+==Fixes==
+*Fixed an issue that caused the white light upon being revived to flash rather than slowly fade in and out.
+*Fixed an issue where an Easter Egg reward may not unlock, despite a 0x multiplier being active and the reward pop up being displayed.
+
+==Known Issues==
+*The lampposts outside of 6 Tanglewood Drive may glow when viewed by the player (XBOX & Steam only).
+*The Fusebox location will not be hidden on the Truck map when playing on a custom difficulty.
+
+==References==
+{{Reflist}}
+{{VersionNav}}
+[[Category:Development]]
+[[fr:0.19.1.0]]
+[[ru:0.19.1.0]]

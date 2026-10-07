@@ -1,8 +1,8 @@
 {
   "fmt": 2,
-  "updated": "2026-10-07T10:35:35.573Z",
+  "updated": "2026-10-07T17:32:34.055Z",
   "api": "https://phasmophobia.fandom.com/api.php",
-  "pageCount": 378,
+  "pageCount": 379,
   "redirectCount": 57,
   "pages": {
     "Main Page": {
@@ -406,8 +406,8 @@
       "redirect": true
     },
     "Kinetic Games": {
-      "revid": 25007,
-      "ts": "2026-09-18T23:25:33Z",
+      "revid": 25067,
+      "ts": "2026-10-07T11:53:38Z",
       "redirect": false
     },
     "Dirty water": {
@@ -1816,8 +1816,8 @@
       "redirect": false
     },
     "Cosmetics": {
-      "revid": 24754,
-      "ts": "2026-09-17T15:31:54Z",
+      "revid": 25066,
+      "ts": "2026-10-07T11:25:56Z",
       "redirect": false
     },
     "Watch": {
@@ -1893,6 +1893,11 @@
     "0.19.0.2": {
       "revid": 25059,
       "ts": "2026-10-07T10:22:37Z",
+      "redirect": false
+    },
+    "0.19.1.0": {
+      "revid": 25062,
+      "ts": "2026-10-07T10:47:08Z",
       "redirect": false
     }
   }

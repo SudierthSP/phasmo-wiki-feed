@@ -1,0 +1,31 @@
+# 0.19.1.0
+# revid 4308  2026-10-07T13:38:35Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{Infobox Version | image1=0.19.1.0.png | release_date=2026年10月7日 | previous_major_version=[[0.19.0]] | previous_minor_version=[[0.19.0.2]] | next_minor_version= | next_major_version= }}'''0.19.1.0''' 是2026年10月7日发布的小型更新。<ref>[https://www.kineticgames.co.uk/news/phasmophobia-v01910-patch-notes ''Phasmophobia v0.19.1.0 - Patch Notes''. 2026年10月7日.]</ref> 本次更新复刻绯红之眼活动。  ==新增内容== *'''绯红之眼…”
+# sha256 7877696fda970481d6a30971e090237ab7035647712b860be2234e6e7b86c975  bytes 1296
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Infobox Version
+| image1=0.19.1.0.png
+| release_date=2026年10月7日
+| previous_major_version=[[0.19.0]]
+| previous_minor_version=[[0.19.0.2]]
+| next_minor_version=
+| next_major_version=
+}}'''0.19.1.0''' 是2026年10月7日发布的小型更新。<ref>[https://www.kineticgames.co.uk/news/phasmophobia-v01910-patch-notes ''Phasmophobia v0.19.1.0 - Patch Notes''. 2026年10月7日.]</ref> 本次更新复刻绯红之眼活动。
+
+==新增内容==
+*'''绯红之眼''' - 各位猎鬼师，绯红之眼再度降临。恐鬼症的各处将再次沐浴在血月的红光中，愿意完成调查、可选目标等内容的猎鬼师将获得奖励。关于今年活动的更多信息，请阅读我们的最新博客文章。
+*'''季度活动开关''' - 作为绯红之眼及未来季度活动的新功能，现在玩家可以选择开启/关闭活动地图。
+
+==修复漏洞==
+*修复：复活时的白光会闪烁，而非缓慢淡入淡出
+*修复：即使处于0倍倍率且奖励弹窗显示，复活节彩蛋奖励仍可能无法解锁
+
+==已知问题==
+*6号坦格尔伍德车道外的路灯在玩家观看时可能会发光（仅限XBOX和Steam）。
+*在自定义难度下游玩时，电闸的位置不会在卡车地图上隐藏。
+
+==参考==
+{{Reflist}}
+{{VersionNav}}
+[[Category:开发]]
