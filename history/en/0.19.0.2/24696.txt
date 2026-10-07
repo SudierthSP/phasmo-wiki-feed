@@ -1,14 +1,14 @@
 # 0.19.0.2
-# revid 25059  2026-10-07T10:22:37Z  by Darkhooper
-# 备注: next version
-# sha256 4faf1f88bdb6de3f7cb9c638a1cee40b3faefc12143d2fa4528bab1dd7252ddb  bytes 807
+# revid 24696  2026-09-16T19:22:34Z  by Darkhooper
+# 备注: new version
+# sha256 7768eefe57f602001ac597326a92d32514b4b8f4f106a20dbcd167a771b18dcf  bytes 795
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Infobox Version
 | release_date=16 September 2026
 | previous_major_version=[[0.19.0]]
 | previous_minor_version=[[0.19.0.1]]
-| next_minor_version=[[0.19.1.0]]
+| next_minor_version=
 | next_major_version=
 }}'''0.19.0.2''' is a minor update released on 16 September 2026.<ref>[https://www.kineticgames.co.uk/news/phasmophobia-v01902-patch-notes ''Phasmophobia v0.19.0.2 - Patch Notes''. 16 September 2026.]</ref> It fixes two issues.
 

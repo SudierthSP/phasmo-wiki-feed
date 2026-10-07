@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T20:16:07.156Z",
+  "generated": "2026-10-07T10:35:35.051Z",
   "counts": {
     "en": 321,
     "zh": 283
@@ -2249,9 +2249,9 @@
       {
         "t": "0.19.0.2",
         "f": "pages/en/0.19.0.2.txt",
-        "b": 1012,
-        "r": 24696,
-        "x": "{{Infobox Version | release_date=16 September 2026 | previous_major_version=[[0.19.0]] | previous_minor_version=[[0.19.0.1]] | next_minor_version= | next_major_version= }}'''0.19.0.2''' is a minor update released on 16 S"
+        "b": 1025,
+        "r": 25059,
+        "x": "{{Infobox Version | release_date=16 September 2026 | previous_major_version=[[0.19.0]] | previous_minor_version=[[0.19.0.1]] | next_minor_version=[[0.19.1.0]] | next_major_version= }}'''0.19.0.2''' is a minor update rele"
       }
     ],
     "zh": [
