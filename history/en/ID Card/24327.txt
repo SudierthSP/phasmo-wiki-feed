@@ -1,7 +1,6 @@
 # ID Card
-# revid 25072  2026-10-08T12:45:29Z  by Darkhooper
-# 备注: added Beholder
-# sha256 d031d31cae3ffd51d14752716187ebd8563a045271acded815ab90044b743794  bytes 24070
+# revid 24327  2026-07-25T06:46:43Z  by Darkhooper
+# sha256 4877bde93f437ef026bb98d26e89972dd0e0a40e73d60e6ae4a131e62a3cacbe  bytes 23650
 # 源: https://phasmophobia.fandom.com/api.php
 
 The ID Card is a cosmetic that shows the player's in-game progress.
@@ -298,11 +297,6 @@ Special badges are assigned to certain members of the community either through m
 |The Manifestation
 |[[File:The Manifestation Badge.png|50px]]
 |colspan="2"|Complete the Community Goal during the Phasmophobia by Alan Wake event
-|-
-|Beholder
-|[[File:Beholder Badge.png|50px]]
-|Complete Community Goal #1 during [[Special events#Halloween 2026|Halloween 2026]]
-|Complete Community Goal #2 during Halloween 2026
 |}
 
 ====Twitch Drops====
@@ -686,12 +680,6 @@ Special badges are assigned to certain members of the community either through m
 |[[File:The-manifestation-id-card.png|220px]]
 |[[File:The-manifestation-foil-id-card.gif|220px]]
 |colspan="2"|Complete the Community Goal during the Phasmophobia by Alan Wake event
-|-
-|Beholder
-|<!--[[File:Beholder-id-card.png|220px]]-->
-|<!--[[File:Beholder-foil-id-card.gif|220px]]-->
-|Complete Community Goal #1 during Easter 2026
-|Complete Community Goal #2 during Easter 2026
 |}
 
 ===Twitch Drops===
@@ -879,9 +867,6 @@ File:Ghost Huntin' Director ID Card -New.png|220px|Director ID Card with old bac
 |-
 ![[0.18.0]]
 |Added Sun Seeker and Cool Cat roles.
-|-
-![[0.19.1.0]]
-|Added Beholder role.
 |}
 [[Category:Gameplay]]
 [[fr:Carte d'identité]]
