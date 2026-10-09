@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-08T21:10:01.057Z",
+  "updated": "2026-10-09T01:12:12.136Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -1141,8 +1141,8 @@
       "redirect": false
     },
     "ID Card": {
-      "revid": 25076,
-      "ts": "2026-10-08T20:42:24Z",
+      "revid": 25079,
+      "ts": "2026-10-09T00:50:11Z",
       "redirect": false
     },
     "Smudge sticks": {
@@ -1816,8 +1816,8 @@
       "redirect": false
     },
     "Cosmetics": {
-      "revid": 25073,
-      "ts": "2026-10-08T18:43:16Z",
+      "revid": 25077,
+      "ts": "2026-10-08T22:47:53Z",
       "redirect": false
     },
     "Watch": {
