@@ -1,7 +1,7 @@
 # ID Card
-# revid 25079  2026-10-09T00:50:11Z  by Darkhooper
-# 备注: animated Beholder card
-# sha256 2e4c6bb34ffd0cb61c437728ba64227deeff018ca055c9b59d7030335ec4aaf1  bytes 24062
+# revid 25103  2026-10-13T16:23:24Z  by Darkhooper
+# 备注: new AHA requirements
+# sha256 48f333118016b37c78f93900ba505b8a76b1d76ab47a97364ed10679ea667ea4  bytes 24357
 # 源: https://phasmophobia.fandom.com/api.php
 
 The ID Card is a cosmetic that shows the player's in-game progress.
@@ -126,10 +126,6 @@ Special badges are assigned to certain members of the community either through m
 |[[File:Artist Badge.png|50px]]
 |[[Contests and giveaways|Art contest]] winner
 | -
-|-
-|AHA Advocate
-|[[File:AHA Advocate Badge.png|50px]]
-|colspan="2"|Participate in the American Heart Association fundraising stream as a Kinetic Games Partner in June 2025
 |}
 
 ====Challenges/Achievements====
@@ -353,6 +349,12 @@ Special badges are assigned to certain members of the community either through m
 |[[File:Cool Cat Badge.png|50px]]
 |Watch a ''Phasmophobia'' stream for 2 hours between 21 July 2026 and 28 July 2026
 |Watch a Kinetic Games Partner stream for 2 hours between 21 July 2026 and 28 July 2026
+|-
+|AHA Advocate
+|[[File:AHA Advocate Badge.png|50px]]
+|Participate in the American Heart Association fundraising stream as a Kinetic Games Partner in June 2025<br>
+----Watch a ''Phasmophobia'' fundraising stream between 26 October 2026 and 2 November 2026
+|Reach a fundraising goal between 26 October 2026 and 2 November 2026
 |}
 
 ==Backgrounds==
@@ -479,11 +481,6 @@ Special badges are assigned to certain members of the community either through m
 | -
 |[[Contests and giveaways|Art contest]] winner
 | -
-|-
-|AHA Advocate
-|[[File:aha-advocate-id-card.png|220px]]
-|''to be added''
-|colspan="2"|Participate in the American Heart Association fundraising stream as a Kinetic Games Partner in June 2025
 |}
 
 ===Challenges/Achievements===
@@ -752,6 +749,13 @@ Special badges are assigned to certain members of the community either through m
 |[[File:Cool-cat-foil-id-card.gif|220px]]
 |Watch a ''Phasmophobia'' stream for 2 hours between 21 July 2026 and 28 July 2026
 |Watch a Kinetic Games Partner stream for 2 hours between 21 July 2026 and 28 July 2026
+|-
+|AHA Advocate
+|[[File:aha-advocate-id-card.png|220px]]
+| -
+|Participate in the American Heart Association fundraising stream as a Kinetic Games Partner in June 2025<br>
+----Watch a ''Phasmophobia'' fundraising stream between 26 October 2026 and 2 November 2026
+|Reach a fundraising goal between 26 October 2026 and 2 November 2026
 |}
 
 ==Gallery==
