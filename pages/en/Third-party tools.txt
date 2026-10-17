@@ -1,6 +1,7 @@
 # Third-party tools
-# revid 24693  2026-09-16T16:54:17Z  by VRDemon
-# sha256 87421a081e7c2776db28c05f0a52ab4fc1a6c597ea3254beec8e90c1734f2a06  bytes 7409
+# revid 25105  2026-10-16T23:09:39Z  by TritiumStudios
+# 备注: Fix to previous self
+# sha256 f52f472a3cb633cf237bcba28c6cf13ac5c2fabd5b09bd9b91bde32cebceba75  bytes 8045
 # 源: https://phasmophobia.fandom.com/api.php
 
 This page provides a list of '''third-party tools''' you may use to aid your investigations in ''Phasmophobia''.
@@ -16,6 +17,13 @@ Note that this list mainly consists of external websites or programs that do not
 !Link
 !Last update
 !Author
+|-
+|(PET) Phasmophobia Evidence Tool
+|Primary Evidence, Secondary Evidence,  0 Evidence. Evidence Information, Ghost Information, Equipment Information, Cursed Possession Information. Footsteps. Passive/Active Sanity Drain tool. Weather/Room Temperature tool. Maps. Objectives. Timer (Operation Phase, Smudge, Cooldown, Hunt, Fingerprints). Nightmare Mode, Insanity Mode, Weekly Challenge Mode, Custom Difficulty Mode. Blood Moon Mode. Multi-Language. Newsletter.
+|Android
+|[https://play.google.com/store/apps/details?id=com.TritiumGaming.phasmophobiaevidencepicker Google Play]<br>[https://discord.gg/C9XCCQY3dA Discord]
+|[[0.17.1.5|0.19.1]]
+|TritiumStudios
 |-
 |Unofficial Phasmophobia Cheat Sheet
 |Primary Evidence, Secondary Evidence, Ghost Information, 0 Evidence Guide, Weekly Challenge Mode, Blood Moon mode, Timer (Smudge, Cooldown, Hunt), Passive and Active Sanity Drain tool, Maps, Footsteps, Ghost Counter, Nightmare Mode, Insanity Mode, Sync, Phrases, Voice Control
@@ -44,13 +52,6 @@ Note that this list mainly consists of external websites or programs that do not
 |[https://zero-network.net/phasmo-cheat-sheet/map-explorer/ Website]<br>[https://discord.gg/afpvC7Bf7Y Discord]
 ||[[0.19.0]]
 |Ty Bayn (Zero-Network), Fantismal (maps)
-|-
-|(PET) Phasmophobia Evidence Tool
-|Primary Evidence. Interactive Map Viewer. Timer ''(Sanity)''. Evidence Information, Ghost Information, Equipment Information, Cursed Possession Information. Nightmare Mode/Insanity Mode. Objectives. Newsletter.<br><br>Customization: App Appearance.<br><br>Accessibility: Multi-Languages/Colorblindness.
-|Android
-|[https://play.google.com/store/apps/details?id=com.TritiumGaming.phasmophobiaevidencepicker Google Play]<br>[https://discord.gg/C9XCCQY3dA Discord]
-|[[0.17.1.5]]
-|TritiumStudios
 |-
 |PhasmoHelper
 |Primary Evidence, Secondary Evidence, Ghost Information, Phrases, Nightmare Mode
@@ -137,6 +138,8 @@ Note that this list mainly consists of external websites or programs that do not
 *<small>'''Evidence Information:''' Provides information about Evidence types</small>
 *<small>'''Ghost Information:''' Provides information about Ghost types</small>
 *<small>'''Equipment Information:''' Provides information about Equipment tiers</small>
+*'''<small>Cursed Possession Information:</small>''' <small>Provides information about Equipment tiers</small>
+*'''<small>Sanity Drain:</small>''' <small>Active/or Passive sanity tracking.</small>
 *<small>'''Sync:''' Can automatically synchronize multiple sessions.</small>
 *<small>'''Phrases:''' Lists phrases that players can ask the [[Ouija Board]], [[Spirit Box]], and/or [[Monkey Paw]].</small>
 *<small>'''Ghost Counter:''' Keeps a total of how many ghosts you've found.</small>
@@ -145,10 +148,13 @@ Note that this list mainly consists of external websites or programs that do not
 *<small>'''Timer:''' Has a timer.</small>
 *<small>'''Nightmare Mode:''' Accommodates Nightmare evidence rules.</small>
 *<small>'''Insanity Mode:''' Accommodates Insanity evidence rules.</small>
+*<small>'''Weekly Challenge Mode:''' Accommodates Weekly Challenge rules.</small>
+*'''<small>Custom Difficulty Mode:</small>''' <small>Accommodates user-defined Custom Difficulty rules.</small>
 *<small>'''Software:''' Is an over the top/overlay application to run over the game.</small>
 *<small>'''Footsteps:''' Has a BPM counter for the rate of ghost footsteps.</small>
 *<small>'''Voice Control:''' App can be controlled through voice recognition</small>
 *<small>'''Blood Moon mode:''' Supports Blood Moon mechanics</small>
+*'''<small>Weather:</small>''' <small>Supports control over in-game Weather and some Temperature mechanics</small>
 |}
 
 ==Visual enhancements==
