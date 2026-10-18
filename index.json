@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T00:38:53.436Z",
+  "generated": "2026-10-18T05:07:53.600Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -961,8 +961,8 @@
       {
         "t": "Third-party tools",
         "f": "pages/en/Third-party tools.txt",
-        "b": 8285,
-        "r": 25105,
+        "b": 8266,
+        "r": 25106,
         "x": "This page provides a list of '''third-party tools''' you may use to aid your investigations in ''Phasmophobia''. Note that this list mainly consists of external websites or programs that do not modify the game files. Mod"
       },
       {

@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-17T00:38:53.734Z",
+  "updated": "2026-10-18T05:07:53.948Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -776,8 +776,8 @@
       "redirect": true
     },
     "Third-party tools": {
-      "revid": 25105,
-      "ts": "2026-10-16T23:09:39Z",
+      "revid": 25106,
+      "ts": "2026-10-18T01:44:23Z",
       "redirect": false
     },
     "Experience": {

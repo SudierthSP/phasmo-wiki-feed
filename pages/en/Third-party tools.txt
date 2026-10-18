@@ -1,7 +1,7 @@
 # Third-party tools
-# revid 25105  2026-10-16T23:09:39Z  by TritiumStudios
-# 备注: Fix to previous self
-# sha256 f52f472a3cb633cf237bcba28c6cf13ac5c2fabd5b09bd9b91bde32cebceba75  bytes 8045
+# revid 25106  2026-10-18T01:44:23Z  by Darkhooper
+# 备注: correct link
+# sha256 58090333f4c7a81cee2b875bc2a38c23d2707e979a8b83740a782dcdae7ac18c  bytes 8038
 # 源: https://phasmophobia.fandom.com/api.php
 
 This page provides a list of '''third-party tools''' you may use to aid your investigations in ''Phasmophobia''.
@@ -22,7 +22,7 @@ Note that this list mainly consists of external websites or programs that do not
 |Primary Evidence, Secondary Evidence,  0 Evidence. Evidence Information, Ghost Information, Equipment Information, Cursed Possession Information. Footsteps. Passive/Active Sanity Drain tool. Weather/Room Temperature tool. Maps. Objectives. Timer (Operation Phase, Smudge, Cooldown, Hunt, Fingerprints). Nightmare Mode, Insanity Mode, Weekly Challenge Mode, Custom Difficulty Mode. Blood Moon Mode. Multi-Language. Newsletter.
 |Android
 |[https://play.google.com/store/apps/details?id=com.TritiumGaming.phasmophobiaevidencepicker Google Play]<br>[https://discord.gg/C9XCCQY3dA Discord]
-|[[0.17.1.5|0.19.1]]
+|[[0.19.1.0]]
 |TritiumStudios
 |-
 |Unofficial Phasmophobia Cheat Sheet
