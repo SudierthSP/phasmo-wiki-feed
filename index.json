@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T05:07:53.600Z",
+  "generated": "2026-10-19T06:50:18.737Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -58,8 +58,8 @@
       {
         "t": "Salt",
         "f": "pages/en/Salt.txt",
-        "b": 6140,
-        "r": 24412,
+        "b": 6587,
+        "r": 25110,
         "x": "{{Equipment Template | tier i img=Salt090_T1.png | tier ii img=Salt090_T2.png | tier iii img=Salt090_T3.png | price=$15 | maxamount=3 | uses=Depends | starter=No | tier i level=8 | tier ii level=39 | tier iii level=65 | "
       },
       {
@@ -114,8 +114,8 @@
       {
         "t": "Incense",
         "f": "pages/en/Incense.txt",
-        "b": 11549,
-        "r": 23285,
+        "b": 11639,
+        "r": 25107,
         "x": "{{Equipment Template | tier i img=Incense090_T1.png | tier ii img=Incense090_T2.png | tier iii img=Incense090_T3.png | price=$15 | maxamount=4 | uses=1 | starter=No | tier i level=14 | tier ii level=37 | tier iii level=8"
       },
       {
@@ -464,8 +464,8 @@
       {
         "t": "Sanity",
         "f": "pages/en/Sanity.txt",
-        "b": 9545,
-        "r": 24224,
+        "b": 9207,
+        "r": 25108,
         "x": "'''Sanity''' is a value which determines a number of things during gameplay. Sanity usually begins at 100% at the start of a game and decreases as the game progresses. The lower the average sanity, the more likely a ghos"
       },
       {

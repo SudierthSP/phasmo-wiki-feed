@@ -1138,3 +1138,6 @@
 {"ts":"2026-10-13T20:38:59.782Z","lang":"en","title":"ID Card","revid":25103,"prevRevid":25079,"kind":"edit","user":"Darkhooper","comment":"new AHA requirements","bytes":24357,"pageTs":"2026-10-13T16:23:24Z"}
 {"ts":"2026-10-17T00:38:53.734Z","lang":"en","title":"Third-party tools","revid":25105,"prevRevid":24693,"kind":"edit","user":"TritiumStudios","comment":"Fix to previous self","bytes":8045,"pageTs":"2026-10-16T23:09:39Z"}
 {"ts":"2026-10-18T05:07:53.948Z","lang":"en","title":"Third-party tools","revid":25106,"prevRevid":25105,"kind":"edit","user":"Darkhooper","comment":"correct link","bytes":8038,"pageTs":"2026-10-18T01:44:23Z"}
+{"ts":"2026-10-19T06:50:19.139Z","lang":"en","title":"Salt","revid":25110,"prevRevid":24412,"kind":"edit","user":"Darkhooper","comment":"clarified when the list is cleared","bytes":6350,"pageTs":"2026-10-19T05:58:23Z"}
+{"ts":"2026-10-19T06:50:19.139Z","lang":"en","title":"Incense","revid":25107,"prevRevid":23285,"kind":"edit","user":"Darkhooper","comment":"Repel objective requirement","bytes":11405,"pageTs":"2026-10-19T03:38:11Z"}
+{"ts":"2026-10-19T06:50:19.139Z","lang":"en","title":"Sanity","revid":25108,"prevRevid":24224,"kind":"edit","user":"Darkhooper","comment":"drain rate in dim rooms / moroi / phantom / objectives / tasks","bytes":8940,"pageTs":"2026-10-19T04:02:20Z"}

@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-18T05:07:53.948Z",
+  "updated": "2026-10-19T06:50:19.139Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -41,8 +41,8 @@
       "redirect": false
     },
     "Salt": {
-      "revid": 24412,
-      "ts": "2026-08-03T16:51:42Z",
+      "revid": 25110,
+      "ts": "2026-10-19T05:58:23Z",
       "redirect": false
     },
     "EMF": {
@@ -86,8 +86,8 @@
       "redirect": false
     },
     "Incense": {
-      "revid": 23285,
-      "ts": "2026-04-30T20:14:29Z",
+      "revid": 25107,
+      "ts": "2026-10-19T03:38:11Z",
       "redirect": false
     },
     "Wraith": {
@@ -346,8 +346,8 @@
       "redirect": false
     },
     "Sanity": {
-      "revid": 24224,
-      "ts": "2026-07-22T17:49:40Z",
+      "revid": 25108,
+      "ts": "2026-10-19T04:02:20Z",
       "redirect": false
     },
     "Ghost Event": {

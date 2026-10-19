@@ -1,6 +1,7 @@
 # Sanity
-# revid 24224  2026-07-22T17:49:40Z  by DKToldMe
-# sha256 d6c8273e0148f981e2eabfa230933dba0b79a82e14278e424f2a398f6ec043d2  bytes 9353
+# revid 25108  2026-10-19T04:02:20Z  by Darkhooper
+# 备注: drain rate in dim rooms / moroi / phantom / objectives / tasks
+# sha256 b47a568d93efe79d751310064513dae6f3800daaede57c5da189e24fb315427b  bytes 8940
 # 源: https://phasmophobia.fandom.com/api.php
 
 '''Sanity''' is a value which determines a number of things during gameplay. Sanity usually begins at 100% at the start of a game and decreases as the game progresses. The lower the average sanity, the more likely a ghost is to perform certain actions.
@@ -14,15 +15,14 @@ At the start of the contract, once an [[exit door]] has been opened, players' sa
 
 All ghosts have a specific hunt sanity threshold below which they will be able to attempt a hunt. The [[Banshee]] is the only ghost which uses its target's sanity to decide whether to hunt, while other effects still use average sanity.
 
-When a player reaches 0% sanity, nothing noteworthy occurs, save for the completion of the "Reach 0 sanity" [[Daily and Weekly Tasks|Daily Task]] if available and not yet completed that day. Sanity cannot go into the negatives.
+When a player reaches 0% sanity, nothing noteworthy occurs, save for the completion of the "Reach 0 sanity" [[Daily and Weekly Tasks|daily task]] if available and not yet completed that day. Sanity cannot go into the negatives.
 
 ===Passive drain===
-Whether passive sanity drain is applied depends on the status of the lights in the room. In most rooms, sanity drain will be prevented by turning on all of their "main lights", these generally being ceiling light sources controlled by wall switches, rather than lamps or televisions, of which will still provide visibility when turned on but will not block sanity drain. In larger rooms with multiple dark spots (e.g. most hallways in [[Sunny Meadows Mental Institution]]), sanity drain will not be blocked entirely even with the lights on, but will instead be reduced to 80% of the normal rate. Additionally, being near a [[firelight]] will reduce sanity drain by a variable percentage based on the tier of the item, even if the room's lights are off.<!-- Presumably, it's a one-or-the-other; candle light doesn't take that 20% and then multiply it by 33-66%. -->
+Whether passive sanity drain is applied depends on the status of the lights in the room. In most rooms, sanity drain will be prevented by turning on all of their "main lights", these generally being ceiling light sources controlled by wall switches, rather than lamps or televisions, of which will still provide visibility when turned on but will not block sanity drain.
 
-Examples of situations that will ''not'' prevent passive sanity drain include:
-*''Holding'' a lit flashlight of any type
-*Standing in front of an active computer, even though it ''technically'' counts as a light source
-*Turning up the game's brightness
+In some specific rooms with all main lights on (mostly large rooms) or when a room with multiple main lights has at least one turned on but not all of them, sanity drain will not be blocked entirely. Instead, the drain rate will have a 80% chance to be applied each second.
+
+Being near a [[firelight]] will reduce sanity drain by a variable percentage based on the tier of the item, even if the room's lights are off.
 
 Protections against passive sanity drain do not apply to other types of drains.
 
@@ -58,24 +58,24 @@ Playing solo will further halve the rate of sanity drain.
 *When a player dies, all players (including dead players) will lose 15% sanity.
 
 Ghosts can drain the player's sanity in several ways:
-*For all ghosts, if the target for most ghost events (not to be confused with a Banshee target) collides with the ghost or smoke ball, causing it to disappear, that player loses 10% of their sanity.
+*For all ghosts, if the target for most ghost events (not to be confused with a Banshee target) collides with the ghost or mist form, causing it to disappear, that player loses 10% of their sanity.
 **If the [[Banshee]] performs a singing event on its hunt target and they collide with the ghost in this manner, they lose 15% sanity instead.
 **Colliding with the [[Oni]] during any form of ghost event deducts 20% sanity instead.
 *The [[Jinn]] will occasionally use an ability that drains the sanity of a nearby player by 25%, which can only be used if the breaker is turned on.
 *The [[Yurei]] will occasionally use an ability that closes a door in its room and drains the sanity of all nearby players by 15%, which can only be used if there is at least one opened door in its room.
-*Being cursed by the [[Moroi]], caused by a response on the [[Parabolic Microphone|parabolic microphone]] or [[Spirit Box]], causes the player to double their passive sanity drain, and lights will not negate this sanity drain nor will [[Firelight|Firelights]] lower it.
-*Being within 10 metres of a manifested [[Phantom]] while in pseudo line-of-sight (where heartbeats play) further drops the player's sanity at a rate of approximately 0.5%/s.
+*Being cursed by the [[Moroi]] causes the player to double their passive sanity drain, and lights will not negate this sanity drain.
+*The [[Phantom]] causes an additional drain rate of 0.5%/s multiplied by the number of players hearing their heartbeats.
 *When the [[Poltergeist]] uses its ability to throw multiple items, the sanity of nearby players will decrease by 2% times the number of objects thrown.
 
 ===Equipment sanity gain/loss===
 Sanity can be directly gained or lost through certain equipment:
 *[[Sanity Pills]]: Restores between 0% to 100% of individual sanity depending on the difficulty over a period of time.
 *[[Haunted Mirror]]: Each usage costs 20% sanity or 7.5% per second, whichever is higher.
-*[[Monkey Paw]]: Using ''I wish to be sane'' sets all players' sanities to 50%, and increases the passive sanity drain rate by 50%. Using any weather wish reduces sanity by 25%.
+*[[Monkey Paw]]: Using "I wish to be sane" sets all players' sanities to 50% and multiplies the passive sanity drain rate by 1.5. Using any weather wish reduces sanity by 25%.
 *[[Music Box]]: Being within 3 metres of an active music box drains sanity by 2.6% per second.
 *[[Ouija Board]]: Each question asked deducts a certain amount of sanity from the player, depending on the type of question.
 *[[Summoning Circle]]: Each candle lit deducts 16% sanity from nearby players.
-*[[Tarot Cards]]: Drawing the card ''The Sun'' restores the player's sanity to 100%, while drawing the card ''The Moon'' drains the player's sanity completely, setting it at 0%. In addition, ''The Wheel of Fortune'', can either add 25% sanity (if the card burns green), or deduct 25% (if the card burns red).
+*[[Tarot Cards]]: Drawing the card ''The Sun'' restores the player's sanity to 100%, while drawing the card ''The Moon'' drains the player's sanity completely, setting it at 0%. Drawing ''The Wheel of Fortune'' can either add 25% sanity (if the card burns green) or deduct 25% (if the card burns red).
 *[[Voodoo Doll]]: Each pin deducts 5% sanity, except for the heart pin which deducts 10%.
 
 ===Protections===
@@ -83,11 +83,23 @@ Sanity can be directly gained or lost through certain equipment:
 
 ==Objectives==
 {{Main|Objectives}}
-*Get an average sanity below 25%
+{| class="article-table"
+!Objective
+!Actual requirements
+|-
+|Get an average sanity below 25%
+| -
+|}
 
 ==Tasks==
 {{Main|Daily and Weekly Tasks}}
-*Reach 0 sanity ($50/50 XP)
+{| class="article-table"
+!Task
+!Actual requirements
+|-
+|Reach 0 sanity
+| -
+|}
 
 ==Related difficulty settings==
 {{Main|Difficulty}}

@@ -1,6 +1,7 @@
 # Incense
-# revid 23285  2026-04-30T20:14:29Z  by 405 M3th0d
-# sha256 8416caeca1de3bf1095e923b2afe4fa7a78f51680896c88aa84067a184ec8bab  bytes 11353
+# revid 25107  2026-10-19T03:38:11Z  by Darkhooper
+# 备注: Repel objective requirement
+# sha256 d6f0607a34b62d5e4ded0668530f9f71d4e2b90ba1133b05cf98173523c73b6c  bytes 11405
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -96,7 +97,7 @@ Smudge sticks.png|Pre-[[0.3.0|Exposition]] model being held in the player's hand
 |Light Incense within range of the ghost
 |-
 |Repel the Ghost with Incense while it's chasing someone
-|Smudge a hunting ghost while it has line-of-sight with a player, making it wander
+|Light Incense within range of a hunting ghost while it has line-of-sight with a player or while it is moving to a last known location
 |}
 
 ==Trivia==
