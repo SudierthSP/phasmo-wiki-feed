@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-19T06:50:19.139Z",
+  "updated": "2026-10-20T01:57:50.390Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -626,8 +626,8 @@
       "redirect": false
     },
     "Guides/Common misconceptions": {
-      "revid": 23863,
-      "ts": "2026-06-22T15:45:40Z",
+      "revid": 25111,
+      "ts": "2026-10-20T00:31:15Z",
       "redirect": false
     },
     "0.29.6": {

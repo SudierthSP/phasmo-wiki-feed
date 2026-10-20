@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T06:50:18.737Z",
+  "generated": "2026-10-20T01:57:49.530Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -765,8 +765,8 @@
       {
         "t": "Guides/Common misconceptions",
         "f": "pages/en/Guides_Common misconceptions.txt",
-        "b": 21749,
-        "r": 23863,
+        "b": 21836,
+        "r": 25111,
         "x": "This guide dispels '''common misconceptions''' and myths about game mechanics in ''Phasmophobia''. ==Investigation== ===Being in a lit room will always stop passive sanity drain=== Passive [[sanity]] drain is dependent o"
       },
       {

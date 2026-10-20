@@ -1,7 +1,6 @@
 # Guides/Common misconceptions
-# revid 23863  2026-06-22T15:45:40Z  by Darkhooper
-# 备注: The Kormos cannot see through walls.
-# sha256 c3fe4dcf3cc0f538c62b99c328e6d5ecf890de826b77d79a47589a5c8ef5d529  bytes 21485
+# revid 25111  2026-10-20T00:31:15Z  by Robovelcro
+# sha256 79544c1ea92c8561144ed1ecb6de667d55d101252ed27478930cb171c849eeda  bytes 21619
 # 源: https://phasmophobia.fandom.com/api.php
 
 This guide dispels '''common misconceptions''' and myths about game mechanics in ''Phasmophobia''.
@@ -41,7 +40,7 @@ Using the spirit box requires on-site lights in the player's current room to be 
 The only function of the [[crucifix]] is to ''prevent'' [[hunt]]s from happening if the ghost is within its effective range. Crucifixes will have no effect on the ghost once it starts hunting, even against [[Demon]]s. The only way to stop an ongoing hunt before its natural expiration is either for one player to be killed, which stops the hunt if ''Kills extend hunt duration'' is turned off, or all players to manage to leave the investigation area while a hunt is ongoing, the only legitimate method of doing so being using the [[Monkey Paw]] to unlock the exit doors and then walking outside.
 
 ===Using onsite objects or items has repercussions on the ghost's activity===
-Interacting with the map, furniture and objects, even in an excessive way, will not rile up or anger the ghost into hunting, performing a [[Ghost Event|ghost event]] or increasing its activity. The only map items that can trigger a hunt, event or activity from the ghost are [[Cursed Possession|cursed possessions]], depending on how the cursed possession is used.
+Interacting with the map, furniture and objects, even in an excessive way, will not rile up or anger the ghost into hunting, performing a [[Ghost Event|ghost event]] or increasing its activity. The only map items that can trigger a hunt, event or activity from the ghost are [[Cursed Possession|cursed possessions]], depending on how the cursed possession is used. The one exception to this rule is the [[Deildegast]], who will move slower during hunts as more objects are moved or interacted with.
 
 ==Maps==
 ===Certain map ambient sounds can hint at the ghost's location===
