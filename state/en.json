@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-20T01:57:50.390Z",
+  "updated": "2026-10-20T07:13:13.080Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -506,8 +506,8 @@
       "redirect": false
     },
     "Optional Objective": {
-      "revid": 6091,
-      "ts": "2021-07-09T00:04:03Z",
+      "revid": 25112,
+      "ts": "2026-10-20T02:24:57Z",
       "redirect": true
     },
     "Photo": {
