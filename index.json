@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T07:13:12.553Z",
+  "generated": "2026-10-20T20:52:30.931Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -86,8 +86,8 @@
       {
         "t": "Ultraviolet",
         "f": "pages/en/Ultraviolet.txt",
-        "b": 8675,
-        "r": 24411,
+        "b": 8655,
+        "r": 25113,
         "x": "{{Evidence_Infobox |image1=Fingerprints_3.png |detected_by=[[File:UVLight_Render.png|24x24px|link=UV Light]] [[UV Light]] }} {{Quote|speaker=The Journal|quote=Some Ghosts have been known to leave fingerprints on objects "
       },
       {
@@ -765,8 +765,8 @@
       {
         "t": "Guides/Common misconceptions",
         "f": "pages/en/Guides_Common misconceptions.txt",
-        "b": 21836,
-        "r": 25111,
+        "b": 21878,
+        "r": 25114,
         "x": "This guide dispels '''common misconceptions''' and myths about game mechanics in ''Phasmophobia''. ==Investigation== ===Being in a lit room will always stop passive sanity drain=== Passive [[sanity]] drain is dependent o"
       },
       {
