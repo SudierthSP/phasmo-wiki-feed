@@ -1,6 +1,6 @@
 # Crucifix
-# revid 24416  2026-08-04T01:36:40Z  by Darkhooper
-# 备注: changed file
+# revid 25121  2026-10-21T17:29:38Z  by Darkhooper
+# 备注: Undo revision [[Special:Diff/25120|25120]] by [[Special:Contributions/Galaxy11Amshs|Galaxy11Amshs]] ([[User talk:Galaxy11Amshs|talk]])
 # sha256 959cee767d04721ff1a1a8650900a5458dcd314c848982b74b1a280a592f19de  bytes 7625
 # 源: https://phasmophobia.fandom.com/api.php
 
