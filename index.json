@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T20:52:30.931Z",
+  "generated": "2026-10-21T07:33:53.285Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -268,8 +268,8 @@
       {
         "t": "Fuse Box",
         "f": "pages/en/Fuse Box.txt",
-        "b": 5365,
-        "r": 24259,
+        "b": 5582,
+        "r": 25119,
         "x": "{{Item Template |img=Fusebox 0.7 small.png |imgcaption=A fuse box in the garage of [[42 Edgefield Road]]. }}The '''fuse box''', '''breaker''', or '''generator''' is found on [[map]]s and may be turned on or off to power "
       },
       {
@@ -716,8 +716,8 @@
       {
         "t": "Spirit Box (Evidence)",
         "f": "pages/en/Spirit Box (Evidence).txt",
-        "b": 10295,
-        "r": 23460,
+        "b": 10532,
+        "r": 25117,
         "x": "{{Evidence_Infobox |detected_by=[[File:SpiritBox_Render.png|24x24px|link=Spirit Box]] [[Spirit Box]] |title1=Spirit Box |image1=SpiritBox_Ghost.png |caption1=The icon shown on a Tier 2 [[Spirit Box]] during a Ghost respo"
       },
       {
@@ -1080,8 +1080,8 @@
       {
         "t": "Voice chat",
         "f": "pages/en/Voice chat.txt",
-        "b": 8094,
-        "r": 24030,
+        "b": 8045,
+        "r": 25116,
         "x": "'''Voice chat''' is the primary mode of communication in ''Phasmophobia''. ==Player chat== Voice chat is used to communicate between players. ''Phasmophobia'' uses the Vivox voice chat system. [[Death|Dead]] players can "
       },
       {
@@ -2102,8 +2102,8 @@
       {
         "t": "Activity",
         "f": "pages/en/Activity.txt",
-        "b": 3346,
-        "r": 24240,
+        "b": 3606,
+        "r": 25118,
         "x": "'''Activity''' is a mechanic affecting how the [[ghost]] will interact with its environment, making it [[Interaction|move objects]], [[Roaming|roam]], use abilities, etc. ==Mechanics== ===Activity calculation=== By defau"
       },
       {

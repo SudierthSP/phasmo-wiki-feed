@@ -1,7 +1,7 @@
 # Spirit Box (Evidence)
-# revid 23460  2026-05-12T14:35:09Z  by Quietust
-# 备注: /* Possible ghosts */
-# sha256 0bcc101811d84c45c967cee168dde36b6dc0fb3b1951781204dc1bd2fe7b3620  bytes 10055
+# revid 25117  2026-10-21T05:49:21Z  by Darkhooper
+# 备注: that mechanic is currently bugged
+# sha256 fb9545ab45fba73b0389a549912b094b97fde8874252d9cc93dc6c6199cfc30c  bytes 10278
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Evidence_Infobox
@@ -23,6 +23,7 @@ In order to get a successful Spirit Box response from the ghost, all of the foll
 *All lights in said room must be '''off'''.  Light emitted from equipment, including electronic and non-electronic equipment, does not affect this. Lights in other rooms, including rooms or hallways that are directly adjacent, may be left on, and any doors between the rooms can stay open.
 *Ghosts which respond only to "people who are alone" will respond only if there is a single person in the room at the moment the question is asked. If the ghost is noted to respond to everyone, the number of people in the room does not affect the ghost's ability to respond. If the [[difficulty]] has a setup time (e.g. Amateur and Intermediate), this will be indicated on the cork board and in the journal.
 *If all other conditions are met, there is a chance of the ghost responding per question asked. The chance depends on the tier of the Spirit Box: 50%, 60%, 70% for tiers 1, 2, 3, respectively.
+**The following mechanic is currently bugged and does not work at all: saying the ghost's name or [[Voice chat#Voice recognition|recognized phrases]] near the ghost will increase the response chances by 10% for 20 seconds.
 
 If the player is particularly unlucky, a combination of these factors may cause the Spirit Box to repeatedly turn the LEDs red, or show an 'X', despite the ghost having Spirit Box as one of its evidences.
 

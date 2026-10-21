@@ -1,7 +1,7 @@
 # Fuse Box
-# revid 24259  2026-07-24T04:37:13Z  by VVSlavik
-# 备注: Added the corresponding Russian interlanguage link
-# sha256 90e297fe42dd16142da82106771b4edb219c5345626eb6028b2796f20e2ef138  bytes 5110
+# revid 25119  2026-10-21T05:58:05Z  by Darkhooper
+# 备注: added bugged recognized phrases mechanic
+# sha256 075ce183645e3379cd4e8e502529a5e35caa65daada67954479228a1baf8ee39  bytes 5335
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Item Template
@@ -47,6 +47,8 @@ Some ghosts have special interactions or abilities concerning the fuse box:
 **Occasionally use a special ability to drain the sanity of a nearby player by 25%
 *The [[Hantu]] cannot turn on the fuse box and has a doubled chance of turning it off.
 **If it is hunting while the fuse box is off or broken, it will emit freezing breath near its ghost model's head.
+
+The following mechanic is currently bugged and does not work at all: saying the ghost's name or [[Voice chat#Voice recognition|recognized phrases]] near the ghost has 0.5% chance to force the ghost to turn off the fuse box.
 
 ===Related custom difficulty options===
 *'''Fuse box at start of contract:''' Broken/Off/On

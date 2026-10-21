@@ -1,7 +1,7 @@
 # Activity
-# revid 24240  2026-07-24T04:34:11Z  by VVSlavik
-# 备注: Added the corresponding Russian interlanguage link
-# sha256 442173c8e14db63f78cc48fe855b01165b9a0fdcbc527c0966ed30878e72e831  bytes 3091
+# revid 25118  2026-10-21T05:53:44Z  by Darkhooper
+# 备注: added bugged recognized phrases mechanic
+# sha256 ea40d3586c8fee95e9be1dbea1cd0e3d6d71e8128210d3c97f67cc0bd6c789c5  bytes 3359
 # 源: https://phasmophobia.fandom.com/api.php
 
 '''Activity''' is a mechanic affecting how the [[ghost]] will interact with its environment, making it [[Interaction|move objects]], [[Roaming|roam]], use abilities, etc.
@@ -13,6 +13,8 @@ By default, the [[ghost]] starts with an activity level of 0 at 100% average [[s
 Playing solo will increase the activity by 15.
 
 When the ghost is affected by [[Incense]], activity will increase by a random number between 20 and 29. This number decreases by 0.5 every second.
+
+The following mechanic is currently bugged and does not work at all: saying the ghost's name or [[Voice chat#Voice recognition|recognized phrases]] near the ghost will increase activity by a random number between 10 and 24. This number decreases by 0.5 every second.
 
 Some ghosts have additional modifiers to the activity:
 *If a player is within 6 metres or in the same room as the [[Oni]], activity will increase by 30.

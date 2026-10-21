@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-20T20:52:31.543Z",
+  "updated": "2026-10-21T07:33:53.551Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -201,8 +201,8 @@
       "redirect": false
     },
     "Fuse Box": {
-      "revid": 24259,
-      "ts": "2026-07-24T04:37:13Z",
+      "revid": 25119,
+      "ts": "2026-10-21T05:58:05Z",
       "redirect": false
     },
     "Sink": {
@@ -591,8 +591,8 @@
       "redirect": true
     },
     "Spirit Box (Evidence)": {
-      "revid": 23460,
-      "ts": "2026-05-12T14:35:09Z",
+      "revid": 25117,
+      "ts": "2026-10-21T05:49:21Z",
       "redirect": false
     },
     "D.O.T.S. Projector (Evidence)": {
@@ -871,8 +871,8 @@
       "redirect": false
     },
     "Voice chat": {
-      "revid": 24030,
-      "ts": "2026-07-11T21:17:26Z",
+      "revid": 25116,
+      "ts": "2026-10-21T05:48:50Z",
       "redirect": false
     },
     "0.5.2.0": {
@@ -1786,8 +1786,8 @@
       "redirect": false
     },
     "Activity": {
-      "revid": 24240,
-      "ts": "2026-07-24T04:34:11Z",
+      "revid": 25118,
+      "ts": "2026-10-21T05:53:44Z",
       "redirect": false
     },
     "Ability": {
