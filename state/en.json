@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-21T18:03:43.417Z",
+  "updated": "2026-10-21T21:38:46.009Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -1006,8 +1006,8 @@
       "redirect": false
     },
     "Sunny Meadows Mental Institution": {
-      "revid": 25052,
-      "ts": "2026-10-04T16:57:16Z",
+      "revid": 25122,
+      "ts": "2026-10-21T18:06:58Z",
       "redirect": false
     },
     "0.6.2.3": {
@@ -1836,8 +1836,8 @@
       "redirect": false
     },
     "Kormos": {
-      "revid": 25047,
-      "ts": "2026-10-02T15:57:47Z",
+      "revid": 25123,
+      "ts": "2026-10-21T18:30:12Z",
       "redirect": false
     },
     "0.17.1.1": {

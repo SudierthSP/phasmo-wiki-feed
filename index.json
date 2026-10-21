@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T18:03:42.876Z",
+  "generated": "2026-10-21T21:38:45.363Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -1234,8 +1234,8 @@
       {
         "t": "Sunny Meadows Mental Institution",
         "f": "pages/en/Sunny Meadows Mental Institution.txt",
-        "b": 30042,
-        "r": 25052,
+        "b": 30031,
+        "r": 25122,
         "x": "{{Location |img=Smmi updated1.png |imgcaption=Main entrance porch. |mapsize=Large |floors=2 |unlocklevel=17 |rooms=69 (Total) *1F: 44 *B: 22 *Staircases: 3 *53 possible ghost rooms |exits=1 |faucets=22 |videofeeds=8 |key"
       },
       {
@@ -2172,8 +2172,8 @@
       {
         "t": "Kormos",
         "f": "pages/en/Kormos.txt",
-        "b": 7714,
-        "r": 25047,
+        "b": 7754,
+        "r": 25123,
         "x": "{{Ghost |image1= |strength=*Higher hunt sanity threshold when nearby players sprint outside hunts. *Can detect a player's footsteps from far away during a hunt. |weakness(es)=*Nearly blind and cannot see still players or"
       },
       {

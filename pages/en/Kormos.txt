@@ -1,7 +1,7 @@
 # Kormos
-# revid 25047  2026-10-02T15:57:47Z  by Darkhooper
-# 备注: Kormos strategy with tarot cards
-# sha256 ba690fe0d03ad750e1969e74e720e3623d7a0d87dae1453b60fe8d42dbce4aa9  bytes 7477
+# revid 25123  2026-10-21T18:30:12Z  by Darkhooper
+# 备注: clarification
+# sha256 9f2343ec48bc75fe6b805b63f840eb73e4fb886602fdfbf599d8f2379d929081  bytes 7536
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -33,7 +33,7 @@ The Kormos has a base speed of 1.7 m/s. Its current speed is multiplied by 1.3 i
 ====Sound Detection====
 Additionally to the detection from voice and electronics, the Kormos has a heightened hearing that allows it to detect footsteps sounds emitted by nearby players. Other types of sounds such as the player's breathing or an object throw do not count. The game stores only one sound per player.
 
-Every second starting from the beginning of the hunt, excluding the grace period and an [[Incense]]'s blinding effect, the Kormos will use a "hearing pulse" that first clears a list of detected sounds before checking again for recently emitted footstep sounds. The check is successful if a sound (lasting approximately 0.2-0.4 seconds) overlaps with the hearing pulse. A sound will however be ignored if it has been emitted outside of the ranges listed in the table below, if the sound is not located on the same floor as the ghost, or if the pathing distance between the ghost and the sound's location is strictly greater than 1.5 times the range. Valid sounds are added to the list of detected sounds.
+Every second starting from the beginning of the hunt, excluding the grace period and an [[Incense]]'s blinding effect, the Kormos will use a "hearing pulse" that first clears a list of detected sounds before checking again for recently emitted footstep sounds. The check is successful if a sound (lasting approximately 0.2-0.4 seconds) overlaps with the hearing pulse. A sound will however be ignored if it has been emitted outside of the corresponding detection range listed in the table below, if the sound is not located on the same floor as the ghost, or if the pathing distance between the ghost and the sound's location is strictly greater than 1.5 times the corresponding detection range. Valid sounds are added to the list of detected sounds.
 {| class="fandom-table"
 !Priority
 !Player movement
@@ -51,9 +51,9 @@ Every second starting from the beginning of the hunt, excluding the grace period
 |Walking while crouched
 |10 metres
 |}
-<br>If the Kormos was not already travelling to a detection waypoint or LoS waypoint, it will read the list of detected sounds and select the one with the highest priority, or the nearest if there are multiple of the same priority. A timer of 5-10 seconds will then start and a detection waypoint will be placed on the player's exact location.
+<br>If the Kormos was not already travelling to a detection waypoint or LoS waypoint, it will read the list of detected sounds and select the one with the highest priority, or the nearest if there are multiple of the same priority. A timer of 5-10 seconds will then start and a detection waypoint will be placed at the sound's location. At the end of that timer, it will perform a sound check before restarting the timer.
 
-If the list of detected sounds contains a sound after the timer expires or after the Kormos reaches the detection waypoint, it will set a new detection waypoint at the sound's location rather than the player's exact location then restart the timer. Otherwise, it will simply return to a wandering phase (after reaching the detection waypoint if it hasn't reached it yet).
+If the list of detected sounds contains a sound after the timer expires or after the Kormos reaches the detection waypoint, it will set a new detection waypoint at that sound's location. Otherwise, it will simply return to a wandering phase upon reaching the detection waypoint, which also ends the timer.
 
 ==Evidence==
 <center>

@@ -1,7 +1,7 @@
 # Sunny Meadows Mental Institution
-# revid 25052  2026-10-04T16:57:16Z  by Darkhooper
-# 备注: Foyer cannot be fav room on SMRestricted-Hospital / explanation on why the bone fails to spawn in Foyer on SMRestricted
-# sha256 ec3cf17bc5486ca41bb41fda9775741cbbe7acb91a4e28b4103505de5369344b  bytes 29691
+# revid 25122  2026-10-21T18:06:58Z  by Darkhooper
+# 备注: trivia for Sunny Restricted
+# sha256 66587ce52ffcc5f9a1bb35ab4d79ff2dff5fe508f4a88d66434b3273ee22f276  bytes 29772
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Location
@@ -862,6 +862,7 @@ The Apocalypse Challenge can only be completed in Sunny Meadows. This is indicat
 *Sunny Meadows Restricted was originally a Small map, and was changed to Medium in 0.10.0, making it the second map to change size classes across versions of the game.
 *Female Day Room, Male Day Room, as well as West Visitors' Room each have a standing lamp that needs to be turned on in addition to the main room lights for full sanity drain prevention.
 *The stairs in Right Entrance Stairwell look to lead to a possible upper floor, however they are blocked up.
+*The same variation of Sunny Meadows Restricted cannot be chosen twice in a row.
 
 ==Easter eggs==
 *The map contains various elements which seems to be telling the story of one of the [[Ghost Model|ghost models]], semi-officially named ''Patient 07''.
