@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T21:38:45.363Z",
+  "generated": "2026-10-22T18:59:06.195Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -233,8 +233,8 @@
       {
         "t": "Demon",
         "f": "pages/en/Demon.txt",
-        "b": 7620,
-        "r": 24442,
+        "b": 7771,
+        "r": 25124,
         "x": "{{Ghost |image1=Demon Discovered.jpg |strength=*Lower hunt cooldown than other ghosts *Higher hunt sanity threshold *Smudging prevents hunts for shorter |abiliti(es)=*Rare chance to hunt at any sanity percentage |weaknes"
       },
       {
