@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-23T15:17:38.524Z",
+  "updated": "2026-10-23T19:24:00.678Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -176,8 +176,8 @@
       "redirect": false
     },
     "Demon": {
-      "revid": 25127,
-      "ts": "2026-10-23T14:39:51Z",
+      "revid": 25139,
+      "ts": "2026-10-23T17:24:32Z",
       "redirect": false
     },
     "Revenant": {
@@ -801,8 +801,8 @@
       "redirect": false
     },
     "Summoning Circle": {
-      "revid": 24663,
-      "ts": "2026-09-14T19:22:03Z",
+      "revid": 25138,
+      "ts": "2026-10-23T15:36:32Z",
       "redirect": false
     },
     "Music Box": {
@@ -1211,8 +1211,8 @@
       "redirect": false
     },
     "Monkey Paw": {
-      "revid": 24862,
-      "ts": "2026-09-18T08:42:19Z",
+      "revid": 25137,
+      "ts": "2026-10-23T15:23:24Z",
       "redirect": false
     },
     "0.8.1.1": {
@@ -1746,8 +1746,8 @@
       "redirect": false
     },
     "Dayan": {
-      "revid": 25134,
-      "ts": "2026-10-23T15:06:19Z",
+      "revid": 25141,
+      "ts": "2026-10-23T18:43:29Z",
       "redirect": false
     },
     "Gallu": {

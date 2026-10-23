@@ -1,7 +1,7 @@
 # Monkey Paw
-# revid 24862  2026-09-18T08:42:19Z  by Darkhooper
-# 备注: added details for safety wish / retested anything and knowledge wishes.
-# sha256 9f3482a264e7ea6f12780482ccebcfd9ed17d62e9766ff085a6e59100683566f  bytes 10179
+# revid 25137  2026-10-23T15:23:24Z  by Darkhooper
+# 备注: host/non-host issues
+# sha256 f0ba3be07e6426825cf067d007ee8fa983ce0e99404b8266fc2897e49cef070f  bytes 10564
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Item_Template
@@ -43,13 +43,13 @@ Most wishes can be found on tags scattered in [[Sunny Meadows]], these tags look
 |
 *I wish for activity
 *I wish the ghost would do something
-|Doubles all [[Activity|ghost activity]] for 2 minutes. The [[Fuse Box|fuse box]] will break permanently, and all exit doors will be locked for 2 minutes.
+|Doubles all [[Activity|ghost activity]] for 2 minutes. The [[Fuse Box|fuse box]] will break permanently, and all exit doors will be locked for 2 minutes.<ref group="note">There is a bug where if the host leaves the game while exit doors are locked, they will remain locked until the end of a hunt.</ref>
 |Chapel
 |-
 |
 *I wish the ghost was trapped
 *I wish to trap the ghost
-|Applies the cleansing effect from [[Incense]] on the ghost and teleports it to its [[Ghost Room|favorite room]]. All [[door]]s connected to the  favourite room and all doors connected to the wisher's current room will lock for 60 seconds. There is a 25% chance that doors connected to the wisher's current room are locked for 60 seconds plus a duration equal to the grace period instead. The ghost will not be able to [[hunt]], [[Roaming|roam]], or use abilities for 60.5 seconds. After this period, the ghost will start a standard hunt.<ref group="note">This hunt cannot be prevented by incensing the ghost beforehand and only an unused tier III crucifix will prevent the hunt (consuming both charges). This is likely a bug and therefore not intended.</ref>
+|Applies the cleansing effect from [[Incense]] on the ghost and teleports it to its [[Ghost Room|favorite room]]. All [[door]]s connected to the  favourite room and all doors connected to the wisher's current room will lock for 60 seconds.<ref group="note">There is a bug where if the host uses this wish and leaves the game while the doors of their current room are locked, they will remain locked forever. Additionally, the hunt from this wish will not be triggered.</ref> There is a 25% chance that doors connected to the wisher's current room are locked for 60 seconds plus a duration equal to the grace period instead. The ghost will not be able to [[hunt]], [[Roaming|roam]], or use abilities for 60.5 seconds. After this period, the ghost will start a standard hunt.<ref group="note">This hunt cannot be prevented by incensing the ghost beforehand and only an unused tier III crucifix will prevent the hunt (consuming both charges). This is likely a bug and therefore not intended.</ref>
 |Female Dorm Room
 |-
 ! rowspan="3" |Player

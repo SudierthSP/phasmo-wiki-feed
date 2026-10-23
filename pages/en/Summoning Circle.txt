@@ -1,7 +1,7 @@
 # Summoning Circle
-# revid 24663  2026-09-14T19:22:03Z  by Darkhooper
-# 备注: added bug note
-# sha256 67a71d299e41a7ebdd6d680cf6fda47fe676e42302db8e4a496a2b0ca4f6c3c0  bytes 5000
+# revid 25138  2026-10-23T15:36:32Z  by Darkhooper
+# 备注: host/non-host issue
+# sha256 b75aa247066eef7e0b9354b340ad073bd580440f7e40a598f3808299a03f0486  bytes 5194
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Item_Template
@@ -22,7 +22,7 @@ Summoning circle candles can be blown out by the ghost, in the same way as regul
 
 [[File:SummoningCircleNormal.gif|thumb|245x245px|A standard ghost's summoning event]]
 [[File:SummoningCircleShadeShadow.gif|thumb|245x245px|A Shade's summoning event]]
-Once all five candles are lit, the ghost is summoned in its full form and facing the closest player, except the [[Shade]], which has a 50% chance of using a shadow form instead. The summoned ghost stays motionless for 5 seconds, unable to kill players. This stationary period is considered a ghost event. However, the front door will lock immediately after lighting the last candle. After this event, the lights in the ghost's current room will turn off and the ghost will immediately initiate a [[Hunt#Cursed hunts|cursed hunt]] on the spot, without an additional 1-second grace period. Once the summoning circle is activated, it cannot be used again.
+Once all five candles are lit, the ghost is summoned in its full form and facing the closest player, except the [[Shade]], which has a 50% chance of using a shadow form instead. The summoned ghost stays motionless for 5 seconds, unable to kill players. This stationary period is considered a ghost event. However, the [[Exit Door|exit door]] will lock immediately after lighting the last candle. After this event, the lights in the ghost's current room will turn off and the ghost will immediately initiate a [[Hunt#Cursed hunts|cursed hunt]] on the spot, without an additional 1-second grace period.<ref group="note">There is a bug where if the host leaves the game during the event, there will be no cursed hunt and the exit door will remain locked until the end of a hunt.</ref> Once the summoning circle is activated, it cannot be used again.
 
 If a candle is lit while below 16% individual sanity, there are two possibilities that might occur:
 *If it is not the last candle, the candle will extinguish itself after a short delay.<ref group="note" name="a" />

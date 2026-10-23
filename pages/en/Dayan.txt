@@ -1,7 +1,6 @@
 # Dayan
-# revid 25134  2026-10-23T15:06:19Z  by Darkhooper
-# 备注: trivia about host/non-host issue
-# sha256 76d85ce90c39e763d90fb4894f7f2d590e06e3e1fb51634e355f430e63226e8c  bytes 6919
+# revid 25141  2026-10-23T18:43:29Z  by Darkhooper
+# sha256 1d90dd94fb43ac26eeec33f0615a5d92442136e7ce1b179fc8590d018ac8d5eb  bytes 7035
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -60,7 +59,8 @@ In multiplayer, the Dayan's speed changes according to the closest player, even 
 While normally used for restoring sanity, a Tier III [[Sanity Medication]]'s speed boost can be used to escape the Dayan's ability range faster, assuming that the medication cannot be better used by restoring sanity before a hunt starts.
 
 ==Trivia==
-*A Dayan (or Daayan) is a malevolent ghostly presence derived in Indian, Pakistani and broader South Asian folklore. While the term in English typically describes a Dayan as a "Witch", it is more so described as a vengeful ghostly female spirit and not a living human. The folklore encourages the idea that they are a woman who would suffer from abuse and harsh cruelty and would return as a Daayan after her death. A Daayan would go on to haunt their family members and drink their blood, starting from the youngest male, draining his blood until he was an old man and then she would move on to other men of the family. It is also said that the Daayan would target younger families in order to "make the young become older".
+*A Dayan (or Daayan) is a malevolent ghostly presence derived in Indian folklore. While the term in English typically describes a Dayan as a "Witch", it is more so described as a vengeful ghostly female spirit and not a living human. The folklore encourages the idea that they are a woman who would suffer from abuse and harsh cruelty and would return as a Daayan after her death. A Daayan would go on to haunt their family members and drink their blood, starting from the youngest male, draining his blood until he was an old man and then she would move on to other men of the family. It is also said that the Daayan would target younger families in order to "make the young become older".
+*The term ''Daayan'' has been derived from the Sanskrit word ''dakini'', which refers to a female paranormal entity from ''patala'' (the netherworld).
 *The Dayan is one of two ghosts that can be instantly ruled out based on its gender, with the other being the [[Banshee]].
 *There is a bug where if the host leaves the game, the Dayan will cease all activity and will no longer be able to hunt. If a cursed hunt is triggered, the hunt will immediately end and the ghost's vocalization will persist outside of the hunt.
 

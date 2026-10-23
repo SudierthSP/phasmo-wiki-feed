@@ -1,7 +1,6 @@
 # Demon
-# revid 25127  2026-10-23T14:39:51Z  by Darkhooper
-# 备注: host/non-host issue
-# sha256 7a60c487cd8d1ce94fc5e4de87617da5b09ac9eba269fbe298fb8e4831540f27  bytes 7699
+# revid 25139  2026-10-23T17:24:32Z  by Darkhooper
+# sha256 fb9bd38c5a9054aa8d767def92222c2d7d94256c27cc0c3594e06d6090a360fa  bytes 7742
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -72,7 +71,7 @@ Additionally, while a ghost hunting above 70% average sanity is very likely to b
 *On 42 Edgefield Road, a Demon located in the Garage, Master Bedroom, or Hallway may be able to burn a [[crucifix]] which is still hanging in the truck, as its increased range covers portions of these rooms. Note that it is also possible for this to happen with other ghosts (especially with higher crucifix tiers which have a longer range), but the Demon is able to do this much more frequently.
 *In mythology, demons tend to have horrifying forms, being commonly depicted with horns, tails, claws, and other inhuman appendages. In-game, Demons draw from the regular pool of [[Ghost Model]]s without any sort of modifications.
 *The word "demon" comes from Ancient Greek "δαίμων" (daimōn), meaning "god", "godlike", "power", "fate", etc. It was used in contexts related to unknown/supernatural forces, both good and bad. As time progressed, the meaning became more negative thanks to Christianization.
-*When the Demon's ability fails for any reason, its next hunt will always be flagged as an ability hunt even if it was actually a natural hunt or a cursed hunt. However, if the host leaves the game after the ability fails, the next hunt will no longer be flagged as an ability hunt, unless the ability fails once more.
+*When the Demon's ability fails for any reason, its next hunt will always be flagged as an ability hunt even if it was actually a natural hunt or a cursed hunt. However, if the host leaves the game after the ability fails or if a hunt is prevented using a crucifix, the next hunt will no longer be flagged as an ability hunt, unless the ability fails once more.
 
 ==History==
 {| class="fandom-table"

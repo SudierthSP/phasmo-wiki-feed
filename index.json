@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T15:17:37.920Z",
+  "generated": "2026-10-23T19:24:00.306Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -233,8 +233,8 @@
       {
         "t": "Demon",
         "f": "pages/en/Demon.txt",
-        "b": 7922,
-        "r": 25127,
+        "b": 7935,
+        "r": 25139,
         "x": "{{Ghost |image1=Demon Discovered.jpg |strength=*Lower hunt cooldown than other ghosts *Higher hunt sanity threshold *Smudging prevents hunts for shorter |abiliti(es)=*Rare chance to hunt at any sanity percentage |weaknes"
       },
       {
@@ -996,8 +996,8 @@
       {
         "t": "Summoning Circle",
         "f": "pages/en/Summoning Circle.txt",
-        "b": 5229,
-        "r": 24663,
+        "b": 5428,
+        "r": 25138,
         "x": "{{Item_Template |img=Sc new1.jpg |imgcaption= |uses=1 |description= }}{{Quote|speaker=Objective Board|quote=This summoning circle looks dangerous.}} The '''summoning circle''' is a [[Cursed Possession|cursed possession]]"
       },
       {
@@ -1479,8 +1479,8 @@
       {
         "t": "Monkey Paw",
         "f": "pages/en/Monkey Paw.txt",
-        "b": 10460,
-        "r": 24862,
+        "b": 10794,
+        "r": 25137,
         "x": "{{Item_Template |img=Monkey Paw.png |imgcaption= |uses=3-5 (difficulty dependent) |description= }}{{Quote|speaker=Objective Board|quote=My wish came true, but at what cost?}} The '''Monkey Paw''' is a [[Cursed Possession"
       },
       {
@@ -2060,8 +2060,8 @@
       {
         "t": "Dayan",
         "f": "pages/en/Dayan.txt",
-        "b": 7155,
-        "r": 25134,
+        "b": 7228,
+        "r": 25141,
         "x": "{{Ghost |image1= |strength=*Moves quicker during hunts and hunts sooner when a player moves near the ghost |weakness(es)=*Moves slower during hunts and hunts later when a player stands still near the ghost |Evidence1=[[F"
       },
       {
