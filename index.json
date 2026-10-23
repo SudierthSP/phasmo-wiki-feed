@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T19:24:00.306Z",
+  "generated": "2026-10-23T22:27:28.303Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -23,8 +23,8 @@
       {
         "t": "Hunt",
         "f": "pages/en/Hunt.txt",
-        "b": 34776,
-        "r": 25046,
+        "b": 34897,
+        "r": 25142,
         "x": "<div class=\"mw-collapsible mw-collapsed\" style=\"width:400px; margin-left:1%; float:right; text-align:right\"> '''<span style=\"color:#efcf00\">This image has flashing lights.</span>'''<div class=\"mw-collapsible-content\">[[F"
       },
       {

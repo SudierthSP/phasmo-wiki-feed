@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-23T19:24:00.678Z",
+  "updated": "2026-10-23T22:27:28.906Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -16,8 +16,8 @@
       "redirect": false
     },
     "Hunt": {
-      "revid": 25046,
-      "ts": "2026-10-02T13:41:49Z",
+      "revid": 25142,
+      "ts": "2026-10-23T19:41:42Z",
       "redirect": false
     },
     "Evidence": {

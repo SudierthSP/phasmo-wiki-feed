@@ -1,7 +1,7 @@
 # Hunt
-# revid 25046  2026-10-02T13:41:49Z  by Darkhooper
-# 备注: Kormos uses normal killing range if it has LOS
-# sha256 ced3b6a5126844937e6b46c4abe6c874adc4f5853d79a6c309f3b81c3965ff6b  bytes 34526
+# revid 25142  2026-10-23T19:41:42Z  by Darkhooper
+# 备注: Kormos bug with closets/lockers/tents
+# sha256 7c26ff3a44cfb8d671118c89112409613c7a065ce93699fb8cba4f3ff508ad42  bytes 34656
 # 源: https://phasmophobia.fandom.com/api.php
 
 <div class="mw-collapsible mw-collapsed" style="width:400px; margin-left:1%; float:right; text-align:right">
@@ -302,7 +302,7 @@ During the hunt, the ghost will remember the last seen location of a player befo
 *The ghost can only remember one waypoint per hunt; the same waypoint does not carry across multiple hunts.
 
 =====Detection in hiding spots with doors=====
-If the player is detected in a closet, locker, or small tent, the ghost will set a waypoint just outside that location, then force open the door(s) of that hiding spot when it arrives, overriding the player holding the door if applicable. This usually results in death unless the player is standing in such a way that delays LoS from being achieved, and they can close the closet door again fast enough.
+If the player is detected in a closet, locker, or small tent, the ghost will set a waypoint just outside that location, then force open the door(s) of that hiding spot when it arrives, overriding the player holding the door if applicable.<ref group="note">There is a bug where if the Kormos detects the player through footstep sounds, it will not open the doors.</ref> This usually results in death unless the player is standing in such a way that delays LoS from being achieved, and they can close the closet door again fast enough.
 
 =====Hiding behind opened room doors=====
 If there is an opened room door in the ghost's [[interaction]] range, it will check if there are players within 1.5 metres of the door. If this is true, it will roam to the player's location and forcefully close the door, similar to how ghosts open closet/locker doors if a player is detected inside.<ref>[https://www.youtube.com/watch?v=NLGR394GidA ''Ghosts Finding You Behind Doors EXPLAINED'' | Phasmophobia | Psycho on YouTube]</ref>
