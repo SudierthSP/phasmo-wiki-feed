@@ -1,7 +1,6 @@
 # Gallu
-# revid 24413  2026-08-03T16:51:58Z  by Darkhooper
-# 备注: tier 3 salt slowing effect (info from YouJustWantEasy)
-# sha256 80c7008c5709a5026112e106647bae37895bb90e5caa9c48893f726393f9a10f  bytes 6201
+# revid 25129  2026-10-23T14:45:56Z  by Darkhooper
+# sha256 6612386fe9ffc2f01190a5445c9f2303450cd6bb5238c55a4ba704d2bdeb999e  bytes 6314
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -21,7 +20,7 @@
 The Gallu cannot disturb [[salt]] piles while in its enraged state.<ref group="note">There is currently a bug where non-hosts will not see salt piles being disturbed by the Gallu in its weakened or normal state for the rest of the contract once the ghost has been affected by incense. This is only visual and the Gallu will still change states.</ref> If it steps in a salt pile while in its weakened state, it can leave [[Ultraviolet#Footprints|footprints]] for a maximum of 3 seconds, leading to 6 footprints instead of 4 like with other ghosts.
 
 ===Ability===
-The Gallu has three states it can switch to: "normal", "enraged", and "weakened". By default, it starts in the normal state, where it behaves like a standard ghost. It will change from the normal state to the enraged state or from the weakened state to the normal state:
+The Gallu has three states it can switch to: "normal", "enraged", and "weakened". By default, it starts in the normal state, where it behaves like a standard ghost. It will change from the normal state to the enraged state or from the weakened state to the normal state:<ref group="note">There is a bug where if the host leaves the game, the Gallu is reset to its normal state.</ref>
 *instantly after burning a crucifix
 *instantly after the end of the incense's blinding effect during a hunt
 *after a duration equal to the last blinding effect from an incense after being affected by incense outside of a hunt

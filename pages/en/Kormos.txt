@@ -1,7 +1,7 @@
 # Kormos
-# revid 25123  2026-10-21T18:30:12Z  by Darkhooper
-# 备注: clarification
-# sha256 9f2343ec48bc75fe6b805b63f840eb73e4fb886602fdfbf599d8f2379d929081  bytes 7536
+# revid 25133  2026-10-23T14:59:52Z  by Darkhooper
+# 备注: multiple kills bug
+# sha256 867740aab1d24456a305fdcb8ed850480dc99778771a51abf6745432b26b6157  bytes 7727
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -24,7 +24,7 @@ The Kormos cannot perform [[Ghost Event#Mist Form|mist form]] and [[Ghost Event#
 ===Hunt===
 The Kormos has a [[hunt]] [[sanity]] threshold of 50% by default. It is increased to 70% if a player sprints in the same room as it.
 
-By default, the Kormos does not have line-of-sight. It can only achieve it if the player moves within 5 metres of it with no obstacles (e.g. furniture, walls). When having no line-of-sight, it can still kill players by simply colliding with them by chance. Due to this, its killing range is decreased; players die instantly when within 0.5 metres of the Kormos (as opposed to 1.1 metres with other ghosts) and after a delay of 1 second when within 0.6 metres of the Kormos (as opposed to 1.5 metres with other ghosts). The Kormos uses normal killing ranges if it does have line-of-sight.
+By default, the Kormos does not have line-of-sight. It can only achieve it if the player moves within 5 metres of it with no obstacles (e.g. furniture, walls). When having no line-of-sight, it can still kill players by simply colliding with them by chance. Due to this, its killing range is decreased; players die instantly when within 0.5 metres of the Kormos (as opposed to 1.1 metres with other ghosts) and after a delay of 1 second when within 0.6 metres of the Kormos (as opposed to 1.5 metres with other ghosts). The Kormos uses normal killing ranges if it does have line-of-sight.<ref group="note">There is a bug where the Kormos can kill multiple players simultaneouly while the 'Kills extend hunts' difficulty parameter is Off.</ref>
 
 Contrary to other ghosts, the Kormos can update its detection waypoint before reaching the previous one, after a timer of 5-10 seconds.
 
@@ -93,7 +93,10 @@ Outside of hunts, the Kormos can be eliminated if the ghost ever performs a mist
 ![[0.17.1.0]]
 |Added Kormos.
 |}
-[[ru:Кормос]]
-[[fr:Kormos]]
-[[Category:Ghosts]]
+
+==Notes==
+{{Reflist|group="note"}}
 {{GhostNav}}
+[[Category:Ghosts]]
+[[fr:Kormos]]
+[[ru:Кормос]]

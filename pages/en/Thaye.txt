@@ -1,7 +1,7 @@
 # Thaye
-# revid 23537  2026-05-13T21:49:46Z  by Darkhooper
-# 备注: Ghost Writing is not tied to activity level, DOTS is more frequent when Thaye ages
-# sha256 84cd606ccfc83c64923756d08a0cbc48f746b8a582cf77ea65e457511908b166  bytes 7830
+# revid 25132  2026-10-23T14:54:50Z  by Darkhooper
+# 备注: host/non-host issue
+# sha256 c5534ef32c47a53cb3809322070e9fc4dd19f69f549123b58040ffe5d0d50542  bytes 7970
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -23,7 +23,7 @@ When the Thaye chooses to perform a [[Ghost Event|ghost event]], it has a chance
 The Thaye is more likely to interact with [[door]]s compared to most other ghosts (30% chance instead of the 25% chance for a standard ghost).
 
 ===Ability===
-The Thaye has an internal "age" parameter that affects its general [[activity]]. The Thaye will attempt to age 1 minute after an [[exit door]] is opened for the first time; if at least one player is in the same room as the ghost or within 3 meters of it,<ref group="note">There is a bug where the Thaye can age with a player in a room directly below it.</ref> the Thaye will add 1 to its age and re-attempt to age after 1-2 minutes, else it will re-attempt to age after 30 seconds. If the Thaye successfully uses this ability during a hunt, the age increase will only be effective after the hunt.<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1245885002198028421 ''"...they will not age mid hunt, but will after the hunt."'' Shuee, Lead Quality Assurance (on Discord). 31 May 2024.]</ref> The following shows the parameters that are affected by age:
+The Thaye has an internal "age" parameter that affects its general [[activity]]. The Thaye will attempt to age 1 minute after an [[exit door]] is opened for the first time; if at least one player is in the same room as the ghost or within 3 meters of it,<ref group="note">There is a bug where the Thaye can age with a player in a room directly below it.</ref> the Thaye will add 1 to its age and re-attempt to age after 1-2 minutes, else it will re-attempt to age after 30 seconds.<ref group="note">There is a bug where if the host leaves the game, the Thaye will be stuck at its current age and will no longer age.</ref> If the Thaye successfully uses this ability during a hunt, the age increase will only be effective after the hunt.<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1245885002198028421 ''"...they will not age mid hunt, but will after the hunt."'' Shuee, Lead Quality Assurance (on Discord). 31 May 2024.]</ref> The following shows the parameters that are affected by age:
 {| class="article-table"
 ! Behaviour
 ! Age 0 (Initial)

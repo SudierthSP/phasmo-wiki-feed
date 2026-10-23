@@ -1,7 +1,7 @@
 # Obambo
-# revid 24274  2026-07-24T04:39:31Z  by VVSlavik
-# 备注: Added the corresponding Russian interlanguage link
-# sha256 b891cb67095836e69b2772eff2cb1282da797c3c0f2669b8ce56beae75edba05  bytes 4689
+# revid 25130  2026-10-23T14:48:48Z  by Darkhooper
+# 备注: host/non-host issue
+# sha256 72f9f8bff5019efaa91d0759467e5ea5006b8b8d1e78a4b1b2b28a7284f579a2  bytes 4869
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -19,7 +19,7 @@
 
 ==Behavior==
 ===Activity===
-The Obambo has two states: "calm" and "aggressive". It always starts in the calm state at the beginning of a [[contract]] before switching to the other state 1 minute after an [[exit door]] is opened for the first time, then every 2 minutes. The state switch can happen during a [[hunt]].
+The Obambo has two states: "calm" and "aggressive". It always starts in the calm state at the beginning of a [[contract]] before switching to the other state 1 minute after an [[exit door]] is opened for the first time, then every 2 minutes.<ref group="note">There is a bug where if the host leaves the game, the Obambo is reset to its calm state and will no longer switch states.</ref> The state switch can happen during a [[hunt]].
 
 In its calm state, the Obambo has a fixed [[activity]] level of 90. In its aggressive state, it has a fixed activity level of 25.
 
@@ -64,7 +64,9 @@ In general, noticeable, distinct "phases" of high/low activity can point towards
 |Added Obambo.
 |}
 
-[[ru:Обамбо]]
-[[fr:Obambo]]
-[[Category:Ghosts]]
+==Notes==
+{{Reflist|group="note"}}
 {{GhostNav}}
+[[Category:Ghosts]]
+[[fr:Obambo]]
+[[ru:Обамбо]]

@@ -1,7 +1,6 @@
 # Flashlight
-# revid 25126  2026-10-23T03:37:27Z  by Xeromity
-# 备注: /* Trivia */
-# sha256 9166c5c13ef0e2a16d2a0838d14948e9b8161ad35de967592b963113355bf6c5  bytes 3537
+# revid 25135  2026-10-23T15:10:33Z  by Darkhooper
+# sha256 5b4f24af78815fe57c0800f357df342fc3dcd03e83eeda7ff6385d819375b5d8  bytes 3490
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -46,9 +45,11 @@ File:Phasmophobia flashlight old vs new.png|thumb|Pre-[[0.3.0]] flashlight vs it
 File:Flashlight tier comparison.png|thumb|Comparison of the 3 tiers of flashlights on [[6 Tanglewood Drive]]
 </gallery>
 
-== Trivia ==
-
-* The real-life flashlight models are:  '''Tier I:''' Rayovac S22F-1 (Note: The in-game model is slightly modified) '''Tier II:''' Nitecore P20i UV  '''Tier III:''' P90 Tactical Searchlight
+==Trivia==
+*The real-life flashlight models are:
+**'''Tier I:''' Rayovac S22F-1
+**'''Tier II:''' Nitecore P20i UV
+**'''Tier III:''' P90 Tactical Searchlight
 
 ==History==
 {| class="fandom-table"

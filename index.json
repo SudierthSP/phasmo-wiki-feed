@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T05:21:40.908Z",
+  "generated": "2026-10-23T15:17:37.920Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -58,8 +58,8 @@
       {
         "t": "Salt",
         "f": "pages/en/Salt.txt",
-        "b": 6587,
-        "r": 25110,
+        "b": 6789,
+        "r": 25136,
         "x": "{{Equipment Template | tier i img=Salt090_T1.png | tier ii img=Salt090_T2.png | tier iii img=Salt090_T3.png | price=$15 | maxamount=3 | uses=Depends | starter=No | tier i level=8 | tier ii level=39 | tier iii level=65 | "
       },
       {
@@ -233,8 +233,8 @@
       {
         "t": "Demon",
         "f": "pages/en/Demon.txt",
-        "b": 7771,
-        "r": 25124,
+        "b": 7922,
+        "r": 25127,
         "x": "{{Ghost |image1=Demon Discovered.jpg |strength=*Lower hunt cooldown than other ghosts *Higher hunt sanity threshold *Smudging prevents hunts for shorter |abiliti(es)=*Rare chance to hunt at any sanity percentage |weaknes"
       },
       {
@@ -261,8 +261,8 @@
       {
         "t": "Flashlight",
         "f": "pages/en/Flashlight.txt",
-        "b": 3756,
-        "r": 25126,
+        "b": 3688,
+        "r": 25135,
         "x": "{{Equipment Template | tier i img=Flash090_T1.png | tier ii img=Flash090_T2.png | tier iii img=Flash090_T3.png | price=$30 | maxamount=4 | uses= | starter=Yes | tier i level= | tier ii level=18 | tier iii level=34 | tier"
       },
       {
@@ -982,8 +982,8 @@
       {
         "t": "The Mimic",
         "f": "pages/en/The Mimic.txt",
-        "b": 9390,
-        "r": 25056,
+        "b": 9617,
+        "r": 25131,
         "x": "{{Ghost |image1=The Mimic Discovered.jpg |strength= *Mimics other ghost types one after another for brief periods of time |weakness(es)= *Will always produce false ghost orbs |Evidence1=[[File:Thermometer_Render.png|24x2"
       },
       {
@@ -1213,8 +1213,8 @@
       {
         "t": "Thaye",
         "f": "pages/en/Thaye.txt",
-        "b": 8116,
-        "r": 23537,
+        "b": 8193,
+        "r": 25132,
         "x": "{{Ghost |image1=Thaye Discovered.jpg |strength= *Becomes very active the first time a player gets nearby |weakness(es)= *The more time players spend near it, the quieter and slower it becomes |Evidence1=[[File:DOTS_proje"
       },
       {
@@ -2053,22 +2053,22 @@
       {
         "t": "Obambo",
         "f": "pages/en/Obambo.txt",
-        "b": 4942,
-        "r": 24274,
+        "b": 5093,
+        "r": 25130,
         "x": "{{Ghost |image1= |strength=*Hunts earlier and is faster in its \"aggressive\" state |weakness(es)=*Hunts later and is slower in its \"calm\" state *Hunts initiated in its \"aggressive\" state have a reduced duration |Evidence1"
       },
       {
         "t": "Dayan",
         "f": "pages/en/Dayan.txt",
-        "b": 6914,
-        "r": 24365,
+        "b": 7155,
+        "r": 25134,
         "x": "{{Ghost |image1= |strength=*Moves quicker during hunts and hunts sooner when a player moves near the ghost |weakness(es)=*Moves slower during hunts and hunts later when a player stands still near the ghost |Evidence1=[[F"
       },
       {
         "t": "Gallu",
         "f": "pages/en/Gallu.txt",
-        "b": 6459,
-        "r": 24413,
+        "b": 6507,
+        "r": 25129,
         "x": "{{Ghost |image1= |strength=*More aggressive after protective equipment has been used |weakness(es)=*Less aggressive after a hunt |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] |Evidence"
       },
       {
@@ -2172,8 +2172,8 @@
       {
         "t": "Kormos",
         "f": "pages/en/Kormos.txt",
-        "b": 7754,
-        "r": 25123,
+        "b": 7950,
+        "r": 25133,
         "x": "{{Ghost |image1= |strength=*Higher hunt sanity threshold when nearby players sprint outside hunts. *Can detect a player's footsteps from far away during a hunt. |weakness(es)=*Nearly blind and cannot see still players or"
       },
       {

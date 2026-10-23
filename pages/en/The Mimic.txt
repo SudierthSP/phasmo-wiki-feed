@@ -1,6 +1,7 @@
 # The Mimic
-# revid 25056  2026-10-05T22:33:49Z  by Darkhooper
-# sha256 7e9b85db75bb4be10595fa1ea33f75e7aff6e887cbfe57330abbd092b5e52b26  bytes 9193
+# revid 25131  2026-10-23T14:52:01Z  by Darkhooper
+# 备注: host/non-host issue
+# sha256 1da32c258e400c2be5e3a5047d0d69c37864f2873ca956c5c33f4cefed65af73  bytes 9390
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -25,7 +26,7 @@ The Mimic is able to imitate any type of ghost, and inherit all of its features 
 
 When imitating a type of ghost, The Mimic will not copy its types of evidence, and will not necessarily provide its guaranteed type of evidence on reduced-evidence [[difficulty|difficulties]] such as Insanity, but can copy features related to evidence. For example, it is able to copy the [[Obake]]'s six-fingered handprints or the [[Deogen]]'s breathing, as The Mimic has Ultraviolet and Spirit Box as evidence, but it cannot copy the [[Goryo]]'s trait of only appearing on a [[Video Camera|video camera]] when in a [[D.O.T.S. Projector (Evidence)|D.O.T.S. state]], as The Mimic does not have D.O.T.S. Projector as one of its types of evidence.
 
-The Mimic will always start in the "blank" state (in which it essentially mimics itself)<ref>https://imgur.com/a/koydG4H</ref> at the beginning of a contract. When this is the case, it will act as a default ghost and have no special abilities. It will attempt to change 1 minute after an [[exit door]] has been opened for the first time, then every 30 seconds to 2 minutes. When the timer is over, the change is queued until The Mimic ends its current state, meaning it cannot change ''during'' a hunt/ghost event/etc.
+The Mimic will always start in the "blank" state (in which it essentially mimics itself)<ref>https://imgur.com/a/koydG4H</ref> at the beginning of a contract. When this is the case, it will act as a default ghost and have no special abilities. It will attempt to change 1 minute after an [[exit door]] has been opened for the first time, then every 30 seconds to 2 minutes.<ref group="note">There is a bug where if the host leaves the game, The Mimic will be reset to its blank state and will no longer imitate other ghost types.</ref> When the timer is over, the change is queued until The Mimic ends its current state, meaning it cannot change ''during'' a hunt/ghost event/etc.
 
 The Mimic cannot imitate the [[Banshee]] or the [[Dayan]] if it is itself male (i.e. using a male [[ghost model]], male vocalizations, and a male name).
 
@@ -89,6 +90,8 @@ Ghost behaviour is also a relatively easy, if somewhat luck-dependent way to ide
 
 ==References==
 {{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
 {{GhostNav}}
 [[ru:Мимик]]
 [[Category:Ghosts]]

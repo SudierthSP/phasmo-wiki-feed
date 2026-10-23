@@ -1,7 +1,7 @@
 # Salt
-# revid 25110  2026-10-19T05:58:23Z  by Darkhooper
-# 备注: clarified when the list is cleared
-# sha256 e74b80db3505bd28cc7dad4f8fc08c1e0f43c4d494a6fef1acde43250c80bbb6  bytes 6350
+# revid 25136  2026-10-23T15:15:37Z  by Darkhooper
+# 备注: host/non-host issue
+# sha256 aac40f58273a51d7dd5a204ad128c113df2b19c0fafd10433e82ad700223cf7d  bytes 6567
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -32,7 +32,7 @@
 ==Usage==
 A salt container can be used to {{Control|place}} salt piles on the floor. Each salt container can be used 2-3 times, allowing a maximum of 6-9 salt piles to be placed per game with 3 salt containers. Salt piles can be stacked in the same spot.
 
-When a ghost walks over a salt pile, it will leave an indent in the pile. This can happen any time, regardless of the ghost being invisible or not. Within the next few seconds after the salt has been stepped in, when the ghost moves, it will create audible footsteps (similar to footsteps during a hunt), and if it has [[Ultraviolet]] evidence, it will also leave temporary [[Ultraviolet#Footprints|footprints]] visible under UV light where it chooses to roam. [[Wraith]]s and enraged [[Gallu]]s will never leave any imprint on salt piles, walking over them as if they do not exist.
+When a ghost walks over a salt pile, it will leave an indent in the pile. This can happen any time, regardless of the ghost being invisible or not. Within the next few seconds after the salt has been stepped in, when the ghost moves, it will create audible footsteps (similar to footsteps during a hunt), and if it has [[Ultraviolet]] evidence, it will also leave temporary [[Ultraviolet#Footprints|footprints]] visible under UV light where it chooses to roam. [[Wraith]]s and enraged [[Gallu]]s will never leave any imprint on salt piles, walking over them as if they do not exist.<ref group="note">There is a bug where if the host leaves the game, all salt piles will be reset (mechanically, not visually) and the ghost will be able to disturb them once more.</ref>
 
 Players cannot leave an imprint in salt piles or generate footprints.
 
@@ -98,7 +98,10 @@ Filming a salt pile being disturbed will yield a '''Disturbed Salt''' video, rew
 |Salt will now only reveal footprints if the ghost has Ultraviolet evidence.
 |-
 |Ghosts can now disturb salt piles during hunts.
-|}<br>
+|}
+
+==Notes==
+{{Reflist|group="note"}}
 {{EquipmentNav}}
 [[Category:Equipment]]
 [[fr:Sel]]
