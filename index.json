@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T18:59:06.195Z",
+  "generated": "2026-10-23T05:21:40.908Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -261,8 +261,8 @@
       {
         "t": "Flashlight",
         "f": "pages/en/Flashlight.txt",
-        "b": 3530,
-        "r": 23423,
+        "b": 3756,
+        "r": 25126,
         "x": "{{Equipment Template | tier i img=Flash090_T1.png | tier ii img=Flash090_T2.png | tier iii img=Flash090_T3.png | price=$30 | maxamount=4 | uses= | starter=Yes | tier i level= | tier ii level=18 | tier iii level=34 | tier"
       },
       {

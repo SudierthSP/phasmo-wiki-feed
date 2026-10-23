@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-22T18:59:06.582Z",
+  "updated": "2026-10-23T05:21:41.183Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -196,8 +196,8 @@
       "redirect": false
     },
     "Flashlight": {
-      "revid": 23423,
-      "ts": "2026-05-10T02:34:54Z",
+      "revid": 25126,
+      "ts": "2026-10-23T03:37:27Z",
       "redirect": false
     },
     "Fuse Box": {
