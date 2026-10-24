@@ -1,7 +1,7 @@
 # Deildegast
-# revid 24662  2026-09-13T22:23:41Z  by Darkhooper
-# 备注: new tell! Doors starting open parameter is changed when the ghost is Deildegast
-# sha256 c7a6f5da11074a2cc1492ebadfd56c2402923f561e801f473e63131b842147ed  bytes 4761
+# revid 25148  2026-10-24T20:37:40Z  by Darkhooper
+# 备注: host/non-host issue
+# sha256 0da97be455739c87b07746fbb1abdd732a8ac9fbddf311841c51667f897da4a5  bytes 4907
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -21,7 +21,7 @@
 The Deildegast is less likely to [[Interaction|interact]] with [[door]]s and [[light]] switches compared to other ghosts (each having a 10% chance instead of the 25% chance for a standard ghost). When interacting with a [[prop]], it has a 85% chance to succeed instead of 100% for a regular ghost. If this chance fails, the Deildegast will enter the [[Ghost Room|favourite room]] state instead.
 
 ===Hunt===
-The Deildegast has a fixed speed with no line-of-sight acceleration that depends on the number of unique [[prop]]s {{Control|interacted}} with or {{Control|picked up}} by players (including [[Death|dead]] players) outside of hunts. This includes throwable items, [[light]] switches, the [[fuse box]], [[Sink|taps]], etc., but not [[Cursed Possession|cursed possessions]], [[door]]s nor [[equipment]]. By default, it has a speed of 3.0 m/s which decreases by 0.1 m/s for each moved object until a minimum of 0.4 m/s. The speed is reset at 3.0 m/s after the end of a [[hunt]] or after a [[crucifix]] has burned.
+The Deildegast has a fixed speed with no line-of-sight acceleration that depends on the number of unique [[prop]]s {{Control|interacted}} with or {{Control|picked up}} by players (including [[Death|dead]] players) outside of hunts. This includes throwable items, [[light]] switches, the [[fuse box]], [[Sink|taps]], etc., but not [[Cursed Possession|cursed possessions]], [[door]]s nor [[equipment]]. By default, it has a speed of 3.0 m/s which decreases by 0.1 m/s for each moved object until a minimum of 0.4 m/s. The speed is reset at 3.0 m/s after the end of a [[hunt]] or after a [[crucifix]] has burned.<ref group="note">There is a bug where if the host leaves the game, the Deildegast also resets its speed.</ref>
 
 ===Miscellaneous===
 The ''Doors starting open'' [[difficulty]] parameter is lowered by one option when the ghost is a Deildegast. For example, if the difficulty sets that parameter on "High", the actual parameter will be "Medium".
@@ -59,6 +59,8 @@ A Deildegast is the only ghost where dead players can directly assist in the inv
 |Added Deildegast.
 |}
 
+==Notes==
+{{Reflist|group="note"}}
 {{GhostNav}}
 [[Category:Ghosts]]
 [[fr:Deildegast]]

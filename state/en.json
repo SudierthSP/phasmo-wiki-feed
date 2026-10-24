@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-24T19:15:02.747Z",
+  "updated": "2026-10-24T21:37:55.723Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -16,8 +16,8 @@
       "redirect": false
     },
     "Hunt": {
-      "revid": 25142,
-      "ts": "2026-10-23T19:41:42Z",
+      "revid": 25147,
+      "ts": "2026-10-24T20:17:32Z",
       "redirect": false
     },
     "Evidence": {
@@ -1866,8 +1866,8 @@
       "redirect": false
     },
     "Deildegast": {
-      "revid": 24662,
-      "ts": "2026-09-13T22:23:41Z",
+      "revid": 25148,
+      "ts": "2026-10-24T20:37:40Z",
       "redirect": false
     },
     "0.18.0": {

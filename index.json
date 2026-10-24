@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T19:15:02.203Z",
+  "generated": "2026-10-24T21:37:55.277Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -23,8 +23,8 @@
       {
         "t": "Hunt",
         "f": "pages/en/Hunt.txt",
-        "b": 34897,
-        "r": 25142,
+        "b": 34979,
+        "r": 25147,
         "x": "<div class=\"mw-collapsible mw-collapsed\" style=\"width:400px; margin-left:1%; float:right; text-align:right\"> '''<span style=\"color:#efcf00\">This image has flashing lights.</span>'''<div class=\"mw-collapsible-content\">[[F"
       },
       {
@@ -2214,8 +2214,8 @@
       {
         "t": "Deildegast",
         "f": "pages/en/Deildegast.txt",
-        "b": 5049,
-        "r": 24662,
+        "b": 5135,
+        "r": 25148,
         "x": "{{Ghost |image1= |strength=Moves at a faster speed at the start of a contract. |weakness(es)=Becomes slower each time players interact with/move items. |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link="
       },
       {

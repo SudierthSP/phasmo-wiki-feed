@@ -1171,3 +1171,5 @@
 {"ts":"2026-10-24T05:18:35.594Z","lang":"en","title":"Raiju","revid":25143,"prevRevid":24235,"kind":"edit","user":"Darkhooper","comment":"bug with placed motion sensors and dots projectors","bytes":5866,"pageTs":"2026-10-24T01:09:12Z"}
 {"ts":"2026-10-24T19:15:02.747Z","lang":"en","title":"Incense","revid":25146,"prevRevid":25144,"kind":"edit","user":"Darkhooper","comment":"host/non-host issue","bytes":11564,"pageTs":"2026-10-24T17:41:09Z"}
 {"ts":"2026-10-24T19:15:02.747Z","lang":"en","title":"Onryo","revid":25145,"prevRevid":24595,"kind":"edit","user":"Darkhooper","comment":"host/non-host issue","bytes":9531,"pageTs":"2026-10-24T17:23:38Z"}
+{"ts":"2026-10-24T21:37:55.723Z","lang":"en","title":"Hunt","revid":25147,"prevRevid":25142,"kind":"edit","user":"Darkhooper","comment":"moved Activity subsection / added info about hunt cooldowns not restarting under a specific condition","bytes":34674,"pageTs":"2026-10-24T20:17:32Z"}
+{"ts":"2026-10-24T21:37:55.723Z","lang":"en","title":"Deildegast","revid":25148,"prevRevid":24662,"kind":"edit","user":"Darkhooper","comment":"host/non-host issue","bytes":4907,"pageTs":"2026-10-24T20:37:40Z"}

@@ -1,7 +1,7 @@
 # Hunt
-# revid 25142  2026-10-23T19:41:42Z  by Darkhooper
-# 备注: Kormos bug with closets/lockers/tents
-# sha256 7c26ff3a44cfb8d671118c89112409613c7a065ce93699fb8cba4f3ff508ad42  bytes 34656
+# revid 25147  2026-10-24T20:17:32Z  by Darkhooper
+# 备注: moved Activity subsection / added info about hunt cooldowns not restarting under a specific condition
+# sha256 6a1e5b9ab84de89d57956dc726a3907cefe114b5fc0b263d91bd9f87c653d118  bytes 34674
 # 源: https://phasmophobia.fandom.com/api.php
 
 <div class="mw-collapsible mw-collapsed" style="width:400px; margin-left:1%; float:right; text-align:right">
@@ -27,10 +27,9 @@ Hunts cannot occur while the [[setup phase]] is ongoing. If the ghost attempts t
 |[[Difficulty#Professional|Professional]]<br>[[Difficulty#Nightmare|Nightmare]]<br>[[Difficulty#Insanity|Insanity]]
 |No setup phase
 |}
-
 The setup phase can be ended early if a cursed possession is used or activated.
 
-Once a hunt ends, there is a minimum cooldown of 25 seconds (20 seconds for a [[Demon]]) before the ghost can attempt to initiate another hunt. This does not affect the activation of [[#Cursed hunts|cursed hunts]]. Ghosts do not necessarily hunt immediately once this cooldown is over.
+The ghost also cannot initiate hunts while a [[#End of a hunt|hunt cooldown]] or an [[Incense]]'s cleansing effect are active. When the ghost attempts to hunt while these timers are active, it will enter the favourite room state instead.
 
 ===Regular hunt requirements===
 At least one player must be within the investigation area for a hunt to begin. If the ghost attempts to initiate a hunt while there is no living player inside the investigation area, it will enter the favourite room state instead. All ghosts have a [[sanity]] threshold below which they will be able to hunt, and some ghosts may have abilities which may modify the threshold, or even override it entirely.
@@ -162,10 +161,7 @@ The following table lists the hunt sanity thresholds and abilities for all ghost
 |}
 
 ===Cursed hunts===
-Cursed hunts can only be initiated directly by using [[cursed possession]]s.<ref group="note">Hunts that occur after a cursed hunt only inherit the extended duration, and are otherwise more akin to normal hunts. Hence, the definition of cursed hunts used here is strictly those caused ''directly'' by cursed possessions.</ref> Cursed hunts ignore sanity thresholds and hunt cooldowns; they can start right after a normal hunt, but normal hunts respect the cooldown after cursed hunts. Cancelled cursed hunts (due to empty locations) don't count toward the cooldown timer.
-
-===Activity===
-During hunts, the [[Site Activity Monitor|activity monitor]] shows level 10. However, activity level doesn't indicate hunting probability, and level 10 readings don't always mean a hunt is occurring.
+Cursed hunts can only be initiated directly by using [[cursed possession]]s.<ref group="note">Hunts that occur after a cursed hunt only inherit the extended duration, and are otherwise more akin to regular hunts. Hence, the definition of cursed hunts used here is strictly those caused ''directly'' by cursed possessions.</ref> Cursed hunts ignore sanity thresholds and hunt cooldowns; they can start right after a regular hunt.
 
 ===Preventing a hunt===
 Hunt prevention equipment:
@@ -354,6 +350,9 @@ Ghosts are able to perform [[interaction]]s during hunts. There are similarities
 Most other objects cannot be interacted with by the ghost during a hunt.
 
 ==Other hunt-related behaviour==
+===Activity===
+During hunts, the [[Site Activity Monitor|activity monitor]] shows level 10. However, activity level doesn't indicate hunting probability, and level 10 readings don't always mean a hunt is occurring.
+
 ===Sounds===
 During hunts, the ghost will always produce footsteps and one specific vocalization that is used for all hunts in that contract. The interval between footsteps depends on the moving speed of the ghost.
 
@@ -421,7 +420,7 @@ When the ghost kills a player, the player will levitate, drop all of their equip
 ==End of a hunt==
 A hunt ends when the ghost successfully kills a player (when ''Kills extend hunts'' is off), the ghost's hunting time is up, or there are no alive players within the investigation area for any reason, including if every player is killed, if every player glitches out at the start of a hunt/during a hunt, or if the exit doors are unlocked with the Monkey Paw's "I wish to leave" wish and every player exits during a hunt.
 
-When the hunt ends, the ghost will disappear and be teleported back to its [[Ghost Room|favourite room]] after a delay of 1.5 seconds, the exit door can be unlocked again, all on-site lights will turn off and can once again be toggled.
+When the hunt ends, the ghost will disappear and be teleported back to its [[Ghost Room|favourite room]] after a delay of 1.5 seconds, the exit door can be unlocked again, all on-site lights will turn off and can once again be toggled. A hunt cooldown will also start, preventing the ghost from initiating regular hunts for 25 seconds (20 for the Demon). If a hunt cooldown is still ongoing at the end of a hunt, the cooldown will not be reset.
 
 ==Related difficulty settings==
 *'''Ghost speed (%):''' How quickly the ghost moves
@@ -435,7 +434,7 @@ When the hunt ends, the ghost will disappear and be teleported back to its [[Gho
 *Hunts do not count toward witnessing a ghost event.
 *The number of hunts during a given game will appear on the resume screen in the lobby.
 *It is possible for a hunt to start without any players inside the investigation area; when a player stands perfectly in an exit doorway, it's possible for a hunt to start, as the game thinks they are inside the investigation area, but with the player getting pushed outwards and out of the investigation area when the doorway is blocked. If this happens, the hunt will immediately end.
-*If a cursed possession is used in a way that triggers a cursed hunt while a normal hunt is ongoing (e.g. breaking the [[Haunted Mirror]] or the [[Ouija Board]]), the current hunt will keep its normal duration, but subsequent hunts will correctly have 20 extra seconds.
+*If a cursed possession is used in a way that triggers a cursed hunt while a regular hunt is ongoing (e.g. breaking the [[Haunted Mirror]] or the [[Ouija Board]]), the current hunt will keep its normal duration, but subsequent hunts will correctly have 20 extra seconds.
 
 ==See also==
 *[[Guides/Surviving a hunt]]
