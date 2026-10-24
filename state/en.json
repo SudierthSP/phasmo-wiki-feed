@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-24T05:18:35.594Z",
+  "updated": "2026-10-24T19:15:02.747Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -86,8 +86,8 @@
       "redirect": false
     },
     "Incense": {
-      "revid": 25144,
-      "ts": "2026-10-24T02:16:53Z",
+      "revid": 25146,
+      "ts": "2026-10-24T17:41:09Z",
       "redirect": false
     },
     "Wraith": {
@@ -641,8 +641,8 @@
       "redirect": true
     },
     "Onryo": {
-      "revid": 24595,
-      "ts": "2026-09-03T00:57:40Z",
+      "revid": 25145,
+      "ts": "2026-10-24T17:23:38Z",
       "redirect": false
     },
     "The Twins": {

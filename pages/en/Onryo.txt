@@ -1,7 +1,7 @@
 # Onryo
-# revid 24595  2026-09-03T00:57:40Z  by Darkhooper
-# 备注: retested this bug and it has been fixed
-# sha256 5a8acc18b2def34bcfec2e4fe0035b9493acde58756826726725d892f4e7ef38  bytes 9397
+# revid 25145  2026-10-24T17:23:38Z  by Darkhooper
+# 备注: host/non-host issue
+# sha256 a33a5276e8468a182418cdf266efdfb2e6ee196b26d7eeed67a47333138e9a5b  bytes 9531
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -50,7 +50,7 @@ The Onryo's flame blowing frequency increases the more dead players there are:
 Contrary to the [[journal]]'s description, flames do not make the Onryo more likely to leave a room.<ref>https://youtu.be/orMdTJvdOVM?t=2288</ref>
 
 ===Ability===
-The Onryo checks a counter of flame blowouts each time it exits the [[Ghost#Behavior|idle state]]. If the counter is greater than or equal to 3, and provided there is currently no hunt cooldown and no [[incense]]'s cleansing effect, the Onryo will use its ability, which resets the blowout counter to 0 before initiating a hunt regardless of current average [[sanity]]. This hunt can be blocked by the [[setup phase]] still being active, a [[crucifix]], or another flame.
+The Onryo checks a counter of flame blowouts each time it exits the [[Ghost#Behavior|idle state]].<ref group="note">There is a bug where the counter is reset to 0 if the host leaves the game.</ref> If the counter is greater than or equal to 3, and provided there is currently no hunt cooldown and no [[incense]]'s cleansing effect, the Onryo will use its ability, which resets the blowout counter to 0 before initiating a hunt regardless of current average [[sanity]]. This hunt can be blocked by the [[setup phase]] still being active, a [[crucifix]], or another flame.
 *A flame preventing a hunt or blown out during a hunt will still increase the counter by 1.
 *If the counter reaches 3 during a hunt or an incense's cleansing effect, it will instantly reset to 0 and cancel the Onryo's ability.
 
@@ -123,7 +123,9 @@ The Onryo is one of three ghosts (the others being the [[Hantu]] and [[Kormos]])
 
 ==References==
 {{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
 {{Ghost nav}}
-[[ru:Онрё]]
-[[fr:Onryo]]
 [[Category:Ghosts]]
+[[fr:Onryo]]
+[[ru:Онрё]]

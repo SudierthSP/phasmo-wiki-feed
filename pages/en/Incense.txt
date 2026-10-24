@@ -1,7 +1,7 @@
 # Incense
-# revid 25144  2026-10-24T02:16:53Z  by Darkhooper
-# 备注: incense works through floors
-# sha256 4ee7f51d69070a45b6303586b76e77ca4438c7219f7cbfad007027be98cc0a6c  bytes 11434
+# revid 25146  2026-10-24T17:41:09Z  by Darkhooper
+# 备注: host/non-host issue
+# sha256 d3a25d9c1437d7790ffbbe62dd488b7b4e319facd317b5b744c06b6e459b2d2c  bytes 11564
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -47,7 +47,7 @@ The incense has a range in which the ghost must be for its effects to be success
 ====Regular "cleansing"====
 When the ghost is within the incense's range while it is burning, the following will occur:
 *[[Activity|Ghost activity]] will be increased by a random number between 20 and 29, and that number will decrease by 0.5 each second.
-*The ghost will be unable to initiate a hunt on its own for a certain duration:
+*The ghost will be unable to initiate a hunt on its own for a certain duration:<ref group="note">There is a bug where this duration is canceled if the host leaves the game.</ref>
 **[[Demon]]: 60 seconds
 **[[Spirit]]: 180 seconds
 **All other ghosts: 90 seconds
@@ -162,8 +162,10 @@ Smudge sticks.png|Pre-[[0.3.0|Exposition]] model being held in the player's hand
 |-
 ![[0.13.0]]
 |Incense will now temporarily disable a ghost's accumulated speed from line-of-sight.
-|}<br>
+|}
 
+==Notes==
+{{Reflist|group="note"}}
 {{Equipment nav}}
 [[Category:Equipment]]
 [[fr:Encens]]

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T05:18:35.156Z",
+  "generated": "2026-10-24T19:15:02.203Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -114,8 +114,8 @@
       {
         "t": "Incense",
         "f": "pages/en/Incense.txt",
-        "b": 11669,
-        "r": 25144,
+        "b": 11790,
+        "r": 25146,
         "x": "{{Equipment Template | tier i img=Incense090_T1.png | tier ii img=Incense090_T2.png | tier iii img=Incense090_T3.png | price=$15 | maxamount=4 | uses=1 | starter=No | tier i level=14 | tier ii level=37 | tier iii level=8"
       },
       {
@@ -779,8 +779,8 @@
       {
         "t": "Onryo",
         "f": "pages/en/Onryo.txt",
-        "b": 9640,
-        "r": 24595,
+        "b": 9754,
+        "r": 25145,
         "x": "{{Ghost |image1=Onryo Discovered.jpg |strength= *Can sometimes hunt at any sanity after blowing out a flame *Blows out fiery objects (candles, campfire) more often with more dead people |weakness(es)= *Presence of flames"
       },
       {
