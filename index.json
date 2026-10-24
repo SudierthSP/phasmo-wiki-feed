@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T22:27:28.303Z",
+  "generated": "2026-10-24T05:18:35.156Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -114,8 +114,8 @@
       {
         "t": "Incense",
         "f": "pages/en/Incense.txt",
-        "b": 11639,
-        "r": 25107,
+        "b": 11669,
+        "r": 25144,
         "x": "{{Equipment Template | tier i img=Incense090_T1.png | tier ii img=Incense090_T2.png | tier iii img=Incense090_T3.png | price=$15 | maxamount=4 | uses=1 | starter=No | tier i level=14 | tier ii level=37 | tier iii level=8"
       },
       {
@@ -793,8 +793,8 @@
       {
         "t": "Raiju",
         "f": "pages/en/Raiju.txt",
-        "b": 5953,
-        "r": 24235,
+        "b": 6120,
+        "r": 25143,
         "x": "{{Ghost |image1=Raiju Discovered.jpg |strength=*Active electronics boost its speed during hunts |weakness(es)=*Disrupts electronics from further away when manifesting |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|a"
       },
       {

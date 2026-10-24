@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-23T22:27:28.906Z",
+  "updated": "2026-10-24T05:18:35.594Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -86,8 +86,8 @@
       "redirect": false
     },
     "Incense": {
-      "revid": 25107,
-      "ts": "2026-10-19T03:38:11Z",
+      "revid": 25144,
+      "ts": "2026-10-24T02:16:53Z",
       "redirect": false
     },
     "Wraith": {
@@ -651,8 +651,8 @@
       "redirect": false
     },
     "Raiju": {
-      "revid": 24235,
-      "ts": "2026-07-23T07:29:09Z",
+      "revid": 25143,
+      "ts": "2026-10-24T01:09:12Z",
       "redirect": false
     },
     "Obake": {

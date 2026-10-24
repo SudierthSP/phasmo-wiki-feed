@@ -1167,3 +1167,5 @@
 {"ts":"2026-10-23T19:24:00.678Z","lang":"en","title":"Monkey Paw","revid":25137,"prevRevid":24862,"kind":"edit","user":"Darkhooper","comment":"host/non-host issues","bytes":10564,"pageTs":"2026-10-23T15:23:24Z"}
 {"ts":"2026-10-23T19:24:00.678Z","lang":"en","title":"Dayan","revid":25141,"prevRevid":25134,"kind":"edit","user":"Darkhooper","comment":"","bytes":7035,"pageTs":"2026-10-23T18:43:29Z"}
 {"ts":"2026-10-23T22:27:28.906Z","lang":"en","title":"Hunt","revid":25142,"prevRevid":25046,"kind":"edit","user":"Darkhooper","comment":"Kormos bug with closets/lockers/tents","bytes":34656,"pageTs":"2026-10-23T19:41:42Z"}
+{"ts":"2026-10-24T05:18:35.594Z","lang":"en","title":"Incense","revid":25144,"prevRevid":25107,"kind":"edit","user":"Darkhooper","comment":"incense works through floors","bytes":11434,"pageTs":"2026-10-24T02:16:53Z"}
+{"ts":"2026-10-24T05:18:35.594Z","lang":"en","title":"Raiju","revid":25143,"prevRevid":24235,"kind":"edit","user":"Darkhooper","comment":"bug with placed motion sensors and dots projectors","bytes":5866,"pageTs":"2026-10-24T01:09:12Z"}

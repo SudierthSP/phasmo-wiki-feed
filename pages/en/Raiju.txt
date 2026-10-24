@@ -1,7 +1,7 @@
 # Raiju
-# revid 24235  2026-07-23T07:29:09Z  by Darkhooper
-# 备注: 0.18 changes heartbeat volume but not distance
-# sha256 a43a71a91c71fbf9c082ecbd5c7f7b71549dce6f2d2b9a267e8d677d16e12e42  bytes 5703
+# revid 25143  2026-10-24T01:09:12Z  by Darkhooper
+# 备注: bug with placed motion sensors and dots projectors
+# sha256 2349a50487108a94a6a89c262430c7f017ba0b23218a41176f43f6107919e6ef  bytes 5866
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -29,7 +29,7 @@ When the Raiju is within a certain distance of at least one piece of active elec
 
 Otherwise, it will have the standard threshold of 50% and will follow [[Hunt#Ghost_speeds|standard ghost speeds]] with one particularity: if the Raiju has line-of-sight with a player while near active electronic equipment, the speed increase from continuous line-of-sight adds in the background, and will only be applied once it is no longer near any electronics.
 
-All effects listed above apply to most electronic equipment, whether they are placed, held in the hand, or dropped on the floor. The following do ''not'' count towards the speed boost or the hunt sanity threshold:
+All effects listed above apply to most electronic equipment, whether they are placed, held in the hand, or dropped on the floor.<ref group="note">There is a bug where motion sensors and D.O.T.S. projectors placed on a wall or a ceiling do not count.</ref> The following do ''not'' count towards the speed boost or the hunt sanity threshold:
 *[[Voice chat#Global chat|Global chat]]
 *[[Video camera]]s and [[Photo Camera|Photo Cameras]] that are ''thrown'' on the ground
 *[[Motion Sensor|Motion sensors]], [[Sound Sensor|sound sensors]], and [[D.O.T.S. Projector]]s that are ''thrown'' on the ground or held (excluding T1 D.O.T.S., which also needs to be turned ''off'')
@@ -72,7 +72,10 @@ The Raiju may be readily-identified by being mindful of its speed during a hunt,
 ![[0.12.0.1]]
 |Increased the heartbeat sound range from 10 to 15 metres.
 |}
+
+==Notes==
+{{Reflist|group="note"}}
 {{Ghost nav}}
-[[ru:Райдзю]]
 [[fr:Raiju]]
+[[ru:Райдзю]]
 [[Category:Ghosts]]

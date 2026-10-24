@@ -1,7 +1,7 @@
 # Incense
-# revid 25107  2026-10-19T03:38:11Z  by Darkhooper
-# 备注: Repel objective requirement
-# sha256 d6f0607a34b62d5e4ded0668530f9f71d4e2b90ba1133b05cf98173523c73b6c  bytes 11405
+# revid 25144  2026-10-24T02:16:53Z  by Darkhooper
+# 备注: incense works through floors
+# sha256 4ee7f51d69070a45b6303586b76e77ca4438c7219f7cbfad007027be98cc0a6c  bytes 11434
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -39,7 +39,7 @@ Once lit, the incense will emit smoke for a certain amount of time depending on 
 While burning, the incense attempts multiple times{{Verify|How many?}} per second to successfully apply its effect(s), but can only apply the effect(s) once. When the incense is used up, the smoke will stop being emitted and the model will finish burning to a stub. There is no explicit indication of whether the incense was used effectively or not. Used incense can still be handheld, but since there's nothing to use, it is normally discarded.
 
 ===Effects===
-The incense has a range in which the ghost must be for its effects to be successfully applied. This range depends on the tier level:
+The incense has a range in which the ghost must be for its effects to be successfully applied. This range is not limited by floors and depends on the tier level:
 *Tier I: 3 metres
 *Tier II: 4 metres
 *Tier III: 5 metres
