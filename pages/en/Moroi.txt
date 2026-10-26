@@ -1,7 +1,6 @@
 # Moroi
-# revid 25151  2026-10-26T03:06:02Z  by Darkhooper
-# 备注: added in Notes: due to an oversight, the Moroi can have a speed of 0.
-# sha256 2cc07257a227d6500a1dc3a3308eeecf178f9b701e7d628ab243a0947dc862c6  bytes 10485
+# revid 25154  2026-10-26T16:22:38Z  by Darkhooper
+# sha256 6ae947003c4d2d14251889cf1a417f725e8fb33ca82da5a07e567411809e6383  bytes 10515
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -33,7 +32,7 @@ The Moroi's speed is dependent on the average sanity, and will change during a h
 !'''Average sanity'''
 !'''Base ghost speed'''
 |-
-|≥ 45%<ref group="note">Due to an oversight in development, the Moroi's speed is actually defined for an average sanity that is strictly greater than 45%, and as the next interval requires the average sanity to be strictly less than 45%, this means the Moroi will move at 0 m/s when the average sanity is at exactly 45%.</ref>
+|≥ 45%<ref group="note">Due to an oversight in development, the Moroi's speed is actually defined for an average sanity that is strictly greater than 45% and strictly less than 45%. This means the Moroi will not update its speed when the average sanity is at exactly 45%, leading to a possible speed of 0 m/s if the hunt began with that sanity level.</ref>
 |1.5 m/s
 |-
 |40% - 45%

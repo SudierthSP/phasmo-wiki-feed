@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-26T06:59:46.833Z",
+  "updated": "2026-10-26T19:55:03.606Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -566,8 +566,8 @@
       "redirect": false
     },
     "D.O.T.S. Projector": {
-      "revid": 25035,
-      "ts": "2026-10-01T20:47:43Z",
+      "revid": 25156,
+      "ts": "2026-10-26T18:22:24Z",
       "redirect": false
     },
     "D.O.T.S Projector": {
@@ -651,8 +651,8 @@
       "redirect": false
     },
     "Raiju": {
-      "revid": 25143,
-      "ts": "2026-10-24T01:09:12Z",
+      "revid": 25155,
+      "ts": "2026-10-26T17:30:26Z",
       "redirect": false
     },
     "Obake": {
@@ -986,8 +986,8 @@
       "redirect": false
     },
     "Moroi": {
-      "revid": 25151,
-      "ts": "2026-10-26T03:06:02Z",
+      "revid": 25154,
+      "ts": "2026-10-26T16:22:38Z",
       "redirect": false
     },
     "Thaye": {

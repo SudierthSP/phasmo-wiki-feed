@@ -1,7 +1,7 @@
 # D.O.T.S. Projector
-# revid 25035  2026-10-01T20:47:43Z  by Darkhooper
-# 备注: DOTS range
-# sha256 91a6e24c72df6aca35a041ce5e73d3877d99946c31b14e6c1c537abd5ff4a73e  bytes 6140
+# revid 25156  2026-10-26T18:22:24Z  by Darkhooper
+# 备注: added Tiers subsections in Usage section
+# sha256 dfd2a215b92b4a6a6946ba1404f2ed1406b7c9c63862fcd52730d2bf91a8d06e  bytes 5769
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -26,52 +26,55 @@
  | tier iii description=A motorized projector with three lenses for a wide coverage of light.
  | tier iii purpose=For the best coverage, place this projector on a wall or upright surface, stand nearby, and watch as it scans the environment.<br>To increase coverage even more, place two projectors opposite each other to fill entire rooms with infrared light!
  | tier iii ability=<span style="color: #008000;">Range (m): 7<br>Spotlight: Wide<br>Placeable<br>Scanning</span><br><span style="color: #ff0000;">Electronic</span>
-}}The '''D.O.T.S Projector''' is a piece of electronic [[Equipment#Starter Equipment|starter equipment]], as well as a type of [[evidence]], that can be used to reveal the ghost's movement.
+}}The '''D.O.T.S. Projector''' is a piece of electronic [[Equipment#Starter Equipment|starter equipment]], as well as a type of [[evidence]], that can be used to reveal the ghost's movement.
 
 ==Usage==
-The D.O.T.S Projector can be {{Control|placed}} on a wall or floor similar to a [[Motion Sensor|motion sensor]]. It emits a matrix of bright green laser points in a small area from the projector. Tier I D.O.T.S Projector additionally can be held and {{Control|toggled}} to create a cone of D.O.T.S light where it is pointed. The Tier I D.O.T.S Projector will not work if [[Flashlight]]s are turned off in [[Difficulty#Custom|custom difficulty]] settings.
+When activated, the D.O.T.S. Projector will emit a matrix of bright green laser points in a small area from the projector.
 
-Though the D.O.T.S Projector is an electronic equipment, only the Tier I D.O.T.S. Projector when activated and held will attract the ghost to the player during a [[hunt]], and they are otherwise safe to hold onto.
+Though the D.O.T.S. Projector is an electronic equipment, only the Tier I D.O.T.S. Projector when activated and held will attract the ghost to the player during a [[hunt]]; Tiers II and III D.O.T.S. Projectors are always turned off when held.
 
-The D.O.T.S. field's ranges are:
-*Tier I: a 7.5-metre-long cone with an angle of 30°
-*Tier II: a sphere with a radius of 2.4 metres
-*Tier III: a 7-metre-long cone with an angle of 54°
+===Tier I===
+The Tier I D.O.T.S. Projector is a small flashlight, which range is a 7.5-metre-long cone with an angle of 30°. It can be {{Control|toggled}}, similarly to [[flashlight]]s, and can be {{Control|placed}}, similarly to [[Video Camera|video cameras]].
+
+It cannot be turned on if the "Flashlights" [[Difficulty#Custom|custom difficulty]] setting is Off.
+
+===Tier II===
+The Tier II D.O.T.S. Projector is a projector that emits the D.O.T.S. field as a sphere with a radius of 2.4 metres rather than as a cone. It is automatically turned on when placed on a wall, a ceiling, or the floor, similarly to [[Motion Sensor|motion sensors]].
+
+===Tier III===
+Similarly to the Tier II, the Tier III D.O.T.S. Projector can be placed on various surfaces. When turned on, its range is a 7-metre-long cone with an angle of 54°, and it will slowly rotate to scan the environment. The rotation can be paused by {{Control|interacting}} with the projector. Interacting again will turn it off, and interacting a third time will turn it back on again and restart the rotation.
 
 ===Evidence===
 {{Main|D.O.T.S. Projector (Evidence)}}
 ==Tips==
-*If the favourite room is small, consider placing the D.O.T.S Projector in a neighbouring room to aid visibility.
-*The Projector emits a substantial amount of light when placed. Investigators can use them for illumination, especially with a spare Projector or when D.O.T.S evidence can be safely crossed off. Note that the D.O.T.S projector light does not mitigate sanity drain.
-*The Tier II and III D.O.T.S Projectors can be placed on some ceilings in a few maps, which may allow the light to cover a room with much more consistency. This is especially useful for the tier III projector, whose sweeping motions and cone-shaped light area can cause the ghost to potentially leave its light prematurely depending on the ghost's and the projector's movement.
+*If the favourite room is small, consider placing the D.O.T.S. Projector in a neighbouring room to aid visibility.
+*The Projector emits a substantial amount of light when placed. Investigators can use them for illumination, especially with a spare Projector or when D.O.T.S. evidence can be safely crossed off. Note that the D.O.T.S. Projector light does not mitigate sanity drain.
 *The green light emitted may obscure nearby [[Ultraviolet#Fingerprints|fingerprints]] or [[Ultraviolet#Footprints|footprints]]; look carefully or remove the projector when checking for ultraviolet evidence.
-*The tier III D.O.T.S Projector emits a constant motor whirring sound when active, which can both be quite annoying and interfere with the player's hearing when trying to listen for ghost activity. If you press {{Control|Interact}} when pointing at the projector, it will ''stop'' in its current position, allowing it to operate in complete silence at the cost of covering a smaller area; interacting again will turn it off completely, and interacting a third time will turn it back on again.
 
 ==Trivia==
-*D.O.T.S stands for "Detector Of The Supernatural".
-*The D.O.T.S Projector is inspired by the XBOX Kinect scene in the film ''Paranormal Activity 4''.<ref>[https://discord.com/channels/435431947963990026/754891077374443592/932065910800400445 ''"I came up with DOTS based on the XBOX kinect scene from Paranormal activity film"''. cjdxn, Lead Artist (on Discord). 16 January 2022.]</ref>
-*The D.O.T.S Projector as referenced in game forgets to add an extra "." as in D.O.T.S.
+*D.O.T.S. stands for "Detector Of The Supernatural".
+*The D.O.T.S. Projector is inspired by the XBOX Kinect scene in the film ''Paranormal Activity 4''.<ref>[https://discord.com/channels/435431947963990026/754891077374443592/932065910800400445 ''"I came up with DOTS based on the XBOX kinect scene from Paranormal activity film"''. cjdxn, Lead Artist (on Discord). 16 January 2022.]</ref>
 
 ==History==
 {| class="fandom-table"
 ! colspan="2" |Early Access
 |-
 ![[0.3.0]]
-|Added D.O.T.S Projector.
+|Added D.O.T.S. Projector.
 |-
 ![[0.3.0.1]]
-|Increased the interaction rate with the D.O.T.S Projector.
+|Increased the interaction rate with the D.O.T.S. Projector.
 |-
 ![[0.3.0.2]]
 |The ghost will now move through the DOTS Projector at different speeds each time.
 |-
 ! rowspan="2" |[[0.3.0.3]]
-|D.O.T.S Projectors now emit sounds randomly rather than when the ghost interacts with it.
+|D.O.T.S. Projectors now emit sounds randomly rather than when the ghost interacts with it.
 |-
-| D.O.T.S Projectors no longer produce an EMF reading.
+|D.O.T.S. Projectors no longer produce an EMF reading.
 |-
 ![[0.3.1.0]]
-|Dead players can no longer see D.O.T.S Projector figures.
+|Dead players can no longer see D.O.T.S. Projector figures.
 |-
 ! rowspan="4" |[[0.9.0]]
 |The D.O.T.S. Projector now has 3 tiers.

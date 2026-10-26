@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T06:59:46.416Z",
+  "generated": "2026-10-26T19:55:02.953Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -702,8 +702,8 @@
       {
         "t": "D.O.T.S. Projector",
         "f": "pages/en/D.O.T.S. Projector.txt",
-        "b": 6367,
-        "r": 25035,
+        "b": 6026,
+        "r": 25156,
         "x": "{{Equipment Template | tier i img=DOTS090_T1.png | tier ii img=DOTS090_T2.png | tier iii img=DOTS090_T3.png | price=$65 | maxamount=2 | uses= | starter=Yes | tier i level= | tier ii level=27 | tier iii level=49 | tier i "
       },
       {
@@ -793,8 +793,8 @@
       {
         "t": "Raiju",
         "f": "pages/en/Raiju.txt",
-        "b": 6120,
-        "r": 25143,
+        "b": 6242,
+        "r": 25155,
         "x": "{{Ghost |image1=Raiju Discovered.jpg |strength=*Active electronics boost its speed during hunts |weakness(es)=*Disrupts electronics from further away when manifesting |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|a"
       },
       {
@@ -1206,8 +1206,8 @@
       {
         "t": "Moroi",
         "f": "pages/en/Moroi.txt",
-        "b": 10759,
-        "r": 25151,
+        "b": 10709,
+        "r": 25154,
         "x": "{{Ghost |image1=Moroi Discovered.jpg |strength= *Hunting speeds depend directly on average team sanity |abiliti(es)=*Can curse players through the spirit box or the parabolic microphone, making them lose sanity faster |w"
       },
       {

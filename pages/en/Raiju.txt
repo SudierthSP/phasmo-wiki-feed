@@ -1,7 +1,7 @@
 # Raiju
-# revid 25143  2026-10-24T01:09:12Z  by Darkhooper
-# 备注: bug with placed motion sensors and dots projectors
-# sha256 2349a50487108a94a6a89c262430c7f017ba0b23218a41176f43f6107919e6ef  bytes 5866
+# revid 25155  2026-10-26T17:30:26Z  by Darkhooper
+# 备注: tier 1 DOTS bug
+# sha256 43f4a7a352fcf200ccc1958a758bbcff1285681618ac9f8a80b3acd5ddc8f4bb  bytes 6023
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -29,9 +29,9 @@ When the Raiju is within a certain distance of at least one piece of active elec
 
 Otherwise, it will have the standard threshold of 50% and will follow [[Hunt#Ghost_speeds|standard ghost speeds]] with one particularity: if the Raiju has line-of-sight with a player while near active electronic equipment, the speed increase from continuous line-of-sight adds in the background, and will only be applied once it is no longer near any electronics.
 
-All effects listed above apply to most electronic equipment, whether they are placed, held in the hand, or dropped on the floor.<ref group="note">There is a bug where motion sensors and D.O.T.S. projectors placed on a wall or a ceiling do not count.</ref> The following do ''not'' count towards the speed boost or the hunt sanity threshold:
+All effects listed above apply to most electronic equipment, whether they are placed, held in the hand, or dropped on the floor.<ref group="note">There is a bug where motion sensors and D.O.T.S. projectors placed on a wall or a ceiling do not count.</ref><ref group="note">There is a bug where a placed tier I D.O.T.S. projector is always considered as an active electronic equipment, even when turned off.</ref> The following do ''not'' count towards the speed boost or the hunt sanity threshold:
 *[[Voice chat#Global chat|Global chat]]
-*[[Video camera]]s and [[Photo Camera|Photo Cameras]] that are ''thrown'' on the ground
+*[[Video camera]]s and [[Photo Camera|photo cameras]] that are ''thrown'' on the ground
 *[[Motion Sensor|Motion sensors]], [[Sound Sensor|sound sensors]], and [[D.O.T.S. Projector]]s that are ''thrown'' on the ground or held (excluding T1 D.O.T.S., which also needs to be turned ''off'')
 *Objects in the inventory (except flashlights that are turned ''on'')
 *Any other electrical equipment not brought in from the truck (building lights, [[fuse box]], [[Video Feed|CCTV]], fans, etc.)
