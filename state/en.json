@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-24T21:37:55.723Z",
+  "updated": "2026-10-26T06:59:46.833Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -351,8 +351,8 @@
       "redirect": false
     },
     "Ghost Event": {
-      "revid": 25025,
-      "ts": "2026-09-29T05:12:25Z",
+      "revid": 25149,
+      "ts": "2026-10-26T02:08:42Z",
       "redirect": false
     },
     "Player": {
@@ -656,8 +656,8 @@
       "redirect": false
     },
     "Obake": {
-      "revid": 24341,
-      "ts": "2026-07-27T13:57:58Z",
+      "revid": 25150,
+      "ts": "2026-10-26T02:14:34Z",
       "redirect": false
     },
     "Maple Lodge Campsite": {
@@ -986,8 +986,8 @@
       "redirect": false
     },
     "Moroi": {
-      "revid": 24626,
-      "ts": "2026-09-11T04:17:05Z",
+      "revid": 25151,
+      "ts": "2026-10-26T03:06:02Z",
       "redirect": false
     },
     "Thaye": {
@@ -1211,8 +1211,8 @@
       "redirect": false
     },
     "Monkey Paw": {
-      "revid": 25137,
-      "ts": "2026-10-23T15:23:24Z",
+      "revid": 25152,
+      "ts": "2026-10-26T03:23:49Z",
       "redirect": false
     },
     "0.8.1.1": {

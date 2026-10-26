@@ -1,7 +1,7 @@
 # Obake
-# revid 24341  2026-07-27T13:57:58Z  by Darkhooper
-# 备注: slight rewording
-# sha256 d3188548f91f26f9f60c138cb2074fad7b0c3769a7d2073aa6adaea0102fc656  bytes 10097
+# revid 25150  2026-10-26T02:14:34Z  by Darkhooper
+# 备注: host/non-host issue
+# sha256 a92c50301741c2f18e1d9a3d0986ab57094665e7cf261168aea017ec6d044840  bytes 10321
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -34,7 +34,7 @@ When creating handprints or fingerprints, there is a one-sixth (~16.7%)<ref>http
 When performing a fake hunt [[ghost event]] or a [[Music Box]] event, the Obake is the only ghost that will sometimes miss a footstep sound.<ref>[https://www.youtube.com/watch?v=orYYC0qT1zE A footstep sound test (on YouTube). 14 December 2024.]</ref> This is very likely a bug.
 
 ===Ability===
-The Obake occasionally triggers an ability to reduce the remaining time for all existing fingerprints on the map by half. For example, two fingerprints lingering on the map with 40 seconds and 70 seconds before timing out and disappearing are cut in half to 20 and 35 seconds remaining respectively.
+The Obake occasionally triggers an ability to reduce the remaining time for all existing fingerprints on the map by half.<ref group="note">There is a bug making this ability only apply on the host's point of view; a non-host will always see the fingerprints disappear after the duration set in the difficulty.</ref> For example, two fingerprints lingering on the map with 40 seconds and 70 seconds before timing out and disappearing are cut in half to 20 and 35 seconds remaining respectively.
 
 ===Hunt===
 When [[Hunt#Ghost flickering|flickering]] during a hunt, the Obake will occasionally shapeshift into a different ghost model of the same gender on one visibility timer before returning to its normal model on the following visibility timer. Dead players cannot see this shapeshift.
@@ -79,9 +79,9 @@ Although the Obake has a 75% chance to leave Ultraviolet evidence, due to probab
 
 If you are on a zero-evidence run, the Obake will never produce fingerprints nor footprints, and will mainly be identified by spotting its shapeshifting power during a hunt. In multiplayer, one player can stay in the investigation area and hide while other players can look through set-up [[Video Camera|Video Cameras]] in safety while the ghost is hunting; in singleplayer, strong looping skills are very favorable in order to maintain sight on it for extended periods of time to catch it changing models during a flicker.
 
-* Finding a proper looping spot is important; some spots such as the cars in some suburban houses do not allow the player to see the ghost when looping it, and trying to identify an Obake by looping there is pointless.
-* This tends to become much easier if the ghost is using the child or Patient 07 model, as those models can also be crawling (or bent backwards in the case of Patient 07), and will reset to the normal standing posture when it shifts, resulting in a sudden, extremely obvious posture change for a single blink.
-* Usage of [[Incense]] or Tier III [[Salt]] to hinder the ghost can make the task significantly easier. A Video Camera can also be a powerful tool even in singleplayer, especially if the player cannot see the ghost well due to poor lighting or other reasons; the Camera screen will visibly display "Ghost Shapeshift" if it is pointed at the ghost when it shifts, immediately giving an Obake away.
+*Finding a proper looping spot is important; some spots such as the cars in some suburban houses do not allow the player to see the ghost when looping it, and trying to identify an Obake by looping there is pointless.
+*This tends to become much easier if the ghost is using the child or Patient 07 model, as those models can also be crawling (or bent backwards in the case of Patient 07), and will reset to the normal standing posture when it shifts, resulting in a sudden, extremely obvious posture change for a single blink.
+*Usage of [[Incense]] or Tier III [[Salt]] to hinder the ghost can make the task significantly easier. A Video Camera can also be a powerful tool even in singleplayer, especially if the player cannot see the ghost well due to poor lighting or other reasons; the Camera screen will visibly display "Ghost Shapeshift" if it is pointed at the ghost when it shifts, immediately giving an Obake away.
 
 Another way to identify the Obake is by spotting its missing footstep sounds either in a sequence of 3+ steps after it stepped in a single salt pile, or during fake hunt/Music Box events. Both of these methods also work on zero-evidence runs. Additionally, in multiplayer, if a player doesn't hear the same number of footstep sounds than another player for one sequence, then it is an Obake.
 
@@ -107,9 +107,11 @@ Note that there are [[difficulty]] settings that can change the default chance o
 |-
 |}
 
-== References ==
+==References==
 {{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
 {{GhostNav}}
-[[ru:Обакэ]]
-[[fr:Obake]]
 [[Category:Ghosts]]
+[[fr:Obake]]
+[[ru:Обакэ]]

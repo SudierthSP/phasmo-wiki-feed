@@ -1,7 +1,7 @@
 # Ghost Event
-# revid 25025  2026-09-29T05:12:25Z  by Darkhooper
-# 备注: Phantom drain
-# sha256 49c4b8df679bc6d02fba037f98af73644b9aa2688f1120d67924218385a8f09a  bytes 12017
+# revid 25149  2026-10-26T02:08:42Z  by Darkhooper
+# 备注: host/non-host issue
+# sha256 60ecd55f2d5dedb1e9ed360a7bc98e7ee0091b3fbcf56b898640b605d330bc9c  bytes 12129
 # 源: https://phasmophobia.fandom.com/api.php
 
 A '''ghost event''' is a manifestation of the [[ghost]] in the mortal world other than a [[hunt]] and which does not directly interact with the environment (unlike an [[interaction]]). Ghost events vary from full on physical apparitions to mere balls of smoke and usually produce sound (hissing, moaning, chanting etc.) perceivable without the use of specialized [[equipment]].
@@ -46,7 +46,7 @@ Nearby electronics will malfunction and lights will flicker, giving the impressi
 The ghost manifests itself in one spot and stays still for 2 to 5 seconds. One of three things will happen:
 *No additional features other than the [[light]]s in the room turning off.
 *All lights in the room will be glowing red for the duration of the event before turning off.
-*All lights in the room will flicker (if turned on), can no longer be toggled, then shatter at the end of the event.
+*All lights in the room will flicker (if turned on), can no longer be toggled<ref group="note">There is a bug where non-hosts can still toggle them.</ref>, then shatter at the end of the event.
 
 If the target player for the ghost event is in a room with broken lights, the ghost will fail to perform the standing event though it can still choose it among all ghost event types.
 
@@ -263,6 +263,8 @@ The following are ''not'' considered ghost events:
 
 ==References==
 {{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
 [[Category:Ghost State]]
 [[de:Geisteraktivitäten]]
 [[fr:Événement paranormal]]

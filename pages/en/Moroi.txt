@@ -1,7 +1,7 @@
 # Moroi
-# revid 24626  2026-09-11T04:17:05Z  by Darkhooper
-# 备注: how moroi curses with sound recorder
-# sha256 f83c2ebd4013e467af6e6f2fcc305562da9e256270b02dc0008e08a3a6b1e465  bytes 10167
+# revid 25151  2026-10-26T03:06:02Z  by Darkhooper
+# 备注: added in Notes: due to an oversight, the Moroi can have a speed of 0.
+# sha256 2cc07257a227d6500a1dc3a3308eeecf178f9b701e7d628ab243a0947dc862c6  bytes 10485
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -30,10 +30,10 @@ When a player is cursed, their passive [[sanity]] drain is doubled and being in 
 The Moroi's speed is dependent on the average sanity, and will change during a hunt according to the current average sanity. The base speed increases by an average of 0.083 m/s for every 5% average sanity below its average hunt threshold of 50%. The list below shows each possible base speed for the Moroi:<ref>[https://discord.com/channels/493757248842235906/775543308012224523/1020350064620752986 ''..."Now I got confirmation from the OG Phasmo dev himself DKnighter who sent me the following values..."'' PsychoHypnotic, 16 Sep 2022 (on Discord).]</ref>
 {| class="article-table"
 |+
-!'''Average sanity %'''
+!'''Average sanity'''
 !'''Base ghost speed'''
 |-
-|≥ 45%
+|≥ 45%<ref group="note">Due to an oversight in development, the Moroi's speed is actually defined for an average sanity that is strictly greater than 45%, and as the next interval requires the average sanity to be strictly less than 45%, this means the Moroi will move at 0 m/s when the average sanity is at exactly 45%.</ref>
 |1.5 m/s
 |-
 |40% - 45%

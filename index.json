@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T21:37:55.277Z",
+  "generated": "2026-10-26T06:59:46.416Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -471,8 +471,8 @@
       {
         "t": "Ghost Event",
         "f": "pages/en/Ghost Event.txt",
-        "b": 12241,
-        "r": 25025,
+        "b": 12359,
+        "r": 25149,
         "x": "A '''ghost event''' is a manifestation of the [[ghost]] in the mortal world other than a [[hunt]] and which does not directly interact with the environment (unlike an [[interaction]]). Ghost events vary from full on phys"
       },
       {
@@ -800,8 +800,8 @@
       {
         "t": "Obake",
         "f": "pages/en/Obake.txt",
-        "b": 10318,
-        "r": 24341,
+        "b": 10545,
+        "r": 25150,
         "x": "{{Ghost |title=Obake |image1=Obake Discovered.jpg |strength=*Fingerprints can disappear faster than usual *Occasionally fails to leave fingerprints |abiliti(es)=*Has a chance to blink in a different ghost model when hunt"
       },
       {
@@ -1206,8 +1206,8 @@
       {
         "t": "Moroi",
         "f": "pages/en/Moroi.txt",
-        "b": 10408,
-        "r": 24626,
+        "b": 10759,
+        "r": 25151,
         "x": "{{Ghost |image1=Moroi Discovered.jpg |strength= *Hunting speeds depend directly on average team sanity |abiliti(es)=*Can curse players through the spirit box or the parabolic microphone, making them lose sanity faster |w"
       },
       {
@@ -1479,8 +1479,8 @@
       {
         "t": "Monkey Paw",
         "f": "pages/en/Monkey Paw.txt",
-        "b": 10794,
-        "r": 25137,
+        "b": 10892,
+        "r": 25152,
         "x": "{{Item_Template |img=Monkey Paw.png |imgcaption= |uses=3-5 (difficulty dependent) |description= }}{{Quote|speaker=Objective Board|quote=My wish came true, but at what cost?}} The '''Monkey Paw''' is a [[Cursed Possession"
       },
       {
