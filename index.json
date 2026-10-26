@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T19:55:02.953Z",
+  "generated": "2026-10-26T23:29:43.572Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -1500,8 +1500,8 @@
       {
         "t": "Challenge Mode",
         "f": "pages/en/Challenge Mode.txt",
-        "b": 44252,
-        "r": 23305,
+        "b": 44128,
+        "r": 25157,
         "x": "The '''Challenge Mode''' is a feature introduced in [[0.8.1.0]]. It allows players to take part in a curated custom [[difficulty]], often based on Professional, with predetermined rules and set of starter items. As playe"
       },
       {
