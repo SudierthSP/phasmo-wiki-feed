@@ -1,7 +1,7 @@
 # Point Hope
-# revid 25053  2026-10-04T16:57:17Z  by Darkhooper
-# 备注: explanation on why the bone cannot spawn in Maintenance Room
-# sha256 27f64200d16d48ef0b15beca366f2eea20e0e32daaf89687d6b674c3de25a96c  bytes 15733
+# revid 25169  2026-10-28T09:53:53Z  by Darkhooper
+# 备注: 15% of 18
+# sha256 3ab95041027fabced43fe9dbf2751b307b23c0cdaa8cf3ee01d8b2836d6a2c26  bytes 15733
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Location
@@ -201,7 +201,7 @@ Depending on the "Doors starting open" [[difficulty]] parameter, a certain numbe
 |-
 !Number
 |0
-|4
+|3
 |6
 |9
 |}

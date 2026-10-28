@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T02:12:40.318Z",
+  "generated": "2026-10-28T15:26:14.025Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -401,15 +401,15 @@
       {
         "t": "10 Ridgeview Court",
         "f": "pages/en/10 Ridgeview Court.txt",
-        "b": 6439,
-        "r": 24883,
+        "b": 6429,
+        "r": 25165,
         "x": "{{Location |img=Ridgeview living room.png |imgcaption=A view from the living room. |mapsize=Small |unlocklevel=2 |floors=3 |rooms=16 (Total) *2F: 6 *1F: 9 *B: 1 |exits=1 |faucets=5 |videofeeds=1 |keys=Front Door Key, Car"
       },
       {
         "t": "42 Edgefield Road",
         "f": "pages/en/42 Edgefield Road.txt",
-        "b": 6981,
-        "r": 24921,
+        "b": 6971,
+        "r": 25167,
         "x": "{{Location |img=Edgefield first floor hallway.png |imgcaption=A view from the first floor hallway. |mapsize=Small |unlocklevel=2 |floors=3 |rooms=16 (Total) *2F: 8 *1F: 7 *B: 1 |exits=1 |faucets=4 |videofeeds=1 |keys=Fro"
       },
       {
@@ -611,8 +611,8 @@
       {
         "t": "Prison",
         "f": "pages/en/Prison.txt",
-        "b": 13438,
-        "r": 25029,
+        "b": 13408,
+        "r": 25170,
         "x": "{{Location |img=Prison.png |imgcaption=A view inside a cell block. |mapsize=Medium |unlocklevel=11 |floors=2 |rooms=31 (Total) *2F: 12 *1F: 19 *29 possible ghost rooms |exits=3 |faucets=6 (2F) 10 (1F) |videofeeds=5 (2F) "
       },
       {
@@ -681,8 +681,8 @@
       {
         "t": "13 Willow Street",
         "f": "pages/en/13 Willow Street.txt",
-        "b": 5407,
-        "r": 24957,
+        "b": 5397,
+        "r": 25166,
         "x": "{{Location |img=willow new.png |imgcaption=View of the front porch of the yellow brick single-story home. |mapsize=Small |unlocklevel=6 |floors=2 |rooms=10 (Total) *1F: 7 *B: 3 |exits=1 |faucets=3 |videofeeds=1 |keys=Fro"
       },
       {
@@ -1003,8 +1003,8 @@
       {
         "t": "Music Box",
         "f": "pages/en/Music Box.txt",
-        "b": 8144,
-        "r": 25021,
+        "b": 8245,
+        "r": 25163,
         "x": "{{Item_Template |img=Music box display.jpg |imgcaption= |maxamount=1 |uses=1 |description= }}{{Quote|speaker=Objective Board|quote=A music box, the song is nice, but creepy.}} The '''music box''' is a [[Cursed Possession"
       },
       {
@@ -1269,8 +1269,8 @@
       {
         "t": "Door",
         "f": "pages/en/Door.txt",
-        "b": 6552,
-        "r": 24666,
+        "b": 6635,
+        "r": 25164,
         "x": "'''Doors''' are map elements that play an important role in ''Phasmophobia''. They are crucial to the game's mechanics and provide help during investigations. ==Types of doors== All [[map]]s contain doors of some sort. T"
       },
       {
@@ -1780,8 +1780,8 @@
       {
         "t": "Point Hope",
         "f": "pages/en/Point Hope.txt",
-        "b": 16003,
-        "r": 25053,
+        "b": 15952,
+        "r": 25169,
         "x": "{{Location |img=PointHope Top.png |imgcaption=A view from the top of the lighthouse. |mapsize=Medium |unlocklevel=15 |floors=10 |rooms=16 (Total) *10F: 1 *9F: 2 *8F: 1 *7F: 2 *6F: 2 *5F: 2 *4F: 1 *3F: 1 *2F: 1 *1F: 3 *12"
       },
       {
@@ -2039,8 +2039,8 @@
       {
         "t": "Nell's Diner",
         "f": "pages/en/Nell's Diner.txt",
-        "b": 5903,
-        "r": 25003,
+        "b": 5907,
+        "r": 25168,
         "x": "{{Location |img=Nell's Diner.png |imgcaption=The front of the diner. |mapsize=Small |unlocklevel=5 |floors=1 |rooms=14 (Total) *13 possible ghost rooms |exits=2 |faucets=10 |videofeeds=3 |keys=Main Door Key |img rooms=Ro"
       },
       {

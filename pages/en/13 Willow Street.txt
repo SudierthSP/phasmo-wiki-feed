@@ -1,7 +1,7 @@
 # 13 Willow Street
-# revid 24957  2026-09-18T17:39:08Z  by Darkhooper
-# 备注: changed page layout
-# sha256 8e1637c254a9f30c886cd74e9e022234d2c4a0607e1856536bdc85853456de7f  bytes 5173
+# revid 25166  2026-10-28T09:49:08Z  by Darkhooper
+# 备注: 15% of 40
+# sha256 a65dce2cc91b9cf506961cd840a30c08477e8c8d14ac58fd5510e9c8c7aa8135  bytes 5173
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Location
@@ -46,7 +46,7 @@ Depending on the "Doors starting open" [[difficulty]] parameter, a certain numbe
 |-
 !Number
 |0
-|8
+|6
 |14
 |20
 |}

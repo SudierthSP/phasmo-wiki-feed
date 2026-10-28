@@ -1,7 +1,7 @@
 # 10 Ridgeview Court
-# revid 24883  2026-09-18T16:46:03Z  by Darkhooper
-# 备注: changed page layout
-# sha256 9e98c8249395f84e316c8fcba2de5d2aaaf1035ef1a7871781cdc75230813176  bytes 6203
+# revid 25165  2026-10-28T09:47:54Z  by Darkhooper
+# 备注: 15% of 28
+# sha256 ee2a40ad31bbc2409fe004c3a921d5655df74eb876d320db3e82542761a8b129  bytes 6203
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Location
@@ -50,7 +50,7 @@ Depending on the "Doors starting open" [[difficulty]] parameter, a certain numbe
 |-
 !Number
 |0
-|6
+|5
 |10
 |14
 |}

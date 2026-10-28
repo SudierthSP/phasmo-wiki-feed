@@ -1,7 +1,7 @@
 # Nell's Diner
-# revid 25003  2026-09-18T19:44:23Z  by Darkhooper
-# 备注: doors
-# sha256 15343933c33e951733b8afe068d2a0756c3f9dd3ab5551adb248e084d32f7594  bytes 5687
+# revid 25168  2026-10-28T09:52:20Z  by Darkhooper
+# 备注: 15% of 22
+# sha256 5524dcaaf224c5ab198cdb8bb3cc2546d4a6a879668c95062c0484e37fe144a6  bytes 5687
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Location
@@ -49,7 +49,7 @@ Depending on the "Doors starting open" [[difficulty]] parameter, a certain numbe
 |-
 !Number
 |0
-|5
+|4
 |8
 |11
 |}

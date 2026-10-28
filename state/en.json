@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-28T02:12:40.735Z",
+  "updated": "2026-10-28T15:26:14.392Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -301,13 +301,13 @@
       "redirect": false
     },
     "10 Ridgeview Court": {
-      "revid": 24883,
-      "ts": "2026-09-18T16:46:03Z",
+      "revid": 25165,
+      "ts": "2026-10-28T09:47:54Z",
       "redirect": false
     },
     "42 Edgefield Road": {
-      "revid": 24921,
-      "ts": "2026-09-18T17:08:30Z",
+      "revid": 25167,
+      "ts": "2026-10-28T09:50:23Z",
       "redirect": false
     },
     "Bleasdale Farmhouse": {
@@ -481,8 +481,8 @@
       "redirect": false
     },
     "Prison": {
-      "revid": 25029,
-      "ts": "2026-10-01T13:17:32Z",
+      "revid": 25170,
+      "ts": "2026-10-28T09:57:09Z",
       "redirect": false
     },
     "Phasmophobia Wiki": {
@@ -551,8 +551,8 @@
       "redirect": false
     },
     "13 Willow Street": {
-      "revid": 24957,
-      "ts": "2026-09-18T17:39:08Z",
+      "revid": 25166,
+      "ts": "2026-10-28T09:49:08Z",
       "redirect": false
     },
     "Goryo": {
@@ -806,8 +806,8 @@
       "redirect": false
     },
     "Music Box": {
-      "revid": 25021,
-      "ts": "2026-09-28T23:05:39Z",
+      "revid": 25163,
+      "ts": "2026-10-28T09:15:48Z",
       "redirect": false
     },
     "Haunted Mirror": {
@@ -1031,8 +1031,8 @@
       "redirect": false
     },
     "Door": {
-      "revid": 24666,
-      "ts": "2026-09-15T04:26:32Z",
+      "revid": 25164,
+      "ts": "2026-10-28T09:44:25Z",
       "redirect": false
     },
     "Camp Woodwind": {
@@ -1486,8 +1486,8 @@
       "redirect": false
     },
     "Point Hope": {
-      "revid": 25053,
-      "ts": "2026-10-04T16:57:17Z",
+      "revid": 25169,
+      "ts": "2026-10-28T09:53:53Z",
       "redirect": false
     },
     "0.10.0.1": {
@@ -1731,8 +1731,8 @@
       "redirect": false
     },
     "Nell's Diner": {
-      "revid": 25003,
-      "ts": "2026-09-18T19:44:23Z",
+      "revid": 25168,
+      "ts": "2026-10-28T09:52:20Z",
       "redirect": false
     },
     "0.15.1.0": {

@@ -1,7 +1,7 @@
 # Prison
-# revid 25029  2026-10-01T13:17:32Z  by Darkhooper
-# 备注: doors starting open on Restricted
-# sha256 1ebacb08439cc6381142912366ab907a41723d1272285a2900f68f5bb0388c40  bytes 13199
+# revid 25170  2026-10-28T09:57:09Z  by Darkhooper
+# 备注: 15%
+# sha256 5b2cd37b913e38b1006468dfc6acd19924b4dfea8640ebec798db1f2649d9c20  bytes 13199
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Location
@@ -172,7 +172,7 @@ Depending on the "Doors starting open" [[difficulty]] parameter, a certain numbe
 |-
 !Number
 |0
-|4
+|3
 |6
 |8
 |}
@@ -257,7 +257,7 @@ Depending on the "Doors starting open" [[difficulty]] parameter, a certain numbe
 |-
 !Number
 |0
-|6
+|5
 |10
 |14
 |}

@@ -1,0 +1,361 @@
+# Prison
+# revid 25170  2026-10-28T09:57:09Z  by Darkhooper
+# 备注: 15%
+# sha256 5b2cd37b913e38b1006468dfc6acd19924b4dfea8640ebec798db1f2649d9c20  bytes 13199
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Location
+|img=Prison.png 
+|imgcaption=A view inside a cell block.
+|mapsize=Medium
+|unlocklevel=11
+|floors=2
+|rooms=31 (Total)
+*2F: 12
+*1F: 19
+*29 possible ghost rooms
+|exits=3
+|faucets=6 (2F) 10 (1F)
+|videofeeds=5 (2F) 6 (1F)
+|keys=Main Door Key
+|img rooms=Rooms Prison.png
+|img sanity=Sanity Prison.png
+|img temperatures=Temperatures Prison.png
+}}
+{{Quote
+|quote=Recently closed due to some unexplainable deaths, this facility now imprisons the paranormal.
+|speaker=Loading blurb
+}}The Prison is a medium [[map]] in ''Phasmophobia'', the second of its size type to be added to the game. The Prison bears a dilapidated, spartan environment, with long corridors subdivided with metal bars that make encounters with [[ghost]]s unnerving.
+
+==Structure==
+Prison contains a variety of rooms, including two prison blocks containing all the jail cells, offices of various types, an infirmary room, visitation rooms, and more. Though slightly smaller than [[Brownstone High School]], the Prison can be just as dangerous: a safe location during a [[hunt]] may be a great distance away, demanding a long run, compounded with the ghost's [[Ghost Room|favourite room]] being able to be located in many areas that have only one or two routes of escape, including congested catwalks and entire cell block floors. [[Incense]] may be essential for survival in these situations, especially against ghosts with a speed advantage. 
+
+Many parts of the building have light switches located in nearby separate rooms, requiring players to head away from them to manipulate the location's lighting. This can occasionally cause confusion with the ghost manipulating switches that illuminate other rooms.
+
+===Layout tips===
+*There are exit doors at the end of both prison blocks that lead into an outdoor courtyard, providing an alternative access route. This outside area also prevents passive [[sanity]] drain.
+*Each cell block consists of 5 distinct rooms. The first floor consists of three rooms: the left row of prison cells, the right row of prison cells including the small control room, and the open area in between, which includes the area up to the inner steel gates. The second floor consists of two rooms, split evenly down the middle with each row of cells in one room.
+*The two upstairs rooms with hospital beds (separated by a single door) are considered by the game as one room called "Infirmary".
+*The upstairs room named "Infirmary Hallway" consists of 4 smaller "sub-rooms", including the small hallway leading to "Cafeteria Security" and the small control room.
+*The light switch in the control room located on the bottom right of each cell block counts as a main room light (for sanity drain prevention) for the hallway of that cell block, and not for the row of cells.
+*The computer keyboards in the cell block control rooms control the lights for the entire cell block.
+*The light switches for the Main Hallway are found in the Central Control room.
+
+The following rooms cannot be chosen as a [[Ghost Room|favourite room]]:
+*Main Hallway
+*Office Hallway
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room [[light]]s being on:
+*Entrance
+*Main Hallway
+*Cafeteria
+*Office Hallway
+
+Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
+{| class="article-table"
+!Parameter
+!None
+!Low
+!Medium
+!High
+|-
+!Number
+|0
+|6
+|12
+|18
+|}
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 4 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Entrance
+|[[File:Prison Entrance unavailable.png|200px]]
+|[[File:Prison Entrance available.png|200px]]
+|-
+|Cafeteria
+|[[File:Prison Cafeteria unavailable.png|200px]]
+|[[File:Prison Cafeteria available.png|200px]]
+|-
+|Infirmary
+|[[File:Prison Infirmary unavailable.png|200px]]
+|[[File:Prison Infirmary available.png|200px]]
+|-
+|Cafeteria Security
+|[[File:Prison Cafeteria Security unavailable.png|200px]]
+|[[File:Prison Cafeteria Security available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|4
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|3
+|
+*3-player game: +1 available hiding spot
+*4-player game: +1 available hiding spot
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|2
+|rowspan="2"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|1
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+==Tips for surviving hunts==
+{{See also|Guides/Surviving a hunt}}
+*Due to the extremely limited hiding spots especially relative to the map's huge size, players should have an escape route ready, and be on the lookout and ready to run as soon as a hunt starts; if escaping from their current position isn't feasible e.g. in the Cafeteria which is nearly impossible to escape before the grace period ends, players should have Incense handy to protect themselves.
+*If the player is near the cell blocks when a hunt begins, the cells are actually relatively safe despite looking like awful hiding spots on paper, as the ghost cannot see through cell walls (though if one is unlucky, the ghost can still randomly wander into a cell and kill the player there); this even allows the player to observe the ghost's hunt behavior freely to try and identify it.
+*Due to the map's large size, a true hiding spot might not even be needed, and oftentimes it is simply enough to sit in a room far away from the ghost, as it's extremely unlikely the ghost will wander to your location just by chance if it hasn't detected you; a tier III Parabolic Microphone can be used to keep track of the ghost's location to ensure this doesn't happen (or give you ample warning to run if it does happen).
+*While not as secure as official hiding spots, there are some unofficial hiding spots that can work decently well, especially since these spots are always available unlike official hiding spots which may be blocked off; some examples include:
+**Behind some lockers in the Infirmary Hallway
+**Behind the large chair in the Warden's Office
+**Behind the large chair in the Chief Security Office
+**In a corner behind a table in the Main Office
+**Inside stalls in the Office Toilet
+**Behind some lockers in Inspection
+**Behind some lockers in Visitation Security
+
+==Prison - Restricted==
+The restricted version of the map can be selected independently of the main location, and is considered a small map. In the Restricted version, only the immediate entrance area (where the [[Cursed Possession]]s spawn) and one randomly-selected floor of the front portion of the map will be able to be accessed, with the rest being blocked off. No variant of Prison Restricted offers access to the cell blocks or the Cafeteria.
+
+<tabber>
+|-|First Floor=
+{{Location
+|title=Prison Restricted
+|img=Prison Restricted 1F.png
+|imgcaption=The prison entrance.
+|mapsize=Small
+|floors=1
+|unlocklevel=11
+|rooms=9 (Total)
+*8 possible ghost rooms
+|exits=1
+|faucets=0
+|videofeeds=4
+|keys=Main Door Key
+|img rooms=Rooms Prison Restricted 1F.png
+|img sanity=Sanity Prison Restricted 1F.png
+|img temperatures=Temperatures Prison Restricted 1F.png
+}}
+===Layout tips===
+The following rooms cannot be chosen as a [[Ghost Room|favourite room]]:
+*Main Hallway
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room [[light]]s being on:
+*Entrance
+*Main Hallway
+
+Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
+{| class="article-table"
+!Parameter
+!None
+!Low
+!Medium
+!High
+|-
+!Number
+|0
+|3
+|6
+|8
+|}
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |The official [[Hiding Spots|hiding spot]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Entrance
+|[[File:Prison Entrance unavailable.png|200px]]
+|[[File:Prison Entrance available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|1
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|0
+|rowspan="3"|
+*3-player game: +1 available hiding spot
+*4-player game: +1 available hiding spot
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|0
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|0
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+
+|-|Second Floor=
+{{Location
+|title=Prison Restricted
+|img=Prison Restricted 2F.png
+|imgcaption=The infirmary hallway.
+|mapsize=Small
+|floors=2
+|unlocklevel=11
+|rooms=10 (Total)
+*2F: 7
+*1F: 3
+*8 possible ghost rooms
+|exits=1
+|faucets=6
+|videofeeds=6
+|keys=Main Door Key
+|img rooms=Rooms Prison Restricted 2F.png
+|img sanity=Sanity Prison Restricted 2F.png
+|img temperatures=Temperatures Prison Restricted 2F.png
+}}
+===Layout tips===
+The following rooms cannot be chosen as a [[Ghost Room|favourite room]]:
+*Main Hallway
+*Office Hallway
+
+The following rooms count as dim rooms and hence will drain [[sanity]] with 80% of the rate, even with all room [[light]]s being on:
+*Entrance
+*Admin Hallway
+*Office Hallway
+
+The following rooms have no main room lights and hence no means of sanity drain prevention:
+*Main Hallway
+
+Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
+{| class="article-table"
+!Parameter
+!None
+!Low
+!Medium
+!High
+|-
+!Number
+|0
+|5
+|10
+|14
+|}
+
+===Key hiding spots and strategies===
+{| class="fandom-table mw-collapsible-content mw-collapsible mw-collapsed"
+! colspan="3" |List of all 2 official [[Hiding Spots|hiding spots]]
+|-
+!Room
+!Unavailable ❌
+!Available ✅
+|-
+|Entrance
+|[[File:Prison Entrance unavailable.png|200px]]
+|[[File:Prison Entrance available.png|200px]]
+|-
+|Infirmary
+|[[File:Prison Infirmary unavailable.png|200px]]
+|[[File:Prison Infirmary available.png|200px]]
+|}
+<br>Depending on the [[difficulty]], a certain number of official hiding spots will be available:
+{| class="article-table"
+!Difficulty
+!Number of available hiding spots
+!Other modifiers
+|-
+|Amateur<br>Number of hiding places: ''Very High''
+|colspan="2"|2
+|-
+|Intermediate<br>Number of hiding places: ''High''
+|1
+|
+*3-player game: +1 available hiding spot
+*4-player game: +1 available hiding spot
+|-
+|Professional<br>Number of hiding places: ''Medium''
+|0
+|rowspan="2"|
+*3-player game: +1 available hiding spot
+*4-player game: +2 available hiding spots
+|-
+|Nightmare<br>Insanity<br>Number of hiding places: ''Low''
+|0
+|-
+|Number of hiding places: ''None''
+|colspan="2"|0
+|}
+</tabber>
+
+==Bone locations==
+Bones spawn randomly, but will only spawn in areas that a ghost can also walk on, within a room that can be chosen as a [[Ghost Room|favourite room]]. Additionally, the bone cannot spawn in '''B Block Hallway''' and '''Infirmary Hallway'''.
+
+==Cursed possession locations==
+All [[cursed possession]]s will spawn in the entrance hallway.
+<gallery>
+File:Prison-Mirror.png|The [[Haunted Mirror]] spawns under a row of chairs.
+File:Prison-Circle .png|The [[Summoning Circle]] spawns at the end of the hallway.
+File:Prison-Cards.png|The [[Tarot Cards]] spawn in the blue crate.
+File:Prison-Music .png|The [[Music Box]] spawns in the black crate.
+File:Prison-Doll.png|The [[Voodoo Doll]] spawns on the table between the crates.
+File:Prison-Board.png|The [[Ouija Board]] spawns on the floor behind the table with the crates.
+Monkeypaw prison.jpg|The [[Monkey Paw]] spawns besides the blue crate on the table.
+</gallery>
+
+==Trivia==
+*The prison's name is "N. E. More Penitentiary" as indicated on a sign above the front door and a notice sign in Entrance.
+*The assets for this map can be found [https://assetstore.unity.com/packages/3d/environments/urban/modular-prison-pack-146929 here].
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.2]]
+|Prison was added to the game. For the next several updates, it would always appear in the contract selection.
+|-
+![[0.28.6.5]]
+|Optimisations to significantly improve load times and fps.
+|-
+![[0.29.6]]
+|The Truck has been moved closer to the entrance.
+|-
+![[0.4.1.0]]
+|Weather can now come through the grated ceilings in the cell blocks.
+|-
+![[0.5.1.0]]
+|Light control computers now change their colour to green when lights are on, and red when off.
+|-
+![[0.6.1.0]]
+|Added 4 additional hiding spots, including 2 in Cafeteria/upstairs deck, and 2 additional lockers in Entrance and Infirmary.
+|-
+! rowspan="2" |[[0.19.0]]
+|Added Prison Restricted.
+|-
+|The Truck has been moved closer to the main entrance.
+|}
+<br />
+{{MapNav}}
+[[Category:Maps]]
+[[Category:Medium Map]]
+[[fr:Prison]]
+[[ru:Prison]]

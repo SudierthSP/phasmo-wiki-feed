@@ -1,6 +1,7 @@
 # Music Box
-# revid 25021  2026-09-28T23:05:39Z  by Darkhooper
-# sha256 08ec8e3d1ee75c5e6b56623039c5a36f80a4e093a66e0bf3f4c887832ef37da1  bytes 7947
+# revid 25163  2026-10-28T09:15:48Z  by JohnTrolll
+# 备注: /* Activation and usage */
+# sha256 9c202c1eca54e35a46fda26a57fa557696827c5b6144fd01273c5ff26d2790a2  bytes 8011
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Item_Template
@@ -19,7 +20,7 @@ A music box has a 1 in 7 chance per contract of being chosen as the cursed posse
 ===Activation and usage===
 When picked up, the music box will open (this does not mean it has been activated). The music box can then be activated using the {{Control|Primary Use}} key. Doing so will end the [[setup phase]] early if it is ongoing. The music box cannot be activated during a [[hunt]], and can only be used once. 
 
-Once activated, if the ghost is within 20 metres of the music box, it will sing along, broadcasting its current location while remaining invisible.
+Once activated, if the ghost is within 20 metres (small maps), 30 metres (medium maps) or 40 metres (large maps) of the music box, it will sing along, broadcasting its current location while remaining invisible.
 
 If the music box is within 5 metres of the ghost, it will trigger a [[ghost event]] where the ghost manifests and begins to walk towards the box. The music box can be handheld or {{Control|placed}} on the floor, the latter being the only safe way to discard the box without triggering a cursed hunt before the ghost event. In all cases, the box will close once it stops playing.
 

@@ -1,7 +1,7 @@
 # 42 Edgefield Road
-# revid 24921  2026-09-18T17:08:30Z  by Darkhooper
-# 备注: changed page layout
-# sha256 86aaf4e1033f7eb948a365dab33d2aace2ab0170f38c705a941366592abe5b44  bytes 6746
+# revid 25167  2026-10-28T09:50:23Z  by Darkhooper
+# 备注: 15% of 31
+# sha256 ce60f8099b13f4230064d92911c8e2730a99c00cdb80d9575883067875631fc5  bytes 6746
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Location
@@ -50,7 +50,7 @@ Depending on the "Doors starting open" [[difficulty]] parameter, a certain numbe
 |-
 !Number
 |0
-|7
+|5
 |11
 |16
 |}
