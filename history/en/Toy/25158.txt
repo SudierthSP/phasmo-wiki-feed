@@ -1,0 +1,109 @@
+# Toy
+# revid 25158  2026-10-27T23:23:43Z  by Darkhooper
+# sha256 7cab7dcd4ef1b845f23b9947d8462448c2e80498afe0d15b409634af8633aa80  bytes 2973
+# 源: https://phasmophobia.fandom.com/api.php
+
+'''Toys''' are props which the [[ghost]] can interact with.
+
+==Mechanics==
+[[File:Teddy Bear.png|right|120x120px|thumb|A Teddy bear in [[Sunny Meadows Mental Institution|Sunny Meadows]].]]
+;Teddy bears
+When a ghost [[Interaction|interacts]] with a teddy bear, one of four things will happen: it will throw the bear, make it giggle, twist its head by 180 degrees, or teleport it to another location.
+
+[[File:Bunny.png|right|120x120px|thumb|A bunny in [[10 Ridgeview Court]].]]
+;Bunnies
+Contrary to teddy bears, ghosts can only throw or teleport bunnies when interacting with them.
+
+[[File:Doll.png|right|120x120px|thumb|A doll in [[Grafton Farmhouse]].]]
+;Dolls
+When a ghost interacts with a doll, it can either:
+*make it talk (70% chance)
+*change its pose (15.3% chance)
+*teleport it elsewhere (9% chance)
+*rotate its head (5.7% chance)
+
+Similarly to [[mannequin]]s, when the ghost attempts to change the doll's pose or teleport it elsewhere, it checks if a player (including dead players) is looking at the doll every 0.5 seconds. The interaction will succeed if no player is looking at it, and will fail if there is still a player looking at it after 10 seconds.
+
+The pose changing will also make the doll face the nearest player.
+
+When the doll is teleported, it will be teleported to a spot on the [[bone]] navmesh in a random player's room, that is further than 0.8 metres away from that player, and outside of their field of view. The teleportation will always change the doll's pose, but will never leave an [[EMF]] reading.
+
+[[File:Parrot.png|right|120x120px]]
+[[File:Shark.png|right|120x120px|thumb|From top: a parrot and a shark in [[Point Hope]].]]
+;Parrot & Sharks
+On [[Point Hope]], a parrot and two sharks can be found in Child Bedroom. When a ghost interacts with them, it can either throw them or play a short sound. Players can also play the short sound by using the {{Control|Primary Use}} button while holding these toys.
+
+===Rewards===
+{{Main|Media}}
+Recording a teddy bear giggling will yield a '''Possessed Toy''' sound in the journal, rewarding up to $7 and 7 XP, depending on the tier of the [[Sound Recorder]] and whether there is a Unique stamp.
+
+==Locations==
+{| class="fandom-table"
+!Map
+!Teddy bears
+!Bunnies
+!Dolls
+!Parrot & Sharks
+|-
+|[[6 Tanglewood Drive]]
+|Nancy's Room
+|
+|Nancy's Room
+|
+|-
+|[[10 Ridgeview Court]]
+|Girls Bedroom
+|Master Bedroom
+|
+|
+|-
+|[[42 Edgefield Road]]
+|Orange Bedroom
+|Orange Bedroom
+|
+|
+|-
+|[[Point Hope]]
+|
+|
+|
+|Child Bedroom
+|-
+|[[Bleasdale Farmhouse]]
+|Master Bedroom
+|
+|
+|
+|-
+|[[Grafton Farmhouse]]
+|
+|
+|Child Bedroom
+|
+|-
+|[[Camp Woodwind]]
+|Yellow Tent
+|Kids Area
+|
+|
+|-
+|[[Maple Lodge Campsite]]
+|Yellow Tent
+|
+|
+|
+|-
+|[[Sunny Meadows Mental Institution|Sunny Meadows]]/[[Sunny Meadows Mental Institution#Sunny Meadows Mental Institution - Restricted|Restricted]]
+|Female Room 2
+|
+|
+|
+|}
+
+==See also==
+* [[Map]]
+{{MapFeatureNav}}
+[[Category:Item]]
+[[Category:Map Features]]
+[[fr:Jouet]]
+[[ru:Игрушки]]

@@ -1,0 +1,80 @@
+# Mannequin
+# revid 25159  2026-10-27T23:23:45Z  by Darkhooper
+# sha256 a1c8b705f13591691103a6f36cf0fc36df8bad02a08bae781f5a8877e6c1a4cc  bytes 2616
+# 源: https://phasmophobia.fandom.com/api.php
+
+'''Mannequins''' are props that the [[ghost]] can interact with. They are most commonly found in garages and basements.
+
+==Mechanics==
+Players cannot interact with or move dress forms/mannequins in any way.
+
+;Dress Form
+Dress forms can either be rotated or teleported elsewhere at fixed spots by the ghost. When the dress form is teleported, the [[EMF]] reading will be located at the dress form's previous location.
+
+;Mannequin
+Similarly to the dress form, when the ghost [[Interaction|interacts]] with a mannequin, it can either:
+*change its pose (51% chance)
+*teleport it elsewhere (30% chance)
+*rotate its head (19% chance)
+
+When the ghost attempts to change the mannequin's pose or teleport it elsewhere, it checks if a player (including dead players) is looking at the mannequin every 0.5 seconds. The interaction will succeed if no player is looking at it, and will fail if there is still a player looking at it after 10 seconds.
+
+The pose changing will also make the mannequin face the nearest player.
+
+When the mannequin is teleported, it will be teleported to a spot on the [[bone]] navmesh in a random player's room, that is further than 0.8 metres away from that player, and outside of their field of view. The teleportation will always change the mannequin's pose, but will never leave an EMF reading.
+
+==Locations==
+===Dress Forms===
+{| class="fandom-table"
+!Map
+!# of Dress forms
+!Original Location of Dress form(s)
+!Locations Dress form(s) may be teleported to
+|-
+|[[42 Edgefield Road]]
+|2
+|<gallery>
+File:Edgefield Mannequin 1.png|Back right corner of the storage room in the Basement
+File:Edgefield Mannequin 2.png|Corner near the lockers in the Garage</gallery>
+|
+*Back of the Hallway
+*Next to the bathtub in the Bathroom
+|-
+|[[10 Ridgeview Court]]
+|3
+|<gallery>
+File:Ridgeview Mannequin 1.png|Back of the Garage
+File:Ridgeview Mannequin 2.png|Back corner of the left side of the Basement behind shelfs
+File:Ridgeview Mannequin 3.png|Right of the stairs in the Basement</gallery>
+|
+*In the Kitchen by the window outlooking the porch
+*Next to the computer in the Hallway
+|-
+|[[Bleasdale Farmhouse]]
+|1
+|<gallery>
+File:Bleasdale Mannequin.png|On a couch in Attic Space right outside the Attic Bedroom</gallery>
+|
+|}
+
+===Mannequins===
+{| class="fandom-table"
+!Map
+!# of Mannequins
+!Original Location of Mannequin(s)
+|-
+|[[Bleasdale Farmhouse]]
+|1
+|<gallery>
+File:Mannequin Bleasdale.png|In the Master Bedroom</gallery>
+|-
+|[[Grafton Farmhouse]]
+|4
+|<gallery>
+File:Mannequins Grafton.png|In the Work Room</gallery>
+|}
+
+{{MapFeatureNav}}
+[[ru:Манекен]]
+[[Category:Map Features]]
+[[fr:Mannequin]]

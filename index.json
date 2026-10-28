@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T23:29:43.572Z",
+  "generated": "2026-10-28T02:12:40.318Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -709,8 +709,8 @@
       {
         "t": "Toy",
         "f": "pages/en/Toy.txt",
-        "b": 2527,
-        "r": 24422,
+        "b": 3164,
+        "r": 25158,
         "x": "'''Toys''' are props which the [[ghost]] can interact with. ==Mechanics== [[File:Teddy Bear.png|right|120x120px|thumb|A Teddy bear in [[Sunny Meadows Mental Institution|Sunny Meadows]].]] ;Teddy bears When a ghost [[Inte"
       },
       {
@@ -975,8 +975,8 @@
       {
         "t": "Planned updates and features",
         "f": "pages/en/Planned updates and features.txt",
-        "b": 3341,
-        "r": 24623,
+        "b": 3598,
+        "r": 25160,
         "x": "[[File:PhasmophobiaRoadmap2026-2.jpg|thumb|The updated 2026 ''Phasmophobia'' roadmap.]] This page lists '''planned updates and features''' to the game that have been announced or shown in development previews. A more ext"
       },
       {
@@ -1927,9 +1927,9 @@
       {
         "t": "Mannequin",
         "f": "pages/en/Mannequin.txt",
-        "b": 2467,
-        "r": 24421,
-        "x": "'''Mannequins''' are props that the [[ghost]] can interact with. They are most commonly found in garages and basements. ==Mechanics== Players cannot interact with or move mannequins in any way. However, they can block th"
+        "b": 2813,
+        "r": 25159,
+        "x": "'''Mannequins''' are props that the [[ghost]] can interact with. They are most commonly found in garages and basements. ==Mechanics== Players cannot interact with or move dress forms/mannequins in any way. ;Dress Form Dr"
       },
       {
         "t": "0.13.0",

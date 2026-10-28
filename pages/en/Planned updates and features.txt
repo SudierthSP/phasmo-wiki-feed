@@ -1,7 +1,6 @@
 # Planned updates and features
-# revid 24623  2026-09-10T16:24:56Z  by Darkhooper
-# 备注: Unity 6 update now planned for November 2026
-# sha256 fbf41070c49019ce0fe997f4b8412f603ed0f91137adef60b2a4df261672daa5  bytes 3070
+# revid 25160  2026-10-27T23:51:20Z  by Darkhooper
+# sha256 0dcf5379d9f5bd3511f959954cffbfc419487cd5dbe34afc967522f689c9a4ed  bytes 3382
 # 源: https://phasmophobia.fandom.com/api.php
 
 [[File:PhasmophobiaRoadmap2026-2.jpg|thumb|The updated 2026 ''Phasmophobia'' roadmap.]]
@@ -11,17 +10,20 @@ A more extensive list of planned updates and features can be found on the [https
 
 ==Future updates==
 ===2026===
-====Unity 6====
-Planned for November 2026<ref>https://www.kineticgames.co.uk/news/phasmophobia-v01901-patch-notes</ref>, this update will upgrade the game's engine to Unity 6, which comes with a new lighting system, and will rework the networking backend to support quality of life features such as rejoining games after disconnecting and a cross-platform friends list. Color blind accessibility options will also be implemented.
+====Resonance Update====
+Planned for late November 2026<ref>https://www.kineticgames.co.uk/news/phasmophobia-development-preview-22</ref>, this update will upgrade the game's engine to Unity 6, which comes with a new lighting system, and will rework the networking backend to support quality of life features such as rejoining games after disconnecting and a cross-platform friends list. Color blind accessibility options will also be implemented.
+
+A new equipment will be added to the game: the '''Dowsing Rods'''. This new equipment will help players locate the [[bone]].
+
+[[Sound Sensor]]s will be improved to be more useful.
+
+New voice recognition features will be added and changes to the [[Challenge Mode|weekly challenges]] will be made. These were originally part of a Content Update that has since been merged with the Unity 6 Update to form the Resonance Update.
 
 ====Player Character Visual Update====
 Planned for November 2026, this update aims to improve the character models and provide additional [[Cosmetics|cosmetic]] options to further personalize the characters. The [[shop]] UI will also be improved.
 
 ====Edgefield Rework====
 Planned for December 2026, this update will bring a reworked [[42 Edgefield Road]].
-
-====Content Update====
-This update will bring changes to [[Challenge Mode|weekly challenges]] and new voice recognition features.
 
 ===2027===
 ====Phasmophobia 1.0====

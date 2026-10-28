@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-26T23:29:43.941Z",
+  "updated": "2026-10-28T02:12:40.735Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -581,8 +581,8 @@
       "redirect": true
     },
     "Toy": {
-      "revid": 24422,
-      "ts": "2026-08-06T20:21:19Z",
+      "revid": 25158,
+      "ts": "2026-10-27T23:23:43Z",
       "redirect": false
     },
     "Fusebox": {
@@ -786,8 +786,8 @@
       "redirect": false
     },
     "Planned updates and features": {
-      "revid": 24623,
-      "ts": "2026-09-10T16:24:56Z",
+      "revid": 25160,
+      "ts": "2026-10-27T23:51:20Z",
       "redirect": false
     },
     "The Mimic": {
@@ -1631,8 +1631,8 @@
       "redirect": false
     },
     "Mannequin": {
-      "revid": 24421,
-      "ts": "2026-08-06T19:16:45Z",
+      "revid": 25159,
+      "ts": "2026-10-27T23:23:45Z",
       "redirect": false
     },
     "0.13.0": {

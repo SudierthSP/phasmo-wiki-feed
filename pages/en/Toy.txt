@@ -1,7 +1,6 @@
 # Toy
-# revid 24422  2026-08-06T20:21:19Z  by Darkhooper
-# 备注: removed 13 Willow Street
-# sha256 130b60a5182eebbb04cc9cb4fd5f5067be89053aeec99ff94fa91a7d1ad5c0b4  bytes 2301
+# revid 25158  2026-10-27T23:23:43Z  by Darkhooper
+# sha256 7cab7dcd4ef1b845f23b9947d8462448c2e80498afe0d15b409634af8633aa80  bytes 2973
 # 源: https://phasmophobia.fandom.com/api.php
 
 '''Toys''' are props which the [[ghost]] can interact with.
@@ -17,9 +16,18 @@ Contrary to teddy bears, ghosts can only throw or teleport bunnies when interact
 
 [[File:Doll.png|right|120x120px|thumb|A doll in [[Grafton Farmhouse]].]]
 ;Dolls
-On [[Grafton Farmhouse]], dolls can be found in Child Bedroom. When a ghost interacts with them, it can either make them talk, change their pose, or teleport them elsewhere, usually near the player.
+When a ghost interacts with a doll, it can either:
+*make it talk (70% chance)
+*change its pose (15.3% chance)
+*teleport it elsewhere (9% chance)
+*rotate its head (5.7% chance)
 
-[[ru:Игрушки]]
+Similarly to [[mannequin]]s, when the ghost attempts to change the doll's pose or teleport it elsewhere, it checks if a player (including dead players) is looking at the doll every 0.5 seconds. The interaction will succeed if no player is looking at it, and will fail if there is still a player looking at it after 10 seconds.
+
+The pose changing will also make the doll face the nearest player.
+
+When the doll is teleported, it will be teleported to a spot on the [[bone]] navmesh in a random player's room, that is further than 0.8 metres away from that player, and outside of their field of view. The teleportation will always change the doll's pose, but will never leave an [[EMF]] reading.
+
 [[File:Parrot.png|right|120x120px]]
 [[File:Shark.png|right|120x120px|thumb|From top: a parrot and a shark in [[Point Hope]].]]
 ;Parrot & Sharks
@@ -98,3 +106,4 @@ Recording a teddy bear giggling will yield a '''Possessed Toy''' sound in the jo
 [[Category:Item]]
 [[Category:Map Features]]
 [[fr:Jouet]]
+[[ru:Игрушки]]
