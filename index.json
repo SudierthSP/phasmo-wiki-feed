@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T00:10:04.811Z",
+  "generated": "2026-10-29T17:51:08.582Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -982,8 +982,8 @@
       {
         "t": "The Mimic",
         "f": "pages/en/The Mimic.txt",
-        "b": 9617,
-        "r": 25131,
+        "b": 9825,
+        "r": 25173,
         "x": "{{Ghost |image1=The Mimic Discovered.jpg |strength= *Mimics other ghost types one after another for brief periods of time |weakness(es)= *Will always produce false ghost orbs |Evidence1=[[File:Thermometer_Render.png|24x2"
       },
       {

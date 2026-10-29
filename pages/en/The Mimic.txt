@@ -1,7 +1,7 @@
 # The Mimic
-# revid 25131  2026-10-23T14:52:01Z  by Darkhooper
-# 备注: host/non-host issue
-# sha256 1da32c258e400c2be5e3a5047d0d69c37864f2873ca956c5c33f4cefed65af73  bytes 9390
+# revid 25173  2026-10-29T16:02:24Z  by PhasmoLifeIve
+# 备注: Changed a describrion of one thing just so it made moee sense as it was alittle confusing - said bascially the same thing just different + a tip to
+# sha256 4b0883828e334b7943a9919868bfb79f159badea57e19f85cbb1616979db1741  bytes 9467
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -55,7 +55,7 @@ The Mimic provides "evidence" of [[Ghost Orb]]s in addition to its three main ev
 |[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
 |[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]] [[Ultraviolet]]
 |}</center>
-Though Ghost Orbs are always present, this is not considered by the [[Journal]] when inputting evidence. Whether Ghost Orbs is selected does not affect your payout even if the ghost is blanked out when selecting the ghost.
+Though Ghost Orbs always appear, the [[Journal]] won't consider a mimic if you insert Ghost Orbs as an evidence. Therefore if you have a evidence the mimic has and the evidence limit hasn't gone over try to find one more piece of evidence to confirm it is a 'real' piece of evidence or just a decoy.
 
 ==Strengths and weaknesses==
 These are the strengths and weaknesses as listed in the [[journal]]:
