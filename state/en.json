@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-29T17:51:09.185Z",
+  "updated": "2026-10-29T22:15:08.661Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -791,8 +791,8 @@
       "redirect": false
     },
     "The Mimic": {
-      "revid": 25173,
-      "ts": "2026-10-29T16:02:24Z",
+      "revid": 25174,
+      "ts": "2026-10-29T19:50:38Z",
       "redirect": false
     },
     "0.5.0": {

@@ -1,0 +1,98 @@
+# The Mimic
+# revid 25174  2026-10-29T19:50:38Z  by Darkhooper
+# 备注: reduced the sentence in Evidence section as the Strategies section highlights the importance of checking whether Ghost Orb is a 'real' or a 'fake'.
+# sha256 40ee9e41d314045d6322cb4747aeac8b7f89d4520917517bfa87f2c5c1b86936  bytes 9308
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Ghost
+ |image1=The Mimic Discovered.jpg
+ |strength= *Mimics other ghost types one after another for brief periods of time
+ |weakness(es)= *Will always produce false ghost orbs
+ |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
+ |Evidence2=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
+ |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
+}}{{Quote
+ |quote=The Mimic is an elusive, mysterious, copycat ghost that mirrors traits and behaviours from others, including other ghost types.
+ |speaker=The Journal
+}}'''The Mimic''' is a type of [[ghost]] in ''Phasmophobia''. They are known for mimicking the traits of other ghosts.
+
+==Behaviour==
+===Ability===
+The Mimic is able to imitate any type of ghost, and inherit all of its features and abilities:
+*[[Interaction]] and [[ghost event]] rates and preferences
+*[[Hunt]] thresholds
+*Hunt movement speeds
+*Various forms of special abilities (e.g. [[Poltergeist]] multi-throw, [[Demon]] ability hunt)
+
+When imitating a type of ghost, The Mimic will not copy its types of evidence, and will not necessarily provide its guaranteed type of evidence on reduced-evidence [[difficulty|difficulties]] such as Insanity, but can copy features related to evidence. For example, it is able to copy the [[Obake]]'s six-fingered handprints or the [[Deogen]]'s breathing, as The Mimic has Ultraviolet and Spirit Box as evidence, but it cannot copy the [[Goryo]]'s trait of only appearing on a [[Video Camera|video camera]] when in a [[D.O.T.S. Projector (Evidence)|D.O.T.S. state]], as The Mimic does not have D.O.T.S. Projector as one of its types of evidence.
+
+The Mimic will always start in the "blank" state (in which it essentially mimics itself)<ref>https://imgur.com/a/koydG4H</ref> at the beginning of a contract. When this is the case, it will act as a default ghost and have no special abilities. It will attempt to change 1 minute after an [[exit door]] has been opened for the first time, then every 30 seconds to 2 minutes.<ref group="note">There is a bug where if the host leaves the game, The Mimic will be reset to its blank state and will no longer imitate other ghost types.</ref> When the timer is over, the change is queued until The Mimic ends its current state, meaning it cannot change ''during'' a hunt/ghost event/etc.
+
+The Mimic cannot imitate the [[Banshee]] or the [[Dayan]] if it is itself male (i.e. using a male [[ghost model]], male vocalizations, and a male name).
+
+The Mimic, when imitating some specific ghost types, will have some specific behaviours, listed below:
+*[[Banshee]]: It initially has no target. Once the first non-cursed hunt is attempted, a target is chosen randomly.<!-- but this hunt attempt will be failed.-->
+*[[Deogen]]: Only the host player can see its flickering rate during hunts, and obtain/hear/record its paranormal breathing on the [[Spirit Box]].
+*[[Hantu]]: Only the host player can see its cold breath during hunts.
+*[[Kormos]]: It can see further than 5 metres away.
+*[[Moroi]]: Only the host player can be cursed, and the curse will remain even if The Mimic switches to another ghost type. If affected by [[Incense]] during a hunt, it will be blinded for 5 seconds instead of 7.<ref>https://www.youtube.com/watch?v=3OSSjjLMiX4</ref>
+*[[Myling]]: Only the host player will hear its hunt sounds within 12 metres. Non-host players will hear the hunt sounds within 20 metres.
+*[[Obake]]: Only the host player can hear missing footstep sounds outside of hunts, and see its shapeshifts during hunts.
+*[[Obambo]]: A random state will be selected.
+*[[Oni]]: Only the host player can see its flickering rate during hunts.<ref>https://www.youtube.com/watch?v=7HVA25mSdRY</ref>
+*[[Phantom]]: Only the host player can see its flickering rate during hunts.
+*[[Raiju]]: Only the host player will see the electronic disturbance range at 15 metres, and the heartbeat range will be at 10 metres for every player.<ref>https://www.youtube.com/watch?v=chk-7527074</ref>
+*[[Thaye]]: A '''fixed''' age between 0 and 9 will be randomly selected.
+
+If The Mimic is affected by [[Incense]], it will not be able to hunt for the duration associated with the ghost it was imitating at that moment, even if it imitates another ghost before its end.
+
+The Mimic provides "evidence" of [[Ghost Orb]]s in addition to its three main evidence types, which also appear on difficulties with reduced evidence, including zero evidence. These Ghost Orbs, along with the other types of evidence if none are hidden due to the difficulty, will always exist regardless of the type of ghost that The Mimic chooses to imitate, and will behave in exactly the same way as those produced by other ghost types and will only levitate in the [[ghost room]].
+
+==Evidence==
+<center>
+{| class="article-table"
+|[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]] [[Freezing Temperatures]]
+|[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]] [[Spirit Box (Evidence)|Spirit Box]]
+|[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]] [[Ultraviolet]]
+|}</center>
+Though Ghost Orbs always appear, the [[Journal]] will not consider The Mimic among the possible ghosts when that type of evidence is ticked.
+
+==Strengths and weaknesses==
+These are the strengths and weaknesses as listed in the [[journal]]:
+
+''Strength: We're unsure what this ghost is capable of. Be careful.''
+
+''Weakness: Several reports have noted ghost orb sightings near '''mimics'''.''
+
+==Strategies==
+The Mimic's fundamental nature means that it is extremely unpredictable; it might mimic a [[Shade]] and be scared to hunt the whole contract, or it could mimic a [[Moroi]] and rapidly drain everyone's sanity then turn into a [[Revenant]] and wreak havoc with a surprise early hunt. It can theoretically have the powers of almost any ghost type at any time, most notably ghost abilities that could enable early [[hunt]]s.
+
+In theory, the absolute safest way to handle a Mimic is to treat it as if it had ''every'' potential modifier that could increase its aggression/drain player sanity faster than usual, and utilize all tactics that would be used to dissuade attacks from other ghost types. In practice, however, it is oftentimes overkill and a great annoyance to perform all of these at once, with some even conflicting with each other, and most of the time it's simpler to just bring in [[Crucifix]]es early to stop any surprise hunts and/or take [[Sanity Medication]] to refill sanity as needed.
+
+Additionally, it is prudent to have [[Incense]] handy, as The Mimic may imitate fast ghosts such as the [[Revenant]] or [[Deildegast]], catch players by surprise by starting a hunt from an unexpected location if it imitates [[The Twins]] or a stalking ghost ([[Wraith]], [[Phantom]] and [[Banshee]]), or most dangerously imitate the [[Deogen]] or [[Kormos]], and require players to completely change up their strategy from hiding to looping/standing still between hunts, potentially after everyone is already situated at a hiding spot. 
+
+As The Mimic always produces Ghost Orbs and appears to go over the difficulty's maximum amount of given types of evidence, players have to take care when trying to identify the ghost through evidence. However, this can also cause The Mimic to be very simple to identify, as players only need to confirm an additional type of evidence compared to the difficulty. Special care should be taken to avoid misidentifying a Mimic as a [[Hantu]], [[Kormos]], or [[Onryo]] (by failing to gather [[Spirit Box (Evidence)|Spirit Box]], [[Freezing Temperatures]], or [[Ultraviolet]] evidence, respectively).
+
+Ghost behaviour is also a relatively easy, if somewhat luck-dependent way to identify The Mimic; if the player spots conflicting ghost behaviour throughout the contract that seems to indicate different ghosts at different times, it is most likely The Mimic changing between different ghost types. Similarly, identifying the behaviour of a specific ghost type, but then getting types of evidence that it does not have, gives The Mimic away. For example, if the player hears a Banshee's scream on the Parabolic Microphone, but also gets a Spirit Box response which Banshees do not have, then it's guaranteed to be a Mimic.
+
+==Trivia==
+*The Mimic is the only ghost that can leave handprints on the [[Exit Door]]: it must be mimicking a [[Yurei]], it must use the door-closing ability on the exit door, and the Ultraviolet evidence is not hidden. Hence, this occurrence is very rare.
+*It is impossible to get the ''Doom Slayed'' [[Achievements/Trophies|achievement]] against a Mimic due to it remaining in its "blank" state for 1 minute at the beginning of the contract, and therefore cannot use the [[Demon]]'s ability in the required timespan.
+*Since the new alphabetical sorting, the Mimic is sorted under 'the' before [[The Twins]], rather than being listed before [[Moroi]]. This may throw people off when looking for the name. 
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.5.0]]
+|Added The Mimic.
+|}
+
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group="note"}}
+{{GhostNav}}
+[[ru:Мимик]]
+[[Category:Ghosts]]
+[[fr:Le Mimic]]
