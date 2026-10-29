@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T15:26:14.025Z",
+  "generated": "2026-10-29T00:10:04.811Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -86,8 +86,8 @@
       {
         "t": "Ultraviolet",
         "f": "pages/en/Ultraviolet.txt",
-        "b": 8655,
-        "r": 25113,
+        "b": 9025,
+        "r": 25172,
         "x": "{{Evidence_Infobox |image1=Fingerprints_3.png |detected_by=[[File:UVLight_Render.png|24x24px|link=UV Light]] [[UV Light]] }} {{Quote|speaker=The Journal|quote=Some Ghosts have been known to leave fingerprints on objects "
       },
       {
@@ -2172,8 +2172,8 @@
       {
         "t": "Kormos",
         "f": "pages/en/Kormos.txt",
-        "b": 7950,
-        "r": 25133,
+        "b": 8092,
+        "r": 25171,
         "x": "{{Ghost |image1= |strength=*Higher hunt sanity threshold when nearby players sprint outside hunts. *Can detect a player's footsteps from far away during a hunt. |weakness(es)=*Nearly blind and cannot see still players or"
       },
       {

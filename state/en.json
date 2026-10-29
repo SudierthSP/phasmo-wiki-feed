@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-28T15:26:14.392Z",
+  "updated": "2026-10-29T00:10:05.322Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -61,8 +61,8 @@
       "redirect": false
     },
     "Ultraviolet": {
-      "revid": 25113,
-      "ts": "2026-10-20T20:13:58Z",
+      "revid": 25172,
+      "ts": "2026-10-28T23:54:10Z",
       "redirect": false
     },
     "Ouija Board": {
@@ -1836,8 +1836,8 @@
       "redirect": false
     },
     "Kormos": {
-      "revid": 25133,
-      "ts": "2026-10-23T14:59:52Z",
+      "revid": 25171,
+      "ts": "2026-10-28T22:50:29Z",
       "redirect": false
     },
     "0.17.1.1": {

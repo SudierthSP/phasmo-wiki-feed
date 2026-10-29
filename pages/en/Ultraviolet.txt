@@ -1,6 +1,7 @@
 # Ultraviolet
-# revid 25113  2026-10-20T20:13:58Z  by 4ngryth3fan
-# sha256 9de587d7451b5ca6c9cc19d3c6ca6e770ad251eb1bd070fa0b5d6a7c2d92e1ab  bytes 8455
+# revid 25172  2026-10-28T23:54:10Z  by Darkhooper
+# 备注: dead players and fingerprints
+# sha256 7ed66a64c9cd1385aefcad5ef2fe610bd01a18ce6316b5241cd7a5e84449a3c6  bytes 8786
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Evidence_Infobox
@@ -139,6 +140,7 @@ Taking a photo of a fingerprint or a footprint that has been charged using a [[U
 
 ==Trivia==
 *Exit doors can show a fingerprint. For this to happen, the ghost must be [[The Mimic]], it must be mimicking a [[Yurei]], it must use the door-closing ability on the exit door, and the Ultraviolet evidence is not hidden. Hence, this occurrence is very rare.
+*When a player is dead, new fingerprints will not be visible to them. If they are being revived, fingerprints created while they were dead will remain invisible, but new fingerprints will be visible once again. This does not apply to new footprints, which will still be visible to a dead player. It is unknown if this is intended.
 
 ==Related difficulty settings==
 *'''Fingerprint chance (%):''' The chance of a ghost leaving fingerprints when interacting (only shows when ''Evidence given'' is not 0)
