@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-30T15:09:34.717Z",
+  "updated": "2026-10-30T19:55:46.293Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -146,8 +146,8 @@
       "redirect": false
     },
     "Objectives": {
-      "revid": 25175,
-      "ts": "2026-10-30T14:57:05Z",
+      "revid": 25178,
+      "ts": "2026-10-30T17:56:53Z",
       "redirect": false
     },
     "Daily and Weekly Tasks": {

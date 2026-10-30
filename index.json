@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T15:09:34.215Z",
+  "generated": "2026-10-30T19:55:45.747Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -192,7 +192,7 @@
         "t": "Objectives",
         "f": "pages/en/Objectives.txt",
         "b": 10045,
-        "r": 25175,
+        "r": 25178,
         "x": "Players are assigned (optional) '''objectives''' during their investigations. Each [[contract]] has 4 objectives, one of which is always \"Find the correct ghost type\", and the other three are randomly chosen. Objectives "
       },
       {
