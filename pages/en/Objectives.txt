@@ -1,6 +1,7 @@
 # Objectives
-# revid 25055  2026-10-05T22:09:15Z  by Darkhooper
-# sha256 89e5b6d8b1371faa5bc37d152913d1bfd88853552ec500f589ccdfaad82958f2  bytes 9483
+# revid 25175  2026-10-30T14:57:05Z  by 405 M3th0d
+# 备注: Added a note about the Firelights objective
+# sha256 59bda676174fbac67c3b1c1ba9da2f92063e09626e3aa7185e3cb2334712a999  bytes 9793
 # 源: https://phasmophobia.fandom.com/api.php
 
 Players are assigned (optional) '''objectives''' during their investigations. Each [[contract]] has 4 objectives, one of which is always "Find the correct ghost type", and the other three are randomly chosen.
@@ -106,7 +107,10 @@ Objectives are displayed on the [[Objective Board|objective board]] and in the [
 |The ghost blows a Firelight.
 |Place multiple lit firelights in the ghost's favourite room or general area.
 |
-*Non-equipment fire sources such as fireplaces, campfires, and candles, do not count for this objective.
+*Non-equipment fire sources such as fireplaces, campfires, and candles, do not count for this objective.<ref group="note">The following candles still count towards completing this objective:
+* Sunny Meadows: The 28 candles on the chapel chandeliers.
+* Point Hope: The 4 candles on brass holders in the Dining Room.
+* Point Hope: The candle on the shelf in Master Bedroom.</ref>
 *This objective may be very difficult to achieve when playing on outdoors maps ([[Maple Lodge Campsite]], [[Camp Woodwind]]) with Heavy Rain unless the team has access to a Tier III Firelight.
 |30
 |-
@@ -154,11 +158,14 @@ Objectives are displayed on the [[Objective Board|objective board]] and in the [
 |Removed ''Get a Ghost to walk through Salt''.
 |-
 ![[0.12.0.1]]
-|"Get a ghost to blow out a firelight" objective now only counts for player equipment (Firelight T1, T2, T3)
+|"Get a ghost to blow out a firelight" objective now only counts for player equipment (Firelight T1, T2, T3).
 |-
 ![[0.13.0]]
 |Added ''Capture 3 unique photos with a Photo Camera'', ''Capture 3 unique videos with a Video Camera'', ''Capture 2 unique paranormal sounds with a Sound Recorder'', and ''Capture a video of the Ghost''.
 |}
+
+==Notes==
+{{Reflist|group="note"}}
 
 ==See also==
 *[[Daily and Weekly Tasks]]
