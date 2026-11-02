@@ -1,7 +1,7 @@
 # Camp Woodwind
-# revid 24972  2026-09-18T17:50:28Z  by Darkhooper
-# 备注: changed page layout
-# sha256 564db64ad58222fec3c7f31e1cbbae654bf960b938f8dcc410d4b7f2eae4b5e2  bytes 7209
+# revid 25187  2026-11-02T00:42:42Z  by Darkhooper
+# 备注: campfire and Snow weather
+# sha256 1a0a390dcb0759805420fd69aa5a272877eb77dccce93bb2b58d0434fcfa5ea1  bytes 7286
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Location
@@ -30,7 +30,7 @@ Camp Woodwind is analogous with [[6 Tanglewood Drive]] for number of accessible 
 There are four tents, three clustered near the Picnic Area and one near the Bathroom, and a campfire. In addition, there is a shed-like area towards the back, referred to as "Lovers Bench". There is a game of backgammon near the farthest tent and an inaccessible lighted area which leads further into the forest.
 
 ===Layout tips===
-When lit, the [[Fire Source|campfire]] does not affect [[sanity]] drain, but maintains the [[temperature]] in Campfire at {{Temperature|20}}, even if the ghost is in that room, provided the [[weather]] is not Snow.
+When lit, the [[Fire Source|campfire]] does not affect [[sanity]] drain, but maintains the [[temperature]] in Campfire at {{Temperature|20}}, even if the ghost is in that room, when the [[weather]] is not Snow. If the weather is Snow, the temperature will be maintained at {{Temperature|3}}.
 
 Depending on the "Doors starting open" [[difficulty]] parameter, a certain number of [[door]]s will be opened at the beginning of the [[contract]]:
 {| class="article-table"

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T19:55:45.747Z",
+  "generated": "2026-11-02T01:59:50.254Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -205,8 +205,8 @@
       {
         "t": "Poltergeist",
         "f": "pages/en/Poltergeist.txt",
-        "b": 8134,
-        "r": 24435,
+        "b": 8276,
+        "r": 25188,
         "x": "{{Ghost |image1=Poltergeist Discovered.jpg |strength=*Sanity decrease stacks up during multithrow interactions |abiliti(es)=*Can throw multiple objects at once *Can throw a single object farther than other types |weaknes"
       },
       {
@@ -1185,8 +1185,8 @@
       {
         "t": "Prop",
         "f": "pages/en/Prop.txt",
-        "b": 2912,
-        "r": 25014,
+        "b": 3166,
+        "r": 25190,
         "x": "'''Props''' are mainly useless objects scattered around the [[map]]. Both [[player]]s and [[ghost]]s can interact with them, with the latter also providing [[evidence]] or facilitating investigation. ==Types of props== T"
       },
       {
@@ -1276,8 +1276,8 @@
       {
         "t": "Camp Woodwind",
         "f": "pages/en/Camp Woodwind.txt",
-        "b": 7440,
-        "r": 24972,
+        "b": 7523,
+        "r": 25187,
         "x": "{{Location |img=Camp woodwind.png |imgcaption=A view from the campfire. |mapsize=Small |unlocklevel=13 |floors=1 |exits=1 |faucets=2 |videofeeds=1 |keys=Front Door Key |rooms=11 |img rooms=Rooms Camp Woodwind.png |img sa"
       },
       {

@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-10-30T19:55:46.293Z",
+  "updated": "2026-11-02T01:59:50.616Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -156,8 +156,8 @@
       "redirect": false
     },
     "Poltergeist": {
-      "revid": 24435,
-      "ts": "2026-08-07T20:59:29Z",
+      "revid": 25188,
+      "ts": "2026-11-02T01:07:11Z",
       "redirect": false
     },
     "UV Light": {
@@ -971,8 +971,8 @@
       "redirect": true
     },
     "Prop": {
-      "revid": 25014,
-      "ts": "2026-09-22T07:12:02Z",
+      "revid": 25190,
+      "ts": "2026-11-02T01:12:33Z",
       "redirect": false
     },
     "List of voice lines": {
@@ -1036,8 +1036,8 @@
       "redirect": false
     },
     "Camp Woodwind": {
-      "revid": 24972,
-      "ts": "2026-09-18T17:50:28Z",
+      "revid": 25187,
+      "ts": "2026-11-02T00:42:42Z",
       "redirect": false
     },
     "Options": {

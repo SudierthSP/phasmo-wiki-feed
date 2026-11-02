@@ -1,7 +1,6 @@
 # Prop
-# revid 25014  2026-09-22T07:12:02Z  by Darkhooper
-# 备注: tripods can be thrown in lit rooms
-# sha256 29815ce5cdd07b0140ef9256207a02a5df1114f68f42f29c7be7001bdf2228fa  bytes 2675
+# revid 25190  2026-11-02T01:12:33Z  by Darkhooper
+# sha256 b4ebbf13ce4c5c124849b60fd88752619331cf91b97d289c93de2f87498dbeac  bytes 2974
 # 源: https://phasmophobia.fandom.com/api.php
 
 '''Props''' are mainly useless objects scattered around the [[map]]. Both [[player]]s and [[ghost]]s can interact with them, with the latter also providing [[evidence]] or facilitating investigation.
@@ -28,17 +27,40 @@ This is a (non-exhaustive) list of props that the ghost can interact with:
 *Window/mirror
 
 ==Throwing mechanics==
-Objects are thrown with a "power" of 1 - 3 horizontally, 1 - 5 vertically, and in one of four ways:
-*40% chance of direct throw.
-*35% chance of levitation then throw.
-*20% chance of levitation then drop.
-*5% chance of levitation then throw at player.
-**The [[Shade]] will fail this action.
-These chances also apply to the [[Poltergeist]]'s ability.
-
-Levitations last for 0.5 - 2 seconds normally and for 1 - 3 seconds during a Poltergeist's ability.
-
-Ghosts cannot throw items if the lights in their current room are on,<ref>[https://i.imgur.com/MtFiSs3.png ''<nowiki>"yeah it can't throw anything [with the room lights turned on]"</nowiki>'' Dknighter, ''Phasmophobia'' Lead Developer. 4 December 2022.]</ref> except for when the Poltergeist uses its multithrow ability, when the item to be thrown is a [[tripod]] (or a tripod with a mounted video camera), or when a [[Voodoo Doll]] is used.
+Objects are thrown in one of four ways, whether it is a [[Poltergeist]]'s ability or not:
+{| class="fandom-table"
+! rowspan="2" |Type of throwing
+! rowspan="2" |Chance
+! colspan="2" |Force
+! rowspan="2" |Notes
+|-
+!Standard
+!Poltergeist
+|-
+|Direct throw
+|40%
+| rowspan="2" |1 - 3 horizontally and 1 - 5 vertically
+| rowspan="2" |2 - 6 horizontally and 3 - 6 vertically
+|
+|-
+|Levitation then throw
+|35%
+| rowspan="2" |Levitations last for 0.5 - 2 seconds normally and for 1 - 3 seconds during a Poltergeist's ability.
+|-
+|Levitation then drop
+|20%
+|
+|
+|-
+|Levitation then throw at player
+|5%
+|10
+|15
+|
+*The chosen player is the closest player to the object in direct distance within the investigation area.
+*The [[Shade]] will fail this action.
+|}
+<br>Ghosts cannot throw items if the lights in their current room are on,<ref>[https://i.imgur.com/MtFiSs3.png ''<nowiki>"yeah it can't throw anything [with the room lights turned on]"</nowiki>'' Dknighter, ''Phasmophobia'' Lead Developer. 4 December 2022.]</ref> except for when the Poltergeist uses its multithrow ability, when the item to be thrown is a [[tripod]] (or a tripod with a mounted video camera), or when a [[Voodoo Doll]] is used.
 
 The thrown object emits an [[EMF]] 3 reading that lasts for 20 seconds. It emits an additional EMF 3 reading for the duration of the levitation, if any. Both of these readings have a 33% chance to be [[EMF Level 5]] readings instead if the ghost has this evidence.
 
