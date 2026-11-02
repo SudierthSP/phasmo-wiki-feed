@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T01:59:50.254Z",
+  "generated": "2026-11-02T19:27:14.517Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -1185,8 +1185,8 @@
       {
         "t": "Prop",
         "f": "pages/en/Prop.txt",
-        "b": 3166,
-        "r": 25190,
+        "b": 3230,
+        "r": 25192,
         "x": "'''Props''' are mainly useless objects scattered around the [[map]]. Both [[player]]s and [[ghost]]s can interact with them, with the latter also providing [[evidence]] or facilitating investigation. ==Types of props== T"
       },
       {

@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-02T01:59:50.616Z",
+  "updated": "2026-11-02T19:27:15.154Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -971,8 +971,8 @@
       "redirect": true
     },
     "Prop": {
-      "revid": 25190,
-      "ts": "2026-11-02T01:12:33Z",
+      "revid": 25192,
+      "ts": "2026-11-02T15:53:25Z",
       "redirect": false
     },
     "List of voice lines": {
