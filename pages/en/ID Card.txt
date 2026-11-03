@@ -1,7 +1,7 @@
 # ID Card
-# revid 25103  2026-10-13T16:23:24Z  by Darkhooper
-# 备注: new AHA requirements
-# sha256 48f333118016b37c78f93900ba505b8a76b1d76ab47a97364ed10679ea667ea4  bytes 24357
+# revid 25197  2026-11-03T18:54:36Z  by Darkhooper
+# 备注: Animated AHA badge/card unlock requirement
+# sha256 90e981cfa97b4d725cd20fda21026faf2a136221224f84e0382a7a7fcc962e04  bytes 24395
 # 源: https://phasmophobia.fandom.com/api.php
 
 The ID Card is a cosmetic that shows the player's in-game progress.
@@ -354,7 +354,7 @@ Special badges are assigned to certain members of the community either through m
 |[[File:AHA Advocate Badge.png|50px]]
 |Participate in the American Heart Association fundraising stream as a Kinetic Games Partner in June 2025<br>
 ----Watch a ''Phasmophobia'' fundraising stream between 26 October 2026 and 2 November 2026
-|Reach a fundraising goal between 26 October 2026 and 2 November 2026
+|Log into Phasmophobia between 3 November 2026 and 15 November 2026
 |}
 
 ==Backgrounds==
@@ -752,10 +752,10 @@ Special badges are assigned to certain members of the community either through m
 |-
 |AHA Advocate
 |[[File:aha-advocate-id-card.png|220px]]
-| -
+|[[File:aha-advocate-foil-id-card.png|220px]]
 |Participate in the American Heart Association fundraising stream as a Kinetic Games Partner in June 2025<br>
 ----Watch a ''Phasmophobia'' fundraising stream between 26 October 2026 and 2 November 2026
-|Reach a fundraising goal between 26 October 2026 and 2 November 2026
+|Log into Phasmophobia between 3 November 2026 and 15 November 2026
 |}
 
 ==Gallery==
