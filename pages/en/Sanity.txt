@@ -1,7 +1,7 @@
 # Sanity
-# revid 25108  2026-10-19T04:02:20Z  by Darkhooper
-# 备注: drain rate in dim rooms / moroi / phantom / objectives / tasks
-# sha256 b47a568d93efe79d751310064513dae6f3800daaede57c5da189e24fb315427b  bytes 8940
+# revid 25196  2026-11-03T01:33:17Z  by Darkhooper
+# 备注: how sanity is synced in multiplayer
+# sha256 f27fbd4861434b78563b5a0c1b79fa9ddcf989a40df850696e80a76f4c3f2575  bytes 8960
 # 源: https://phasmophobia.fandom.com/api.php
 
 '''Sanity''' is a value which determines a number of things during gameplay. Sanity usually begins at 100% at the start of a game and decreases as the game progresses. The lower the average sanity, the more likely a ghost is to perform certain actions.
@@ -9,7 +9,9 @@
 ==Mechanics==
 There are two main readings of sanity in the game: the individual sanity of each player, and the average team sanity of all players. These values can be read at any time on the [[truck]]'s [[Sanity Monitor|sanity monitor]] or roughly visualized on the [[watch]].
 
-At the start of the contract, once an [[exit door]] has been opened, players' sanities will begin to be able to drop. Sanity affects things like [[interaction]]s, [[ghost event]]s, [[hunt]]s, and flickering lights; lower ''average'' sanity results in increasing relative frequency of such paranormal activity, though as there is a high degree of randomness in these occurrences to begin with, this may not always be readily apparent over the course of an investigation. Individual sanities are not taken into account for these effects in most cases, meaning that a player with a high sanity level going inside may still face more aggressive behavior from the ghost if their partners staying outside all have near zero sanity.
+At the start of the contract, once an [[exit door]] has been opened, players' sanities will begin to be able to drop. Sanity affects things like [[interaction]]s, [[ghost event]]s, [[hunt]]s, and flickering [[light]]s; lower ''average'' sanity results in higher paranormal [[activity]]. Individual sanities are not taken into account for these effects in most cases, meaning that a player with a high sanity level going inside may still face more aggressive behavior from the ghost if their partners staying outside all have near zero sanity.
+
+A player's own sanity updates every second in their point of view while sanities of other players will be updated 15 seconds after an exit door has been opened for the first time, then every 5 seconds.
 
 [[Death|Dead players']] sanities are not included when calculating the average team sanity, but still exist in the background. Dead players are no longer affected by sanity drain except for the 15% deduction from other players dying, the 16% deduction from the [[Summoning Circle]]'s candles, and some ghost abilities.
 

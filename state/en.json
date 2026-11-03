@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-02T19:27:15.154Z",
+  "updated": "2026-11-03T01:43:08.608Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -261,8 +261,8 @@
       "redirect": false
     },
     "Sanity Medication": {
-      "revid": 21402,
-      "ts": "2025-07-04T17:39:07Z",
+      "revid": 25193,
+      "ts": "2026-11-02T21:12:48Z",
       "redirect": false
     },
     "Infrared Light Sensor": {
@@ -346,8 +346,8 @@
       "redirect": false
     },
     "Sanity": {
-      "revid": 25108,
-      "ts": "2026-10-19T04:02:20Z",
+      "revid": 25196,
+      "ts": "2026-11-03T01:33:17Z",
       "redirect": false
     },
     "Ghost Event": {
@@ -376,8 +376,8 @@
       "redirect": true
     },
     "Sanity Monitor": {
-      "revid": 23416,
-      "ts": "2026-05-06T21:17:46Z",
+      "revid": 25195,
+      "ts": "2026-11-02T22:27:18Z",
       "redirect": false
     },
     "Journal": {

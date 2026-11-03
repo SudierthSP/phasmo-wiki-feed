@@ -1,7 +1,7 @@
 # Sanity Medication
-# revid 21402  2025-07-04T17:39:07Z  by Darkhooper
-# 备注: tier 1 and 3 unlock levels
-# sha256 19b489122c2d705b88ff21024c0ce70eff1a76a4d67eaa92f3dedc6ece9a69f7  bytes 8039
+# revid 25193  2026-11-02T21:12:48Z  by Darkhooper
+# 备注: sanity restoration speed
+# sha256 594477e5cf90e524ed5e2a0afa3b6949cd13fa0f798f0c7840e80b07e335c685  bytes 8063
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -31,46 +31,46 @@
 
 ==Mechanics==
 {{Control|Consuming}} sanity medication will replenish a certain amount of the player's sanity up to the maximum of 100%, depending on [[difficulty]]:
-* Amateur: 40%
-* Intermediate: 35%
-* Professional: 30%
-* Nightmare: 25%
-* Insanity: 20%
-* Custom: 0% - 100%
+*Amateur: 40%
+*Intermediate: 35%
+*Professional: 30%
+*Nightmare: 25%
+*Insanity: 20%
+*Custom: 0% - 100%
 
 Consuming sanity medication will cause it to drop from the player's hand, and that item will no longer be consumable. Sanity medication cannot be consumed if the player's sanity is above 95%.
 
-Depending on the tier of the medication, the speed of restoration will differ (the tier does not change the amount of sanity restored). It is recommended to stay outside of the house/in the truck until the full sanity amount has been restored in order to accurately track sanity for hunts.
-* Tier I: 20 seconds
-* Tier II: 10 seconds
-* Tier III: 10 seconds
+Depending on the tier of the medication, the speed of restoration will differ. A constant quantity of sanity will be gained each second, adding up to the total amount of restoration after the following duration:
+*Tier I: 20 seconds
+*Tier II: 10 seconds
+*Tier III: 10 seconds
+For example, consuming a Tier I sanity medication on Amateur difficulty will replenish sanity by a rate of 2% per second for 20 seconds.
 
 ===Tier III sprint boost===
 Once consumed, the Tier III sanity medication grants the player a sprint boost for 10 seconds, which means the player can run without exhaustion during that period. During the boost, the player can hear the heartbeat noise. After the boost, the user will normally consume the sprint stamina until they are exhausted. Consuming a Tier III sanity medication while a sprint boost is active doesn't extend the sprint boost time.
 
-== Tips ==
+==Tips==
 Strategically used, sanity medication can help to stave off hunts by bringing the average sanity back above the ghost's hunt sanity threshold. They can also be used to allow for further usage of [[cursed possession]]s such as [[Ouija Board]]s, to avoid breaking the possession. Sanity medication could even be used to identify ghosts based by seeing if they hunt above a certain threshold (e.g. [[Shade]]), or by performing a test for the [[Moroi]].
 
 If one's aim is to delay hunts through sanity medication, specifically on multiplayer, one possible way to do this would be to distribute the sanity medication so that the overall sanity drain is slower on average.
-* For example, if just one player is at 0% sanity and the remaining players have enough sanity to be above the hunt threshold, then these remaining players should take the sanity medication instead of the 0% player. This would make it so that less players are reducing the average sanity of the entire team.
-* Another example is when all players are at varying levels of sanity; the players who tend to manage their sanity better could take the sanity medication, as long as this keeps the average sanity above the hunt threshold.
+*For example, if just one player is at 0% sanity and the remaining players have enough sanity to be above the hunt threshold, then these remaining players should take the sanity medication instead of the 0% player. This would make it so that less players are reducing the average sanity of the entire team.
+*Another example is when all players are at varying levels of sanity; the players who tend to manage their sanity better could take the sanity medication, as long as this keeps the average sanity above the hunt threshold.
 Note that results may vary depending on factors such as the hunt sanity threshold, the ghost type, or players dying.
 
 Alternatively, Sanity Medication can be saved as an "emergency ration" for the last player(s) when multiple players have already died; this allows the surviving players to raise the average sanity higher than what would be possible when there are still more players alive, and possibly raise it above the hunt threshold when it wouldn't have been possible with more players.
 
-* For example, if all four players are at 0% sanity, and one player takes multiple Sanity Medication to raise their sanity to 100%, the average sanity would still only be 25%; if only two players are alive, then the average sanity would be 50% instead of 25%.
+*For example, if all four players are at 0% sanity, and one player takes multiple Sanity Medication to raise their sanity to 100%, the average sanity would still only be 25%; if only two players are alive, then the average sanity would be 50% instead of 25%.
 
-Though a less common use (as Sanity Medication is often consumed in the truck and rarely brought into the investigation area), Tier III Sanity Medication can prove to be a potent tool in escaping the ghost during a hunt, as the player's sprint speed of 3 m/s is much faster than the speeds of most ghosts (barring ghosts such as [[Revenant|Revenants]] or [[Thaye|Thayes]]), and the player can easily outrun one while the sprint boost is active, allowing them to lose the ghost and get to safety while potentially rising their sanity enough to prevent another hunt from occurring. 
+Though a less common use (as Sanity Medication is often consumed in the truck and rarely brought into the investigation area), Tier III Sanity Medication can prove to be a potent tool in escaping the ghost during a hunt, as the player's sprint speed of 3 m/s is much faster than the speeds of most ghosts (barring ghosts such as [[Revenant]]s or [[Thaye]]s), and the player can easily outrun one while the sprint boost is active, allowing them to lose the ghost and get to safety while potentially rising their sanity enough to prevent another hunt from occurring. 
 
-== Related difficulty settings ==
+==Related difficulty settings==
 {{Main|Difficulty}}
-* '''Sanity pill restoration (%):''' The amount of sanity restored per sanity medication item
+*'''Sanity pill restoration (%):''' The amount of sanity restored per sanity medication item
 
 ==Trivia==
-
 *Before [[0.3.0]], the substance labeled on the bottle itself was [https://www.webmd.com/drugs/2/drug-4156/chlorpheniramine-oral/details chlorpheniramine maleate], an antihistamine used to treat hay fever and allergy symptoms.
 
-== Gallery ==
+==Gallery==
 <gallery>
 File:Sanity Pills.png|The old sanity pills packer bottles
 File:New Sanity Pills.jpg|The sanity pills packer bottlers before the [[0.6.2.0|truck's layout overhaul]]

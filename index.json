@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T19:27:14.517Z",
+  "generated": "2026-11-03T01:43:08.078Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -345,8 +345,8 @@
       {
         "t": "Sanity Medication",
         "f": "pages/en/Sanity Medication.txt",
-        "b": 8281,
-        "r": 21402,
+        "b": 8303,
+        "r": 25193,
         "x": "{{Equipment Template | tier i img=Med090_T1.png | tier ii img=Med090_T2.png | tier iii img=Med090_T3.png | price=$20 | maxamount=4 | uses=1 | starter=No | tier i level=14 | tier ii level=39 | tier iii level=75 | tier i d"
       },
       {
@@ -464,8 +464,8 @@
       {
         "t": "Sanity",
         "f": "pages/en/Sanity.txt",
-        "b": 9207,
-        "r": 25108,
+        "b": 9200,
+        "r": 25196,
         "x": "'''Sanity''' is a value which determines a number of things during gameplay. Sanity usually begins at 100% at the start of a game and decreases as the game progresses. The lower the average sanity, the more likely a ghos"
       },
       {
@@ -499,8 +499,8 @@
       {
         "t": "Sanity Monitor",
         "f": "pages/en/Sanity Monitor.txt",
-        "b": 1597,
-        "r": 23416,
+        "b": 1810,
+        "r": 25195,
         "x": "[[File:Sanity monitor 0.6.png|thumb|The monitor displaying 4 players with various sanity values. Usernames redacted.]] The '''Sanity Monitor''' is a screen in the [[truck]] labelled \"Team Sanity\". It reads both the [[san"
       },
       {
