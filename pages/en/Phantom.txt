@@ -1,7 +1,7 @@
 # Phantom
-# revid 25024  2026-09-29T04:54:23Z  by Darkhooper
-# 备注: how the special sanity drain works
-# sha256 06eb1f684a574ead58d88a9aba87b7f14223f156b925d8543b2c727dae85a1ca  bytes 9429
+# revid 25198  2026-11-05T12:22:22Z  by Darkhooper
+# 备注: added note
+# sha256 3d83c4a826d9c84554ca6dcd131baa0b5f9604301896252e620f0fe4a5c70d9b  bytes 9718
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -22,7 +22,7 @@
 ==Behavior==
 ===Activity===
 [[File:Phantom photo weakness.mp4|300px|right|A Phantom disappears immediately upon taking a photo.]]
-When capturing a photo/video of a Phantom, whether it be in its full form, translucent form, shadow form, or [[D.O.T.S Projector (Evidence)|D.O.T.S state]], the ghost will physically disappear (but remain in its previous state, e.g. a [[ghost event]]) once the capture is successful, and the resulting [[media]] will contain no visible ghost and no interference.<ref group="note">This is currently bugged for Translucent Ghost, Shadow Ghost, D.O.T.S. Ghost, and Hunting Ghost videos where the Phantom will not be invisible on them.</ref>
+When capturing a photo/video of a Phantom, whether it be in its full form, translucent form, shadow form, or [[D.O.T.S Projector (Evidence)|D.O.T.S state]], the ghost will physically disappear (but remain in its previous state, e.g. a [[ghost event]]) once the capture is successful<ref group="note">When there are no available photo slots in the journal, further photos will always count as failed and thus never make the Phantom disappear. This does not apply to further videos when there are no available video slots, which will still make the Phantom disappear.</ref>, and the resulting [[media]] will contain no visible ghost and no interference.<ref group="note">This is currently bugged for Translucent Ghost, Shadow Ghost, D.O.T.S. Ghost, and Hunting Ghost videos where the Phantom will not be invisible on them.</ref>
 *If the photo/video was taken during a ghost event, electronic equipment will also cease to malfunction and the player's heartbeats will stop playing.
 *If the photo/video was taken during a [[hunt]], the ghost will briefly disappear before continuing to physically flash in and out.
 

@@ -1,7 +1,7 @@
 # Journal
-# revid 24582  2026-08-28T02:45:52Z  by Darkhooper
-# 备注: 0.19
-# sha256 d45bdb0bd1596ab08c69bf2d8a8e8e5b38cd3169bd04695e3fa288f8da8e89a1  bytes 4935
+# revid 25203  2026-11-05T13:33:10Z  by Darkhooper
+# 备注: removed number of media deletions as the info is now on the Media page.
+# sha256 cd15f530e3b05bfcc6be701c3727a6a4670711ac36fe08793486c102e2e4a09a  bytes 4742
 # 源: https://phasmophobia.fandom.com/api.php
 
 [[File:Journal.png|right|frameless|300x300px]]
@@ -27,10 +27,7 @@ This allows players to check objectives and case information on-the-go without n
 
 ===Media===
 {{See also|Media}}
-This section is a 5-page section containing all of the photos, videos, and sounds that players have collected on a case. Several pieces of media can be deleted per contract, depending on the [[difficulty]]:
-*0x - 1.99x: 5 available deletions
-*2x - 2.99x: 4 available deletions
-*3x or higher: 3 available deletions
+This section is a 5-page section containing all of the photos, videos, and sounds that players have collected on a case.
 
 ===Evidence===
 {{See also|Evidence}}

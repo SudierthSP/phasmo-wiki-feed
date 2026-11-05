@@ -1,0 +1,85 @@
+# Sound Recorder
+# revid 25200  2026-11-05T13:15:09Z  by Darkhooper
+# 备注: added Rewards section
+# sha256 b4e316596145720b206a5615b1e1c258ea0aca47f7888c7f1e798e2230581ea3  bytes 5232
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Equipment Template
+ | tier i img=SoundRecorder_T1.png
+ | tier ii img=SoundRecorder_T2.png
+ | tier iii img=SoundRecorder_T3.png
+
+ | price=$30
+ | maxamount=2
+ | uses=
+ | starter=No
+ | tier i level=4
+ | tier ii level=39
+ | tier iii level=60
+
+ | tier i description=Old, banged up and taped together. This old Paracord Sound Recorder has scen much better days, thankfully it still works...
+ | tier i purpose=Use this Sound Recorder to find and record paranormal sounds during investigations Successful recordings will reward extra money at the end of a contract. You can even listen back to the recorded sound in the Journal!
+ | tier i ability=<span style="color: #008000;">Ranges (m): 3</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier ii description=Ghost Huntin' Distribution's very own brand of Sound Recorder. It's more efficient than it's predecessor, the digital screen and new interface makes for an easier time hunting those spooky sounds.
+ | tier ii purpose=This Sound Recorder has been upgraded with higher accuracy, better range, and a modern interface, It should make tracking down those paranormal sounds easier to find!
+ | tier ii ability=<span style="color: #008000;">Ranges (m): 5<br>Display Screen</span><br><span style="color: #ff0000;">Electronic</span>
+ | tier iii description=BONY's latest in Sound Recording hardware. This device is equipped with several features to make hunting sounds as easy as can be. The dual microphone setup makes for much easier tracking, and quick recordings, even those that are barely audible.
+ | tier iii purpose=While activated, this Sound Recorder provides additional information on paranormal sounds. The added directional and range indicators make finding and recording paranormal efficient and satisfying!
+ | tier iii ability=<span style="color: #008000;">Ranges (m): 5<br>Display Screen<br>Distance Indicator<br>Directional Indicator</span><br><span style="color: #ff0000;">Electronic</span>}}
+The '''sound recorder''' is a device used to record [[Media#Sound evidence|sound evidence]].
+
+==Mechanics==
+The Sound Recorder can be {{Control|toggled}} on to begin scanning the area for any noise disturbance produced by the ghost or to record [[Media#Sound evidence|sound evidence]]. Up to 3 audio clips can be stored in the [[journal]] per [[contract]]. The recorder picks up ghost-related sounds such as [[Paranormal Sound|paranormal sounds]] or [[ghost event]]s, as well as evidence-related sounds such as [[Spirit Box]] responses, [[Ghost Writing]], or [[EMF Level 5]].
+
+When the recorder detects a valid noise, its sound meter will start to rise, indicating to the player how close they are to the source of the sound. The sound detection range depends on the tier:
+*Tier I: 5 metres
+*Tier II: 6.5 metres
+*Tier III: 7.5 metres
+For paranormal sounds, the sound meter/static noise will start to rise 1 metre below the ranges mentioned above (unless the ghost is a [[Myling]]).
+
+To record a sound, the player must hold the {{Control|Use}} button when sufficiently close to the source. This is indicated by the meter lights turning green on a Tier I, the power spectrum reaching the upper bar on a Tier II, and the circle at the center of the compass turning solid on a Tier III. Once a valid sound is captured, the recording will stop automatically. The recording range depends on the tier:
+*Tier I: 1 metre
+*Tier II: 1.5 metres
+*Tier III: 2 metres
+"Hunting Ghost", "Ghost Event", and "Music Box" sounds can be recorded from further away.
+
+If a sound is considered as a Duplicate, the Tier I's lights will be less bright and the Tier II and III's power spectrums will be faded when approaching the source.
+
+===Rewards===
+{{Main|Media}}
+The 3 labeled sounds recorded in the journal will reward the player with [[money]] and [[experience]]. Like other media evidence, the value of a sound is determined by its ''Unique'' or ''Duplicate'' stamp. While the first sound of a subject will grant full reward, additional sounds of the same subject captured during the same contract will provide only 20% of the normal reward.
+
+Even when there are no available slots for sounds inside the journal (which can hold 3 sounds for the whole team), further recordings will still count for [[Objectives|objectives]].
+
+==Objectives==
+{| class="article-table"
+!Objective
+!Actual requirements
+|-
+|Capture 2 unique paranormal sounds with a Sound Recorder
+|Two [[Media#Sound evidence|paranormal sounds]] with a Unique stamp are captured
+|}
+
+==Trivia==
+*While the tier I Sound Recorder is not real, the Tier II and Tier III models are. The real-life models for each tier are:
+**'''Tier II''': Olympus WS-852 Digital Voice Recorder (Olympus "rebranded" as Ghost Huntin' Distribution)
+**'''Tier III''': Sony PCM-D100 Portable High Resolution Stereo Recorder Black Silver (Sony "rebranded" as Bony)
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.13.0]]
+|Added the Sound Recorder.
+|-
+![[0.13.1.0]]
+|An audio and visual cue will now signify the completion of recording Sounds.
+|-
+![[0.19.0]]
+|Sound Recorders will now indicate Duplicate evidence.
+|}<br>
+
+{{Equipment nav}}
+[[ru:Звуковой рекордер]]
+[[Category:Equipment]]
+[[fr:Enregistreur de Son]]

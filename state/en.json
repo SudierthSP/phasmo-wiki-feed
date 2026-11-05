@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-03T21:59:44.703Z",
+  "updated": "2026-11-05T17:59:08.875Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -96,8 +96,8 @@
       "redirect": false
     },
     "Phantom": {
-      "revid": 25024,
-      "ts": "2026-09-29T04:54:23Z",
+      "revid": 25198,
+      "ts": "2026-11-05T12:22:22Z",
       "redirect": false
     },
     "Ghost Writing": {
@@ -131,8 +131,8 @@
       "redirect": false
     },
     "Photo Camera": {
-      "revid": 24480,
-      "ts": "2026-08-25T17:31:00Z",
+      "revid": 25202,
+      "ts": "2026-11-05T13:29:36Z",
       "redirect": false
     },
     "Motion Sensor": {
@@ -246,8 +246,8 @@
       "redirect": false
     },
     "Video Camera": {
-      "revid": 24481,
-      "ts": "2026-08-25T17:34:50Z",
+      "revid": 25199,
+      "ts": "2026-11-05T13:11:22Z",
       "redirect": false
     },
     "Tripod": {
@@ -381,8 +381,8 @@
       "redirect": false
     },
     "Journal": {
-      "revid": 24582,
-      "ts": "2026-08-28T02:45:52Z",
+      "revid": 25203,
+      "ts": "2026-11-05T13:33:10Z",
       "redirect": false
     },
     "Map": {
@@ -1141,8 +1141,8 @@
       "redirect": false
     },
     "ID Card": {
-      "revid": 25197,
-      "ts": "2026-11-03T18:54:36Z",
+      "revid": 25205,
+      "ts": "2026-11-05T16:07:39Z",
       "redirect": false
     },
     "Smudge sticks": {
@@ -1641,13 +1641,13 @@
       "redirect": false
     },
     "Media": {
-      "revid": 24503,
-      "ts": "2026-08-26T00:33:35Z",
+      "revid": 25201,
+      "ts": "2026-11-05T13:29:24Z",
       "redirect": false
     },
     "Sound Recorder": {
-      "revid": 25031,
-      "ts": "2026-10-01T15:14:13Z",
+      "revid": 25200,
+      "ts": "2026-11-05T13:15:09Z",
       "redirect": false
     },
     "0.13.0.1": {

@@ -1,7 +1,7 @@
 # Media
-# revid 24503  2026-08-26T00:33:35Z  by Darkhooper
-# 备注: 0.19
-# sha256 5c5fe4f1698c1af41bb4c6b6a46d4ff29e26323ebc6317d6adce2e9013b5537e  bytes 9463
+# revid 25201  2026-11-05T13:29:24Z  by Darkhooper
+# 备注: added Deletions section
+# sha256 958dd0883883eecdb51aacb0a3181612891a1ca0344d126a2b0c5df61892dc4e  bytes 9890
 # 源: https://phasmophobia.fandom.com/api.php
 
 During the investigation, players can record '''media''' for additional money and experience rewards. Recorded media can be seen in the Media tab in the [[journal]]. 
@@ -16,6 +16,13 @@ A bonus is awarded per piece of media when recorded with a higher tier of the co
 Recorded sounds can be listened back in the Media tab in the journal.
 
 In order to complete a Perfect Investigation, alongside usual requirements, the journal must be filled with only Unique media, which include 5 Unique photos, 5 Unique videos, and 3 Unique sounds.
+
+===Deletions===
+Players have the option to delete pieces of media from the journal that are judged unsatisfactory. The number of deletions depends on the [[difficulty]]:
+*0x - 1.99x: 5 available deletions
+*2x - 2.99x: 4 available deletions
+*3x or higher: 3 available deletions
+In multiplayer, a majority vote from the players is required to delete a piece of media, signaled by a red icon on the ''Media'' tab of the Journal.
 
 ==Photo evidence==
 Photo evidence can be collected by taking a photo of certain items with the [[Photo Camera]]:

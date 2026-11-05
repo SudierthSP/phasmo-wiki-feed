@@ -1,7 +1,7 @@
 # Sound Recorder
-# revid 25031  2026-10-01T15:14:13Z  by Darkhooper
-# 备注: sound recorder ranges
-# sha256 29c508ec06fd296193a0be2897a91f925bdacc135cae08f28315d2d0223ae8ec  bytes 4637
+# revid 25200  2026-11-05T13:15:09Z  by Darkhooper
+# 备注: added Rewards section
+# sha256 b4e316596145720b206a5615b1e1c258ea0aca47f7888c7f1e798e2230581ea3  bytes 5232
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -44,6 +44,12 @@ To record a sound, the player must hold the {{Control|Use}} button when sufficie
 "Hunting Ghost", "Ghost Event", and "Music Box" sounds can be recorded from further away.
 
 If a sound is considered as a Duplicate, the Tier I's lights will be less bright and the Tier II and III's power spectrums will be faded when approaching the source.
+
+===Rewards===
+{{Main|Media}}
+The 3 labeled sounds recorded in the journal will reward the player with [[money]] and [[experience]]. Like other media evidence, the value of a sound is determined by its ''Unique'' or ''Duplicate'' stamp. While the first sound of a subject will grant full reward, additional sounds of the same subject captured during the same contract will provide only 20% of the normal reward.
+
+Even when there are no available slots for sounds inside the journal (which can hold 3 sounds for the whole team), further recordings will still count for [[Objectives|objectives]].
 
 ==Objectives==
 {| class="article-table"

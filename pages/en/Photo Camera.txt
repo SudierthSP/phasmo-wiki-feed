@@ -1,7 +1,7 @@
 # Photo Camera
-# revid 24480  2026-08-25T17:31:00Z  by Darkhooper
-# 备注: 0.19
-# sha256 b0167dfe7d410d435a1e3895f67923c04622c2877e20e2814cbc06ee8e19cc30  bytes 6708
+# revid 25202  2026-11-05T13:29:36Z  by Darkhooper
+# 备注: removed a paragraph and clarification on full journal
+# sha256 35cb30e00b3f03cf40231cff55a1890e28bc4a152432178d6d63933c250cbaf4  bytes 6515
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -43,11 +43,9 @@ Holding a Tier II or III photo camera within 7.5 metres of a ghost (2.5 metres f
 
 ===Rewards===
 {{Main|Media}}
-The first 5 labeled pictures recorded in the journal will reward the player with [[money]] and [[experience]]. Like other media evidence, the value of photos is determined by its ''Unique'' or ''Duplicate'' tag. While the first photo of a subject will grant full reward, additional photos of the same subject taken during the same contract will provide only 20% of the normal reward.
+The 5 labeled photos recorded in the journal will reward the player with [[money]] and [[experience]]. Like other media evidence, the value of a photo is determined by its ''Unique'' or ''Duplicate'' stamp. While the first photo of a subject will grant full reward, additional photos of the same subject taken during the same contract will provide only 20% of the normal reward.
 
-If there are no available slots for photos inside the journal (which can hold 5 photos for the whole team), any further shots will not net any gains.
-
-If a shot is missed or judged unsatisfactory, players have the option to delete up to three pieces of media from the journal. In multiplayer, a majority vote from the players is required to delete a photo, signaled by a red icon on the ''Media'' tab of the Journal.
+If there are no available slots for photos inside the journal (which can hold 5 photos for the whole team), any further shots will always be considered as failed and not net any gains nor count towards [[Objectives|objectives]].
 
 ==Objectives==
 {{Main|Objectives}}

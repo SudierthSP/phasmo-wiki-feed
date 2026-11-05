@@ -1,7 +1,7 @@
 # Video Camera
-# revid 24481  2026-08-25T17:34:50Z  by Darkhooper
-# 备注: 0.19
-# sha256 fda51e2a73f5e80e605cda79ffd9f438aa6462434fc2a56f764bcf7a8d4c57cb  bytes 6988
+# revid 25199  2026-11-05T13:11:22Z  by Darkhooper
+# 备注: added Rewards section
+# sha256 fd6e205bef972a6117ab11b061f8c1088ddd2565347264c9b32af2675e86560a  bytes 7647
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -42,11 +42,17 @@ Night vision can be {{Control|toggled}} while holding the active video camera or
 
 Holding the {{Control|Use}} button while holding the active video camera will start a video recording. If a valid subject is captured, it will be recorded in the [[Media]] tab in the [[journal]]. Video recording can also be started from the [[computer]] in the [[truck]] by clicking on the Rec button. If a subject is considered as a Duplicate, the highlight frame's text will be faded.
 
+===Rewards===
+{{Main|Media}}
+The 5 labeled videos recorded in the journal will reward the player with [[money]] and [[experience]]. Like other media evidence, the value of a video is determined by its ''Unique'' or ''Duplicate'' stamp. While the first video of a subject will grant full reward, additional videos of the same subject captured during the same contract will provide only 20% of the normal reward.
+
+Even when there are no available slots for videos inside the journal (which can hold 5 videos for the whole team), further recordings will still count for [[Objectives|objectives]] and the [[Phantom]]'s behaviour.
+
 ==Tips==
-*The video camera's night vision function can be very useful when using a [[D.O.T.S Projector]] as the [[ghost]]'s silhouette may be easier to see with night vision.
-*The video camera can also be used to maintain surveillance on areas such as hallways, rooms, and the [[fuse box]]. This can allow for easy viewing of certain stationary evidence like [[Fingerprints]], [[Ghost Writing]], [[EMF Level 5]], [[salt]], or [[D.O.T.S Projector]]. However, the video feed becomes extremely distorted whenever the [[ghost]] manifests during a [[Ghost Event]] or a [[hunt]], making observation very difficult.
+*The video camera's night vision function can be very useful when using a [[D.O.T.S. Projector]] as the [[ghost]]'s silhouette may be easier to see with night vision.
+*The video camera can also be used to maintain surveillance on areas such as hallways, rooms, and the [[Fuse Box|fuse box]]. This can allow for easy viewing of certain stationary evidence like [[Ultraviolet]], [[Ghost Writing]], [[EMF Level 5]], or [[D.O.T.S. Projector (Evidence)|D.O.T.S. Projector]]. However, the video feed becomes extremely distorted whenever the [[ghost]] manifests during a [[Ghost Event|ghost event]] or a [[hunt]], making observation very difficult.
 **Note that if the camera isn't positioned properly and/or is of a lower tier which has worse quality, it can be difficult to spot Ghost Writing and read EMF Level 5 off the EMF Reader; Players should still go in personally and check evidence every now and then to prevent missing any.
-*It is recommended to turn your flashlight (and room lights) off while using night vision to check for [[Ghost Orb|Ghost Orbs]], as it makes the camera feed extremely bright, making it nearly impossible to see through the camera to spot any Orbs.
+*It is recommended to turn your flashlight (and room lights) off while using night vision to check for [[Ghost Orb]]s, as it makes the camera feed extremely bright, making it nearly impossible to see through the camera to spot any Orbs.
 
 ==Objectives==
 {{Main|Objectives}}
