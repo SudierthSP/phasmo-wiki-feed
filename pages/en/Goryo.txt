@@ -1,14 +1,13 @@
 # Goryo
-# revid 25019  2026-09-27T23:26:46Z  by Darkhooper
-# 备注: Goryo DOTS fav room condition
-# sha256 a949fcb039220d6d0d644f27fe915af4a60ad69ea631952f1566aaf3a96e6831  bytes 7122
+# revid 25233  2026-11-06T13:41:27Z  by AuthoritativeWoodpecker620
+# sha256 816dba1b48ab6aa6848b0c94527d312258b898732ce8a415af88d6b797d16b80  bytes 7115
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Goryo Discovered.jpg
- |strength=*Usually shows itself passing through [[D.O.T.S Projector|D.O.T.S.]] on video camera only with no players nearby
- |weakness(es)=*Less likely to wander
-*Cannot change favorite rooms
+ |strength=*Usually shows itself passing through [[D.O.T.S Projector|D.O.T.S.]] on [[Video Camera]] only with no players nearby
+ |weakness(es)=*Less likely to roam
+*Cannot change rooms
  |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
  |Evidence2=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Reader]]
  |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]

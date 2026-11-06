@@ -1,17 +1,17 @@
 # Jinn
-# revid 24354  2026-07-29T06:07:10Z  by SuccessfulBee430
-# sha256 d4c59bcb390c076f00b274189873855f56ad40b46f4952a9e4afce6f3dd1512b  bytes 7635
+# revid 25242  2026-11-06T14:36:28Z  by AuthoritativeWoodpecker620
+# sha256 4eeafd10efdf4022e09b94825e58855a479a323148b6244b24779aae87c65446  bytes 7645
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Jinn Discovered.jpg
- |abiliti(es)=*Occasionally attempts to zap the sanity of nearby players
+ |abiliti(es)=*Occasionally attempts to drain the sanity of nearby players
  |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
  |Evidence2=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
  |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
- |strength=*Gets a speed boost when chasing a player that is far away
- |weakness(es)=*Cannot use any of its abilities when the fuse box is off
-*Cannot turn off the fuse box
+ |strength=*Gets a speed boots when chasing a player that is far away
+ |weakness(es)=*Cannot use any of its abilities when the [[Fuse Box]] is off
+*Cannot turn off the [[Fuse Box]]
 }}{{Quote
  |quote=A Jinn is a territorial ghost that will attack when threatened. It has also been known to be able to travel at significant speed.
  |speaker=The Journal

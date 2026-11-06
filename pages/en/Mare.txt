@@ -1,15 +1,14 @@
 # Mare
-# revid 25022  2026-09-29T03:02:57Z  by Darkhooper
-# 备注: same floor condition for ability
-# sha256 28a6fdf6590dadbe70b97d423c7c51912ff8aecbf7404187734a14a0c4701704  bytes 10645
+# revid 25235  2026-11-06T13:47:28Z  by AuthoritativeWoodpecker620
+# sha256 a9404d29c2ccda28f0499daf1a997c39273359f52eec91d422c43f4bb2c93a63  bytes 10648
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Mare Discovered.jpg
  |strength=*Hunts at a higher sanity threshold in an unlit room
- |abiliti(es)=*Turns off lights and breaks lightbulbs more often
-*May turn off a light immediately after a player turns one on
-*Wanders more often when lights are on
+ |abiliti(es)=*Turns off lights and breaks lightbulbs more frequently 
+*May turn off a light immediately after a player turn on
+*Roam more often when lights are turn on
  |weakness(es)=*Hunts at a lower sanity threshold in a lit room
  |Evidence1=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
  |Evidence2=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]

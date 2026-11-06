@@ -1,17 +1,18 @@
 # Banshee
-# revid 25225  2026-11-06T09:32:04Z  by Darkhooper
-# 备注: Reverted edits by [[Special:Contributions/Tim J.H-2011|Tim J.H-2011]] ([[User talk:Tim J.H-2011|talk]]) to last revision by [[User:Darkhooper|Darkhooper]]
-# sha256 47c9809fe19c2dbaeb8acd912a5f9c537a9639a658ce68b4415bf9951d2dd82c  bytes 14570
+# revid 25236  2026-11-06T13:53:22Z  by AuthoritativeWoodpecker620
+# sha256 1c0faca324c2a528e7fa7146300e48cb5736434ceabda5070588743e82663328  bytes 14650
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |title=Banshee
  |image1=Banshee Discovered.jpg
  |strength= *Focuses on the same player until that player is killed or has left the game
- |weakness(es)= *Cannot kill players other than the target if the target is inside
-*Can produce unique screams on the parabolic microphone and the sound recorder
- |abiliti(es)= *Performs singing ghost events more often than other ghost types
-*Frequently roams to target player outside of hunts
+*Higher hunt sanity threshold
+ |weakness(es)= *Cannot kill target other than the target if the target is inside
+*Can produce unique scream, wail on the [[Parabolic Microphone]] and the [[Sound Recorder]]
+*Has a lower hunt sanity threshold
+ |abiliti(es)= *Frequently performs singing ghost events more often than other ghost types
+*Frequently roam to target outside of hunts
  |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
  |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
  |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]}}

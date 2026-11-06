@@ -1,16 +1,15 @@
 # Hantu
-# revid 24456  2026-08-14T21:22:36Z  by Darkhooper
-# 备注: freezing breath frequency
-# sha256 f41191cf290405ca32fb58456a6b8b7bb60774b39d525272ffba1b8fb942f515  bytes 8909
+# revid 25240  2026-11-06T14:02:19Z  by AuthoritativeWoodpecker620
+# sha256 fb0b4713daea090ce01c1d80b4b03b35de65e26cdbc06806084f51515f14dc78  bytes 8918
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Hantu Discovered.jpg
- |abiliti(es)=*Can emit frosty breath when hunting with the breaker off
+ |abiliti(es)=*Can emit frosty breath when hunting with the [[Fuse Box]] turn off
  |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
  |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
  |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
- |strength=*Moves quicker in colder areas during hunts|weakness(es)=*Moves slower in warmer areas during hunts
+ |strength=*Moves faster in colder areas during hunts|weakness(es)=*Moves slower in warmer areas during hunts
 }}{{Quote
  |quote=A Hantu is a rare ghost that thrives in the coldest climates. The cold seems to make them more aggressive and empowered.
  |speaker=The Journal

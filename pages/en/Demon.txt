@@ -1,16 +1,15 @@
 # Demon
-# revid 25227  2026-11-06T09:32:30Z  by Darkhooper
-# 备注: Reverted edits by [[Special:Contributions/Tim J.H-2011|Tim J.H-2011]] ([[User talk:Tim J.H-2011|talk]]) to last revision by [[User:Darkhooper|Darkhooper]]
-# sha256 fb9bd38c5a9054aa8d767def92222c2d7d94256c27cc0c3594e06d6090a360fa  bytes 7742
+# revid 25239  2026-11-06T14:00:14Z  by AuthoritativeWoodpecker620
+# sha256 25d3ce0733b3c1bc088a280e4cba8ed222d4d5f95096aca1b3126ea93a2aeef8  bytes 7746
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Demon Discovered.jpg
- |strength=*Lower hunt cooldown than other ghosts
+ |strength=*Lower cooldown between hunts
 *Higher hunt sanity threshold
-*Smudging prevents hunts for shorter
+*[[Incense]] prevents hunts for shorter
  |abiliti(es)=*Rare chance to hunt at any sanity percentage
- |weakness(es)=*Increased effective crucifix range
+ |weakness(es)=*Increased effective [[Crucifix]] large range
  |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
  |Evidence2=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]
  |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]

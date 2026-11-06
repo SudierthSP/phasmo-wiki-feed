@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-06T11:29:26.834Z",
+  "updated": "2026-11-06T18:16:41.058Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -126,8 +126,8 @@
       "redirect": false
     },
     "Mare": {
-      "revid": 25022,
-      "ts": "2026-09-29T03:02:57Z",
+      "revid": 25235,
+      "ts": "2026-11-06T13:47:28Z",
       "redirect": false
     },
     "Photo Camera": {
@@ -141,8 +141,8 @@
       "redirect": false
     },
     "Jinn": {
-      "revid": 24354,
-      "ts": "2026-07-29T06:07:10Z",
+      "revid": 25242,
+      "ts": "2026-11-06T14:36:28Z",
       "redirect": false
     },
     "Objectives": {
@@ -166,8 +166,8 @@
       "redirect": false
     },
     "Banshee": {
-      "revid": 25225,
-      "ts": "2026-11-06T09:32:04Z",
+      "revid": 25236,
+      "ts": "2026-11-06T13:53:22Z",
       "redirect": false
     },
     "Shade": {
@@ -176,8 +176,8 @@
       "redirect": false
     },
     "Demon": {
-      "revid": 25227,
-      "ts": "2026-11-06T09:32:30Z",
+      "revid": 25239,
+      "ts": "2026-11-06T14:00:14Z",
       "redirect": false
     },
     "Revenant": {
@@ -191,8 +191,8 @@
       "redirect": false
     },
     "Oni": {
-      "revid": 24610,
-      "ts": "2026-09-05T05:16:45Z",
+      "revid": 25246,
+      "ts": "2026-11-06T15:03:45Z",
       "redirect": false
     },
     "Flashlight": {
@@ -541,8 +541,8 @@
       "redirect": false
     },
     "Hantu": {
-      "revid": 24456,
-      "ts": "2026-08-14T21:22:36Z",
+      "revid": 25240,
+      "ts": "2026-11-06T14:02:19Z",
       "redirect": false
     },
     "Frequently used game terms": {
@@ -556,13 +556,13 @@
       "redirect": false
     },
     "Goryo": {
-      "revid": 25019,
-      "ts": "2026-09-27T23:26:46Z",
+      "revid": 25233,
+      "ts": "2026-11-06T13:41:27Z",
       "redirect": false
     },
     "Myling": {
-      "revid": 25034,
-      "ts": "2026-10-01T18:27:38Z",
+      "revid": 25244,
+      "ts": "2026-11-06T14:47:40Z",
       "redirect": false
     },
     "D.O.T.S. Projector": {
@@ -656,8 +656,8 @@
       "redirect": false
     },
     "Obake": {
-      "revid": 25210,
-      "ts": "2026-11-06T02:43:08Z",
+      "revid": 25245,
+      "ts": "2026-11-06T14:57:55Z",
       "redirect": false
     },
     "Maple Lodge Campsite": {
@@ -981,13 +981,13 @@
       "redirect": false
     },
     "Deogen": {
-      "revid": 25229,
-      "ts": "2026-11-06T09:39:47Z",
+      "revid": 25237,
+      "ts": "2026-11-06T13:56:21Z",
       "redirect": false
     },
     "Moroi": {
-      "revid": 25154,
-      "ts": "2026-10-26T16:22:38Z",
+      "revid": 25243,
+      "ts": "2026-11-06T14:39:59Z",
       "redirect": false
     },
     "Thaye": {

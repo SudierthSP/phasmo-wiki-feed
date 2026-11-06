@@ -1,14 +1,13 @@
 # Myling
-# revid 25034  2026-10-01T18:27:38Z  by Darkhooper
-# 备注: another clarification as Tier 2 doesn't have an indicator for 6.5m if it is not a Myling.
-# sha256 909041ff71562f031f88eb306e7323b86471bbd4b6b945d999e2092b430c21b1  bytes 5624
+# revid 25244  2026-11-06T14:47:40Z  by AuthoritativeWoodpecker620
+# sha256 765c5dfe8200032d972e4897052fcaf8ca9ec9946ebe998e549900d94e68aa4f  bytes 5633
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Myling Discovered.jpg
- |strength=*Has quieter footsteps and vocalizations during hunts
+ |strength=*Has quieter footsteps and vocalizations during hunts when far away
  |abiliti(es)=
- |weakness(es)=*Produces paranormal sounds more frequently
+ |weakness(es)=*Produces paranormal sounds more often
  |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
  |Evidence2=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]
  |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
