@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T17:59:08.377Z",
+  "generated": "2026-11-06T03:30:21.526Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -86,8 +86,8 @@
       {
         "t": "Ultraviolet",
         "f": "pages/en/Ultraviolet.txt",
-        "b": 9025,
-        "r": 25172,
+        "b": 9370,
+        "r": 25209,
         "x": "{{Evidence_Infobox |image1=Fingerprints_3.png |detected_by=[[File:UVLight_Render.png|24x24px|link=UV Light]] [[UV Light]] }} {{Quote|speaker=The Journal|quote=Some Ghosts have been known to leave fingerprints on objects "
       },
       {
@@ -443,8 +443,8 @@
       {
         "t": "Difficulty",
         "f": "pages/en/Difficulty.txt",
-        "b": 13883,
-        "r": 24565,
+        "b": 13942,
+        "r": 25208,
         "x": "[[File:Difficulty Selection.png|thumb|300x300px|The contract difficulty selection screen]]'''Difficulties''' in ''Phasmophobia'' adjust the player experience according to their skill. There are five main '''difficulties'"
       },
       {
@@ -800,8 +800,8 @@
       {
         "t": "Obake",
         "f": "pages/en/Obake.txt",
-        "b": 10545,
-        "r": 25150,
+        "b": 11115,
+        "r": 25210,
         "x": "{{Ghost |title=Obake |image1=Obake Discovered.jpg |strength=*Fingerprints can disappear faster than usual *Occasionally fails to leave fingerprints |abiliti(es)=*Has a chance to blink in a different ghost model when hunt"
       },
       {
@@ -1500,8 +1500,8 @@
       {
         "t": "Challenge Mode",
         "f": "pages/en/Challenge Mode.txt",
-        "b": 44128,
-        "r": 25157,
+        "b": 44240,
+        "r": 25211,
         "x": "The '''Challenge Mode''' is a feature introduced in [[0.8.1.0]]. It allows players to take part in a curated custom [[difficulty]], often based on Professional, with predetermined rules and set of starter items. As playe"
       },
       {
@@ -1801,8 +1801,8 @@
       {
         "t": "Difficulty/Custom",
         "f": "pages/en/Difficulty_Custom.txt",
-        "b": 14744,
-        "r": 24587,
+        "b": 14714,
+        "r": 25207,
         "x": "Unlocked at level 50, '''custom difficulty''', as the name suggests, allows the player to modify various parameters relating to the player, the ghost, and the contract itself. In exchange, the reward multiplier is either"
       },
       {

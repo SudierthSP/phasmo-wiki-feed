@@ -1,7 +1,7 @@
 # Difficulty
-# revid 24565  2026-08-26T22:57:57Z  by Darkhooper
-# 备注: 0.19
-# sha256 cae8a022de30429215a40c656f061c215706861215229eb4d21778169616c91c  bytes 13669
+# revid 25208  2026-11-06T01:11:18Z  by Darkhooper
+# 备注: Apoc 3 preset has 25% fingerprint chance and 15s fingerprint duration
+# sha256 69d64ec4c488e12250ae4ac4b37cd5efd4c96f7fd43ad88b9c0f0a685bb082eb  bytes 13663
 # 源: https://phasmophobia.fandom.com/api.php
 
 [[File:Difficulty Selection.png|thumb|300x300px|The contract difficulty selection screen]]'''Difficulties''' in ''Phasmophobia'' adjust the player experience according to their skill. There are five main '''difficulties''' in ''Phasmophobia'': Amateur, Intermediate, Professional, Nightmare, and Insanity. Custom difficulties can also be created. Difficulties impact the player, the ghost, and the contract, giving out varying rewards.
@@ -155,7 +155,7 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 
 ==Summary Table==
 {| class="article-table"
-!Category 
+!Category
 !Variable
 !Description
 !Amateur
@@ -164,9 +164,9 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 !Nightmare
 !Insanity
 !Custom
-!Apocalypse I
-!Apocalypse II
-!Apocalypse III
+!Apocalypse I (Preset)
+!Apocalypse II (Preset)
+!Apocalypse III (Preset)
 |-
 ! rowspan="4" |Payout
 |Level needed
@@ -197,11 +197,11 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |The reward multiplier for experience.
 |-
 |Insurance
-|The amount of insurance given back upon death. 
+|The amount of insurance given back upon death.
 |50%
 |25%
 |0%
-|0% 
+|0%
 |0%
 |
 *Difficulty multiplier ≤ x1: 50%
@@ -215,7 +215,7 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |Starting sanity
 |Each member's starting sanity
 |100
-|100 
+|100
 |100
 |100
 |75
@@ -227,7 +227,7 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |Sanity Medication restoration (%)
 |The amount of sanity restored per 'Sanity Medication'
 |40
-|35 
+|35
 |30
 |25
 |20
@@ -253,7 +253,7 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |On
 |On
 |On
-|On 
+|On
 |On
 |Off/On/Infinite
 |Off
@@ -261,10 +261,10 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |Off
 |-
 |Player speed (%)
-|How quickly players move 
+|How quickly players move
 |100
 |100
-|100 
+|100
 |100
 |100
 |50/75/100/125/150
@@ -272,7 +272,7 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |75
 |50
 |-
-|Flashlights 
+|Flashlights
 |Turning this off will prevent flashlights from functioning
 |On
 |On
@@ -286,11 +286,11 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |-
 |Lose items and consumables
 |Turning this setting off will result in zero rewards
-|On 
-|On 
 |On
 |On
-|On 
+|On
+|On
+|On
 |Off/On
 |On
 |On
@@ -314,7 +314,7 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |100
 |100
 |100
-|100 
+|100
 |100
 |50/75/100/125/150
 |150
@@ -337,9 +337,9 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |The chance of the ghost changing its favourite room
 |None
 |None
-|Low 
+|Low
 |Medium
-|High 
+|High
 |None/Low/Medium/High
 |High
 |High
@@ -348,7 +348,7 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |Activity level
 |The chance for the ghost to interact with objects
 |High
-|Medium 
+|Medium
 |Low
 |Low
 |Low
@@ -362,7 +362,7 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |Low
 |Medium
 |Medium
-|High 
+|High
 |High
 |Low/Medium/High
 |Low
@@ -371,7 +371,7 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |-
 |Friendly ghost
 |The ghost will never hunt. Turning this setting on will result in zero rewards
-|Off 
+|Off
 |Off
 |Off
 |Off
@@ -396,7 +396,7 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |Hunt duration (s)<ref group="note" name=":0">Hunt duration also depends on the map size and whether a player death will extend the hunt. See [[Hunt]] for more details.</ref>
 |The duration the ghost will hunt for<br><small>''Only shows when Friendly ghost is off''</small>
 |Low
-|Medium 
+|Medium
 |High
 |High
 |High
@@ -432,26 +432,26 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |Fingerprint chance (%)
 |The chance of a ghost leaving fingerprints when interacting<br><small>''Only shows when Evidence given is not 0''</small>
 |100
-|100 
+|100
 |100
 |100
 |100
 |25/50/75/100
 |100
 |100
-| -
+|25
 |-
 |Fingerprint duration (s)
 |The duration of fingerprints before they disappear<br><small>''Only shows when Evidence given is not 0''</small>
 |120
 |120
 |120
-|120 
-|60 
+|120
+|60
 |15/30/60/90/120/180/Infinite
-|60 
-|60 
-| - 
+|60
+|60
+|15
 |-
 ! rowspan="11" |Contract
 |Setup time (s)
@@ -468,7 +468,7 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |-
 |Weather
 |Set the weather in the location
-|Random 
+|Random
 |Random
 |Random
 |Random
@@ -507,7 +507,7 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |On
 |On
 |On
-|Off 
+|Off
 |Off
 |Off/On
 |On
@@ -516,10 +516,10 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |-
 |Activity monitor
 |Is the activity monitor functional
-|On 
-|On 
 |On
-|Off 
+|On
+|On
+|Off
 |Off
 |Off/On
 |On
@@ -530,7 +530,7 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 |The starting state of the fuse box
 |On
 |Off
-|Off 
+|Off
 |Off
 |Off
 |Broken/Off/On
@@ -575,11 +575,11 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 | -
 |-
 |Ghost responsiveness
-|Displays whether the ghost responds to people who are alone or everyone 
+|Displays whether the ghost responds to people who are alone or everyone
 |On
 |On
 |Off
-|Off 
+|Off
 |Off
 | 
 *Setup time = 0s: Off
@@ -641,6 +641,6 @@ The Apocalypse presets are only suggestions and do not have to be followed to ob
 
 ==Notes==
 {{reflist|group="note"}}
-[[ru:Сложность]]
-[[fr:Difficulté]]
 [[Category:Settings]]
+[[fr:Difficulté]]
+[[ru:Сложность]]

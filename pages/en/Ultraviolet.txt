@@ -1,7 +1,7 @@
 # Ultraviolet
-# revid 25172  2026-10-28T23:54:10Z  by Darkhooper
-# 备注: dead players and fingerprints
-# sha256 7ed66a64c9cd1385aefcad5ef2fe610bd01a18ce6316b5241cd7a5e84449a3c6  bytes 8786
+# revid 25209  2026-11-06T01:17:00Z  by Darkhooper
+# 备注: The Obake hiding a footstep is scaled on the Fingerprint chance difficulty setting
+# sha256 d43c1852c95c4324add29445db5baa835cefbadc04022e1c7c5d7418ca6de943  bytes 9078
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Evidence_Infobox
@@ -55,7 +55,11 @@ When leaving fingerprints on surfaces it touches, an [[Obake]] has an approximat
 [[File:Footprints vary by size.png|thumb|A comparison of footprints left by different ghost models.]]
 When a ghost crosses a [[Salt|salt pile]] and disturbs it, it will leave a footprint with each step until it stops moving or for a maximum of 2 seconds, leading to 4 footprints, and each footprint will produce a footstep sound and disappear after 10 to 15 seconds. If the ghost doesn't have Ultraviolet as evidence, or the evidence is hidden, its footprints will be invisible.
 *The [[Gallu]] in its weakened state can leave footprints for a maximum of 3 seconds, leading to 6 footprints instead of 4.
-*The Obake has a 25% chance each step to hide the footprint, creating no footstep sound when successful.
+*The Obake has a chance each step to hide the footprint, creating no footstep sound when successful.
+**25% chance if the 'Fingerprint chance' difficulty setting is set to 100%
+**19% chance if the 'Fingerprint chance' difficulty setting is set to 75%
+**12% chance if the 'Fingerprint chance' difficulty setting is set to 50%
+**6% chance if the 'Fingerprint chance' difficulty setting is set to 25%
 
 Because of the random nature of the game, a ghost may step in a salt pile and choose to stop moving immediately, creating no footprints in that instance.
 

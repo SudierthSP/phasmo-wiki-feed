@@ -1,7 +1,7 @@
 # Difficulty/Custom
-# revid 24587  2026-08-29T03:59:58Z  by Darkhooper
-# 备注: Undo revision [[Special:Diff/24583|24583]] by [[Special:Contributions/Sjadyak|Sjadyak]] ([[User talk:Sjadyak|talk]]) redundant with the clamp bullet point right above
-# sha256 368ee179fc126f8d7f61a5058de33e596ecfb720a0d21f4b62a103cb15b94327  bytes 14361
+# revid 25207  2026-11-06T01:03:14Z  by Darkhooper
+# 备注: fingerprint chance and duration modifiers are ignored but remain selected if Evidence given is 0
+# sha256 7efaa10e6531bcee99b5396ac03a8beea320d17d55318fa6c66a7cead4efa6bd  bytes 14401
 # 源: https://phasmophobia.fandom.com/api.php
 
 Unlocked at level 50, '''custom difficulty''', as the name suggests, allows the player to modify various parameters relating to the player, the ghost, and the contract itself. In exchange, the reward multiplier is either increased (if the changes make the difficulty harder) or decreased (if the changes make the difficulty easier). The penalties for decreasing the difficulty are usually higher than the rewards for increasing it.
@@ -533,57 +533,48 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 |25
 |<span style="color: #00b800;">+0.10x</span>
 |
-|
+| rowspan="4" |Modifiers are ignored if Evidence given is 0
 |-
 |50
 |<span style="color: #00b800;">+0.06x</span>
-|
 |
 |-
 |75
 |<span style="color: #00b800;">+0.03x</span>
 |
-|
 |-
 |100
 |Base Reward
 |
-|Forced if Evidence given is 0
 |-
 | rowspan="7" |Fingerprint duration (s)
 |15
 |<span style="color: #00b800;">+0.10x</span>
 |
-|
+| rowspan="7" |Modifiers are ignored if Evidence given is 0
 |-
 |30
 |<span style="color: #00b800;">+0.07x</span>
-|
 |
 |-
 |60
 |<span style="color: #00b800;">+0.05x</span>
 |
-|
 |-
 |90
 |<span style="color: #00b800;">+0.02x</span>
-|
 |
 |-
 |120
 |Base Reward
 |
-|Forced if Evidence given is 0
 |-
 |180
 |<span style="color: #b04500;">-1.50x</span>
 |
-|
 |-
 |Infinite
 |<span style="color: #b04500;">-3.00x</span>
-|
 |
 |-
 ! colspan="5" |Contract

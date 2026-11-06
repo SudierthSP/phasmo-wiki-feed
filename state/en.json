@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-05T17:59:08.875Z",
+  "updated": "2026-11-06T03:30:22.201Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -61,8 +61,8 @@
       "redirect": false
     },
     "Ultraviolet": {
-      "revid": 25172,
-      "ts": "2026-10-28T23:54:10Z",
+      "revid": 25209,
+      "ts": "2026-11-06T01:17:00Z",
       "redirect": false
     },
     "Ouija Board": {
@@ -331,8 +331,8 @@
       "redirect": false
     },
     "Difficulty": {
-      "revid": 24565,
-      "ts": "2026-08-26T22:57:57Z",
+      "revid": 25208,
+      "ts": "2026-11-06T01:11:18Z",
       "redirect": false
     },
     "Site Activity Monitor": {
@@ -656,8 +656,8 @@
       "redirect": false
     },
     "Obake": {
-      "revid": 25150,
-      "ts": "2026-10-26T02:14:34Z",
+      "revid": 25210,
+      "ts": "2026-11-06T02:43:08Z",
       "redirect": false
     },
     "Maple Lodge Campsite": {
@@ -1226,8 +1226,8 @@
       "redirect": false
     },
     "Challenge Mode": {
-      "revid": 25157,
-      "ts": "2026-10-26T23:19:30Z",
+      "revid": 25211,
+      "ts": "2026-11-06T02:51:44Z",
       "redirect": false
     },
     "0.8.1.3": {
@@ -1501,8 +1501,8 @@
       "redirect": false
     },
     "Difficulty/Custom": {
-      "revid": 24587,
-      "ts": "2026-08-29T03:59:58Z",
+      "revid": 25207,
+      "ts": "2026-11-06T01:03:14Z",
       "redirect": false
     },
     "0.10.1.0": {
