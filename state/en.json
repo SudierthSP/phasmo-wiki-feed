@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-06T18:16:41.058Z",
+  "updated": "2026-11-06T23:20:59.225Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -96,8 +96,8 @@
       "redirect": false
     },
     "Phantom": {
-      "revid": 25198,
-      "ts": "2026-11-05T12:22:22Z",
+      "revid": 25249,
+      "ts": "2026-11-06T22:55:22Z",
       "redirect": false
     },
     "Ghost Writing": {
@@ -116,8 +116,8 @@
       "redirect": true
     },
     "Spirit": {
-      "revid": 25218,
-      "ts": "2026-11-06T06:04:43Z",
+      "revid": 25261,
+      "ts": "2026-11-06T23:13:13Z",
       "redirect": false
     },
     "Ghost Room": {
@@ -126,8 +126,8 @@
       "redirect": false
     },
     "Mare": {
-      "revid": 25235,
-      "ts": "2026-11-06T13:47:28Z",
+      "revid": 25250,
+      "ts": "2026-11-06T22:56:16Z",
       "redirect": false
     },
     "Photo Camera": {
@@ -141,8 +141,8 @@
       "redirect": false
     },
     "Jinn": {
-      "revid": 25242,
-      "ts": "2026-11-06T14:36:28Z",
+      "revid": 25258,
+      "ts": "2026-11-06T23:09:04Z",
       "redirect": false
     },
     "Objectives": {
@@ -156,8 +156,8 @@
       "redirect": false
     },
     "Poltergeist": {
-      "revid": 25188,
-      "ts": "2026-11-02T01:07:11Z",
+      "revid": 25251,
+      "ts": "2026-11-06T22:58:30Z",
       "redirect": false
     },
     "UV Light": {
@@ -166,23 +166,23 @@
       "redirect": false
     },
     "Banshee": {
-      "revid": 25236,
-      "ts": "2026-11-06T13:53:22Z",
+      "revid": 25252,
+      "ts": "2026-11-06T23:00:13Z",
       "redirect": false
     },
     "Shade": {
-      "revid": 25217,
-      "ts": "2026-11-06T06:04:06Z",
+      "revid": 25259,
+      "ts": "2026-11-06T23:10:16Z",
       "redirect": false
     },
     "Demon": {
-      "revid": 25239,
-      "ts": "2026-11-06T14:00:14Z",
+      "revid": 25255,
+      "ts": "2026-11-06T23:05:39Z",
       "redirect": false
     },
     "Revenant": {
-      "revid": 23424,
-      "ts": "2026-05-10T20:27:26Z",
+      "revid": 25256,
+      "ts": "2026-11-06T23:06:03Z",
       "redirect": false
     },
     "Yurei": {
@@ -191,8 +191,8 @@
       "redirect": false
     },
     "Oni": {
-      "revid": 25246,
-      "ts": "2026-11-06T15:03:45Z",
+      "revid": 25263,
+      "ts": "2026-11-06T23:17:30Z",
       "redirect": false
     },
     "Flashlight": {
@@ -541,8 +541,8 @@
       "redirect": false
     },
     "Hantu": {
-      "revid": 25240,
-      "ts": "2026-11-06T14:02:19Z",
+      "revid": 25257,
+      "ts": "2026-11-06T23:07:07Z",
       "redirect": false
     },
     "Frequently used game terms": {
@@ -556,8 +556,8 @@
       "redirect": false
     },
     "Goryo": {
-      "revid": 25233,
-      "ts": "2026-11-06T13:41:27Z",
+      "revid": 25248,
+      "ts": "2026-11-06T22:53:20Z",
       "redirect": false
     },
     "Myling": {
@@ -641,8 +641,8 @@
       "redirect": true
     },
     "Onryo": {
-      "revid": 25145,
-      "ts": "2026-10-24T17:23:38Z",
+      "revid": 25247,
+      "ts": "2026-11-06T22:47:25Z",
       "redirect": false
     },
     "The Twins": {
@@ -651,13 +651,13 @@
       "redirect": false
     },
     "Raiju": {
-      "revid": 25155,
-      "ts": "2026-10-26T17:30:26Z",
+      "revid": 25253,
+      "ts": "2026-11-06T23:00:45Z",
       "redirect": false
     },
     "Obake": {
-      "revid": 25245,
-      "ts": "2026-11-06T14:57:55Z",
+      "revid": 25262,
+      "ts": "2026-11-06T23:15:49Z",
       "redirect": false
     },
     "Maple Lodge Campsite": {
@@ -981,18 +981,18 @@
       "redirect": false
     },
     "Deogen": {
-      "revid": 25237,
-      "ts": "2026-11-06T13:56:21Z",
+      "revid": 25254,
+      "ts": "2026-11-06T23:03:28Z",
       "redirect": false
     },
     "Moroi": {
-      "revid": 25243,
-      "ts": "2026-11-06T14:39:59Z",
+      "revid": 25260,
+      "ts": "2026-11-06T23:12:02Z",
       "redirect": false
     },
     "Thaye": {
-      "revid": 25132,
-      "ts": "2026-10-23T14:54:50Z",
+      "revid": 25264,
+      "ts": "2026-11-06T23:20:28Z",
       "redirect": false
     },
     "0.6.2.1": {

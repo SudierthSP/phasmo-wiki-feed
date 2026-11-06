@@ -1,16 +1,15 @@
 # Phantom
-# revid 25198  2026-11-05T12:22:22Z  by Darkhooper
-# 备注: added note
-# sha256 3d83c4a826d9c84554ca6dcd131baa0b5f9604301896252e620f0fe4a5c70d9b  bytes 9718
+# revid 25249  2026-11-06T22:55:22Z  by AuthoritativeWoodpecker620
+# sha256 c9403173aca27453464ca43ee93fe37929b503c51470fb9067021e5bb6166f8c  bytes 9723
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |title=Phantom
  |image1=Phantom Discovered.jpg
- |strength= *Seeing the ghost nearby during manifestations and hunts drains more sanity
+ |strength= *Looking the ghost nearby during manifestations and hunts drains more sanity
 *Remains invisible for longer periods when hunting
  |abiliti(es)= *Occasionally roams to a random player
- |weakness(es)= *Capturing a photo/video of the Phantom renders it temporarily invisible
+ |weakness(es)= *Capturing a [[Photo Camera]] or [[Video Camera]] will temporarily disappear
  |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
  |Evidence2=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
  |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]

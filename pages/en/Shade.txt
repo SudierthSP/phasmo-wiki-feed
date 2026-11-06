@@ -1,15 +1,14 @@
 # Shade
-# revid 25217  2026-11-06T06:04:06Z  by Darkhooper
-# 备注: Reverted edits by [[Special:Contributions/Tim J.H-2011|Tim J.H-2011]] ([[User talk:Tim J.H-2011|talk]]) to last revision by [[User:Darkhooper|Darkhooper]]
-# sha256 1653acf4ee09cd1ac79fc04bb9793747890f5c40deadbf64a3e39128dc86bcf2  bytes 7222
+# revid 25259  2026-11-06T23:10:16Z  by AuthoritativeWoodpecker620
+# sha256 fc88d6bdd1e2f135cb0a3be205582d5d2ab5d1aef78456014c3fd15ff2728db9  bytes 7184
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Shade Discovered.jpg
- |strength= *Harder to find due to it being generally less active
- |abiliti(es)= *Produces mist and shadow form ghost events more often
+ |strength= *Difficult to find due to it being generally inactive
+ |abiliti(es)= *Produces mist and shadow form ghost events frequently
  |weakness(es)= *Has a low hunt sanity threshold
-*Generally unwilling to hunt and perform interactions in the presence of players
+*Less likely to hunt when people is nearby
  |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
  |Evidence2=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
  |Evidence3=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]

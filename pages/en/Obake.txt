@@ -1,13 +1,13 @@
 # Obake
-# revid 25245  2026-11-06T14:57:55Z  by AuthoritativeWoodpecker620
-# sha256 ba54def3f5726306c348935750a7b7259b150d6a4446286ea158486b5952a29b  bytes 10836
+# revid 25262  2026-11-06T23:15:49Z  by Darkhooper
+# sha256 9809327309f2e361da7357364f799e5417b8f8c9a31eea31782b5414182a6ee4  bytes 10838
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |title=Obake
  |image1=Obake Discovered.jpg
  |strength=*Fingerprints can disappear faster
-*Occasionally do not leave fingerprints
+*Occasionally does not leave fingerprints
  |abiliti(es)=*Has a chance to blink in a different ghost model when hunting
  |weakness(es)=*Can leave a unique fingerprint pattern
  |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]

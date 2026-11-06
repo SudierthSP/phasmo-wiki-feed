@@ -1,15 +1,14 @@
 # Poltergeist
-# revid 25188  2026-11-02T01:07:11Z  by Darkhooper
-# 备注: table for item throwing force
-# sha256 21f3eb483d6392a736a4f2fdaa7716739df5e5b468824534cdff12fee839d64b  bytes 8037
+# revid 25251  2026-11-06T22:58:30Z  by AuthoritativeWoodpecker620
+# sha256 277dfafee6a47d05e0032344b0a0ee630f3cb16d58468af2250b2ac969a256c2  bytes 8031
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Poltergeist Discovered.jpg
- |strength=*Sanity decrease stacks up during multithrow interactions
+ |strength=*Sanity drian stacks up during poltybomb interactions
  |abiliti(es)=*Can throw multiple objects at once
-*Can throw a single object farther than other types
- |weakness(es)=*Ineffective in empty rooms with no throwables
+*Can throw a single object farther with great force
+ |weakness(es)=*Powerless in empty rooms with no throwables
  |Evidence1=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]
  |Evidence2=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
  |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]

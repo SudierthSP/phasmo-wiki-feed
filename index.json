@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T18:16:40.534Z",
+  "generated": "2026-11-06T23:20:58.644Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -129,8 +129,8 @@
         "t": "Phantom",
         "f": "pages/en/Phantom.txt",
         "b": 9934,
-        "r": 25198,
-        "x": "{{Ghost |title=Phantom |image1=Phantom Discovered.jpg |strength= *Seeing the ghost nearby during manifestations and hunts drains more sanity *Remains invisible for longer periods when hunting |abiliti(es)= *Occasionally "
+        "r": 25249,
+        "x": "{{Ghost |title=Phantom |image1=Phantom Discovered.jpg |strength= *Looking the ghost nearby during manifestations and hunts drains more sanity *Remains invisible for longer periods when hunting |abiliti(es)= *Occasionally"
       },
       {
         "t": "Ghost Writing",
@@ -149,9 +149,9 @@
       {
         "t": "Spirit",
         "f": "pages/en/Spirit.txt",
-        "b": 4922,
-        "r": 25218,
-        "x": "{{Ghost |image1=Spirit Discovered.jpg |weakness(es)=Incense prevents hunts for longer (double duration) |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] |Evidence2=[[File:ClosedBook_Rende"
+        "b": 4778,
+        "r": 25261,
+        "x": "{{Ghost |image1=Spirit Discovered.jpg |weakness(es)=[[Incense]] prevents hunts for longer (double duration) |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] |Evidence2=[[File:ClosedBook_R"
       },
       {
         "t": "Ghost Room",
@@ -163,8 +163,8 @@
       {
         "t": "Mare",
         "f": "pages/en/Mare.txt",
-        "b": 10857,
-        "r": 25235,
+        "b": 10842,
+        "r": 25250,
         "x": "{{Ghost |image1=Mare Discovered.jpg |strength=*Hunts at a higher sanity threshold in an unlit room |abiliti(es)=*Turns off lights and breaks lightbulbs more frequently *May turn off a light immediately after a player tur"
       },
       {
@@ -184,8 +184,8 @@
       {
         "t": "Jinn",
         "f": "pages/en/Jinn.txt",
-        "b": 7853,
-        "r": 25242,
+        "b": 7851,
+        "r": 25258,
         "x": "{{Ghost |image1=Jinn Discovered.jpg |abiliti(es)=*Occasionally attempts to drain the sanity of nearby players |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] |Evidence2=[[File:Thermomete"
       },
       {
@@ -205,9 +205,9 @@
       {
         "t": "Poltergeist",
         "f": "pages/en/Poltergeist.txt",
-        "b": 8276,
-        "r": 25188,
-        "x": "{{Ghost |image1=Poltergeist Discovered.jpg |strength=*Sanity decrease stacks up during multithrow interactions |abiliti(es)=*Can throw multiple objects at once *Can throw a single object farther than other types |weaknes"
+        "b": 8246,
+        "r": 25251,
+        "x": "{{Ghost |image1=Poltergeist Discovered.jpg |strength=*Sanity drian stacks up during poltybomb interactions |abiliti(es)=*Can throw multiple objects at once *Can throw a single object farther with great force |weakness(es"
       },
       {
         "t": "UV Light",
@@ -219,30 +219,30 @@
       {
         "t": "Banshee",
         "f": "pages/en/Banshee.txt",
-        "b": 14862,
-        "r": 25236,
-        "x": "{{Ghost |title=Banshee |image1=Banshee Discovered.jpg |strength= *Focuses on the same player until that player is killed or has left the game *Higher hunt sanity threshold |weakness(es)= *Cannot kill target other than th"
+        "b": 14786,
+        "r": 25252,
+        "x": "{{Ghost |title=Banshee |image1=Banshee Discovered.jpg |strength= *Focuses on the same player until that player is killed or has left the game |weakness(es)= *Cannot kill players other than the target if the target is ins"
       },
       {
         "t": "Shade",
         "f": "pages/en/Shade.txt",
-        "b": 7580,
-        "r": 25217,
-        "x": "{{Ghost |image1=Shade Discovered.jpg |strength= *Harder to find due to it being generally less active |abiliti(es)= *Produces mist and shadow form ghost events more often |weakness(es)= *Has a low hunt sanity threshold *"
+        "b": 7393,
+        "r": 25259,
+        "x": "{{Ghost |image1=Shade Discovered.jpg |strength= *Difficult to find due to it being generally inactive |abiliti(es)= *Produces mist and shadow form ghost events frequently |weakness(es)= *Has a low hunt sanity threshold *"
       },
       {
         "t": "Demon",
         "f": "pages/en/Demon.txt",
-        "b": 7955,
-        "r": 25239,
+        "b": 7933,
+        "r": 25255,
         "x": "{{Ghost |image1=Demon Discovered.jpg |strength=*Lower cooldown between hunts *Higher hunt sanity threshold *[[Incense]] prevents hunts for shorter |abiliti(es)=*Rare chance to hunt at any sanity percentage |weakness(es)="
       },
       {
         "t": "Revenant",
         "f": "pages/en/Revenant.txt",
-        "b": 5169,
-        "r": 23424,
-        "x": "{{Ghost |image1=Revenant Discovered.jpg |strength=*Significant speed increase when chasing a player during hunts |weakness(es)=*Roaming speed remains low or drops over time when no player is detected |Evidence1=[[File:Th"
+        "b": 5154,
+        "r": 25256,
+        "x": "{{Ghost |image1=Revenant Discovered.jpg |strength=*Significant fastest speed when player is detected |weakness(es)=*Significant slowest speed when no player is detected |Evidence1=[[File:Thermometer_Render.png|24x24px|al"
       },
       {
         "t": "Yurei",
@@ -254,9 +254,9 @@
       {
         "t": "Oni",
         "f": "pages/en/Oni.txt",
-        "b": 5825,
-        "r": 25246,
-        "x": "{{Ghost |title=Oni |image1=Oni Discovered.jpg |strength= *More active when many people nearby |weakness(es)= *Cannot produce mist form ghost events *Model remains visible for longer periods when hunting |Evidence1=[[File"
+        "b": 5799,
+        "r": 25263,
+        "x": "{{Ghost |title=Oni |image1=Oni Discovered.jpg |strength= *More active when players are nearby |weakness(es)= *Cannot produce mist form ghost events *Model remains visible for longer periods when hunting |Evidence1=[[File"
       },
       {
         "t": "Flashlight",
@@ -667,9 +667,9 @@
       {
         "t": "Hantu",
         "f": "pages/en/Hantu.txt",
-        "b": 9127,
-        "r": 25240,
-        "x": "{{Ghost |image1=Hantu Discovered.jpg |abiliti(es)=*Can emit frosty breath when hunting with the [[Fuse Box]] turn off |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]"
+        "b": 9115,
+        "r": 25257,
+        "x": "{{Ghost |image1=Hantu Discovered.jpg |abiliti(es)=*Can emit frosty breath when hunting with the [[Fuse Box|fuse box]] off |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatu"
       },
       {
         "t": "Frequently used game terms",
@@ -688,9 +688,9 @@
       {
         "t": "Goryo",
         "f": "pages/en/Goryo.txt",
-        "b": 7324,
-        "r": 25233,
-        "x": "{{Ghost |image1=Goryo Discovered.jpg |strength=*Usually shows itself passing through [[D.O.T.S Projector|D.O.T.S.]] on [[Video Camera]] only with no players nearby |weakness(es)=*Less likely to roam *Cannot change rooms "
+        "b": 7355,
+        "r": 25248,
+        "x": "{{Ghost |image1=Goryo Discovered.jpg |strength=*Shows itself in [[D.O.T.S. Projector (Evidence)|D.O.T.S.]] only on [[Video Camera|video cameras]] and when no players are nearby |weakness(es)=*Less likely to roam *Cannot "
       },
       {
         "t": "Myling",
@@ -779,9 +779,9 @@
       {
         "t": "Onryo",
         "f": "pages/en/Onryo.txt",
-        "b": 9754,
-        "r": 25145,
-        "x": "{{Ghost |image1=Onryo Discovered.jpg |strength= *Can sometimes hunt at any sanity after blowing out a flame *Blows out fiery objects (candles, campfire) more often with more dead people |weakness(es)= *Presence of flames"
+        "b": 9824,
+        "r": 25247,
+        "x": "{{Ghost |image1=Onryo Discovered.jpg |strength= *Higher hunt sanity threshold *Blows out fiery objects (candles, campfire) more often and many dead people |abiliti(es)=*Can hunt any sanity after extinguish a flame|weakne"
       },
       {
         "t": "The Twins",
@@ -793,16 +793,16 @@
       {
         "t": "Raiju",
         "f": "pages/en/Raiju.txt",
-        "b": 6242,
-        "r": 25155,
-        "x": "{{Ghost |image1=Raiju Discovered.jpg |strength=*Active electronics boost its speed during hunts |weakness(es)=*Disrupts electronics from further away when manifesting |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|a"
+        "b": 6294,
+        "r": 25253,
+        "x": "{{Ghost |image1=Raiju Discovered.jpg |strength=*Active electronics boost its speed during hunts *Hunts at a higher sanity threshold when electronic is nearby |weakness(es)=*Disrupts electronics from further away when man"
       },
       {
         "t": "Obake",
         "f": "pages/en/Obake.txt",
-        "b": 11046,
-        "r": 25245,
-        "x": "{{Ghost |title=Obake |image1=Obake Discovered.jpg |strength=*Fingerprints can disappear faster *Occasionally do not leave fingerprints |abiliti(es)=*Has a chance to blink in a different ghost model when hunting |weakness"
+        "b": 11032,
+        "r": 25262,
+        "x": "{{Ghost |title=Obake |image1=Obake Discovered.jpg |strength=*Fingerprints can disappear faster *Occasionally does not leave fingerprints |abiliti(es)=*Has a chance to blink in a different ghost model when hunting |weakne"
       },
       {
         "t": "Maple Lodge Campsite",
@@ -1199,23 +1199,23 @@
       {
         "t": "Deogen",
         "f": "pages/en/Deogen.txt",
-        "b": 10074,
-        "r": 25237,
+        "b": 10062,
+        "r": 25254,
         "x": "{{Ghost |image1=Deogen Discovered.jpg |strength= *Always knows where players are during a hunt *Moves at a high speed with no player nearby |abiliti(es)=*Can produce a unique response through the [[Spirit Box]] |weakness"
       },
       {
         "t": "Moroi",
         "f": "pages/en/Moroi.txt",
-        "b": 10741,
-        "r": 25243,
-        "x": "{{Ghost |image1=Moroi Discovered.jpg |strength= *Hunting speeds depend directly on average team sanity |abiliti(es)=*Can cursed players through the [[Spirit Box]] or the [[Parabolic Microphone]], making them drain sanity"
+        "b": 10750,
+        "r": 25260,
+        "x": "{{Ghost |image1=Moroi Discovered.jpg |strength= *Hunting speeds depend directly on average team sanity |abiliti(es)=*Can curse players through the [[Spirit Box]], the [[Parabolic Microphone]], or the [[Sound Recorder]], "
       },
       {
         "t": "Thaye",
         "f": "pages/en/Thaye.txt",
-        "b": 8193,
-        "r": 25132,
-        "x": "{{Ghost |image1=Thaye Discovered.jpg |strength= *Becomes very active the first time a player gets nearby |weakness(es)= *The more time players spend near it, the quieter and slower it becomes |Evidence1=[[File:DOTS_proje"
+        "b": 8276,
+        "r": 25264,
+        "x": "{{Ghost |image1=Thaye Discovered.jpg |strength= *Becomes very active the first time a player gets nearby *Hunts at a higher sanity threshold when is young |weakness(es)= *The more time players spend near it, the quieter "
       },
       {
         "t": "0.6.2.1",

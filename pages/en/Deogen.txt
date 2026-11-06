@@ -1,6 +1,6 @@
 # Deogen
-# revid 25237  2026-11-06T13:56:21Z  by AuthoritativeWoodpecker620
-# sha256 ac3ea5dc72f36439b403c2eabebce1e9a8d4540125a87442e714a61fc9a9c38c  bytes 9864
+# revid 25254  2026-11-06T23:03:28Z  by Darkhooper
+# sha256 e763ae46728b58cdb4bdddbd6ead6eb1253d4c707d4e71b263ca5165f7a5c708  bytes 9868
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -8,7 +8,7 @@
  |strength= *Always knows where players are during a hunt
 *Moves at a high speed with no player nearby
  |abiliti(es)=*Can produce a unique response through the [[Spirit Box]]
- |weakness(es)=*Significantly slows down when near player
+ |weakness(es)=*Significantly slows down when near its target
 *Has a lower hunt sanity threshold
 *Model remains visible for longer periods when hunting
  |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=|link=D.O.T.S. Projector (Evidence)]]

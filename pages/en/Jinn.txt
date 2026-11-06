@@ -1,6 +1,6 @@
 # Jinn
-# revid 25242  2026-11-06T14:36:28Z  by AuthoritativeWoodpecker620
-# sha256 4eeafd10efdf4022e09b94825e58855a479a323148b6244b24779aae87c65446  bytes 7645
+# revid 25258  2026-11-06T23:09:04Z  by Darkhooper
+# sha256 2f08967c09daef2c125914384cb34c4741a3cd0c8726760aaa5acd64fb8a8566  bytes 7659
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -9,13 +9,13 @@
  |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
  |Evidence2=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
  |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
- |strength=*Gets a speed boots when chasing a player that is far away
- |weakness(es)=*Cannot use any of its abilities when the [[Fuse Box]] is off
-*Cannot turn off the [[Fuse Box]]
+ |strength=*Gets a speed boost when chasing a player that is far away
+ |weakness(es)=*Cannot use any of its abilities when the [[Fuse Box|fuse box]] is off
+*Cannot turn off the fuse box
 }}{{Quote
  |quote=A Jinn is a territorial ghost that will attack when threatened. It has also been known to be able to travel at significant speed.
  |speaker=The Journal
-}}The '''Jinn''' is a type of [[ghost]] in ''Phasmophobia''. The Jinn can be empowered by an active [[Fuse Box]] to quickly close in on targets that it is chasing during a [[Hunt]].
+}}The '''Jinn''' is a type of [[ghost]] in ''Phasmophobia''. The Jinn can be empowered by an active [[Fuse Box|fuse box]] to quickly close in on targets that it is chasing during a [[Hunt]].
 
 ==Behavior==
 ===Activity===

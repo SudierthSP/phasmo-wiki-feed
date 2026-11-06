@@ -1,20 +1,20 @@
 # Goryo
-# revid 25233  2026-11-06T13:41:27Z  by AuthoritativeWoodpecker620
-# sha256 816dba1b48ab6aa6848b0c94527d312258b898732ce8a415af88d6b797d16b80  bytes 7115
+# revid 25248  2026-11-06T22:53:20Z  by Darkhooper
+# sha256 0540a8599d29a2ac9d7b746ec3167009d53611ac1229c46c092704561f02c495  bytes 7162
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Goryo Discovered.jpg
- |strength=*Usually shows itself passing through [[D.O.T.S Projector|D.O.T.S.]] on [[Video Camera]] only with no players nearby
+ |strength=*Shows itself in [[D.O.T.S. Projector (Evidence)|D.O.T.S.]] only on [[Video Camera|video cameras]] and when no players are nearby
  |weakness(es)=*Less likely to roam
-*Cannot change rooms
+*Cannot change favourite rooms
  |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
  |Evidence2=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Reader]]
  |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]
 }}{{Quote
  |quote=When a Goryo passes through a DOTS projector, using a video camera is the only way to see it.
  |speaker=The Journal
-}}The '''Goryo''' is a type of [[ghost]] in ''Phasmophobia''. Goryo are known for appearing only on video feeds when interacting with a [[D.O.T.S. Projector]], as well as remaining within the vicinity of its starting [[Ghost Room]].
+}}The '''Goryo''' is a type of [[ghost]] in ''Phasmophobia''. It is known for having [[D.O.T.S. Projector (Evidence)|D.O.T.S.]] appearing only on [[Video Camera|video cameras]], as well as remaining within the vicinity of its [[Ghost Room|favourite room]].
 
 ==Behaviour==
 ===Activity===

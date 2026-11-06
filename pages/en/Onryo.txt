@@ -1,14 +1,14 @@
 # Onryo
-# revid 25145  2026-10-24T17:23:38Z  by Darkhooper
-# 备注: host/non-host issue
-# sha256 a33a5276e8468a182418cdf266efdfb2e6ee196b26d7eeed67a47333138e9a5b  bytes 9531
+# revid 25247  2026-11-06T22:47:25Z  by AuthoritativeWoodpecker620
+# sha256 c3209d1ce11c49a564760bd2d388e07729efc9784490cb92fe1b275054c4ce0c  bytes 9615
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Onryo Discovered.jpg
- |strength= *Can sometimes hunt at any sanity after blowing out a flame
-*Blows out fiery objects (candles, campfire) more often with more dead people
- |weakness(es)= *Presence of flames prevents the ghost from hunting
+ |strength= *Higher hunt sanity threshold 
+*Blows out fiery objects (candles, campfire) more often and many dead people
+ |abiliti(es)=*Can hunt any sanity after extinguish a flame|weakness(es)= *Presence of flames prevents the ghost from hunting
+*Hunts at a lower sanity threshold when flame is nearby
  |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
  |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
  |Evidence3=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]

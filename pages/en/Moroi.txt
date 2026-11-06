@@ -1,12 +1,12 @@
 # Moroi
-# revid 25243  2026-11-06T14:39:59Z  by AuthoritativeWoodpecker620
-# sha256 6c31aad87f83d87b492e699e92743f13bb6dddf8d98b851f336fbf27d38bbf83  bytes 10531
+# revid 25260  2026-11-06T23:12:02Z  by Darkhooper
+# sha256 1eeb46d247e31da34c78be29491b9fb7fa1da2ed4b4acd028b8db3962012cbfc  bytes 10556
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Moroi Discovered.jpg
  |strength= *Hunting speeds depend directly on average team sanity
- |abiliti(es)=*Can cursed players through the [[Spirit Box]] or the [[Parabolic Microphone]], making them drain sanity significant faster
+ |abiliti(es)=*Can curse players through the [[Spirit Box]], the [[Parabolic Microphone]], or the [[Sound Recorder]], making them lose sanity significantly faster
  |weakness(es)= *Will be blind for longer when smudged during a hunt
  |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
  |Evidence2=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]

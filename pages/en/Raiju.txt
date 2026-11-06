@@ -1,12 +1,12 @@
 # Raiju
-# revid 25155  2026-10-26T17:30:26Z  by Darkhooper
-# 备注: tier 1 DOTS bug
-# sha256 43f4a7a352fcf200ccc1958a758bbcff1285681618ac9f8a80b3acd5ddc8f4bb  bytes 6023
+# revid 25253  2026-11-06T23:00:45Z  by AuthoritativeWoodpecker620
+# sha256 6961dba272693d587ad7a3cb055a659349481e8d981bd7f783fd38efeee6d711  bytes 6085
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Raiju Discovered.jpg
  |strength=*Active electronics boost its speed during hunts
+*Hunts at a higher sanity threshold when electronic is nearby
  |weakness(es)=*Disrupts electronics from further away when manifesting
  |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
  |Evidence2=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]

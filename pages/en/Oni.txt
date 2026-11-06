@@ -1,12 +1,12 @@
 # Oni
-# revid 25246  2026-11-06T15:03:45Z  by AuthoritativeWoodpecker620
-# sha256 33f0fb7d79d2870809f963407cf285074361f702639c62959c2cbc0ccf14aa94  bytes 5618
+# revid 25263  2026-11-06T23:17:30Z  by Darkhooper
+# sha256 e9e0ecf0f50cba9d8046021b760504e1414727e73ab9f4de5f56ec45f9102a61  bytes 5608
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |title=Oni
  |image1=Oni Discovered.jpg
- |strength= *More active when many people nearby
+ |strength= *More active when players are nearby
  |weakness(es)= *Cannot produce mist form ghost events
 *Model remains visible for longer periods when hunting
  |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
@@ -15,7 +15,7 @@
 }}{{Quote
  |quote=Onis love to scare their victims as much as possible before attacking. They are often seen in their physical form, guarding their place of death.
  |speaker=The Journal
-}}The '''Oni''' is a type of [[ghost]] in ''Phasmophobia''. It is much more active when players are grouped together, and has also been described as being extremely strong.
+}}The '''Oni''' is a type of [[ghost]] in ''Phasmophobia''. It is much more active when players are nearby, and has also been described as being extremely strong.
 
 ==Behaviour==
 ===Activity===

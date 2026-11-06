@@ -1,14 +1,14 @@
 # Mare
-# revid 25235  2026-11-06T13:47:28Z  by AuthoritativeWoodpecker620
-# sha256 a9404d29c2ccda28f0499daf1a997c39273359f52eec91d422c43f4bb2c93a63  bytes 10648
+# revid 25250  2026-11-06T22:56:16Z  by Darkhooper
+# sha256 b0a72bb4cb829e4368e1ba755d53719aecf76d958523b14b3874a1bda8670a03  bytes 10649
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Mare Discovered.jpg
  |strength=*Hunts at a higher sanity threshold in an unlit room
- |abiliti(es)=*Turns off lights and breaks lightbulbs more frequently 
-*May turn off a light immediately after a player turn on
-*Roam more often when lights are turn on
+ |abiliti(es)=*Turns off lights and breaks lightbulbs more frequently
+*May turn off a light immediately after a player turns one on
+*Roams more often when lights are turned on
  |weakness(es)=*Hunts at a lower sanity threshold in a lit room
  |Evidence1=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
  |Evidence2=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]
@@ -16,7 +16,7 @@
 }}{{Quote
  |quote=A Mare is the source of all nightmares, making it most powerful in the dark.
  |speaker=The Journal
-}}The '''Mare''' is a type of [[ghost]] in ''Phasmophobia''. The Mare has a distaste for light and will be enhanced in the dark. 
+}}The '''Mare''' is a type of [[ghost]] in ''Phasmophobia''. It has a distaste for light and will be enhanced in the dark. 
 
 ==Behaviour==
 ===Activity===

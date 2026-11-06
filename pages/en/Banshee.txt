@@ -1,25 +1,23 @@
 # Banshee
-# revid 25236  2026-11-06T13:53:22Z  by AuthoritativeWoodpecker620
-# sha256 1c0faca324c2a528e7fa7146300e48cb5736434ceabda5070588743e82663328  bytes 14650
+# revid 25252  2026-11-06T23:00:13Z  by Darkhooper
+# sha256 031506a70860e3488ef763e07168671ecdbc0084f35af1cfd84c74ce4f85e3ca  bytes 14590
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |title=Banshee
  |image1=Banshee Discovered.jpg
  |strength= *Focuses on the same player until that player is killed or has left the game
-*Higher hunt sanity threshold
- |weakness(es)= *Cannot kill target other than the target if the target is inside
-*Can produce unique scream, wail on the [[Parabolic Microphone]] and the [[Sound Recorder]]
-*Has a lower hunt sanity threshold
- |abiliti(es)= *Frequently performs singing ghost events more often than other ghost types
-*Frequently roam to target outside of hunts
+ |weakness(es)= *Cannot kill players other than the target if the target is inside
+*Can produce unique screams on the [[Parabolic Microphone]] and the [[Sound Recorder]]
+ |abiliti(es)= *Performs singing ghost events more often than other ghost types
+*Frequently roams to target player outside of hunts
  |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
  |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
  |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]}}
 {{Quote
  |quote=The singing siren, known for attracting its victims through song. It has been known to single out its prey before making a killing blow.
  |speaker=The Journal
-}}The '''Banshee''' is a type of [[ghost]] in ''Phasmophobia''. Banshees are noted for their distinctive screams that they produce on the Parabolic Microphone or the Sound Recorder, as well as their targeting of only one specific player during hunts.
+}}The '''Banshee''' is a type of [[ghost]] in ''Phasmophobia''. Banshees are noted for their distinctive screams that they produce on the [[Parabolic Microphone]] or the [[Sound Recorder]], as well as their targeting of only one specific player during [[hunt]]s.
 
 ==Behaviour==
 ===Target selection===
