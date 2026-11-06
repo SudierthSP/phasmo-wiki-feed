@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-06T03:30:22.201Z",
+  "updated": "2026-11-06T11:29:26.834Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -116,8 +116,8 @@
       "redirect": true
     },
     "Spirit": {
-      "revid": 23120,
-      "ts": "2026-04-11T22:37:11Z",
+      "revid": 25218,
+      "ts": "2026-11-06T06:04:43Z",
       "redirect": false
     },
     "Ghost Room": {
@@ -166,18 +166,18 @@
       "redirect": false
     },
     "Banshee": {
-      "revid": 25048,
-      "ts": "2026-10-02T16:44:02Z",
+      "revid": 25225,
+      "ts": "2026-11-06T09:32:04Z",
       "redirect": false
     },
     "Shade": {
-      "revid": 23207,
-      "ts": "2026-04-17T17:30:31Z",
+      "revid": 25217,
+      "ts": "2026-11-06T06:04:06Z",
       "redirect": false
     },
     "Demon": {
-      "revid": 25139,
-      "ts": "2026-10-23T17:24:32Z",
+      "revid": 25227,
+      "ts": "2026-11-06T09:32:30Z",
       "redirect": false
     },
     "Revenant": {
@@ -981,8 +981,8 @@
       "redirect": false
     },
     "Deogen": {
-      "revid": 24658,
-      "ts": "2026-09-13T20:16:09Z",
+      "revid": 25229,
+      "ts": "2026-11-06T09:39:47Z",
       "redirect": false
     },
     "Moroi": {
@@ -1831,8 +1831,8 @@
       "redirect": false
     },
     "Aswang": {
-      "revid": 24628,
-      "ts": "2026-09-11T04:21:32Z",
+      "revid": 25221,
+      "ts": "2026-11-06T06:05:51Z",
       "redirect": false
     },
     "Kormos": {

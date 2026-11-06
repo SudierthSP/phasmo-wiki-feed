@@ -1,5 +1,6 @@
 # Demon
-# revid 25139  2026-10-23T17:24:32Z  by Darkhooper
+# revid 25227  2026-11-06T09:32:30Z  by Darkhooper
+# 备注: Reverted edits by [[Special:Contributions/Tim J.H-2011|Tim J.H-2011]] ([[User talk:Tim J.H-2011|talk]]) to last revision by [[User:Darkhooper|Darkhooper]]
 # sha256 fb9bd38c5a9054aa8d767def92222c2d7d94256c27cc0c3594e06d6090a360fa  bytes 7742
 # 源: https://phasmophobia.fandom.com/api.php
 

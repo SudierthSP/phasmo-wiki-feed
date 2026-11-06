@@ -1,6 +1,6 @@
 # Banshee
-# revid 25048  2026-10-02T16:44:02Z  by Darkhooper
-# 备注: added DOTS strategies
+# revid 25225  2026-11-06T09:32:04Z  by Darkhooper
+# 备注: Reverted edits by [[Special:Contributions/Tim J.H-2011|Tim J.H-2011]] ([[User talk:Tim J.H-2011|talk]]) to last revision by [[User:Darkhooper|Darkhooper]]
 # sha256 47c9809fe19c2dbaeb8acd912a5f9c537a9639a658ce68b4415bf9951d2dd82c  bytes 14570
 # 源: https://phasmophobia.fandom.com/api.php
 

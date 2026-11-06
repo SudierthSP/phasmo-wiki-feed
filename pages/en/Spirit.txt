@@ -1,6 +1,6 @@
 # Spirit
-# revid 23120  2026-04-11T22:37:11Z  by Darkhooper
-# 备注: Reverted edit by [[Special:Contributions/Khxlamity|Khxlamity]] ([[User talk:Khxlamity|talk]]) to last revision by [[User:Darkhooper|Darkhooper]]
+# revid 25218  2026-11-06T06:04:43Z  by Darkhooper
+# 备注: Reverted edit by [[Special:Contributions/Tim J.H-2011|Tim J.H-2011]] ([[User talk:Tim J.H-2011|talk]]) to last revision by [[User:Darkhooper|Darkhooper]]
 # sha256 74a6ae963ca2d727adbf63722887e1e4f171a20ee24b681b74ea9ceb71f91fb4  bytes 4564
 # 源: https://phasmophobia.fandom.com/api.php
 

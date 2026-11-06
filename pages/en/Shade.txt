@@ -1,6 +1,6 @@
 # Shade
-# revid 23207  2026-04-17T17:30:31Z  by Darkhooper
-# 备注: link to Activity page
+# revid 25217  2026-11-06T06:04:06Z  by Darkhooper
+# 备注: Reverted edits by [[Special:Contributions/Tim J.H-2011|Tim J.H-2011]] ([[User talk:Tim J.H-2011|talk]]) to last revision by [[User:Darkhooper|Darkhooper]]
 # sha256 1653acf4ee09cd1ac79fc04bb9793747890f5c40deadbf64a3e39128dc86bcf2  bytes 7222
 # 源: https://phasmophobia.fandom.com/api.php
 

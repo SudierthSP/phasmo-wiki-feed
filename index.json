@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T03:30:21.526Z",
+  "generated": "2026-11-06T11:29:26.398Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -149,8 +149,8 @@
       {
         "t": "Spirit",
         "f": "pages/en/Spirit.txt",
-        "b": 4913,
-        "r": 23120,
+        "b": 4922,
+        "r": 25218,
         "x": "{{Ghost |image1=Spirit Discovered.jpg |weakness(es)=Incense prevents hunts for longer (double duration) |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] |Evidence2=[[File:ClosedBook_Rende"
       },
       {
@@ -219,22 +219,22 @@
       {
         "t": "Banshee",
         "f": "pages/en/Banshee.txt",
-        "b": 14798,
-        "r": 25048,
+        "b": 14931,
+        "r": 25225,
         "x": "{{Ghost |title=Banshee |image1=Banshee Discovered.jpg |strength= *Focuses on the same player until that player is killed or has left the game |weakness(es)= *Cannot kill players other than the target if the target is ins"
       },
       {
         "t": "Shade",
         "f": "pages/en/Shade.txt",
-        "b": 7447,
-        "r": 23207,
+        "b": 7580,
+        "r": 25217,
         "x": "{{Ghost |image1=Shade Discovered.jpg |strength= *Harder to find due to it being generally less active |abiliti(es)= *Produces mist and shadow form ghost events more often |weakness(es)= *Has a low hunt sanity threshold *"
       },
       {
         "t": "Demon",
         "f": "pages/en/Demon.txt",
-        "b": 7935,
-        "r": 25139,
+        "b": 8100,
+        "r": 25227,
         "x": "{{Ghost |image1=Demon Discovered.jpg |strength=*Lower hunt cooldown than other ghosts *Higher hunt sanity threshold *Smudging prevents hunts for shorter |abiliti(es)=*Rare chance to hunt at any sanity percentage |weaknes"
       },
       {
@@ -1199,8 +1199,8 @@
       {
         "t": "Deogen",
         "f": "pages/en/Deogen.txt",
-        "b": 10003,
-        "r": 24658,
+        "b": 10167,
+        "r": 25229,
         "x": "{{Ghost |image1=Deogen Discovered.jpg |strength= *Always knows where players are during a hunt *Moves at a high speed with no player nearby |abiliti(es)=*Can produce a unique response through the Spirit Box |weakness(es)"
       },
       {
@@ -2165,8 +2165,8 @@
       {
         "t": "Aswang",
         "f": "pages/en/Aswang.txt",
-        "b": 4317,
-        "r": 24628,
+        "b": 4356,
+        "r": 25221,
         "x": "{{Ghost |image1= |strength=*Will accelerate faster with line-of-sight than any other ghost. *Can sometimes hunt with zero grace period. |weakness(es)=*Cannot kill players in official hiding spots. *Slower hunt base speed"
       },
       {

@@ -1,5 +1,6 @@
 # Deogen
-# revid 24658  2026-09-13T20:16:09Z  by Darkhooper
+# revid 25229  2026-11-06T09:39:47Z  by Darkhooper
+# 备注: Reverted edit by [[Special:Contributions/Tim J.H-2011|Tim J.H-2011]] ([[User talk:Tim J.H-2011|talk]]) to last revision by [[User:Darkhooper|Darkhooper]]
 # sha256 68e81db0e6cbd338dca23c36787fa9447c5aab0ac84bc38910f97eb83040cdd2  bytes 9809
 # 源: https://phasmophobia.fandom.com/api.php
 
