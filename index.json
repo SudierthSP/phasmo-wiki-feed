@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T23:20:58.644Z",
+  "generated": "2026-11-07T02:58:23.954Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -121,16 +121,16 @@
       {
         "t": "Wraith",
         "f": "pages/en/Wraith.txt",
-        "b": 6943,
-        "r": 25069,
+        "b": 7096,
+        "r": 25280,
         "x": "{{Ghost |image1=Wraith Discovered.jpg |strength= |abiliti(es)= *Can teleport to a random player, becoming active near them, outside of ghost events and hunts |weakness(es)= *Never steps in salt |Evidence1=[[File:DOTS_pro"
       },
       {
         "t": "Phantom",
         "f": "pages/en/Phantom.txt",
-        "b": 9934,
-        "r": 25249,
-        "x": "{{Ghost |title=Phantom |image1=Phantom Discovered.jpg |strength= *Looking the ghost nearby during manifestations and hunts drains more sanity *Remains invisible for longer periods when hunting |abiliti(es)= *Occasionally"
+        "b": 9913,
+        "r": 25267,
+        "x": "{{Ghost |title=Phantom |image1=Phantom Discovered.jpg |strength= *Having the ghost nearby during manifestations and hunts drains more sanity *Remains invisible for longer periods when hunting |abiliti(es)= *Occasionally "
       },
       {
         "t": "Ghost Writing",
@@ -149,9 +149,9 @@
       {
         "t": "Spirit",
         "f": "pages/en/Spirit.txt",
-        "b": 4778,
-        "r": 25261,
-        "x": "{{Ghost |image1=Spirit Discovered.jpg |weakness(es)=[[Incense]] prevents hunts for longer (double duration) |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] |Evidence2=[[File:ClosedBook_R"
+        "b": 4763,
+        "r": 25272,
+        "x": "{{Ghost |image1=Spirit Discovered.jpg |weakness(es)=*[[Incense]] prevents hunts for longer (double duration) |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] |Evidence2=[[File:ClosedBook_"
       },
       {
         "t": "Ghost Room",
@@ -205,9 +205,9 @@
       {
         "t": "Poltergeist",
         "f": "pages/en/Poltergeist.txt",
-        "b": 8246,
-        "r": 25251,
-        "x": "{{Ghost |image1=Poltergeist Discovered.jpg |strength=*Sanity drian stacks up during poltybomb interactions |abiliti(es)=*Can throw multiple objects at once *Can throw a single object farther with great force |weakness(es"
+        "b": 8234,
+        "r": 25268,
+        "x": "{{Ghost |image1=Poltergeist Discovered.jpg |strength=*Sanity decrease stacks up during multithrow interactions |abiliti(es)=*Can throw multiple objects at once *Can throw a single object farther with great force |weaknes"
       },
       {
         "t": "UV Light",
@@ -226,9 +226,9 @@
       {
         "t": "Shade",
         "f": "pages/en/Shade.txt",
-        "b": 7393,
-        "r": 25259,
-        "x": "{{Ghost |image1=Shade Discovered.jpg |strength= *Difficult to find due to it being generally inactive |abiliti(es)= *Produces mist and shadow form ghost events frequently |weakness(es)= *Has a low hunt sanity threshold *"
+        "b": 7599,
+        "r": 25271,
+        "x": "{{Ghost |image1=Shade Discovered.jpg |strength= *Harder to find due to it being generally less active |abiliti(es)= *Produces mist and shadow form ghost events more often |weakness(es)= *Has a low hunt sanity threshold *"
       },
       {
         "t": "Demon",
@@ -240,15 +240,15 @@
       {
         "t": "Revenant",
         "f": "pages/en/Revenant.txt",
-        "b": 5154,
-        "r": 25256,
-        "x": "{{Ghost |image1=Revenant Discovered.jpg |strength=*Significant fastest speed when player is detected |weakness(es)=*Significant slowest speed when no player is detected |Evidence1=[[File:Thermometer_Render.png|24x24px|al"
+        "b": 5121,
+        "r": 25270,
+        "x": "{{Ghost |image1=Revenant Discovered.jpg |strength=*Very fast when a player is detected during hunts |weakness(es)=*Very slow when no player is detected |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temper"
       },
       {
         "t": "Yurei",
         "f": "pages/en/Yurei.txt",
-        "b": 8130,
-        "r": 24593,
+        "b": 8254,
+        "r": 25282,
         "x": "{{Ghost |image1=Yurei Discovered.jpg |abiliti(es)=*May randomly shut a door and deduct nearby players' sanity |weakness(es)=*Will be temporarily confined to its room after smudging |Evidence1=[[File:DOTS_projector_sprite"
       },
       {
@@ -660,8 +660,8 @@
       {
         "t": "Yokai",
         "f": "pages/en/Yokai.txt",
-        "b": 6899,
-        "r": 23421,
+        "b": 7068,
+        "r": 25281,
         "x": "{{Ghost |image1=Yokai Discovered.jpg |strength=*Talking near it will temporarily increase the hunting threshold and interaction rate |weakness(es)=*When hunting, it can only hear voices and detect electronics within a sh"
       },
       {
@@ -779,23 +779,23 @@
       {
         "t": "Onryo",
         "f": "pages/en/Onryo.txt",
-        "b": 9824,
-        "r": 25247,
-        "x": "{{Ghost |image1=Onryo Discovered.jpg |strength= *Higher hunt sanity threshold *Blows out fiery objects (candles, campfire) more often and many dead people |abiliti(es)=*Can hunt any sanity after extinguish a flame|weakne"
+        "b": 9889,
+        "r": 25266,
+        "x": "{{Ghost |image1=Onryo Discovered.jpg |strength= *Can sometimes hunt at any sanity after blowing out a flame *Blows out fiery objects (candles, campfire) more often with more dead people |weakness(es)= *Presence of flames"
       },
       {
         "t": "The Twins",
         "f": "pages/en/The Twins.txt",
-        "b": 8749,
-        "r": 25016,
+        "b": 8836,
+        "r": 25279,
         "x": "{{Ghost |image1=The Twins Discovered.jpg |strength=*Can hunt from a different place than expected |abiliti(es)=*Differing speeds depending on which twin hunts |weakness(es)=*Can interact with the environment simultaneous"
       },
       {
         "t": "Raiju",
         "f": "pages/en/Raiju.txt",
-        "b": 6294,
-        "r": 25253,
-        "x": "{{Ghost |image1=Raiju Discovered.jpg |strength=*Active electronics boost its speed during hunts *Hunts at a higher sanity threshold when electronic is nearby |weakness(es)=*Disrupts electronics from further away when man"
+        "b": 6280,
+        "r": 25269,
+        "x": "{{Ghost |image1=Raiju Discovered.jpg |strength=*Active electronics boost its speed during hunts *Hunts at a higher sanity threshold when electronics are nearby |weakness(es)=*Disrupts electronics from further away when m"
       },
       {
         "t": "Obake",
@@ -982,9 +982,9 @@
       {
         "t": "The Mimic",
         "f": "pages/en/The Mimic.txt",
-        "b": 9663,
-        "r": 25174,
-        "x": "{{Ghost |image1=The Mimic Discovered.jpg |strength= *Mimics other ghost types one after another for brief periods of time |weakness(es)= *Will always produce false ghost orbs |Evidence1=[[File:Thermometer_Render.png|24x2"
+        "b": 9509,
+        "r": 25274,
+        "x": "{{Ghost |image1=The Mimic Discovered.jpg |strength= *Mimics other ghost types one after another for brief periods of time |weakness(es)= *Will always produce false [[Ghost Orb]]s |Evidence1=[[File:Thermometer_Render.png|"
       },
       {
         "t": "0.5.0",
@@ -1213,9 +1213,9 @@
       {
         "t": "Thaye",
         "f": "pages/en/Thaye.txt",
-        "b": 8276,
-        "r": 25264,
-        "x": "{{Ghost |image1=Thaye Discovered.jpg |strength= *Becomes very active the first time a player gets nearby *Hunts at a higher sanity threshold when is young |weakness(es)= *The more time players spend near it, the quieter "
+        "b": 8241,
+        "r": 25273,
+        "x": "{{Ghost |image1=Thaye Discovered.jpg |strength= *Very active at the beginning of a contract *Hunts at a higher sanity threshold when young |weakness(es)= *The more time players spend near it, the quieter and slower it be"
       },
       {
         "t": "0.6.2.1",

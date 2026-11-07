@@ -1,6 +1,6 @@
 # Wraith
-# revid 25069  2026-10-07T19:10:57Z  by Darkhooper
-# 备注: added trivia section
+# revid 25280  2026-11-07T00:07:45Z  by Darkhooper
+# 备注: Undo revision [[Special:Diff/25276|25276]] by [[Special:Contributions/AuthoritativeWoodpecker620|AuthoritativeWoodpecker620]] ([[User talk:AuthoritativeWoodpecker620|talk]])
 # sha256 836453de3329b57c1f299db4a5ec23e5279145e4e8614c576d4ac7e89ca8df16  bytes 6718
 # 源: https://phasmophobia.fandom.com/api.php
 

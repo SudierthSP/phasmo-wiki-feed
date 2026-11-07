@@ -1,14 +1,14 @@
 # Thaye
-# revid 25264  2026-11-06T23:20:28Z  by AuthoritativeWoodpecker620
-# sha256 c509f7b50297e4f84db259a64024e33e5dfbd0b6756c777de93ab111fd4367a1  bytes 8067
+# revid 25273  2026-11-06T23:41:16Z  by Darkhooper
+# sha256 a88c425d898cefdc3f4c8e5b00581e93f162088a15ce80d4ff12869ba8369594  bytes 8048
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Thaye Discovered.jpg
- |strength= *Becomes very active the first time a player gets nearby
-*Hunts at a higher sanity threshold when is young
+ |strength= *Very active at the beginning of a contract
+*Hunts at a higher sanity threshold when young
  |weakness(es)= *The more time players spend near it, the quieter and slower it becomes
-*Hunts at a lower sanity threshold when is old
+*Hunts at a lower sanity threshold when old
  |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=|link=D.O.T.S. Projector (Evidence)]]
  |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
  |Evidence3=[[File:ClosedBook_Render.png|24x24px|alt=|link=Ghost Writing]]

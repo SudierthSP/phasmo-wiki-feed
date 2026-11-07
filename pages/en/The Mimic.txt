@@ -1,13 +1,12 @@
 # The Mimic
-# revid 25174  2026-10-29T19:50:38Z  by Darkhooper
-# 备注: reduced the sentence in Evidence section as the Strategies section highlights the importance of checking whether Ghost Orb is a 'real' or a 'fake'.
-# sha256 40ee9e41d314045d6322cb4747aeac8b7f89d4520917517bfa87f2c5c1b86936  bytes 9308
+# revid 25274  2026-11-06T23:42:22Z  by Darkhooper
+# sha256 79419497838af51bba562b690a060ebba6afcaa679674df2657bc470a56cf974  bytes 9312
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=The Mimic Discovered.jpg
  |strength= *Mimics other ghost types one after another for brief periods of time
- |weakness(es)= *Will always produce false ghost orbs
+ |weakness(es)= *Will always produce false [[Ghost Orb]]s
  |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
  |Evidence2=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
  |Evidence3=[[File:Fingerprints_3.png|24x24px|alt=Ultraviolet|link=Ultraviolet]]

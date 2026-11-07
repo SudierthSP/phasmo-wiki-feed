@@ -1,6 +1,6 @@
 # The Twins
-# revid 25016  2026-09-22T20:57:54Z  by Quietust
-# 备注: /* Hunt */ this was a bit confusing - doing the math, it sounds like this was the intent
+# revid 25279  2026-11-07T00:07:23Z  by Darkhooper
+# 备注: Undo revision [[Special:Diff/25275|25275]] by [[Special:Contributions/AuthoritativeWoodpecker620|AuthoritativeWoodpecker620]] ([[User talk:AuthoritativeWoodpecker620|talk]])
 # sha256 b1d3bc6a6c1c3e8323fbaf5a365561b259a769801061dd732878cc0f822e4611  bytes 8455
 # 源: https://phasmophobia.fandom.com/api.php
 

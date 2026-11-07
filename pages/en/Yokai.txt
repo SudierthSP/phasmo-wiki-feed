@@ -1,6 +1,6 @@
 # Yokai
-# revid 23421  2026-05-07T20:39:55Z  by Darkhooper
-# 备注: 0.17
+# revid 25281  2026-11-07T00:08:01Z  by Darkhooper
+# 备注: Undo revision [[Special:Diff/25277|25277]] by [[Special:Contributions/AuthoritativeWoodpecker620|AuthoritativeWoodpecker620]] ([[User talk:AuthoritativeWoodpecker620|talk]])
 # sha256 44a4b118a696e02b808e037953cf369a206e3aeb521242d314573b8d7dcc461a  bytes 6691
 # 源: https://phasmophobia.fandom.com/api.php
 

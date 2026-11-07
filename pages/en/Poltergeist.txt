@@ -1,11 +1,11 @@
 # Poltergeist
-# revid 25251  2026-11-06T22:58:30Z  by AuthoritativeWoodpecker620
-# sha256 277dfafee6a47d05e0032344b0a0ee630f3cb16d58468af2250b2ac969a256c2  bytes 8031
+# revid 25268  2026-11-06T23:28:43Z  by Darkhooper
+# sha256 8f7c2d8280e9e64db9791d801a81d12638f9a019eff4565472ae585caf8c6a46  bytes 8035
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Poltergeist Discovered.jpg
- |strength=*Sanity drian stacks up during poltybomb interactions
+ |strength=*Sanity decrease stacks up during multithrow interactions
  |abiliti(es)=*Can throw multiple objects at once
 *Can throw a single object farther with great force
  |weakness(es)=*Powerless in empty rooms with no throwables

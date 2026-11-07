@@ -1,6 +1,6 @@
 # Yurei
-# revid 24593  2026-09-03T00:15:45Z  by Darkhooper
-# 备注: re-added locker doors bug note (with video proof)
+# revid 25282  2026-11-07T00:08:23Z  by Darkhooper
+# 备注: Undo revision [[Special:Diff/25278|25278]] by [[Special:Contributions/AuthoritativeWoodpecker620|AuthoritativeWoodpecker620]] ([[User talk:AuthoritativeWoodpecker620|talk]])
 # sha256 a2125cfc650be6ec1b255c353ebeeae15d594bd7b6b7979243d6dda23b9bf11d  bytes 7877
 # 源: https://phasmophobia.fandom.com/api.php
 

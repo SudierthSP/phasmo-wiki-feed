@@ -1,12 +1,12 @@
 # Revenant
-# revid 25256  2026-11-06T23:06:03Z  by AuthoritativeWoodpecker620
-# sha256 8535e9c5a5c8689bdbaac63b8a5abdde770cf21a66c1839bd73071976e49ae1f  bytes 4942
+# revid 25270  2026-11-06T23:33:32Z  by Darkhooper
+# sha256 789120858b36a9c7fd62cdc5c084722dedddbf5acdd3a05b2e8cd0d4b72f247c  bytes 4925
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Revenant Discovered.jpg
- |strength=*Significant fastest speed when player is detected
- |weakness(es)=*Significant slowest speed when no player is detected
+ |strength=*Very fast when a player is detected during hunts
+ |weakness(es)=*Very slow when no player is detected
  |Evidence1=[[File:Thermometer_Render.png|24x24px|alt=Freezing Temperatures|link=Freezing Temperatures]]
  |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]
  |Evidence3=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]

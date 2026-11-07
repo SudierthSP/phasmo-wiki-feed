@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-06T23:20:59.225Z",
+  "updated": "2026-11-07T02:58:24.458Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -91,13 +91,13 @@
       "redirect": false
     },
     "Wraith": {
-      "revid": 25069,
-      "ts": "2026-10-07T19:10:57Z",
+      "revid": 25280,
+      "ts": "2026-11-07T00:07:45Z",
       "redirect": false
     },
     "Phantom": {
-      "revid": 25249,
-      "ts": "2026-11-06T22:55:22Z",
+      "revid": 25267,
+      "ts": "2026-11-06T23:24:14Z",
       "redirect": false
     },
     "Ghost Writing": {
@@ -116,8 +116,8 @@
       "redirect": true
     },
     "Spirit": {
-      "revid": 25261,
-      "ts": "2026-11-06T23:13:13Z",
+      "revid": 25272,
+      "ts": "2026-11-06T23:37:45Z",
       "redirect": false
     },
     "Ghost Room": {
@@ -156,8 +156,8 @@
       "redirect": false
     },
     "Poltergeist": {
-      "revid": 25251,
-      "ts": "2026-11-06T22:58:30Z",
+      "revid": 25268,
+      "ts": "2026-11-06T23:28:43Z",
       "redirect": false
     },
     "UV Light": {
@@ -171,8 +171,8 @@
       "redirect": false
     },
     "Shade": {
-      "revid": 25259,
-      "ts": "2026-11-06T23:10:16Z",
+      "revid": 25271,
+      "ts": "2026-11-06T23:36:04Z",
       "redirect": false
     },
     "Demon": {
@@ -181,13 +181,13 @@
       "redirect": false
     },
     "Revenant": {
-      "revid": 25256,
-      "ts": "2026-11-06T23:06:03Z",
+      "revid": 25270,
+      "ts": "2026-11-06T23:33:32Z",
       "redirect": false
     },
     "Yurei": {
-      "revid": 24593,
-      "ts": "2026-09-03T00:15:45Z",
+      "revid": 25282,
+      "ts": "2026-11-07T00:08:23Z",
       "redirect": false
     },
     "Oni": {
@@ -536,8 +536,8 @@
       "redirect": false
     },
     "Yokai": {
-      "revid": 23421,
-      "ts": "2026-05-07T20:39:55Z",
+      "revid": 25281,
+      "ts": "2026-11-07T00:08:01Z",
       "redirect": false
     },
     "Hantu": {
@@ -641,18 +641,18 @@
       "redirect": true
     },
     "Onryo": {
-      "revid": 25247,
-      "ts": "2026-11-06T22:47:25Z",
+      "revid": 25266,
+      "ts": "2026-11-06T23:22:23Z",
       "redirect": false
     },
     "The Twins": {
-      "revid": 25016,
-      "ts": "2026-09-22T20:57:54Z",
+      "revid": 25279,
+      "ts": "2026-11-07T00:07:23Z",
       "redirect": false
     },
     "Raiju": {
-      "revid": 25253,
-      "ts": "2026-11-06T23:00:45Z",
+      "revid": 25269,
+      "ts": "2026-11-06T23:30:16Z",
       "redirect": false
     },
     "Obake": {
@@ -791,8 +791,8 @@
       "redirect": false
     },
     "The Mimic": {
-      "revid": 25174,
-      "ts": "2026-10-29T19:50:38Z",
+      "revid": 25274,
+      "ts": "2026-11-06T23:42:22Z",
       "redirect": false
     },
     "0.5.0": {
@@ -991,8 +991,8 @@
       "redirect": false
     },
     "Thaye": {
-      "revid": 25264,
-      "ts": "2026-11-06T23:20:28Z",
+      "revid": 25273,
+      "ts": "2026-11-06T23:41:16Z",
       "redirect": false
     },
     "0.6.2.1": {

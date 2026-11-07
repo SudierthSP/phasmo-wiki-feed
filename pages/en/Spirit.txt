@@ -1,11 +1,11 @@
 # Spirit
-# revid 25261  2026-11-06T23:13:13Z  by AuthoritativeWoodpecker620
-# sha256 4c7a4d934dbe0545e85be55b8917631ffa7e74c6a18fef63489a832c38784317  bytes 4568
+# revid 25272  2026-11-06T23:37:45Z  by Darkhooper
+# sha256 e17f3f66abc81310751e8a9cfb13028ac240aedc9e5196150a7eb15561738e15  bytes 4569
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
  |image1=Spirit Discovered.jpg
- |weakness(es)=[[Incense]] prevents hunts for longer (double duration)
+ |weakness(es)=*[[Incense]] prevents hunts for longer (double duration)
  |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]]
  |Evidence2=[[File:ClosedBook_Render.png|24x24px|alt=Ghost Writing|link=Ghost Writing]]
  |Evidence3=[[File:SpiritBox_Render.png|24x24px|alt=Spirit Box|link=Spirit Box (Evidence)]]
