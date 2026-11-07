@@ -1,5 +1,6 @@
 # Demon
-# revid 25255  2026-11-06T23:05:39Z  by Darkhooper
+# revid 25293  2026-11-07T04:48:27Z  by JohnTrolll
+# 备注: Undo revision [[Special:Diff/25288|25288]] by [[Special:Contributions/AuthoritativeWoodpecker620|AuthoritativeWoodpecker620]] ([[User talk:AuthoritativeWoodpecker620|talk]])
 # sha256 775032cf861254d268e687c1c88c611084267b68ccfc180c489b76ab6f86f559  bytes 7740
 # 源: https://phasmophobia.fandom.com/api.php
 

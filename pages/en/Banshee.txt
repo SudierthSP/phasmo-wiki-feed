@@ -1,6 +1,6 @@
 # Banshee
-# revid 25252  2026-11-06T23:00:13Z  by Darkhooper
-# sha256 031506a70860e3488ef763e07168671ecdbc0084f35af1cfd84c74ce4f85e3ca  bytes 14590
+# revid 25294  2026-11-07T08:36:40Z  by Darkhooper
+# sha256 1a5633035e693fd781f81969b0e5c7b629450e149635bbd47fd5cc1e7b683e78  bytes 14595
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -9,7 +9,7 @@
  |strength= *Focuses on the same player until that player is killed or has left the game
  |weakness(es)= *Cannot kill players other than the target if the target is inside
 *Can produce unique screams on the [[Parabolic Microphone]] and the [[Sound Recorder]]
- |abiliti(es)= *Performs singing ghost events more often than other ghost types
+ |abiliti(es)= *Performs singing ghost events more frequently than other ghost types
 *Frequently roams to target player outside of hunts
  |Evidence1=[[File:DOTS_projector_sprite.png|24x24px|alt=D.O.T.S Projector|link=D.O.T.S. Projector (Evidence)]]
  |Evidence2=[[File:GhostOrb_Sprite.png|24x24px|alt=Ghost Orb|link=Ghost Orb]]

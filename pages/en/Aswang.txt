@@ -1,6 +1,6 @@
 # Aswang
-# revid 25221  2026-11-06T06:05:51Z  by Darkhooper
-# 备注: Reverted edit by [[Special:Contributions/Tim J.H-2011|Tim J.H-2011]] ([[User talk:Tim J.H-2011|talk]]) to last revision by [[User:Darkhooper|Darkhooper]]
+# revid 25289  2026-11-07T04:45:48Z  by JohnTrolll
+# 备注: Undo revision [[Special:Diff/25283|25283]] by [[Special:Contributions/AuthoritativeWoodpecker620|AuthoritativeWoodpecker620]] ([[User talk:AuthoritativeWoodpecker620|talk]])
 # sha256 b46f027374eef5a27009ff7a55bb1a7fddc402f0e21f30552bba5a191488b218  bytes 3998
 # 源: https://phasmophobia.fandom.com/api.php
 

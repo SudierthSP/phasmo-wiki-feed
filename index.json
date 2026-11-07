@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T02:58:23.954Z",
+  "generated": "2026-11-07T09:41:30.203Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -219,8 +219,8 @@
       {
         "t": "Banshee",
         "f": "pages/en/Banshee.txt",
-        "b": 14786,
-        "r": 25252,
+        "b": 14791,
+        "r": 25294,
         "x": "{{Ghost |title=Banshee |image1=Banshee Discovered.jpg |strength= *Focuses on the same player until that player is killed or has left the game |weakness(es)= *Cannot kill players other than the target if the target is ins"
       },
       {
@@ -233,8 +233,8 @@
       {
         "t": "Demon",
         "f": "pages/en/Demon.txt",
-        "b": 7933,
-        "r": 25255,
+        "b": 8117,
+        "r": 25293,
         "x": "{{Ghost |image1=Demon Discovered.jpg |strength=*Lower cooldown between hunts *Higher hunt sanity threshold *[[Incense]] prevents hunts for shorter |abiliti(es)=*Rare chance to hunt at any sanity percentage |weakness(es)="
       },
       {
@@ -2060,8 +2060,8 @@
       {
         "t": "Dayan",
         "f": "pages/en/Dayan.txt",
-        "b": 7228,
-        "r": 25141,
+        "b": 7412,
+        "r": 25291,
         "x": "{{Ghost |image1= |strength=*Moves quicker during hunts and hunts sooner when a player moves near the ghost |weakness(es)=*Moves slower during hunts and hunts later when a player stands still near the ghost |Evidence1=[[F"
       },
       {
@@ -2165,8 +2165,8 @@
       {
         "t": "Aswang",
         "f": "pages/en/Aswang.txt",
-        "b": 4356,
-        "r": 25221,
+        "b": 4376,
+        "r": 25289,
         "x": "{{Ghost |image1= |strength=*Will accelerate faster with line-of-sight than any other ghost. *Can sometimes hunt with zero grace period. |weakness(es)=*Cannot kill players in official hiding spots. *Slower hunt base speed"
       },
       {
@@ -2214,8 +2214,8 @@
       {
         "t": "Deildegast",
         "f": "pages/en/Deildegast.txt",
-        "b": 5135,
-        "r": 25148,
+        "b": 5289,
+        "r": 25292,
         "x": "{{Ghost |image1= |strength=Moves at a faster speed at the start of a contract. |weakness(es)=Becomes slower each time players interact with/move items. |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link="
       },
       {

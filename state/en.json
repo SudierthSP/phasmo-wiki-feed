@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-07T02:58:24.458Z",
+  "updated": "2026-11-07T09:41:30.682Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -166,8 +166,8 @@
       "redirect": false
     },
     "Banshee": {
-      "revid": 25252,
-      "ts": "2026-11-06T23:00:13Z",
+      "revid": 25294,
+      "ts": "2026-11-07T08:36:40Z",
       "redirect": false
     },
     "Shade": {
@@ -176,8 +176,8 @@
       "redirect": false
     },
     "Demon": {
-      "revid": 25255,
-      "ts": "2026-11-06T23:05:39Z",
+      "revid": 25293,
+      "ts": "2026-11-07T04:48:27Z",
       "redirect": false
     },
     "Revenant": {
@@ -1746,8 +1746,8 @@
       "redirect": false
     },
     "Dayan": {
-      "revid": 25141,
-      "ts": "2026-10-23T18:43:29Z",
+      "revid": 25291,
+      "ts": "2026-11-07T04:47:13Z",
       "redirect": false
     },
     "Gallu": {
@@ -1831,8 +1831,8 @@
       "redirect": false
     },
     "Aswang": {
-      "revid": 25221,
-      "ts": "2026-11-06T06:05:51Z",
+      "revid": 25289,
+      "ts": "2026-11-07T04:45:48Z",
       "redirect": false
     },
     "Kormos": {
@@ -1866,8 +1866,8 @@
       "redirect": false
     },
     "Deildegast": {
-      "revid": 25148,
-      "ts": "2026-10-24T20:37:40Z",
+      "revid": 25292,
+      "ts": "2026-11-07T04:47:36Z",
       "redirect": false
     },
     "0.18.0": {

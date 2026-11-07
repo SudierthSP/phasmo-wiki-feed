@@ -1,5 +1,6 @@
 # Dayan
-# revid 25141  2026-10-23T18:43:29Z  by Darkhooper
+# revid 25291  2026-11-07T04:47:13Z  by JohnTrolll
+# 备注: Undo revision [[Special:Diff/25286|25286]] by [[Special:Contributions/AuthoritativeWoodpecker620|AuthoritativeWoodpecker620]] ([[User talk:AuthoritativeWoodpecker620|talk]])
 # sha256 1d90dd94fb43ac26eeec33f0615a5d92442136e7ce1b179fc8590d018ac8d5eb  bytes 7035
 # 源: https://phasmophobia.fandom.com/api.php
 
