@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T12:51:14.335Z",
+  "generated": "2026-11-12T18:28:44.170Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -1801,8 +1801,8 @@
       {
         "t": "Difficulty/Custom",
         "f": "pages/en/Difficulty_Custom.txt",
-        "b": 14714,
-        "r": 25207,
+        "b": 14614,
+        "r": 25296,
         "x": "Unlocked at level 50, '''custom difficulty''', as the name suggests, allows the player to modify various parameters relating to the player, the ghost, and the contract itself. In exchange, the reward multiplier is either"
       },
       {
