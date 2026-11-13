@@ -1,7 +1,7 @@
 # Difficulty/Custom
-# revid 25302  2026-11-13T10:44:04Z  by Darkhooper
-# 备注: moved some Notes to Secondary Modifier column to match Cursed Possessions row
-# sha256 983cf444007d39f4551533b77d8bae79da87bef3a1cb8e691728a14144c394a5  bytes 14656
+# revid 25304  2026-11-13T13:33:00Z  by Darkhooper
+# 备注: replaced 30 rows of N/A with a single one
+# sha256 21846e4ee6e3489ae2e241e5316c4bfd5a4ca24ddb199f14eb1b5b07be620a8d  bytes 14356
 # 源: https://phasmophobia.fandom.com/api.php
 
 Unlocked at level 50, '''custom difficulty''', as the name suggests, allows the player to modify various parameters relating to the player, the ghost, and the contract itself. In exchange, the reward multiplier is either increased (if the changes make the difficulty harder) or decreased (if the changes make the difficulty easier). The penalties for decreasing the difficulty are usually higher than the rewards for increasing it.
@@ -39,22 +39,22 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 | rowspan="5" |Starting sanity
 |0
 |<span style="color: #00b800;">+1.00x</span>
-|<span style="color: #b3a400;">+0.15x</span> instead if Sanity Pill Restoration is ≥25%
+|<span style="color: #b3a400;">+0.15x</span> instead if Sanity Pill restoration ≥ 25%
 |
 |-
 |25
 |<span style="color: #00b800;">+0.75x</span>
-|<span style="color: #b3a400;">+0.09x</span> instead if Sanity Pill Restoration is ≥20%
+|<span style="color: #b3a400;">+0.09x</span> instead if Sanity Pill restoration ≥ 20%
 |
 |-
 |50
 |<span style="color: #00b800;">+0.50x</span>
-|<span style="color: #b3a400;">+0.06x</span> instead if Sanity Pill Restoration is ≥10%
+|<span style="color: #b3a400;">+0.06x</span> instead if Sanity Pill restoration ≥ 10%
 |
 |-
 |75
 |<span style="color: #00b800;">+0.25x</span>
-|<span style="color: #b3a400;">+0.03x</span> instead if Sanity Pill restoration is ≥5%
+|<span style="color: #b3a400;">+0.03x</span> instead if Sanity Pill restoration ≥ 5%
 |
 |-
 |100
@@ -65,22 +65,22 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 | rowspan="12" |Sanity Pill restoration (%)
 |0
 |<span style="color: #00b800;">+0.50x</span>
-|<span style="color: #b3a400;">+0.25x</span> instead if Starting Sanity is 100%
+|<span style="color: #b3a400;">+0.25x</span> instead if Starting sanity = 100%
 |
 |-
 |5
 |<span style="color: #00b800;">+0.40x</span>
-|<span style="color: #b3a400;">+0.22x</span> instead if Starting Sanity is 100%
+|<span style="color: #b3a400;">+0.22x</span> instead if Starting sanity = 100%
 |
 |-
 |10
 |<span style="color: #00b800;">+0.30x</span>
-|<span style="color: #b3a400;">+0.20x</span> instead if Starting Sanity is ≥75%
+|<span style="color: #b3a400;">+0.20x</span> instead if Starting sanity ≥ 75%
 |
 |-
 |20
 |<span style="color: #00b800;">+0.20x</span>
-|<span style="color: #b3a400;">+0.17x</span> instead if Starting Sanity is ≥75%
+|<span style="color: #b3a400;">+0.17x</span> instead if Starting sanity ≥ 75%
 |
 |-
 |25
@@ -152,7 +152,7 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 | rowspan="3" |Sprinting
 |Off
 |<span style="color: #00b800;">+1.50x</span>
-|<span style="color: #b3a400;">+0.50x</span> instead if Player speed > Ghost speed or if Grace period is ≥3s
+|<span style="color: #b3a400;">+0.50x</span> instead if Player speed > Ghost speed or if Grace period ≥ 3s
 |
 |-
 |On
@@ -168,12 +168,12 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 | rowspan="5" |Player speed (%)
 |50
 |<span style="color: #00b800;">+1.00x</span>
-|<span style="color: #b3a400;">+0.50x</span> instead if Sprinting is On or if Grace period is ≥3s
+|<span style="color: #b3a400;">+0.50x</span> instead if Sprinting is On or if Grace period ≥ 3s
 |
 |-
 |75
 |<span style="color: #00b800;">+0.50x</span>
-|<span style="color: #b3a400;">+0.20x</span> instead if Sprinting is On or if Grace period is ≥2s
+|<span style="color: #b3a400;">+0.20x</span> instead if Sprinting is On or if Grace period ≥ 2s
 |
 |-
 |100
@@ -221,124 +221,95 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 |
 |-
 |Aswang
-|N/A
+| rowspan="30" |N/A
 | rowspan="30" |<span style="color: #a60002;">'''Rewards are clamped to 0.00x'''</span>
 |
 |-
 |Banshee
-|N/A
 |
 |-
 |Dayan
-|N/A
 |
 |-
 |Deildegast
-|N/A
 |
 |-
 |Demon
-|N/A
 |
 |-
 |Deogen
-|N/A
 |
 |-
 |Gallu
-|N/A
 |
 |-
 |Goryo
-|N/A
 |
 |-
 |Hantu
-|N/A
 |
 |-
 |Jinn
-|N/A
 |
 |-
 |Kormos
-|N/A
 |
 |-
 |Mare
-|N/A
 |
 |-
 |The Mimic
-|N/A
 |
 |-
 |Moroi
-|N/A
 |
 |-
 |Myling
-|N/A
 |
 |-
 |Obake
-|N/A
 |
 |-
 |Obambo
-|N/A
 |
 |-
 |Oni
-|N/A
 |
 |-
 |Onryo
-|N/A
 |
 |-
 |Phantom
-|N/A
 |
 |-
 |Poltergeist
-|N/A
 |
 |-
 |Raiju
-|N/A
 |
 |-
 |Revenant
-|N/A
 |
 |-
 |Shade
-|N/A
 |
 |-
 |Spirit
-|N/A
 |
 |-
 |Thaye
-|N/A
 |
 |-
 |The Twins
-|N/A
 |
 |-
 |Wraith
-|N/A
 |
 |-
 |Yokai
-|N/A
 |
 |-
 |Yurei
-|N/A
 |
 |-
 | rowspan="5" |Ghost speed (%)
@@ -358,12 +329,12 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 |-
 |125
 |<span style="color: #00b800;">+0.50x</span>
-|<span style="color: #b3a400;">+0.25x</span> instead if Sprinting is On or if Grace period is ≥2s
+|<span style="color: #b3a400;">+0.25x</span> instead if Sprinting is On or if Grace period ≥ 2s
 |
 |-
 |150
 |<span style="color: #00b800;">+1.00x</span>
-|<span style="color: #b3a400;">+0.50x</span> instead if Sprinting is On or if Grace period is ≥3s
+|<span style="color: #b3a400;">+0.50x</span> instead if Sprinting is On or if Grace period ≥ 3s
 |
 |-
 | rowspan="3" |Roaming frequency
@@ -449,32 +420,32 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 | rowspan="6" |Grace period (s)
 |0
 |<span style="color: #00b800;">+1.25x</span>
-|<span style="color: #b3a400;">+0.95x</span> instead if Player speed > Ghost speed
+|
 |
 |-
 |1
 |<span style="color: #00b800;">+0.75x</span>
-|<span style="color: #b3a400;">+0.00x</span> instead if Player speed > Ghost speed
+|<span style="color: #b3a400;">+0.30x</span> instead if Player speed ≥ 125%
 |
 |-
 |2
 |<span style="color: #00b800;">+0.30x</span>
-|<span style="color: #b3a400;">-0.10x</span> instead if Player speed > Ghost speed
+|<span style="color: #b3a400;">+0.20x</span> instead if Player speed ≥ 125%
 |
 |-
 |3
 |<span style="color: #00b800;">+0.20x</span>
-|<span style="color: #b3a400;">-0.20x</span> instead if Player speed > Ghost speed
+|<span style="color: #b3a400;">+0.10x</span> instead if Player speed ≥ 125%
 |
 |-
 |4
 |<span style="color: #00b800;">+0.10x</span>
-|<span style="color: #b3a400;">-0.25x</span> instead if Player speed > Ghost speed
+|<span style="color: #b3a400;">+0.05x</span> instead if Player speed ≥ 125%
 |
 |-
 |5
 |Base Reward
-|<span style="color: #b3a400;">-0.30x</span> instead if Player speed > Ghost speed
+|
 |
 |-
 | rowspan="3" |Hunt duration (s)<ref group="note" name=":0">The parameter includes "(s)" despite the durations listed not being in seconds.</ref>
@@ -532,7 +503,7 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 | rowspan="4" |Fingerprint chance (%)
 |25
 |<span style="color: #00b800;">+0.10x</span>
-| rowspan="3" |No modifier if Evidence given is 0
+| rowspan="3" |No modifier instead if Evidence given = 0
 | rowspan="11" |Gameplay-wise, these options are still registered in the difficulty even if Evidence given is 0.
 |-
 |50
@@ -548,7 +519,7 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 | rowspan="7" |Fingerprint duration (s)
 |15
 |<span style="color: #00b800;">+0.10x</span>
-| rowspan="4" |No modifier if Evidence given is 0
+| rowspan="4" |No modifier instead if Evidence given = 0
 |-
 |30
 |<span style="color: #00b800;">+0.07x</span>
@@ -565,7 +536,7 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 |-
 |180
 |<span style="color: #b04500;">-1.50x</span>
-| rowspan="2" |No modifier if Evidence given is 0
+| rowspan="2" |No modifier instead if Evidence given = 0
 |-
 |Infinite
 |<span style="color: #b04500;">-3.00x</span>
@@ -737,7 +708,7 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 | rowspan="2" |Fuse box visible on map
 |Off
 |<span style="color: #00b800;">+0.05x</span>
-|No modifier if Fuse box at start of contract is Broken
+|No modifier instead if Fuse box at start of contract is Broken
 | rowspan="2" |If Fuse box at start of contract is Broken, the fuse box will not visible on the map, regardless of this setting.
 |-
 |On
@@ -793,7 +764,7 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 |-
 |Tarot Cards
 |<span style="color: #b04500;">-1.00x</span>
-| rowspan="7" |No modifier if Cursed Possessions quantity is 7
+| rowspan="7" |No modifier instead if Cursed Possessions quantity = 7
 |-
 |Ouija Board
 |<span style="color: #b04500;">-2.00x</span>
