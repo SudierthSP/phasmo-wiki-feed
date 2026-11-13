@@ -1,7 +1,7 @@
 # Difficulty/Custom
-# revid 25297  2026-11-13T03:27:52Z  by Darkhooper
-# 备注: Undo revision [[Special:Diff/25296|25296]] by [[Special:Contributions/AgreeableTrout109|AgreeableTrout109]] ([[User talk:AgreeableTrout109|talk]])
-# sha256 7efaa10e6531bcee99b5396ac03a8beea320d17d55318fa6c66a7cead4efa6bd  bytes 14401
+# revid 25302  2026-11-13T10:44:04Z  by Darkhooper
+# 备注: moved some Notes to Secondary Modifier column to match Cursed Possessions row
+# sha256 983cf444007d39f4551533b77d8bae79da87bef3a1cb8e691728a14144c394a5  bytes 14656
 # 源: https://phasmophobia.fandom.com/api.php
 
 Unlocked at level 50, '''custom difficulty''', as the name suggests, allows the player to modify various parameters relating to the player, the ghost, and the contract itself. In exchange, the reward multiplier is either increased (if the changes make the difficulty harder) or decreased (if the changes make the difficulty easier). The penalties for decreasing the difficulty are usually higher than the rewards for increasing it.
@@ -192,7 +192,7 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 |-
 | rowspan="2" |Flashlights
 |Off
-|<span style="color: #00b800;">+0.45x</span>
+|<span style="color: #00b800;">+0.50x</span>
 |<span style="color: #b3a400;">+0.10x</span> instead if Fuse box at start of contract is not Broken
 |
 |-
@@ -532,16 +532,14 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 | rowspan="4" |Fingerprint chance (%)
 |25
 |<span style="color: #00b800;">+0.10x</span>
-|
-| rowspan="4" |Modifiers are ignored if Evidence given is 0
+| rowspan="3" |No modifier if Evidence given is 0
+| rowspan="11" |Gameplay-wise, these options are still registered in the difficulty even if Evidence given is 0.
 |-
 |50
 |<span style="color: #00b800;">+0.06x</span>
-|
 |-
 |75
 |<span style="color: #00b800;">+0.03x</span>
-|
 |-
 |100
 |Base Reward
@@ -550,20 +548,16 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 | rowspan="7" |Fingerprint duration (s)
 |15
 |<span style="color: #00b800;">+0.10x</span>
-|
-| rowspan="7" |Modifiers are ignored if Evidence given is 0
+| rowspan="4" |No modifier if Evidence given is 0
 |-
 |30
 |<span style="color: #00b800;">+0.07x</span>
-|
 |-
 |60
 |<span style="color: #00b800;">+0.05x</span>
-|
 |-
 |90
 |<span style="color: #00b800;">+0.02x</span>
-|
 |-
 |120
 |Base Reward
@@ -571,11 +565,10 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 |-
 |180
 |<span style="color: #b04500;">-1.50x</span>
-|
+| rowspan="2" |No modifier if Evidence given is 0
 |-
 |Infinite
 |<span style="color: #b04500;">-3.00x</span>
-|
 |-
 ! colspan="5" |Contract
 |-
@@ -728,7 +721,7 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 | rowspan="3" |Fuse box at start of contract
 |Broken
 |<span style="color: #00b800;">+0.50x</span>
-|<span style="color: #b3a400;">+0.15x</span> instead if Flashlights is not Off
+|<span style="color: #b3a400;">+0.20x</span> instead if Flashlights is not Off
 |
 |-
 |Off
@@ -744,12 +737,11 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 | rowspan="2" |Fuse box visible on map
 |Off
 |<span style="color: #00b800;">+0.05x</span>
-|
-|Forced if Fuse box at start of contract is Broken
+|No modifier if Fuse box at start of contract is Broken
+| rowspan="2" |If Fuse box at start of contract is Broken, the fuse box will not visible on the map, regardless of this setting.
 |-
 |On
 |Base Reward
-|
 |
 |-
 | rowspan="8" |Cursed Possessions quantity
