@@ -1,6 +1,7 @@
 # Difficulty/Custom
-# revid 25296  2026-11-12T17:37:10Z  by AgreeableTrout109
-# sha256 f6b36de65764a52f681fc936bca5cc8ea8bcc87e72458f2619f3cf861c17c324  bytes 14401
+# revid 25297  2026-11-13T03:27:52Z  by Darkhooper
+# 备注: Undo revision [[Special:Diff/25296|25296]] by [[Special:Contributions/AgreeableTrout109|AgreeableTrout109]] ([[User talk:AgreeableTrout109|talk]])
+# sha256 7efaa10e6531bcee99b5396ac03a8beea320d17d55318fa6c66a7cead4efa6bd  bytes 14401
 # 源: https://phasmophobia.fandom.com/api.php
 
 Unlocked at level 50, '''custom difficulty''', as the name suggests, allows the player to modify various parameters relating to the player, the ghost, and the contract itself. In exchange, the reward multiplier is either increased (if the changes make the difficulty harder) or decreased (if the changes make the difficulty easier). The penalties for decreasing the difficulty are usually higher than the rewards for increasing it.
@@ -191,7 +192,7 @@ In the special case where modifiers are halved above 4.00x or 5.00x multipliers 
 |-
 | rowspan="2" |Flashlights
 |Off
-|<span style="color: #00b800;">+0.50x</span>
+|<span style="color: #00b800;">+0.45x</span>
 |<span style="color: #b3a400;">+0.10x</span> instead if Fuse box at start of contract is not Broken
 |
 |-
