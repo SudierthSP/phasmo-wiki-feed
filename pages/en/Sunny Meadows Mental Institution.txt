@@ -1,7 +1,7 @@
 # Sunny Meadows Mental Institution
-# revid 25122  2026-10-21T18:06:58Z  by Darkhooper
-# 备注: trivia for Sunny Restricted
-# sha256 66587ce52ffcc5f9a1bb35ab4d79ff2dff5fe508f4a88d66434b3273ee22f276  bytes 29772
+# revid 25305  2026-11-14T04:13:47Z  by Darkhooper
+# 备注: fixed Restricted Hospital infobox: Foyer cannot be a fav room
+# sha256 450c0b8ebbb53c1f6c4a4f7a0358139c6c74adf6b644d4ad2970b0785edfb0ff  bytes 29772
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Location
@@ -614,7 +614,7 @@ Depending on the "Doors starting open" [[difficulty]] parameter, a certain numbe
 *1F: 6
 *B: 13
 *Staircases: 1
-*14 possible ghost rooms
+*13 possible ghost rooms
 |exits=1
 |faucets=1
 |videofeeds=4

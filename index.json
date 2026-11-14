@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T19:56:53.671Z",
+  "generated": "2026-11-14T07:00:31.302Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -1234,8 +1234,8 @@
       {
         "t": "Sunny Meadows Mental Institution",
         "f": "pages/en/Sunny Meadows Mental Institution.txt",
-        "b": 30031,
-        "r": 25122,
+        "b": 30065,
+        "r": 25305,
         "x": "{{Location |img=Smmi updated1.png |imgcaption=Main entrance porch. |mapsize=Large |floors=2 |unlocklevel=17 |rooms=69 (Total) *1F: 44 *B: 22 *Staircases: 3 *53 possible ghost rooms |exits=1 |faucets=22 |videofeeds=8 |key"
       },
       {
