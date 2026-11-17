@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-17T01:57:11.675Z",
+  "updated": "2026-11-17T10:11:46.177Z",
   "api": "https://phasmophobia.fandom.com/zh/api.php",
   "pageCount": 325,
   "redirectCount": 41,
@@ -1396,8 +1396,8 @@
       "redirect": false
     },
     "媒体": {
-      "revid": 3966,
-      "ts": "2025-10-15T15:13:39Z",
+      "revid": 4309,
+      "ts": "2026-11-17T02:58:49Z",
       "redirect": false
     },
     "0.14.0.0": {

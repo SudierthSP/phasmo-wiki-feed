@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T01:57:08.237Z",
+  "generated": "2026-11-17T10:11:42.910Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -961,8 +961,8 @@
       {
         "t": "Third-party tools",
         "f": "pages/en/Third-party tools.txt",
-        "b": 8266,
-        "r": 25106,
+        "b": 8240,
+        "r": 25307,
         "x": "This page provides a list of '''third-party tools''' you may use to aid your investigations in ''Phasmophobia''. Note that this list mainly consists of external websites or programs that do not modify the game files. Mod"
       },
       {
@@ -3945,8 +3945,8 @@
       {
         "t": "媒体",
         "f": "pages/zh/媒体.txt",
-        "b": 7348,
-        "r": 3966,
+        "b": 7393,
+        "r": 4309,
         "x": "在调查过程中，玩家可以录制'''媒体'''以获得额外的金钱和经验奖励。可以在手册的“媒体”选项卡中看到录制的媒体。 ==机制== 在[[合约]]期间，当首次使用[[相机]]、[[摄像机]]或[[录音机]]录制特定类别的媒体时，它会标有'''“唯一”'''印章。录制同一类别的另一个主题会将其标记为'''重复'''，从而奖励更少的金钱和经验。 当使用更高等级的相应设备录制时，每块媒体都会获得奖励： * 二级：$1 / 1 XP * 三级：$"
       },
       {

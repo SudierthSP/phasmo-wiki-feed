@@ -1,7 +1,6 @@
 # Third-party tools
-# revid 25106  2026-10-18T01:44:23Z  by Darkhooper
-# 备注: correct link
-# sha256 58090333f4c7a81cee2b875bc2a38c23d2707e979a8b83740a782dcdae7ac18c  bytes 8038
+# revid 25307  2026-11-17T08:58:36Z  by Jobus00
+# sha256 ef04fbda61dfa192424dd9915552266d9356aa83d3340b753af6ef6d78c09a75  bytes 8038
 # 源: https://phasmophobia.fandom.com/api.php
 
 This page provides a list of '''third-party tools''' you may use to aid your investigations in ''Phasmophobia''.
@@ -57,7 +56,7 @@ Note that this list mainly consists of external websites or programs that do not
 |Primary Evidence, Secondary Evidence, Ghost Information, Phrases, Nightmare Mode
 |Website (mobile-friendly)
 |[https://jobus0.github.io/phasmohelper/ Website]
-|[[0.18.0.1]]
+|[[0.19.1.0]]
 |Jobus
 |-
 |PhasmoSync

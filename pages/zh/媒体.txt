@@ -1,7 +1,7 @@
 # 媒体
-# revid 3966  2025-10-15T15:13:39Z  by CangMingSW
-# 备注: /* 照片证据 */
-# sha256 c1d852d01fb8f439583d8b56b504cbfb9079f5d16f4c7cccbcc12f6068da74d2  bytes 7123
+# revid 4309  2026-11-17T02:58:49Z  by 0y0w
+# 备注: 增加可录制影片 配电箱
+# sha256 a829e6eb199a184986a1faf3e028127f4823eab53e8c20902770427a472e7b00  bytes 7161
 # 源: https://phasmophobia.fandom.com/zh/api.php
 
 在调查过程中，玩家可以录制'''媒体'''以获得额外的金钱和经验奖励。可以在手册的“媒体”选项卡中看到录制的媒体。 
@@ -284,6 +284,11 @@
 |$5 / 5 XP
 |$1 / 1 XP
 |It's responding!
+|-
+|配电箱
+|$5 / 5 XP
+|$1 / 1 XP
+|
 |}
 
 ==声音证据==
