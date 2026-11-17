@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-14T07:00:31.712Z",
+  "updated": "2026-11-17T01:57:08.710Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -151,8 +151,8 @@
       "redirect": false
     },
     "Daily and Weekly Tasks": {
-      "revid": 24005,
-      "ts": "2026-06-28T21:45:17Z",
+      "revid": 25306,
+      "ts": "2026-11-16T19:14:03Z",
       "redirect": false
     },
     "Poltergeist": {

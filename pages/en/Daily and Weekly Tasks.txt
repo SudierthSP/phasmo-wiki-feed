@@ -1,7 +1,7 @@
 # Daily and Weekly Tasks
-# revid 24005  2026-06-28T21:45:17Z  by VVSlavik
-# 备注: Добавлена ссылка на русскую статью / Added link to RU wiki ([[ru:...]])
-# sha256 e1aaca8f517cf8fe0bdd9f6388216cb253cf8556293f8f3669b955024f072d79  bytes 5370
+# revid 25306  2026-11-16T19:14:03Z  by Darkhooper
+# 备注: added note about Survive hunts task
+# sha256 29c7a35339ab9770f0f12909d45b33b22d6a8dbe37bee5cf33654aac82d77dca  bytes 5509
 # 源: https://phasmophobia.fandom.com/api.php
 
 [[File:Tasks 0.8.1.png|300px|thumb|right|An example of the tasks that can be completed.]]
@@ -137,7 +137,7 @@ Weekly Tasks reset at midnight UTC every Monday.
 |500
 |-
 |Survive [[hunt]]s
-|Survive 30 hunts.
+|Survive 30 hunts.<ref group="note">There is currently a bug where a crucifix burning also counts towards this task.</ref>
 |500
 |-
 |Use Cursed Possessions
@@ -182,6 +182,8 @@ Weekly Tasks reset at midnight UTC every Monday.
 |Removed "Earn Perfect Investigation Bonuses" and "Earn money from contracts" weekly tasks.
 |}
 
+==Notes==
+{{Reflist|group="note"}}
 [[Category:Objectives]]
 [[fr:Tâches quotidiennes et hebdomadaires]]
 [[ru:Ежедневные и еженедельные задания]]

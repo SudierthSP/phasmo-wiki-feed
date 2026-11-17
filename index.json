@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T07:00:31.302Z",
+  "generated": "2026-11-17T01:57:08.237Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -198,8 +198,8 @@
       {
         "t": "Daily and Weekly Tasks",
         "f": "pages/en/Daily and Weekly Tasks.txt",
-        "b": 5690,
-        "r": 24005,
+        "b": 5765,
+        "r": 25306,
         "x": "[[File:Tasks 0.8.1.png|300px|thumb|right|An example of the tasks that can be completed.]] '''Daily Tasks''' and '''Weekly Tasks''' are additional goals that provide bonus income when completed. Most tasks on a given day "
       },
       {
