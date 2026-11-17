@@ -1,6 +1,6 @@
 # Planned updates and features
-# revid 25160  2026-10-27T23:51:20Z  by Darkhooper
-# sha256 0dcf5379d9f5bd3511f959954cffbfc419487cd5dbe34afc967522f689c9a4ed  bytes 3382
+# revid 25308  2026-11-17T18:10:00Z  by Darkhooper
+# sha256 6dfc0c378fc32cf1924d16b1b4df4bc81d9e13bd03f10ecc6818197bbdb2959e  bytes 3366
 # 源: https://phasmophobia.fandom.com/api.php
 
 [[File:PhasmophobiaRoadmap2026-2.jpg|thumb|The updated 2026 ''Phasmophobia'' roadmap.]]
@@ -11,7 +11,7 @@ A more extensive list of planned updates and features can be found on the [https
 ==Future updates==
 ===2026===
 ====Resonance Update====
-Planned for late November 2026<ref>https://www.kineticgames.co.uk/news/phasmophobia-development-preview-22</ref>, this update will upgrade the game's engine to Unity 6, which comes with a new lighting system, and will rework the networking backend to support quality of life features such as rejoining games after disconnecting and a cross-platform friends list. Color blind accessibility options will also be implemented.
+Planned for 24 November 2026<ref>https://www.kineticgames.co.uk/news/resonance-releasedate</ref>, this update will upgrade the game's engine to Unity 6, which comes with a new lighting system, and will rework the networking backend to support quality of life features such as rejoining games after disconnecting and a cross-platform friends list. Color blind accessibility options will also be implemented.
 
 A new equipment will be added to the game: the '''Dowsing Rods'''. This new equipment will help players locate the [[bone]].
 
