@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-17T19:10:38.569Z",
+  "updated": "2026-11-19T16:41:04.908Z",
   "api": "https://phasmophobia.fandom.com/zh/api.php",
   "pageCount": 325,
   "redirectCount": 41,
@@ -101,8 +101,8 @@
       "redirect": false
     },
     "猎杀": {
-      "revid": 4187,
-      "ts": "2026-07-08T11:54:44Z",
+      "revid": 4310,
+      "ts": "2026-11-19T11:48:48Z",
       "redirect": false
     },
     "难度": {
