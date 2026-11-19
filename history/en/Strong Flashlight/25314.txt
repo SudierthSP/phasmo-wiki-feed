@@ -1,0 +1,39 @@
+# Strong Flashlight
+# revid 25314  2026-11-19T20:19:12Z  by VVSlavik
+# sha256 8e77ec1428947ead823b8fa7854513377d47c58a8d2c5a0ec8bd513c238bd2cd  bytes 1273
+# 源: https://phasmophobia.fandom.com/api.php
+
+{{Item Template
+|img=StrongFlashlight_Render.png
+|imgcaption=
+|price=$50
+|maxamount=4
+|uses=
+|starter=No
+|level=4
+|description=An upgraded version of the flashlight. Designed to help you in large areas when the lights go out.}}The '''strong flashlight''' was an item in Phasmophobia. It was essentially the direct upgrade to the [[flashlight]], provinding a much larger illumination radius, but retained the same capabilities as its weaker counterpart. Since [[0.9.0]], it is no longer a standalone item and now makes for the Tier II upgrade for the flashlight.
+
+== Usage ==
+{{See also|Flashlight}}
+Strong flashlights are functionally the same as regular flashlights, with the exception of an increased area of effect, and a white shade of light instead of yellow. They could be purchased from the shop for $50, starting at Level 3.
+
+== Gallery ==
+<gallery>
+Strong flashlight.png|A pre-0.3 strong flashlight model being held.
+</gallery>
+
+== History ==
+{| class="fandom-table"
+! colspan="2" |Early Access (Steam)
+|-
+|-
+![[0.3.0]]
+|Changed the strong flashlight model.
+|-
+![[0.9.0]]
+|No longer a separate equipment; made into Tier II Flashlight
+|}
+{{EquipmentNav}}
+[[ru:Фонарик#История изменений]]
+[[Category:Equipment]]
+[[fr:Lampe de poche puissante]]

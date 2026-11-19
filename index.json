@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T16:41:02.871Z",
+  "generated": "2026-11-19T23:13:51.922Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -86,8 +86,8 @@
       {
         "t": "Ultraviolet",
         "f": "pages/en/Ultraviolet.txt",
-        "b": 9370,
-        "r": 25209,
+        "b": 9281,
+        "r": 25315,
         "x": "{{Evidence_Infobox |image1=Fingerprints_3.png |detected_by=[[File:UVLight_Render.png|24x24px|link=UV Light]] [[UV Light]] }} {{Quote|speaker=The Journal|quote=Some Ghosts have been known to leave fingerprints on objects "
       },
       {
@@ -338,8 +338,8 @@
       {
         "t": "Strong Flashlight",
         "f": "pages/en/Strong Flashlight.txt",
-        "b": 1503,
-        "r": 24277,
+        "b": 1476,
+        "r": 25314,
         "x": "{{Item Template |img=StrongFlashlight_Render.png |imgcaption= |price=$50 |maxamount=4 |uses= |starter=No |level=4 |description=An upgraded version of the flashlight. Designed to help you in large areas when the lights go"
       },
       {
@@ -632,8 +632,8 @@
       {
         "t": "Key",
         "f": "pages/en/Key.txt",
-        "b": 2701,
-        "r": 23334,
+        "b": 2676,
+        "r": 25313,
         "x": "[[File:CarKey.png|alt=The car key on Tanglewood Street.|thumb|273x273px|The car key on [[6 Tanglewood Drive]].]] '''Keys''' are used to unlock [[Exit Door|exit doors]] to investigation areas within [[map]]s, or to turn o"
       },
       {
@@ -1395,8 +1395,8 @@
       {
         "t": "ID Card",
         "f": "pages/en/ID Card.txt",
-        "b": 24620,
-        "r": 25205,
+        "b": 24570,
+        "r": 25312,
         "x": "The ID Card is a cosmetic that shows the player's in-game progress. ==Features== The ID card shows the name of the player, the platform they're playing on (Steam, PlayStation, or Xbox), their [[experience|level]], the pl"
       },
       {
@@ -1500,8 +1500,8 @@
       {
         "t": "Challenge Mode",
         "f": "pages/en/Challenge Mode.txt",
-        "b": 44240,
-        "r": 25211,
+        "b": 44191,
+        "r": 25311,
         "x": "The '''Challenge Mode''' is a feature introduced in [[0.8.1.0]]. It allows players to take part in a curated custom [[difficulty]], often based on Professional, with predetermined rules and set of starter items. As playe"
       },
       {

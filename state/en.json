@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-19T16:41:03.275Z",
+  "updated": "2026-11-19T23:13:52.510Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -61,8 +61,8 @@
       "redirect": false
     },
     "Ultraviolet": {
-      "revid": 25209,
-      "ts": "2026-11-06T01:17:00Z",
+      "revid": 25315,
+      "ts": "2026-11-19T20:19:15Z",
       "redirect": false
     },
     "Ouija Board": {
@@ -256,8 +256,8 @@
       "redirect": false
     },
     "Strong Flashlight": {
-      "revid": 24277,
-      "ts": "2026-07-24T04:39:59Z",
+      "revid": 25314,
+      "ts": "2026-11-19T20:19:12Z",
       "redirect": false
     },
     "Sanity Medication": {
@@ -501,8 +501,8 @@
       "redirect": false
     },
     "Key": {
-      "revid": 23334,
-      "ts": "2026-05-05T20:24:06Z",
+      "revid": 25313,
+      "ts": "2026-11-19T20:19:10Z",
       "redirect": false
     },
     "Optional Objective": {
@@ -1141,8 +1141,8 @@
       "redirect": false
     },
     "ID Card": {
-      "revid": 25205,
-      "ts": "2026-11-05T16:07:39Z",
+      "revid": 25312,
+      "ts": "2026-11-19T20:19:07Z",
       "redirect": false
     },
     "Smudge sticks": {
@@ -1226,8 +1226,8 @@
       "redirect": false
     },
     "Challenge Mode": {
-      "revid": 25211,
-      "ts": "2026-11-06T02:51:44Z",
+      "revid": 25311,
+      "ts": "2026-11-19T20:19:04Z",
       "redirect": false
     },
     "0.8.1.3": {

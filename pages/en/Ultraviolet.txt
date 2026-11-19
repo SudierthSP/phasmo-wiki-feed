@@ -1,7 +1,6 @@
 # Ultraviolet
-# revid 25209  2026-11-06T01:17:00Z  by Darkhooper
-# 备注: The Obake hiding a footstep is scaled on the Fingerprint chance difficulty setting
-# sha256 d43c1852c95c4324add29445db5baa835cefbadc04022e1c7c5d7418ca6de943  bytes 9078
+# revid 25315  2026-11-19T20:19:15Z  by VVSlavik
+# sha256 6268eee5a8fff43f5c6346e94e54fa11a46b5f69d8b10f2b811079fc48a0bbaf  bytes 9084
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Evidence_Infobox
@@ -214,4 +213,4 @@ Taking a photo of a fingerprint or a footprint that has been charged using a [[U
 {{EvidenceNav}}
 [[Category:Evidence]]
 [[fr:Ultraviolet]]
-[[ru:Отпечатки]]
+[[ru:Ультрафиолет]]

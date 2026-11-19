@@ -1,7 +1,6 @@
 # Strong Flashlight
-# revid 24277  2026-07-24T04:39:59Z  by VVSlavik
-# 备注: Added the corresponding Russian interlanguage link
-# sha256 93c5bf1f5cea37115f1638cf31739f1990bec94fc8c75875705ca8fa69650f04  bytes 1239
+# revid 25314  2026-11-19T20:19:12Z  by VVSlavik
+# sha256 8e77ec1428947ead823b8fa7854513377d47c58a8d2c5a0ec8bd513c238bd2cd  bytes 1273
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Item Template
@@ -35,6 +34,6 @@ Strong flashlight.png|A pre-0.3 strong flashlight model being held.
 |No longer a separate equipment; made into Tier II Flashlight
 |}
 {{EquipmentNav}}
-[[ru:Фонарик]]
+[[ru:Фонарик#История изменений]]
 [[Category:Equipment]]
 [[fr:Lampe de poche puissante]]
