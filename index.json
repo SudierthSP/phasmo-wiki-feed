@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T23:13:51.922Z",
+  "generated": "2026-11-22T17:06:36.764Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -219,8 +219,8 @@
       {
         "t": "Banshee",
         "f": "pages/en/Banshee.txt",
-        "b": 14791,
-        "r": 25294,
+        "b": 14845,
+        "r": 25335,
         "x": "{{Ghost |title=Banshee |image1=Banshee Discovered.jpg |strength= *Focuses on the same player until that player is killed or has left the game |weakness(es)= *Cannot kill players other than the target if the target is ins"
       },
       {

@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-19T23:13:52.510Z",
+  "updated": "2026-11-22T17:06:37.087Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -166,8 +166,8 @@
       "redirect": false
     },
     "Banshee": {
-      "revid": 25294,
-      "ts": "2026-11-07T08:36:40Z",
+      "revid": 25335,
+      "ts": "2026-11-22T16:53:06Z",
       "redirect": false
     },
     "Shade": {

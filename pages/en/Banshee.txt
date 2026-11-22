@@ -1,6 +1,7 @@
 # Banshee
-# revid 25294  2026-11-07T08:36:40Z  by Darkhooper
-# sha256 1a5633035e693fd781f81969b0e5c7b629450e149635bbd47fd5cc1e7b683e78  bytes 14595
+# revid 25335  2026-11-22T16:53:06Z  by Darkhooper
+# 备注: changed a word, to match the Roaming page
+# sha256 b4fe6714103ee2bde29ffcc6a855378f0a20a8a7e87aaebc96d7f03db405f43d  bytes 14597
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -36,7 +37,7 @@ Contrary to most other ghosts, the Banshee is able to perform long [[Roaming|roa
 If the hunt target is inside the investigation area, the Banshee has a 2/3 chance to travel to a waypoint within 2 metres of that player while in [[D.O.T.S. Projector (Evidence)|D.O.T.S. state]]. If that chance fails or if the hunt target is not inside the investigation area, the Banshee will only move in D.O.T.S. towards a random waypoint within 2 metres of it.
 
 ===Abilities===
-When the Banshee performs a short roam, if the hunt target is inside the investigation area, it has a 2/3 (67%) chance of triggering its ability which makes it place a waypoint within 3 metres of the target's location, and travel to it. Unlike the [[Wraith]]'s and the [[Phantom]]'s abilities, this will not create any EMF reading. The ability fails if the [[roaming#Mechanics|short roam conditions]] are not fulfilled (e.g. player not on same floor, pathing distance greater than 150% direct distance).
+When the Banshee performs a short roam, if the hunt target is inside the investigation area, it has a 2/3 (67%) chance of triggering its ability which makes it place a waypoint within 3 metres of the target's location, and travel to it. Unlike the [[Wraith]]'s and the [[Phantom]]'s abilities, this will not create any EMF reading. The ability fails if the [[roaming#Mechanics|short roam conditions]] are not fulfilled (e.g. waypoint not on same floor, pathing distance greater than 150% direct distance).
 
 When a [[Parabolic Microphone]] or a [[Sound Recorder]] is used, the Banshee has a 33% chance of making 1 of its 20 unique screams instead of a regular [[Paranormal Sound|paranormal sound]].
 
