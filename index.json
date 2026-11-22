@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T17:06:36.764Z",
+  "generated": "2026-11-22T22:27:09.313Z",
   "counts": {
     "en": 322,
     "zh": 284
@@ -219,8 +219,8 @@
       {
         "t": "Banshee",
         "f": "pages/en/Banshee.txt",
-        "b": 14845,
-        "r": 25335,
+        "b": 15169,
+        "r": 25340,
         "x": "{{Ghost |title=Banshee |image1=Banshee Discovered.jpg |strength= *Focuses on the same player until that player is killed or has left the game |weakness(es)= *Cannot kill players other than the target if the target is ins"
       },
       {
@@ -723,8 +723,8 @@
       {
         "t": "D.O.T.S. Projector (Evidence)",
         "f": "pages/en/D.O.T.S. Projector (Evidence).txt",
-        "b": 6032,
-        "r": 25018,
+        "b": 5983,
+        "r": 25339,
         "x": "{{Evidence_Infobox |title1=D.O.T.S Projector |image1=[[File:DOTS090_animation_videocamera.gif]] |detected_by=[[D.O.T.S. Projector]] |caption1=A ghostly sillhouette appearing on the video feed with Night Vision. }}{{Quote"
       },
       {
