@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-22T22:27:09.798Z",
+  "updated": "2026-11-23T02:57:16.973Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -256,8 +256,8 @@
       "redirect": false
     },
     "Strong Flashlight": {
-      "revid": 25314,
-      "ts": "2026-11-19T20:19:12Z",
+      "revid": 25341,
+      "ts": "2026-11-22T23:41:29Z",
       "redirect": false
     },
     "Sanity Medication": {
