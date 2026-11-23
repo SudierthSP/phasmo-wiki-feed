@@ -1,7 +1,7 @@
 # Banshee
-# revid 25340  2026-11-22T21:55:39Z  by Darkhooper
-# 备注: reworded DOTS, added bug about Ability used stat
-# sha256 55a867898aed3e4b630fdad7a9fa916f0d05170ba32e0bec1223317f331f4db9  bytes 14914
+# revid 25342  2026-11-23T10:15:58Z  by Darkhooper
+# 备注: moved paranormal screams to Activity section and moved D.O.T.S. state to Ability section
+# sha256 1eb6f5a0759066b3a4f9f1d8465fc0444d69e3426f5960216eb3f06d41568aa0  bytes 14955
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -34,11 +34,6 @@ If the hunt target is the target of a singing event and causes the Banshee to di
 
 Contrary to most other ghosts, the Banshee is able to perform long [[Roaming|roam]]s while its current room is not the [[Ghost Room|favourite room]], and has a 50% chance to perform long roams instead of the regular chances.
 
-While in [[D.O.T.S. Projector (Evidence)|D.O.T.S. state]], the Banshee has a 2/3 chance to place a waypoint within 2 metres of the hunt target. If that chance fails or if the hunt target is not inside the investigation area, the Banshee will only move in D.O.T.S. towards a random waypoint within 2 metres of it.
-
-===Abilities===
-When the Banshee performs a short roam, if the hunt target is inside the investigation area, it has a 2/3 (67%) chance of triggering its ability which makes it place a waypoint within 3 metres of the target's location, and travel to it. Unlike the [[Wraith]]'s and the [[Phantom]]'s abilities, this will not create any EMF reading. The ability fails if the [[roaming#Mechanics|short roam conditions]] are not fulfilled (e.g. waypoint not on same floor, pathing distance greater than 150% direct distance).<ref group="note">There is a bug where the "Abilities used" statistic does not increase when the Banshee uses this ability. It will only increase if the Banshee fails the ability and instantly chooses to perform a long roam with the ''Changing favourite room'' difficulty setting not set to None, or if the Banshee reaches the D.O.T.S. state's limit of 6 seconds.</ref>
-
 When a [[Parabolic Microphone]] or a [[Sound Recorder]] is used, the Banshee has a 33% chance of making 1 of its 20 unique screams instead of a regular [[Paranormal Sound|paranormal sound]].
 
 {| class="fandom-table"
@@ -46,6 +41,13 @@ When a [[Parabolic Microphone]] or a [[Sound Recorder]] is used, the Banshee has
 |-
 |[[File:Banshee Scream 1.ogg]][[File:Banshee Scream 2.ogg]][[File:Banshee Scream 3.ogg]][[File:Banshee Scream 4.ogg]][[File:Banshee Scream 5.ogg]][[File:Banshee Scream 6.ogg]][[File:Banshee Scream 7.ogg]][[File:Banshee Scream 8.ogg]][[File:Banshee Scream 9.ogg]][[File:Banshee Scream 10.ogg]][[File:Banshee Scream 11.ogg]][[File:Banshee Scream 12.ogg]][[File:Banshee Scream 13.ogg]][[File:Banshee Scream 14.ogg]][[File:Banshee Scream 15.ogg]][[File:Banshee Scream 16.ogg]][[File:Banshee Scream 17.ogg]][[File:Banshee Scream 18.ogg]][[File:Banshee Scream 19.ogg]][[File:Banshee Scream 20.ogg]]
 |}
+
+===Ability===
+When the Banshee performs a short roam, if the hunt target is inside the investigation area, it has a 2/3 (67%) chance of triggering its ability which makes it place a waypoint within 3 metres of the target's location, and travel to it. Unlike the [[Wraith]]'s and the [[Phantom]]'s abilities, this will not create any EMF reading.
+
+While in [[D.O.T.S. Projector (Evidence)|D.O.T.S. state]], the Banshee has a 2/3 chance to place a waypoint within 2 metres of the hunt target. If that chance fails or if the hunt target is not inside the investigation area, the Banshee will only move in D.O.T.S. towards a random waypoint within 2 metres of it.
+
+The ability, whether a short roam or a D.O.T.S. state, fails if the [[roaming#Mechanics|short roam conditions]] are not fulfilled (e.g. waypoint not on same floor, pathing distance greater than 150% direct distance).<ref group="note">There is a bug where the "Abilities used" statistic does not increase when the Banshee uses its ability. It will only increase if the Banshee fails the ability and instantly chooses to perform a long roam with the ''Changing favourite room'' difficulty setting not set to None, or if the Banshee reaches the D.O.T.S. state's limit of 6 seconds.</ref>
 
 ===Hunt===
 The Banshee's hunt threshold is 50%, but it only checks the ''target's'' sanity when trying to hunt, rather than the ''average'' sanity like other ghost types, meaning that only the target needs to be at or below 50% sanity for it to attempt to hunt. As a result, the Banshee can appear to start hunting from as high as 87% average sanity, or as low as 12% average sanity, on the [[Sanity Monitor]], depending on the target's current sanity and number of other players.

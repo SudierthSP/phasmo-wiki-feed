@@ -1,7 +1,7 @@
 # Shade
-# revid 25271  2026-11-06T23:36:04Z  by Darkhooper
-# 备注: Undo revision [[Special:Diff/25259|25259]] by [[Special:Contributions/AuthoritativeWoodpecker620|AuthoritativeWoodpecker620]] ([[User talk:AuthoritativeWoodpecker620|talk]])
-# sha256 1653acf4ee09cd1ac79fc04bb9793747890f5c40deadbf64a3e39128dc86bcf2  bytes 7222
+# revid 25344  2026-11-23T10:29:22Z  by Darkhooper
+# 备注: merged Inabilities section into Activity section
+# sha256 09f646de39aeeb7b79d3cd7a680b8c7e4535d6bd9ccbaf7cf7d8bcc88d341398  bytes 7202
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -22,6 +22,10 @@
 ===Activity===
 In general, the Shade is less [[Activity|active]] than other ghosts.
 
+If at least one player is in the same room as a Shade, it will be unable to perform interactions (including the [[Fuse Box|fuse box]] and interactions forced through the [[Voodoo Doll]]), ghost events, or initiate hunts, regardless of average sanity<ref>[https://discord.com/channels/435431947963990026/1034831196674347088/1034837007756697650 Information from the #ghost-huntin-resources channel on Discord.]</ref>, and will enter a [[Ghost Room|favourite room]] state instead when trying to perform these actions.
+
+When performing an object throw, whether it be during or outside a hunt, the Shade cannot use the variant where the object levitates before being thrown towards a player.
+
 The Shade is less likely to perform [[ghost event]]s at high sanity. At 100% average sanity, it has a 0% chance of successfully performing an event. This success rate increases by 2% per percentage of average sanity lost; at an average sanity of 50%, an attempted ghost event will always succeed.
 
 [[File:SummoningCircleShadeShadow.gif|thumb|245x245px|A Shade's potential appearance in a Summoning Circle]]
@@ -29,15 +33,10 @@ When manifesting during a ghost event, the Shade has a 2/3 chance to appear in i
 
 The Shade cannot perform [[Ghost Event#Singing|singing]] and [[Ghost Event#Appear|appear]] events. It also has a 60% chance to perform the [[Ghost Event#Mist Form|mist form]] event instead of 20% for other ghosts.
 
-===(In)abilities===
-If at least one player is in the same room as a Shade, it will be unable to perform interactions (including the [[Fuse Box|fuse box]] and interactions forced through the [[Voodoo Doll]]), ghost events, or initiate hunts, regardless of average sanity<ref>[https://discord.com/channels/435431947963990026/1034831196674347088/1034837007756697650 Information from the #ghost-huntin-resources channel on Discord.]</ref>, and will enter a [[Ghost Room|favourite room]] state instead when trying to perform these actions.
-
-When performing an object throw, whether it be during or outside a hunt, the Shade cannot use the variant where the object levitates before being thrown towards a player.
-
-During a hunt, though the Shade can interact with doors while a player is in the same room as it like any other ghost, it is still unable to blow out flames.
-
 ===Hunt===
 The Shade can only hunt below an average [[sanity]] of 35%, lower than most other ghosts.
+
+During a hunt, though the Shade can interact with doors while a player is in the same room as it like any other ghost, it is still unable to blow out flames.
 
 ==Evidence==
 <center>

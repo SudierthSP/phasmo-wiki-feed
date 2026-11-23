@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-23T02:57:16.973Z",
+  "updated": "2026-11-23T11:48:08.345Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 379,
   "redirectCount": 57,
@@ -156,8 +156,8 @@
       "redirect": false
     },
     "Poltergeist": {
-      "revid": 25268,
-      "ts": "2026-11-06T23:28:43Z",
+      "revid": 25343,
+      "ts": "2026-11-23T10:23:05Z",
       "redirect": false
     },
     "UV Light": {
@@ -166,13 +166,13 @@
       "redirect": false
     },
     "Banshee": {
-      "revid": 25340,
-      "ts": "2026-11-22T21:55:39Z",
+      "revid": 25342,
+      "ts": "2026-11-23T10:15:58Z",
       "redirect": false
     },
     "Shade": {
-      "revid": 25271,
-      "ts": "2026-11-06T23:36:04Z",
+      "revid": 25344,
+      "ts": "2026-11-23T10:29:22Z",
       "redirect": false
     },
     "Demon": {
