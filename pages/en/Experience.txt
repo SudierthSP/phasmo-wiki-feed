@@ -1,7 +1,7 @@
 # Experience
-# revid 23866  2026-06-23T12:21:06Z  by Darkhooper
-# 备注: though the patch notes say 4,000, the actual max is 3,999 as evidenced by cheater lobbies
-# sha256 d81575721c6d9fab35887915edecc14c923d768200ae65d05dd265f865782d9e  bytes 8558
+# revid 25360  2026-11-24T16:05:25Z  by Darkhooper
+# 备注: dowsing rods unlock level
+# sha256 80f6ae926ccc669a68ddba00fe2484aade99c1db61a5e3335dc46cd634480912  bytes 8633
 # 源: https://phasmophobia.fandom.com/api.php
 
 '''Experience''' (or '''XP''') in ''Phasmophobia'' is used to unlock various [[equipment]] and [[difficulty|difficulties]].
@@ -356,6 +356,7 @@ Prestige level doesn't change the amount of EXP for level up.
 |2,763
 |69,690
 |
+*[[Dowsing Rods]] Tier 1
 |-
 |46
 |2,808
@@ -443,6 +444,7 @@ Prestige level doesn't change the amount of EXP for level up.
 |
 *[[Sound Recorder]] Tier 3
 *[[Tripod]] Tier 3
+*[[Dowsing Rods]] Tier 2
 |-
 |61
 |3,457
@@ -524,6 +526,7 @@ Prestige level doesn't change the amount of EXP for level up.
 |
 *[[Sanity Medication]] Tier 3
 *[[Firelight]] Tier 3
+*[[Dowsing Rods]] Tier 3
 |-
 |76
 |4,064

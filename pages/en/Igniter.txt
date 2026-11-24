@@ -1,6 +1,6 @@
 # Igniter
-# revid 22579  2025-12-25T07:34:30Z  by Darkhooper
-# sha256 432b0d47fd4c69c7ae4655ccd7699ce6cc58e05471db84bacf2b53bc8b8f14ed  bytes 5328
+# revid 25367  2026-11-24T17:35:15Z  by Darkhooper
+# sha256 dd1b7f957fa6b5b7ae8e97b844b823595a0cce30a2963f202f5c3850435d6983  bytes 5327
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -20,8 +20,7 @@
  | tier i purpose=These matches are perfect for lighting Firelights and Incense, but remember, with only ten uses you’ll run out fast!<br>They can also be used as a small light source, just make sure to not burn your fingers.
  | tier i ability=<span style="color: #008000;">Duration (s): 10<br>Uses: 10</span><br><span style="color: #ff0000;">Consumable</span>
  | tier ii description=A BiK lighter; small, compact and handy!
- | tier ii purpose=A gas lighter. It provides a little more light than matches and lasts a lot longer.<br>
-You can see the liquid inside it drain as you use it, make sure you have enough left when you’re in a pinch!
+ | tier ii purpose=A gas lighter. It provides a little more light than matches and lasts a lot longer.<br>You can see the liquid inside it drain as you use it, make sure you have enough left when you’re in a pinch!
  | tier ii ability=<span style="color: #008000;">Duration (min): 5</span><br><span style="color: #ff0000;">Consumable</span>
  | tier iii description=Since releasing, Zippy Lighters have been a staple for the military, and now; Ghost Investigators.
  | tier iii purpose=This Lighter could last you for an entire contract, as long as you’re not wasting it!<br>With a larger flame, the light it provides is brighter and has larger range, perfect for those dark getaways during an attack.

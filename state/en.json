@@ -1,8 +1,8 @@
 {
   "fmt": 2,
-  "updated": "2026-11-23T11:48:08.345Z",
+  "updated": "2026-11-24T18:36:27.605Z",
   "api": "https://phasmophobia.fandom.com/api.php",
-  "pageCount": 379,
+  "pageCount": 381,
   "redirectCount": 57,
   "pages": {
     "Main Page": {
@@ -81,13 +81,13 @@
       "redirect": false
     },
     "Equipment": {
-      "revid": 24244,
-      "ts": "2026-07-24T04:34:47Z",
+      "revid": 25361,
+      "ts": "2026-11-24T16:06:15Z",
       "redirect": false
     },
     "Incense": {
-      "revid": 25146,
-      "ts": "2026-10-24T17:41:09Z",
+      "revid": 25368,
+      "ts": "2026-11-24T17:35:54Z",
       "redirect": false
     },
     "Wraith": {
@@ -131,8 +131,8 @@
       "redirect": false
     },
     "Photo Camera": {
-      "revid": 25202,
-      "ts": "2026-11-05T13:29:36Z",
+      "revid": 25370,
+      "ts": "2026-11-24T17:44:44Z",
       "redirect": false
     },
     "Motion Sensor": {
@@ -156,8 +156,8 @@
       "redirect": false
     },
     "Poltergeist": {
-      "revid": 25343,
-      "ts": "2026-11-23T10:23:05Z",
+      "revid": 25357,
+      "ts": "2026-11-24T15:43:30Z",
       "redirect": false
     },
     "UV Light": {
@@ -186,8 +186,8 @@
       "redirect": false
     },
     "Yurei": {
-      "revid": 25282,
-      "ts": "2026-11-07T00:08:23Z",
+      "revid": 25365,
+      "ts": "2026-11-24T17:13:37Z",
       "redirect": false
     },
     "Oni": {
@@ -226,13 +226,13 @@
       "redirect": true
     },
     "Parabolic Microphone": {
-      "revid": 23265,
-      "ts": "2026-04-27T09:02:14Z",
+      "revid": 25369,
+      "ts": "2026-11-24T17:37:09Z",
       "redirect": false
     },
     "Igniter": {
-      "revid": 22579,
-      "ts": "2025-12-25T07:34:30Z",
+      "revid": 25367,
+      "ts": "2026-11-24T17:35:15Z",
       "redirect": false
     },
     "Firelight": {
@@ -241,13 +241,13 @@
       "redirect": false
     },
     "Sound Sensor": {
-      "revid": 21403,
-      "ts": "2025-07-04T17:39:42Z",
+      "revid": 25372,
+      "ts": "2026-11-24T17:56:39Z",
       "redirect": false
     },
     "Video Camera": {
-      "revid": 25199,
-      "ts": "2026-11-05T13:11:22Z",
+      "revid": 25366,
+      "ts": "2026-11-24T17:32:32Z",
       "redirect": false
     },
     "Tripod": {
@@ -351,8 +351,8 @@
       "redirect": false
     },
     "Ghost Event": {
-      "revid": 25149,
-      "ts": "2026-10-26T02:08:42Z",
+      "revid": 25363,
+      "ts": "2026-11-24T17:10:42Z",
       "redirect": false
     },
     "Player": {
@@ -381,8 +381,8 @@
       "redirect": false
     },
     "Journal": {
-      "revid": 25203,
-      "ts": "2026-11-05T13:33:10Z",
+      "revid": 25356,
+      "ts": "2026-11-24T15:41:25Z",
       "redirect": false
     },
     "Map": {
@@ -556,8 +556,8 @@
       "redirect": false
     },
     "Goryo": {
-      "revid": 25248,
-      "ts": "2026-11-06T22:53:20Z",
+      "revid": 25359,
+      "ts": "2026-11-24T15:54:40Z",
       "redirect": false
     },
     "Myling": {
@@ -781,13 +781,13 @@
       "redirect": false
     },
     "Experience": {
-      "revid": 23866,
-      "ts": "2026-06-23T12:21:06Z",
+      "revid": 25360,
+      "ts": "2026-11-24T16:05:25Z",
       "redirect": false
     },
     "Planned updates and features": {
-      "revid": 25308,
-      "ts": "2026-11-17T18:10:00Z",
+      "revid": 25355,
+      "ts": "2026-11-24T15:36:23Z",
       "redirect": false
     },
     "The Mimic": {
@@ -1041,8 +1041,8 @@
       "redirect": false
     },
     "Options": {
-      "revid": 24665,
-      "ts": "2026-09-14T20:41:20Z",
+      "revid": 25353,
+      "ts": "2026-11-24T14:56:29Z",
       "redirect": false
     },
     "Apocalypse Challenge": {
@@ -1211,8 +1211,8 @@
       "redirect": false
     },
     "Monkey Paw": {
-      "revid": 25152,
-      "ts": "2026-10-26T03:23:49Z",
+      "revid": 25358,
+      "ts": "2026-11-24T15:46:51Z",
       "redirect": false
     },
     "0.8.1.1": {
@@ -1646,8 +1646,8 @@
       "redirect": false
     },
     "Sound Recorder": {
-      "revid": 25200,
-      "ts": "2026-11-05T13:15:09Z",
+      "revid": 25371,
+      "ts": "2026-11-24T17:52:55Z",
       "redirect": false
     },
     "0.13.0.1": {
@@ -1881,23 +1881,33 @@
       "redirect": false
     },
     "0.19.0": {
-      "revid": 24620,
-      "ts": "2026-09-10T16:14:34Z",
+      "revid": 25346,
+      "ts": "2026-11-24T11:50:21Z",
       "redirect": false
     },
     "0.19.0.1": {
-      "revid": 24695,
-      "ts": "2026-09-16T17:48:30Z",
+      "revid": 25347,
+      "ts": "2026-11-24T11:50:49Z",
       "redirect": false
     },
     "0.19.0.2": {
-      "revid": 25059,
-      "ts": "2026-10-07T10:22:37Z",
+      "revid": 25348,
+      "ts": "2026-11-24T11:51:14Z",
       "redirect": false
     },
     "0.19.1.0": {
-      "revid": 25062,
-      "ts": "2026-10-07T10:47:08Z",
+      "revid": 25349,
+      "ts": "2026-11-24T11:51:38Z",
+      "redirect": false
+    },
+    "0.20.0": {
+      "revid": 25350,
+      "ts": "2026-11-24T12:14:07Z",
+      "redirect": false
+    },
+    "Dowsing Rods": {
+      "revid": 25373,
+      "ts": "2026-11-24T18:12:03Z",
       "redirect": false
     }
   }

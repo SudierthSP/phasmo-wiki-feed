@@ -1,7 +1,7 @@
 # 0.19.1.0
-# revid 25062  2026-10-07T10:47:08Z  by Darkhooper
-# 备注: new version
-# sha256 da717cb92677be54536baea23d44dca7b4880b7e17c862433f88a534bae66983  bytes 1570
+# revid 25349  2026-11-24T11:51:38Z  by Darkhooper
+# 备注: next version
+# sha256 cd3fec5d29fee71554cd78161ebb7d8c3021e89ea7f4d55338da761971c4b6bb  bytes 1580
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Infobox Version
@@ -10,7 +10,7 @@
 | previous_major_version=[[0.19.0]]
 | previous_minor_version=[[0.19.0.2]]
 | next_minor_version=
-| next_major_version=
+| next_major_version=[[0.20.0]]
 }}'''0.19.1.0''' is a minor update released on 7 October 2026.<ref>[https://www.kineticgames.co.uk/news/phasmophobia-v01910-patch-notes ''Phasmophobia v0.19.1.0 - Patch Notes''. 7 October 2026.]</ref> It brings back the Crimson Eye event.
 
 ==Additions==

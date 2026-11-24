@@ -1,6 +1,6 @@
 # Options
-# revid 24665  2026-09-14T20:41:20Z  by Darkhooper
-# sha256 daab05d48271756e2913ba1ab2aebcf19f0fa1571923103badb1d4c9910d658c  bytes 6854
+# revid 25353  2026-11-24T14:56:29Z  by Darkhooper
+# sha256 84ce63c0a75f0509498c5c19bd6d691973a64a6a7684e78c2f7fd84fb278e737  bytes 7077
 # 源: https://phasmophobia.fandom.com/api.php
 
 Users can change several '''options''' in-game.
@@ -12,7 +12,7 @@ Users can change several '''options''' in-game.
 !Default
 |-
 |Text
-|Sets the game language for most interfaces.<br>Supported languages: English, Brazilian Portuguese, Spanish, Portuguese, German, French, Italian, Czech, Polish, Russian, Japanese, Korean, Turkish, Simplified Chinese, Traditional Chinese, Dutch, Greek, Norwegian, Romanian, Swedish, Ukranian, Bulgarian, Danish, Finnish, Hungarian, Arabic, Catalan
+|Sets the game language for most interfaces.<br>Supported languages: English, Brazilian Portuguese, Spanish, Portuguese, German, French, Italian, Czech, Polish, Russian, Japanese, Korean, Turkish, Simplified Chinese, Traditional Chinese, Dutch, Greek, Norwegian, Romanian, Swedish, Ukranian, Bulgarian, Finnish, Hungarian, Danish, Arabic, Catalan, Latin Spanish
 |English
 |-
 |Voice
@@ -85,7 +85,7 @@ Users can change several '''options''' in-game.
 |Adjusts the visibility of the highlight cursor.
 |100%
 |-
-|Cursor color
+|Reticle Color
 |Sets the cursor's color.
 |
 |-
@@ -113,7 +113,7 @@ Users can change several '''options''' in-game.
 |Uses alternative ports which may resolve some connection issues.
 |Off
 |-
-|Reset save file
+|Delete Save
 |Resets all in-game player data, including levels, money, equipment, statistics, collectables, and trophies, except one-off trophies (e.g. Easter event trophy).
 |N/A
 |}
@@ -183,6 +183,10 @@ Users can change several '''options''' in-game.
 !Description
 !Default
 |-
+|Quality Preset
+|Loads a preset of video settings.
+|Custom
+|-
 |Brightness
 |Sets the brightness and contrast of the UI and objects.
 |100%
@@ -190,6 +194,10 @@ Users can change several '''options''' in-game.
 |Fullscreen Mode
 |Sets the game to fullscreen.<br>Doesn't show in VR.
 |Fullscreen
+|-
+|Color Blind Mode
+|Sets a filter for color blindness.
+|Off
 |-
 |VSync
 |Limits the game's framerate to the computer refresh rate.<br>Doesn't show in VR.
@@ -211,8 +219,12 @@ Users can change several '''options''' in-game.
 |Sets the quality of the MSAA.<br>Only shows when MSAA is selected for Anti-Aliasing.
 |Off
 |-
-|FidelityFX Super Resolution 1.0
-|Renders the game at a lower resolution, then uses artificial intelligence to upscale it to a higher resolution, improving performance at the expense of quality. May not work for older graphics cards.
+|TAA Quality
+|Sets the quality of the TAA.<br>Only shows when TAA is selected for Anti-Aliasing.
+|Very Low
+|-
+|Upscaling Mode
+|Enables an upscale rendering from a lower resolution to improve performance at the expense of quality.
 |Off
 |-
 |Override Sharpness
@@ -227,7 +239,7 @@ Users can change several '''options''' in-game.
 |Sets the quality of object textures.
 |Full
 |-
-|Skylight
+|Sky Light
 |Whether the sun and moon casts light on objects.
 |On
 |-
@@ -264,8 +276,12 @@ Users can change several '''options''' in-game.
 |On
 |-
 |Eye Adaption
-|Simulates the eyes adjusting to light or dark areas over time.<br>Doesn't show in VR.
-|Off
+|Simulates the eyes adjusting to light or dark areas over time.
+|''Depends on device capabilities''
+|-
+|Live Camera Feed
+|Enables the live video feed on photo and video cameras.
+|On
 |-
 |Screen Space Illumination
 |Simulates bounced lighting, making lighting and shadows look less dark.<br>Doesn't show in VR.

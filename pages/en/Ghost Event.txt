@@ -1,7 +1,7 @@
 # Ghost Event
-# revid 25149  2026-10-26T02:08:42Z  by Darkhooper
-# 备注: host/non-host issue
-# sha256 60ecd55f2d5dedb1e9ed360a7bc98e7ee0091b3fbcf56b898640b605d330bc9c  bytes 12129
+# revid 25363  2026-11-24T17:10:42Z  by CrashCoaster
+# 备注: /* Appear */
+# sha256 84677cac8a2e57f8ea9c314fc3b3a006de20c938a8442ac1dd805ddd30383be7  bytes 11838
 # 源: https://phasmophobia.fandom.com/api.php
 
 A '''ghost event''' is a manifestation of the [[ghost]] in the mortal world other than a [[hunt]] and which does not directly interact with the environment (unlike an [[interaction]]). Ghost events vary from full on physical apparitions to mere balls of smoke and usually produce sound (hissing, moaning, chanting etc.) perceivable without the use of specialized [[equipment]].
@@ -69,8 +69,6 @@ All doors in the room where the event started will close (including exit doors, 
 A variant of the chasing event with a maximum duration of 3 seconds where the ghost does not produce vocalisations and where doors will not close. The target player for this event will be a random player among the ones in the same room as the ghost, which means the event fails to start if there are no players in the same room as the ghost. This event also cannot start if the room has no main lights, and cannot be triggered by ''The Devil'' [[Tarot Cards|tarot card]].
 
 This event will end prematurely if a light is turned on in the room the event started in or if all players leave the room the event started in.<ref>[https://youtu.be/kFDBL70QiUo An appear event test (on YouTube). 30 April 2024.]</ref>
-
-This event is bugged since [[0.10.0]]; instead of ending prematurely if all players leave the room, the event will end if a player is in the same room as the ghost, making the ghost visible for a single frame unless the player manages to leave the room before the ghost performs the check.
 
 ====Mist Form====
 All lights in the target player's room will turn off and a small white cloud will appear and begin floating toward the player. If after 2 seconds the cloud reaches the player, it will disappear and cause a sharp hissing sound, in which the pitch and duration is always the same. If the player keeps their distance from the cloud, it will eventually vanish without hissing (or draining any sanity) after 5 to 10 seconds.

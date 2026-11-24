@@ -1,6 +1,7 @@
 # Planned updates and features
-# revid 25308  2026-11-17T18:10:00Z  by Darkhooper
-# sha256 6dfc0c378fc32cf1924d16b1b4df4bc81d9e13bd03f10ecc6818197bbdb2959e  bytes 3366
+# revid 25355  2026-11-24T15:36:23Z  by Darkhooper
+# 备注: Resonance has been released
+# sha256 d1fa939153e0cdaeefa5e1e49b94380bcaaabc1a50d0d8c3fe4c3a5611816d82  bytes 2508
 # 源: https://phasmophobia.fandom.com/api.php
 
 [[File:PhasmophobiaRoadmap2026-2.jpg|thumb|The updated 2026 ''Phasmophobia'' roadmap.]]
@@ -10,15 +11,6 @@ A more extensive list of planned updates and features can be found on the [https
 
 ==Future updates==
 ===2026===
-====Resonance Update====
-Planned for 24 November 2026<ref>https://www.kineticgames.co.uk/news/resonance-releasedate</ref>, this update will upgrade the game's engine to Unity 6, which comes with a new lighting system, and will rework the networking backend to support quality of life features such as rejoining games after disconnecting and a cross-platform friends list. Color blind accessibility options will also be implemented.
-
-A new equipment will be added to the game: the '''Dowsing Rods'''. This new equipment will help players locate the [[bone]].
-
-[[Sound Sensor]]s will be improved to be more useful.
-
-New voice recognition features will be added and changes to the [[Challenge Mode|weekly challenges]] will be made. These were originally part of a Content Update that has since been merged with the Unity 6 Update to form the Resonance Update.
-
 ====Player Character Visual Update====
 Planned for November 2026, this update aims to improve the character models and provide additional [[Cosmetics|cosmetic]] options to further personalize the characters. The [[shop]] UI will also be improved.
 

@@ -1,7 +1,7 @@
 # Monkey Paw
-# revid 25152  2026-10-26T03:23:49Z  by Darkhooper
-# 备注: using the trap wish during a hunt also reduces the number of wishes by one
-# sha256 c263a5f0dd3881244be38286c9e6a53e2872401f0bab6e473c6bf33383b515bc  bytes 10608
+# revid 25358  2026-11-24T15:46:51Z  by Darkhooper
+# 备注: I wish for sanity & Goryo
+# sha256 5c64b884fc384a15fb3ce645b623f572a034b1d095f9d77cfed7becf381e918d  bytes 10573
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Item_Template
@@ -56,7 +56,7 @@ Most wishes can be found on tags scattered in [[Sunny Meadows]], these tags look
 |
 *I wish for sanity
 *I wish to be sane
-|Sets every player to 50% [[sanity]]. Passive sanity drain will be multiplied by 1.5 for the rest of the contract, and the ghost's favorite room will be set to a new random room (overriding a [[Goryo]]'s inability to change favorite rooms).
+|Sets every player to 50% [[sanity]]. Passive sanity drain will be multiplied by 1.5 for the rest of the contract, and the ghost's favorite room will be set to a new random room (except for the [[Goryo]]).
 |Kitchen 
 |-
 |

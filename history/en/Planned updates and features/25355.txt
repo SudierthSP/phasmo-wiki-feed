@@ -1,0 +1,46 @@
+# Planned updates and features
+# revid 25355  2026-11-24T15:36:23Z  by Darkhooper
+# 备注: Resonance has been released
+# sha256 d1fa939153e0cdaeefa5e1e49b94380bcaaabc1a50d0d8c3fe4c3a5611816d82  bytes 2508
+# 源: https://phasmophobia.fandom.com/api.php
+
+[[File:PhasmophobiaRoadmap2026-2.jpg|thumb|The updated 2026 ''Phasmophobia'' roadmap.]]
+This page lists '''planned updates and features''' to the game that have been announced or shown in development previews.
+
+A more extensive list of planned updates and features can be found on the [https://trello.com/b/9QrnqQ1j/phasmophobia Trello page].
+
+==Future updates==
+===2026===
+====Player Character Visual Update====
+Planned for November 2026, this update aims to improve the character models and provide additional [[Cosmetics|cosmetic]] options to further personalize the characters. The [[shop]] UI will also be improved.
+
+====Edgefield Rework====
+Planned for December 2026, this update will bring a reworked [[42 Edgefield Road]].
+
+===2027===
+====Phasmophobia 1.0====
+Expected for release in the second half of 2027, the Phasmophobia 1.0 update, originally called the Horror 2.0 update, is planned to be the full release of the game and the end of its early access. It will mainly focus on existing mechanics related to the [[ghost]] such as [[hunt]]s, [[ghost event]]s, [[interaction]]s, and will update the game's lore.
+
+The [[Ghost Model|ghost models]] will be reduced to a number of 6, and each of them will have a paired new item called a Conduit which replaces the [[bone]] as a collectable during each contract. The Conduit is described as an item that ties a ghost to the living world, preventing them from moving on.
+
+This update will release along the Nintendo Switch 2 port which has been announced at The Game Awards 2025.
+
+==Planned features==
+===Progression===
+More adjustments to the progression rate and to the [[equipment]] tiers are planned:<ref>https://store.steampowered.com/news/app/739630/view/3994197038593052265</ref>
+*The cost for some upgrades will be increased.
+*For each new prestige, players will be able to choose either a sum of extra starting money, or a small XP boost.
+*The T3 [[Motion Sensor]] will have its icon in the truck changed.
+*The photo-taking speed of the T2 [[Photo Camera]] will be increased.
+
+===Maps===
+A new map is planned for 2027 while [[10 Ridgeview Court]] will get a rework. The [[Site Map]] for each of these maps will also be changed to match the style of that with newer maps (post-0.3).
+
+===Miscellaneous===
+*Keyboard, mouse, and additional language support for consoles.
+
+== References ==
+{{Reflist}}
+[[Category:Development]]
+[[fr:Mises à jour et fonctionnalités prévues]]
+[[ru:Планируемые функции и нововведения]]

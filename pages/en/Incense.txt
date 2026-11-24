@@ -1,7 +1,6 @@
 # Incense
-# revid 25146  2026-10-24T17:41:09Z  by Darkhooper
-# 备注: host/non-host issue
-# sha256 d3a25d9c1437d7790ffbbe62dd488b7b4e319facd317b5b744c06b6e459b2d2c  bytes 11564
+# revid 25368  2026-11-24T17:35:54Z  by Darkhooper
+# sha256 71776c300c2c277e5fb45625681c5d8625f3a9d81370e3fee1b45a75639c476e  bytes 11561
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -21,7 +20,7 @@
  | tier i purpose=You can light Incense with any Igniter to stop a ghost from initiating a hunt for a long duration, additionally, you can use it during a hunt when near a ghost to disorient it for a few seconds.
  | tier i ability=<span style="color: #008000;">Range (m): 3<br>Duration (s): 5<br>Blinds ghost during hunt (s): 5</span><br><span style="color: #ff0000;">Consumable</span>
  | tier ii description=A large bundle of white sage, tied neatly with string for a compact and efficient burn when lit. It has a sweet bitter aroma.
- | tier ii purpose=Much more sage has been used to create this incense bundle, allowing for a longer burn time, keeping you safer for longer during attacks.<br>Additionally, it will slow the movement of the ghost for part its effect duration.
+ | tier ii purpose=Much more sage has been used to create this incense bundle, allowing for a longer burn time, keeping you safer for longer during attacks. Additionally, it will slow the movement of the ghost for part its effect duration.
  | tier ii ability=<span style="color: #008000;">Range (m): 4<br>Duration (s): 6<br>Blinds ghost during hunt (s): 5<br>Slows ghost during hunts (s): 5</span><br><span style="color: #ff0000;">Consumable</span>
  | tier iii description=A holy incense burner filled with a custom mixture designed specifically to ward off paranormal entities. Swinging this when lit will emit a large quantity of deterring smoke.
  | tier iii purpose=With a much larger range and longer burn time, you can ward off ghosts much more safely when attacked. When the ghost is initially repelled it will be stunned, halting it’s<!--sic--> movement for a short period.

@@ -1,7 +1,6 @@
 # Video Camera
-# revid 25199  2026-11-05T13:11:22Z  by Darkhooper
-# 备注: added Rewards section
-# sha256 fd6e205bef972a6117ab11b061f8c1088ddd2565347264c9b32af2675e86560a  bytes 7647
+# revid 25366  2026-11-24T17:32:32Z  by Darkhooper
+# sha256 39a08949c34a666b5e007399056faecb39eb018c14809846f45addd79dc93471  bytes 7907
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -18,13 +17,13 @@
  | tier iii level=49
 
  | tier i description=We found a bunch of these old camcorders in a box in the old office, hopefully they do the job well enough.
- | tier i purpose=This vintage camcorder may be old, but it’s perfect for hunting down Ghost Orbs.<br>Grab one and enter the location and start searching for a small spot of light dancing around in the room. Make sure to turn on your night vision first!
+ | tier i purpose=This vintage camcorder may be old, but it’s perfect for hunting down Ghost Orbs.<br>Grab one and enter the location and start searching for a small spot of light dancing around in the room. Make sure to turn on your night vision first!<br><br>Your Video Camera will turn on as soon as you exit the Truck, then Hold Use to take a video recording!
  | tier i ability=<span style="color: #008000;">Image Quality: Low<br>Paranormal Resistance: Low<br>Night Vision</span><br><span style="color: #ff0000;">Electronic</span>
  | tier ii description=Parasonic released this video camera in hopes of replacing every Bony camcorder, it seems to have worked, mostly.
- | tier ii purpose=A video camera with a higher quality screen, better night vision, and more resistance against paranormal interference. It should make finding those sneaky Ghost Orbs just that little bit easier.
+ | tier ii purpose=A video camera with a higher quality screen, better night vision, and more resistance against paranormal interference. It should make finding those sneaky Ghost Orbs just that little bit easier.<br><br>Tier bonus for video Evidence captured with Tier 2 Video Camera: $1
  | tier ii ability=<span style="color: #008000;">Image Quality: Medium<br>Paranormal Resistance: Medium<br>Night Vision</span><br><span style="color: #ff0000;">Electronic</span>
  | tier iii description=Bony are back with a state-of-the-art camera, modified solely for ghost hunters. It would also make for a great movie camera.
- | tier iii purpose=A large cinema-grade video camera, it’s shoulder-mounted and heavy, but worth it for the additional visibility.
+ | tier iii purpose=A large cinema-grade video camera, it’s shoulder-mounted and heavy, but worth it for the additional visibility.<br><br>Tier bonus for video Evidence captured with Tier 3 Video Camera: $2
  | tier iii ability=<span style="color: #008000;">Image Quality: High<br>Paranormal Resistance: High<br>Night Vision</span><br><span style="color: #ff0000;">Electronic</span>}}
 
 The '''video camera''' is a piece of electronic [[Equipment#Starter Equipment|Starter Equipment]] used to detect [[Ghost Orb]]s and to record videos.

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-23T11:48:06.812Z",
+  "generated": "2026-11-24T18:36:27.061Z",
   "counts": {
-    "en": 322,
+    "en": 324,
     "zh": 284
   },
   "langs": {
@@ -107,15 +107,15 @@
       {
         "t": "Equipment",
         "f": "pages/en/Equipment.txt",
-        "b": 9510,
-        "r": 24244,
+        "b": 9655,
+        "r": 25361,
         "x": "[[File:Equipment.png|thumb|300x300px|A set of equipment on the wall in the [[truck]]]] '''Equipment''' in ''[[Phasmophobia]]'' is used to determine the type of [[ghost]] inhabiting a location, or to complete optional [[o"
       },
       {
         "t": "Incense",
         "f": "pages/en/Incense.txt",
-        "b": 11790,
-        "r": 25146,
+        "b": 11757,
+        "r": 25368,
         "x": "{{Equipment Template | tier i img=Incense090_T1.png | tier ii img=Incense090_T2.png | tier iii img=Incense090_T3.png | price=$15 | maxamount=4 | uses=1 | starter=No | tier i level=14 | tier ii level=37 | tier iii level=8"
       },
       {
@@ -170,8 +170,8 @@
       {
         "t": "Photo Camera",
         "f": "pages/en/Photo Camera.txt",
-        "b": 6779,
-        "r": 25202,
+        "b": 6853,
+        "r": 25370,
         "x": "{{Equipment Template | tier i img=PhotoCamera090_T1.png | tier ii img=PhotoCamera090_T2.png | tier iii img=PhotoCamera090_T3.png | price=$40 | maxamount=3 | uses= | starter=No | tier i level=2 | tier ii level=23 | tier i"
       },
       {
@@ -205,8 +205,8 @@
       {
         "t": "Poltergeist",
         "f": "pages/en/Poltergeist.txt",
-        "b": 8274,
-        "r": 25343,
+        "b": 7845,
+        "r": 25357,
         "x": "{{Ghost |image1=Poltergeist Discovered.jpg |strength=*Sanity decrease stacks up during multithrow interactions |abiliti(es)=*Can throw multiple objects at once *Can throw a single object farther with great force |weaknes"
       },
       {
@@ -247,8 +247,8 @@
       {
         "t": "Yurei",
         "f": "pages/en/Yurei.txt",
-        "b": 8254,
-        "r": 25282,
+        "b": 8188,
+        "r": 25365,
         "x": "{{Ghost |image1=Yurei Discovered.jpg |abiliti(es)=*May randomly shut a door and deduct nearby players' sanity |weakness(es)=*Will be temporarily confined to its room after smudging |Evidence1=[[File:DOTS_projector_sprite"
       },
       {
@@ -296,15 +296,15 @@
       {
         "t": "Parabolic Microphone",
         "f": "pages/en/Parabolic Microphone.txt",
-        "b": 8084,
-        "r": 23265,
+        "b": 8021,
+        "r": 25369,
         "x": "{{Equipment Template | tier i img=Parabolic090_T1.png | tier ii img=Parabolic090_T2.png | tier iii img=Parabolic090_T3.png | price=$50 | maxamount=2 | uses= | starter=No | tier i level=5 | tier ii level=32 | tier iii lev"
       },
       {
         "t": "Igniter",
         "f": "pages/en/Igniter.txt",
-        "b": 5523,
-        "r": 22579,
+        "b": 5522,
+        "r": 25367,
         "x": "{{Equipment Template | tier i img=Igniter090_T1.png | tier ii img=Igniter090_T2.png | tier iii img=Igniter090_T3.png | price=$10 | maxamount=4 | uses=Depends | starter=No | tier i level=12 | tier ii level=37 | tier iii l"
       },
       {
@@ -317,15 +317,15 @@
       {
         "t": "Sound Sensor",
         "f": "pages/en/Sound Sensor.txt",
-        "b": 5434,
-        "r": 21403,
+        "b": 6147,
+        "r": 25372,
         "x": "{{Equipment Template | tier i img=SoundSensor090_T1.png | tier ii img=SoundSensor090_T2.png | tier iii img=SoundSensor090_T3.png | price=$80 | maxamount=4 | uses=Reusable | starter=No | tier i level=10 | tier ii level=32"
       },
       {
         "t": "Video Camera",
         "f": "pages/en/Video Camera.txt",
-        "b": 7879,
-        "r": 25199,
+        "b": 8107,
+        "r": 25366,
         "x": "{{Equipment Template | tier i img=VideoCamera090_T1.png | tier ii img=VideoCamera090_T2.png | tier iii img=VideoCamera090_T3.png | price=$50 | maxamount=4 | uses= | starter=Yes | tier i level= | tier ii level=27 | tier i"
       },
       {
@@ -471,8 +471,8 @@
       {
         "t": "Ghost Event",
         "f": "pages/en/Ghost Event.txt",
-        "b": 12359,
-        "r": 25149,
+        "b": 12063,
+        "r": 25363,
         "x": "A '''ghost event''' is a manifestation of the [[ghost]] in the mortal world other than a [[hunt]] and which does not directly interact with the environment (unlike an [[interaction]]). Ghost events vary from full on phys"
       },
       {
@@ -506,8 +506,8 @@
       {
         "t": "Journal",
         "f": "pages/en/Journal.txt",
-        "b": 5019,
-        "r": 25203,
+        "b": 5099,
+        "r": 25356,
         "x": "[[File:Journal.png|right|frameless|300x300px]] The '''Journal''' is the main piece of equipment in ''[[Phasmophobia]]''. It contains important information relevant to Ghosts, Evidence, Media and mission data. It is divid"
       },
       {
@@ -688,8 +688,8 @@
       {
         "t": "Goryo",
         "f": "pages/en/Goryo.txt",
-        "b": 7355,
-        "r": 25248,
+        "b": 7647,
+        "r": 25359,
         "x": "{{Ghost |image1=Goryo Discovered.jpg |strength=*Shows itself in [[D.O.T.S. Projector (Evidence)|D.O.T.S.]] only on [[Video Camera|video cameras]] and when no players are nearby |weakness(es)=*Less likely to roam *Cannot "
       },
       {
@@ -968,15 +968,15 @@
       {
         "t": "Experience",
         "f": "pages/en/Experience.txt",
-        "b": 8856,
-        "r": 23866,
+        "b": 8867,
+        "r": 25360,
         "x": "'''Experience''' (or '''XP''') in ''Phasmophobia'' is used to unlock various [[equipment]] and [[difficulty|difficulties]]. ==Mechanics== Each player starts off at level 1 with 0 XP, and earns XP through finishing [[cont"
       },
       {
         "t": "Planned updates and features",
         "f": "pages/en/Planned updates and features.txt",
-        "b": 3582,
-        "r": 25308,
+        "b": 2762,
+        "r": 25355,
         "x": "[[File:PhasmophobiaRoadmap2026-2.jpg|thumb|The updated 2026 ''Phasmophobia'' roadmap.]] This page lists '''planned updates and features''' to the game that have been announced or shown in development previews. A more ext"
       },
       {
@@ -1283,8 +1283,8 @@
       {
         "t": "Options",
         "f": "pages/en/Options.txt",
-        "b": 7049,
-        "r": 24665,
+        "b": 7272,
+        "r": 25353,
         "x": "Users can change several '''options''' in-game. == Game == {| class=\"fandom-table\" !Option !Description !Default |- |Text |Sets the game language for most interfaces.<br>Supported languages: English, Brazilian Portuguese"
       },
       {
@@ -1479,8 +1479,8 @@
       {
         "t": "Monkey Paw",
         "f": "pages/en/Monkey Paw.txt",
-        "b": 10892,
-        "r": 25152,
+        "b": 10808,
+        "r": 25358,
         "x": "{{Item_Template |img=Monkey Paw.png |imgcaption= |uses=3-5 (difficulty dependent) |description= }}{{Quote|speaker=Objective Board|quote=My wish came true, but at what cost?}} The '''Monkey Paw''' is a [[Cursed Possession"
       },
       {
@@ -1948,8 +1948,8 @@
       {
         "t": "Sound Recorder",
         "f": "pages/en/Sound Recorder.txt",
-        "b": 5466,
-        "r": 25200,
+        "b": 5679,
+        "r": 25371,
         "x": "{{Equipment Template | tier i img=SoundRecorder_T1.png | tier ii img=SoundRecorder_T2.png | tier iii img=SoundRecorder_T3.png | price=$30 | maxamount=2 | uses= | starter=No | tier i level=4 | tier ii level=39 | tier iii "
       },
       {
@@ -2235,30 +2235,44 @@
       {
         "t": "0.19.0",
         "f": "pages/en/0.19.0.txt",
-        "b": 13671,
-        "r": 24620,
+        "b": 13681,
+        "r": 25346,
         "x": "{{Infobox Version | image1=0.19.0.png | official_name=Quality of Life Update Part 2 | release_date=24 August 2026 (Official Partners early access)<br>25 August 2026 (public release) | previous_major_version=[[0.18.0]] | "
       },
       {
         "t": "0.19.0.1",
         "f": "pages/en/0.19.0.1.txt",
-        "b": 6329,
-        "r": 24695,
-        "x": "{{Infobox Version | release_date=10 September 2026 | previous_major_version=[[0.19.0]] | previous_minor_version= | next_minor_version=[[0.19.0.2]] | next_major_version= }}'''0.19.0.1''' is a minor update released on 10 S"
+        "b": 6339,
+        "r": 25347,
+        "x": "{{Infobox Version | release_date=10 September 2026 | previous_major_version=[[0.19.0]] | previous_minor_version= | next_minor_version=[[0.19.0.2]] | next_major_version=[[0.20.0]] }}'''0.19.0.1''' is a minor update releas"
       },
       {
         "t": "0.19.0.2",
         "f": "pages/en/0.19.0.2.txt",
-        "b": 1025,
-        "r": 25059,
-        "x": "{{Infobox Version | release_date=16 September 2026 | previous_major_version=[[0.19.0]] | previous_minor_version=[[0.19.0.1]] | next_minor_version=[[0.19.1.0]] | next_major_version= }}'''0.19.0.2''' is a minor update rele"
+        "b": 1035,
+        "r": 25348,
+        "x": "{{Infobox Version | release_date=16 September 2026 | previous_major_version=[[0.19.0]] | previous_minor_version=[[0.19.0.1]] | next_minor_version=[[0.19.1.0]] | next_major_version=[[0.20.0]] }}'''0.19.0.2''' is a minor u"
       },
       {
         "t": "0.19.1.0",
         "f": "pages/en/0.19.1.0.txt",
-        "b": 1788,
-        "r": 25062,
-        "x": "{{Infobox Version | image1=0.19.1.0.png | release_date=7 October 2026 | previous_major_version=[[0.19.0]] | previous_minor_version=[[0.19.0.2]] | next_minor_version= | next_major_version= }}'''0.19.1.0''' is a minor upda"
+        "b": 1799,
+        "r": 25349,
+        "x": "{{Infobox Version | image1=0.19.1.0.png | release_date=7 October 2026 | previous_major_version=[[0.19.0]] | previous_minor_version=[[0.19.0.2]] | next_minor_version= | next_major_version=[[0.20.0]] }}'''0.19.1.0''' is a "
+      },
+      {
+        "t": "0.20.0",
+        "f": "pages/en/0.20.0.txt",
+        "b": 24669,
+        "r": 25350,
+        "x": "{{Infobox Version | image1=0.20.0.png | official_name=Resonance | release_date=23 November 2026 (Official Partners early access)<br>24 November 2026 (public release) | previous_major_version=[[0.19.0]] | previous_minor_v"
+      },
+      {
+        "t": "Dowsing Rods",
+        "f": "pages/en/Dowsing Rods.txt",
+        "b": 2855,
+        "r": 25373,
+        "x": "{{MessageBox|text='''This page is under construction.'''}} {{Equipment Template | tier i img=DowsingRods_T1.png | tier ii img=DowsingRods_T2.png | tier iii img=DowsingRods_T3.png | price=$60 | maxamount=2 | uses= | start"
       }
     ],
     "zh": [

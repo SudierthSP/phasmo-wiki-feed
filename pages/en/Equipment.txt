@@ -1,7 +1,7 @@
 # Equipment
-# revid 24244  2026-07-24T04:34:47Z  by VVSlavik
-# 备注: Added the corresponding Russian interlanguage link
-# sha256 f3e3ccc6aff37b244846f5709c49fd8a6fbcba1b044b863028b59595c46affc9  bytes 9254
+# revid 25361  2026-11-24T16:06:15Z  by Darkhooper
+# 备注: added Dowsing Rods
+# sha256 325ddd579cd59312811964dfce4de62dd6344d6c0c432ed9b8a5be2d662decba  bytes 9429
 # 源: https://phasmophobia.fandom.com/api.php
 
 [[File:Equipment.png|thumb|300x300px|A set of equipment on the wall in the [[truck]]]]
@@ -82,6 +82,11 @@ This equipment must be purchased in the game's shop and will not be given by def
 |$30
 |2
 |Prevents ghosts from [[hunt]]ing in a certain radius.
+|-
+|[[Dowsing Rods]]
+|$60
+|2
+|Used to locate the [[bone]].
 |-
 |[[Firelight]]
 |$15
@@ -195,6 +200,15 @@ Equipment located in the [[truck]] is stationary.
 |Level: 7
 |Level: 34<br>Upgrade Cost: 4,000
 |Level: 80<br>Upgrade Cost: 20,000
+|-
+|[[Dowsing Rods]]
+|60
+|No
+|2
+|120
+|Level: 45
+|Level: 60<br>Upgrade Cost: 5,000
+|Level: 75<br>Upgrade Cost: 5,000
 |-
 |[[D.O.T.S. Projector]]
 |65
@@ -396,6 +410,6 @@ The infrared light sensor detected movement from both ghosts and players and wou
 *The motion sensor is the most expensive item in the game with a price of $100. Meanwhile, the igniter is the cheapest with a price of $10.
 
 {{Equipment nav}}
-[[ru:Снаряжение]]
 [[Category:Equipment]]
 [[fr:Équipement]]
+[[ru:Снаряжение]]

@@ -1,7 +1,7 @@
 # Yurei
-# revid 25282  2026-11-07T00:08:23Z  by Darkhooper
-# 备注: Undo revision [[Special:Diff/25278|25278]] by [[Special:Contributions/AuthoritativeWoodpecker620|AuthoritativeWoodpecker620]] ([[User talk:AuthoritativeWoodpecker620|talk]])
-# sha256 a2125cfc650be6ec1b255c353ebeeae15d594bd7b6b7979243d6dda23b9bf11d  bytes 7877
+# revid 25365  2026-11-24T17:13:37Z  by CrashCoaster
+# 备注: /* Hunt */
+# sha256 4a41675245d86051461bffb775249350df8696a12248f720cc3b7a83765e2803  bytes 7972
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -28,6 +28,9 @@ When [[Interaction|interacting]] with a [[door]], the Yurei applies a greater fo
 In practice, this means the Yurei cannot slightly move doors and can only either close them completely, or open them completely.<ref>[https://www.twitch.tv/cjdxn/clip/CaringCreativeFiddleheadsBloodTrail-m5n1N4k4YRxOhyYY cjdxn confirming Yurei can be eliminated if the door moves a little bit (on Twitch). 26 June 2025.]</ref><ref group="note">There is a bug where the Yurei doesn't open/close locker doors completely, as shown in [https://youtu.be/-Hz-xW8W0hU this video].</ref> During hunts, this does not apply and the Yurei can move doors slightly like any other ghost.
 
 Outside of its ability, the Yurei doesn't have an increased chance to interact with doors.<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1203726497509150800 ''"yurei doesn't have increased chance to touch doors..."'' Shuee, Moderator (on Discord). 4 February 2024.]</ref>
+
+=== Hunt ===
+During a [[hunt]], the Yurei will open and close doors faster than other ghosts.
 
 ===Ability===
 When choosing to use its ability, the Yurei will first check if its current room has an opened door. Doors that count for this ability are mostly room doors, as well as [[Exit Door|exit doors]], large tent doors on campsites, Dining Room cabinet doors and Living Room/Games Room fireplace doors on [[Point Hope]], and washing machine doors and Morgue doors on [[Sunny Meadows Mental Institution|Sunny Meadows]]. Hiding spot doors, however, do not count.<ref group="note">Due to bugs, some doors are not "linked" to certain rooms even if they are connecting, so the Yurei cannot use its ability in rooms without "linked" doors. In general, one can verify which doors are connected to which rooms by using the [[Monkey Paw]]'s trap wish.</ref>

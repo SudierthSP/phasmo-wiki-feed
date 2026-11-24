@@ -1,7 +1,6 @@
 # Photo Camera
-# revid 25202  2026-11-05T13:29:36Z  by Darkhooper
-# 备注: removed a paragraph and clarification on full journal
-# sha256 35cb30e00b3f03cf40231cff55a1890e28bc4a152432178d6d63933c250cbaf4  bytes 6515
+# revid 25370  2026-11-24T17:44:44Z  by Darkhooper
+# sha256 56192f4ffe84fb3c20c3d6b078325fdd7b6acaef97630b7dfcd2a7881fe91633  bytes 6653
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -18,13 +17,13 @@
  | tier iii level=55
 
  | tier i description=An old Polteroid camera, a bit dusty and scratched. You’ll have to wait for the photo to print before taking another one.
- | tier i purpose=You can use this camera to take photos of any evidence you may find. It will only interfere with the ghost during the photo taking process, so be careful when you decide to snap a picture.<br>For more information on how to take photos check the ‘Photos’ section in you Journal.
+ | tier i purpose=You can use this camera to take photos of any Evidence you may find. It will only interfere with the Ghost during the photo taking process, so be careful when you decide to snap a picture.<br><br>Your camera will turn on as soon as you exit the Truck, then Tap Use to take a photo!
  | tier i ability=<span style="color: #008000;">Time Between Photos: 3</span>
  | tier ii description=The Bony GhostShot is a compact, easy-to-use digital camera perfect for those panicked ghost photos in the dark.
- | tier ii purpose=With this digital photo camera, you can snap pictures of evidence and paranormal entities much faster than the previous Tier.
+ | tier ii purpose=With this digital Photo Camera, you can snap pictures of Evidence and paranormal entities much faster than the previous Tier.<br><br>Tier bonus for photo Evidence captured with Tier 2 Camera: $1
  | tier ii ability=<span style="color: #008000;">Paranormal Resistance: Medium<br>Time Between Photos: 2<br>Display Screen</span><br><span style="color: #ff0000;">Electronic</span>
  | tier iii description=One of Bony’s best SLR cameras, complete with a wider lens, higher image quality and quick processing power.
- | tier iii purpose=This top-of-the-range camera provides the lowest delay time between photos, allowing quick evidence gathering.<br>Additionally, it’s been modified to be less susceptible to paranormal entities causing interference with the screen during manifestations.
+ | tier iii purpose=This top-of-the-range camera provides the lowest delay time between photos, allowing quick Evidence gathering.<br>Additionally, it’s been modified to be less susceptible to paranormal entities causing interference with the screen during manifestations.<br><br>Tier bonus for photo Evidence captured with Tier 3 Camera: $2
  | tier iii ability=<span style="color: #008000;">Paranormal Resistance: High<br>Time Between Photos: 1<br>Display Screen</span><br><span style="color: #ff0000;">Electronic</span>
 }}
 The '''photo camera''' is a piece of [[equipment]] in ''Phasmophobia''. It is a digital camera that can be used to take pictures of objects in-game.  While it is not used for gathering [[evidence]], its main use is to gather [[Media#Photo evidence|photo evidence]], as well as being necessary for certain [[objectives]] and [[Daily and Weekly Tasks|tasks]].

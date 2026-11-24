@@ -1,7 +1,7 @@
 # 0.19.0
-# revid 24620  2026-09-10T16:14:34Z  by Darkhooper
+# revid 25346  2026-11-24T11:50:21Z  by Darkhooper
 # 备注: next version
-# sha256 eb88f355f5796174d54219b7244cecb4d889802cbaf3e38dd823aa78cc576c7b  bytes 13453
+# sha256 bc8efb287ba6e0175c824987e735a399b4a317772ccf5a0e83f2649f1413533f  bytes 13463
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Infobox Version
@@ -11,7 +11,7 @@
 | previous_major_version=[[0.18.0]]
 | previous_minor_version=[[0.18.0.1]]
 | next_minor_version=[[0.19.0.1]]
-| next_major_version=
+| next_major_version=[[0.20.0]]
 }}'''0.19.0''', also known as the '''Quality of Life Update Part 2''', is a major update released on 25 August 2026.<ref>[https://www.kineticgames.co.uk/news/phasmophobia-v01900-quality-of-life-part-2 ''Phasmophobia v0.19.0.0 - Quality of Life Part 2''. 25 August 2026.]</ref><ref group="note">Official Kinetic Games Partners were given early access keys on 24 August 2026.</ref> This update brings quality of life improvements.
 
 ==Additions==

@@ -1,7 +1,7 @@
 # Poltergeist
-# revid 25343  2026-11-23T10:23:05Z  by Darkhooper
-# 备注: added Hunt section
-# sha256 75fbf3993b2dc2e118b2ab2747ff506e802a031f0c8435e2d916deafdb4fbb26  bytes 8046
+# revid 25357  2026-11-24T15:43:30Z  by Darkhooper
+# 备注: 0.20 changes
+# sha256 134f973e3137d81fda1d8eb0852b92ee7392c9efa12f60a4b0afaad2bbfdf55f  bytes 7623
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -20,7 +20,7 @@
 
 ==Behaviour==
 ===Activity===
-When interacting with a [[prop]], the Poltergeist has a 20% chance to throw it. If this chance fails or if the prop cannot be thrown, it will enter the [[Ghost Room|favourite room]] state. This means it is unable to ignite [[Fire Source|fire sources]], trigger the [[car]] alarm, teleport [[toy]]s, move [[mannequin]]s, etc.<ref group="note">The Poltergeist also cannot throw the [[Ghost Writing Book]] when the [[Ghost Writing]] evidence is hidden, though this is likely a bug.</ref>
+When [[Interaction|interacting]] with a [[prop]], the Poltergeist first has a 20% chance to throw it, provided the prop can be thrown. This makes it more likely to throw props than other ghosts.
 
 The Poltergeist throws items with a stronger force than with other ghosts:
 {| class="fandom-table"
@@ -71,12 +71,10 @@ These are the strengths and weaknesses as listed in the [[journal]]:
 
 ==Strategies==
 ===Identification===
-Since the Poltergeist can only interact with [[prop]]s by throwing them, witnessing the ghost knocking on a window, triggering a [[car]] alarm, lighting up a [[Fire Source|fire source]], producing [[Dirty Water|dirty water]], turning on a [[radio]], etc., directly eliminates the Poltergeist.
-
 Taking advantage of the Poltergeist's abilities, one can scatter multiple objects around in its room. If one object is seen being flung with force across the room, or multiple objects are thrown at once, then it is probably a Poltergeist. Note that there is some overlap of how hard regular ghosts can throw and how hard a Poltergeist can throw; this trait is harder to discern in small rooms.
 *It is generally better to build multiple small piles spread out rather than one large pile; if the Poltergeist is not near the pile, it will not affect the pile at all.
 
-It's important to be prudent when suspecting a Poltergeist, and not simply immediately guess it from inconclusive behavior; while it is generally active in regards to throwing items, the largely random nature of interactions can cause other ghosts to toss items frequently.
+It is important to be prudent when suspecting a Poltergeist, and not simply immediately guess it from inconclusive behavior; while it is generally active in regards to throwing items, the largely random nature of interactions can cause other ghosts to toss items frequently.
 *Remember to turn ''off'' the lights to increase activity if attempting to identify it from its normal item throws.
 *Conversely, turning on lights may help with noticing its ability, as a Poltergeist can use it to throw items even when lights are on, while other ghosts cannot throw items in lit rooms; noticing items getting thrown in lit rooms, especially multiple at once, is a strong indicator of a Poltergeist. With that being said however, certain factors may cause red herrings when observing for this phenomenon, especially if only one object is affected:
 **Due to the range-based mechanic of ghost interactions, ghosts are technically capable of throwing objects through walls. This means that any ghost in a dark room can throw an item in an adjacent lit room if it is within its interaction range. Players should consider this and verify the ghost's current location before jumping to conclusions.
@@ -117,12 +115,13 @@ The Poltergeist can also be identified during a hunt. By scattering multiple obj
 |-
 ![[0.18.0]]
 |Poltergeists can now only throw when interacting with props.
+|-
+![[0.20.0]]
+|A Poltergeist now has a chance to either throw or interact with objects, rather than only throwing, while still retaining a higher chance to throw objects than other Ghost types.
 |}
 
 ==References==
 {{Reflist}}
-==Notes==
-{{Reflist|group="note"}}
 {{Ghost nav}}
 [[ru:Полтергейст]]
 [[fr:Poltergeist]]

@@ -1,7 +1,6 @@
 # Sound Recorder
-# revid 25200  2026-11-05T13:15:09Z  by Darkhooper
-# 备注: added Rewards section
-# sha256 b4e316596145720b206a5615b1e1c258ea0aca47f7888c7f1e798e2230581ea3  bytes 5232
+# revid 25371  2026-11-24T17:52:55Z  by Darkhooper
+# sha256 39937a08b38a9a4e7c309fc75f16928ee8007da5c4fdf7ced16ebdc95d773360  bytes 5477
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -18,13 +17,13 @@
  | tier iii level=60
 
  | tier i description=Old, banged up and taped together. This old Paracord Sound Recorder has scen much better days, thankfully it still works...
- | tier i purpose=Use this Sound Recorder to find and record paranormal sounds during investigations Successful recordings will reward extra money at the end of a contract. You can even listen back to the recorded sound in the Journal!
+ | tier i purpose=Use this Sound Recorder to find and record paranormal sounds during Investigations. Successful recordings will reward extra money at the end of a Contract. You can even listen back to the recorded sound in the Journal!<br><br>Tap Use to turn on the Sound Recorder, then Hold Use to capture a sound recording.
  | tier i ability=<span style="color: #008000;">Ranges (m): 3</span><br><span style="color: #ff0000;">Electronic</span>
  | tier ii description=Ghost Huntin' Distribution's very own brand of Sound Recorder. It's more efficient than it's predecessor, the digital screen and new interface makes for an easier time hunting those spooky sounds.
- | tier ii purpose=This Sound Recorder has been upgraded with higher accuracy, better range, and a modern interface, It should make tracking down those paranormal sounds easier to find!
+ | tier ii purpose=This Sound Recorder has been upgraded with higher accuracy, better range, and a modern interface. It should make tracking down those paranormal sounds easier to find!<br><br>Tier bonus for sound Evidence captured with Tier 2 Sound Recorder: $1
  | tier ii ability=<span style="color: #008000;">Ranges (m): 5<br>Display Screen</span><br><span style="color: #ff0000;">Electronic</span>
  | tier iii description=BONY's latest in Sound Recording hardware. This device is equipped with several features to make hunting sounds as easy as can be. The dual microphone setup makes for much easier tracking, and quick recordings, even those that are barely audible.
- | tier iii purpose=While activated, this Sound Recorder provides additional information on paranormal sounds. The added directional and range indicators make finding and recording paranormal efficient and satisfying!
+ | tier iii purpose=While activated, this Sound Recorder provides additional information on paranormal sounds. The added directional and range indicators make finding and recording paranormal efficient and satisfying!<br><br>Tier bonus for sound Evidence captured with Tier 3 Sound Recorder: $2
  | tier iii ability=<span style="color: #008000;">Ranges (m): 5<br>Display Screen<br>Distance Indicator<br>Directional Indicator</span><br><span style="color: #ff0000;">Electronic</span>}}
 The '''sound recorder''' is a device used to record [[Media#Sound evidence|sound evidence]].
 

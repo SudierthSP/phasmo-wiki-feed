@@ -1,7 +1,6 @@
 # Journal
-# revid 25203  2026-11-05T13:33:10Z  by Darkhooper
-# 备注: removed number of media deletions as the info is now on the Media page.
-# sha256 cd15f530e3b05bfcc6be701c3727a6a4670711ac36fe08793486c102e2e4a09a  bytes 4742
+# revid 25356  2026-11-24T15:41:25Z  by Darkhooper
+# sha256 560e808de658c1d566f540895582a9769f13ddde6816f4ea4d5b89d86f7a9916  bytes 4904
 # 源: https://phasmophobia.fandom.com/api.php
 
 [[File:Journal.png|right|frameless|300x300px]]
@@ -27,7 +26,7 @@ This allows players to check objectives and case information on-the-go without n
 
 ===Media===
 {{See also|Media}}
-This section is a 5-page section containing all of the photos, videos, and sounds that players have collected on a case.
+This section contains all of the photos, videos, and sounds that players have collected on a case, as well as a list of recognized phrases that can prompt a ghost into performing specific interactions.
 
 ===Evidence===
 {{See also|Evidence}}
@@ -98,6 +97,9 @@ This shows various statistics of all previous games since [[0.7.0]].
 |The Keys section in the Journal has been replaced with Items We’ve Found, this new section will show keys, the bone and seasonal event collectables.
 |-
 |The Evidence page will now highlight the required Ghost evidence when the player selects a Ghost type.
+|-
+![[0.20.0]]
+|Added a page listing phrases that prompt a reaction from ghosts.
 |}
 [[Category:Gameplay]]
 [[fr:Journal]]
