@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-25T11:56:22.897Z",
+  "generated": "2026-11-25T20:59:44.906Z",
   "counts": {
     "en": 324,
-    "zh": 286
+    "zh": 288
   },
   "langs": {
     "en": [
@@ -142,8 +142,8 @@
       {
         "t": "Ghost",
         "f": "pages/en/Ghost.txt",
-        "b": 25626,
-        "r": 24859,
+        "b": 25456,
+        "r": 25391,
         "x": "[[File:2.png|alt=|right|310x310px]] '''Ghosts''' are the main focus of ''Phasmophobia''. Each ghost has a set of unique characteristics, including personal identifiers, abilities, and [[evidence]]s. Players must investig"
       },
       {
@@ -191,8 +191,8 @@
       {
         "t": "Objectives",
         "f": "pages/en/Objectives.txt",
-        "b": 10045,
-        "r": 25178,
+        "b": 9987,
+        "r": 25392,
         "x": "Players are assigned (optional) '''objectives''' during their investigations. Each [[contract]] has 4 objectives, one of which is always \"Find the correct ghost type\", and the other three are randomly chosen. Objectives "
       },
       {
@@ -471,8 +471,8 @@
       {
         "t": "Ghost Event",
         "f": "pages/en/Ghost Event.txt",
-        "b": 12195,
-        "r": 25379,
+        "b": 11978,
+        "r": 25389,
         "x": "A '''ghost event''' is a manifestation of the [[ghost]] in the mortal world other than a [[hunt]] and which does not directly interact with the environment (unlike an [[interaction]]). Ghost events vary from full on phys"
       },
       {
@@ -1080,8 +1080,8 @@
       {
         "t": "Voice chat",
         "f": "pages/en/Voice chat.txt",
-        "b": 8045,
-        "r": 25116,
+        "b": 7091,
+        "r": 25394,
         "x": "'''Voice chat''' is the primary mode of communication in ''Phasmophobia''. ==Player chat== Voice chat is used to communicate between players. ''Phasmophobia'' uses the Vivox voice chat system. [[Death|Dead]] players can "
       },
       {
@@ -1766,9 +1766,9 @@
       {
         "t": "Controls",
         "f": "pages/en/Controls.txt",
-        "b": 3762,
-        "r": 24250,
-        "x": "{{Stub|You can help us by=adding controls for VR headsets with unique controllers}} This page lists the default controls in ''[[Phasmophobia]]''. They can be modified in the [[Options]] menu. ==Controls== {| class=\"fando"
+        "b": 3779,
+        "r": 25387,
+        "x": "This page lists the default controls in ''[[Phasmophobia]]''. They can be modified in the [[Options]] menu. ==Controls== {| class=\"fandom-table\" style=\"text-align:center\" !'''Usage''' !'''Input (Keyboard/Mouse)''' !'''In"
       },
       {
         "t": "0.10.0",
@@ -2102,8 +2102,8 @@
       {
         "t": "Activity",
         "f": "pages/en/Activity.txt",
-        "b": 3606,
-        "r": 25118,
+        "b": 3339,
+        "r": 25390,
         "x": "'''Activity''' is a mechanic affecting how the [[ghost]] will interact with its environment, making it [[Interaction|move objects]], [[Roaming|roam]], use abilities, etc. ==Mechanics== ===Activity calculation=== By defau"
       },
       {
@@ -4272,10 +4272,24 @@
         "x": "{{Infobox Version | image1=0.19.1.0.png | release_date=2026年10月7日 | previous_major_version=[[0.19.0]] | previous_minor_version=[[0.19.0.2]] | next_minor_version= | next_major_version= }}'''0.19.1.0''' 是2026年10月7日发布的小型更新。"
       },
       {
-        "t": "探测杖",
-        "f": "pages/zh/探测杖.txt",
-        "b": 3252,
-        "r": 4319,
+        "t": "0.20.0",
+        "f": "pages/zh/0.20.0.txt",
+        "b": 17658,
+        "r": 4327,
+        "x": "{{Infobox Version | image1=0.20.0.png | official_name=共鸣 | release_date=2026年11月23日（官方合作伙伴抢先体验）<br>2026年11月24日（公开发布） | previous_major_version=[[0.19.0]] | previous_minor_version=[[0.19.1.0]] | next_minor_version= | next_"
+      },
+      {
+        "t": "术语库",
+        "f": "pages/zh/术语库.txt",
+        "b": 5595,
+        "r": 4326,
+        "x": "{{术语库 | 游戏 = 恐鬼症（Phasmophobia） | 数据来源 = localisation_cn_merged_gameshape.txt（游戏内 zh-CN 列） | 用途 = 更新日志 / 维基条目 / 补丁说明的译名统一 }} 本页是《恐鬼症》的译名对照表，英文与简体中文均取自游戏内本地化数据（`localisation_cn_merged_gameshape.txt` 的 `en` 与 `zh-CN` 列）。同一英"
+      },
+      {
+        "t": "寻龙尺",
+        "f": "pages/zh/寻龙尺.txt",
+        "b": 2534,
+        "r": 4332,
         "x": "{{Equipment Template | tier i img=DowsingRods_T1.png | tier ii img=DowsingRods_T2.png | tier iii img=DowsingRods_T3.png | price=$60 | maxamount=2 | uses= | starter=否 | tier i level=45 | tier ii level=60 | tier iii level="
       }
     ]

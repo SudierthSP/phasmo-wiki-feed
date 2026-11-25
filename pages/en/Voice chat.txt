@@ -1,6 +1,7 @@
 # Voice chat
-# revid 25116  2026-10-21T05:48:50Z  by Darkhooper
-# sha256 7282722cdb38e1472e6a2dc88e6b02d883b48188cabf41732770d5a905fd8560  bytes 7847
+# revid 25394  2026-11-25T20:55:14Z  by Darkhooper
+# 备注: added voice commands section with info from dataminers
+# sha256 339c28300e11645a8c7d98cf9b22805ba364a04be3a879df3474350c3eb5e6e3  bytes 6828
 # 源: https://phasmophobia.fandom.com/api.php
 
 '''Voice chat''' is the primary mode of communication in ''Phasmophobia''.
@@ -42,82 +43,40 @@ Voice recognition for the above-mentioned objects on PS5 also works when one is 
 
 When using Push-to-talk or Toggle modes, valid phrases will still be recognized even if the mic is activated slightly after (~0.5 seconds) saying that phrase.
 
-The following mechanic is currently bugged and does not work at all: saying the ghost's name or recognized phrases<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1155897573211656245 ''"Saying the ghost name..."'' Shuee, ''Phasmophobia'' Discord Moderator. 25 September 2023 (on Discord).]</ref> after having spent 2 seconds near the ghost, with a 10-second minimum cooldown<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1214242363463958658 ''"And there is a 10 second CD..."'' Shuee, ''Phasmophobia'' Discord Moderator. 4 March 2024 (on Discord).]</ref>:
-*increases ghost [[activity]] by a number between 10 and 24, this number decreasing by 0.5 every second
-*increases the Spirit Box's response chances by 10% for 20 seconds
-*has a 0.5% chance to force the ghost to turn off the [[Fuse Box|fuse box]]
+===Voice commands===
+During investigations, players may use voice commands to force the [[ghost]] to perform specific actions. If using the "Text" mode, voice commands are instead available through a UI by pressing the {{Control|voice commands}} button.
 
-The following is a list of recognized phrases:
-<div style="-moz-column-count:3; -webkit-column-count:3; column-count:3;">
-*''Ghost's name''
-*"Give us a sign."
-*"Do something."
-*"Let us know you are here."
-*"Make a noise."
-*"Make a sound."
-*"Can you make a sound?"
-*"Open a door."
-*"Open the door."
-*"Open this door."
-*"Turn on the light."
-*"Turn off the light."
-*"Show us your presence."
-*"Show your presence."
-*"Show me."
-*"Show us."
-*"Knock something."
-*"Throw something."
-*"Can you speak?"
-*"Can you speak to us?"
-*"Can we speak?"
-*"Would like to speak to you."
-*"Can I ask you?"
-*"May I ask you?"
-*"Would you like to talk?"
-*"Talk to me."
-*"Talk to us."
-*"Scream."
-*"Do you know who we are?"
-*"We mean you no harm."
-*"We are friends."
-*"Is there anyone with me?"
-*"Is there anyone here?"
-*"Are there any ghosts?"
-*"Are you male or female?"
-*"Are there children here?"
-*"Are you alone?"
-*"Are you the only one here?"
-*"Are you here all the time?"
-*"Are you waiting?"
-*"Are you happy?"
-*"Is there anything that I can do?"
-*"Is this your home?"
-*"Do you want us to leave?"
-*"I'm scared."
-*"I am scared."
-*"Scared"
-*"Scare"
-*"Scary"
-*"Spooky"
-*"Horror"
-*"Fright"
-*"Frighten"
-*"Panic"
-*"Hide"
-*"Run"
-*"Bloody Mary"
-*"F*ck"
-*"B*tch"
-*"Sh*t"
-*"C***"
-*"A*s"
-*"B*stard"
-*"Motherf*cker"
-*"A*sehole"
-*"Cr*p"
-*"P*ssy"
-*"D*ckhead"
-</div>
+When a voice command is used within 5 metres of the ghost on the same floor, the ghost will have 21% chance in singleplayer and a 11% chance in multiplayer to perform the action associated with the command. If the chance fails, a 60-second cooldown will be applied on the player who used the command, during which all of their voice commands will fail. If the chance succeeds, this 60-second cooldown will be applied on all players.
+
+The following is a list of all possible voice commands:
+{| class="fandom-table"
+!Voice command
+!Forced action
+|-
+|"Show us your presence"
+|[[Ghost Event]]
+|-
+|"Can you speak to us"
+|[[Paranormal Sound]]
+|-
+|"Give us a sign"
+|[[Prop|Object]] [[interaction]]
+|-
+|"Throw something"
+|Object throw
+|-
+|"Open a door"
+|[[Door]] opening
+|-
+|"Close a door"
+|Door closing
+|-
+|"Turn this on"
+|Turning an interactable object on
+|-
+|"Turn this off"
+|Turning an interactable object off
+|}
 
 ==Tips==
 *Players who are unable to use voice recognition may consult the official ''Phasmophobia'' Discord server's [https://discord.com/channels/435431947963990026/1041127945005178922 voice recognition help channel] on potential ways to fix voice recognition.

@@ -1,0 +1,121 @@
+# Voice chat
+# revid 25394  2026-11-25T20:55:14Z  by Darkhooper
+# 备注: added voice commands section with info from dataminers
+# sha256 339c28300e11645a8c7d98cf9b22805ba364a04be3a879df3474350c3eb5e6e3  bytes 6828
+# 源: https://phasmophobia.fandom.com/api.php
+
+'''Voice chat''' is the primary mode of communication in ''Phasmophobia''.
+
+==Player chat==
+Voice chat is used to communicate between players. ''Phasmophobia'' uses the Vivox voice chat system.
+
+[[Death|Dead]] players can hear living players, but not the other way round. Due to a bug, dead players can sometimes not hear each other clearly.
+
+===Local chat===
+Local chat is proximity-based. Players can hear one another up to 20 metres away, though in reality this distance is usually shorter due to volume fall-off.
+
+There are three settings available for players to communicate through:
+*'''Push-to-talk:''' The game will hear the player while they hold the {{Control|local chat}} button.
+*'''Voice Activation:''' The game will always hear the player; this is also known as open mic.
+*'''Toggle:''' The local chat button is used to toggle open mic on or off. A microphone icon on the [[watch]] will light up when the game is listening. A throat-clearing sound can also be heard when toggling; a rising tone when toggling on and a falling tone when toggling off.
+
+This setting can be adjusted via the settings in the [[journal]] or in the main menu.
+
+Players in different locations may hear local chat as being muffled:
+*Players on different floors
+*Players that are inside versus outside a building
+
+During a [[hunt]], any noise transmitted through the microphone that is loud enough (when local chat is enabled) will attract the ghost if it is within 9 metres (or 2.5 metres for a [[Yokai]]) of the player on the same floor. This does not affect voice recognition.
+
+===Global chat===
+Global chat allows the player to communicate to all players on-site, regardless of their location. Global chat can be activated by holding the {{Control|global chat}} button, or by grabbing the walkie-talkie when using VR headsets. Voice through global chat will be muffled in a manner similar to a walkie-talkie. The VR walkie-talkie will automatically return onto the belt when dropped.
+
+Global chat can only be activated via push-to-talk. Global chat cannot be used by dead players or in the [[lobby]]. Dead players can hear living players through global chat.
+
+Using global chat within 9 metres of a ghost (2.5 metres for a Yokai) during a hunt will attract the ghost to the player, regardless of whether the player is speaking or not. Doing this will also cause a static noise to be played for all players instead of any microphone audio. One player using global chat will not attract the ghost to other players, regardless of if the speaker is inside or outside the investigation area.
+
+==Voice recognition==
+Voice recognition is used for recognition of phrases said by the player to elicit reactions from the ghost. Players can change the voice recognition system that is used ("Voice" or "System Voice"), as well as the voice recognition language. While "Voice" supports all existing languages that are available on the game, "System Voice" only supports English, French, German, Japanese, Chinese, and Spanish. Both local and global chat work normally.
+
+When voice recognition is set up correctly, the player can use either local or global voice chat to communicate with the ghost using the [[Spirit Box]], the [[Ouija Board]], or the [[Monkey Paw]]. Voice recognition can be disabled entirely and replaced by a UI if the player switches to the "Text" mode.
+
+Voice recognition for the above-mentioned objects on PS5 also works when one is in a party chat, despite VOIP not otherwise transmitting in-game. This allows one to be able to speak in order to use the items while in a PlayStation chat party, but they will still not be heard by a Ghost during a hunt. Ghosts will still respond to Global Chat being toggled, regardless if one is in a console chat party or not.
+
+When using Push-to-talk or Toggle modes, valid phrases will still be recognized even if the mic is activated slightly after (~0.5 seconds) saying that phrase.
+
+===Voice commands===
+During investigations, players may use voice commands to force the [[ghost]] to perform specific actions. If using the "Text" mode, voice commands are instead available through a UI by pressing the {{Control|voice commands}} button.
+
+When a voice command is used within 5 metres of the ghost on the same floor, the ghost will have 21% chance in singleplayer and a 11% chance in multiplayer to perform the action associated with the command. If the chance fails, a 60-second cooldown will be applied on the player who used the command, during which all of their voice commands will fail. If the chance succeeds, this 60-second cooldown will be applied on all players.
+
+The following is a list of all possible voice commands:
+{| class="fandom-table"
+!Voice command
+!Forced action
+|-
+|"Show us your presence"
+|[[Ghost Event]]
+|-
+|"Can you speak to us"
+|[[Paranormal Sound]]
+|-
+|"Give us a sign"
+|[[Prop|Object]] [[interaction]]
+|-
+|"Throw something"
+|Object throw
+|-
+|"Open a door"
+|[[Door]] opening
+|-
+|"Close a door"
+|Door closing
+|-
+|"Turn this on"
+|Turning an interactable object on
+|-
+|"Turn this off"
+|Turning an interactable object off
+|}
+
+==Tips==
+*Players who are unable to use voice recognition may consult the official ''Phasmophobia'' Discord server's [https://discord.com/channels/435431947963990026/1041127945005178922 voice recognition help channel] on potential ways to fix voice recognition.
+*Some languages on the "Voice" system may not work correctly; use the "System Voice" recognition system or "Text" system as an alternative.
+*If you are using the "System Voice" recognition system, there is a bug where voice recognition (not voice chat) may "fall asleep" when the player loses focus of the game, causing it to fail. Pressing the Windows key twice, or pressing once and clicking on the game icon in the taskbar, will "wake" it up.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+! rowspan="2" |[[0.4.0]]
+|Static from global chat now plays during hunts only if the ghost is near the player.
+|-
+|Ghosts can now detect players using global chat without speaking during hunts.
+|-
+![[0.5.1.2]]
+|Open mic is no longer forced on singleplayer.
+|-
+![[0.6.0]]
+|Local voice chat now has three options: voice activation, push-to-talk, and on/off toggle.
+|-
+![[0.6.2.0]]
+|Switched the voice recognition system from a Windows-based system to an internal system.
+|-
+![[0.6.3.0]]
+|Added the option to switch back to the Windows-based voice recognition system.
+|-
+![[0.10.1.0]]
+|The multiplayer voice chat system has been changed from Photon Voice to Vivox.
+|-
+![[0.11.1.2]]
+|Voice recognition modes have been reworded for better in game translation.
+*VOSK has been changed to Voice
+*Windows Voice has been changed to System Voice
+|}
+
+==References==
+{{Reflist}}
+[[Category:Gameplay]]
+[[Category:Settings]]
+[[fr:Chat vocal]]
+[[ru:Голосовой чат]]

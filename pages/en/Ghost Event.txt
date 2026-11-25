@@ -1,7 +1,7 @@
 # Ghost Event
-# revid 25379  2026-11-25T02:38:01Z  by Darkhooper
-# 备注: all types of standing events prevent the player from toggling the room's lights
-# sha256 e0157615284149883a1cd68f110b9f61d4cb3ff9fe538a6d1a0fb19c604b914b  bytes 11905
+# revid 25389  2026-11-25T17:41:48Z  by Darkhooper
+# 备注: appear event no longer has the same room restriction
+# sha256 07c891ddce39aee18b09af3498ffd13d2c97f553227c9a233ee04303abde2b3f  bytes 11715
 # 源: https://phasmophobia.fandom.com/api.php
 
 A '''ghost event''' is a manifestation of the [[ghost]] in the mortal world other than a [[hunt]] and which does not directly interact with the environment (unlike an [[interaction]]). Ghost events vary from full on physical apparitions to mere balls of smoke and usually produce sound (hissing, moaning, chanting etc.) perceivable without the use of specialized [[equipment]].
@@ -68,9 +68,9 @@ The ghost manifests itself and chases the event's target player at the standard 
 All doors in the room where the event started will close (including exit doors, but without locking them), and the lights in that room will also turn off.
 
 ====Appear====
-A variant of the chasing event with a maximum duration of 3 seconds where the ghost does not produce vocalisations and where doors will not close. The target player for this event will be a random player among the ones in the same room as the ghost, which means the event fails to start if there are no players in the same room as the ghost. This event also cannot start if the room has no main lights, and cannot be triggered by ''The Devil'' [[Tarot Cards|tarot card]].
+A variant of the chasing event with a maximum duration of 3 seconds where the ghost does not produce vocalisations and where doors will not close. This event cannot start if the room has no main lights, and cannot be triggered by ''The Devil'' [[Tarot Cards|tarot card]].
 
-This event will end prematurely if a light is turned on in the room the event started in or if all players leave the room the event started in.<ref>[https://youtu.be/kFDBL70QiUo An appear event test (on YouTube). 30 April 2024.]</ref>
+This event will end prematurely if all main lights in the room the event started in are turned on, or if all players leave the room the event started in.<ref>[https://youtu.be/kFDBL70QiUo An appear event test (on YouTube). 30 April 2024.]</ref>
 
 ====Mist Form====
 All lights in the target player's room will turn off and a small white cloud will appear and begin floating toward the player. If after 2 seconds the cloud reaches the player, it will disappear and cause a sharp hissing sound, in which the pitch and duration is always the same. If the player keeps their distance from the cloud, it will eventually vanish without hissing (or draining any sanity) after 5 to 10 seconds.

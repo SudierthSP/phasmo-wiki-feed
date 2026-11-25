@@ -1,7 +1,7 @@
 # Ghost
-# revid 24859  2026-09-18T05:11:51Z  by Darkhooper
-# 备注: clarified when the gender is chosen
-# sha256 82212df1819371107b8e2d6c7b2bfe0c72f57888a7c656e62400fb50ebbf6a63  bytes 25386
+# revid 25391  2026-11-25T17:47:18Z  by Darkhooper
+# 备注: voice commands replaced activity increase
+# sha256 ab4b939ec6c5eed48cdf8dc5835f3c859a304fa231eda559e3a0c9951c0daa7d  bytes 25210
 # 源: https://phasmophobia.fandom.com/api.php
 
 [[File:2.png|alt=|right|310x310px]]
@@ -294,7 +294,7 @@ The age of the ghost (at their time of death) is a randomly generated number bet
 If the ghost is indicated to respond only to "people who are alone", the ghost will only respond to the [[Spirit Box]] if there is only one player in the room when the question is asked. A ghost which responds to everyone means that the number of people in the room does not affect its ability to respond. This characteristic is not indicated if there is no setup time (e.g. on Professional difficulty). This characteristic is only relevant for ghosts with the [[Spirit Box (Evidence)|Spirit Box evidence]], and is not synonymous with [[Activity|ghost activity]].
 
 ===Ghost's name===
-The name of the ghost consists of their first (given) name and a surname. The first name is determined randomly according to their gender, while the surname is randomly chosen and not based on their gender. Saying the ghost's name near it will temporarily increase its [[activity]] level and cause it to interact with its surroundings, but this is currently bugged and doesn't work.
+The name of the ghost consists of their first (given) name and a surname. The first name is determined randomly according to their gender, while the surname is randomly chosen and not based on their gender.
 
 ====Possible male names====
 <div style="-moz-column-count:3; -webkit-column-count:3; column-count:3;">

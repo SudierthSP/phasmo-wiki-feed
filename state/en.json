@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-25T11:56:23.385Z",
+  "updated": "2026-11-25T20:59:45.182Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 381,
   "redirectCount": 57,
@@ -106,8 +106,8 @@
       "redirect": false
     },
     "Ghost": {
-      "revid": 24859,
-      "ts": "2026-09-18T05:11:51Z",
+      "revid": 25391,
+      "ts": "2026-11-25T17:47:18Z",
       "redirect": false
     },
     "Salt shaker": {
@@ -146,8 +146,8 @@
       "redirect": false
     },
     "Objectives": {
-      "revid": 25178,
-      "ts": "2026-10-30T17:56:53Z",
+      "revid": 25392,
+      "ts": "2026-11-25T18:23:25Z",
       "redirect": false
     },
     "Daily and Weekly Tasks": {
@@ -351,8 +351,8 @@
       "redirect": false
     },
     "Ghost Event": {
-      "revid": 25379,
-      "ts": "2026-11-25T02:38:01Z",
+      "revid": 25389,
+      "ts": "2026-11-25T17:41:48Z",
       "redirect": false
     },
     "Player": {
@@ -871,8 +871,8 @@
       "redirect": false
     },
     "Voice chat": {
-      "revid": 25116,
-      "ts": "2026-10-21T05:48:50Z",
+      "revid": 25394,
+      "ts": "2026-11-25T20:55:14Z",
       "redirect": false
     },
     "0.5.2.0": {
@@ -1466,8 +1466,8 @@
       "redirect": false
     },
     "Controls": {
-      "revid": 24250,
-      "ts": "2026-07-24T04:35:46Z",
+      "revid": 25387,
+      "ts": "2026-11-25T12:13:37Z",
       "redirect": false
     },
     "Mimic": {
@@ -1786,8 +1786,8 @@
       "redirect": false
     },
     "Activity": {
-      "revid": 25118,
-      "ts": "2026-10-21T05:53:44Z",
+      "revid": 25390,
+      "ts": "2026-11-25T17:45:52Z",
       "redirect": false
     },
     "Ability": {

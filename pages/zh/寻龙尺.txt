@@ -1,0 +1,49 @@
+# 寻龙尺
+# revid 4332  2026-11-25T14:01:51Z  by Qsefthuopq
+# sha256 42f634686c0bfef1be824e7ae996a1178156189bcb480b056513e23c2af032aa  bytes 2335
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
+| tier i img=DowsingRods_T1.png
+| tier ii img=DowsingRods_T2.png
+| tier iii img=DowsingRods_T3.png
+
+| price=$60
+| maxamount=2
+| uses=
+| starter=否
+| tier i level=45
+| tier ii level=60
+| tier iii level=75
+
+| tier i description=由木材和铜制成的基础寻龙尺，用于协助定位骨头。这套寻龙尺的探测范围小于其他等级，但足以完成任务……在较大的地点中，它们尤其适合用来缩小骨头所在位置的范围。
+| tier i purpose=手持寻龙尺站立不动并环顾四周。当你朝向骨头的大致方向时，寻龙尺会交叉。进入骨头所在的精确房间后，无论你朝向哪个方向，寻龙尺都会保持交叉状态。
+| tier i ability=<span style="color: #008000;">精度：低</span>
+<span style="color: #008000;">范围（米）：17.5</span>
+| tier ii description=由高品质铜制成，这些寻龙尺更擅长感应超自然世界……其精度和范围似乎高于木制版本。
+| tier ii purpose=除了指示骨头的大致方向外，这副寻龙尺还能提示你是否处于正确楼层！如果你位于骨头正上方或正下方，寻龙尺会分别向地面或天花板倾斜。如果你离骨头较远，寻龙尺会停止倾斜。
+
+一旦你处于正确楼层，寻龙尺就会停止倾斜。使用时请务必站立不动！
+| tier ii ability=<span style="color: #008000;">精度：中</span>
+<span style="color: #008000;">范围（米）：33</span>
+| tier iii description=手工打造的寻龙尺，额外缠绕了铜丝并镶嵌了水晶装饰。既美观又实用！
+| tier iii purpose=这副寻龙尺能显示骨头的精确方向，且探测范围大幅提升。它还会通过向天花板或地面倾斜，来提示骨头位于你所在楼层的上方还是下方（除非你已到达正确楼层）。注意：倾斜提示仅当你正好处于骨头正上方或正下方时才会生效。
+
+使用时边走边观察，确定骨头的方向。
+| tier iii ability=<span style="color: #008000;">精度：高</span>
+<span style="color: #008000;">范围（米）：60</span>
+}}
+'''寻龙尺'''（探测棒）是一件可选装备，用于定位[[骨头证据|骨头]]。
+
+==机制==
+
+==历史==
+{| class="fandom-table"
+! colspan="2" |抢先体验
+|-
+![[0.20.0]]
+|新增寻龙尺。
+|}
+
+{{Equipment nav}}
+[[Category:装备]]

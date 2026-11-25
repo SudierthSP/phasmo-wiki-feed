@@ -1,7 +1,7 @@
 # Objectives
-# revid 25178  2026-10-30T17:56:53Z  by Darkhooper
-# 备注: Notes section after See also section
-# sha256 1d82d4c7984d7c3cb7279ff4787b114e69cc9dcd0aa3f0e58c9db7ba3d0f94a0  bytes 9800
+# revid 25392  2026-11-25T18:23:25Z  by Darkhooper
+# 备注: 0.20 change
+# sha256 5eb04e7cc63d48aa2b0e123698ca516d434db5c7ee74144eabd4f0eb5b07ff03  bytes 9767
 # 源: https://phasmophobia.fandom.com/api.php
 
 Players are assigned (optional) '''objectives''' during their investigations. Each [[contract]] has 4 objectives, one of which is always "Find the correct ghost type", and the other three are randomly chosen.
@@ -42,7 +42,7 @@ Objectives are displayed on the [[Objective Board|objective board]] and in the [
 |Record a video of the ghost with a [[Video Camera]] when it manifests during [[ghost event]]s or [[hunt]]s, or as a [[D.O.T.S Projector (Evidence)|D.O.T.S. silhouette]]. This can be via a handheld camera or the video feed in the truck. The video should save to the journal for it to count.
 |Since any activity video-recorded will automatically be saved to the journal, doing this during a hunt is considerably easier compared to capturing a photo, though still risky.
 |
-*It is currently possible to complete this objective even if the journal's video slots are full. This is likely a bug.
+*It is not possible to complete this objective if the journal's video slots are full.
 *This will stay completed even if the video is then deleted.
 |25
 |-

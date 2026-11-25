@@ -1,9 +1,9 @@
 {
   "fmt": 2,
-  "updated": "2026-11-25T11:56:26.408Z",
+  "updated": "2026-11-25T20:59:47.914Z",
   "api": "https://phasmophobia.fandom.com/zh/api.php",
-  "pageCount": 326,
-  "redirectCount": 40,
+  "pageCount": 330,
+  "redirectCount": 42,
   "pages": {
     "恐鬼症 Wiki": {
       "revid": 3908,
@@ -1631,9 +1631,29 @@
       "redirect": false
     },
     "探测杖": {
-      "revid": 4319,
-      "ts": "2026-11-25T00:24:45Z",
+      "revid": 4330,
+      "ts": "2026-11-25T14:01:24Z",
+      "redirect": true
+    },
+    "0.20.0": {
+      "revid": 4327,
+      "ts": "2026-11-25T13:48:06Z",
       "redirect": false
+    },
+    "术语库": {
+      "revid": 4326,
+      "ts": "2026-11-25T13:42:40Z",
+      "redirect": false
+    },
+    "寻龙尺": {
+      "revid": 4332,
+      "ts": "2026-11-25T14:01:51Z",
+      "redirect": false
+    },
+    "探测棒": {
+      "revid": 4331,
+      "ts": "2026-11-25T14:01:38Z",
+      "redirect": true
     }
   }
 }

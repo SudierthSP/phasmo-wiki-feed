@@ -1,0 +1,265 @@
+# 术语库
+# revid 4326  2026-11-25T13:42:40Z  by Qsefthuopq
+# 备注: 创建页面，内容为“{{术语库 | 游戏 = 恐鬼症（Phasmophobia） | 数据来源 = localisation_cn_merged_gameshape.txt（游戏内 zh-CN 列） | 用途 = 更新日志 / 维基条目 / 补丁说明的译名统一 }}  本页是《恐鬼症》的译名对照表，英文与简体中文均取自游戏内本地化数据（`localisation_cn_merged_gameshape.txt` 的 `en` 与 `zh-CN` 列）。同一英文存在多种官方写法时，取用情况见各行备注。  == 鬼魂类型 =…”
+# sha256 71130eac73c6dc34cc6f8ce5dfbf4a79dee9b9aaf23a42810e967f9fc8bea557  bytes 4887
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{术语库
+| 游戏 = 恐鬼症（Phasmophobia）
+| 数据来源 = localisation_cn_merged_gameshape.txt（游戏内 zh-CN 列）
+| 用途 = 更新日志 / 维基条目 / 补丁说明的译名统一
+}}
+
+本页是《恐鬼症》的译名对照表，英文与简体中文均取自游戏内本地化数据（`localisation_cn_merged_gameshape.txt` 的 `en` 与 `zh-CN` 列）。同一英文存在多种官方写法时，取用情况见各行备注。
+
+== 鬼魂类型 ==
+{| class="wikitable sortable"
+! 英文 !! 简体中文 !! 备注
+|-
+| Spirit || 魂魄 ||
+|-
+| Wraith || 魅影 ||
+|-
+| Phantom || 幻影 ||
+|-
+| Poltergeist || 骚灵 || 简中官方改译捣蛋鬼
+|-
+| Banshee || 女妖 ||
+|-
+| Jinn || 巨灵 ||
+|-
+| Mare || 梦魇 ||
+|-
+| Revenant || 亡魂 ||
+|-
+| Shade || 暗影 ||
+|-
+| Demon || 恶魔 ||
+|-
+| Yurei || 幽灵 ||
+|-
+| Oni || 赤鬼 ||
+|-
+| Yokai || 妖怪 ||
+|-
+| Hantu || 寒魔 ||
+|-
+| Goryo || 御灵 ||
+|-
+| Myling || 鬼婴 ||
+|-
+| Onryo || 怨灵 ||
+|-
+| The Twins || 孪魂 ||
+|-
+| Raiju || 雷魂 ||
+|-
+| Obake || 幻妖 ||
+|-
+| The Mimic || 拟魂 ||
+|-
+| Moroi || 魔洛伊 ||
+|-
+| Deogen || 雾影 ||
+|-
+| Thaye || 刹耶 ||
+|-
+| Obambo || 奥班博 ||
+|-
+| Gallu || 加鲁 ||
+|-
+| Dayan || 达魇 || 音译达彦
+|-
+| Aswang || 阿斯旺 ||
+|-
+| Kormos || 盲灵 ||
+|-
+| Deildegast || 界灵 ||
+|}
+
+== 装备 ==
+{| class="wikitable sortable"
+! 英文 !! 简体中文 !! 备注
+|-
+| EMF Reader || EMF读取仪 ||
+|-
+| Flashlight || 手电筒 ||
+|-
+| Strong Flashlight || 强光手电筒 ||
+|-
+| Photo Camera || 相机 || 
+|-
+| Video Camera || 摄像机 ||
+|-
+| Head Mounted Camera || 头戴式摄像机 ||
+|-
+| Tripod || 三脚架 ||
+|-
+| Motion Sensor || 运动传感器 ||
+|-
+| Sound Sensor || 声音传感器 ||
+|-
+| Sound Recorder || 录音机 ||
+|-
+| Parabolic Microphone || 收音器 ||
+|-
+| Thermometer || 温度计 ||
+|-
+| Spirit Box || 通灵盒 ||
+|-
+| Ghost Writing Book || 鬼魂笔记 ||
+|-
+| D.O.T.S. Projector || 点阵投影仪 ||
+|-
+| UV Light || 紫外线灯光 || 正文可简作「紫外线灯」
+|-
+| Glowstick || 荧光棒 ||
+|-
+| Salt || 盐 ||
+|-
+| Crucifix || 十字架 ||
+|-
+| Smudge Sticks || 圣木 ||
+|-
+| Incense || 熏香 ||
+|-
+| Lighter || 打火机 ||
+|-
+| Igniter || 点火器 ||
+|-
+| Candle || 蜡烛 ||
+|-
+| Firelight || 火光 ||
+|-
+| Sanity Pills || 理智药 ||
+|-
+| Sanity Medication || 理智药 || 与 Sanity Pills 同译，按等级区分：一级为药瓶、二级/三级为注射/吸入式
+|-
+| Head Gear || 头戴设备 ||
+|-
+| Dowsing Rods || 寻龙尺 ||
+|}
+
+== 证据与诅咒物品 ==
+{| class="wikitable sortable"
+! 英文 !! 简体中文 !! 备注
+|-
+| Evidence || 证据 ||
+|-
+| Fingerprint || 指纹 ||
+|-
+| Footprint || 脚印 ||
+|-
+| Disturbed Salt || 踩过的盐 ||
+|-
+| Bone || 骨头 || 证据名亦作「骨头证据」
+|-
+| Dead Body || 尸体 ||
+|-
+| D.O.T.S. Ghost || 点阵鬼影 ||
+|-
+| Spirit Box Response || 通灵盒回应 ||
+|-
+| EMF 5 Reading || EMF 5读数 ||
+|-
+| Paranormal Sound || 超自然声音 ||
+|-
+| Ouija Board || 通灵板 ||
+|-
+| Music Box || 八音盒 ||
+|-
+| Tarot Cards || 塔罗牌 ||
+|-
+| Summoning Circle || 召唤阵 ||
+|-
+| Haunted Mirror || 闹鬼魔镜 ||
+|-
+| Voodoo Doll || 巫毒娃娃 ||
+|-
+| Monkey Paw || 猴爪 ||
+|-
+| Cursed Hunt || 诅咒猎杀 ||
+|-
+| Ghost Event || 鬼魂事件 ||
+|-
+| Hunting Ghost || 猎杀时的鬼魂 ||
+|-
+| Interaction || 互动 ||
+|}
+
+== 机制与界面 ==
+{| class="wikitable sortable"
+! 英文 !! 简体中文 !! 备注
+|-
+| Journal || 手册 ||
+|-
+| Truck || 卡车 ||
+|-
+| Warehouse || 仓库 ||
+|-
+| Contract || 合约 ||
+|-
+| Hiding Spot || 藏身处 ||
+|-
+| Hunt || 猎杀 ||
+|-
+| Sanity || 理智 ||
+|-
+| Challenge Mode || 挑战模式 ||
+|-
+| Apocalypse || 天启 ||
+|-
+| Custom Difficulty || 自定义难度 ||
+|-
+| Cross Play || 跨平台游玩 ||
+|-
+| Cursor Color || 光标颜色 ||
+|-
+| Reticle Color || 准星颜色 ||
+|-
+| Eye Adaptation || 视觉适应 ||
+|-
+| Fuse Box || 电闸 ||
+|-
+| Restricted || 限制区 || 地图变体后缀
+|-
+| Easter Egg || 彩蛋 ||
+|-
+| Boombox || 手提音响 || 无官方译名，暂定
+|}
+
+== 地图 ==
+{| class="wikitable sortable"
+! 英文 !! 简体中文 !! 备注
+|-
+| 6 Tanglewood Drive || 坦格伍德路6号 ||
+|-
+| 42 Edgefield Road || 埃奇菲尔德路42号 ||
+|-
+| 13 Willow Street || 柳树街13号 ||
+|-
+| 10 Ridgeview Court || 里奇维尤10号 ||
+|-
+| Brownstone High School || 褐石中学 ||
+|-
+| Bleasdale Farmhouse || 布莱斯代尔农舍 ||
+|-
+| Grafton Farmhouse || 格拉夫顿农舍 ||
+|-
+| Nell's Diner || 内尔餐馆 || 本地化中另有「内尔餐厅」写法
+|-
+| Point Hope || 希望角 ||
+|-
+| Sunny Meadows || 阳光牧场 || 本地化中另有「阳光牧院」写法
+|-
+| Prison || 监狱 ||
+|-
+| Maple Lodge Campsite || 枫林营地 ||
+|-
+| Camp Woodwind || 林风营地 ||
+|-
+| Training || 训练场地 ||
+|}
+
+
+[[Category:术语表]]
