@@ -1323,3 +1323,6 @@
 {"ts":"2026-11-25T02:46:20.118Z","lang":"zh","title":"装备","revid":4318,"prevRevid":3946,"kind":"edit","user":"0y0w","comment":"/* 可购买装备列表 */","bytes":6853,"pageTs":"2026-11-25T00:04:27Z"}
 {"ts":"2026-11-25T02:46:20.118Z","lang":"zh","title":"Deildegast","revid":4320,"prevRevid":4224,"kind":"edit","user":"0y0w","comment":"清空全部内容","bytes":0,"pageTs":"2026-11-25T00:35:17Z"}
 {"ts":"2026-11-25T02:46:20.118Z","lang":"zh","title":"探测杖","revid":4319,"prevRevid":null,"kind":"new","user":"0y0w","comment":"","bytes":3059,"pageTs":"2026-11-25T00:24:45Z"}
+{"ts":"2026-11-25T11:56:23.385Z","lang":"en","title":"Equipment","revid":25380,"prevRevid":25361,"kind":"edit","user":"Darkhooper","comment":"added sound recorder and dowsing rods cost in Trivia","bytes":9429,"pageTs":"2026-11-25T10:26:05Z"}
+{"ts":"2026-11-25T11:56:23.385Z","lang":"en","title":"Site Map","revid":25386,"prevRevid":20395,"kind":"edit","user":"Darkhooper","comment":"sound picked up by sound sensor","bytes":2135,"pageTs":"2026-11-25T11:52:16Z"}
+{"ts":"2026-11-25T11:56:23.385Z","lang":"en","title":"Contract","revid":25383,"prevRevid":21225,"kind":"edit","user":"Darkhooper","comment":"0.20 changes","bytes":1400,"pageTs":"2026-11-25T11:11:23Z"}

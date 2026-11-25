@@ -1,7 +1,7 @@
 # Equipment
-# revid 25361  2026-11-24T16:06:15Z  by Darkhooper
-# 备注: added Dowsing Rods
-# sha256 325ddd579cd59312811964dfce4de62dd6344d6c0c432ed9b8a5be2d662decba  bytes 9429
+# revid 25380  2026-11-25T10:26:05Z  by Darkhooper
+# 备注: added sound recorder and dowsing rods cost in Trivia
+# sha256 5174c3d484b5d56092a6cece6f39aaeaa432f068687d22d42d9dc2d0e3411af9  bytes 9429
 # 源: https://phasmophobia.fandom.com/api.php
 
 [[File:Equipment.png|thumb|300x300px|A set of equipment on the wall in the [[truck]]]]
@@ -405,8 +405,8 @@ Some pieces of equipment are consumable, and will need to be re-purchased after 
 The infrared light sensor detected movement from both ghosts and players and would illuminate the area with a bright light, much like the current [[Motion Sensor]]. It however would not provide feedback to the truck, nor count in the "Detect the Ghost with a Motion Sensor" objective. This item was removed in [[0.3.0]].
 
 ==Trivia==
-*To buy enough equipment to bring the maximum amount of each to a contract, players will need to spend $2,130.
-*To buy one of each equipment, players will need to spend $805.
+*To buy enough equipment to bring the maximum amount of each to a contract, players will need to spend $2,310.
+*To buy one of each equipment, players will need to spend $895.
 *The motion sensor is the most expensive item in the game with a price of $100. Meanwhile, the igniter is the cheapest with a price of $10.
 
 {{Equipment nav}}

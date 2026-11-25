@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-25T02:46:17.357Z",
+  "updated": "2026-11-25T11:56:23.385Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 381,
   "redirectCount": 57,
@@ -81,8 +81,8 @@
       "redirect": false
     },
     "Equipment": {
-      "revid": 25361,
-      "ts": "2026-11-24T16:06:15Z",
+      "revid": 25380,
+      "ts": "2026-11-25T10:26:05Z",
       "redirect": false
     },
     "Incense": {
@@ -211,8 +211,8 @@
       "redirect": false
     },
     "Site Map": {
-      "revid": 20395,
-      "ts": "2025-03-15T19:01:00Z",
+      "revid": 25386,
+      "ts": "2026-11-25T11:52:16Z",
       "redirect": false
     },
     "Head Gear": {
@@ -456,8 +456,8 @@
       "redirect": false
     },
     "Contract": {
-      "revid": 21225,
-      "ts": "2025-06-27T16:58:50Z",
+      "revid": 25383,
+      "ts": "2026-11-25T11:11:23Z",
       "redirect": false
     },
     "Video Feed": {

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T02:46:16.981Z",
+  "generated": "2026-11-25T11:56:22.897Z",
   "counts": {
     "en": 324,
     "zh": 286
@@ -107,8 +107,8 @@
       {
         "t": "Equipment",
         "f": "pages/en/Equipment.txt",
-        "b": 9655,
-        "r": 25361,
+        "b": 9689,
+        "r": 25380,
         "x": "[[File:Equipment.png|thumb|300x300px|A set of equipment on the wall in the [[truck]]]] '''Equipment''' in ''[[Phasmophobia]]'' is used to determine the type of [[ghost]] inhabiting a location, or to complete optional [[o"
       },
       {
@@ -282,9 +282,9 @@
       {
         "t": "Site Map",
         "f": "pages/en/Site Map.txt",
-        "b": 2359,
-        "r": 20395,
-        "x": "[[File:Site map 0.6.png|thumb|The site map of Tanglewood Street House, with a motion sensor and sound sensor placed.]]{{about|the screen seen in the Truck|the locations that players can visit|Map}} The '''Site Map '''is "
+        "b": 2373,
+        "r": 25386,
+        "x": "[[File:Site map.png|thumb|The site map of 6 Tanglewood Drive, with a motion sensor and sound sensor placed.]] The '''Site Map''' is a screen located within the starting [[truck]], being the top left screen. Beyond giving"
       },
       {
         "t": "Head Gear",
@@ -576,8 +576,8 @@
       {
         "t": "Contract",
         "f": "pages/en/Contract.txt",
-        "b": 1479,
-        "r": 21225,
+        "b": 1619,
+        "r": 25383,
         "x": "[[File:MapSelection.png|thumb|The map selection board.]] [[File:PostGameStatistics.png|thumb|Post-game statistics]] A '''contract''', also known as a '''job''' or '''investigation''', forms the core component of the game"
       },
       {
