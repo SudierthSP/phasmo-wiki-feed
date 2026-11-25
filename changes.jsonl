@@ -1317,3 +1317,9 @@
 {"ts":"2026-11-24T18:36:27.605Z","lang":"en","title":"0.19.1.0","revid":25349,"prevRevid":25062,"kind":"edit","user":"Darkhooper","comment":"next version","bytes":1580,"pageTs":"2026-11-24T11:51:38Z"}
 {"ts":"2026-11-24T18:36:27.605Z","lang":"en","title":"0.20.0","revid":25350,"prevRevid":null,"kind":"new","user":"Darkhooper","comment":"new version","bytes":24452,"pageTs":"2026-11-24T12:14:07Z"}
 {"ts":"2026-11-24T18:36:27.605Z","lang":"en","title":"Dowsing Rods","revid":25373,"prevRevid":null,"kind":"new","user":"Darkhooper","comment":"added page","bytes":2634,"pageTs":"2026-11-24T18:12:03Z"}
+{"ts":"2026-11-25T02:46:17.357Z","lang":"en","title":"Yurei","revid":25378,"prevRevid":25365,"kind":"edit","user":"Darkhooper","comment":"moved Hunt section below Ability / added 0.20 in History section","bytes":8100,"pageTs":"2026-11-25T02:29:23Z"}
+{"ts":"2026-11-25T02:46:17.357Z","lang":"en","title":"Ghost Event","revid":25379,"prevRevid":25363,"kind":"edit","user":"Darkhooper","comment":"all types of standing events prevent the player from toggling the room's lights","bytes":11905,"pageTs":"2026-11-25T02:38:01Z"}
+{"ts":"2026-11-25T02:46:17.357Z","lang":"en","title":"Dowsing Rods","revid":25377,"prevRevid":25373,"kind":"edit","user":"VVSlavik","comment":"","bytes":2673,"pageTs":"2026-11-24T22:46:20Z"}
+{"ts":"2026-11-25T02:46:20.118Z","lang":"zh","title":"装备","revid":4318,"prevRevid":3946,"kind":"edit","user":"0y0w","comment":"/* 可购买装备列表 */","bytes":6853,"pageTs":"2026-11-25T00:04:27Z"}
+{"ts":"2026-11-25T02:46:20.118Z","lang":"zh","title":"Deildegast","revid":4320,"prevRevid":4224,"kind":"edit","user":"0y0w","comment":"清空全部内容","bytes":0,"pageTs":"2026-11-25T00:35:17Z"}
+{"ts":"2026-11-25T02:46:20.118Z","lang":"zh","title":"探测杖","revid":4319,"prevRevid":null,"kind":"new","user":"0y0w","comment":"","bytes":3059,"pageTs":"2026-11-25T00:24:45Z"}

@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-24T18:36:27.605Z",
+  "updated": "2026-11-25T02:46:17.357Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 381,
   "redirectCount": 57,
@@ -186,8 +186,8 @@
       "redirect": false
     },
     "Yurei": {
-      "revid": 25365,
-      "ts": "2026-11-24T17:13:37Z",
+      "revid": 25378,
+      "ts": "2026-11-25T02:29:23Z",
       "redirect": false
     },
     "Oni": {
@@ -351,8 +351,8 @@
       "redirect": false
     },
     "Ghost Event": {
-      "revid": 25363,
-      "ts": "2026-11-24T17:10:42Z",
+      "revid": 25379,
+      "ts": "2026-11-25T02:38:01Z",
       "redirect": false
     },
     "Player": {
@@ -1906,8 +1906,8 @@
       "redirect": false
     },
     "Dowsing Rods": {
-      "revid": 25373,
-      "ts": "2026-11-24T18:12:03Z",
+      "revid": 25377,
+      "ts": "2026-11-24T22:46:20Z",
       "redirect": false
     }
   }

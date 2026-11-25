@@ -1,9 +1,9 @@
 {
   "fmt": 2,
-  "updated": "2026-11-24T18:36:30.528Z",
+  "updated": "2026-11-25T02:46:20.118Z",
   "api": "https://phasmophobia.fandom.com/zh/api.php",
-  "pageCount": 325,
-  "redirectCount": 41,
+  "pageCount": 326,
+  "redirectCount": 40,
   "pages": {
     "恐鬼症 Wiki": {
       "revid": 3908,
@@ -66,8 +66,8 @@
       "redirect": false
     },
     "装备": {
-      "revid": 3946,
-      "ts": "2025-09-24T01:33:49Z",
+      "revid": 4318,
+      "ts": "2026-11-25T00:04:27Z",
       "redirect": false
     },
     "EMF读取仪": {
@@ -1561,9 +1561,9 @@
       "redirect": false
     },
     "Deildegast": {
-      "revid": 4224,
-      "ts": "2026-07-21T16:50:49Z",
-      "redirect": true
+      "revid": 4320,
+      "ts": "2026-11-25T00:35:17Z",
+      "redirect": false
     },
     "0.18.0": {
       "revid": 4227,
@@ -1628,6 +1628,11 @@
     "0.19.1.0": {
       "revid": 4308,
       "ts": "2026-10-07T13:38:35Z",
+      "redirect": false
+    },
+    "探测杖": {
+      "revid": 4319,
+      "ts": "2026-11-25T00:24:45Z",
       "redirect": false
     }
   }

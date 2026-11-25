@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-24T18:36:27.061Z",
+  "generated": "2026-11-25T02:46:16.981Z",
   "counts": {
     "en": 324,
-    "zh": 284
+    "zh": 286
   },
   "langs": {
     "en": [
@@ -247,8 +247,8 @@
       {
         "t": "Yurei",
         "f": "pages/en/Yurei.txt",
-        "b": 8188,
-        "r": 25365,
+        "b": 8368,
+        "r": 25378,
         "x": "{{Ghost |image1=Yurei Discovered.jpg |abiliti(es)=*May randomly shut a door and deduct nearby players' sanity |weakness(es)=*Will be temporarily confined to its room after smudging |Evidence1=[[File:DOTS_projector_sprite"
       },
       {
@@ -471,8 +471,8 @@
       {
         "t": "Ghost Event",
         "f": "pages/en/Ghost Event.txt",
-        "b": 12063,
-        "r": 25363,
+        "b": 12195,
+        "r": 25379,
         "x": "A '''ghost event''' is a manifestation of the [[ghost]] in the mortal world other than a [[hunt]] and which does not directly interact with the environment (unlike an [[interaction]]). Ghost events vary from full on phys"
       },
       {
@@ -2270,8 +2270,8 @@
       {
         "t": "Dowsing Rods",
         "f": "pages/en/Dowsing Rods.txt",
-        "b": 2855,
-        "r": 25373,
+        "b": 2871,
+        "r": 25377,
         "x": "{{MessageBox|text='''This page is under construction.'''}} {{Equipment Template | tier i img=DowsingRods_T1.png | tier ii img=DowsingRods_T2.png | tier iii img=DowsingRods_T3.png | price=$60 | maxamount=2 | uses= | start"
       }
     ],
@@ -2342,8 +2342,8 @@
       {
         "t": "装备",
         "f": "pages/zh/装备.txt",
-        "b": 6941,
-        "r": 3946,
+        "b": 7081,
+        "r": 4318,
         "x": "[[File:装备商店0.7.jpg|right|300px|thumb|装备商店]] 恐鬼症里的'''装备'''可用于探明[[鬼魂]]类型，或完成一些可选[[目标]]。玩家可以用成功完成合约获得的金钱购买新装备。 == 机制 == === 获取及丢失装备 === 使用[[大厅]]的[[装备商店]]可购买和出售装备。调查时携带的装备有一定的数量上限。 玩家死亡后会丢失所有已添加的装备，除了各一件系统提供的默认[[:Category:初始"
       },
       {
@@ -4181,6 +4181,13 @@
         "x": "{{Infobox Version | release_date=2026年6月3日 | previous_major_version=[[0.17.0]] | previous_minor_version=[[0.17.1.4]] | next_minor_version= | next_major_version= }}'''0.17.1.5'''是发布于2026年6月3日的小型热修复更新。<ref>[https://kinetic"
       },
       {
+        "t": "Deildegast",
+        "f": "pages/zh/Deildegast.txt",
+        "b": 220,
+        "r": 4320,
+        "x": ""
+      },
+      {
         "t": "0.18.0",
         "f": "pages/zh/0.18.0.txt",
         "b": 9245,
@@ -4263,6 +4270,13 @@
         "b": 2003,
         "r": 4308,
         "x": "{{Infobox Version | image1=0.19.1.0.png | release_date=2026年10月7日 | previous_major_version=[[0.19.0]] | previous_minor_version=[[0.19.0.2]] | next_minor_version= | next_major_version= }}'''0.19.1.0''' 是2026年10月7日发布的小型更新。"
+      },
+      {
+        "t": "探测杖",
+        "f": "pages/zh/探测杖.txt",
+        "b": 3252,
+        "r": 4319,
+        "x": "{{Equipment Template | tier i img=DowsingRods_T1.png | tier ii img=DowsingRods_T2.png | tier iii img=DowsingRods_T3.png | price=$60 | maxamount=2 | uses= | starter=否 | tier i level=45 | tier ii level=60 | tier iii level="
       }
     ]
   }

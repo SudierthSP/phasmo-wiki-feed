@@ -1,7 +1,6 @@
 # Dowsing Rods
-# revid 25373  2026-11-24T18:12:03Z  by Darkhooper
-# 备注: added page
-# sha256 dfc84221c7833ed76fab42688867392f261a52f91dc8909f5a0149ba2b14c401  bytes 2634
+# revid 25377  2026-11-24T22:46:20Z  by VVSlavik
+# sha256 b541ac736c3439ee05431b3408e5590e6919f1bfc257df595dacb8d62483ed0d  bytes 2673
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{MessageBox|text='''This page is under construction.'''}}
@@ -43,3 +42,4 @@ The '''dowsing rods''' are an optional piece of equipment used to locate the [[B
 {{Equipment nav}}
 [[Category:Equipment]]
 [[fr:Baguettes de radiesthésie]]
+[[ru:Лозоходные рамки]]

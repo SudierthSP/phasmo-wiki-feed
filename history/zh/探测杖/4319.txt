@@ -1,0 +1,63 @@
+# 探测杖
+# revid 4319  2026-11-25T00:24:45Z  by 0y0w
+# sha256 a8fbd191580582ae094334eaba8fb5931c097b3051cd3b3f4f9b9239f31baf50  bytes 3059
+# 源: https://phasmophobia.fandom.com/zh/api.php
+
+{{Equipment Template
+ | tier i img=DowsingRods_T1.png
+ | tier ii img=DowsingRods_T2.png
+ | tier iii img=DowsingRods_T3.png
+
+ | price=$60
+ | maxamount=2
+ | uses=
+ | starter=否
+ | tier i level=45
+ | tier ii level=60
+ | tier iii level=75
+ | tier i description=基础级探测棒由木材与铜制成，用于帮助寻找骨头。与其他等级相比，这组探测棒的探测范围较小，但仍足以完成任务……特别适合在较大的地图中，逐步  缩小骨头可能所在的位置。
+ | tier i purpose=手持探测棒并站在原地环顾四周。当你面向骨头大致所在的方向时，探测棒便会交叉！一旦进入骨头所在的房间，无论你面向哪个方向，探测棒都会保持交叉状态。
+ | tier i ability=<span style="color: #008000;">准确度：低</span><br><span style="color: #008000;">探测范围（米）：17.5</span>
+ | tier ii description=由高品质铜材制成，相较于木制探测棒，这组探测棒更擅长感应超自然世界……其准确度与探测范围似乎都有所提升。
+ | tier ii purpose=除了指出骨头的大致方向外，这组探测棒还能帮助判断骨头是否位于其他楼层！如果骨头就在你的正上方或正下方，探测棒便会分别朝向天花板或地板倾斜。如果骨头距离太远，探测棒便不会再倾斜。<br><br>当你抵达正确楼层时，探测棒便会停止倾斜。使用时请务必保持静止！
+ | tier ii ability=<span style="color: #008000;">准确度：中</span><br><span style="color: #008000;">探测范围（米）：33</span>
+ | tier iii description=由工匠手工制作的探测棒，加入了额外的铜线缠绕与水晶装饰，兼具美观与实用性！
+ | tier iii purpose=这组探测棒能够指出骨头的确切方向，并且拥有更大的探测范围。此外，当骨头位于你上方或下方的楼层时，探测棒也会分别朝向天花板或地板倾斜（抵达正确楼层后则不会）。注意：只有当骨头正好位于你的正上方或正下方时，才会触发倾斜效果。<br><br>使用时可以一边移动，一边判断骨头所在的方向。
+ | tier iii ability=<span style="color: #008000;">准确度：高</span><br><span style="color: #008000;">探测范围（米）：60</span>
+}}
+'''探测杖''' 是一件可购买物品，它用于寻找 [[骨头证据|骨头]]。
+
+==用法==
+手持探测棒并站在原地环顾四周。当你面向骨头大致所在的方向时，探测棒便会交叉！一旦进入骨头所在的房间，无论你面向哪个方向，探测棒都会保持交叉状态。
+
+一、二级探测杖需要站在原地不动才会生效。
+
+二、三级探测杖可以探查不同楼层的位置。
+
+猎杀时探测杖改为指向鬼魂位置。
+{| class="fandom-table"
+!探测杖等级
+!探查骨头范围（米）
+!探查猎杀鬼魂范围（米）
+|-
+|1
+|17.5
+|25
+|-
+|2
+|33
+|30
+|-
+|3
+|60
+|40
+|}
+==历史==
+{| class="fandom-table"
+! colspan="2" | 抢先体验
+|-
+! 0.20.0
+| 加入探测杖。
+|}<br>
+{{EquipmentNav}}
+[[Category:装备]]
