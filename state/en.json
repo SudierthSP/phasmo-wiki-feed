@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-25T20:59:45.182Z",
+  "updated": "2026-11-26T03:25:33.565Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 381,
   "redirectCount": 57,
@@ -186,8 +186,8 @@
       "redirect": false
     },
     "Yurei": {
-      "revid": 25378,
-      "ts": "2026-11-25T02:29:23Z",
+      "revid": 25398,
+      "ts": "2026-11-26T00:33:49Z",
       "redirect": false
     },
     "Oni": {
@@ -351,8 +351,8 @@
       "redirect": false
     },
     "Ghost Event": {
-      "revid": 25389,
-      "ts": "2026-11-25T17:41:48Z",
+      "revid": 25396,
+      "ts": "2026-11-25T21:17:09Z",
       "redirect": false
     },
     "Player": {
@@ -1006,8 +1006,8 @@
       "redirect": false
     },
     "Sunny Meadows Mental Institution": {
-      "revid": 25305,
-      "ts": "2026-11-14T04:13:47Z",
+      "revid": 25399,
+      "ts": "2026-11-26T00:42:30Z",
       "redirect": false
     },
     "0.6.2.3": {
@@ -1836,8 +1836,8 @@
       "redirect": false
     },
     "Kormos": {
-      "revid": 25171,
-      "ts": "2026-10-28T22:50:29Z",
+      "revid": 25395,
+      "ts": "2026-11-25T21:15:11Z",
       "redirect": false
     },
     "0.17.1.1": {
@@ -1906,8 +1906,8 @@
       "redirect": false
     },
     "Dowsing Rods": {
-      "revid": 25377,
-      "ts": "2026-11-24T22:46:20Z",
+      "revid": 25400,
+      "ts": "2026-11-26T03:14:41Z",
       "redirect": false
     }
   }

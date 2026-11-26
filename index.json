@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T20:59:44.906Z",
+  "generated": "2026-11-26T03:25:33.201Z",
   "counts": {
     "en": 324,
     "zh": 288
@@ -247,8 +247,8 @@
       {
         "t": "Yurei",
         "f": "pages/en/Yurei.txt",
-        "b": 8368,
-        "r": 25378,
+        "b": 8256,
+        "r": 25398,
         "x": "{{Ghost |image1=Yurei Discovered.jpg |abiliti(es)=*May randomly shut a door and deduct nearby players' sanity |weakness(es)=*Will be temporarily confined to its room after smudging |Evidence1=[[File:DOTS_projector_sprite"
       },
       {
@@ -471,8 +471,8 @@
       {
         "t": "Ghost Event",
         "f": "pages/en/Ghost Event.txt",
-        "b": 11978,
-        "r": 25389,
+        "b": 11950,
+        "r": 25396,
         "x": "A '''ghost event''' is a manifestation of the [[ghost]] in the mortal world other than a [[hunt]] and which does not directly interact with the environment (unlike an [[interaction]]). Ghost events vary from full on phys"
       },
       {
@@ -1234,8 +1234,8 @@
       {
         "t": "Sunny Meadows Mental Institution",
         "f": "pages/en/Sunny Meadows Mental Institution.txt",
-        "b": 30065,
-        "r": 25305,
+        "b": 30271,
+        "r": 25399,
         "x": "{{Location |img=Smmi updated1.png |imgcaption=Main entrance porch. |mapsize=Large |floors=2 |unlocklevel=17 |rooms=69 (Total) *1F: 44 *B: 22 *Staircases: 3 *53 possible ghost rooms |exits=1 |faucets=22 |videofeeds=8 |key"
       },
       {
@@ -2172,8 +2172,8 @@
       {
         "t": "Kormos",
         "f": "pages/en/Kormos.txt",
-        "b": 8092,
-        "r": 25171,
+        "b": 8014,
+        "r": 25395,
         "x": "{{Ghost |image1= |strength=*Higher hunt sanity threshold when nearby players sprint outside hunts. *Can detect a player's footsteps from far away during a hunt. |weakness(es)=*Nearly blind and cannot see still players or"
       },
       {
@@ -2270,9 +2270,9 @@
       {
         "t": "Dowsing Rods",
         "f": "pages/en/Dowsing Rods.txt",
-        "b": 2871,
-        "r": 25377,
-        "x": "{{MessageBox|text='''This page is under construction.'''}} {{Equipment Template | tier i img=DowsingRods_T1.png | tier ii img=DowsingRods_T2.png | tier iii img=DowsingRods_T3.png | price=$60 | maxamount=2 | uses= | start"
+        "b": 4202,
+        "r": 25400,
+        "x": "{{Equipment Template | tier i img=DowsingRods_T1.png | tier ii img=DowsingRods_T2.png | tier iii img=DowsingRods_T3.png | price=$60 | maxamount=2 | uses= | starter=No | tier i level=45 | tier ii level=60 | tier iii level"
       }
     ],
     "zh": [

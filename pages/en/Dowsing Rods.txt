@@ -1,9 +1,9 @@
 # Dowsing Rods
-# revid 25377  2026-11-24T22:46:20Z  by VVSlavik
-# sha256 b541ac736c3439ee05431b3408e5590e6919f1bfc257df595dacb8d62483ed0d  bytes 2673
+# revid 25400  2026-11-26T03:14:41Z  by Darkhooper
+# 备注: added the mechanics
+# sha256 a628aaa4e9c2bd414a8472eca3c82b7aaf7f9ef22405312311ec69396955e48b  bytes 3972
 # 源: https://phasmophobia.fandom.com/api.php
 
-{{MessageBox|text='''This page is under construction.'''}}
 {{Equipment Template
  | tier i img=DowsingRods_T1.png
  | tier ii img=DowsingRods_T2.png
@@ -27,9 +27,47 @@
  | tier iii purpose=These Dowsing Rods are able to show the exact direction of the Bone, and have a much higher range. They will also indicate whether the Bone is on a floor above or below you, by tilting towards the ceiling or floor (unless you have reached the correct floor). Note: tilting will only work when you are directly above or below the Bone.<br><br>Walk as you use them to determine the Bone's direction.
  | tier iii ability=<span style="color: #008000;">Accuracy: High</span><br><span style="color: #008000;">Range (m): 60</span>
 }}
-The '''dowsing rods''' are an optional piece of equipment used to locate the [[Bone Evidence|bone]].
+The '''dowsing rods''' are an optional piece of [[equipment]] used to locate the [[Bone Evidence|bone]].
 
 ==Mechanics==
+When the dowsing rods are being held, they will slowly move back and forth in parallel. The rods will start twitching and stop being parallel when within a certain range of the bone (including through floors) inside the investigation area. As they get even closer to the bone, the rods will cross, at first only when facing the bone, then permanently regardless of the facing direction if the bone is close enough.
+
+The ranges depend on the tier:
+{| class="fandom-table"
+!Tier
+!Bone detection range
+!Crossed when facing the bone
+!Angle to face the bone
+!Always crossed
+|-
+|I
+|12 metres
+|10 metres
+|110°
+|7 metres
+|-
+|II
+|19 metres
+|15 metres
+|30°
+|4 metres
+|-
+|III
+|25 metres
+|20 metres
+|30°
+|2 metres
+|}
+<br>For tiers I and II rods, they additionally stay crossed regardless of the facing direction if the bone is within the bone detection range ''and'' in the same room.
+
+Tiers II and III rods will tilt upwards or downwards to indicate whether the bone is located at a floor above or below the player's current floor.
+
+Players will need to stand still for the rods to sense the bone, unless they use the tier III rods.
+
+During [[hunt]]s, the dowsing rods will stop sensing the bone to sense the [[ghost]] instead. The range at which the rods detect the ghost is larger than for the bone:
+*Tier I: 22 metres
+*Tier II: 34 metres
+*Tier III: 45 metres
 
 ==History==
 {| class="fandom-table"

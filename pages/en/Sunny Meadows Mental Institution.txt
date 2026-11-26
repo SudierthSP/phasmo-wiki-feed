@@ -1,7 +1,7 @@
 # Sunny Meadows Mental Institution
-# revid 25305  2026-11-14T04:13:47Z  by Darkhooper
-# 备注: fixed Restricted Hospital infobox: Foyer cannot be a fav room
-# sha256 450c0b8ebbb53c1f6c4a4f7a0358139c6c74adf6b644d4ad2970b0785edfb0ff  bytes 29772
+# revid 25399  2026-11-26T00:42:30Z  by Darkhooper
+# 备注: boilers
+# sha256 1f1143dea56e2df160deb6dcf3aeec373a2947a96459db7cb98e9907c9f6b609  bytes 30032
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Location
@@ -48,6 +48,7 @@ Sunny Meadows contains 69 rooms, split into 5 wings and across 2 floors, as well
 **The room names '''Servant Room 1''' and '''Servant Room 2''' are swapped on this map from what is actually defined in-game.
 *Certain rooms contain old bell-type alarm clocks and metronomes which the ghost might interact with.
 *The crosses found hanging on the walls in various parts of the building can be turned upside down by the ghost, which will emit a loud scratching sound. Finding a cross that has been turned upside down (except for the ones in the Chapel) is a strong sign that the ghost is nearby. Crosses cannot be flipped back upright once they have been interacted with.
+*Lighting a boiler in '''Boiler House''' will maintain the temperature of that room at {{Temperature|20}} even if the ghost is in that room. If the [[weather]] is Snow, the room will be maintained at {{Temperature|3}} instead. Ghosts cannot light the boilers.
 
 The [[Ghost Room|favourite room]] cannot be any of the following rooms:
 <div style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">

@@ -1,7 +1,7 @@
 # Yurei
-# revid 25378  2026-11-25T02:29:23Z  by Darkhooper
-# 备注: moved Hunt section below Ability / added 0.20 in History section
-# sha256 966f956c34f8560cd1f308a5699fc80fc9b4d8bbf72344a722a3db7a931f997f  bytes 8100
+# revid 25398  2026-11-26T00:33:49Z  by CrashCoaster
+# 备注: /* Evidence */
+# sha256 03b0ca8f9fd9e0f256e0cb4f83d4493611c1da39f07252f9646dbf2ce7bf3b68  bytes 8036
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -34,7 +34,7 @@ When choosing to use its ability, the Yurei will first check if its current room
 
 If the check is successful, the following is caused:
 *All players within 7.5 metres of the ghost will have their sanity decreased by 15%. Players outside the investigation area will not be affected by the sanity drain.
-*The ghost will randomly select one opened door in the room and close it fully in a smooth way (as opposed to a strong slam) without any creaking sound. This in turn produces an [[EMF]] 2 [[interaction]] on that door.
+*The ghost will randomly select one opened door in the room and forcefully slam it shut. This in turn produces an [[EMF]] 2 [[interaction]] on that door.
 **Large tent doors will not fully close.
 
 ===Hunt===
