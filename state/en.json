@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-26T03:25:33.565Z",
+  "updated": "2026-11-26T22:08:00.777Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 381,
   "redirectCount": 57,
@@ -186,8 +186,8 @@
       "redirect": false
     },
     "Yurei": {
-      "revid": 25398,
-      "ts": "2026-11-26T00:33:49Z",
+      "revid": 25407,
+      "ts": "2026-11-26T18:47:09Z",
       "redirect": false
     },
     "Oni": {
@@ -236,13 +236,13 @@
       "redirect": false
     },
     "Firelight": {
-      "revid": 24625,
-      "ts": "2026-09-10T17:47:19Z",
+      "revid": 25404,
+      "ts": "2026-11-26T16:52:59Z",
       "redirect": false
     },
     "Sound Sensor": {
-      "revid": 25372,
-      "ts": "2026-11-24T17:56:39Z",
+      "revid": 25402,
+      "ts": "2026-11-26T16:37:36Z",
       "redirect": false
     },
     "Video Camera": {
@@ -801,8 +801,8 @@
       "redirect": false
     },
     "Summoning Circle": {
-      "revid": 25138,
-      "ts": "2026-10-23T15:36:32Z",
+      "revid": 25403,
+      "ts": "2026-11-26T16:44:42Z",
       "redirect": false
     },
     "Music Box": {
@@ -1031,8 +1031,8 @@
       "redirect": false
     },
     "Door": {
-      "revid": 25164,
-      "ts": "2026-10-28T09:44:25Z",
+      "revid": 25406,
+      "ts": "2026-11-26T18:46:42Z",
       "redirect": false
     },
     "Camp Woodwind": {
@@ -1211,8 +1211,8 @@
       "redirect": false
     },
     "Monkey Paw": {
-      "revid": 25358,
-      "ts": "2026-11-24T15:46:51Z",
+      "revid": 25405,
+      "ts": "2026-11-26T17:50:24Z",
       "redirect": false
     },
     "0.8.1.1": {

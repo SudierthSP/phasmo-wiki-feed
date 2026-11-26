@@ -1,7 +1,7 @@
 # Summoning Circle
-# revid 25138  2026-10-23T15:36:32Z  by Darkhooper
-# 备注: host/non-host issue
-# sha256 b75aa247066eef7e0b9354b340ad073bd580440f7e40a598f3808299a03f0486  bytes 5194
+# revid 25403  2026-11-26T16:44:42Z  by Darkhooper
+# 备注: 0.20 bug fix
+# sha256 0f09f11e8aa093923fb00dc23dbb0f12fdae2c6cc0e02f27cf9310bb23b5e57b  bytes 4979
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Item_Template
@@ -16,7 +16,7 @@ The '''summoning circle''' is a [[Cursed Possession|cursed possession]] that is 
 As a cursed possession, the summoning circle has a 1 in 7 chance of being the chosen item that will spawn on a map on preset [[difficulty|difficulties]], with one spawn location per map.
 
 ===Usage===
-The summoning circle can be used by lighting all five red candles by aiming at them and by pressing the {{Control|Secondary Use}} button with a lit [[igniter]] or a lit [[firelight]].<ref group="note">There is currently a bug where lighting the candles using a firelight will not drain any sanity, make them visually lit only for the player who lit them, and not trigger the ghost event/hunt.</ref> Each lit candle deducts 16% [[sanity]] from nearby players. Contrary to other fire sources, ghosts cannot light these candles up.
+The summoning circle can be used by lighting all five red candles by aiming at them and by pressing the {{Control|Secondary Use}} button with a lit [[igniter]] or a lit [[firelight]]. Each lit candle deducts 16% [[sanity]] from nearby players. Contrary to other fire sources, ghosts cannot light these candles up.
 
 Summoning circle candles can be blown out by the ghost, in the same way as regular [[firelight]]s. However, they cannot self-extinguish except when lit while the player has less than 16% sanity.<ref group="note" name="a">Due to a bug in multiplayer, a non-host player can light up the candles even with no sanity if the host player is not within 3 meters of the center of the circle.</ref> Relighting an extinguished candle will drain 16% sanity again for nearby players.
 

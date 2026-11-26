@@ -1,7 +1,7 @@
 # Firelight
-# revid 24625  2026-09-10T17:47:19Z  by Darkhooper
-# 备注: added another bug with tier 2 firelights
-# sha256 9a17e3d2d2a2629a20825b451c6b309f8472fd6e87d3500cdf883c39da0d4c87  bytes 8999
+# revid 25404  2026-11-26T16:52:59Z  by Darkhooper
+# 备注: 0.20 bug fix
+# sha256 03f3f3c7fdae365a7cf7b8974462f08d1a4b146421f424cf14d5b332e54fd4b0  bytes 8820
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -42,7 +42,7 @@ Firelights can be {{Control|placed}} down on surfaces. Holding the placement key
 ===Function===
 When a player is within 2 metres of a lit firelight, it will slow passive sanity drain that results from being in the dark, at a rate depending on the firelight's tier level. Lit firelights do not affect sanity drain from other sources such as ghost events or other players dying.
 
-Ghosts can blow out firelights at any time, even during hunts, and this will create an [[EMF]] 2 reading (or [[EMF Level 5]]). When blown out, the firelight will be extinguished with a blowing "sigh" effect. A firelight will also extinguish by itself at the end of its duration which depends on its tier level.<ref group="note">There is currently a bug where lighting a Tier I firelight using another firelight will make it last eternally and stay lit even if the ghost blows it out.</ref> Tier I and Tier II firelights will produce smoke when blown out by the ghost or self-extinguishing. Contrary to [[Fire Source|fire sources]], however, ghosts cannot light firelights up.
+Ghosts can blow out firelights at any time, even during hunts, and this will create an [[EMF]] 2 reading (or [[EMF Level 5]]). When blown out, the firelight will be extinguished with a blowing "sigh" effect. A firelight will also extinguish by itself at the end of its duration which depends on its tier level. Tier I and Tier II firelights will produce smoke when blown out by the ghost or self-extinguishing. Contrary to [[Fire Source|fire sources]], however, ghosts cannot light firelights up.
 
 Like with fire sources, when a firelight is lit up for the first time, there will be a 30-second cooldown before the ghost can attempt to blow it out. If the ghost did not blow out the firelight at the end of a cooldown, or if the firelight is not lit for the first time, a new cooldown is set with a random duration between 20 and 80 seconds.<ref group="note">There is currently a bug where the Tier II firelight's first cooldown directly has a random duration between 20 and 80 seconds instead of 30 seconds if it has been lit while held in hand.</ref> The [[Onryo]] can bypass these cooldowns due to its hunt prevention mechanics.
 *Note that Tier III firelights will pause the current cooldown if they are turned off by the player or an Onryo's hunt attempt.

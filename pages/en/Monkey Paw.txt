@@ -1,7 +1,7 @@
 # Monkey Paw
-# revid 25358  2026-11-24T15:46:51Z  by Darkhooper
-# 备注: I wish for sanity & Goryo
-# sha256 5c64b884fc384a15fb3ce645b623f572a034b1d095f9d77cfed7becf381e918d  bytes 10573
+# revid 25405  2026-11-26T17:50:24Z  by Darkhooper
+# 备注: added Trivia about the sanity wish
+# sha256 bfe74749320411e08b09d9ee6fe94710e60d07795f890784f57184b3af790a04  bytes 10925
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Item_Template
@@ -116,7 +116,9 @@ Taking a photo of a Monkey Paw, regardless of the number of uses, will yield a p
 
 ==Trivia==
 *The Monkey Paw was [https://www.makeship.com/products/cursed-monkey-paw-plushie available as official merchandise] for a limited time, until 3 July 2024 (UK time).
-*When wishing for sanity, the ghost doesn't teleport immediately to the new ghost room, but will have to enter the "Favourite room" state to walk to its new room, which usually happens shortly after wishing. Tier III [[salt]] can be used to deter this.
+*When wishing for sanity, the ghost doesn't teleport immediately to the new ghost room, but will have to enter the "Favourite room" state to walk to its new room, which usually happens shortly after wishing.
+*When the sanity wish picks a new favourite room for the ghost, it will never pick the ghost's current favourite room nor the room that precedes it in an arbitrary list.
+**For example, on [[Point Hope#Point Hope - Restricted|Point Hope Restricted]], if the ghost's current favourite room is Kitchen, then using this wish will never select Kitchen or Living Room as the ghost's new favourite room.
 *The safety wish technically makes the ghost able to detect the player through voice or electronics within 1,000 metres. This wiki uses the phrase "any distance" since there is no map where the player can be 1,000 metres away from the ghost.
 *The idea of a "Monkey's Paw" being used to grant wishes is very likely inspired by the short story [[wikipedia:The Monkey's Paw|The Monkey's Paw]] by [[wikipedia:W. W. Jacobs|W. W. Jacobs]].
 

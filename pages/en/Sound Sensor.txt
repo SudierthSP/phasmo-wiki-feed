@@ -1,6 +1,7 @@
 # Sound Sensor
-# revid 25372  2026-11-24T17:56:39Z  by Darkhooper
-# sha256 6285f930c051745fe68e91d03d913335626ae0a4ffde60b1ea9b9fac2c38108f  bytes 5947
+# revid 25402  2026-11-26T16:37:36Z  by Darkhooper
+# 备注: EMF 5 can now be detected by sound sensors
+# sha256 8e63022b126196f859a82c1a0efc685ab8aa30bc6d753115f994796d9d6eea48  bytes 5740
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Equipment Template
@@ -33,19 +34,17 @@ A sound sensor can be {{Control|placed}} on the ground or other flat surface. Th
 
 Any noise picked up by a sensor will appear as a bar on the [[Sound Monitor]], showing how loud the sound was and identifying which sensor picked up the sound. The screen will display the total volume of all sounds detected. The value displayed will update every second.
 
-<!--0.1 dB picked up on a [[Parabolic Microphone]] is equivalent to 1% on the Sound Monitor.
--->
 By default, the sound sensor picks up sound in a 5-meter radius on the same floor, ignoring walls. This radius can be increased by clicking on the enlargement icon on the [[Sound Monitor]] in the truck. The sound sensor can also be muted by clicking on the speaker icon.
 
 The Tier III Sound Sensor has two additional modes which can be switched to by {{Control|interacting}} with it while it is placed, or {{Control|toggling}} directly while in hand. These modes can't be switched from the truck.
 
 ==Tips==
-*A Sound Sensor can be used to monitor [[Ghost Writing]] evidence as the [[Ghost Writing Book]] produces a distinctive scribbling sound when the ghost writes in it.
+*A Sound Sensor can be used to monitor [[Ghost Writing]] and [[EMF Level 5]].
 *Placing sound sensors in a central area of several rooms is a good way to cover a lot of ground when looking for the ghost's location early on.
 
 ==Trivia==
 *Sound sensors detect the noise of the [[Haunted Mirror]] if it is in their range.
-*Some equipment are not picked up by the sound sensor such as the [[EMF Reader]] and the [[Spirit Box]].
+*Some equipment are not picked up by the sound sensor such as the [[Spirit Box]].
 
 ==History==
 {| class="fandom-table"

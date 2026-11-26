@@ -1,7 +1,7 @@
 # Yurei
-# revid 25398  2026-11-26T00:33:49Z  by CrashCoaster
-# 备注: /* Evidence */
-# sha256 03b0ca8f9fd9e0f256e0cb4f83d4493611c1da39f07252f9646dbf2ce7bf3b68  bytes 8036
+# revid 25407  2026-11-26T18:47:09Z  by Darkhooper
+# 备注: added more 0.20 mechanics
+# sha256 b55f7d4d94c40d0c9d4d8c740876beb0dba40ec950b62a824c5847c5193e6de3  bytes 7606
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -20,12 +20,7 @@
 ===Activity===
 When [[Incense]] is used on the Yurei, in addition to preventing hunts and temporarily increasing [[activity]], every [[roaming]] state will be replaced by a [[ghost room|favourite room]] state for 90 seconds<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1241836234834313247 ''"It was changed quite a while ago to match the smudge timer..."'' Shuee, Lead QA (on Discord). 19 May 2024]</ref>, which also prevents the ghost from entering a [[D.O.T.S Projector (Evidence)|D.O.T.S state]].
 
-When [[Interaction|interacting]] with a [[door]], the Yurei applies a greater force and moves it slightly faster than other ghosts:
-*When opening or closing a hinged door, it will use a force of 0.6N instead of a 0.01N-0.05N for other ghosts.
-*When opening or closing a sliding door, it will use a force of 26N instead of 1N-2N for other ghosts.
-*When opening or closing a tent door, it will use a force of 10N instead of 0.5N-0.7N for other ghosts.
-*When opening or closing a hinged/sliding door with a creaking sound, it will always use an amplitude of 1 instead of 0.2-1 for other ghosts.
-In practice, this means the Yurei cannot slightly move doors and can only either close them completely, or open them completely.<ref>[https://www.twitch.tv/cjdxn/clip/CaringCreativeFiddleheadsBloodTrail-m5n1N4k4YRxOhyYY cjdxn confirming Yurei can be eliminated if the door moves a little bit (on Twitch). 26 June 2025.]</ref><ref group="note">There is a bug where the Yurei doesn't open/close locker doors completely, as shown in [https://youtu.be/-Hz-xW8W0hU this video].</ref>
+When [[Interaction|interacting]] with a [[door]], the Yurei will only open it or close it '''completely''', whereas other ghosts will open/close doors partially ''or'' completely. Its door interactions are also faster than with other ghosts, using a random speed multiplier between 1.6 and 2.4. Additionally, the player cannot grab a door that is being interacted with by the Yurei, and obstacles will not stop the door's movement.
 
 Outside of its ability, the Yurei doesn't have an increased chance to interact with doors.<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1203726497509150800 ''"yurei doesn't have increased chance to touch doors..."'' Shuee, Moderator (on Discord). 4 February 2024.]</ref>
 
@@ -34,11 +29,12 @@ When choosing to use its ability, the Yurei will first check if its current room
 
 If the check is successful, the following is caused:
 *All players within 7.5 metres of the ghost will have their sanity decreased by 15%. Players outside the investigation area will not be affected by the sanity drain.
-*The ghost will randomly select one opened door in the room and forcefully slam it shut. This in turn produces an [[EMF]] 2 [[interaction]] on that door.
+*The ghost will randomly select one opened door in the room and forcefully slam it shut. This in turn produces an [[EMF]] 2 on that door.
+**There is a 85% chance for that door to shake first before being slammed shut.
 **Large tent doors will not fully close.
 
 ===Hunt===
-During a [[hunt]], the Yurei will open and close doors faster than other ghosts.
+During a [[hunt]], the Yurei is the only ghost that can close doors (outside of the special door detection), and its door interactions are faster than with other ghosts.
 
 ==Evidence==
 <center>
@@ -92,7 +88,9 @@ If the Yurei refrains from using its ability, one can look out for its weakness 
 ![[0.8.0]]
 |The Yurei can no longer use its ability if it is in a room that does not have a door.
 |-
-! rowspan="2" |[[0.20.0]]
+! rowspan="3" |[[0.20.0]]
+|A Yurei will now open and close doors during hunts.
+|-
 |A Yurei's normal interactions with doors are now slightly faster than other ghost types.
 |-
 |During a hunt, the Yurei now moves doors faster than other ghost types.
