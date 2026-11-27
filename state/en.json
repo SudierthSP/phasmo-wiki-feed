@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-27T04:12:27.033Z",
+  "updated": "2026-11-27T22:26:06.396Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 381,
   "redirectCount": 57,
@@ -166,8 +166,8 @@
       "redirect": false
     },
     "Banshee": {
-      "revid": 25342,
-      "ts": "2026-11-23T10:15:58Z",
+      "revid": 25413,
+      "ts": "2026-11-27T16:36:23Z",
       "redirect": false
     },
     "Shade": {
@@ -596,8 +596,8 @@
       "redirect": false
     },
     "D.O.T.S. Projector (Evidence)": {
-      "revid": 25339,
-      "ts": "2026-11-22T21:51:00Z",
+      "revid": 25416,
+      "ts": "2026-11-27T17:13:21Z",
       "redirect": false
     },
     "0.3.1.0": {
@@ -1676,8 +1676,8 @@
       "redirect": false
     },
     "Fire Source": {
-      "revid": 24533,
-      "ts": "2026-08-26T17:32:31Z",
+      "revid": 25415,
+      "ts": "2026-11-27T16:54:13Z",
       "redirect": false
     },
     "0.14.0": {

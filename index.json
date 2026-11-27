@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T04:12:26.596Z",
+  "generated": "2026-11-27T22:26:06.006Z",
   "counts": {
     "en": 324,
     "zh": 288
@@ -219,8 +219,8 @@
       {
         "t": "Banshee",
         "f": "pages/en/Banshee.txt",
-        "b": 15250,
-        "r": 25342,
+        "b": 14590,
+        "r": 25413,
         "x": "{{Ghost |title=Banshee |image1=Banshee Discovered.jpg |strength= *Focuses on the same player until that player is killed or has left the game |weakness(es)= *Cannot kill players other than the target if the target is ins"
       },
       {
@@ -723,8 +723,8 @@
       {
         "t": "D.O.T.S. Projector (Evidence)",
         "f": "pages/en/D.O.T.S. Projector (Evidence).txt",
-        "b": 5983,
-        "r": 25339,
+        "b": 5901,
+        "r": 25416,
         "x": "{{Evidence_Infobox |title1=D.O.T.S Projector |image1=[[File:DOTS090_animation_videocamera.gif]] |detected_by=[[D.O.T.S. Projector]] |caption1=A ghostly sillhouette appearing on the video feed with Night Vision. }}{{Quote"
       },
       {
@@ -1990,8 +1990,8 @@
       {
         "t": "Fire Source",
         "f": "pages/en/Fire Source.txt",
-        "b": 2460,
-        "r": 24533,
+        "b": 2284,
+        "r": 25415,
         "x": "[[File:Edgefield Candle.png|thumb|A candle in [[42 Edgefield Road]].]] [[File:Woodwind Campfire.png|thumb|A campfire in [[Camp Woodwind]].]] [[File:Point Hope Fireplace.png|thumb|A fireplace in [[Point Hope]].]] '''Fire "
       },
       {

@@ -1,7 +1,7 @@
 # Banshee
-# revid 25342  2026-11-23T10:15:58Z  by Darkhooper
-# 备注: moved paranormal screams to Activity section and moved D.O.T.S. state to Ability section
-# sha256 1eb6f5a0759066b3a4f9f1d8465fc0444d69e3426f5960216eb3f06d41568aa0  bytes 14955
+# revid 25413  2026-11-27T16:36:23Z  by Darkhooper
+# 备注: changed strategies in 0.20
+# sha256 75cc712c757619b1c461cf908b448ff9b2c847b6b237bc2f123fb5159b2def98  bytes 14357
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -45,7 +45,7 @@ When a [[Parabolic Microphone]] or a [[Sound Recorder]] is used, the Banshee has
 ===Ability===
 When the Banshee performs a short roam, if the hunt target is inside the investigation area, it has a 2/3 (67%) chance of triggering its ability which makes it place a waypoint within 3 metres of the target's location, and travel to it. Unlike the [[Wraith]]'s and the [[Phantom]]'s abilities, this will not create any EMF reading.
 
-While in [[D.O.T.S. Projector (Evidence)|D.O.T.S. state]], the Banshee has a 2/3 chance to place a waypoint within 2 metres of the hunt target. If that chance fails or if the hunt target is not inside the investigation area, the Banshee will only move in D.O.T.S. towards a random waypoint within 2 metres of it.
+While in [[D.O.T.S. Projector (Evidence)|D.O.T.S. state]], the Banshee has a 2/3 chance to walk to the hunt target. If that chance fails or if the hunt target is not inside the investigation area, the Banshee will only move in D.O.T.S. towards a random waypoint within its favourite room.
 
 The ability, whether a short roam or a D.O.T.S. state, fails if the [[roaming#Mechanics|short roam conditions]] are not fulfilled (e.g. waypoint not on same floor, pathing distance greater than 150% direct distance).<ref group="note">There is a bug where the "Abilities used" statistic does not increase when the Banshee uses its ability. It will only increase if the Banshee fails the ability and instantly chooses to perform a long roam with the ''Changing favourite room'' difficulty setting not set to None, or if the Banshee reaches the D.O.T.S. state's limit of 6 seconds.</ref>
 
@@ -77,9 +77,7 @@ These are the strengths and weaknesses as listed in the [[journal]]:
 ==Strategies==
 The Banshee is a female-only ghost; it can be excluded if the ghost presents a masculine name, or appears as a male ghost model and uses a male vocalization during an event/hunt. For the Banshee, this can also be done (albeit with more difficulty) if it appears on D.O.T.S.
 
-While in a D.O.T.S. state, the Banshee will never walk directly towards a player who is not its hunt target. If only one player stands in the same room as the ghost, is considered the closest player to the ghost, and the ghost walks away from that player in D.O.T.S., then it is a Banshee. Ensure that the player is not within 2 metres of the ghost when doing this test as ghosts walk towards a random waypoint within 2 metres of the closest player (if they are in the same room), not towards the player's exact location.
-
-Another strategy with the D.O.T.S. state is to have all players outside the investigation area and to check the ghost's behaviour in D.O.T.S. Since the Banshee only moves within 2 metres of itself in D.O.T.S. if the hunt target is outside, witnessing a D.O.T.S. state that lasts longer than 1.76 seconds definitively eliminates the Banshee.
+While in a D.O.T.S. state, the Banshee will never walk directly towards a player who is not its hunt target. If only one player stands in the same room as the ghost, is considered the closest player to the ghost, and the ghost walks away from that player in D.O.T.S., then it is a Banshee.
 
 Identifying the target player of a Banshee both conclusively identifies it and can provide players with a significant edge, such as making hunt-related objectives much easier, and enabling the other players to continue investigating during hunts with impunity, though it is important to note that the target player must be inside the investigation area for this to be applicable. Alternatively, the target player can altogether prevent hunts indefinitely by topping up their sanity with [[Sanity Medication]] and staying outside the investigation area to never drop below the hunt threshold, for a completely safe investigation. There are several methods players may use to identify a Banshee's target:
 *Banshees will only check for the individual sanity level of the target player when attempting to hunt. If the ghost hunts above 50% average sanity, and one player is below 50% sanity, then they could be the target. Likewise, if the ghost refrains from hunting at below 50% average sanity, but one player has high sanity, they can be presumed to be the Banshee's target; be mindful of mistaking it with ghosts that have different hunt sanity thresholds such as the [[Demon]] or the [[Shade]].
