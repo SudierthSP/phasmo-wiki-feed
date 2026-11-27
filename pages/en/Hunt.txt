@@ -1,7 +1,7 @@
 # Hunt
-# revid 25147  2026-10-24T20:17:32Z  by Darkhooper
-# 备注: moved Activity subsection / added info about hunt cooldowns not restarting under a specific condition
-# sha256 6a1e5b9ab84de89d57956dc726a3907cefe114b5fc0b263d91bd9f87c653d118  bytes 34674
+# revid 25409  2026-11-27T00:22:18Z  by Darkhooper
+# 备注: door interaction force during hunts
+# sha256 d444aa4e1a0424e468b3840792eb951491de8caa6390890b802a7dd9fe67c5a2  bytes 34708
 # 源: https://phasmophobia.fandom.com/api.php
 
 <div class="mw-collapsible mw-collapsed" style="width:400px; margin-left:1%; float:right; text-align:right">
@@ -342,7 +342,7 @@ For comparison, the player walks at 1.6 m/s and can sprint at 3 m/s for 3 second
 ==Interacting with objects==
 Ghosts are able to perform [[interaction]]s during hunts. There are similarities and differences from non-hunt interactions:
 *All ghosts have a 50% chance (100% chance for [[Poltergeist]]) of throwing one [[prop|object]] near them (within their [[interaction]] range)<ref>[https://youtu.be/09UJG8RuYtE?si=YQTenwgH9QzMrtJd A hunt throwing range test (on YouTube). 16 November 2024.]</ref> every 0.5 seconds during hunts, 4 seconds after the beginning of the hunt.
-*Ghosts can interact with all types of [[door]]s, except [[exit door]]s and other types of furniture doors, 3 seconds after the beginning of the hunt then every 4 - 8 seconds. If a ghost with the [[Ultraviolet]] evidence interacts with a door, it will leave the evidence accordingly.
+*Ghosts can interact with all types of [[door]]s, except [[exit door]]s and other types of furniture doors, 3 seconds after the beginning of the hunt then every 4 - 8 seconds, with a force between 1.3 and 1.5. If a ghost with the [[Ultraviolet]] evidence interacts with a door, it will leave the evidence accordingly.
 **If the player is holding a normal or closet door, the ghost cannot override it unless it detects the player as defined [[#Detection in hiding spots with doors|above]]. It can still leave an EMF signal and Ultraviolet (if applicable) if it cannot override the door.
 **Ghosts cannot randomly interact with small tent (hiding) doors but will do so if a player is detected in the small tent.
 *The ghost can blow out firelights within 5 meters during a hunt, though this is technically not a true interaction.

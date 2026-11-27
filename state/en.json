@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-26T22:08:00.777Z",
+  "updated": "2026-11-27T04:12:27.033Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 381,
   "redirectCount": 57,
@@ -16,8 +16,8 @@
       "redirect": false
     },
     "Hunt": {
-      "revid": 25147,
-      "ts": "2026-10-24T20:17:32Z",
+      "revid": 25409,
+      "ts": "2026-11-27T00:22:18Z",
       "redirect": false
     },
     "Evidence": {
@@ -186,8 +186,8 @@
       "redirect": false
     },
     "Yurei": {
-      "revid": 25407,
-      "ts": "2026-11-26T18:47:09Z",
+      "revid": 25411,
+      "ts": "2026-11-27T01:50:05Z",
       "redirect": false
     },
     "Oni": {
@@ -1031,8 +1031,8 @@
       "redirect": false
     },
     "Door": {
-      "revid": 25406,
-      "ts": "2026-11-26T18:46:42Z",
+      "revid": 25410,
+      "ts": "2026-11-27T01:02:37Z",
       "redirect": false
     },
     "Camp Woodwind": {

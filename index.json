@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T22:08:00.351Z",
+  "generated": "2026-11-27T04:12:26.596Z",
   "counts": {
     "en": 324,
     "zh": 288
@@ -23,8 +23,8 @@
       {
         "t": "Hunt",
         "f": "pages/en/Hunt.txt",
-        "b": 34979,
-        "r": 25147,
+        "b": 34947,
+        "r": 25409,
         "x": "<div class=\"mw-collapsible mw-collapsed\" style=\"width:400px; margin-left:1%; float:right; text-align:right\"> '''<span style=\"color:#efcf00\">This image has flashing lights.</span>'''<div class=\"mw-collapsible-content\">[[F"
       },
       {
@@ -247,8 +247,8 @@
       {
         "t": "Yurei",
         "f": "pages/en/Yurei.txt",
-        "b": 7835,
-        "r": 25407,
+        "b": 9084,
+        "r": 25411,
         "x": "{{Ghost |image1=Yurei Discovered.jpg |abiliti(es)=*May randomly shut a door and deduct nearby players' sanity |weakness(es)=*Will be temporarily confined to its room after smudging |Evidence1=[[File:DOTS_projector_sprite"
       },
       {
@@ -1269,8 +1269,8 @@
       {
         "t": "Door",
         "f": "pages/en/Door.txt",
-        "b": 6449,
-        "r": 25406,
+        "b": 6778,
+        "r": 25410,
         "x": "'''Doors''' are map elements that play an important role in ''Phasmophobia''. They are crucial to the game's mechanics and provide help during investigations. ==Types of doors== All [[map]]s contain doors of some sort. T"
       },
       {

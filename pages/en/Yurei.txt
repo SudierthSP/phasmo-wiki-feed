@@ -1,7 +1,6 @@
 # Yurei
-# revid 25407  2026-11-26T18:47:09Z  by Darkhooper
-# 备注: added more 0.20 mechanics
-# sha256 b55f7d4d94c40d0c9d4d8c740876beb0dba40ec950b62a824c5847c5193e6de3  bytes 7606
+# revid 25411  2026-11-27T01:50:05Z  by Darkhooper
+# sha256 7583b0f8bd8b779cbbfab9978bce75eebab068308837753aba0dad142798af57  bytes 8891
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Ghost
@@ -22,6 +21,10 @@ When [[Incense]] is used on the Yurei, in addition to preventing hunts and tempo
 
 When [[Interaction|interacting]] with a [[door]], the Yurei will only open it or close it '''completely''', whereas other ghosts will open/close doors partially ''or'' completely. Its door interactions are also faster than with other ghosts, using a random speed multiplier between 1.6 and 2.4. Additionally, the player cannot grab a door that is being interacted with by the Yurei, and obstacles will not stop the door's movement.
 
+Like with other ghosts, a Yurei's normal door interaction has 3 variants: "normal" (70% chance), "slam" (15% chance), and "creaking" (15% chance).
+*The "slam" variant is similar to the Yurei's ability.
+*The "creaking" variant plays a creaking sound, except if a player is within 1 metre of the door.
+
 Outside of its ability, the Yurei doesn't have an increased chance to interact with doors.<ref>[https://discord.com/channels/435431947963990026/765596827537244200/1203726497509150800 ''"yurei doesn't have increased chance to touch doors..."'' Shuee, Moderator (on Discord). 4 February 2024.]</ref>
 
 ===Ability===
@@ -29,12 +32,15 @@ When choosing to use its ability, the Yurei will first check if its current room
 
 If the check is successful, the following is caused:
 *All players within 7.5 metres of the ghost will have their sanity decreased by 15%. Players outside the investigation area will not be affected by the sanity drain.
-*The ghost will randomly select one opened door in the room and forcefully slam it shut. This in turn produces an [[EMF]] 2 on that door.
-**There is a 85% chance for that door to shake first before being slammed shut.
-**Large tent doors will not fully close.
+*The ghost will randomly select one opened door in the room and forcefully slam it shut in 0.2 seconds. This in turn produces an [[EMF]] 2 on that door.
+**There is a 85% chance for that door to shake first before being slammed shut, like any door interaction.
+**This also forces the player to release that door and prevents them from grabbing it until the animation completes.
+**Tent doors will not slam shut.
 
 ===Hunt===
-During a [[hunt]], the Yurei is the only ghost that can close doors (outside of the special door detection), and its door interactions are faster than with other ghosts.
+During a [[hunt]], a Yurei's door interactions are faster than with other ghosts, using a force between 1.6 and 2.4 instead of between 1.3 and 1.5.<ref group="note">This is currently bugged and the Yurei's door interactions during hunts will be slower than with other ghosts.</ref>
+
+The Yurei is the only ghost that can close doors during a hunt, outside of the [[Hunt#Hiding behind opened room doors|special door detection]].
 
 ==Evidence==
 <center>
@@ -52,9 +58,17 @@ These are the strengths and weaknesses as listed in the [[journal]]:
 ''Weakness: Smudging the '''Yurei's''' place of death will trap it temporarily, reducing how much it wanders.''
 
 ==Strategies ==
-Keeping doors open at a 45° angle near the ghost will help one to observe how it interacts with doors. Outside of hunts, a ghost not opening or closing a door fully will immediately rule out the Yurei. Keep in mind that all ghosts can open and close doors completely in a smooth way; a door closing completely from a completely opened state does not guarantee it was a Yurei's ability.
+Keeping doors completely opened or closed near the ghost will help one to observe how it interacts with doors. Outside of hunts, a ghost not opening or closing a door fully will immediately rule out the Yurei. Keep in mind that all ghosts can open and close doors completely.
 
-If the Yurei refrains from using its ability, one can look out for its weakness with [[Incense]] once its favourite room is found: use it on the ghost, then set up [[Motion Sensor]]s at the room's doorways. If the ghost passes through the sensors and exits the room (without having performed a ghost event to do so) or enters a D.O.T.S state within 90 seconds of it being affected by the Incense, then it is not a Yurei. In the case where the ghost performs a ghost event outside the favourite room, the Yurei can be eliminated if the ghost roams away from the favourite room after the end of the event.
+Witnessing a door being forcefully slammed shut definitively confirms a Yurei. So is hearing the creaking sound, as this sound is currently bugged for all ghosts except the Yurei.
+
+Another way to confirm the Yurei is by checking if a door's opening/closing animation can be stopped either by grabbing the door or by placing an obstacle on the door's way. If the animation cannot be stopped, it is a Yurei. Otherwise, it is not a Yurei.
+
+During a hunt, if the ghost ever closes a door, it is a Yurei. There are two exceptions to this rule:
+*When a player is detected near an opened door, all ghosts will be able to close said door.
+*Due to bugs, some doors may open in the wrong direction and end up visually closing.
+
+Finally, one can look out for a Yurei's weakness with [[Incense]] once its favourite room is found: use it on the ghost, then set up [[Motion Sensor]]s at the room's doorways. If the ghost passes through the sensors and exits the room (without having performed a ghost event to do so) or enters a D.O.T.S state within 90 seconds of it being affected by the Incense, then it is not a Yurei. In the case where the ghost performs a ghost event outside the favourite room, the Yurei can be eliminated if the ghost roams away from the favourite room after the end of the event.
 
 ==Trivia==
 *''Yūrei'' (meaning "dim spirit" or "faint spirit") is a general term for ghosts or spirits in Japanese. ''Yūrei'' can be motivated by a wide range of emotions relating to their death (or last thought when dying) that can range from benevolent (caring for children, handing out sweets, etc.) to malevolent (getting revenge, making others suffer, etc.). ''Yūrei'' contain a range of sub categories of ghosts including ''Onryō'' and ''Goryō''. The appearance of a ''Yūrei'' can vary just as much as its purpose, some are indistinguishable from normal people while others can resemble horrific monsters.

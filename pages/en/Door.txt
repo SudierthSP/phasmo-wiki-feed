@@ -1,7 +1,7 @@
 # Door
-# revid 25406  2026-11-26T18:46:42Z  by Darkhooper
-# 备注: 0.20
-# sha256 dfbdc92123f64ee62ccf1d79007d0245397e3e28616e5a23786f3376434d3d62  bytes 6242
+# revid 25410  2026-11-27T01:02:37Z  by Darkhooper
+# 备注: correction
+# sha256 5f73dc2a90f88397b1c315a59cea30d26b609ac5f6c38618f25f33e1544296bd  bytes 6565
 # 源: https://phasmophobia.fandom.com/api.php
 
 '''Doors''' are map elements that play an important role in ''Phasmophobia''. They are crucial to the game's mechanics and provide help during investigations.
@@ -52,17 +52,19 @@ After the game calculates how many doors will be opened, rounded up to the neare
 
 ===Door interaction===
 When [[Interaction|interacting]] with a door, ghosts have a 85% chance to shake the door (when not a tent door) before the actual interaction in one of the three following ways:
-*<u>Opening or closing</u> (70% chance)
-**This has a 100% chance instead if a player is within 1 metre of the door.
+*<u>Slow move</u> (70% chance)
+**For hinged doors, a force between 0.01 and 0.05 will be applied.
+**For sliding doors, a force between 1 and 2 will be applied.
 **For tent doors, a force between 0.5 and 0.7 will be applied (force of 10 instead if it is a [[Yurei]]).
-*<u>Opening or closing with a creaking sound</u> (15% chance)
-**For tent doors, a force between 0.1 and 0.2 will be applied instead.
-*<u>Strong slam</u> (15% chance)
-**For tent doors, a force of 10 will be applied instead of closing them.
+*<u>Strong move</u> (15% chance)
+**A force of 10 will be applied.
+*<u>Slow move with creaking</u> (15% chance)
+**The creaking sound will not play if a player is within 1 metre of the door.<ref group="note">This is currently bugged and the creaking sound will never play at all, unless the ghost is a Yurei.</ref>
+**A force between 0.1 and 0.2 will be applied.
 
-If a door is closed, the interaction will open it. If a door is opened, the interaction will close it. During the door's movement, if there is an obstacle on its way (such as an object or a player) or if the player grabs the door, the movement will end prematurely.
+If a door is fully closed or fully opened, the interaction will open it or close it, respectively. If the door is in between, it will be a 50/50 between opening and closing. During the door's movement, if there is an obstacle on its way (such as an object or a player) or if the player grabs the door, the movement will end prematurely.
 
-When the ghost interacts with a door that is linked to a second door (e.g. most closet doors), the ghost will have a 33% chance to immediately interact with this second door.
+When the ghost interacts with a door that is linked to a second door (e.g. most closet doors) via the strong move or the slow move with creaking, the ghost will have a 33% chance to immediately interact with this second door.
 
 Ghosts cannot interact with doors that are being held by a player. There are two exceptions, both during a [[hunt]]:
 *Ghosts will forcefully open a hiding spot door if a player has been detected inside a closet/locker.
@@ -82,6 +84,9 @@ Recording a moving door with a [[Video Camera]] will create a '''Door Moved''' v
 
 ==Trivia==
 *Players used to be able to pull most doors off of their hinges by walking into them from a certain angle. While it did not prevent the ghost from opening or closing them, this glitch could be abused in order to go through walls or go out of bounds, such as going onto the roof of 6 Tanglewood Drive by using the locker doors in the garage. This has been fixed in [[0.11.0]].
+
+==Notes==
+{{Reflist|group="note"}}
 {{MapFeatureNav}}
 [[Category:Map Features]]
 [[fr:Porte]]
