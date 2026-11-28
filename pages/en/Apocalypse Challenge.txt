@@ -1,6 +1,7 @@
 # Apocalypse Challenge
-# revid 24362  2026-07-30T03:24:55Z  by 405 M3th0d
-# sha256 5388262d5d3df27df85be0d70d11c8593515913d9b151324414bd6e9d4f0c3e6  bytes 1970
+# revid 25419  2026-11-27T23:37:32Z  by Darkhooper
+# 备注: Obake Shapeshift should now count per the 0.20 patch notes
+# sha256 39b880f12c81392c5bbfb6c3f430e7d527d3a1c341ae725e19725185b09eb401  bytes 1988
 # 源: https://phasmophobia.fandom.com/api.php
 
 The '''Apocalypse Challenge''' is a special in-game challenge. The challenge is permanent and will exist indefinitely.
@@ -27,6 +28,7 @@ The valid media to complete the challenge are:
 *Mist Form
 *[[D.O.T.S. Projector (Evidence)|D.O.T.S.]] Ghost
 |
+*Ghost Shapeshift
 *Hunting Ghost
 *Ghost
 *Shadow Ghost

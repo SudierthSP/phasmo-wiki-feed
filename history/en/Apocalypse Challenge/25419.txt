@@ -1,0 +1,77 @@
+# Apocalypse Challenge
+# revid 25419  2026-11-27T23:37:32Z  by Darkhooper
+# 备注: Obake Shapeshift should now count per the 0.20 patch notes
+# sha256 39b880f12c81392c5bbfb6c3f430e7d527d3a1c341ae725e19725185b09eb401  bytes 1988
+# 源: https://phasmophobia.fandom.com/api.php
+
+The '''Apocalypse Challenge''' is a special in-game challenge. The challenge is permanent and will exist indefinitely.
+
+==Details==
+The requirements for the challenge are as follows:
+*Play in a high [[difficulty]] (see below)
+*Play in Singleplayer on [[Sunny Meadows Mental Institution|Sunny Meadows]]
+*Complete all 3 optional [[objectives]]
+*Capture a ghost [[media]]
+*Correctly identify the [[ghost]] type
+*Survive the investigation
+
+The valid media to complete the challenge are:
+{| class="article-table
+!Photo
+!Video
+!Sound
+|-
+|
+*Ghost
+*Shadow Ghost
+*Translucent Ghost
+*Mist Form
+*[[D.O.T.S. Projector (Evidence)|D.O.T.S.]] Ghost
+|
+*Ghost Shapeshift
+*Hunting Ghost
+*Ghost
+*Shadow Ghost
+*Translucent Ghost
+*Mist Form
+*D.O.T.S. Ghost
+|
+*Hunting Ghost
+*Ghost Event
+*Mist Form
+*Paranormal Groaning
+*Paranormal Laughing
+*Paranormal Talking
+*Paranormal Whisper
+*Paranormal Breathing
+*Paranormal Scream
+|}
+
+===Rewards===
+Trophies and [[ID_Card#Special_Badges|ID card badges]] will be awarded based on the difficulty multiplier:
+*6x multiplier or higher: Bronze trophy, Apocalypse Adept badge
+*10x multiplier or higher: Silver trophy, Apocalypse Master badge
+*15x multiplier: Gold trophy, Apocalypse Legend badge
+
+Completing a higher multiplier will automatically reward the badges from the lower multipliers; all three badges can be obtained within the same 15x multiplier contract. The awarded trophy will be displayed in the [[lobby]] and automatically upgraded when a higher multiplier is completed.
+
+==History==
+{| class="fandom-table"
+! colspan="2" |Early Access
+|-
+![[0.7.0.3]]
+|Added the Apocalypse Challenge.
+|-
+![[0.8.1.0]]
+|Adjusted Apocalypse Challenge multiplier requirements:
+*Bronze: 6x+ (instead of 15x+)
+*Silver: 10x+ (instead of 20x+)
+*Gold: 15x (instead of 24x)
+|-
+![[0.18.0]]
+|You can now capture any (ghost) Media for the Apocalypse challenge, instead of only a photo.
+|}
+
+[[ru:Испытание «Апокалипсис»]]
+[[Category:Gameplay]]
+[[fr:Défi Apocalypse]]

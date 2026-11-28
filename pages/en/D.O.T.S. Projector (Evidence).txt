@@ -1,7 +1,7 @@
 # D.O.T.S. Projector (Evidence)
-# revid 25416  2026-11-27T17:13:21Z  by Darkhooper
-# 备注: Fav Room DOTS minimum distance
-# sha256 2a9d0d55404d12753e0beeed958dbaa75a2adf098867bf85a1b4fa3cba6384a0  bytes 5643
+# revid 25417  2026-11-27T23:24:45Z  by Darkhooper
+# 备注: the 150% limit for pathing distance has been removed for DOTS
+# sha256 26cb3bdb5040f3611df835e86c03d06c51f751f6af4ea4d5e9961486b85cd74b  bytes 5549
 # 源: https://phasmophobia.fandom.com/api.php
 
 {{Evidence_Infobox
@@ -19,7 +19,7 @@ Ghosts with D.O.T.S. evidence will occasionally enter a "D.O.T.S. state" when tr
 *walk towards a random waypoint within the [[Ghost Room|favourite room]] (at least 0.5 metres away from the ghost) if there is no player in the same room as the ghost
 *walk towards the nearest player by direct distance if there is a player in the same room as the ghost
 
-The D.O.T.S. state will fail and force the ghost back into the idle state if the pathing distance to the waypoint is strictly greater than 150% of the direct distance, if the waypoint is located on another floor unless the ghost's current room allows it to roam to another floor, or if the waypoint is located two or more floors away from the favourite room.
+The D.O.T.S. state will fail and force the ghost back into the idle state if the waypoint is located on another floor unless the ghost's current room allows it to roam to another floor, or if the waypoint is located two or more floors away from the favourite room.
 
 The D.O.T.S. state lasts a maximum of 4 seconds. If after that duration the ghost still hasn't reached its waypoint, it will finish the pathing while in idle state.
 

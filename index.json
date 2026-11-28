@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T22:26:06.006Z",
+  "generated": "2026-11-28T04:03:35.719Z",
   "counts": {
     "en": 324,
     "zh": 288
@@ -723,8 +723,8 @@
       {
         "t": "D.O.T.S. Projector (Evidence)",
         "f": "pages/en/D.O.T.S. Projector (Evidence).txt",
-        "b": 5901,
-        "r": 25416,
+        "b": 5838,
+        "r": 25417,
         "x": "{{Evidence_Infobox |title1=D.O.T.S Projector |image1=[[File:DOTS090_animation_videocamera.gif]] |detected_by=[[D.O.T.S. Projector]] |caption1=A ghostly sillhouette appearing on the video feed with Night Vision. }}{{Quote"
       },
       {
@@ -1290,8 +1290,8 @@
       {
         "t": "Apocalypse Challenge",
         "f": "pages/en/Apocalypse Challenge.txt",
-        "b": 2178,
-        "r": 24362,
+        "b": 2265,
+        "r": 25419,
         "x": "The '''Apocalypse Challenge''' is a special in-game challenge. The challenge is permanent and will exist indefinitely. ==Details== The requirements for the challenge are as follows: *Play in a high [[difficulty]] (see be"
       },
       {
@@ -2067,8 +2067,8 @@
       {
         "t": "Gallu",
         "f": "pages/en/Gallu.txt",
-        "b": 6507,
-        "r": 25129,
+        "b": 6247,
+        "r": 25418,
         "x": "{{Ghost |image1= |strength=*More aggressive after protective equipment has been used |weakness(es)=*Less aggressive after a hunt |Evidence1=[[File:EMFReader_Render.png|24x24px|alt=EMF Level 5|link=EMF Level 5]] |Evidence"
       },
       {

@@ -1,6 +1,6 @@
 {
   "fmt": 2,
-  "updated": "2026-11-27T22:26:06.396Z",
+  "updated": "2026-11-28T04:03:36.147Z",
   "api": "https://phasmophobia.fandom.com/api.php",
   "pageCount": 381,
   "redirectCount": 57,
@@ -596,8 +596,8 @@
       "redirect": false
     },
     "D.O.T.S. Projector (Evidence)": {
-      "revid": 25416,
-      "ts": "2026-11-27T17:13:21Z",
+      "revid": 25417,
+      "ts": "2026-11-27T23:24:45Z",
       "redirect": false
     },
     "0.3.1.0": {
@@ -1046,8 +1046,8 @@
       "redirect": false
     },
     "Apocalypse Challenge": {
-      "revid": 24362,
-      "ts": "2026-07-30T03:24:55Z",
+      "revid": 25419,
+      "ts": "2026-11-27T23:37:32Z",
       "redirect": false
     },
     "Shop": {
@@ -1751,8 +1751,8 @@
       "redirect": false
     },
     "Gallu": {
-      "revid": 25129,
-      "ts": "2026-10-23T14:45:56Z",
+      "revid": 25418,
+      "ts": "2026-11-27T23:35:44Z",
       "redirect": false
     },
     "D.O.T.S Projector (Evidence)": {
